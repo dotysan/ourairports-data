@@ -16002,6 +16002,7 @@
 594926,"BR-3250","small_airport","Agropecuária Proteção Airstrip",-32.12129,-52.41537,16,"SA","BR","BR-RS","Siola","no",,,,,,,
 594927,"BR-3251","small_airport","Cancha da Coxilha Airstrip",-32.08169,-52.30094,46,"SA","BR","BR-RS","Povo Novo","no",,,,,,,
 594928,"BR-3252","small_airport","Granja Mangueira Agropecuária Airstrip",-31.61955,-52.28224,72,"SA","BR","BR-RS","Vila Princesa","no",,,,,,,
+595492,"BR-3253","small_airport","Boca da Mata Airstrip",4.34121,-61.13434,1427,"SA","BR","BR-RR","Boca da Mata","no",,,,,,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -16054,7 +16055,7 @@
 317670,"BW-0016","small_airport","Khutse Airport",-23.35592,24.6036,3315,"AF","BW","BW-KW","Khutse","no",,,,,,,"FB32, Khutsi"
 317671,"BW-0017","small_airport","Khwai North Airport",-19.041,23.8339,3090,"AF","BW","BW-NW",,"no",,,,,,,
 317691,"BW-0018","small_airport","Ncamasere Airport",-18.569,21.9862,3265,"AF","BW","BW-NW","Ncamasere","no",,,,,,,
-317692,"BW-0019","small_airport","Etsha Airport",-19.113219,22.261864,3205,"AF","BW","BW-NW","Etsha","no",,,,,,,
+317692,"BW-0019","closed","Etsha Airport",-19.113219,22.261864,3205,"AF","BW","BW-NW","Etsha","no",,,,,,,
 326990,"BW-0020","closed","Alpha Airfield",-25.198058,25.721603,3798,"AF","BW","BW-LO","Lobatse","no",,,,,,,"FBAL, FBAL"
 317704,"BW-0021","small_airport","Arizona Airport",-22.6036,28.2897,2440,"AF","BW","BW-CE","Arizona Farm","no",,,,,,,"FB02, 6184"
 317705,"BW-0022","small_airport","Big Game Airport",-26.326,22.0946,3180,"AF","BW","BW-KG","Big Game","no",,,,,,,
@@ -16073,15 +16074,15 @@
 318385,"BW-0035","small_airport","New Xade Airport",-22.114649,22.408025,,"AF","BW","BW-GH","New Xade","no",,,,,,,
 318386,"BW-0036","small_airport","Matsieng Airstrip",-24.357132,26.090237,,"AF","BW","BW-KL","Rasesa","no",,,"FBMA",,,"https://en.wikipedia.org/wiki/Matsieng_Air_Strip",
 318408,"BW-0037","small_airport","Ncojane Airport",-23.140243,20.287681,,"AF","BW","BW-GH","Ncojane","no",,,,,,,
-318409,"BW-0038","small_airport","Rann Airport",-19.658743,22.955112,,"AF","BW","BW-NW",,"no",,,,,,,
-318410,"BW-0039","small_airport","Sanctuary Stanley Airport",-19.626272,23.279398,,"AF","BW","BW-NW",,"no",,,,,,,
-318411,"BW-0040","small_airport","Ketumetse Airport",-18.771248,23.041275,,"AF","BW","BW-NW",,"no",,,,,,,
-318412,"BW-0041","small_airport","Mapula Airport",-18.787656,22.829697,,"AF","BW","BW-NW",,"no",,,,,,,
-318413,"BW-0042","small_airport","Nxabega Safari Airport",-19.464174,22.777865,,"AF","BW","BW-NW",,"no",,,,,,,
+318409,"BW-0038","small_airport","Rann Airport",-19.658743,22.955112,,"AF","BW","BW-NW","Macatoo Camp","no",,,,,,,
+318410,"BW-0039","small_airport","Sanctuary Stanley Airport",-19.626272,23.279398,,"AF","BW","BW-NW","Sanctuary Stanley's Camp","no",,,,,,,
+318411,"BW-0040","small_airport","Motswiri Airstrip",-18.771248,23.041275,3159,"AF","BW","BW-NW","Motswiri Camp","no",,,,,,,
+318412,"BW-0041","small_airport","Mapula Airport",-18.787656,22.829697,,"AF","BW","BW-NW","Kashiambaras","no",,,,,,,
+318413,"BW-0042","small_airport","Nxabega Safari Airport",-19.464174,22.777865,,"AF","BW","BW-NW","Nxabega","no",,,,,,,
 318466,"BW-0043","small_airport","Masame Airport",-19.329429,24.841567,,"AF","BW","BW-NW","Masame","no",,,,,,,
 318467,"BW-0044","small_airport","Elephant Sands Airport",-19.746877,26.070069,,"AF","BW","BW-CE","Nata","no",,,,,,,
 318471,"BW-0045","small_airport","Xhumaga Airport",-20.431797,24.458519,,"AF","BW","BW-CE","Xhumaga","no",,,,,,,
-318472,"BW-0046","small_airport","Xamaxai Airport",-18.878912,22.713563,,"AF","BW","BW-NW",,"no",,,,,,,
+318472,"BW-0046","small_airport","Xamaxai Airport",-18.878912,22.713563,3192,"AF","BW","BW-NW","Kashiambaras","no",,,,,,,
 318519,"BW-0047","small_airport","Kanana Farm Airport",-21.627363,21.390602,3905,"AF","BW","BW-GH","Kanana Farm","no",,,,"FBKN",,,
 318822,"BW-0048","small_airport","Selinda Old Airport",-18.566713,23.511192,,"AF","BW","BW-NW","Selinda","no",,,,,,,
 318997,"BW-0049","small_airport","Jackalas 1 Airport",-20.55728,27.695399,,"AF","BW","BW-NE","Jackalas 1","no",,,,,,,
@@ -16102,6 +16103,12 @@
 31074,"BW-0064","closed","Rakops Airport",-21,24.333,3000,"AF","BW","BW-CE","Rakops","no",,,,,,"https://en.wikipedia.org/wiki/Rakops_Airport","FBRK, FBRK"
 31075,"BW-0065","closed","Serowe Airport",-22.4232997894,26.7567005157,3800,"AF","BW","BW-CE","Serowe","no",,,,,,,"FBSR, FBSR"
 31077,"BW-0066","closed","Tshane Airport",-24.0170001984,21.8829994202,3700,"AF","BW","BW-KG","Tshane","no",,,,,,,"FBTE, FBTE"
+595496,"BW-0067","small_airport","Lebala Airstrip",-18.43366,23.52996,3114,"AF","BW","BW-NW","Lebala Camp","no",,,,,,,
+595497,"BW-0068","small_airport","Kadizora Airstrip",-18.90247,22.59433,3209,"AF","BW","BW-NW","Nwanaeanoka","no",,,,,,,
+595499,"BW-0069","small_airport","Mopiri Airstrip",-19.09778,22.36718,3203,"AF","BW","BW-NW","Etsha","no",,,,,,,
+595503,"BW-0070","small_airport","Matsaudi Airstrip",-19.86015,23.5993,3104,"AF","BW","BW-NW","Sapakanes","no",,,,,,,
+595504,"BW-0071","small_airport","Kiri-Waka Airstrip",-19.776683,23.221215,3110,"AF","BW","BW-NW","Kiri-Waka","no",,,,,,,
+595524,"BW-0072","small_airport","Leopard Plains Airstrip",-20.18091,24.16769,3068,"AF","BW","BW-NW","Motopi","no",,,,,,,
 31654,"BW-HUK","small_airport","Hukuntsi Airport",-23.9897,21.758101,3720,"AF","BW","BW-KG","Hukuntsi","no",,"HUK","FBHK",,,"https://en.wikipedia.org/wiki/Hukuntsi_Airport","FB24"
 301800,"BWJ","small_airport","Bawan Airport",-6.396944444440001,146.881666667,4700,"OC","PG","PG-MPL",,"no",,"BWJ",,"BWN",,,
 302394,"BXL","seaplane_base","Blue Lagoon Seaplane Base",-16.943,177.368,0,"OC","FJ","FJ-W","Nanuya Lailai Island","no",,"BXL",,,,,
@@ -16519,7 +16526,7 @@
 39938,"CA-0292","closed","Port Eliza Airport",49.88333511352539,-127.1500015258789,,"NA","CA","CA-BC",,"no",,,,,,,
 39939,"CA-0293","closed","Port Radium Airstrip",66.103,-117.9347,639,"NA","CA","CA-NT","Port Radium","no",,,,,,,"YIX, YIX"
 39940,"CA-0294","closed","Port-Cartier Airport",50.049999,-66.883331,280,"NA","CA","CA-QC",,"no",,,,,,,"SA3, SA3"
-39941,"CA-0295","closed","Pottageville Airport",44,-79.633331,,"NA","CA","CA-ON","Kettleby","no",,,,,,,
+39941,"CA-0295","closed","Pottageville Airport",43.994052,-79.640708,,"NA","CA","CA-ON","Kettleby","no",,,,,,,
 39942,"CA-0296","closed","Kencor Airport",50.91669845581055,-114.26699829101562,,"NA","CA","CA-AB","Priddis","no",,,,,,,
 39943,"CA-0297","small_airport","Primrose Airport",55.390002,-111.1198,2307,"NA","CA","CA-AB","Primrose","no",,"PFM","CFN6","CFN6",,"https://en.wikipedia.org/wiki/Primrose_Aerodrome","FN6"
 39944,"CA-0298","closed","Princess Airport",50.685471,-111.531353,,"NA","CA","CA-AB","Princess","no",,,,,,,
@@ -17399,6 +17406,9 @@
 354379,"CA-1172","small_airport","Penfold Airstrip",52.767722,-120.749134,3642,"NA","CA","CA-BC",,"no",,,,"CYWB",,,"CYWB"
 594412,"CA-1173","closed","Vernon Airport",45.126803,-75.468993,,"NA","CA","CA-ON","Ottawa","no",,,,,,,
 595079,"CA-1174","closed","Beaver Mines Airstrip",49.46436,-114.17937,4167,"NA","CA","CA-AB","Beaver Mines","no",,,,,,,
+595488,"CA-1175","heliport","Vaughan Smart Centres Helipad",43.796453,-79.539267,,"NA","CA","CA-ON","Vaughan","no",,,,,,,
+595489,"CA-1176","heliport","Eagle's Nest Golf Club Helipad",43.866408,-79.492258,,"NA","CA","CA-ON","Maple","no",,,,,,,
+595507,"CA-1177","heliport","York Region EMS HQ Helipad",44.081187,-79.396305,,"NA","CA","CA-U-A","Sharon","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -19240,7 +19250,7 @@
 507438,"CN-0358","small_airport","Fuling Airfield",29.659301,107.254987,,"AS","CN","CN-50","Fuling","no",,,,,,,
 355952,"CN-0359","small_airport","Zhaosu Tianma Airport",43.088477,81.223013,,"AS","CN","CN-65","Zhaosu","yes",,"ZFL","ZWZS",,,"https://en.wikipedia.org/wiki/Zhaosu_Tianma_Airport",
 355960,"CN-0360","small_airport","Urad Front Banner Gongmiaozi Airport",40.614366,108.998835,3369,"AS","CN","CN-15","Urad Front Banner","no",,,,,,,"Ulashan, ZULL"
-355962,"CN-0361","small_airport","Dengkou General Aviation Airport",40.302832,107.010698,3458,"AS","CN","CN-15","Bayannur","no",,,"ZBMV",,,,
+355962,"CN-0361","small_airport","Dengkou General Aviation Airport",40.302832,107.010698,3458,"AS","CN","CN-15","Bayannur","no","ZBMV",,"ZBMV",,,,
 355963,"CN-0362","small_airport","Yinchuan Yueyahu Airport",38.588095,106.539788,3727,"AS","CN","CN-64","Yinchuan","no",,"YEH",,,,,
 355969,"CN-0363","small_airport","Shuangchengzi North Airfield",40.5392,100.0185,3701,"AS","CN","CN-62","Jiuquan (Jinta)","no",,,,,,,
 355970,"CN-0364","small_airport","Gaotai Airport",39.41188,99.77868,4403,"AS","CN","CN-62","Zhangye (Gaotai)","no",,,,,,,
@@ -19763,7 +19773,7 @@
 1427,"CPL3","small_airport","Kars / Rideau Valley Air Park",45.103062065299994,-75.6281661987,286,"NA","CA","CA-ON","Kars","no",,,"CPL3","CPL3","http://rvss.ca/","https://en.wikipedia.org/wiki/Kars/Rideau_Valley_Air_Park","PL3"
 1428,"CPL4","small_airport","Grand Bend Airport",43.28689956665039,-81.71420288085938,642,"NA","CA","CA-ON","Grand Bend","no",,,"CPL4","CPL4",,"https://en.wikipedia.org/wiki/Grand_Bend_Airport","PL4"
 316996,"CPL6","small_airport","Parkland Airport",53.474102,-113.824282,2324,"NA","CA","CA-AB","Spruce Grove","no",,,"CPL6",,,"https://en.wikipedia.org/wiki/Parkland_Airport",
-1431,"CPL8","heliport","Cardinal Couriers Heliport",43.631272,-79.664703,612,"NA","CA","CA-ON","Toronto","no",,,"CPL8","CPL8",,,
+1431,"CPL8","closed","Cardinal Couriers Heliport",43.631272,-79.664703,612,"NA","CA","CA-ON","Toronto","no",,,,,,,"CPL8"
 307613,"CPM3","small_airport","Pourvoirie Mirage Aerodrome",53.8025,-72.841389,1300,"NA","CA","CA-QC","Mirage Lodge","no",,,"CPM3",,,"https://en.wikipedia.org/wiki/Pourvoirie_Mirage_Aerodrome",
 1433,"CPM5","small_airport","Volk Airport",43.993803,-79.778445,1020,"NA","CA","CA-ON","Tottenham","no",,,"CPM5","CPM5",,"https://en.wikipedia.org/wiki/Tottenham/Volk_Airport","PM5"
 1434,"CPM7","small_airport","Bradford Aerodrome",44.135971,-79.628688,973,"NA","CA","CA-ON","Bradford West Gwillimbury","no",,,"CPM7","CPM7",,"https://en.wikipedia.org/wiki/Bradford_Airport","PM7"
@@ -20789,7 +20799,7 @@
 1988,"CYYW","medium_airport","Armstrong Airport",50.29029846191406,-88.90969848632812,1058,"NA","CA","CA-ON","Armstrong","no","CYYW","YYW","CYYW",,,"https://en.wikipedia.org/wiki/Armstrong_Airport",
 1989,"CYYY","medium_airport","Mont Joli Airport",48.60860061645508,-68.20809936523438,172,"NA","CA","CA-QC","Mont-Joli","yes","CYYY","YYY","CYYY",,,"https://en.wikipedia.org/wiki/Mont-Joli_Airport",
 1990,"CYYZ","large_airport","Toronto Lester B. Pearson International Airport",43.6772,-79.6306,569,"NA","CA","CA-ON","Toronto","yes","CYYZ","YYZ","CYYZ","YYZ","http://www.gtaa.com/","https://en.wikipedia.org/wiki/Toronto_Pearson_International_Airport","YTO, Toronto International Airport, Malton"
-1991,"CYZD","medium_airport","Downsview Airport",43.7425,-79.465599,652,"NA","CA","CA-ON","North York","no",,,"CYZD",,,"https://en.wikipedia.org/wiki/Toronto/Downsview_Airport","YZD"
+1991,"CYZD","closed","Downsview Airport",43.7425,-79.465599,652,"NA","CA","CA-ON","North York","no",,,,,,"https://en.wikipedia.org/wiki/Toronto/Downsview_Airport","YZD, CYZD"
 1992,"CYZE","medium_airport","Gore Bay Manitoulin Airport",45.8853,-82.567802,623,"NA","CA","CA-ON","Gore Bay","no","CYZE","YZE","CYZE",,,"https://en.wikipedia.org/wiki/Gore_Bay-Manitoulin_Airport",
 1993,"CYZF","medium_airport","Yellowknife International Airport",62.462799,-114.440002,675,"NA","CA","CA-NT","Yellowknife","yes","CYZF","YZF","CYZF",,,"https://en.wikipedia.org/wiki/Yellowknife_Airport",
 1994,"CYZG","small_airport","Salluit Airport",62.179401,-75.667198,743,"NA","CA","CA-QC","Salluit","yes","CYZG","YZG","CYZG",,,"https://en.wikipedia.org/wiki/Salluit_Airport",
@@ -25029,7 +25039,7 @@
 29907,"FAGO","small_airport","Gowrie Airport",-24.737165303599998,31.5602874756,1200,"AF","ZA","ZA-MP",,"no",,,"FAGO",,,,
 2785,"FAGR","small_airport","Graaff Reinet Airport",-32.193599700927734,24.541400909423828,2604,"AF","ZA","ZA-EC","Graaff-Reinet","no",,,"FAGR",,,,
 2786,"FAGT","small_airport","Grahamstown Airport",-33.284698486328125,26.49810028076172,2135,"AF","ZA","ZA-EC","Grahamstown","no",,,"FAGT",,,,
-29912,"FAGV","small_airport","Gravelotte Airport",-23.91670036315918,30.700000762939453,1650,"AF","ZA","ZA-NP","Gravelotte","no",,,"FAGV",,,,
+29912,"FAGV","small_airport","Gravelotte Airport",-23.91127,30.696192,1650,"AF","ZA","ZA-NP","Gravelotte","no",,,"FAGV",,,,
 31043,"FAGW","small_airport","Magwa Airport",-31.39394187927246,29.693470001220703,1823,"AF","ZA","ZA-EC","Magwa","no",,,"FAGW",,,,
 2787,"FAGY","small_airport","Greytown Airport",-29.1219997406,30.586700439499996,3531,"AF","ZA","ZA-NL","Greytown","no",,,"FAGY",,,"https://en.wikipedia.org/wiki/Greytown_Airport",
 2788,"FAHA","small_airport","Harmony Airport",-28.078699111938477,26.8612003326416,4399,"AF","ZA","ZA-FS","Virginia","no",,,"FAHA",,,,
@@ -25252,10 +25262,10 @@
 317601,"FBAB","small_airport","Abu Airport",-19.4159,22.5526,3170,"AF","BW","BW-NW","Abu's Camp","no",,,"FBAB",,,,"FB00"
 317503,"FBBP","small_airport","Bottle Pan Airport",-18.7704,25.2458,3395,"AF","BW","BW-CH","Bottle Pan","no",,,"FBBP",,,,"FB04"
 317502,"FBBS","small_airport","Bokspits Airport",-26.8881,20.6921,2815,"AF","BW","BW-KG","Bokspits","no",,,"FBBS",,,,"FB03"
-317559,"FBCH","small_airport","Chobe Airport",-18.53402,23.659027,3113,"AF","BW","BW-NW",,"no",,,"FBCH",,,,"FB08"
+317559,"FBCH","small_airport","Chobe Airport",-18.534381,23.660149,3113,"AF","BW","BW-NW","Linyanti","no",,,"FBCH",,,,"FB08"
 317504,"FBCM","small_airport","Cement Airport",-19.541,22.591,3155,"AF","BW","BW-NW","Cement","no",,,"FBCM",,,,"FB05"
 31064,"FBCO","small_airport","Camp Okavango Airport",-19.131115,23.102505,3158,"AF","BW","BW-NW","Camp Okavango","no",,,"FBCO",,,"https://en.wikipedia.org/wiki/Camp_Okavango_Airport",
-317560,"FBDT","small_airport","Delta Camp Airport",-19.5323,23.0925,3140,"AF","BW","BW-NW","Delta Camp","no",,,"FBDT",,,,"FB11"
+317560,"FBDT","small_airport","Delta Camp Airport",-19.533698,23.093792,3140,"AF","BW","BW-NW","Delta Camp","no",,,"FBDT",,,,"FB11, Oddballs Camp"
 317561,"FBDV","small_airport","Deception Valley Airport",-20.9866,23.6576,3185,"AF","BW","BW-NW","Deception Valley Lodge","no",,,"FBDV",,,,"FB10"
 2860,"FBFT","medium_airport","P G Matante Intl",-21.15914,27.468545,3283,"AF","BW","BW-FR","Francistown","yes",,"FRW","FBPM",,"https://www.caab.co.bw/p-g-matante-international-airport/","https://en.wikipedia.org/wiki/Francistown_Airport","FBFT"
 317562,"FBGD","small_airport","Gundingwa Airport",-18.61649,22.915932,3165,"AF","BW","BW-NW","Gundingwa","no",,,"FBGD",,,,"FB20, Gudigwa, Gudingwa"
@@ -25273,24 +25283,24 @@
 317578,"FBJC","small_airport","Tsigaro Airport",-20.4563,25.1507,3000,"AF","BW","BW-CE","Jack's Camp","no",,,"FBJC",,,,"FB81"
 2861,"FBJW","medium_airport","Jwaneng Airport",-24.602301,24.691,3900,"AF","BW","BW-JW","Jwaneng","no","FBJW","JWA","FBJW",,,"https://en.wikipedia.org/wiki/Jwaneng_Airport",
 317659,"FBKA","small_airport","Kaa Airport",-24.330635,20.635671,3645,"AF","BW","BW-KG","Kaa","no",,,"FBKA",,,,"FB28, Kaa Pan"
-317674,"FBKD","small_airport","Kwando - Lagoon Airport",-18.209087,23.387197,3150,"AF","BW","BW-NW","Lagoon Camp","no",,,"FBKD",,,,
+317674,"FBKD","small_airport","Kwando Lagoon Airport",-18.209087,23.387197,3150,"AF","BW","BW-NW","Lagoon Camp","no",,,"FBKD",,,,
 2862,"FBKE","medium_airport","Kasane Airport",-17.832899,25.162399,3289,"AF","BW","BW-CH","Kasane","yes","FBKE","BBK","FBKE",,,"https://en.wikipedia.org/wiki/Kasane_Airport",
 30006,"FBKG","small_airport","Kang Airport",-23.677969,22.817767,3520,"AF","BW","BW-KG","Kang","no",,,"FBKG",,,"https://en.wikipedia.org/wiki/Kang_Airport",
-317673,"FBKI","small_airport","Kiri Airport",-19.616197,23.042473,3135,"AF","BW","BW-NW","Kiri Camp","no",,,"FBKI",,,,"FB34"
+317673,"FBKI","small_airport","Kiri Airport",-19.61594,23.04234,3135,"AF","BW","BW-NW","Kiri Camp","no",,,"FBKI",,,,"FB34"
 317660,"FBKK","small_airport","Kanana Airport",-19.5688,22.875575,3140,"AF","BW","BW-NW","Kanana Camp","no",,,"FBKK",,,,"FB29"
 317672,"FBKP","small_airport","Kings Pool Airport",-18.441959,23.688716,3100,"AF","BW","BW-NW","Kings Pool","no",,,"FBKP",,,,"FB33"
 31751,"FBKR","small_airport","Khwai River Lodge Airport",-19.149477,23.787937,3000,"AF","BW","BW-NW","Khwai River Lodge","no","FBKR","KHW","FBKR",,,"https://en.wikipedia.org/wiki/Khwai_River_Airport",
-317675,"FBKW","small_airport","Kwando - Lebala Airport",-18.360992,23.530495,3125,"AF","BW","BW-NW","Lebala Camp","no",,,"FBKW",,,,"FB38"
+317675,"FBKW","small_airport","Kwando Lebala Airport",-18.36099,23.53049,3125,"AF","BW","BW-NW","Lebala Camp","no",,,"FBKW",,,,"FB38"
 30008,"FBKY","small_airport","Kanye Airport",-25.049999,25.3167,4199,"AF","BW","BW-SO","Kanye","no",,,"FBKY",,,"https://en.wikipedia.org/wiki/Kanye_Airport",
 317579,"FBLL","small_airport","Limpopo-Lipadi Airport",-22.55153,28.492105,2460,"AF","BW","BW-CE","Limpopo-Lipadi","no",,,"FBLL",,,,"Zanzibar"
 313926,"FBLO","small_airport","Lobatse Airport",-25.1981,25.7139,3823,"AF","BW","BW-LO","Lobatse","no","FBLO","LOQ","FBLO",,,"https://en.wikipedia.org/wiki/Lobatse_Airport",
 31067,"FBMG","small_airport","Machaneng Airport",-23.18455,27.501029,2900,"AF","BW","BW-CE","Machaneng","no",,,"FBMG",,,"https://en.wikipedia.org/wiki/Machaneng_Airport",
-2863,"FBMN","medium_airport","Maun Airport",-19.97260093688965,23.431100845336914,3093,"AF","BW","BW-NW","Maun","yes","FBMN","MUB","FBMN",,,"https://en.wikipedia.org/wiki/Maun_Airport",
+2863,"FBMN","medium_airport","Maun Airport",-19.970491,23.431409,3093,"AF","BW","BW-NW","Maun","yes","FBMN","MUB","FBMN",,,"https://en.wikipedia.org/wiki/Maun_Airport",
 317716,"FBMU","small_airport","Mamuno Airport",-22.268095,20.031092,4155,"AF","BW","BW-GH","Mamuno","no",,,"FBMU",,,,"FB45"
 317702,"FBNB","small_airport","Nxabega Airport",-19.4902,22.789192,3155,"AF","BW","BW-NW","Nxabega","no",,,"FBNB",,,,"FB57"
 31070,"FBNN","small_airport","Nokaneng Airport",-19.6802,22.1996,3145,"AF","BW","BW-NW","Nokaneng","no",,,"FBNN",,,"https://en.wikipedia.org/wiki/Nokaneng_Airport",
 31071,"FBNT","small_airport","Nata Airport",-20.216100692749023,26.158899307250977,2690,"AF","BW","BW-CE","Nata","no",,,"FBNT",,,,
-317701,"FBNW","small_airport","Ntswi Airport",-19.52899,23.139408,3140,"AF","BW","BW-NW","Gunn's Camp","no",,,"FBNW",,,,"FB56"
+317701,"FBNW","small_airport","Moremi Crossing Airstrip",-19.52899,23.139408,3140,"AF","BW","BW-NW","Moremi Crossing","no",,,"FBNW",,,,"FB56, Ntswi, Gunn's Camp"
 317690,"FBNX","small_airport","Nxamaseri Airport",-18.5992,22.0696,3245,"AF","BW","BW-NW","Nxamaseri Lodge","no",,,"FBNX",,,,"Nxamasire"
 317603,"FBOD","small_airport","Oakdene Airport",-21.4578,21.8057,3810,"AF","BW","BW-GH","Oakdene","no",,,"FBOD",,,,"FB58"
 31073,"FBOK","small_airport","Okwa Airport",-23.083,21.882999,3500,"AF","BW","BW-GH","Okwa","no",,,"FBOK",,,"https://en.wikipedia.org/wiki/Okwa_Camp_One_Airport",
@@ -25929,7 +25939,7 @@
 4955,"FQ49","small_airport","Vila Franca do Save Airport",-21.164499282836914,34.560699462890625,98,"AF","MZ","MZ-I","Vila Franca do Save","no",,,"FQ49","FQ49",,,
 29661,"FQAG","small_airport","Angoche Airport",-16.18187,39.945217,121,"AF","MZ","MZ-N","Angoche","no","FQAG","ANO","FQAG",,,"https://en.wikipedia.org/wiki/Angoche_Airport",
 29706,"FQBI","small_airport","Bilene Airport",-25.265985,33.238598,118,"AF","MZ","MZ-G","Bilene","no",,,"FQBI",,,"https://en.wikipedia.org/wiki/Bilene_Airport",
-2970,"FQBR","medium_airport","Beira Airport",-19.79640007019043,34.90760040283203,33,"AF","MZ","MZ-S","Beira","yes","FQBR","BEW","FQBR",,,"https://en.wikipedia.org/wiki/Beira_Airport",
+2970,"FQBR","medium_airport","Beira Airport",-19.7964,34.9076,33,"AF","MZ","MZ-S","Beira","yes","FQBR","BEW","FQBR",,,"https://en.wikipedia.org/wiki/Beira_Airport",
 29811,"FQCB","small_airport","Cuamba Airport",-14.815,36.529999,1919,"AF","MZ","MZ-A","Cuamba","no","FQCB","FXO","FQCB",,,"https://en.wikipedia.org/wiki/Cuamba_Airport",
 2971,"FQCH","medium_airport","Chimoio Airport",-19.15130043029785,33.42900085449219,2287,"AF","MZ","MZ-B","Chimoio","yes","FQCH","VPY","FQCH",,,"https://en.wikipedia.org/wiki/Chimoio_Airport",
 31203,"FQFU","small_airport","Furancungo Airport",-14.918600082397461,33.628299713134766,,"AF","MZ","MZ-T","Furancungo","no",,,"FQFU",,,,
@@ -27371,8 +27381,8 @@
 30602,"FWDW","medium_airport","Dwangwa Airport",-12.517527,34.131877,1605,"AF","MW","MW-NK","Dwangwa","no","FWDW","DWA","FWDW",,,"https://en.wikipedia.org/wiki/Dwanga_Airport",
 3016,"FWKA","medium_airport","Karonga Airport",-9.953571,33.893264,1765,"AF","MW","MW-KR","Karonga","no","FWKA","KGJ","FWKA",,,"https://en.wikipedia.org/wiki/Karonga_Airport",
 3017,"FWKG","small_airport","Kasungu Airport",-13.0146,33.468601,3470,"AF","MW","MW-KS","Kasungu","no","FWKG","KBQ","FWKG",,,"https://en.wikipedia.org/wiki/Kasungu_Airport",
-3018,"FWKI","medium_airport","Lilongwe International Airport",-13.7894001007,33.78099823,4035,"AF","MW","MW-LI","Lilongwe","yes","FWKI","LLW","FWKI",,,"https://en.wikipedia.org/wiki/Lilongwe_International_Airport","FWLI, Kamuzu International Airport"
-31277,"FWKK","small_airport","Nkhota Kota Airport",-12.916999816894531,34.266998291015625,1720,"AF","MW","MW-NK","Nkhota Kota","no",,,"FWKK",,,,
+3018,"FWKI","medium_airport","Kamuzu International Airport",-13.7894,33.780998,4035,"AF","MW","MW-LI","Lumbadzi","yes","FWKI","LLW","FWKI",,,"https://en.wikipedia.org/wiki/Kamuzu_International_Airport","FWLI, Lilongwe International"
+31277,"FWKK","closed","Nkhotakota Aerodrome",-12.922915,34.281478,1720,"AF","MW","MW-NK","Nkhotakota","no",,,,,,,"FWKK"
 3019,"FWLE","small_airport","Old Lilongwe Airport",-13.9659996033,33.7018013,3722,"AF","MW","MW-LI","Lilongwe","no",,,"FWLE",,,,
 31826,"FWLK","small_airport","Likoma Island Airport",-12.079787,34.736253,1600,"AF","MW","MW-LK","Likoma Island","no","FWLK","LIX","FWLK",,,"https://en.wikipedia.org/wiki/Likoma_Airport",
 31278,"FWLP","small_airport","Lifupa Airport",-13.05,33.150002,3326,"AF","MW","MW-KS","Lifupa","no",,,"FWLP",,,"https://en.wikipedia.org/wiki/Lifupa_Airport",
@@ -27455,7 +27465,7 @@
 3027,"FYKM","medium_airport","Katima Mulilo Airport",-17.634258,24.176688,3144,"AF","NA","NA-CA","Mpacha","yes","FYKM","MPA","FYKM",,,"https://en.wikipedia.org/wiki/Katima_Mulilo_Airport","FYMP"
 345674,"FYKN","small_airport","Okonjima Airport",-20.86535,16.6403,5357,"AF","NA","NA-OD",,"no",,,"FYKN",,,,
 3028,"FYKT","medium_airport","Keetmanshoop Airport",-26.539801,18.111401,3506,"AF","NA","NA-KA","Keetmanshoop","no","FYKT","KMP","FYKT",,,"https://en.wikipedia.org/wiki/Keetmanshoop_Airport",
-29579,"FYLS","small_airport","Lianshulu Airport",-18.116495,23.39346,3143,"AF","NA","NA-CA","Lianshulu Lodge","no","FYLS","LHU","FYLS",,,,"Muneambuanas"
+29579,"FYLS","small_airport","Lianshulu Lodge Airstrip",-18.116495,23.39346,3143,"AF","NA","NA-CA","Muneambuanas","no","FYLS","LHU","FYLS",,,,"Muneambuanas"
 3029,"FYLZ","medium_airport","Luderitz Airport",-26.687400817871094,15.242899894714355,457,"AF","NA","NA-KA","Luderitz","yes","FYLZ","LUD","FYLZ",,,"https://en.wikipedia.org/wiki/L%C3%BCderitz_Airport",
 31297,"FYMB","small_airport","Meob Bay Landing Site",-24.617235,14.697224,20,"AF","NA","NA-HA","Meob Bay","no",,,"FYMB",,,,
 29592,"FYME","small_airport","Mount Etjo Airport",-21.0233001709,16.4528007507,5000,"AF","NA","NA-OD","Mount Etjo Safari Lodge","no","FYME","MJO","FYME",,,"https://en.wikipedia.org/wiki/Mount_Etjo_Airport",
@@ -45452,7 +45462,7 @@
 343548,"MV-0011","seaplane_base","Maalefushi Seaplane Base",2.31339,73.29609,,"AS","MV","MV-08","Maalefushi","no",,,,,,,
 509454,"MV-0012","small_airport","Faresmaathoda Airport",0.192647,73.196755,,"AS","MV","MV-28","Faresmaathodaa","yes",,"FMT","VRQF",,,,
 595013,"MV-0013","small_airport","Muli Airport",2.911389,73.583611,,"AS","MV","MV-12","Muli","no",,"MUM",,,,,
-351654,"MW-0001","small_airport","Chintheche Aerodrome",-11.8353,34.16446,1650,"AF","MW","MW-NB","Chintheche","no",,,,,,,
+351654,"MW-0001","small_airport","Chintheche Aerodrome",-11.8353,34.16446,1650,"AF","MW","MW-NB","Chintheche","no","FWCC",,"FWCC",,,,
 30604,"MW-0002","closed","Katumbi Airport",-10.830489,33.508844,3986,"AF","MW","MW-RU","Katumbi","no",,,,,,"https://en.wikipedia.org/wiki/Katumbi_Airport","FWKB, FWKB"
 31276,"MW-0003","closed","Dedza Airport",-14.383,34.317001,5240,"AF","MW","MW-DE","Dedza","no",,,,,,,"FWDZ, FWDZ"
 30603,"MW-0004","closed","Mangochi Airport",-14.483,35.266998,1580,"AF","MW","MW-MG","Mangochi","no",,,,,,"https://en.wikipedia.org/wiki/Mangochi_Airport","FWMG, MAI"
@@ -48230,6 +48240,8 @@
 351656,"MZ-0057","closed","Chupanga Airport",-18.0336,35.61152,123,"AF","MZ","MZ-S","Chupanga","no",,,,,,,
 351657,"MZ-0058","closed","Tambara Airport",-16.73837,34.23129,486,"AF","MZ","MZ-B","Tambara","no",,,,,,,
 351658,"MZ-0059","small_airport","Emboqui Airport",-15.60454,32.41439,1240,"AF","MZ","MZ-T","Emboqui","no",,,,,,,
+595493,"MZ-0060","closed","Nairrubi Airstrip",-13.4929,36.0764,2247,"AF","MZ","MZ-A","Nairrubi","no",,,,,,,
+595523,"MZ-0061","small_airport","Mandimba Airport",-14.33943,35.663,2549,"AF","MZ","MZ-A","Mandimba","no",,,,,,,
 32441,"MZ-TGS","small_airport","Chokwé Airport",-24.520599365234375,32.965301513671875,,"AF","MZ","MZ-G","Chokwé","no",,"TGS",,,,,
 4956,"MZBZ","large_airport","Philip S. W. Goldson International Airport",17.539951,-88.303556,15,"NA","BZ","BZ-BZ","Belize City","yes","MZBZ","BZE","MZBZ",,"http://www.pgiabelize.com/","https://en.wikipedia.org/wiki/Philip_S._W._Goldson_International_Airport","Belize International, Ladyville"
 309571,"MZE","small_airport","Manatee Airport",17.27846,-89.0238,343,"NA","BZ","BZ-CY",,"no",,"MZE",,,,"https://en.wikipedia.org/wiki/Manatee_Airport",
@@ -48460,6 +48472,7 @@
 595434,"NA-0185","small_airport","Brandberg White Lady Lodge Airfield",-21.0267,14.67952,1555,"AF","NA","NA-ER","Uis","no",,,,,,,
 595435,"NA-0186","small_airport","Onduli Ridge Airstrip",-20.67293,14.51987,2510,"AF","NA","NA-KU","Twyfelfontein","no",,,,,,,
 595436,"NA-0187","heliport","Omdel Dam Heliport",-21.89777,14.54236,883,"AF","NA","NA-ER","Henties Bay","no",,,,,,,"Omaruru Delta"
+595494,"NA-0188","small_airport","Mapulanga Airstrip",-17.86823,23.34095,3176,"AF","NA","NA-CA","Choi Village","no",,,,,,,
 22697,"NA01","small_airport","Jenson Airport",47.66830062866211,-97.00540161132812,867,"NA","US","US-ND","Reynolds","no",,,"NA01","NA01",,,
 22698,"NA02","small_airport","Saure Airport",47.704715,-97.054703,870,"NA","US","US-ND","Americus","no",,,"NA02","NA02",,,
 22699,"NA03","small_airport","Boll Brothers Airstrip",48.67250061035156,-100.85800170898438,1453,"NA","US","US-ND","Russell","no",,,"NA03","NA03",,,
@@ -53167,7 +53180,7 @@
 340582,"QA-0009","small_airport","Mesaleed Airfield",24.988976,51.50031,,"AS","QA","QA-WA","Mesaleed","no",,,,,,,
 341967,"QA-0010","heliport","Al Rayyan Air Defense Base Helipad",25.281734,51.298514,148,"AS","QA","QA-RA","Al Rayyan","no",,,,,,,
 341968,"QA-0011","heliport","Hilton Salwa Beach Helipad",24.8378,50.8583,20,"AS","QA","QA-RA","Al Rayyan","no",,,,,,,
-348687,"QA-0012","small_airport","Umm Garn Airport",25.76411,51.29276,112,"AS","QA","QA-KH","Rawdat Hawtan","no",,,,,,,
+348687,"QA-0012","small_airport","Umm Garn Airport",25.753967,51.292675,112,"AS","QA","QA-KH","Rawdat Hawtan","no",,,,,,,
 351608,"QA-0013","heliport","Halul Heliport",25.67712,52.41562,40,"AS","QA","QA-DA","Halul Island","no",,,,,,,
 351744,"QA-0014","closed","Dukhan Airport",25.40051,50.826614,3,"AS","QA","QA-SH","Dukhan","no",,,,,,,
 354525,"QA-0015","heliport","Military Helipad",24.895392,51.030442,,"AS","QA","QA-RA",,"no",,,,,,,
@@ -63828,7 +63841,7 @@
 318626,"TZ-0065","small_airport","Harbanget Airport",-3.868369,35.396409,5500,"AF","TZ","TZ-26","Harbanget","no",,,,,,,
 318627,"TZ-0066","small_airport","Haidom Airport",-4.198626,35.018655,5750,"AF","TZ","TZ-26","Haidom","no",,,"HTHY",,,,
 318628,"TZ-0067","small_airport","Ibanda Airport",-1.074975,30.51758,4300,"AF","TZ","TZ-05","Ibanda","no",,,,,,,
-318629,"TZ-0068","small_airport","Ifunda Farm Airstrip",-8.070735,35.432556,5744,"AF","TZ","TZ-04","Ifunda","no",,,,,,,
+318629,"TZ-0068","small_airport","Ifunda Farm Airstrip",-8.065451,35.430749,5744,"AF","TZ","TZ-04","Ifunda","no",,,,,,,
 318630,"TZ-0069","small_airport","Kagera Sugar Airport",-1.233641,31.327325,3830,"AF","TZ","TZ-05",,"no",,,,,,,
 318631,"TZ-0070","small_airport","Kapalagulu Airport",-5.904938,30.082868,3500,"AF","TZ","TZ-08","Kapalagulu","no",,,,,,,
 318632,"TZ-0071","small_airport","Kapenta Airport",-8.357716,32.103045,2810,"AF","TZ","TZ-20","Sumbawanga","no",,,,,,,
@@ -78958,8 +78971,8 @@
 331735,"WAFD","small_airport","Bua - Palopo Lagaligo Airport",-3.082997,120.245018,14,"AS","ID","ID-SN","Palopo","yes",,"LLO","WAFD",,,"https://en.wikipedia.org/wiki/Bua_Airport","Palopo Lagaligo"
 26769,"WAFF","medium_airport","Mutiara - SIS Al-Jufrie Airport",-0.916462,119.908647,284,"AS","ID","ID-ST","Palu","yes","WAFF","PLW","WAFF",,,"https://en.wikipedia.org/wiki/Mutiara_Airport","WAML"
 41411,"WAFJ","small_airport","Tampa Padang Airport",-2.590017,119.025051,49,"AS","ID","ID-SR","Mamuju","no","WAFJ","MJU","WAFJ",,,"https://en.wikipedia.org/wiki/Tampa_Padang_Airport","WAAJ, WAWJ"
-41440,"WAFL","small_airport","Sultan Bantilan Airport",1.123428,120.793658,17,"AS","ID","ID-ST","Toli Toli-Celebes Island","yes",,"TLI","WAFL",,,"https://en.wikipedia.org/wiki/Sultan_Bantilan_Airport","Toli Toli Airport, Lalos Airport"
-26803,"WAFM","small_airport","Andi Jemma Airport",-2.55803,120.323997,164,"AS","ID","ID-SN","Masamba","no",,"MXB","WAFM",,,"https://en.wikipedia.org/wiki/Andi_Jemma_Airport","WAWM"
+41440,"WAFL","small_airport","Sultan Bantilan Airport",1.123428,120.793658,17,"AS","ID","ID-ST","Toli Toli-Celebes Island","yes",,"TLI","WAFL",,,"https://en.wikipedia.org/wiki/Sultan_Bantilan_Airport","WAMI, Toli-Toli, Tolitoli, Lalos Airport"
+26803,"WAFM","small_airport","Andi Jemma Airport",-2.558031,120.324342,164,"AS","ID","ID-SN","Masamba","no",,"MXB","WAFM",,,"https://en.wikipedia.org/wiki/Andi_Jemma_Airport","WAWM"
 525301,"WAFN","small_airport","Seko Airport",-2.271704,119.898334,3510,"AS","ID","ID-SN",,"no",,,"WAFN",,,"https://en.wikipedia.org/wiki/Seko_Airport",
 26771,"WAFP","medium_airport","Kasiguncu Airport",-1.414121,120.659241,174,"AS","ID","ID-ST","Poso-Celebes Island","no",,"PSJ","WAFP",,,"https://en.wikipedia.org/wiki/Kasiguncu_Airport","WAMP"
 525278,"WAFS","small_airport","Sumarorong Airport",-3.150399,119.302277,3033,"AS","ID","ID-SR","Sumarorong","no",,,"WAFS",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Sumarorong",
@@ -78999,7 +79012,7 @@
 41437,"WAKT","medium_airport","Tanah Merah Airport",-6.09669,140.303521,57,"AS","ID","ID-PS","Tanah Merah","yes","WAKT","TMH","WAKT",,,"https://en.wikipedia.org/wiki/Tanah_Merah_Airport",
 32629,"WALE","small_airport","Melalan Airport",-0.203611,115.760002,330,"AS","ID","ID-KI","Melak-Borneo Island","no","WALE","GHS","WALE",,,"https://en.wikipedia.org/wiki/West_Kutai_Melalan_Airport","WRLE, West Kutai"
 26758,"WALG","small_airport","Tanjung Harapan Airport",2.835833,117.373611,20,"AS","ID","ID-KU","Tanjung Selor-Borneo Island","yes",,"TJS","WAQD",,,"https://en.wikipedia.org/wiki/Tanjung_Harapan_Airport",
-35277,"WALJ","small_airport","Datadawai Airport",0.8106,114.5306,508,"AS","ID","ID-KI","Datadawai-Borneo Island","yes","WALJ","DTD","WALJ",,,"https://en.wikipedia.org/wiki/Datadawai_Airport",
+35277,"WALJ","small_airport","Datadawai Airport",0.807028,114.529052,508,"AS","ID","ID-KI","Datadawai-Borneo Island","yes","WALJ","DTD","WALJ",,,"https://en.wikipedia.org/wiki/Datadawai_Airport",
 550612,"WALK","small_airport","Nusantara Airport (under construction)",-1.158611,116.708054,23,"AS","ID","ID-KI","Nusantara","no","WALK",,"WALK",,,"https://en.wikipedia.org/wiki/Nusantara_International_Airport",
 26760,"WALL","large_airport","Sultan Aji Muhammad Sulaiman Sepinggan International Airport",-1.268342,116.89452,12,"AS","ID","ID-KI","Balikpapan","yes","WALL","BPN","WALL",,"http://sepinggan-airport.com/","https://en.wikipedia.org/wiki/Sultan_Aji_Muhamad_Sulaiman_Airport","WRLL, Balikpapan Airport, Sepinggan Airport, Sepinggang Airfield"
 26761,"WALQ","small_airport","Muara Badak Pujangan Airport",-0.306075,117.416,49,"AS","ID","ID-KI","Muara Badak-Borneo Island","no",,,"WALQ",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Muara_Badak_Pujangan",
@@ -79055,7 +79068,7 @@
 42251,"WAPV","small_airport","Wahai Airport",-2.8114,129.484,558,"AS","ID","ID-MA","Wahai","no","WAPV","WBA","WAPV",,,,"WT56"
 525280,"WAQC","small_airport","Maratua Airport",2.19759,118.599361,43,"AS","ID","ID-KI","Maratua","no","WAQC","RTU","WAQC",,,"https://en.wikipedia.org/wiki/Maratua_Airport",
 595149,"WAQG","small_airport","Binuang Airport",3.773936,115.855914,2523,"AS","ID","ID-KU","Binuang","no",,,"WAQG",,,,"S. Tipa Pddan"
-41486,"WAQM","small_airport","Robert Atty Bessing",3.575278,116.619722,26,"AS","ID","ID-KU","Malinau","yes",,"LNU","WAQM",,,"https://en.wikipedia.org/wiki/Robert_Atty_Bessing_Airport","WRLM, WALM"
+41486,"WAQM","small_airport","Robert Atty Bessing",3.575256,116.619769,26,"AS","ID","ID-KU","Malinau","yes",,"LNU","WAQM",,,"https://en.wikipedia.org/wiki/Robert_Atty_Bessing_Airport","WRLM, WALM"
 26759,"WAQT","medium_airport","Kalimarau Airport",2.14776,117.430705,59,"AS","ID","ID-KI","Tanjung Redeb - Borneo Island","yes",,"BEJ","WAQT",,,"https://en.wikipedia.org/wiki/Kalimarau_Airport","Berau Airport, WALK, WRLK"
 595148,"WAQU","small_airport","Long Layu Airport",3.611585,115.69921,2882,"AS","ID","ID-KU","Long Layu","no",,,"WAQU",,,,
 26785,"WARA","medium_airport","Abdul Rachman Saleh Airport",-7.929099,112.714233,1726,"AS","ID","ID-JI","Malang","yes","WARA","MLG","WARA",,,"https://en.wikipedia.org/wiki/Abdul_Rachman_Saleh_Airport","WIAS, Malang, Singosari"
@@ -79103,7 +79116,7 @@
 311020,"WAWH","small_airport","Selayar - Haji Aroeppala Airport",-6.17921,120.437479,13,"AS","ID","ID-SN","Benteng","yes",,"KSR","WAWH",,,"https://en.wikipedia.org/wiki/H._Aroeppala_Airport","Haji Aroeppala, Lagaligo Airport"
 523599,"WAWN","small_airport","Arung Palakka Airport",-4.459582,120.310436,130,"AS","ID","ID-SN","Bone","no",,"APD","WAWN",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Arung_Palakka",
 505052,"WAWP","medium_airport","Sangia Nibandera Airport",-4.338158,121.524047,40,"AS","ID","ID-SG","Kolaka","yes","WAWP","KXB","WAWP",,"https://www.otban5.com/Kolaka","https://en.wikipedia.org/wiki/Sangia_Nibandera_Airport","Kolaka, Pomala"
-41396,"WAWR","small_airport","Sugimanuru Airport",-4.763298,122.566352,132,"AS","ID","ID-SG","Raha","no","WAWR","RAQ","WAWR",,,"https://en.wikipedia.org/wiki/Sugimanuru_Airport","WAAR"
+41396,"WAWR","small_airport","Sugimanuru Airport",-4.763298,122.566352,132,"AS","ID","ID-SG","Raha","no","WAWR","RAQ","WAWR",,,"https://en.wikipedia.org/wiki/Sugimanuru_Airport","WAAR, Muna"
 26804,"WAWS","small_airport","Soroako Airport",-2.530582,121.356096,1388,"AS","ID","ID-SN","Soroako","no","WAWS","SQR","WAWS",,,"https://en.wikipedia.org/wiki/Soroako_Airport","WAAS"
 26805,"WAWT","small_airport","Pongtiku Airport",-3.04474,119.821999,2884,"AS","ID","ID-SN","Makale","no",,"TTR","WAFT",,,"https://en.wikipedia.org/wiki/Pongtiku_Airport","WAAT, Tana Toraja"
 26806,"WAWW","small_airport","Haluoleo Airport",-4.08161,122.417999,538,"AS","ID","ID-SG","Kendari","yes","WAWW","KDI","WAWW",,,"https://en.wikipedia.org/wiki/Kendari_Airport","WAAU, Wolter Monginsidi Airport"
@@ -79451,7 +79464,7 @@
 41477,"WRKJ","small_airport","Mena Airport",-9.183889389038086,124.58916473388672,320,"AS","ID","ID-NT","Mena-Timor Island","no",,,"WRKJ",,,,
 41480,"WRKN","small_airport","Naikliu Airport",-9.49547004699707,123.79499816894531,60,"AS","ID","ID-NT","Naikliu-Timor Island","no",,,"WRKN",,,,
 41483,"WRLA","small_airport","Sanggata/Sangkimah Airport",0.3847,117.543,60,"AS","ID","ID-KI","Sanggata/Sangkimah","no",,"SGQ","WALA",,,"http://id.wikipedia.org/wiki/Bandar_Udara_Sangkimah","WRLA, Pertamina"
-35279,"WRLB","small_airport","Yuvai Semaring Airport",3.9028,115.6921,2540,"AS","ID","ID-KU","Long Bawan","yes",,"LBW","WAQJ",,,"https://en.wikipedia.org/wiki/Juvai_Semaring_Airport","WRLB, Juvai Semaring Airport, Yuvai Semaring, Long Bawang"
+35279,"WRLB","small_airport","Yuvai Semaring Airport",3.900495,115.690089,2540,"AS","ID","ID-KU","Long Bawan","yes",,"LBW","WAQJ",,,"https://en.wikipedia.org/wiki/Juvai_Semaring_Airport","WRLB, Juvai Semaring Airport, Yuvai Semaring, Long Bawang"
 30806,"WRLC","small_airport","LNG Badak Airport",0.121656,117.476558,49,"AS","ID","ID-KI","Bontang-Borneo Island","yes","WALC","BXT","WALC",,,"https://en.wikipedia.org/wiki/PT_Badak_Bontang_Airport","WRLC"
 35281,"WRLF","small_airport","Nunukan Airport",4.134001,117.669546,59,"AS","ID","ID-KU","Nunukan-Nunukan Island","no",,"NNX","WAQA",,,"https://en.wikipedia.org/wiki/Nunukan_Airport","WRLF, WALF"
 41484,"WRLH","small_airport","Tanah Grogot Airport",-1.885541,116.256809,17,"AS","ID","ID-KI","Tanah Grogot","no","WRLH","TNB","WRLH",,,,
@@ -82274,10 +82287,15 @@
 29669,"ZA-0339","small_airport","Arnot Power Station Airport",-25.941099,29.810301,5594,"AF","ZA","ZA-MP","Arnot Power Station","no",,,,,,,
 30453,"ZA-0340","small_airport","Baragwanath Airfield",-26.348697,27.779546,5420,"AF","ZA","ZA-GT","Hiltonia","no",,,"FASY","5407",,,"Sylerfontein, Lenasia, Westonaria"
 41189,"ZA-0341","small_airport","Dunnottar Airfield",-26.3543156175,28.466791153,5241,"AF","ZA","ZA-GT","Dunnottar","no",,,,"FADR",,,
+595525,"ZA-0342","small_airport","Gravelotte Mine Airstrip",-23.95812,30.64612,1824,"AF","ZA","ZA-NP","Gravelotte","no",,,,,,,
+595526,"ZA-0343","small_airport","Selati Airstrip",-24.01165,30.68418,1663,"AF","ZA","ZA-NP","Gravelotte","no",,,,,,,
+595527,"ZA-0344","small_airport","Mica Village Airstrip",-24.15865,30.83891,1486,"AF","ZA","ZA-NP","Gravelotte","no",,,,,,,
+595528,"ZA-0345","small_airport","Garonga Airstrip",-24.09922,30.71658,1575,"AF","ZA","ZA-NP","Phalaborwa","no",,,,,,,
+595529,"ZA-0346","small_airport","Askari Airstrip",-24.08148,30.57187,1575,"AF","ZA","ZA-NP","Tzaneen","no",,,,,,,
 31753,"ZA-KIG","small_airport","Koingnaas Airport",-30.187136,17.282706,228,"AF","ZA","ZA-NC","Koingnaas","no",,"KIG",,,,,
 27188,"ZBAA","large_airport","Beijing Capital International Airport",40.080101013183594,116.58499908447266,116,"AS","CN","CN-11","Beijing","yes","ZBAA","PEK","ZBAA",,"http://en.bcia.com.cn/","https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport","BJS, Bejing, Peking, Olympics"
 330820,"ZBAD","large_airport","Beijing Daxing International Airport",39.509945,116.41092,98,"AS","CN","CN-11","Beijing","yes","ZBAD","PKX","ZBAD",,,"https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport",
-32006,"ZBBB","medium_airport","Beijing Xijiao Airport",39.9608,116.257004,,"AS","CN","CN-11","Beijing","no",,,"ZBBB",,,"https://en.wikipedia.org/wiki/Beijing_Xijiao_Airport","BJS, Beijing City Airport"
+32006,"ZBBB","medium_airport","Beijing Xijiao Airport",39.958592,116.256765,164,"AS","CN","CN-11","Beijing","no","ZBBB",,"ZBBB",,,"https://en.wikipedia.org/wiki/Beijing_Xijiao_Airport","BJS, Beijing City Airport"
 327347,"ZBCD","medium_airport","Chengde Puning Airport",41.1225,118.073889,,"AS","CN","CN-13","Chengde","yes","ZBCD","CDE","ZBCD",,,"https://en.wikipedia.org/wiki/Chengde_Puning_Airport",
 30829,"ZBCF","medium_airport","Chifeng Yulong Airport",42.159723,118.840971,2018,"AS","CN","CN-15","Chifeng","yes","ZBCF","CIF","ZBCF",,,"https://en.wikipedia.org/wiki/Chifeng_Yulong_Airport",
 30830,"ZBCZ","small_airport","Changzhi Wangcun Airport",36.247501,113.125999,,"AS","CN","CN-14","Changzhi","yes","ZBCZ","CIH","ZBCZ",,,"https://en.wikipedia.org/wiki/Changzhi_Wangcun_Airport",
@@ -82290,7 +82308,7 @@
 27189,"ZBHH","large_airport","Hohhot Baita International Airport",40.849658,111.824598,3556,"AS","CN","CN-15","Hohhot","yes","ZBHH","HET","ZBHH",,"http://www.hhhtbtjc.com/","https://en.wikipedia.org/wiki/Hohhot_Baita_International_Airport",
 327443,"ZBHZ","medium_airport","Holingol Huolinhe Airport",45.487222,119.407222,,"AS","CN","CN-15","Holingol","yes","ZBHZ","HUO","ZBHZ",,,"https://en.wikipedia.org/wiki/Holingol_Huolinhe_Airport",
 27190,"ZBLA","medium_airport","Hulunbuir Hailar Airport",49.205002,119.824997,2169,"AS","CN","CN-15","Hailar","yes","ZBLA","HLD","ZBLA",,,"https://en.wikipedia.org/wiki/Hulunbuir_Hailar_Airport","Hailar Dongshan"
-323216,"ZBLF","medium_airport","Linfen Yaodu Airport",36.132629,111.641236,1483,"AS","CN","CN-14","Linfen (Yaodu)","yes",,"LFQ","ZBLF",,,"https://en.wikipedia.org/wiki/Linfen_Qiaoli_Airport",
+323216,"ZBLF","medium_airport","Linfen Yaodu Airport",36.132629,111.641236,1483,"AS","CN","CN-14","Linfen (Yaodu)","yes","ZBLF","LFQ","ZBLF",,,"https://en.wikipedia.org/wiki/Linfen_Qiaoli_Airport","Qiaoli"
 327444,"ZBLL","medium_airport","Lüliang Dawu Airport",37.683333,111.142778,,"AS","CN","CN-61","Lüliang","yes","ZBLL","LLV","ZBLL",,,"https://en.wikipedia.org/wiki/L%C3%BCliang_Airport",
 322165,"ZBMZ","medium_airport","Manzhouli Xijiao Airport",49.566667,117.33,2231,"AS","CN","CN-15","Manzhouli","yes","ZBMZ","NZH","ZBMZ",,,"https://en.wikipedia.org/wiki/Manzhouli_Xijiao_Airport",
 30679,"ZBOW","medium_airport","Baotou Donghe Airport",40.560001,109.997002,3321,"AS","CN","CN-15","Baotou","yes","ZBOW","BAV","ZBOW",,,"https://en.wikipedia.org/wiki/Baotou_Airport","Erliban"
