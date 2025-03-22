@@ -727,6 +727,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 354722,CN-0347,small_airport,Ganzhou Ruijin Airport,25.960236,116.077016,750,AS,CN,CN-36,Ganzhou,no,,JRJ,,,,https://en.wikipedia.org/wiki/Ganzhou_Ruijin_Airport,
 355511,CN-0354,medium_airport,Ali Pulan Airport,30.3975,81.138611,13943,AS,CN,CN-54,Burang Town,no,,APJ,ZUPL,,,https://en.wikipedia.org/wiki/Ali_Pulan_Airport,
 355952,CN-0359,small_airport,Zhaosu Tianma Airport,43.088477,81.223013,,AS,CN,CN-65,Zhaosu,yes,,ZFL,ZWZS,,,https://en.wikipedia.org/wiki/Zhaosu_Tianma_Airport,
+355962,CN-0361,small_airport,Dengkou General Aviation Airport,40.302832,107.010698,3458,AS,CN,CN-15,Bayannur,no,ZBMV,,ZBMV,,,,
 355963,CN-0362,small_airport,Yinchuan Yueyahu Airport,38.588095,106.539788,3727,AS,CN,CN-64,Yinchuan,no,,YEH,,,,,
 430023,CN-0384,small_airport,Longchuan Guangsong Airport,24.26652,97.9048,3297,AS,CN,CN-53,Dehong (Longchuan),no,,LCS,,,,,
 430024,CN-0385,small_airport,Lanping Fenghua General Airport,26.64518,99.54419,8276,AS,CN,CN-53,Lanping Bai,no,,LFH,,,,,Feng Hua
@@ -1844,7 +1845,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2862,FBKE,medium_airport,Kasane Airport,-17.832899,25.162399,3289,AF,BW,BW-CH,Kasane,yes,FBKE,BBK,FBKE,,,https://en.wikipedia.org/wiki/Kasane_Airport,
 31751,FBKR,small_airport,Khwai River Lodge Airport,-19.149477,23.787937,3000,AF,BW,BW-NW,Khwai River Lodge,no,FBKR,KHW,FBKR,,,https://en.wikipedia.org/wiki/Khwai_River_Airport,
 313926,FBLO,small_airport,Lobatse Airport,-25.1981,25.7139,3823,AF,BW,BW-LO,Lobatse,no,FBLO,LOQ,FBLO,,,https://en.wikipedia.org/wiki/Lobatse_Airport,
-2863,FBMN,medium_airport,Maun Airport,-19.97260093688965,23.431100845336914,3093,AF,BW,BW-NW,Maun,yes,FBMN,MUB,FBMN,,,https://en.wikipedia.org/wiki/Maun_Airport,
+2863,FBMN,medium_airport,Maun Airport,-19.970491,23.431409,3093,AF,BW,BW-NW,Maun,yes,FBMN,MUB,FBMN,,,https://en.wikipedia.org/wiki/Maun_Airport,
 30218,FBOR,small_airport,Orapa Airport,-21.265901,25.319667,3100,AF,BW,BW-CE,Orapa,no,FBOR,ORP,FBOR,,,https://en.wikipedia.org/wiki/Orapa_Airport,
 32191,FBPY,small_airport,Palapye Airport,-22.564087,27.136745,3000,AF,BW,BW-CE,Palapye,no,,QPH,FBPY,,,https://en.wikipedia.org/wiki/Palapye_Airport,
 2864,FBSK,large_airport,Sir Seretse Khama International Airport,-24.555201,25.9182,3299,AF,BW,BW-GA,Gaborone,yes,FBSK,GBE,FBSK,,,https://en.wikipedia.org/wiki/Sir_Seretse_Khama_International_Airport,
@@ -2088,7 +2089,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2968,FPPR,medium_airport,Principe Airport,1.66294,7.41174,591,AF,ST,ST-P,São Tomé & Príncipe,yes,FPPR,PCP,FPPR,,,https://en.wikipedia.org/wiki/Pr%C3%ADncipe_Airport,
 2969,FPST,large_airport,São Tomé International Airport,0.378175,6.71215,33,AF,ST,ST-01,São Tomé,yes,FPST,TMS,FPST,,,https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_International_Airport,
 29661,FQAG,small_airport,Angoche Airport,-16.18187,39.945217,121,AF,MZ,MZ-N,Angoche,no,FQAG,ANO,FQAG,,,https://en.wikipedia.org/wiki/Angoche_Airport,
-2970,FQBR,medium_airport,Beira Airport,-19.79640007019043,34.90760040283203,33,AF,MZ,MZ-S,Beira,yes,FQBR,BEW,FQBR,,,https://en.wikipedia.org/wiki/Beira_Airport,
+2970,FQBR,medium_airport,Beira Airport,-19.7964,34.9076,33,AF,MZ,MZ-S,Beira,yes,FQBR,BEW,FQBR,,,https://en.wikipedia.org/wiki/Beira_Airport,
 29811,FQCB,small_airport,Cuamba Airport,-14.815,36.529999,1919,AF,MZ,MZ-A,Cuamba,no,FQCB,FXO,FQCB,,,https://en.wikipedia.org/wiki/Cuamba_Airport,
 2971,FQCH,medium_airport,Chimoio Airport,-19.15130043029785,33.42900085449219,2287,AF,MZ,MZ-B,Chimoio,yes,FQCH,VPY,FQCH,,,https://en.wikipedia.org/wiki/Chimoio_Airport,
 29974,FQIA,small_airport,Inhaca Airport,-25.9971446991,32.929351806599996,10,AF,MZ,MZ-L,Inhaca,no,FQIA,IHC,FQIA,,,https://en.wikipedia.org/wiki/Inhaca_Airport,
@@ -2149,7 +2150,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30602,FWDW,medium_airport,Dwangwa Airport,-12.517527,34.131877,1605,AF,MW,MW-NK,Dwangwa,no,FWDW,DWA,FWDW,,,https://en.wikipedia.org/wiki/Dwanga_Airport,
 3016,FWKA,medium_airport,Karonga Airport,-9.953571,33.893264,1765,AF,MW,MW-KR,Karonga,no,FWKA,KGJ,FWKA,,,https://en.wikipedia.org/wiki/Karonga_Airport,
 3017,FWKG,small_airport,Kasungu Airport,-13.0146,33.468601,3470,AF,MW,MW-KS,Kasungu,no,FWKG,KBQ,FWKG,,,https://en.wikipedia.org/wiki/Kasungu_Airport,
-3018,FWKI,medium_airport,Lilongwe International Airport,-13.7894001007,33.78099823,4035,AF,MW,MW-LI,Lilongwe,yes,FWKI,LLW,FWKI,,,https://en.wikipedia.org/wiki/Lilongwe_International_Airport,"FWLI, Kamuzu International Airport"
+3018,FWKI,medium_airport,Kamuzu International Airport,-13.7894,33.780998,4035,AF,MW,MW-LI,Lumbadzi,yes,FWKI,LLW,FWKI,,,https://en.wikipedia.org/wiki/Kamuzu_International_Airport,"FWLI, Lilongwe International"
 31826,FWLK,small_airport,Likoma Island Airport,-12.079787,34.736253,1600,AF,MW,MW-LK,Likoma Island,no,FWLK,LIX,FWLK,,,https://en.wikipedia.org/wiki/Likoma_Airport,
 31998,FWMY,small_airport,Monkey Bay Airport,-14.083600044299999,34.9197006226,1580,AF,MW,MW-MG,Monkey Bay,no,FWMY,MYZ,FWMY,,,https://en.wikipedia.org/wiki/Monkey_Bay_Airport,
 31833,FWSM,small_airport,Salima Airport,-13.755893,34.584188,1688,AF,MW,MW-SA,Salima,no,FWSM,LMB,FWSM,,,https://en.wikipedia.org/wiki/Salima_Airport,"Salima, Sengabay"
@@ -2181,7 +2182,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 312737,FYKB,small_airport,Karasburg Airport,-28.0297,18.7385,3275,AF,NA,NA-KA,Karasburg,no,FYKB,KAS,FYKB,,,https://en.wikipedia.org/wiki/Karasburg_Airport,
 3027,FYKM,medium_airport,Katima Mulilo Airport,-17.634258,24.176688,3144,AF,NA,NA-CA,Mpacha,yes,FYKM,MPA,FYKM,,,https://en.wikipedia.org/wiki/Katima_Mulilo_Airport,FYMP
 3028,FYKT,medium_airport,Keetmanshoop Airport,-26.539801,18.111401,3506,AF,NA,NA-KA,Keetmanshoop,no,FYKT,KMP,FYKT,,,https://en.wikipedia.org/wiki/Keetmanshoop_Airport,
-29579,FYLS,small_airport,Lianshulu Airport,-18.116495,23.39346,3143,AF,NA,NA-CA,Lianshulu Lodge,no,FYLS,LHU,FYLS,,,,Muneambuanas
+29579,FYLS,small_airport,Lianshulu Lodge Airstrip,-18.116495,23.39346,3143,AF,NA,NA-CA,Muneambuanas,no,FYLS,LHU,FYLS,,,,Muneambuanas
 3029,FYLZ,medium_airport,Luderitz Airport,-26.687400817871094,15.242899894714355,457,AF,NA,NA-KA,Luderitz,yes,FYLZ,LUD,FYLZ,,,https://en.wikipedia.org/wiki/L%C3%BCderitz_Airport,
 29592,FYME,small_airport,Mount Etjo Airport,-21.0233001709,16.4528007507,5000,AF,NA,NA-OD,Mount Etjo Safari Lodge,no,FYME,MJO,FYME,,,https://en.wikipedia.org/wiki/Mount_Etjo_Airport,
 314120,FYMG,small_airport,Midgard Airport,-22.0106,17.37,5125,AF,NA,NA-OD,Midgard,no,FYMG,MQG,FYMG,,,,
@@ -5221,6 +5222,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4860,MUVT,medium_airport,Hermanos Ameijeiras Airport,20.9876,-76.935799,328,NA,CU,CU-10,Las Tunas,yes,MUVT,VTU,MUVT,,,https://en.wikipedia.org/wiki/Hermanos_Ameijeiras_Airport,
 509454,MV-0012,small_airport,Faresmaathoda Airport,0.192647,73.196755,,AS,MV,MV-28,Faresmaathodaa,yes,,FMT,VRQF,,,,
 595013,MV-0013,small_airport,Muli Airport,2.911389,73.583611,,AS,MV,MV-12,Muli,no,,MUM,,,,,
+351654,MW-0001,small_airport,Chintheche Aerodrome,-11.8353,34.16446,1650,AF,MW,MW-NB,Chintheche,no,FWCC,,FWCC,,,,
 4861,MWCB,medium_airport,Charles Kirkconnell International Airport,19.687,-79.882797,8,NA,KY,KY-CB,West End,yes,MWCB,CYB,MWCB,,,https://en.wikipedia.org/wiki/Gerrard_Smith_International_Airport,
 31977,MWCL,medium_airport,Edward Bodden Little Cayman Airfield,19.660161,-80.088826,3,NA,KY,KY-LC,Blossom Village,no,MWCL,LYB,MWCL,,,https://en.wikipedia.org/wiki/Edward_Bodden_Airfield,Little Cayman Airport
 4862,MWCR,large_airport,Owen Roberts International Airport,19.292801,-81.357697,8,NA,KY,KY-GC,George Town,yes,MWCR,GCM,MWCR,,,https://en.wikipedia.org/wiki/Owen_Roberts_International_Airport,"Grand Cayman, George Town"
@@ -8122,8 +8124,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 331735,WAFD,small_airport,Bua - Palopo Lagaligo Airport,-3.082997,120.245018,14,AS,ID,ID-SN,Palopo,yes,,LLO,WAFD,,,https://en.wikipedia.org/wiki/Bua_Airport,Palopo Lagaligo
 26769,WAFF,medium_airport,Mutiara - SIS Al-Jufrie Airport,-0.916462,119.908647,284,AS,ID,ID-ST,Palu,yes,WAFF,PLW,WAFF,,,https://en.wikipedia.org/wiki/Mutiara_Airport,WAML
 41411,WAFJ,small_airport,Tampa Padang Airport,-2.590017,119.025051,49,AS,ID,ID-SR,Mamuju,no,WAFJ,MJU,WAFJ,,,https://en.wikipedia.org/wiki/Tampa_Padang_Airport,"WAAJ, WAWJ"
-41440,WAFL,small_airport,Sultan Bantilan Airport,1.123428,120.793658,17,AS,ID,ID-ST,Toli Toli-Celebes Island,yes,,TLI,WAFL,,,https://en.wikipedia.org/wiki/Sultan_Bantilan_Airport,"Toli Toli Airport, Lalos Airport"
-26803,WAFM,small_airport,Andi Jemma Airport,-2.55803,120.323997,164,AS,ID,ID-SN,Masamba,no,,MXB,WAFM,,,https://en.wikipedia.org/wiki/Andi_Jemma_Airport,WAWM
+41440,WAFL,small_airport,Sultan Bantilan Airport,1.123428,120.793658,17,AS,ID,ID-ST,Toli Toli-Celebes Island,yes,,TLI,WAFL,,,https://en.wikipedia.org/wiki/Sultan_Bantilan_Airport,"WAMI, Toli-Toli, Tolitoli, Lalos Airport"
+26803,WAFM,small_airport,Andi Jemma Airport,-2.558031,120.324342,164,AS,ID,ID-SN,Masamba,no,,MXB,WAFM,,,https://en.wikipedia.org/wiki/Andi_Jemma_Airport,WAWM
 26771,WAFP,medium_airport,Kasiguncu Airport,-1.414121,120.659241,174,AS,ID,ID-ST,Poso-Celebes Island,no,,PSJ,WAFP,,,https://en.wikipedia.org/wiki/Kasiguncu_Airport,WAMP
 506525,WAFU,small_airport,Tanjung Api Airport,-0.865437,121.628625,49,AS,ID,ID-ST,Tojo Una-Una,yes,,OJU,WAFU,,,https://en.wikipedia.org/wiki/Tanjung_Api_Airport,Ampana
 26774,WAFW,medium_airport,Syukuran Aminuddin Amir Airport,-1.035893,122.773934,56,AS,ID,ID-ST,Luwok,no,,LUW,WAFW,,,https://en.wikipedia.org/wiki/Syukuran_Aminuddin_Amir_Airport,"Bubung Airport, WAMW"
@@ -8153,7 +8155,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41437,WAKT,medium_airport,Tanah Merah Airport,-6.09669,140.303521,57,AS,ID,ID-PS,Tanah Merah,yes,WAKT,TMH,WAKT,,,https://en.wikipedia.org/wiki/Tanah_Merah_Airport,
 32629,WALE,small_airport,Melalan Airport,-0.203611,115.760002,330,AS,ID,ID-KI,Melak-Borneo Island,no,WALE,GHS,WALE,,,https://en.wikipedia.org/wiki/West_Kutai_Melalan_Airport,"WRLE, West Kutai"
 26758,WALG,small_airport,Tanjung Harapan Airport,2.835833,117.373611,20,AS,ID,ID-KU,Tanjung Selor-Borneo Island,yes,,TJS,WAQD,,,https://en.wikipedia.org/wiki/Tanjung_Harapan_Airport,
-35277,WALJ,small_airport,Datadawai Airport,0.8106,114.5306,508,AS,ID,ID-KI,Datadawai-Borneo Island,yes,WALJ,DTD,WALJ,,,https://en.wikipedia.org/wiki/Datadawai_Airport,
+35277,WALJ,small_airport,Datadawai Airport,0.807028,114.529052,508,AS,ID,ID-KI,Datadawai-Borneo Island,yes,WALJ,DTD,WALJ,,,https://en.wikipedia.org/wiki/Datadawai_Airport,
 550612,WALK,small_airport,Nusantara Airport (under construction),-1.158611,116.708054,23,AS,ID,ID-KI,Nusantara,no,WALK,,WALK,,,https://en.wikipedia.org/wiki/Nusantara_International_Airport,
 26760,WALL,large_airport,Sultan Aji Muhammad Sulaiman Sepinggan International Airport,-1.268342,116.89452,12,AS,ID,ID-KI,Balikpapan,yes,WALL,BPN,WALL,,http://sepinggan-airport.com/,https://en.wikipedia.org/wiki/Sultan_Aji_Muhamad_Sulaiman_Airport,"WRLL, Balikpapan Airport, Sepinggan Airport, Sepinggang Airfield"
 26762,WALR,medium_airport,Juwata International Airport / Suharnoko Harbani AFB,3.325145,117.564169,23,AS,ID,ID-KU,Tarakan,yes,,TRK,WAQQ,TRK,http://www.tarakan-airport.com,https://en.wikipedia.org/wiki/Juwata_Airport,"WRLR, WALR, WAQQ, TRK, JUWATA, TARAKAN"
@@ -8196,7 +8198,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32424,WAPT,small_airport,Taliabu Island Airport,-1.6426299810409546,124.55899810791016,9,AS,ID,ID-MU,Tikong-Taliabu Island,no,WAPT,TAX,WAPT,,,,
 42251,WAPV,small_airport,Wahai Airport,-2.8114,129.484,558,AS,ID,ID-MA,Wahai,no,WAPV,WBA,WAPV,,,,WT56
 525280,WAQC,small_airport,Maratua Airport,2.19759,118.599361,43,AS,ID,ID-KI,Maratua,no,WAQC,RTU,WAQC,,,https://en.wikipedia.org/wiki/Maratua_Airport,
-41486,WAQM,small_airport,Robert Atty Bessing,3.575278,116.619722,26,AS,ID,ID-KU,Malinau,yes,,LNU,WAQM,,,https://en.wikipedia.org/wiki/Robert_Atty_Bessing_Airport,"WRLM, WALM"
+41486,WAQM,small_airport,Robert Atty Bessing,3.575256,116.619769,26,AS,ID,ID-KU,Malinau,yes,,LNU,WAQM,,,https://en.wikipedia.org/wiki/Robert_Atty_Bessing_Airport,"WRLM, WALM"
 26759,WAQT,medium_airport,Kalimarau Airport,2.14776,117.430705,59,AS,ID,ID-KI,Tanjung Redeb - Borneo Island,yes,,BEJ,WAQT,,,https://en.wikipedia.org/wiki/Kalimarau_Airport,"Berau Airport, WALK, WRLK"
 26785,WARA,medium_airport,Abdul Rachman Saleh Airport,-7.929099,112.714233,1726,AS,ID,ID-JI,Malang,yes,WARA,MLG,WARA,,,https://en.wikipedia.org/wiki/Abdul_Rachman_Saleh_Airport,"WIAS, Malang, Singosari"
 30846,WARC,small_airport,Ngloram Airport,-7.195522,111.545287,131,AS,ID,ID-JT,Blora,no,WARC,CPF,WARC,,,https://en.wikipedia.org/wiki/Ngloram_Airport,"Cepu, WRSC"
@@ -8241,7 +8243,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 311020,WAWH,small_airport,Selayar - Haji Aroeppala Airport,-6.17921,120.437479,13,AS,ID,ID-SN,Benteng,yes,,KSR,WAWH,,,https://en.wikipedia.org/wiki/H._Aroeppala_Airport,"Haji Aroeppala, Lagaligo Airport"
 523599,WAWN,small_airport,Arung Palakka Airport,-4.459582,120.310436,130,AS,ID,ID-SN,Bone,no,,APD,WAWN,,,https://id.wikipedia.org/wiki/Bandar_Udara_Arung_Palakka,
 505052,WAWP,medium_airport,Sangia Nibandera Airport,-4.338158,121.524047,40,AS,ID,ID-SG,Kolaka,yes,WAWP,KXB,WAWP,,https://www.otban5.com/Kolaka,https://en.wikipedia.org/wiki/Sangia_Nibandera_Airport,"Kolaka, Pomala"
-41396,WAWR,small_airport,Sugimanuru Airport,-4.763298,122.566352,132,AS,ID,ID-SG,Raha,no,WAWR,RAQ,WAWR,,,https://en.wikipedia.org/wiki/Sugimanuru_Airport,WAAR
+41396,WAWR,small_airport,Sugimanuru Airport,-4.763298,122.566352,132,AS,ID,ID-SG,Raha,no,WAWR,RAQ,WAWR,,,https://en.wikipedia.org/wiki/Sugimanuru_Airport,"WAAR, Muna"
 26804,WAWS,small_airport,Soroako Airport,-2.530582,121.356096,1388,AS,ID,ID-SN,Soroako,no,WAWS,SQR,WAWS,,,https://en.wikipedia.org/wiki/Soroako_Airport,WAAS
 26805,WAWT,small_airport,Pongtiku Airport,-3.04474,119.821999,2884,AS,ID,ID-SN,Makale,no,,TTR,WAFT,,,https://en.wikipedia.org/wiki/Pongtiku_Airport,"WAAT, Tana Toraja"
 26806,WAWW,small_airport,Haluoleo Airport,-4.08161,122.417999,538,AS,ID,ID-SG,Kendari,yes,WAWW,KDI,WAWW,,,https://en.wikipedia.org/wiki/Kendari_Airport,"WAAU, Wolter Monginsidi Airport"
@@ -8373,7 +8375,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 35138,WPOC,medium_airport,Rota Do Sândalo Oecusse Airport,-9.19806,124.343002,,AS,TL,TL-OE,Oecussi-Ambeno,no,WPOC,OEC,WPOC,,,https://en.wikipedia.org/wiki/Oecussi_Airport,"Oe-Kusi Ambenu, Ocussi, Oekussi, Oekusi, Okusi, Oé-Cusse"
 32577,WPVQ,small_airport,Viqueque Airport,-8.88379955291748,126.37300109863281,500,AS,TL,TL-VI,Viqueque,no,WPVQ,VIQ,WPVQ,,,https://en.wikipedia.org/wiki/Viqueque_Airport,Vikeke
 41483,WRLA,small_airport,Sanggata/Sangkimah Airport,0.3847,117.543,60,AS,ID,ID-KI,Sanggata/Sangkimah,no,,SGQ,WALA,,,http://id.wikipedia.org/wiki/Bandar_Udara_Sangkimah,"WRLA, Pertamina"
-35279,WRLB,small_airport,Yuvai Semaring Airport,3.9028,115.6921,2540,AS,ID,ID-KU,Long Bawan,yes,,LBW,WAQJ,,,https://en.wikipedia.org/wiki/Juvai_Semaring_Airport,"WRLB, Juvai Semaring Airport, Yuvai Semaring, Long Bawang"
+35279,WRLB,small_airport,Yuvai Semaring Airport,3.900495,115.690089,2540,AS,ID,ID-KU,Long Bawan,yes,,LBW,WAQJ,,,https://en.wikipedia.org/wiki/Juvai_Semaring_Airport,"WRLB, Juvai Semaring Airport, Yuvai Semaring, Long Bawang"
 30806,WRLC,small_airport,LNG Badak Airport,0.121656,117.476558,49,AS,ID,ID-KI,Bontang-Borneo Island,yes,WALC,BXT,WALC,,,https://en.wikipedia.org/wiki/PT_Badak_Bontang_Airport,WRLC
 35281,WRLF,small_airport,Nunukan Airport,4.134001,117.669546,59,AS,ID,ID-KU,Nunukan-Nunukan Island,no,,NNX,WAQA,,,https://en.wikipedia.org/wiki/Nunukan_Airport,"WRLF, WALF"
 41484,WRLH,small_airport,Tanah Grogot Airport,-1.885541,116.256809,17,AS,ID,ID-KI,Tanah Grogot,no,WRLH,TNB,WRLH,,,,
@@ -9007,6 +9009,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31753,ZA-KIG,small_airport,Koingnaas Airport,-30.187136,17.282706,228,AF,ZA,ZA-NC,Koingnaas,no,,KIG,,,,,
 27188,ZBAA,large_airport,Beijing Capital International Airport,40.080101013183594,116.58499908447266,116,AS,CN,CN-11,Beijing,yes,ZBAA,PEK,ZBAA,,http://en.bcia.com.cn/,https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport,"BJS, Bejing, Peking, Olympics"
 330820,ZBAD,large_airport,Beijing Daxing International Airport,39.509945,116.41092,98,AS,CN,CN-11,Beijing,yes,ZBAD,PKX,ZBAD,,,https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport,
+32006,ZBBB,medium_airport,Beijing Xijiao Airport,39.958592,116.256765,164,AS,CN,CN-11,Beijing,no,ZBBB,,ZBBB,,,https://en.wikipedia.org/wiki/Beijing_Xijiao_Airport,"BJS, Beijing City Airport"
 327347,ZBCD,medium_airport,Chengde Puning Airport,41.1225,118.073889,,AS,CN,CN-13,Chengde,yes,ZBCD,CDE,ZBCD,,,https://en.wikipedia.org/wiki/Chengde_Puning_Airport,
 30829,ZBCF,medium_airport,Chifeng Yulong Airport,42.159723,118.840971,2018,AS,CN,CN-15,Chifeng,yes,ZBCF,CIF,ZBCF,,,https://en.wikipedia.org/wiki/Chifeng_Yulong_Airport,
 30830,ZBCZ,small_airport,Changzhi Wangcun Airport,36.247501,113.125999,,AS,CN,CN-14,Changzhi,yes,ZBCZ,CIH,ZBCZ,,,https://en.wikipedia.org/wiki/Changzhi_Wangcun_Airport,
@@ -9019,7 +9022,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 27189,ZBHH,large_airport,Hohhot Baita International Airport,40.849658,111.824598,3556,AS,CN,CN-15,Hohhot,yes,ZBHH,HET,ZBHH,,http://www.hhhtbtjc.com/,https://en.wikipedia.org/wiki/Hohhot_Baita_International_Airport,
 327443,ZBHZ,medium_airport,Holingol Huolinhe Airport,45.487222,119.407222,,AS,CN,CN-15,Holingol,yes,ZBHZ,HUO,ZBHZ,,,https://en.wikipedia.org/wiki/Holingol_Huolinhe_Airport,
 27190,ZBLA,medium_airport,Hulunbuir Hailar Airport,49.205002,119.824997,2169,AS,CN,CN-15,Hailar,yes,ZBLA,HLD,ZBLA,,,https://en.wikipedia.org/wiki/Hulunbuir_Hailar_Airport,Hailar Dongshan
-323216,ZBLF,medium_airport,Linfen Yaodu Airport,36.132629,111.641236,1483,AS,CN,CN-14,Linfen (Yaodu),yes,,LFQ,ZBLF,,,https://en.wikipedia.org/wiki/Linfen_Qiaoli_Airport,
+323216,ZBLF,medium_airport,Linfen Yaodu Airport,36.132629,111.641236,1483,AS,CN,CN-14,Linfen (Yaodu),yes,ZBLF,LFQ,ZBLF,,,https://en.wikipedia.org/wiki/Linfen_Qiaoli_Airport,Qiaoli
 327444,ZBLL,medium_airport,Lüliang Dawu Airport,37.683333,111.142778,,AS,CN,CN-61,Lüliang,yes,ZBLL,LLV,ZBLL,,,https://en.wikipedia.org/wiki/L%C3%BCliang_Airport,
 322165,ZBMZ,medium_airport,Manzhouli Xijiao Airport,49.566667,117.33,2231,AS,CN,CN-15,Manzhouli,yes,ZBMZ,NZH,ZBMZ,,,https://en.wikipedia.org/wiki/Manzhouli_Xijiao_Airport,
 30679,ZBOW,medium_airport,Baotou Donghe Airport,40.560001,109.997002,3321,AS,CN,CN-15,Baotou,yes,ZBOW,BAV,ZBOW,,,https://en.wikipedia.org/wiki/Baotou_Airport,Erliban
