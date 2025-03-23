@@ -9924,6 +9924,7 @@
 43325,"AO-0067","small_airport","Lumbala Airstrip",-12.639877,22.586821,3510,"AF","AO","AO-MOX","Lumbala","no",,,,,,,
 595479,"AO-0068","small_airport","Espinheira Airfield",-16.78214,12.35133,1493,"AF","AO","AO-NAM","Espinheira","no",,,,,,,
 595481,"AO-0069","small_airport","Praia do Capim Airfield",-15.73555,11.92488,33,"AF","AO","AO-NAM","Praia do Capim","no",,,,,,,
+595575,"AO-0070","small_airport","Dombe Grande Airfield",-13.00966,13.10344,294,"AF","AO","AO-BGU","Dombe Grande","no",,,,,,,
 30840,"AO-CNZ","small_airport","Cangamba Airport",-13.7106,19.861099,3894,"AF","AO","AO-MOX","Cangamba","no",,"CNZ",,,,"https://en.wikipedia.org/wiki/Cangamba_Airport",
 43323,"AO-DRC","small_airport","Dirico Airport",-17.981924,20.768061,3504,"AF","AO","AO-CCU","Dirico","no",,"DRC",,,,"https://en.wikipedia.org/wiki/Dirico_Airport",
 43326,"AO-NDF","small_airport","N'dalatando Airport",-9.280378,14.982432,2684,"AF","AO","AO-CNO","N'dalatando","no",,"NDF",,,,"https://en.wikipedia.org/wiki/N%27dalatando_Airport",
@@ -16196,13 +16197,13 @@
 42207,"BZ-DGA","medium_airport","Dangriga Airport",16.98251,-88.230988,508,"NA","BZ","BZ-SC","Dangriga","yes",,"DGA","MZPB",,,"https://en.wikipedia.org/wiki/Dangriga_Airport","Stann Creek Airport"
 42213,"BZ-INB","small_airport","Independence Airport",16.53456,-88.441615,18,"NA","BZ","BZ-SC","Independence","yes",,"INB","MZSV",,,"https://en.wikipedia.org/wiki/Independence_Airport_(Belize)","Savannah, Mango Creek"
 42214,"BZ-MDB","small_airport","Melinda Airport",17.004299,-88.304199,101,"NA","BZ","BZ-SC","Melinda","no",,"MDB","MZML",,,"https://en.wikipedia.org/wiki/Melinda_Airport",
-42212,"BZ-ORZ","small_airport","H.E Alfredo Martinez (Tower Hill) Airstrip",18.046766,-88.58387,69,"NA","BZ","BZ-OW","Orange Walk","no",,"ORZ","MZAM",,,"https://en.wikipedia.org/wiki/Orange_Walk_Airport","Orange Walk Airport"
+42212,"BZ-ORZ","small_airport","H.E Alfredo Martinez (Tower Hill) Airstrip",18.046767,-88.583858,69,"NA","BZ","BZ-OW","Orange Walk","yes",,"ORZ","MZAM",,,"https://en.wikipedia.org/wiki/Orange_Walk_Airport","Orange Walk Airport"
 35305,"BZ-PND","medium_airport","Punta Gorda Airport",16.1024,-88.808296,7,"NA","BZ","BZ-TOL","Punta Gorda","yes",,"PND","MZPG","PND",,"https://en.wikipedia.org/wiki/Punta_Gorda_Airport_(Belize)",
 42210,"BZ-SJX","medium_airport","Sartaneja Airport",18.3561,-88.130798,3,"NA","BZ","BZ-CZL","Sartaneja","yes",,"SJX","MZSJ",,,"https://en.wikipedia.org/wiki/Sartaneja_Airport",
 32370,"BZ-SPR","medium_airport","John Greif II Airport",17.9139,-87.9711,4,"NA","BZ","BZ-CY","San Pedro","yes",,"SPR","MZSP",,,"https://en.wikipedia.org/wiki/San_Pedro_Airport",
 42218,"BZ-SQS","small_airport","Matthew Spain Airport",17.185898,-89.009936,199,"NA","BZ","BZ-CY","Spanish Lookout","no",,"SQS","MZCF",,,"https://en.wikipedia.org/wiki/Matthew_Spain_Airport","Central Farm Airstrip"
 42211,"BZ-STU","small_airport","Santa Cruz Airport",18.2721004486084,-88.456298828125,18,"NA","BZ","BZ-CZL","Santa Cruz","no",,"STU",,,,,
-42208,"BZ-SVK","small_airport","Silver Creek Airport",16.728338,-88.369174,216,"NA","BZ","BZ-SC","Silver Creek","no",,"SVK","MZKT",,,"https://en.wikipedia.org/wiki/Silver_Creek_Airport",
+42208,"BZ-SVK","small_airport","Silver Creek Airport",16.728338,-88.369174,216,"NA","BZ","BZ-SC","Silver Creek","yes",,"SVK","MZKT",,,"https://en.wikipedia.org/wiki/Silver_Creek_Airport",
 42215,"BZ-TZA","medium_airport","Sir Barry Bowen Municipal Airport",17.517239,-88.195775,8,"NA","BZ","BZ-BZ","Belize City","yes",,"TZA","MZBE",,,"https://en.wikipedia.org/wiki/Belize_City_Municipal_Airport","Belize City Municipal"
 27300,"BZB","medium_airport","Bazaruto Island Airport",-21.5411,35.4729,,"AF","MZ","MZ-I","Bazaruto Island","no",,"BZB",,,,"https://en.wikipedia.org/wiki/Bazaruto_Island_Airport",
 302391,"BZM","small_airport","Bemolanga Airport",-17.6925,45.0888333333,950,"AF","MG","MG-M","Bemolanga","no",,"BZM",,,,,
@@ -17409,6 +17410,7 @@
 595488,"CA-1175","heliport","Vaughan Smart Centres Helipad",43.796453,-79.539267,,"NA","CA","CA-ON","Vaughan","no",,,,,,,
 595489,"CA-1176","heliport","Eagle's Nest Golf Club Helipad",43.866408,-79.492258,,"NA","CA","CA-ON","Maple","no",,,,,,,
 595507,"CA-1177","heliport","York Region EMS HQ Helipad",44.081187,-79.396305,,"NA","CA","CA-U-A","Sharon","no",,,,,,,
+595538,"CA-1178","heliport","Polson Pier Helipad",43.641681,-79.35605,,"NA","CA","CA-ON","Toronto","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -21087,6 +21089,7 @@
 320202,"CZ-0272","closed","Blátna Air Base",49.431173,13.797095,1594,"EU","CZ","CZ-JC","Tchořovice","no",,,,,,,"Tchořovice, LKBL"
 43206,"CZ-0273","small_airport","Hradčany Airfield",50.619247,14.732753,912,"EU","CZ","CZ-LI","Kuřívody","no",,,,"LKHRAD",,"https://en.wikipedia.org/wiki/Hrad%C4%8Dany_Air_Base","LKHR, Hradčany Air Base, Letecká základna Hradčany, Letiště Hradčany, CZ-0273"
 316350,"CZ-0274","small_airport","Zlín Štípa Airfield",49.272778,17.746389,1086,"EU","CZ","CZ-ZL","Zlín","no",,,,"LKSTIP",,,"CZ-0274"
+595572,"CZ-0275","small_airport","Trnávka Airstrip",49.69157,18.16402,,"EU","CZ","CZ-MO",,"no",,,,"LKTRNA",,,
 2005,"CZAC","small_airport","York Landing Airport",56.089401,-96.089203,621,"NA","CA","CA-MB","York Landing","no","CZAC","ZAC","CZAC",,,"https://en.wikipedia.org/wiki/York_Landing_Airport",
 2006,"CZAM","medium_airport","Shuswap Regional Airport",50.682802,-119.228996,1751,"NA","CA","CA-BC","Salmon Arm","no","CZAM","YSN","CZAM",,"http://www.salmonarm.ca/index.aspx?nid=228","https://en.wikipedia.org/wiki/Salmon_Arm_Airport","AM4, Shuswap Regional Airport, Salmon Arm Airport"
 2007,"CZBA","small_airport","Burlington Executive Airpark",43.441453,-79.850103,602,"NA","CA","CA-ON","Burlington","no",,,"CZBA",,"http://www.burlingtonairpark.com/","https://en.wikipedia.org/wiki/Burlington_Executive_Aerodrome","ZBA"
@@ -27331,7 +27334,7 @@
 31248,"FVMB","small_airport","Mashumbi Airport",-16.16699981689453,30.566999435424805,1240,"AF","ZW","ZW-MC","Mashumbi","no",,,"FVMB",,,,
 325148,"FVMC","small_airport","Hwange Main Camp Airfield",-18.724765,26.956472,3485,"AF","ZW","ZW-MN",,"no",,,"FVMC",,,,"Hwange, Hwange Main, Hwange Main Camp"
 3007,"FVMD","small_airport","Mount Darwin Airport",-16.769199,31.559799,3240,"AF","ZW","ZW-MC",,"no",,,"FVMD",,,"https://en.wikipedia.org/wiki/Mount_Darwin_Airport",
-31249,"FVMF","small_airport","Mabikwa Airport",-18.732999801635742,27.533000946044922,3450,"AF","ZW","ZW-MN","Mabikwa","no",,,"FVMF",,,,
+31249,"FVMF","small_airport","Mabikwa Airport",-18.744805,27.54682,3450,"AF","ZW","ZW-MN","Mabikwa","no",,,"FVMF",,,,"Jotsholo"
 314044,"FVMH","small_airport","Mahenye Airport",-21.231,32.3336,930,"AF","ZW","ZW-MA","Gonarezhou National Park","no","FVMH","MJW","FVMH",,,,
 31250,"FVMK","small_airport","Mkonono Airport",-17.716999053955078,30.41699981689453,4650,"AF","ZW","ZW-MW","Mkonono","no",,,"FVMK",,,,
 317598,"FVML","small_airport","Mlibizi Airstrip",-17.9604,27.1184,1980,"AF","ZW","ZW-MN","Mlibizi","no",,,"FVML",,,,"Mibizi"
@@ -27364,7 +27367,7 @@
 31269,"FVTS","small_airport","Tsholothso Airport",-19.765526,27.766464,3580,"AF","ZW","ZW-MN","Tsholothso","no",,,"FVTS",,,,
 31270,"FVTU","small_airport","Tuli Airport",-21.934925079345703,29.196338653564453,1940,"AF","ZW","ZW-MS","Tuli","no",,,"FVTU",,,,
 31271,"FVWD","small_airport","Wedza Airport",-18.617000579833984,31.58300018310547,4600,"AF","ZW","ZW-ME","Wedza","no",,,"FVWD",,,,
-3014,"FVWN","medium_airport","Hwange National Park Airport",-18.629899978637695,27.020999908447266,3543,"AF","ZW","ZW-MN","Hwange","no","FVWN","HWN","FVWN",,,"https://en.wikipedia.org/wiki/Hwange_National_Park_Airport",
+3014,"FVWN","medium_airport","Hwange National Park Airport",-18.6299,27.021,3543,"AF","ZW","ZW-MN","Gwayi River Farms","no","FVWN","HWN","FVWN",,,"https://en.wikipedia.org/wiki/Hwange_National_Park_Airport",
 32656,"FVWT","small_airport","Hwange (Town) Airport",-18.362967,26.519791,2500,"AF","ZW","ZW-MN","Hwange","no","FVWT","WKI","FVWT",,,"https://en.wikipedia.org/wiki/Hwange_Town_Airport",
 317036,"FVYB","small_airport","Yomba Airport",-16.946664,30.400914,,"AF","ZW","ZW-MW","Yomba","no",,,"FVYB",,,,
 31272,"FVYT","small_airport","Inyati Airport",-19.700000762939453,28.850000381469727,4400,"AF","ZW","ZW-MN","Inyati","no",,,"FVYT",,,,
@@ -29228,6 +29231,22 @@
 355274,"GE-0019","heliport","Ochamchire Base Heliport",42.666106,41.484162,,"AS","GE","GE-AB","Ochamchire","no",,,,,,,
 525931,"GE-0020","small_airport","Bolnisi Parachutist Training Airfield",41.48523,44.53348,,"AS","GE","GE-KK","Bolnisi","no",,,,,,,
 45187,"GE-0021","closed","Mukhrani Airport",41.916,44.566,1807,"AS","GE","GE-MM","Mukhrani","no",,,,,,,"Muhrani Airport, UGMM"
+595545,"GE-0022","heliport","Aviaservice Heliport",41.72479,44.97401,2339,"AS","GE","GE-TB","Tbilisi","no",,,,,,,
+595546,"GE-0023","heliport","Ivanishvili House Heliport",41.68763,44.79866,,"AS","GE","GE-TB","Tbilisi","no",,,,,,,
+595547,"GE-0024","heliport","Camp Avnevi Heliport",42.18971,43.88836,2884,"AS","GE","GE-SO","Avnevi","no",,,,,,,
+595548,"GE-0025","heliport","Camp Didmukha Heliport",42.17613,43.88801,2776,"AS","GE","GE-SO","Didmukha","no",,,,,,,
+595551,"GE-0026","heliport","Camp Dzvileti Heliport",42.14103,43.84496,2805,"AS","GE","GE-SO","Dzvileti","no",,,,,,,
+595552,"GE-0027","heliport","Camp Seribalta Heliport",42.17419,43.72795,2539,"AS","GE","GE-SO","Seribalta","no",,,,,,,
+595553,"GE-0028","heliport","Camp Djalabeti Heliport",42.3952,43.64011,3681,"AS","GE","GE-SO","Djalabeti","no",,,,,,,
+595554,"GE-0029","heliport","Camp Disevi Heliport",42.23183,44.10906,3478,"AS","GE","GE-SO","Disevi","no",,,,,,,
+595555,"GE-0030","heliport","Camp Arkhispiri Heliport",42.15318,44.17262,3012,"AS","GE","GE-SO","Arkhispiri","no",,,,,,,
+595556,"GE-0031","heliport","Camp Ghromi Heliport",42.15932,44.21771,2894,"AS","GE","GE-SO","Ghromi","no",,,,,,,
+595557,"GE-0032","heliport","Camp Gduleti Heliport",42.08269,44.28294,2595,"AS","GE","GE-SO","Gduleti","no",,,,,,,
+595558,"GE-0033","heliport","Camp Orchosan Heliport",42.05813,44.3294,2884,"AS","GE","GE-SO","Orchosan","no",,,,,,,
+595560,"GE-0034","heliport","Camp Akhmaji Heliport",42.06112,44.47762,2536,"AS","GE","GE-SO","Akhmaji","no",,,,,,,
+595562,"GE-0035","heliport","Camp Balaani Heliport",42.34201,44.47185,3976,"AS","GE","GE-SO","Balaani","no",,,,,,,
+595563,"GE-0036","heliport","Akhalgori Heliport",42.11628,44.48053,2638,"AS","GE","GE-SO","Akhalgori","no",,,,,,,
+595564,"GE-0037","heliport","Zemo Tsubeni Heliport",42.16369,44.39625,4035,"AS","GE","GE-SO","Zemo Tsubeni","no",,,,,,,
 17578,"GE00","seaplane_base","Morris Seaplane Base",33.60969924926758,-82.13580322265625,102,"NA","US","US-GA","Evans","no",,,"GE00","GE00",,,
 17579,"GE01","small_airport","Christians Folly Airport",30.930423,-83.079386,208,"NA","US","US-GA","Naylor","no",,,"GE01","GE01",,,
 17580,"GE02","heliport","Adventhealth Gordon Heliport",34.51035,-84.927729,711,"NA","US","US-GA","Calhoun","no",,,"GE02","GE02",,,"Gordon Hospital"
@@ -30627,7 +30646,7 @@
 311870,"ID-0171","small_airport","Aideralma Airstrip",-4.3341,137.8316,2730,"AS","ID","ID-PP","Aideralma","no",,,,,,,"WX03"
 311871,"ID-0172","small_airport","Enggano Airport",-5.305621,102.189546,36,"AS","ID","ID-BE","Enggano","no",,"ENG","WIGE",,,,
 311872,"ID-0173","small_airport","Apouwo Airstrip",-4.063248,135.560018,5250,"AS","ID","ID-PT","Apouwo","no",,,,,,,"WX15, Apowo, Sukikai"
-311873,"ID-0174","small_airport","Aurimi Wzil Airstrip",-2.182,138.4343,290,"AS","ID","ID-PA","Aurimi Wzil","no",,,,,,,"WX18"
+311873,"ID-0174","small_airport","Aurimi Wzil Airstrip",-2.182027,138.434418,290,"AS","ID","ID-PA","Aurimi Wzil","no",,,"WREF",,,,"WX18"
 325373,"ID-0175","small_airport","Bareri Airport",-2.981793,137.782715,300,"AS","ID","ID-PA","Bareri","no",,,,"BAR",,,
 325374,"ID-0176","small_airport","Bari Airport",-3.959166,139.901563,1660,"AS","ID","ID-PP","Bari","no",,,,"BRI",,,
 325377,"ID-0177","small_airport","Basiem Airport",-6.058573,138.383542,49,"AS","ID","ID-PS","Basiem","no",,,,"BAS",,,
@@ -30813,7 +30832,7 @@
 41361,"ID-AAS","small_airport","Apalapsili Airport",-3.882495,139.310932,3100,"AS","ID","ID-PP","Apalapsili","no",,"AAS","WAVR","APA",,"https://en.wikipedia.org/wiki/Apalapsili_Airport",
 41362,"ID-AGD","small_airport","Anggi Airport",-1.3858,133.8737,6644,"AS","ID","ID-PB","Anggi-Papua Island","no",,"AGD","WAUA",,,"https://en.wikipedia.org/wiki/Anggi_Airport","WASG"
 43978,"ID-AHI","small_airport","Mina Wanam Airport",-7.540726,139.110916,22,"AS","ID","ID-PS","Wanam","no",,,,,,,"WT82"
-41363,"ID-AKQ","small_airport","Gunung Batin Airport",-4.61114,105.232002,99,"AS","ID","ID-LA","Astraksetra","no",,"AKQ","WILM",,,"https://en.wikipedia.org/wiki/Prince_M._Bunyamin_Air_Force_Base","WIAG, Prince M. Bunyamin AFB"
+41363,"ID-AKQ","small_airport","Astra Ksetra Airport",-4.611588,105.231968,99,"AS","ID","ID-LA","Menggala","no",,"AKQ","WILM",,,"https://en.wikipedia.org/wiki/Prince_M._Bunyamin_Air_Force_Base","WIAG, Prince M. Bunyamin AFB, Gunung Batin"
 41366,"ID-BJG","small_airport","Boalang Airport",-0.972896,122.144997,146,"AS","ID","ID-ST","Boalang-Celebes Island","no",,,,,,,"BJG"
 41369,"ID-ELR","small_airport","Elelim Airport",-3.785922,139.384497,1490,"AS","ID","ID-PP","Elelim","no",,"ELR","WAVE",,,,"WAJN"
 41370,"ID-EWE","small_airport","Ewer Asmat Airport",-5.496185,138.078361,27,"AS","ID","ID-PS","Agats","no",,"EWE",,,,"https://en.wikipedia.org/wiki/Ewer_Airport",
@@ -31287,7 +31306,6 @@
 340006,"IN-0108","heliport","Digha Heliport",21.62606,87.501056,16,"AS","IN","IN-WB","Digha","no",,,,,,,
 340007,"IN-0109","heliport","Naraj Heliport",20.48082,85.77965,,"AS","IN","IN-OR","Narajmarthapur","no",,,,,,,
 340008,"IN-0110","heliport","Puri Heliport",19.81035,85.84752,,"AS","IN","IN-OR","Puri","no",,,,,,,
-340010,"IN-0111","heliport","Rangeilunda Heliport",19.293808,84.876959,,"AS","IN","IN-OR","Berhampur (Brahmapur)","no",,,,,,,
 340011,"IN-0112","heliport","Tata Steel Helipad",19.33095,84.91073,,"AS","IN","IN-OR","Sindhigan","no",,,,,,,
 340012,"IN-0113","heliport","Buragam Heliport",18.73454,84.07501,,"AS","IN","IN-AP","Buragam","no",,,,,,,
 340013,"IN-0114","heliport","Srikakulam Heliport",18.27207,83.90325,,"AS","IN","IN-AP","Srikakulam","no",,,,,,,
@@ -31327,7 +31345,7 @@
 340150,"IN-0148","heliport","Ramanathapuram Heliport",9.36241,78.85934,,"AS","IN","IN-TN","Ramanathapuram","no",,,,,,,
 340151,"IN-0149","heliport","Kanyakumari Heliport",8.07972,77.54877,,"AS","IN","IN-TN","Kanyakumari","no",,,,,,,
 340152,"IN-0150","heliport","Varkala Helipad",8.73564,76.70461,,"AS","IN","IN-KL","Varkala","no",,,,,,,
-340153,"IN-0151","heliport","Ashramam Helipad",8.89486,76.59155,,"AS","IN","IN-KL","Kollam","no",,,,,,"https://en.wikipedia.org/wiki/Quilon_Aerodrome","Quilon Aerodrome, Kollam Airport"
+340153,"IN-0151","heliport","Ashramam Heliport",8.89486,76.59155,,"AS","IN","IN-KL","Kollam","no",,,,,,"https://en.wikipedia.org/wiki/Quilon_Aerodrome","Quilon Aerodrome, Kollam Airport"
 340154,"IN-0152","heliport","Alappuzha Heliport",9.49414,76.31942,20,"AS","IN","IN-KL","Alappuzha","no",,,,,,,
 340156,"IN-0153","heliport","Indian Naval Academy Heliport",12.0376,75.19671,,"AS","IN","IN-KL","Ezhimala","no",,,,,,,
 340157,"IN-0154","heliport","Kalpeni Heliport",10.089713,73.648893,,"AS","IN","IN-LD","Kalpeni","no",,,,,,,
@@ -36753,6 +36771,7 @@
 18599,"K2K7","small_airport","Neodesha Municipal Airport",37.43539810180664,-95.64610290527344,841,"NA","US","US-KS","Neodesha","no",,,"K2K7","2K7",,,
 18600,"K2K9","small_airport","Haskell Airport",35.83290100097656,-95.66739654541016,588,"NA","US","US-OK","Haskell","no",,,"K2K9","2K9",,,
 18601,"K2L0","small_airport","Pineville Municipal Airport",31.341931,-92.4436,100,"NA","US","US-LA","Pineville","no",,,,"2L0","http://www.pineville.net/department/?fDD=14-0",,"9LA6"
+595589,"K2LA","heliport","Zach Pourciau Heliport",30.610698,-91.441771,36,"NA","US","US-LA","Oscar","no",,,"K2LA","2LA",,,
 18602,"K2M0","small_airport","Princeton-Caldwell County Airport",37.115116,-87.857144,584,"NA","US","US-KY","Princeton","no",,,"K2M0","2M0","https://transportation.ky.gov/Aviation/Documents/Princeton-Calwell%20County.pdf",,
 18603,"K2M2","small_airport","Lawrenceburg Lawrence County Airport",35.234299,-87.257896,936,"NA","US","US-TN","Lawrenceburg","no",,,"K2M2","2M2",,"https://en.wikipedia.org/wiki/Lawrenceburg%E2%80%93Lawrence_County_Airport",
 18604,"K2M4","small_airport","G V Montgomery Airport",32.354867,-89.48824,517,"NA","US","US-MS","Forest","no",,,"K2M4","2M4",,"https://en.wikipedia.org/wiki/G._V._Montgomery_Airport","Forest Municipal"
@@ -44316,7 +44335,7 @@
 42224,"MGES","small_airport","Esquipulas Airport",14.567552,-89.326153,3090,"NA","GT","GT-CQ","Esquipulas","no",,,"MGES",,,"https://en.wikipedia.org/wiki/Esquipulas_Airport",
 4644,"MGGT","large_airport","La Aurora Airport",14.5833,-90.527496,4952,"NA","GT","GT-GU","Guatemala City","yes","MGGT","GUA","MGGT",,,"https://en.wikipedia.org/wiki/La_Aurora_International_Airport",
 517176,"MGHH","small_airport","Iztapa Aeroclub",13.930929,-90.728783,19,"NA","GT","GT-ES","Iztapa","no",,,"MGHH",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Iztapa",
-42226,"MGHT","small_airport","Huehuetenango Airport",15.316667,-91.505556,6135,"NA","GT","GT-HU","Huehuetenango","no","MGHT","HUG","MGHT",,,"https://en.wikipedia.org/wiki/Huehuetenango_Airport",
+42226,"MGHT","small_airport","Huehuetenango Airport",15.316667,-91.505556,6135,"NA","GT","GT-HU","Huehuetenango","yes","MGHT","HUG","MGHT",,,"https://en.wikipedia.org/wiki/Huehuetenango_Airport",
 313978,"MGI","small_airport","National Wildlife Refuge Airport",28.323,-96.464,7,"NA","US","US-TX","Matagorda Island","no",,"MGI",,,,"https://en.wikipedia.org/wiki/Matagorda_Island_Air_Force_Base","Matagorda Island AFB, Port O'Connor"
 351339,"MGJU","small_airport","Jutiapa Airport",14.291729,-89.941421,2949,"NA","GT","GT-JU","Jutiapa","no",,,"MGJU",,,,
 31898,"MGLL","small_airport","La Libertad Airport",16.750299,-90.139999,623,"NA","GT","GT-PE","La Libertad","no",,,"MGLL",,,"https://en.wikipedia.org/wiki/La_Libertad_Airport",
@@ -44330,7 +44349,7 @@
 4646,"MGRB","medium_airport","Rubelsanto Airport",15.992,-90.445297,426,"NA","GT","GT-AV","Rubelsanto","no","MGRB","RUV","MGRB",,,"https://en.wikipedia.org/wiki/Rubelsanto_Airport",
 42234,"MGRD","small_airport","Las Vegas Airport",15.668363,-88.961763,28,"NA","GT","GT-IZ","Rio Dulce","no","MGRD","LCF","MGRD",,,"https://en.m.wikipedia.org/wiki/Río_Dulce_Airport",
 318936,"MGRF","small_airport","Monterrico Airport",13.894942,-90.485092,20,"NA","GT","GT-SR","Monterrico","no",,,"MGRF",,,,
-4647,"MGRT","medium_airport","Retalhuleu Airport",14.521431,-91.697001,656,"NA","GT","GT-RE","Retalhuleu","no","MGRT","RER","MGRT",,,"https://en.wikipedia.org/wiki/Retalhuleu_Airport",
+4647,"MGRT","medium_airport","Retalhuleu Airport",14.521431,-91.697001,656,"NA","GT","GT-RE","Retalhuleu","yes","MGRT","RER","MGRT",,,"https://en.wikipedia.org/wiki/Retalhuleu_Airport",
 4648,"MGSJ","medium_airport","San José Airport",13.9362,-90.8358,29,"NA","GT","GT-ES","Puerto San José","no","MGSJ","GSJ","MGSJ",,,"https://en.wikipedia.org/wiki/San_Jos%C3%A9_Airport",
 42229,"MGSM","small_airport","San Marcos Airport",14.955268,-91.808339,7933,"NA","GT","GT-SM","San Marcos","no",,,"MGSM",,,"https://en.wikipedia.org/wiki/San_Marcos_Airport_(Guatemala)",
 4649,"MGTK","medium_airport","Mundo Maya International Airport",16.913799,-89.866402,427,"NA","GT","GT-PE","San Benito","yes",,"FRS","MGMM",,,"https://en.wikipedia.org/wiki/Mundo_Maya_International_Airport",
@@ -45242,7 +45261,7 @@
 42017,"MSSJ","small_airport","Punta San Juan Airport",13.178735,-88.47316,3,"NA","SV","SV-US","Corral de Mulas","no",,,"MSSJ",,,"https://en.wikipedia.org/wiki/Punta_San_Juan_Airport",
 31958,"MSSM","small_airport","El Papalon Airport",13.4441,-88.126999,283,"NA","SV","SV-SM","San Miguel","no",,,"MSSM",,,"https://en.wikipedia.org/wiki/El_Papalon_Airport","MSPP, San Miguel Regional"
 42018,"MSSN","small_airport","San Ramon Airport",13.197465896606445,-87.9609146118164,37,"NA","SV","SV-UN","San Ramón","no",,,"MSSN",,,,
-4821,"MSSS","medium_airport","Ilopango International Airport",13.6995,-89.119904,2027,"NA","SV","SV-SS","San Salvador","no","MSSS","ILS","MSSS",,,"https://en.wikipedia.org/wiki/Ilopango_International_Airport",
+4821,"MSSS","medium_airport","Ilopango International Airport",13.6995,-89.119904,2027,"NA","SV","SV-SS","San Salvador","yes","MSSS","ILS","MSSS",,,"https://en.wikipedia.org/wiki/Ilopango_International_Airport",
 42019,"MSZT","small_airport","El Zapote Airport",13.707954,-90.026268,6,"NA","SV","SV-AH","Barra de Santiago","no",,,"MSZT",,,"https://en.wikipedia.org/wiki/El_Zapote_Airport",
 312346,"MT-0001","closed","RAF Hal Far",35.81333,14.513379,235,"EU","MT","MT-05",,"no",,,,,,"https://en.wikipedia.org/wiki/RAF_Hal_Far","HMS Falcon"
 312347,"MT-0002","closed","RAF Safi",35.839985,14.494478,,"EU","MT","MT-25","Safi","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Maintenance_Base_Safi",
@@ -50940,24 +50959,24 @@
 26977,"OY74","medium_airport","Al Anad Air Base",13.1747,44.765099,900,"AS","YE","YE-LA","Al Anad","no",,,,,,,"OY74"
 26978,"OY75","small_airport","Canoxy Airport",15.6018,49.0807,3300,"AS","YE","YE-HD","Heru","no",,,"OY75","OY75",,,
 5311,"OYAA","medium_airport","Aden International Airport",12.8295,45.028801,7,"AS","YE","YE-AD","Aden","yes","OYAA","ADE","OYAA",,,"https://en.wikipedia.org/wiki/Aden_International_Airport","RAF Khormaksar"
-30960,"OYAB","small_airport","Abs Airport",16.010983,43.176771,651,"AS","YE","YE-SN","Abs","no",,"EAB","OYBS",,,"https://en.wikipedia.org/wiki/Abbs_Airport","Abbs, Abbse"
+30960,"OYAB","small_airport","Abs Airport",16.010983,43.176771,651,"AS","YE","YE-HJ","Abs","no",,"EAB","OYBS",,,"https://en.wikipedia.org/wiki/Abbs_Airport","Abbs, Abbse"
 5312,"OYAT","medium_airport","Ataq Airport",14.5513,46.826199,3735,"AS","YE","YE-SH","Ataq","no","OYAT","AXK","OYAT",,,"https://en.wikipedia.org/wiki/Ataq_Airport",
 5313,"OYBA","small_airport","Al Badie Airport",18.720709,50.835771,908,"AS","YE","YE-HD","Dhula'","no",,,"OYBA",,,,
 32138,"OYBI","small_airport","Al-Bayda Airport",14.105974,45.441079,6120,"AS","YE","YE-BA","Al-Bayda","no",,"BYD","OYBD",,,"https://en.wikipedia.org/wiki/Al_Bayda%27_Airport_(Yemen)",
 5314,"OYBN","small_airport","Beihan Airport",14.781714,45.719703,3800,"AS","YE","YE-SH","Beihan","no","OYBN","BHN","OYBN",,,"https://en.wikipedia.org/wiki/Beihan_Airport",
 32139,"OYBQ","small_airport","Al-Bough Airport",17.350352,44.625542,3800,"AS","YE","YE-SD","Al-Bough","no",,"BUK","OYBQ",,,"https://en.wikipedia.org/wiki/Albuq_Airport","Albuq, Al Buq, Albuqa"
 5315,"OYGD","medium_airport","Al Ghaydah International Airport",16.193341,52.174186,134,"AS","YE","YE-MR","Al Ghaydah","yes","OYGD","AAY","OYGD",,,"https://en.wikipedia.org/wiki/Al_Ghaydah_Airport","ODAG"
-5316,"OYHD","medium_airport","Hodeidah International Airport",14.753000259399414,42.97629928588867,41,"AS","YE","YE-HU","Hodeida","yes","OYHD","HOD","OYHD",,,"https://en.wikipedia.org/wiki/Hodeida_International_Airport","Al Hudaydah International Airport"
-32140,"OYKM","small_airport","Kamaran Airport",15.368755,42.612515,51,"AS","YE","YE-MU","Kamaran","no","OYKM","KAM","OYKM",,,"https://en.wikipedia.org/wiki/Kamaran_Airport",
+5316,"OYHD","closed","Hodeida International Airport",14.753,42.976299,41,"AS","YE","YE-HU","Hodeida","yes",,,,,,"https://en.wikipedia.org/wiki/Hodeida_International_Airport","Al Hudaydah International Airport, OYHD, HOD"
+32140,"OYKM","small_airport","Kamaran Airport",15.368755,42.612515,51,"AS","YE","YE-HU","Kamaran","no","OYKM","KAM","OYKM",,,"https://en.wikipedia.org/wiki/Kamaran_Airport",
 31994,"OYMB","small_airport","Marib Airport",15.469228,45.327272,3300,"AS","YE","YE-MA","Marib","no","OYMB","MYN","OYMB",,,"https://en.wikipedia.org/wiki/Marib_Airport",
 316933,"OYMS","small_airport","Mukeiras Airport",13.9368,45.657,7080,"AS","YE","YE-BA","Mukayras","no","OYMS","UKR","OYMS",,,"https://en.wikipedia.org/wiki/Mukeiras_Airport","Mukayras, OYMK"
 31667,"OYQN","small_airport","Qishn Airport",15.417,51.682999,100,"AS","YE","YE-MR","Qishn","no","OYQN","IHN","OYQN",,,"https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D8%A7%D8%B1_%D9%82%D8%B4%D9%86",
 5317,"OYRN","medium_airport","Riyan Mukalla International Airport",14.6626,49.375,54,"AS","YE","YE-HD","Riyan","yes","OYRN","RIY","OYRN",,,"https://en.m.wikipedia.org/wiki/Riyan_International_Airport","ريان المكلا الدولي"
 32142,"OYRT","small_airport","Barat Airport",16.732999801635742,44.349998474121094,6800,"AS","YE","YE-JA","Barat","no",,,"OYRT",,,,
-32143,"OYSF","small_airport","As Salif Airport",15.294577,42.685954,,"AS","YE","YE-MU","As Salif","no",,,"OYSF",,,,
+32143,"OYSF","small_airport","As Salif Airport",15.294577,42.685954,,"AS","YE","YE-HU","As Salif","no",,,"OYSF",,,,
 32413,"OYSH","small_airport","Sadah Airport",16.967542,43.728103,5938,"AS","YE","YE-SD","Sa'dah","no","OYSH","SYE","OYSH",,,"https://en.wikipedia.org/wiki/Saadah_Airport",
-5318,"OYSN","medium_airport","Sana'a International Airport",15.476300239562988,44.21969985961914,7216,"AS","YE","YE-SN","Sana'a","yes","OYSN","SAH","OYSN",,,"https://en.wikipedia.org/wiki/Sana'a_International_Airport",
-5319,"OYSQ","medium_airport","Socotra International Airport",12.63070011138916,53.905799865722656,146,"AS","YE","YE-HD","Socotra Islands","yes","OYSQ","SCT","OYSQ",,,"https://en.wikipedia.org/wiki/Socotra_Airport",
+5318,"OYSN","medium_airport","Sanaa International Airport",15.4763,44.2197,7216,"AS","YE","YE-SA","Sanaa","yes","OYSN","SAH","OYSN",,,"https://en.wikipedia.org/wiki/Sanaa_International_Airport",
+5319,"OYSQ","medium_airport","Socotra International Airport",12.6307,53.9058,146,"AS","YE","YE-SU","Mori","yes","OYSQ","SCT","OYSQ",,,"https://en.wikipedia.org/wiki/Socotra_Airport","Hadibu"
 5320,"OYSY","medium_airport","Seiyun Hadhramaut International Airport",15.9661,48.7883,2097,"AS","YE","YE-HD","Seiyun","yes","OYSY","GXF","OYSY",,,"https://en.wikipedia.org/wiki/Sayun_Airport",
 5321,"OYTZ","medium_airport","Ta'izz International Airport",13.6859998703,44.139099121099996,4838,"AS","YE","YE-TA","Ta'izz","yes","OYTZ","TAI","OYTZ",,,"https://en.wikipedia.org/wiki/Ta'izz_International_Airport","Ganed Airport"
 32144,"OYZM","small_airport","Al-Hazm Airport",16.200001,44.783001,3200,"AS","YE","YE-JA","Al-Hazm","no",,,"OYZM",,,"https://en.wikipedia.org/wiki/Al_Hazm_Airport",
@@ -57230,6 +57249,7 @@
 30091,"SE-0110","closed","Lund Airfield",55.684399,13.2108,79,"EU","SE","SE-M","Lund","no",,,,,"http://www.lundsflygklubb.se/",,"Hasslanda Airfield, ESMN"
 30439,"SE-0111","closed","Stockholm Tullinge Airport",59.179401397705,17.907800674438,180,"EU","SE","SE-AB","Stockholm","no",,,,,,,"ESCN, ESCN"
 31020,"SE-0112","closed","Nyge Airport",58.7456016541,17.0489006042,7,"EU","SE","SE-D","Nyköping","no",,,,,,,"ESCY, ESCY"
+595592,"SE-0113","heliport","Kallax Flyg Heliport",68.34579,18.83074,1332,"EU","SE","SE-BD","Abisko","no",,,,,,,
 2170,"SE01","small_airport","Alba Elena Airport",-2.173581,-79.280763,150,"SA","EC","EC-G","Bucay","no",,,"SEAE",,,,"SE01, Coronel Marcelino Mariduena"
 2171,"SE02","small_airport","Guabital Airport",-2.773399,-79.702411,45,"SA","EC","EC-G","Soledad","no",,,"SEGB",,,,"SE02"
 2172,"SE03","small_airport","Las Peñas Airport",-2.94716,-80.1007,3,"SA","EC","EC-G","Puerto Grande","no",,,"SEEN",,,,"SE03"
@@ -63341,7 +63361,7 @@
 355209,"TR-0164","heliport","Yılair Havacılık ve Ticaret AŞ ve Helikopter Pisti",40.41513,29.108555,115,"AS","TR","TR-16","Gemlik","no",,,,,,,
 355210,"TR-0165","heliport","İsPark Kısıklı Heliport Alanı",41.023192,29.056683,,"AS","TR","TR-34","Üsküdar","no",,,,,"https://ispark.istanbul/",,
 355211,"TR-0166","heliport","D-Marin Turgutreis Marina Heliport",37.002792,27.258346,1,"AS","TR","TR-48","Bodrum","no",,,,,"https://www.d-marin.com/en/marinas/turgutreis/",,
-355212,"TR-0167","heliport","Kaan Havacılık Heliport",41.125811,28.983653,113,"EU","TR","TR-34","Sarıyer","no",,,,,"http://www.kaanair.com/",,
+355212,"TR-0167","heliport","Kaan Aviation Heliport",41.125585,28.983592,113,"EU","TR","TR-34","Sarıyer","no",,,,,"http://www.kaanair.com/",,
 355213,"TR-0168","heliport","Ataşehir Belediyesi Afet Kriz Merkezi Helikopter Pisti",40.993379,29.116689,88,"AS","TR","TR-34","Ataşehir","no",,,,,,,
 355214,"TR-0169","heliport","Point Hotel Barbaros Helipad",41.064316,29.010589,120,"EU","TR","TR-34","Şişli","no",,,,,,,
 355215,"TR-0170","heliport","AFAD Helipad",39.906437,32.758553,856,"AS","TR","TR-06","Çankaya","no",,,,,,,
@@ -63956,10 +63976,10 @@
 44294,"UA-0010","medium_airport","Oktyabrskoe Air Base",45.31999969482422,34.099998474121094,,"EU","UA","UA-43","Oktyabrskoe","no",,,,,,,"Oktyabrskoye Air Base, Аэродром Октябрьское"
 44295,"UA-0011","closed","Karankut Air Base",45.577999,34.282001,52,"EU","UA","UA-43","Volnoye","no",,,,,,,"Krasnogvardeyskoe Air Base, Krasnogvardeyskoye Air Base, Аэродром Каранкут, Аэродром Красногвардейское"
 44297,"UA-0012","medium_airport","Kirovskoe Air Base",45.16699981689453,35.18299865722656,,"EU","UA","UA-43","Kirovskoe","no",,,,,,,"Kirovskoye Air Base, Аэродром Кировское"
-44298,"UA-0013","small_airport","Risovoye Airfield",45.995499,33.681017,,"EU","UA","UA-43","Krasnoperekopsk","no",,,,,,,"Risovoe Airfield, Аэродром Рисовое"
+44298,"UA-0013","small_airport","Rysove Airfield",45.995499,33.681017,,"EU","UA","UA-43","Rysove","no",,,,,,,"Risovoe Airfield, Аэродром Рисовое, Risovoye"
 44305,"UA-0014","closed","Donuzlav Air Base",45.325884,33.050407,37,"EU","UA","UA-43","Myrnyi","no",,,,,,,"Аэродром Донузлав"
 44306,"UA-0015","closed","Perekop Airfield",46.15800094604492,33.71699905395508,,"EU","UA","UA-43","Armyansk","no",,,,,,,"Аэродром Перекоп"
-44307,"UA-0016","small_airport","Yukharina Balka Airfield",44.549003,33.488613,,"EU","UA","UA-40","Sevastopol","no",,,,,,,"Аэродром Юхарина Балка"
+44307,"UA-0016","small_airport","Yukharina Balka Airfield",44.549003,33.488613,335,"EU","UA","UA-40","Sevastopol","no","UKFP",,"UKFP",,,,"Аэродром Юхарина Балка"
 44308,"UA-0017","closed","Genichesk Air Base",46.209,34.764999,,"EU","UA","UA-65","Genichesk","no",,,,,,,"Аэродром Геническ"
 44309,"UA-0018","small_airport","Sevastopol Kozachya Bay Aerodrome / Khersones Air Base",44.578466,33.395462,46,"EU","UA","UA-40","Sevastopol","no",,,,,,,"Hersones Air Base, Аэродром Херсонес, Khersones Air Base, Kozachya Bukhta"
 44310,"UA-0019","closed","Bagerovo Air Base",45.407001,36.244999,,"EU","UA","UA-43","Bagerovo","no",,,,,,"https://en.wikipedia.org/wiki/Baherove_(air_base)","Аэродром Багерово, Bagarovo, Baherove"
@@ -64073,13 +64093,13 @@
 332720,"UA-0127","small_airport","Kosino Spa Resort Airiield",48.25318,22.498503,107,"EU","UA","UA-21","Koson'","no",,,"UKMN",,,,"Kosino"
 332951,"UA-0128","small_airport","Pidverbtsi Airstrip",48.78682,25.217443,,"EU","UA","UA-26",,"no",,,,"ZF5F",,,
 340324,"UA-0129","small_airport","Koktebel Gliding Center",45.020896,35.206845,801,"EU","UA","UA-43","Otvazhnoe","no",,,,,,,
-340325,"UA-0130","closed","Kurgannoye Airstrip",45.8541,33.7062,,"EU","UA","UA-43","Kurgannoye","no",,,,,,,
+340325,"UA-0130","closed","Kurgannoye Airstrip",45.8541,33.7062,,"EU","UA","UA-43","Kurhanne","no",,,,,,,
 340326,"UA-0131","closed","Kukushkino Airstrip",45.698139,33.36079,,"EU","UA","UA-43","Kukushkino","no",,,,,,,
 340327,"UA-0132","closed","Slavne Airfield",45.731711,33.21123,7,"EU","UA","UA-43","Slavne","no",,,,,,,"Slavnoye"
-340328,"UA-0133","closed","Pochetnoye Airfield",45.999861,33.78224,,"EU","UA","UA-43","Pochetnoye","no",,,,,,,
+340328,"UA-0133","closed","Pochetnoye Airfield",45.999861,33.78224,,"EU","UA","UA-43","Pochetne","no",,,,,,,
 340329,"UA-0134","closed","Chervonyi Chaban Airfield",46.18,33.5934,,"EU","UA","UA-65","Preobrazhenka","no",,,,,,,
-340330,"UA-0135","small_airport","Pryvillia Airfield",46.1497,33.4064,,"EU","UA","UA-65","Pryvillia","no",,,,,,,
-340331,"UA-0136","small_airport","Lazume Airfield",46.0838,32.5075,3,"EU","UA","UA-65","Lazume","no",,,,,,,
+340330,"UA-0135","small_airport","Pryvillya Airfield",46.149626,33.404544,,"EU","UA","UA-65","Pryvillya","no",,,,,,,
+340331,"UA-0136","small_airport","Lazurne Airfield",46.0838,32.5075,3,"EU","UA","UA-65","Lazurne","no",,,,,,,
 340332,"UA-0137","small_airport","Bekhtery Airfield",46.232,32.292,14,"EU","UA","UA-65","Bekhtery","no",,,,,,,
 340333,"UA-0138","closed","Oleksiivka Airfield",46.2626,32.218,,"EU","UA","UA-65","Oleksiivka","no",,,,,,,
 341519,"UA-0139","heliport","Trakhtemyriv Heliport",49.984294,31.339095,397,"EU","UA","UA-71","Trakhtemyriv","no",,,,,,,
@@ -64337,7 +64357,7 @@
 3087,"UG24","medium_airport","Tbilisi Soganlug Air Base",41.649200439453125,44.9364013671875,1250,"AS","GE","GE-TB","Tbilisi","no",,,,,,,"UG24"
 3088,"UG25","small_airport","Telavi Kurdgelauri Airport",41.9534,45.507999,1496,"AS","GE","GE-KA","Telavi","no",,,"UGGT",,,,"UG25"
 3089,"UG26","small_airport","Kutaisi West Airport",42.248600006103516,42.624698638916016,384,"AS","GE","GE-IM","Kutaisi","no",,,,,,,"UG26"
-3090,"UG27","medium_airport","Vaziani Air Base",41.62799835205078,45.030799865722656,1460,"AS","GE","GE-TB","Tbilisi","no",,,,,,,"UG27"
+3090,"UG27","medium_airport","Vaziani Air Base",41.627998,45.0308,1460,"AS","GE","GE-TB","Gamarjveba 1","no",,,,,,,"UG27"
 3091,"UG28","medium_airport","Bolshiye Shiraki Air Base",41.37950134277344,46.3672981262207,1795,"AS","GE","GE-KA","Bolshiye Shiraki","no",,,,,,,"UG28"
 506946,"UGAM","medium_airport","Ambrolauri Airport",42.52687,43.13538,1784,"AS","GE","GE-RL","Ambrolauri","yes",,,"UGAM",,,"https://en.wikipedia.org/wiki/Ambrolauri_Airport",
 25240,"UGB","small_airport","Ugashik Bay Airport",57.424052,-157.74479,132,"NA","US","US-AK","Pilot Point","no",,"UGB",,,,"https://en.wikipedia.org/wiki/Ugashik_Bay_Airport",
@@ -64476,8 +64496,8 @@
 6473,"UKDR","medium_airport","Kryvyi Rih International Airport",48.04330062866211,33.209999084472656,408,"EU","UA","UA-12","Kryvyi Rih","yes","UKDR","KWG","UKDR",,,"https://en.wikipedia.org/wiki/Kryvyi_Rih_International_Airport","Lozuvatka International Airport, Міжнародний аеропорт ""Кривий Ріг"""
 44293,"UKFB","medium_airport","Sevastopol International Airport / Belbek Air Base",44.691822,33.57462,344,"EU","UA","UA-43","Sevastopol","no","UKFB","UKS","UKFB",,,"https://en.wikipedia.org/wiki/Sevastopol_International_Airport","Севастополь,Бельбек"
 6474,"UKFF","medium_airport","Simferopol International Airport",45.0522,33.975101,639,"EU","UA","UA-43","Simferopol","yes","UKFF","SIP","UKFF","URFF","https://new.sipaero.ru/","https://en.wikipedia.org/wiki/Simferopol_International_Airport",
-44291,"UKFG","medium_airport","Gvardeyskoe Air Base",45.116192,33.976625,721,"EU","UA","UA-43","Sarabuz","no",,,"UKFG","XRFG",,"https://en.wikipedia.org/wiki/Gvardeyskoye_(air_base)","Gvardeyskoye Air Base, Аэродром Гвардейское"
-44296,"UKFI","medium_airport","Saky Air Base",45.090611,33.598536,36,"EU","UA","UA-43","Novofedorovka","no",,,"UKFI",,,"https://en.wikipedia.org/wiki/Saky_(air_base)","Аэродом Саки, URFI"
+44291,"UKFG","medium_airport","Gvardeyskoye (Hvardiiske) Air Base",45.116192,33.976625,721,"EU","UA","UA-43","Hvardiiske","no",,,"UKFG","XRFG",,"https://en.wikipedia.org/wiki/Gvardeyskoye_(air_base)","Gvardeyskoye Air Base, Аэродром Гвардейское"
+44296,"UKFI","medium_airport","Saky Air Base",45.090611,33.598536,36,"EU","UA","UA-43","Novofedorivka","no",,,"UKFI",,,"https://en.wikipedia.org/wiki/Saky_(air_base)","Аэродом Саки, URFI"
 31747,"UKFK","small_airport","Kerch Airport",45.372501,36.401402,171,"EU","UA","UA-43","Kerch","no","UKFK","KHC","UKFK",,,"https://en.wikipedia.org/wiki/Kerch_Airport",
 32531,"UKFV","small_airport","Yevpatoriya Airport",45.225601,33.376701,33,"EU","UA","UA-43","Yevpatoriya","no",,,"UKFE",,,"https://en.wikipedia.org/wiki/Yevpatoria_Airport","UKFV, Yevpatoria Aircraft Repair Plant Airport"
 44430,"UKFW","small_airport","Zavodskoe Airfield",44.916281,34.061586,955,"EU","UA","UA-43","Simferopol","no",,,"UKFW",,"https://web.archive.org/web/20090717025942/http://www.unavia.narod.ru:80/engl/index.html","https://en.wikipedia.org/wiki/Zavodske_Airfield","Zavodskoye Airfield, Аэродром Заводское"
@@ -77656,7 +77676,7 @@
 41722,"UZ-0035","small_airport","Nukus South Airport",42.36360168457031,59.516998291015625,240,"AS","UZ","UZ-QR","Nukus","no",,,,,,,
 41723,"UZ-0036","closed","Obi Kiik Airport",38.249298,67.721703,2213,"AS","UZ","UZ-SU","Khodzhi Sagat","no",,,,,,,
 41724,"UZ-0037","small_airport","Ostrov Vozrozhdeniya Airport",45.159148,59.301882,232,"AS","UZ","UZ-QR","Kantubek","no",,,,,,,
-41725,"UZ-0038","closed","Ostrov Vozrozhdeniya Southwest Airport",45.090401,59.222099,194,"AS","UZ","UZ-QR","Kantubek","no",,,,,,,
+41725,"UZ-0038","closed","Ostrov Vozrozhdeniya Southwest Airport",45.089666,59.220406,194,"AS","UZ","UZ-QR","Kantubek","no",,,,,,,
 41726,"UZ-0039","closed","Pap Airport",40.888599,71.091301,1516,"AS","UZ","UZ-NG","Khalkabad","no",,,,,,,
 41727,"UZ-0040","closed","Payark Airport",39.937801361083984,66.8666000366211,1990,"AS","UZ","UZ-SA","Payark","no",,,,,,,
 41728,"UZ-0041","closed","Saybui Airport",40.636002,71.700699,1391,"AS","UZ","UZ-FA","Saybui","no",,,,,,,"Soybuyi"
@@ -77907,7 +77927,7 @@
 26469,"VCCK","medium_airport","Koggala Airport",5.993680000305176,80.32029724121094,10,"AS","LK","LK-3","Galle","yes","VCCK","KCT","VCCK",,,"https://en.wikipedia.org/wiki/Koggala_Airport","SLAF Koggala"
 26470,"VCCN","small_airport","Katukurunda Air Force Base",6.55212020874,79.9775009155,10,"AS","LK","LK-1","Kalutara","no","VCCN","KTY","VCCN","VC14",,"https://en.wikipedia.org/wiki/Katukurunda_Airport","SLAF Katukurunda"
 4392,"VCCS","small_airport","Sigiriya Air Force Base",7.95667,80.7285,630,"AS","LK","LK-2","Sigiriya","no","VCCS","GIU","VCCS",,"http://www.airforce.lk/pages.php?pages=sigiriya","https://en.wikipedia.org/wiki/Sigiriya_Airport","VC15, SLAF Sigiriya"
-26471,"VCCT","medium_airport","China Bay Airport",8.5385103225708,81.18190002441406,6,"AS","LK","LK-5","Trincomalee","yes","VCCT","TRR","VCCT",,,"https://en.wikipedia.org/wiki/China_Bay_Airport","SLAF China Bay, RAF China Bay, Trincomalee Airport"
+26471,"VCCT","medium_airport","China Bay Airport",8.539159,81.18128,6,"AS","LK","LK-5","Trincomalee","yes","VCCT","TRR","VCCT",,,"https://en.wikipedia.org/wiki/China_Bay_Airport","SLAF China Bay, RAF China Bay, Trincomalee Airport"
 4391,"VCCV","small_airport","Vavuniya Airport",8.741009,80.497845,299,"AS","LK","LK-4","Vavuniya","no",,,"VCCV",,,"https://en.wikipedia.org/wiki/Vavuniya_Airport","VC13"
 26472,"VCCW","small_airport","Weerawila Airport",6.25449,81.235199,50,"AS","LK","LK-3","Weerawila","no","VCCW","WRZ","VCCW",,,"https://en.wikipedia.org/wiki/Weerawila_Airport","Wirawila Airport"
 309579,"VCRI","large_airport","Mattala Rajapaksa International Airport",6.284467,81.124128,157,"AS","LK","LK-3","Mattala","yes","VCRI","HRI","VCRI","VCRI","http://www.mria.lk/","https://en.wikipedia.org/wiki/Mattala_Rajapaksa_International_Airport","Hambantota International Airport"
@@ -78182,7 +78202,7 @@
 32206,"VEBG","small_airport","Balurghat Airport",25.2617,88.795601,78,"AS","IN","IN-WB","Balurghat","no","VEBG","RGH","VEBG",,,"https://en.wikipedia.org/wiki/Balurghat_Airport",
 26492,"VEBI","medium_airport","Shillong Airport",25.70359992980957,91.97869873046875,2910,"AS","IN","IN-ML","Shillong","yes","VEBI","SHL","VEBI",,,"https://en.wikipedia.org/wiki/Shillong_Airport","Barapani Airport, Barapani Air Force Station, Umroi Airport"
 26493,"VEBK","small_airport","Bokaro Airport",23.643499,86.148903,715,"AS","IN","IN-BR",,"no",,,"VEBK",,,"https://en.wikipedia.org/wiki/Bokaro_Airport",
-340009,"VEBM","small_airport","Berhampur Airport",19.2975,84.876944,,"AS","IN","IN-OR","Berhampur (Brahmapur)","no",,,"VEBM",,,"https://en.wikipedia.org/wiki/Rangeilunda_Airport",
+340009,"VEBM","small_airport","Berhampur Rangeilunda Airport",19.2975,84.876944,100,"AS","IN","IN-OR","Berhampur (Brahmapur)","no",,,"VEBM",,,"https://en.wikipedia.org/wiki/Berhampur_Airport","Brahmapur, Rangeilunda"
 26545,"VEBN","medium_airport","Lal Bahadur Shastri Airport",25.452129,82.861805,266,"AS","IN","IN-UP","Varanasi","yes","VEBN","VNS","VEBN",,"https://www.aai.aero/en/airports/varanasi","https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri_Airport","VIBN, Babatpur Airport, Varanasi Airport"
 26494,"VEBS","medium_airport","Biju Patnaik Airport",20.244400024399997,85.8178024292,138,"AS","IN","IN-OR","Bhubaneswar","yes","VEBS","BBI","VEBS",,"http://aai.aero/allAirports/bhubaneshwar_generalinfo.jsp","https://en.wikipedia.org/wiki/Biju_Patnaik_Airport",
 26435,"VEBU","medium_airport","Bilaspur Airport",21.9884,82.111,899,"AS","IN","IN-CT","Bilaspur","yes","VEBU","PAB","VEBU",,,"https://en.wikipedia.org/wiki/Bilaspur_Airport","VABI"
@@ -78529,7 +78549,7 @@
 26606,"VOBZ","medium_airport","Vijayawada Airport",16.530399,80.796799,82,"AS","IN","IN-AP","Gannavaram","yes","VOBZ","VGA","VOBZ",,"https://www.aai.aero/en/airports/vijayawada","https://en.wikipedia.org/wiki/Vijayawada_Airport",
 26607,"VOCB","medium_airport","Coimbatore International Airport",11.029999733,77.0434036255,1324,"AS","IN","IN-TN","Coimbatore","yes","VOCB","CJB","VOCB",,"http://www.airportsindia.org.in/allAirports/coimbatore_generalinfo.jsp","https://en.wikipedia.org/wiki/Coimbatore_Airport",
 26608,"VOCC","small_airport","INS Garuda / Willingdon Island Naval Air Station",9.946064,76.271947,8,"AS","IN","IN-KL","Kochi","no",,,"VOCC",,,"https://en.wikipedia.org/wiki/INS_Garuda","RAF Willingdon Island, Gochin, COK, Willingdon Island Air Base"
-26609,"VOCI","large_airport","Cochin International Airport",10.152,76.401901,30,"AS","IN","IN-KL","Kochi","yes","VOCI","COK","VOCI",,"http://www.cial.aero/","https://en.wikipedia.org/wiki/Cochin_International_Airport","Cochin"
+26609,"VOCI","large_airport","Cochin International Airport",10.151047,76.400838,30,"AS","IN","IN-KL","Kochi","yes","VOCI","COK","VOCI",,"http://www.cial.aero/","https://en.wikipedia.org/wiki/Cochin_International_Airport","Cochin"
 26610,"VOCL","medium_airport","Calicut International Airport",11.1368,75.955299,342,"AS","IN","IN-KL","Calicut","yes","VOCL","CCJ","VOCL",,,"https://en.wikipedia.org/wiki/Calicut_International_Airport",
 26611,"VOCP","medium_airport","Kadapa Airport",14.513154,78.769183,430,"AS","IN","IN-AP","Kadapa","yes","VOCP","CDP","VOCP",,,"https://en.wikipedia.org/wiki/Kadapa_Airport","Cuddapah"
 26612,"VOCX","medium_airport","Car Nicobar Air Force Base",9.153056,92.819273,5,"AS","IN","IN-AN","IAF Camp","no","VOCX","CBD","VOCX",,,"https://en.wikipedia.org/wiki/Car_Nicobar_Air_Force_Base","Carnicobar"
@@ -79111,7 +79131,7 @@
 26801,"WATT","small_airport","El Tari Airport",-10.1716,123.670998,335,"AS","ID","ID-NT","Kupang","yes","WATT","KOE","WATT",,,"https://en.wikipedia.org/wiki/El_Tari_Airport","WRKK"
 41382,"WATW","small_airport","Wonopito Airport",-8.361805,123.438554,25,"AS","ID","ID-NT","Lewoleba","no","WATW","LWE","WATW",,,"https://en.wikipedia.org/wiki/Wonopito_Airport","Lembata, Nubatukan"
 26756,"WAVV","medium_airport","Wamena Airport",-4.097324,138.952417,5435,"AS","ID","ID-PP","Wamena","yes","WAVV","WMX","WAVV",,,"https://en.wikipedia.org/wiki/Wamena_Airport","WAJW"
-26802,"WAWB","small_airport","Betoambari Airport",-5.48688,122.569,164,"AS","ID","ID-SG","Bau Bau","no","WAWB","BUW","WAWB",,,"https://en.wikipedia.org/wiki/Betoambari_Airport","WAAB"
+26802,"WAWB","small_airport","Betoambari Airport",-5.486037,122.569823,164,"AS","ID","ID-SG","Bau Bau","no","WAWB","BUW","WAWB",,,"https://en.wikipedia.org/wiki/Betoambari_Airport","WAAB. Baubau, Beto Ambari"
 333072,"WAWD","medium_airport","Matahora Airport",-5.293996,123.634,88,"AS","ID","ID-SG","Wangi-wangi Island","yes",,"WNI","WAWD",,,"https://en.wikipedia.org/wiki/Matahora_Airport",
 311020,"WAWH","small_airport","Selayar - Haji Aroeppala Airport",-6.17921,120.437479,13,"AS","ID","ID-SN","Benteng","yes",,"KSR","WAWH",,,"https://en.wikipedia.org/wiki/H._Aroeppala_Airport","Haji Aroeppala, Lagaligo Airport"
 523599,"WAWN","small_airport","Arung Palakka Airport",-4.459582,120.310436,130,"AS","ID","ID-SN","Bone","no",,"APD","WAWN",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Arung_Palakka",
@@ -79306,6 +79326,7 @@
 26847,"WIOO","medium_airport","Supadio Airport",-0.150711,109.403999,10,"AS","ID","ID-KB","Pontianak","yes","WIOO","PNK","WIOO",,,"https://en.wikipedia.org/wiki/Supadio_Airport",
 26848,"WIOP","medium_airport","Pangsuma Airport",0.834579,112.940217,297,"AS","ID","ID-KB","Putussibau-Borneo Island","yes","WIOP","PSU","WIOP",,,"https://en.wikipedia.org/wiki/Pangsuma_Airport",
 525696,"WIOS","medium_airport","Tebelian Airport",-0.045214,111.458049,97,"AS","ID","ID-KB","Sintang","yes","WIOS","SQG","WIOS",,,"https://en.wikipedia.org/wiki/Tebelian_Airport",
+595550,"WIOV","small_airport","Babang Airstrip",1.340038,109.911081,135,"AS","ID","ID-KB","Jagoi","no",,,"WIOV",,,,
 26850,"WIPA","small_airport","Sultan Thaha Airport",-1.638685,103.645063,82,"AS","ID","ID-JA","Jambi","yes",,"DJB","WIJJ",,,"https://en.wikipedia.org/wiki/Sultan_Thaha_Airport","WIPA, Palmerah"
 41459,"WIPB","small_airport","Silampari Airport",-3.288165,102.91449,371,"AS","ID","ID-SS","Lubuk Linggau","no","WIPB","LLJ","WIPB","LLG","http://hubud.dephub.go.id/?en+info_bandara+detail+100","https://en.wikipedia.org/wiki/Silampari_Airport",
 26851,"WIPD","small_airport","Banding Agung Airport",-4.78702,103.932999,2100,"AS","ID","ID-SS","Pasar Bandingagung","no",,,"WIPD",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Banding_Agung",
@@ -80470,7 +80491,7 @@
 38333,"YDWU","small_airport","Dalwallinu Airport",-30.199814,116.655364,,"OC","AU","AU-WA",,"no",,,"YDWU",,,,
 38334,"YDYD","small_airport","Derry Downs Airport",-22.08329963684082,135.33299255371094,,"OC","AU","AU-NT",,"no",,,"YDYD",,,,
 26976,"YDYS","medium_airport","Dysart Airport",-22.6222,148.363998,670,"OC","AU","AU-QLD",,"no","YDYS","DYA","YDYS",,,"https://en.wikipedia.org/wiki/Dysart_Airport",
-340199,"YE-0001","small_airport","Perim / Mayyun West Airfield",12.66456,43.41023,,"AS","YE","YE-TA","Dhubab","no",,,,,,,
+340199,"YE-0001","closed","Perim / Mayyun West Airfield",12.66456,43.41023,,"AS","YE","YE-TA","Dhubab","no",,,,,,,
 340200,"YE-0002","small_airport","Perim / Mayyun East Airfield",12.661236,43.429654,,"AS","YE","YE-TA","Dhubab","no",,,,,,,
 348395,"YE-0003","small_airport","Al Dhaba Airport",14.70339,49.49634,52,"AS","YE","YE-HD","Al Dhaba","no",,,,,,,"Petromasila Dabba"
 348442,"YE-0004","heliport","Ma'asheeq Presidential Palace Heliport",12.76404,45.05339,151,"AS","YE","YE-AD","Aden","no",,,,,,,
@@ -80481,12 +80502,13 @@
 351962,"YE-0009","heliport","Balhaf Lower Heliport",14.00131,48.17582,16,"AS","YE","YE-SH","Balhaf","no",,,,,,,
 351963,"YE-0010","heliport","Balhaf North Heliport",14.0121,48.18081,82,"AS","YE","YE-SH","Balhaf","no",,,,,,,
 351964,"YE-0011","heliport","Aden International Stadium Heliport",13.11228,45.42159,32,"AS","YE","YE-AB","Zinjibar","no",,,,,,,
-516986,"YE-0012","closed","Mocha",13.296941,43.231858,,"AS","YE","YE-U-A",,"no",,,,,,,
-517008,"YE-0013","small_airport","Sayma",13.020746,43.467598,,"AS","YE","YE-U-A",,"no",,,,,,,
-517009,"YE-0014","small_airport","Kharir",15.734984,48.799187,,"AS","YE","YE-U-A",,"no",,,,,,,
-517039,"YE-0015","small_airport","Um Ghareb",18.399411,49.127599,,"AS","YE","YE-U-A",,"no",,,,,,,
-519257,"YE-0016","small_airport","Aden New",12.785641,44.828894,,"AS","YE","YE-U-A",,"no",,,,,,,
-557987,"YE-0017","small_airport","Kilmia",12.186662,52.291746,,"AS","YE","YE-U-A",,"no",,,,,,,
+516986,"YE-0012","closed","Mokha Airport",13.296941,43.231858,,"AS","YE","YE-TA","Mokha","no",,,,,,,"Mocha"
+517008,"YE-0013","small_airport","Sayma Airfield",13.020746,43.467598,,"AS","YE","YE-TA","Sayma","no",,,,,,,
+517009,"YE-0014","small_airport","Kharir Airfield",15.734888,48.793107,,"AS","YE","YE-HD","Kharir","no",,,,,,,
+517039,"YE-0015","small_airport","Um Ghareb Airfield",18.399411,49.127599,,"AS","YE","YE-HD","Um Ghareb","no",,,,,,,
+519257,"YE-0016","small_airport","Little Aden Airfield",12.785666,44.825802,,"AS","YE","YE-AD","Little Aden","no",,,,,,,
+557987,"YE-0017","small_airport","Abd al-Kuri Air Base",12.186662,52.291746,,"AS","YE","YE-SU","Kilmia","no",,,,,,,
+595537,"YE-0018","small_airport","Perim Air Base",12.66653,43.40793,,"AS","YE","YE-TA","Mayyun","no",,,,,,,
 27537,"YEAB","small_airport","Euabalong Airport",-33.137268,146.424494,,"OC","AU","AU-NSW",,"no",,,"YEAB",,,,
 38335,"YEAT","small_airport","Yea Airport",-37.21580123901367,146.42999267578125,,"OC","AU","AU-VIC",,"no",,,"YEAT",,,,
 526536,"YECB","small_airport","Eco Beach Airport",-18.323333,122.128056,73,"OC","AU","AU-WA","Broome","no",,,"YECB",,,,
@@ -82292,6 +82314,7 @@
 595527,"ZA-0344","small_airport","Mica Village Airstrip",-24.15865,30.83891,1486,"AF","ZA","ZA-NP","Gravelotte","no",,,,,,,
 595528,"ZA-0345","small_airport","Garonga Airstrip",-24.09922,30.71658,1575,"AF","ZA","ZA-NP","Phalaborwa","no",,,,,,,
 595529,"ZA-0346","small_airport","Askari Airstrip",-24.08148,30.57187,1575,"AF","ZA","ZA-NP","Tzaneen","no",,,,,,,
+595536,"ZA-0347","small_airport","Wild Rivers Airfield",-24.27446,30.8896,1637,"AF","ZA","ZA-NP","Hoedspruit","no",,,,,,,
 31753,"ZA-KIG","small_airport","Koingnaas Airport",-30.187136,17.282706,228,"AF","ZA","ZA-NC","Koingnaas","no",,"KIG",,,,,
 27188,"ZBAA","large_airport","Beijing Capital International Airport",40.080101013183594,116.58499908447266,116,"AS","CN","CN-11","Beijing","yes","ZBAA","PEK","ZBAA",,"http://en.bcia.com.cn/","https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport","BJS, Bejing, Peking, Olympics"
 330820,"ZBAD","large_airport","Beijing Daxing International Airport",39.509945,116.41092,98,"AS","CN","CN-11","Beijing","yes","ZBAD","PKX","ZBAD",,,"https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport",
@@ -82665,6 +82688,11 @@
 351703,"ZW-0061","closed","Mbuhulu Airstrip",-19.509961,27.408571,3370,"AF","ZW","ZW-MN","Mbuhulu Pan","no",,,,,,,
 31262,"ZW-0062","closed","Spray View Airport",-17.917,25.816999,3210,"AF","ZW","ZW-MN","Spray View","no",,,,,,,"FVSV, FVSV"
 31268,"ZW-0063","closed","Tonje Airport",-20.316999,32.349998,1500,"AF","ZW","ZW-MA","Tonje","no",,,,,,,"FVTJ, FVTJ"
+595576,"ZW-0064","small_airport","Matetsi East Airstrip",-18.37304,26.27076,2638,"AF","ZW","ZW-MN","Hwange","no",,,,,,,
+595577,"ZW-0065","closed","Matetsi North 1 Airstrip",-18.33451,26.24529,,"AF","ZW","ZW-MN","Hwange","no",,,,,,,
+595578,"ZW-0066","closed","Matetsi North 2 Airstrip",-18.32959,26.20575,,"AF","ZW","ZW-MN","Hwange","no",,,,,,,
+595579,"ZW-0067","small_airport","Chawato Airfield",-18.51297,26.27256,2855,"AF","ZW","ZW-MN","Sinamatella Camp","no",,,,,,,
+595581,"ZW-0068","closed","Camp Selous Airstrip",-18.69297,27.20127,,"AF","ZW","ZW-MN","Gwayi River Farms","no",,,,,,,
 30635,"ZWAK","medium_airport","Aksu Hongqipo Airport",41.262501,80.291702,3816,"AS","CN","CN-65","Aksu (Onsu)","yes","ZWAK","AKU","ZWAK",,,"https://en.wikipedia.org/wiki/Aksu_Hongqipo_Airport","Ak-su, Akshu, Aqsu, Bharuka, Po-lu-chia, Aksu Wensu Air Base, Onsu"
 354654,"ZWAL","small_airport","Aral Tarim Airport",40.434748,81.26206,,"AS","CN","CN-65","Aral","yes",,"ACF","ZWAL",,,"https://en.wikipedia.org/wiki/Aral_Talim_Airport",
 44191,"ZWAT","medium_airport","Altay Xuedu Airport",47.749886,88.085808,2460,"AS","CN","CN-65","Altay","yes","ZWAT","AAT","ZWAT",,,"https://en.wikipedia.org/wiki/Altay_Xuedu_Airport","Altay Air Base"
