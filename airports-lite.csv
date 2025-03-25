@@ -2653,6 +2653,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 27302,IBL,medium_airport,Indigo Bay Lodge Airport,-21.708,35.452801,20,AF,MZ,MZ-I,Bazaruto Island,no,,IBL,,,,https://en.wikipedia.org/wiki/Indigo_Bay_Lodge_Airport,
 309145,ICO,small_airport,Sicogon Airstrip,11.4595,123.2506,25,AS,PH,PH-ILI,Carles,no,,ICO,,,,https://en.wikipedia.org/wiki/Sicogon_Airport,
 41492,ID-0003,small_airport,Pulau Panjang Airport,-5.644444,106.5625,155,AS,ID,ID-JB,Jakarta,no,,PPJ,WIHG,,,,"WIIG, Panjang Island"
+311154,ID-0139,small_airport,Syekh Hamzah Fansyuri Airport,2.269614,97.967863,17,AS,ID,ID-AC,Singkil,yes,WIMI,,WIMI,,,https://en.wikipedia.org/wiki/Syekh_Hamzah_Fansyuri_Airport,WT13
 311871,ID-0172,small_airport,Enggano Airport,-5.305621,102.189546,36,AS,ID,ID-BE,Enggano,no,,ENG,WIGE,,,,
 352224,ID-0214,small_airport,Blangkejeren Airport,3.94548,97.35968,,AS,ID,ID-AC,Kabupaten Gayo Lues,no,,GYO,WIMG,,,,
 507227,ID-0277,large_airport,Dhoho International Airport,-7.750278,111.947222,380,AS,ID,ID-JI,Kediri,no,,DHX,WARD,,https://www.kediri-airport.com/,https://en.wikipedia.org/wiki/Dhoho_International_Airport,Dhoho
@@ -8299,7 +8300,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26824,WICC,medium_airport,Husein Sastranegara International Airport,-6.90063,107.575996,2436,AS,ID,ID-JB,Bandung,yes,WICC,BDO,WICC,,,https://en.wikipedia.org/wiki/Husein_Sastranegara_International_Airport,WIIB
 26825,WICD,small_airport,Penggung Airport,-6.757,108.538849,89,AS,ID,ID-JB,Cirebon-Java Island,no,WICD,CBN,WICD,,,https://en.wikipedia.org/wiki/Penggung_Airport,"cakrabhuwana, cakrabuana, WIIC"
 26826,WICM,small_airport,Cibeureum Airport,-7.3466,108.246002,1148,AS,ID,ID-JB,Tasikmalaya-Java Island,no,WICM,TSY,WICM,,,https://en.wikipedia.org/wiki/Tasikmalaya_Airport,"WIAM, wiriadinata"
-3272,WICN,small_airport,Nusawiru Airport,-7.719895,108.488995,16,AS,ID,ID-JB,Cijulang,yes,WICN,CJN,WICN,WI1A,,https://en.wikipedia.org/wiki/Cijulang_Nusawiru_Airport,
+3272,WICN,small_airport,Nusawiru Airport,-7.719895,108.488995,16,AS,ID,ID-JB,Cijulang,yes,WICN,CJN,WICN,,,https://en.wikipedia.org/wiki/Cijulang_Nusawiru_Airport,WI1A
 525167,WIDB,small_airport,Tambelan Airport,0.979922,107.564658,19,AS,ID,ID-KR,Tambelan,no,,TBX,WIDB,,,https://id.wikipedia.org/wiki/Bandar_Udara_Tambelan,
 26828,WIDD,medium_airport,Hang Nadim International Airport,1.12103,104.119003,126,AS,ID,ID-KR,Batam,yes,WIDD,BTH,WIDD,,,https://en.wikipedia.org/wiki/Hang_Nadim_Airport,WIKB
 26829,WIDE,small_airport,Tuanku Tambusai Airport,0.845431,100.370154,151,AS,ID,ID-RI,Pasir Pengarayan,no,,PPR,WIBG,,,https://en.wikipedia.org/wiki/Tuanku_Tambusai_Airport,WIDE
