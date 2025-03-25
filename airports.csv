@@ -1296,7 +1296,7 @@
 7887,"14L","heliport","Devonshire Area Heliport",34.256882,-118.531352,1012,"NA","US","US-CA","Los Angeles","no",,,,"14L",,,
 7889,"14LL","heliport","Gottlieb Heliport",41.91138164349999,-87.843619287,688,"NA","US","US-IL","Melrose Park","no",,,"14LL","14LL",,,
 7890,"14LS","heliport","Go Gulf Heliport",30.47330093383789,-91.04769897460938,50,"NA","US","US-LA","Baton Rouge","no",,,"14LS","14LS",,,
-10266,"14ME","small_airport","Ring Hill Airport",44.79125,-69.071479,340,"NA","US","US-ME","Carmel","no",,,"14ME","14ME",,"https://en.wikipedia.org/wiki/Ring_Hill_Airport","Formerly 38B"
+10266,"14ME","closed","Ring Hill Airport",44.79125,-69.071479,340,"NA","US","US-ME","Carmel","no",,,,,,"https://en.wikipedia.org/wiki/Ring_Hill_Airport","Formerly 38B, 14ME"
 7893,"14MN","heliport","Riverwood Healthcare Center Heliport",46.52920150756836,-93.69920349121094,1224,"NA","US","US-MN","Aitkin","no",,,"14MN","14MN",,,
 7895,"14MS","small_airport","Rose Field",32.345298767089844,-89.0342025756836,400,"NA","US","US-MS","Hickory","no",,,"14MS","14MS",,,
 7897,"14N","small_airport","Beltzville Airport",40.844755,-75.634217,899,"NA","US","US-PA","Lehighton","no",,,,"14N",,,
@@ -2171,7 +2171,7 @@
 8825,"21CA","heliport","CRC-Huntington Beach Heliport",33.683833,-118.031778,40,"NA","US","US-CA","Huntington Beach","no",,,"21CA","21CA",,,"Area Energy LLC"
 8826,"21CL","heliport","Sheriff's Heliport",34.70000076293945,-118.05899810791016,2367,"NA","US","US-CA","Lancaster","no",,,"21CL","21CL",,,
 345776,"21CN","heliport","Vermont Corridor County Admin Emergency Helicopter Landing Facility",34.064632,-118.291104,544,"NA","US","US-CA","Los Angeles","no",,,"21CN","21CN",,,
-8829,"21FD","small_airport","Land's Field",30.694599151611328,-85.31079864501953,100,"NA","US","US-FL","Marianna","no",,,"21FD","21FD",,,
+8829,"21FD","closed","Land's Field",30.695063,-85.312976,100,"NA","US","US-FL","Marianna","no",,,,,,,"21FD"
 8830,"21FL","small_airport","Kings Field",28.50860023498535,-81.80030059814453,98,"NA","US","US-FL","Clermont","no",,,"21FL","21FL",,,
 8831,"21GA","heliport","Piedmont Hospital-Newnan Heliport",33.3926010132,-84.817199707,930,"NA","US","US-GA","Newnan","no",,,"21GA","21GA",,,
 8832,"21GE","small_airport","Deer Crossing Airport",34.54970169067383,-83.82219696044922,1390,"NA","US","US-GA","Cleveland","no",,,"21GE","21GE",,,
@@ -2557,6 +2557,7 @@
 45508,"28MT","small_airport","Cain Ranch Airport",46.952372,-112.747078,4480,"NA","US","US-MT","Lincoln","no",,,"28MT","28MT",,,
 9212,"28N","small_airport","Vineland-Downtown Airport",39.537601,-74.966301,120,"NA","US","US-NJ","Vineland","no",,,,"28N",,"https://en.wikipedia.org/wiki/Vineland%E2%80%93Downstown_Airport",
 9213,"28NC","balloonport","Balloonport of Greensboro Balloonport",35.9557991027832,-79.81890106201172,800,"NA","US","US-NC","Greensboro","no",,,"28NC","28NC",,,
+595672,"28NE","small_airport","Big Thunder Airport",41.790278,-97.096944,1740,"NA","US","US-NE","Clarkson","no",,,"28NE","28NE",,,
 9215,"28NH","heliport","A and K Heliport",42.9369010925293,-71.66950225830078,825,"NA","US","US-NH","New Boston","no",,,"28NH","28NH",,,
 45670,"28NK","small_airport","Ritchie Airfield",44.186789,-76.075981,385,"NA","US","US-NY","Clayton","no",,,"28NK","28NK",,,
 322683,"28NR","small_airport","Dry Pond Airport",35.3475,-81.995001,1130,"NA","US","US-NC","Rutherfordton","no",,,"28NR","28NR",,,
@@ -2827,7 +2828,7 @@
 9489,"2KS0","small_airport","Rupp Airport",37.20669937133789,-96.07689666748047,1000,"NA","US","US-KS","Sedan","no",,,"2KS0","2KS0",,,
 9490,"2KS1","small_airport","Rush Airport",39.77439880371094,-95.2510986328125,950,"NA","US","US-KS","Severance","no",,,"2KS1","2KS1",,,
 9491,"2KS2","small_airport","Stuber Flying Ranch Airport",37.655601501464844,-96.29060363769531,1200,"NA","US","US-KS","Severy","no",,,"2KS2","2KS2",,,
-9494,"2KS5","small_airport","Plains Municipal Airport",37.27090072631836,-100.58799743652344,2762,"NA","US","US-KS","Plains","no",,,"2KS5","2KS5",,,
+9494,"2KS5","small_airport","Plains Municipal Airport",37.266749,-100.583793,2762,"NA","US","US-KS","Plains","no",,,"KS44","S44",,,"2KS5"
 322196,"2KS6","small_airport","Flying H Airport",39.750379,-96.026783,1192,"NA","US","US-KS","Seneca","no",,,"2KS6","2KS6",,,
 9495,"2KS8","small_airport","Vonada Airport",39.11371,-98.40338,1629,"NA","US","US-KS","Sylvan Grove","no",,,"2KS8","2KS8",,,
 9496,"2KS9","small_airport","Starshire Farm Airport",38.900001525878906,-95.58360290527344,990,"NA","US","US-KS","Topeka","no",,,"2KS9","2KS9",,,
@@ -3672,6 +3673,7 @@
 10323,"39G","small_airport","Avoca Airport",43.030471,-82.669466,726,"NA","US","US-MI","Avoca","no",,,"39G","39G",,"https://en.wikipedia.org/wiki/Avoca_Airport","Bebensee, Rasor"
 10324,"39GA","heliport","Wayne Memorial Hospital Heliport",31.601375,-81.898524,99,"NA","US","US-GA","Jessup","no",,,"39GA","39GA",,,"Air Evac 96 Heliport"
 10325,"39IA","small_airport","Husband Field",41.67940139770508,-94.02020263671875,1010,"NA","US","US-IA","Dallas Center","no",,,"39IA","39IA",,,
+595677,"39ID","small_airport","Getaway Field",46.695349,-116.606304,2718,"NA","US","US-ID","Kendrick","no",,,"39ID","39ID",,,
 10327,"39II","small_airport","Miller Field",41.514801025390625,-85.55220031738281,957,"NA","US","US-IN","Topeka","no",,,"39II","39II",,,
 10329,"39IN","small_airport","Roberts Field",40.00230026245117,-85.42890167236328,1085,"NA","US","US-IN","Sulphur Springs","no",,,"39IN","39IN",,,
 10331,"39K","small_airport","Pomona Lake Airport",38.692001,-95.690002,1050,"NA","US","US-KS","Lyndon","no",,,"K39K","39K",,,
@@ -30617,7 +30619,7 @@
 311145,"ID-0136","small_airport","Serukam",0.797,109.3317,190,"AS","ID","ID-KB","Serukam","no",,,,,,,"WT02"
 311148,"ID-0137","small_airport","Sikari Airstrip",-2.7616,138.3859,217,"AS","ID","ID-PA","Sikari","no",,,,"SIK",,,"WT04"
 311149,"ID-0138","small_airport","Silimo Airstrip",-4.466012,138.943062,5760,"AS","ID","ID-PP","Silimo","no",,,,,,,
-311154,"ID-0139","small_airport","Syekh Hamzah Fansyuri Airport",2.2695,97.9666,17,"AS","ID","ID-AC","Singkil","yes",,,,,,"https://en.wikipedia.org/wiki/Syekh_Hamzah_Fansyuri_Airport","WT13"
+311154,"ID-0139","small_airport","Syekh Hamzah Fansyuri Airport",2.269614,97.967863,17,"AS","ID","ID-AC","Singkil","yes","WIMI",,"WIMI",,,"https://en.wikipedia.org/wiki/Syekh_Hamzah_Fansyuri_Airport","WT13"
 311168,"ID-0140","heliport","Santosa Hospital Helipad",-6.915161,107.600124,2430,"AS","ID","ID-JB","Bandung","no",,,,,,,
 311170,"ID-0141","small_airport","Siriwo Airstrip",-3.5388,135.948971,533,"AS","ID","ID-PT","Siriwo","no",,,,"SIW",,,"WT17"
 311172,"ID-0142","small_airport","Soba Airstrip",-4.345427,139.179196,6125,"AS","ID","ID-PP","Soba","no",,,,"SOB",,,"WT20"
@@ -68635,6 +68637,8 @@
 595596,"US-12680","heliport","Dayton General Hospital Heliport",46.31249,-117.9695,1638,"NA","US","US-WA","Dayton","no",,,,,,,
 595600,"US-12681","small_airport","Yellowstone Air Park",32.559951,-98.21127,974,"NA","US","US-TX","Santo","no",,,"TX32","TX32",,,
 595602,"US-12682","small_airport","Twisted Prop Airport",46.297841,-118.289665,1071,"NA","US","US-WA","Prescott","no",,,"WT03","WT03",,,
+595680,"US-12683","seaplane_base","Larry's Cove Seaplane Base",44.182931,-69.967607,174,"NA","US","US-ME","Monmouth","no",,,"14ME","14ME",,,
+595682,"US-12684","heliport","AdventHealth Partin Settlement Helistop",28.276622,-81.343111,75,"NA","US","US-FL","Kissimmee","no",,,"21FD","21FD",,,
 334277,"US-1269","small_airport","Kourtis Family Farm Airport",36.415446,-96.056122,919,"NA","US","US-OK","Skiatook","no",,,"OL19","OL19",,,
 334278,"US-1270","small_airport","Richland Creek Airport",35.914847,-92.899712,735,"NA","US","US-AR","Saint Joe","no",,,"4AR9","4AR9",,,"Richland Creek Airfield"
 334280,"US-1271","small_airport","Taylor Homestead Airport",48.092824,-114.157961,2903,"NA","US","US-MT","Somers","no",,,"MT61","MT61",,,
@@ -78507,6 +78511,7 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,,"XLO, XLO"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
+595695,"VN-0077","small_airport","Nhà cái 368Bet",0.000001,0.000001,,"AS","VN","VN-CH",,"no",,,,,"https://368bet.site",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
@@ -79307,7 +79312,7 @@
 26824,"WICC","medium_airport","Husein Sastranegara International Airport",-6.90063,107.575996,2436,"AS","ID","ID-JB","Bandung","yes","WICC","BDO","WICC",,,"https://en.wikipedia.org/wiki/Husein_Sastranegara_International_Airport","WIIB"
 26825,"WICD","small_airport","Penggung Airport",-6.757,108.538849,89,"AS","ID","ID-JB","Cirebon-Java Island","no","WICD","CBN","WICD",,,"https://en.wikipedia.org/wiki/Penggung_Airport","cakrabhuwana, cakrabuana, WIIC"
 26826,"WICM","small_airport","Cibeureum Airport",-7.3466,108.246002,1148,"AS","ID","ID-JB","Tasikmalaya-Java Island","no","WICM","TSY","WICM",,,"https://en.wikipedia.org/wiki/Tasikmalaya_Airport","WIAM, wiriadinata"
-3272,"WICN","small_airport","Nusawiru Airport",-7.719895,108.488995,16,"AS","ID","ID-JB","Cijulang","yes","WICN","CJN","WICN","WI1A",,"https://en.wikipedia.org/wiki/Cijulang_Nusawiru_Airport",
+3272,"WICN","small_airport","Nusawiru Airport",-7.719895,108.488995,16,"AS","ID","ID-JB","Cijulang","yes","WICN","CJN","WICN",,,"https://en.wikipedia.org/wiki/Cijulang_Nusawiru_Airport","WI1A"
 525167,"WIDB","small_airport","Tambelan Airport",0.979922,107.564658,19,"AS","ID","ID-KR","Tambelan","no",,"TBX","WIDB",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Tambelan",
 26828,"WIDD","medium_airport","Hang Nadim International Airport",1.12103,104.119003,126,"AS","ID","ID-KR","Batam","yes","WIDD","BTH","WIDD",,,"https://en.wikipedia.org/wiki/Hang_Nadim_Airport","WIKB"
 26829,"WIDE","small_airport","Tuanku Tambusai Airport",0.845431,100.370154,151,"AS","ID","ID-RI","Pasir Pengarayan","no",,"PPR","WIBG",,,"https://en.wikipedia.org/wiki/Tuanku_Tambusai_Airport","WIDE"
