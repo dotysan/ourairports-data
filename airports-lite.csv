@@ -1242,12 +1242,12 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31527,DIGA,small_airport,Gagnoa Airport,6.102855,-5.986809,732,AF,CI,CI-SM,Gagnoa,no,DIGA,GGN,DIGA,,,https://en.wikipedia.org/wiki/Gagnoa_Airport,
 31528,DIGL,small_airport,Guiglo Airport,6.534711,-7.526847,722,AF,CI,CI-MG,Guiglo,no,DIGL,GGO,DIGL,,,https://en.wikipedia.org/wiki/Guiglo_Airport,
 30917,DIGN,small_airport,Nero-Mer Airport,4.64341306686,-6.923961639400001,20,AF,CI,CI-BS,Grand-Béréby,no,DIGN,BBV,DIGN,,,https://en.wikipedia.org/wiki/Nero-Mer_Airport,
-2099,DIKO,medium_airport,Korhogo Airport,9.38718,-5.55666,1214,AF,CI,CI-SV,Korhogo,no,DIKO,HGO,DIKO,,,https://en.wikipedia.org/wiki/Korhogo_Airport,
+2099,DIKO,medium_airport,Korhogo Airport,9.38718,-5.55666,1214,AF,CI,CI-SV,Korhogo,yes,DIKO,HGO,DIKO,,,https://en.wikipedia.org/wiki/Korhogo_Airport,
 2100,DIMN,medium_airport,Man Airport,7.27207,-7.58736,1089,AF,CI,CI-MG,,no,DIMN,MJC,DIMN,,,https://en.wikipedia.org/wiki/Man_Airport,
 31742,DIOD,small_airport,Odienne Airport,9.539457,-7.56134,1365,AF,CI,CI-DN,Odienne,no,DIOD,KEO,DIOD,,,https://en.wikipedia.org/wiki/Odienn%C3%A9_Airport,
 32095,DIOF,small_airport,Ouango Fitini Airport,9.6,-4.05,974,AF,CI,CI-ZZ,Ouango Fitini,no,DIOF,OFI,DIOF,,,https://en.wikipedia.org/wiki/Ouango_Fitini_Airport,
 32280,DISG,small_airport,Séguéla Airport,7.96,-6.644167,1056,AF,CI,CI-WR,Séguéla,no,DISG,SEO,DISG,,,https://en.wikipedia.org/wiki/S%C3%A9gu%C3%A9la_Airport,
-2101,DISP,medium_airport,San Pedro Airport,4.74672,-6.66082,26,AF,CI,CI-BS,,no,DISP,SPY,DISP,,,https://en.wikipedia.org/wiki/San_P%C3%A9dro_Airport,
+2101,DISP,medium_airport,San Pedro Airport,4.74672,-6.66082,26,AF,CI,CI-BS,,yes,DISP,SPY,DISP,,,https://en.wikipedia.org/wiki/San_P%C3%A9dro_Airport,
 32750,DISS,small_airport,Sassandra Airport,4.928888,-6.133156,203,AF,CI,CI-BS,Sassandra,no,DISS,ZSS,DISS,,,https://en.wikipedia.org/wiki/Sassandra_Airport,
 28483,DITB,small_airport,Tabou Airport,4.437809467315674,-7.362728118896484,39,AF,CI,CI-BS,Tabou,no,DITB,TXU,DITB,,,https://en.wikipedia.org/wiki/Tabou_Airport,
 316459,DITM,small_airport,Mahana Airport,8.2934,-7.674,1583,AF,CI,CI-WR,Touba,no,DITM,TOZ,DITM,,,https://en.wikipedia.org/wiki/Mahana_Airport,
@@ -2381,7 +2381,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3137,GQPA,medium_airport,Atar International Airport,20.506799697875977,-13.04319953918457,734,AF,MR,MR-07,Atar,no,GQPA,ATR,GQPA,,,https://en.wikipedia.org/wiki/Atar_International_Airport,
 31126,GQPF,small_airport,Fderik Airport,22.673551,-12.729262,961,AF,MR,MR-11,Fderik,no,GQPF,FGD,GQPF,,,https://en.wikipedia.org/wiki/Fderik_Airport,
 3138,GQPP,medium_airport,Nouadhibou International Airport,20.9330997467041,-17.030000686645508,24,AF,MR,MR-08,Nouadhibou,yes,GQPP,NDB,GQPP,,,https://en.wikipedia.org/wiki/Nouadhibou_International_Airport,
-32135,GQPZ,small_airport,Tazadit Airport,22.757345,-12.482228,1119,AF,MR,MR-11,Zouérate,no,GQPZ,OUZ,GQPZ,,,https://en.wikipedia.org/wiki/Tazadit_Airport,
+32135,GQPZ,small_airport,Tazadit Airport,22.757345,-12.482228,1119,AF,MR,MR-11,Zouérate,yes,GQPZ,OUZ,GQPZ,,,https://en.wikipedia.org/wiki/Tazadit_Airport,
 311387,GRC,small_airport,Grand Cess Airport,4.571,-8.2076,28,AF,LR,LR-GK,Grand Cess,no,,GRC,,,,,
 42230,GT-0001,small_airport,Chiquimula Airport,14.83092,-89.520938,1484,NA,GT,GT-CQ,Chiquimula,no,,CIQ,MGCQ,,,https://en.wikipedia.org/wiki/Chiquimula_Airport,
 42231,GT-0002,small_airport,Dos Lagunas Airport,17.6124,-89.6884,1057,NA,GT,GT-PE,Dos Lagunas,no,,DON,MGDL,,,https://en.wikipedia.org/wiki/Dos_Lagunas_Airport,
@@ -2556,7 +2556,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32500,HKSB,small_airport,Samburu Airport,0.534069,37.531991,3295,AF,KE,KE-700,Samburu,no,HKSB,UAS,HKSB,,,https://en.wikipedia.org/wiki/Samburu_Airport,Buffalo Spring
 31596,HKUK,small_airport,Ukunda Airstrip,-4.29333,39.571098,98,AF,KE,KE-300,Ukunda,no,HKUK,UKA,HKUK,,http://www.kenyaairports.co.ke/kaa/airports/airstrips/ukunda_intro.html,https://en.wikipedia.org/wiki/Ukunda_Airport,"HKKA,6643"
 3217,HKWJ,medium_airport,Wajir Airport,1.73324,40.091599,770,AF,KE,KE-500,Wajir,yes,HKWJ,WJR,HKWJ,,,https://en.wikipedia.org/wiki/Wajir_Airport,
-3219,HLGD,medium_airport,Sirt International Airport / Ghardabiya Airbase,31.063499,16.594999,267,AF,LY,LY-SR,Sirt,yes,HLGD,SRX,HLGD,,,https://en.wikipedia.org/wiki/Ghardabiya_Airbase,"Gardabiya, Sirte"
+3219,HLGD,medium_airport,Sirt International Airport / Ghardabiya Airbase,31.063499,16.594999,267,AF,LY,LY-SR,Sirt,no,HLGD,SRX,HLGD,,,https://en.wikipedia.org/wiki/Ghardabiya_Airbase,"Gardabiya, Sirte"
 3221,HLGT,medium_airport,Ghat Airport,25.1455993652,10.142600059500001,2296,AF,LY,LY-GT,Ghat,yes,HLGT,GHT,HLGT,,,https://en.wikipedia.org/wiki/Ghat_Airport,
 3222,HLKF,medium_airport,Kufra Airport,24.178699493408203,23.31399917602539,1367,AF,LY,LY-KF,Kufra,yes,HLKF,AKF,HLKF,,,https://en.wikipedia.org/wiki/Kufra_Airport,
 3223,HLLB,medium_airport,Benina International Airport,32.096802,20.269501,433,AF,LY,LY-BA,Benina,yes,HLLB,BEN,HLLB,,,https://en.wikipedia.org/wiki/Benina_International_Airport,"Benghazi, Soluch Airfield"
@@ -2567,9 +2567,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31944,HLMS,small_airport,Misrata International Airport,32.325001,15.061,60,AF,LY,LY-MI,Misrata,yes,HLMS,MRA,HLMS,,,https://en.wikipedia.org/wiki/Misrata_Airport,"Misratah, Misurata"
 31602,HLNR,small_airport,Nafurah 1 Airport,29.2132,21.5924,125,AF,LY,LY-WA,Nafurah 1,no,HLNR,NFR,HLNR,,,,
 3230,HLON,small_airport,Hon Airport,29.1101,15.9656,919,AF,LY,LY-JU,,no,HLON,HUQ,HLON,,,https://en.wikipedia.org/wiki/Hun_Airport,
-3232,HLTD,medium_airport,Ghadames East Airport,30.15169906616211,9.715310096740723,1122,AF,LY,LY-NL,Ghadames,yes,HLTD,LTD,HLTD,,,https://en.wikipedia.org/wiki/Ghadames_Airport,
+3232,HLTD,medium_airport,Ghadames East Airport,30.151699,9.71531,1122,AF,LY,LY-NL,Ghadames,no,HLTD,LTD,HLTD,,,https://en.wikipedia.org/wiki/Ghadames_Airport,
 32467,HLTQ,small_airport,Tobruk International Airport,31.861,23.907,519,AF,LY,LY-BU,Adam,yes,,TOB,HLTQ,,,https://en.wikipedia.org/wiki/Tobruk_Airport,Gamal Abdel Nasser
-32195,HLUB,small_airport,Ubari Airport,26.567499,12.8231,1528,AF,LY,LY-WD,Ubari,yes,HLUB,QUB,HLUB,,,https://en.wikipedia.org/wiki/Ubari_Airport,
+32195,HLUB,small_airport,Ubari Airport,26.567499,12.8231,1528,AF,LY,LY-WD,Ubari,no,HLUB,QUB,HLUB,,,https://en.wikipedia.org/wiki/Ubari_Airport,
 323222,HLZN,small_airport,Alzintan Airport,31.774878,12.25006,2080,AF,LY,LY-JG,Zintan,no,HLZN,ZIS,HLZN,,,https://en.wikipedia.org/wiki/Alzintan_Airport,
 3234,HLZW,small_airport,Zuwarah International Airport,32.952301,12.0155,9,AF,LY,LY-NQ,Zuwarah,no,HLZW,WAX,HLZW,HL75,,https://en.wikipedia.org/wiki/Zuwarah_Airport,
 42029,HN-MUG,small_airport,Erandique Airport,14.235833,-88.437225,4199,NA,HN,HN-LE,Erandique,no,,EDQ,MHGU,,,https://en.wikipedia.org/wiki/Erandique_Airport,Gualguire Airport
@@ -6246,6 +6246,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 314489,RKY,small_airport,Rokeby Airport,-13.6434,142.641,362,OC,AU,AU-QLD,Rokeby,no,,RKY,,,,,
 314508,RLP,small_airport,Rosella Plains Airport,-18.4253,144.4587,1855,OC,AU,AU-QLD,Rosella Plains,no,,RLP,,,,,
 24363,RMP,small_airport,Rampart Airport,65.507896,-150.141007,302,NA,US,US-AK,Rampart,yes,,RMP,PFMP,RMP,,https://en.wikipedia.org/wiki/Rampart_Airport,
+354838,RO-0054,small_airport,Iaşi Sud,47.15778,27.6375,200,EU,RO,RO-IS,,no,LRIS,,,,,,
 5671,ROAH,large_airport,Naha Airport / JASDF Naha Air Base,26.195801,127.646004,12,AS,JP,JP-47,Naha,yes,ROAH,OKA,ROAH,,http://www.naha-airport.co.jp/,https://en.wikipedia.org/wiki/Naha_Airport,"那覇空港, Naha Kūkō?, AHA, Naha AFB"
 5673,RODN,large_airport,Kadena Air Base,26.351667,127.769444,143,AS,JP,JP-47,Okinawa,no,RODN,DNA,RODN,,,https://en.wikipedia.org/wiki/Kadena_Air_Base,
 327608,ROIG,medium_airport,New Ishigaki Airport,24.396389,124.245,102,AS,JP,JP-47,Ishigaki,yes,ROIG,ISG,ROIG,,https://www.ishigaki-airport.co.jp/en/,https://en.wikipedia.org/wiki/New_Ishigaki_Airport,
