@@ -73,7 +73,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 301645,ABP,small_airport,Atkamba Airport,-6.06462,141.095173,150,OC,PG,PG-WPD,Atkamba Mission,no,,ABP,,AKA,,https://en.wikipedia.org/wiki/Atkamba_Airport,
 41025,ACM,small_airport,Arica Airport,-2.143713,-71.75935,316,SA,CO,CO-AMA,Arica,no,,ACM,,,,https://en.wikipedia.org/wiki/Arica_Airport_(Colombia),
 309426,ADV,small_airport,El Daein Airport,11.4023,26.1186,1560,AF,SD,SD-DE,El Daein,no,,ADV,,,,https://en.wikipedia.org/wiki/Ed_Daein_Airport,
-313546,AE-0006,seaplane_base,Jebel Ali Seaplane Base,24.988967,55.023796,,AS,AE,AE-DU,Jebel Ali,no,,DJH,,,,https://en.wikipedia.org/wiki/Jebel_Ali_Seaplane_Base,
 300307,AEE,small_airport,Adareil Airport,10.053611,32.959444,1301,AF,SS,SS-NU,Adar,no,,AEE,HJAR,,,https://en.wikipedia.org/wiki/Adareil_Airport,
 330359,AEQ,small_airport,Ar Horqin Airport,43.908407,120.15099,1335,AS,CN,CN-15,Chifeng,no,,AEQ,,,,https://en.wikipedia.org/wiki/Ar_Horqin_Airport,
 35370,AF-0019,heliport,Toorghodi Heliport,35.222198,62.2906,2600,AS,AF,AF-HER,Kara Tapa,no,OATD,,,,,,
@@ -600,7 +599,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30861,BZ-CUK,medium_airport,Caye Caulker Airport,17.735015,-88.032862,2,NA,BZ,BZ-BZ,Caye Caulker,yes,,CUK,MZCK,,,https://en.wikipedia.org/wiki/Caye_Caulker_Airport,
 30867,BZ-CYC,medium_airport,Caye Chapel Airport,17.683792,-88.044985,3,NA,BZ,BZ-BZ,Caye Chapel,yes,,CYC,MZCP,,,https://en.wikipedia.org/wiki/Caye_Chapel_Airport,
 42209,BZ-CZH,medium_airport,Corozal Airport,18.3822,-88.411903,40,NA,BZ,BZ-CZL,Corozal,yes,,CZH,MZCZ,,,https://en.wikipedia.org/wiki/Corozal_Airport,Ranchito Airport
-42207,BZ-DGA,medium_airport,Dangriga Airport,16.98251,-88.230988,508,NA,BZ,BZ-SC,Dangriga,yes,,DGA,MZPB,,,https://en.wikipedia.org/wiki/Dangriga_Airport,Stann Creek Airport
+42207,BZ-DGA,medium_airport,Dangriga Airport,16.98251,-88.230988,10,NA,BZ,BZ-SC,Dangriga,yes,,DGA,MZPB,,,https://en.wikipedia.org/wiki/Dangriga_Airport,Stann Creek Airport
 42213,BZ-INB,small_airport,Independence Airport,16.53456,-88.441615,18,NA,BZ,BZ-SC,Independence,yes,,INB,MZSV,,,https://en.wikipedia.org/wiki/Independence_Airport_(Belize),"Savannah, Mango Creek"
 42214,BZ-MDB,small_airport,Melinda Airport,17.004299,-88.304199,101,NA,BZ,BZ-SC,Melinda,no,,MDB,MZML,,,https://en.wikipedia.org/wiki/Melinda_Airport,
 42212,BZ-ORZ,small_airport,H.E Alfredo Martinez (Tower Hill) Airstrip,18.046767,-88.583858,69,NA,BZ,BZ-OW,Orange Walk,yes,,ORZ,MZAM,,,https://en.wikipedia.org/wiki/Orange_Walk_Airport,Orange Walk Airport
@@ -4488,7 +4487,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4107,LFGJ,medium_airport,Dole-Jura Airport,47.038955,5.427589,645,EU,FR,FR-BFC,"Tavaux, Jura",yes,LFGJ,DLE,LFGJ,,https://www.aeroportdolejura.com/,https://en.wikipedia.org/wiki/Dole%E2%80%93Jura_Airport,Dole-Tavaux
 28887,LFHM,small_airport,Megève Altiport,45.823005,6.649406,4823,EU,FR,FR-ARA,Megève,no,LFHM,MVV,LFHM,,,https://en.wikipedia.org/wiki/Meg%C3%A8ve_Altiport,
 4110,LFHO,medium_airport,Aubenas-South Ardèche Airport,44.544367,4.372194,923,EU,FR,FR-ARA,"Lanas, Ardèche",no,LFHO,OBS,LFHO,,,https://en.wikipedia.org/wiki/Aubenas_Aerodrome,Aubenas Ardèche Méridionale
-4111,LFHP,medium_airport,Le Puy-Loudes Airfield,45.0807,3.76289,2731,EU,FR,FR-ARA,"Chaspuzac, Haute-Loire",yes,LFHP,LPY,LFHP,,,https://en.wikipedia.org/wiki/Le_Puy_-_Loudes_Airport,
+4111,LFHP,small_airport,Le Puy-Loudes Airfield,45.0807,3.76289,2731,EU,FR,FR-ARA,"Chaspuzac, Haute-Loire",yes,LFHP,LPY,LFHP,,,https://en.wikipedia.org/wiki/Le_Puy_-_Loudes_Airport,
 4113,LFHS,small_airport,Bourg-Ceyzériat Airfield,46.200901,5.29203,857,EU,FR,FR-ARA,Bourg/Ceyzériat,no,LFHS,,LFHS,,,https://en.wikipedia.org/wiki/Bourg_-_Ceyz%C3%A9riat_Airport,
 28891,LFHU,small_airport,L'Alpe d'Huez - Henri Giraud Altiport,45.087399,6.083604,6102,EU,FR,FR-ARA,"Huez, Isère",no,LFHU,AHZ,LFHU,,,https://fr.wikipedia.org/wiki/Altiport_de_l'Alpe_d'Huez,
 4115,LFHY,small_airport,Moulins-Montbeugny Airfield,46.534599,3.42372,915,EU,FR,FR-ARA,Toulon-sur-Allier,no,LFHY,,LFHY,,,https://en.wikipedia.org/wiki/Moulins_-_Montbeugny_Airport,"XMU, Aérodrome de Moulins-Montbeugny"
@@ -5468,13 +5467,21 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5019,NWWU,medium_airport,Touho Airport,-20.790127,165.259524,10,OC,NC,NC-02,Touho,yes,NWWU,TOU,NWWU,,,https://en.wikipedia.org/wiki/Touho_Airport,
 5020,NWWV,medium_airport,Ouvéa Airport,-20.640932,166.573024,23,OC,NC,NC-01,Ouvéa,yes,NWWV,UVE,NWWV,,,https://en.wikipedia.org/wiki/Ouv%C3%A9a_Airport,
 5021,NWWW,medium_airport,La Tontouta International Airport,-22.014601,166.212997,52,OC,NC,NC-03,Nouméa (La Tontouta),yes,NWWW,NOU,NWWW,,http://www.cci-nc.com/tontouta/index.php,https://en.wikipedia.org/wiki/La_Tontouta_International_Airport,Aéroport de Nouméa - La Tontouta
+315006,NZ-0022,small_airport,Cromwell/Louburn Airport,-44.982756,169.215696,1010,OC,NZ,NZ-OTA,Cromwell,no,NZCW,,NZCW,,,,Mount Pisa
 429815,NZ-0029,small_airport,Fox Glacier Aerodrome,-43.46111,170.01702,,OC,NZ,NZ-WTC,Fox Glacier,no,,FGL,NZFO,,,https://en.wikipedia.org/wiki/Fox_Glacier_Aerodrome,
 5023,NZAA,large_airport,Auckland International Airport,-37.01199,174.786331,23,OC,NZ,NZ-AUK,Auckland,yes,NZAA,AKL,NZAA,,http://www.auckland-airport.co.nz/,https://en.wikipedia.org/wiki/Auckland_International_Airport,
 5024,NZAP,medium_airport,Taupo Airport,-38.73970031738281,176.08399963378906,1335,OC,NZ,NZ-WKO,Taupo,yes,NZAP,TUO,NZAP,,,https://en.wikipedia.org/wiki/Taupo_Airport,
 5025,NZAR,medium_airport,Ardmore Airport,-37.029701232910156,174.97300720214844,111,OC,NZ,NZ-AUK,Manurewa,no,NZAR,AMZ,NZAR,,http://www.nzar.co.nz/,https://en.wikipedia.org/wiki/Ardmore_Airport,
 29672,NZAS,small_airport,Ashburton Airport,-43.903301,171.796997,302,OC,NZ,NZ-CAN,Ashburton,no,NZAS,ASG,NZAS,,https://www.ashburtondc.govt.nz/community-facilities/ashburton-airport,https://en.wikipedia.org/wiki/Ashburton_Aerodrome,
-5026,NZCH,large_airport,Christchurch International Airport,-43.48939895629883,172.53199768066406,123,OC,NZ,NZ-CAN,Christchurch,yes,NZCH,CHC,NZCH,,http://www.christchurchairport.co.nz/,https://en.wikipedia.org/wiki/Christchurch_International_Airport,
+595890,NZAW,seaplane_base,Auckland Harbour Water Aerodrome,-36.833333,174.766667,0,OC,NZ,NZ-AUK,Aukland,no,NZAW,,NZAW,,,,
+29682,NZBA,small_airport,Balclutha Aerodrome,-46.245658,169.748876,22,OC,NZ,NZ-OTA,Balclutha,no,NZBA,,NZBA,,,https://en.wikipedia.org/wiki/Balclutha_Aerodrome,
+44670,NZBC,heliport,ASB Bank Centre Heliport,-36.849944,174.762485,468,OC,NZ,NZ-AUK,Aukland,no,NZBC,,NZBC,,,,
+44678,NZBW,heliport,Burwood Hospital Heliport,-43.479648,172.687041,16,OC,NZ,NZ-CAN,Christchurch,no,NZBW,,NZBW,,,,
+29767,NZCB,small_airport,Centre Bush Aerodrome,-46.040001,168.311996,255,OC,NZ,NZ-STL,Centre Bush,no,NZCB,,NZCB,,,,
+355373,NZCG,small_airport,Centennial Park Aerodrome,-38.665278,176.134722,1506,OC,NZ,NZ-WKO,Taupo,no,NZCG,,NZCG,,,,
+5026,NZCH,large_airport,Christchurch International Airport,-43.489029,172.532065,123,OC,NZ,NZ-CAN,Christchurch,yes,NZCH,CHC,NZCH,,http://www.christchurchairport.co.nz/,https://en.wikipedia.org/wiki/Christchurch_International_Airport,
 5027,NZCI,medium_airport,Chatham Islands / Tuuta Airport,-43.81189,-176.46514,43,OC,NZ,NZ-WGN,Te One,yes,NZCI,CHT,NZCI,,,https://en.wikipedia.org/wiki/Chatham_Islands_/_Tuuta_Airport,Karewa
+29810,NZCS,small_airport,Cromwell Racecourse Aerodrome,-45.048599,169.171005,856,OC,NZ,NZ-OTA,,no,NZCS,,NZCS,,,https://en.wikipedia.org/wiki/Cromwell_Racecourse_Aerodrome,
 29804,NZCX,small_airport,Coromandel Airport,-36.791698,175.509003,10,OC,NZ,NZ-WKO,Coromandel,no,NZCX,CMV,NZCX,,,https://en.wikipedia.org/wiki/Coromandel_Aerodrome,
 29817,NZDA,small_airport,Dargaville Aerodrome,-35.939701,173.893997,10,OC,NZ,NZ-NTL,Dargaville,no,NZDA,DGR,NZDA,,,https://en.wikipedia.org/wiki/Dargaville_Aerodrome,
 5028,NZDN,medium_airport,Dunedin International Airport,-45.928101,170.197998,4,OC,NZ,NZ-OTA,Dunedin,yes,NZDN,DUD,NZDN,,http://www.dnairport.co.nz/,https://en.wikipedia.org/wiki/Dunedin_International_Airport,
@@ -5499,6 +5506,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30166,NZMK,small_airport,Motueka Airport,-41.123299,172.988998,39,OC,NZ,NZ-TAS,,no,NZMK,MZP,NZMK,,,https://en.wikipedia.org/wiki/Motueka_Aerodrome,
 5040,NZMO,medium_airport,Manapouri Airport,-45.5331,167.649994,687,OC,NZ,NZ-STL,,no,NZMO,TEU,NZMO,,,https://en.wikipedia.org/wiki/Te_Anau_Airport,
 5041,NZMS,medium_airport,Hood Airport,-40.974634,175.63454,364,OC,NZ,NZ-WGN,Masterton,no,NZMS,MRO,NZMS,,http://www.svas.org.nz/pages/hood_aerodrome_location.htm,https://en.wikipedia.org/wiki/Hood_Aerodrome,
+30192,NZNE,small_airport,North Shore Aerodrome,-36.6567,174.654999,210,OC,NZ,NZ-AUK,Dairy Flat,no,NZNE,,NZNE,,,https://en.wikipedia.org/wiki/North_Shore_Aerodrome,Dairy Flat Airfield
 5042,NZNP,medium_airport,New Plymouth Airport,-39.00859832763672,174.1790008544922,97,OC,NZ,NZ-TKI,New Plymouth,yes,NZNP,NPL,NZNP,,,https://en.wikipedia.org/wiki/New_Plymouth_Airport,
 5043,NZNR,medium_airport,Hawke's Bay Airport,-39.465801,176.869995,6,OC,NZ,NZ-HKB,Napier,yes,NZNR,NPE,NZNR,,http://www.hawkesbay-airport.co.nz/,https://en.wikipedia.org/wiki/Napier_Airport,
 5044,NZNS,medium_airport,Nelson Airport,-41.298302,173.220993,17,OC,NZ,NZ-NSN,Nelson,yes,NZNS,NSN,NZNS,,http://www.nelsonairport.co.nz/,https://en.wikipedia.org/wiki/Nelson_Airport_(New_Zealand),
