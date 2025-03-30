@@ -9353,7 +9353,7 @@
 300977,"AE-0003","small_airport","Skydive Dubai Airport",25.090037,55.132345,3,"AS","AE","AE-DU","Dubai","no",,,,,"http://www.skydivedubai.ae/facilities/index.htm",,"OMDU"
 307257,"AE-0004","heliport","Sheikh Sultan Bin Khalifa bin Zayed Al Nahyan Palace Heliport",25.122566,55.174681,,"AS","AE","AE-DU","Dubai","no",,,,,,,
 307258,"AE-0005","heliport","Kempinski Emirates Palace Twin Heliport",24.462095,54.320529,,"AS","AE","AE-UQ",,"no",,,,,,"https://en.wikipedia.org/wiki/Emirates_Palace",
-313546,"AE-0006","seaplane_base","Jebel Ali Seaplane Base",24.988967,55.023796,,"AS","AE","AE-DU","Jebel Ali","no",,"DJH",,,,"https://en.wikipedia.org/wiki/Jebel_Ali_Seaplane_Base",
+313546,"AE-0006","closed","Jebel Ali Seaplane Base",24.988967,55.023796,,"AS","AE","AE-DU","Jebel Ali","no",,,,,,"https://en.wikipedia.org/wiki/Jebel_Ali_Seaplane_Base","DJH"
 313547,"AE-0007","heliport","Al Ghuwaifat Border Post Helipad",24.120353,51.600516,157,"AS","AE","AE-AZ","Al Ghuwaifat","no",,,,,,,
 313548,"AE-0008","closed","Al Ghuwaifat Customs Post Helipad",24.128339,51.616767,161,"AS","AE","AE-AZ","Al Ghuwaifat","no",,,,,,,
 315508,"AE-0009","heliport","Delma Hospital Helipad",24.4756,52.3101,17,"AS","AE","AE-AZ","Delma Island","no",,,,,,,
@@ -15083,11 +15083,11 @@
 35736,"BR-2310","heliport","Tatuí Heliport",-23.331944,-47.880001,2083,"SA","BR","BR-SP","Tatuí","no",,,,,,,"SDTA"
 35740,"BR-2311","heliport","Dimep Heliport",-23.147499,-48.495277,2323,"SA","BR","BR-SP","Itatinga","no",,,,,,,"SDTH"
 35746,"BR-2312","small_airport","Fazenda Bandeirantes Airport",-20.885438,-57.41945,499,"SA","BR","BR-MS","Porto Murtinho","no",,,,,,,"SDTR"
-35751,"BR-2313","small_airport","Fazenda São João Airport",-20.326110839844,-55.100555419922,919,"SA","BR","BR-MS","Terenos","no",,,,"SDTW",,,"SDTW"
-35753,"BR-2314","small_airport","Fazenda Santa Júlia Airport",-20.119167327881,-57.11194229126,492,"SA","BR","BR-MS","Corumbá","no",,,,"SDTZ",,,"SDTZ"
-35754,"BR-2315","small_airport","Agrorural Sol Nascente Airport",-3.5086109638214,-56.31583404541,108,"SA","BR","BR-PA","Aveiro","no",,,,"SDUA",,,"SDUA"
-35755,"BR-2316","small_airport","Fazenda Figueira Airport",-21.511944,-50.121113,1526,"SA","BR","BR-SP","Penápolis","no",,,,"SDUE",,,"SDUE"
-35756,"BR-2317","small_airport","Fazenda Sumaré Airport",-21.542281,-53.345331,1001,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,,"SDUH",,,"SDUH, SWRM"
+35751,"BR-2313","small_airport","Fazenda São João Airport",-20.326131,-55.100824,919,"SA","BR","BR-MS","Terenos","no",,,,,,,"SDTW"
+35753,"BR-2314","small_airport","Fazenda Santa Júlia Airport",-20.115919,-57.113103,492,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SDTZ"
+35754,"BR-2315","small_airport","Agrorural Sol Nascente Airport",-3.510294,-56.311784,108,"SA","BR","BR-PA","Aveiro","no",,,,,,,"SDUA"
+35755,"BR-2316","small_airport","Fazenda Figueira Airport",-21.510058,-50.121825,1526,"SA","BR","BR-SP","Penápolis","no",,,,,,,"SDUE"
+35756,"BR-2317","small_airport","Fazenda Sumaré Airport",-21.542281,-53.345331,1001,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,,,,,"SDUH, SWRM"
 35761,"BR-2318","heliport","Unibanco Patriarca Heliport",-23.548055648804,-46.636112213135,2867,"SA","BR","BR-SP","São Paulo","no",,,,"SDUP",,,"SDUP"
 35763,"BR-2319","small_airport","Iberá Airport",-25.051944732666,-50.19083404541,2937,"SA","BR","BR-PR","Ponta Grossa","no",,,,"SDUR",,,"SDUR"
 35772,"BR-2320","small_airport","Coronel Newton Braga Airport",-22.242779,-43.713612,1903,"SA","BR","BR-RJ","Valença","no",,,,"SDVL",,,"SDVL"
@@ -16215,7 +16215,7 @@
 30861,"BZ-CUK","medium_airport","Caye Caulker Airport",17.735015,-88.032862,2,"NA","BZ","BZ-BZ","Caye Caulker","yes",,"CUK","MZCK",,,"https://en.wikipedia.org/wiki/Caye_Caulker_Airport",
 30867,"BZ-CYC","medium_airport","Caye Chapel Airport",17.683792,-88.044985,3,"NA","BZ","BZ-BZ","Caye Chapel","yes",,"CYC","MZCP",,,"https://en.wikipedia.org/wiki/Caye_Chapel_Airport",
 42209,"BZ-CZH","medium_airport","Corozal Airport",18.3822,-88.411903,40,"NA","BZ","BZ-CZL","Corozal","yes",,"CZH","MZCZ",,,"https://en.wikipedia.org/wiki/Corozal_Airport","Ranchito Airport"
-42207,"BZ-DGA","medium_airport","Dangriga Airport",16.98251,-88.230988,508,"NA","BZ","BZ-SC","Dangriga","yes",,"DGA","MZPB",,,"https://en.wikipedia.org/wiki/Dangriga_Airport","Stann Creek Airport"
+42207,"BZ-DGA","medium_airport","Dangriga Airport",16.98251,-88.230988,10,"NA","BZ","BZ-SC","Dangriga","yes",,"DGA","MZPB",,,"https://en.wikipedia.org/wiki/Dangriga_Airport","Stann Creek Airport"
 42213,"BZ-INB","small_airport","Independence Airport",16.53456,-88.441615,18,"NA","BZ","BZ-SC","Independence","yes",,"INB","MZSV",,,"https://en.wikipedia.org/wiki/Independence_Airport_(Belize)","Savannah, Mango Creek"
 42214,"BZ-MDB","small_airport","Melinda Airport",17.004299,-88.304199,101,"NA","BZ","BZ-SC","Melinda","no",,"MDB","MZML",,,"https://en.wikipedia.org/wiki/Melinda_Airport",
 42212,"BZ-ORZ","small_airport","H.E Alfredo Martinez (Tower Hill) Airstrip",18.046767,-88.583858,69,"NA","BZ","BZ-OW","Orange Walk","yes",,"ORZ","MZAM",,,"https://en.wikipedia.org/wiki/Orange_Walk_Airport","Orange Walk Airport"
@@ -42564,7 +42564,7 @@
 28887,"LFHM","small_airport","Megève Altiport",45.823005,6.649406,4823,"EU","FR","FR-ARA","Megève","no","LFHM","MVV","LFHM",,,"https://en.wikipedia.org/wiki/Meg%C3%A8ve_Altiport",
 28888,"LFHN","small_airport","Bellegarde-Vouvray Airfield",46.123336,5.804858,1624,"EU","FR","FR-ARA","Valserhône, Ain","no",,,"LFHN",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Bellegarde_-_Vouvray#Histoire","Aérodrome de Bellegarde-Vouvray"
 4110,"LFHO","medium_airport","Aubenas-South Ardèche Airport",44.544367,4.372194,923,"EU","FR","FR-ARA","Lanas, Ardèche","no","LFHO","OBS","LFHO",,,"https://en.wikipedia.org/wiki/Aubenas_Aerodrome","Aubenas Ardèche Méridionale"
-4111,"LFHP","medium_airport","Le Puy-Loudes Airfield",45.0807,3.76289,2731,"EU","FR","FR-ARA","Chaspuzac, Haute-Loire","yes","LFHP","LPY","LFHP",,,"https://en.wikipedia.org/wiki/Le_Puy_-_Loudes_Airport",
+4111,"LFHP","small_airport","Le Puy-Loudes Airfield",45.0807,3.76289,2731,"EU","FR","FR-ARA","Chaspuzac, Haute-Loire","yes","LFHP","LPY","LFHP",,,"https://en.wikipedia.org/wiki/Le_Puy_-_Loudes_Airport",
 4112,"LFHQ","small_airport","Saint-Flour-Coltines Airfield",45.076401,2.99361,3218,"EU","FR","FR-ARA","Saint-Flour/Coltines","no",,,"LFHQ",,"https://www.aerodrome-stflour-coltines.fr/","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Saint-Flour_-_Coltines",
 28889,"LFHR","small_airport","Brioude Beaumont Airfield",45.319888,3.361615,1483,"EU","FR","FR-ARA","Beaumont, Puy-de-Dôme","no",,,"LFHR",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Brioude_-_Beaumont",
 4113,"LFHS","small_airport","Bourg-Ceyzériat Airfield",46.200901,5.29203,857,"EU","FR","FR-ARA","Bourg/Ceyzériat","no","LFHS",,"LFHS",,,"https://en.wikipedia.org/wiki/Bourg_-_Ceyz%C3%A9riat_Airport",
@@ -49804,7 +49804,7 @@
 308629,"NZ-0019","heliport","Jennian Hangar, Waikato Hospital Heliport",-37.806281,175.280897,,"OC","NZ","NZ-WKO","Hamilton","no",,,"NZHH",,,,
 314996,"NZ-0020","small_airport","Center Island Airstrip",-46.4549,167.8495,30,"OC","NZ","NZ-STL","Raratoka Island","no",,,,,,,
 314997,"NZ-0021","small_airport","Glenshe Airstrip",-45.0419,170.2403,1637,"OC","NZ","NZ-OTA",,"no",,,,,,,
-315006,"NZ-0022","small_airport","Cromwell/Louburn Airport",-44.982756,169.215696,1010,"OC","NZ","NZ-OTA","Cromwell","no",,,"NZCW",,,,"Mount Pisa"
+315006,"NZ-0022","small_airport","Cromwell/Louburn Airport",-44.982756,169.215696,1010,"OC","NZ","NZ-OTA","Cromwell","no","NZCW",,"NZCW",,,,"Mount Pisa"
 315020,"NZ-0023","heliport","Middlemore Hospital Helipad",-36.9632,174.8452,10,"OC","NZ","NZ-AUK","Aukland","no",,,,,,,
 321157,"NZ-0024","heliport","Wairakei Helipad",-38.643244,176.088245,,"OC","NZ","NZ-WKO","Taupo","no",,,"NZHF",,"http://www.helicoptertours.co.nz/",,"Huka Falls"
 429814,"NZ-0025","closed","Gorge Creek Airstrip",-44.20799,168.30895,,"OC","NZ","NZ-WTC","Haast","no",,,,,,,
@@ -49883,14 +49883,15 @@
 5024,"NZAP","medium_airport","Taupo Airport",-38.73970031738281,176.08399963378906,1335,"OC","NZ","NZ-WKO","Taupo","yes","NZAP","TUO","NZAP",,,"https://en.wikipedia.org/wiki/Taupo_Airport",
 5025,"NZAR","medium_airport","Ardmore Airport",-37.029701232910156,174.97300720214844,111,"OC","NZ","NZ-AUK","Manurewa","no","NZAR","AMZ","NZAR",,"http://www.nzar.co.nz/","https://en.wikipedia.org/wiki/Ardmore_Airport",
 29672,"NZAS","small_airport","Ashburton Airport",-43.903301,171.796997,302,"OC","NZ","NZ-CAN","Ashburton","no","NZAS","ASG","NZAS",,"https://www.ashburtondc.govt.nz/community-facilities/ashburton-airport","https://en.wikipedia.org/wiki/Ashburton_Aerodrome",
-29682,"NZBA","small_airport","Balclutha Aerodrome",-46.245459,169.74864,22,"OC","NZ","NZ-OTA","Balclutha","no",,,"NZBA",,,"https://en.wikipedia.org/wiki/Balclutha_Aerodrome",
-44670,"NZBC","heliport","ASB Bank Centre Heliport",-36.84989929199219,174.76199340820312,468,"OC","NZ","NZ-AUK","Aukland","no",,,"NZBC",,,,
-44678,"NZBW","heliport","Burwood Hospital Heliport",-43.479698181152344,172.68699645996094,16,"OC","NZ","NZ-CAN","Christchurch","no",,,"NZBW",,,,
-29767,"NZCB","small_airport","Centre Bush Aerodrome",-46.040000915527344,168.31199645996094,255,"OC","NZ","NZ-STL","Centre Bush","no",,,"NZCB",,,,
-355373,"NZCG","small_airport","Centennial Park Aerodrome",-38.665278,176.134722,1506,"OC","NZ","NZ-WKO","Taupo","no",,,"NZCG",,,,
-5026,"NZCH","large_airport","Christchurch International Airport",-43.48939895629883,172.53199768066406,123,"OC","NZ","NZ-CAN","Christchurch","yes","NZCH","CHC","NZCH",,"http://www.christchurchairport.co.nz/","https://en.wikipedia.org/wiki/Christchurch_International_Airport",
+595890,"NZAW","seaplane_base","Auckland Harbour Water Aerodrome",-36.833333,174.766667,0,"OC","NZ","NZ-AUK","Aukland","no","NZAW",,"NZAW",,,,
+29682,"NZBA","small_airport","Balclutha Aerodrome",-46.245658,169.748876,22,"OC","NZ","NZ-OTA","Balclutha","no","NZBA",,"NZBA",,,"https://en.wikipedia.org/wiki/Balclutha_Aerodrome",
+44670,"NZBC","heliport","ASB Bank Centre Heliport",-36.849944,174.762485,468,"OC","NZ","NZ-AUK","Aukland","no","NZBC",,"NZBC",,,,
+44678,"NZBW","heliport","Burwood Hospital Heliport",-43.479648,172.687041,16,"OC","NZ","NZ-CAN","Christchurch","no","NZBW",,"NZBW",,,,
+29767,"NZCB","small_airport","Centre Bush Aerodrome",-46.040001,168.311996,255,"OC","NZ","NZ-STL","Centre Bush","no","NZCB",,"NZCB",,,,
+355373,"NZCG","small_airport","Centennial Park Aerodrome",-38.665278,176.134722,1506,"OC","NZ","NZ-WKO","Taupo","no","NZCG",,"NZCG",,,,
+5026,"NZCH","large_airport","Christchurch International Airport",-43.489029,172.532065,123,"OC","NZ","NZ-CAN","Christchurch","yes","NZCH","CHC","NZCH",,"http://www.christchurchairport.co.nz/","https://en.wikipedia.org/wiki/Christchurch_International_Airport",
 5027,"NZCI","medium_airport","Chatham Islands / Tuuta Airport",-43.81189,-176.46514,43,"OC","NZ","NZ-WGN","Te One","yes","NZCI","CHT","NZCI",,,"https://en.wikipedia.org/wiki/Chatham_Islands_/_Tuuta_Airport","Karewa"
-29810,"NZCS","small_airport","Cromwell Racecourse Aerodrome",-45.04859924316406,169.17100524902344,856,"OC","NZ","NZ-OTA",,"no",,,"NZCS",,,"https://en.wikipedia.org/wiki/Cromwell_Racecourse_Aerodrome",
+29810,"NZCS","small_airport","Cromwell Racecourse Aerodrome",-45.048599,169.171005,856,"OC","NZ","NZ-OTA",,"no","NZCS",,"NZCS",,,"https://en.wikipedia.org/wiki/Cromwell_Racecourse_Aerodrome",
 29804,"NZCX","small_airport","Coromandel Airport",-36.791698,175.509003,10,"OC","NZ","NZ-WKO","Coromandel","no","NZCX","CMV","NZCX",,,"https://en.wikipedia.org/wiki/Coromandel_Aerodrome",
 29817,"NZDA","small_airport","Dargaville Aerodrome",-35.939701,173.893997,10,"OC","NZ","NZ-NTL","Dargaville","no","NZDA","DGR","NZDA",,,"https://en.wikipedia.org/wiki/Dargaville_Aerodrome",
 44804,"NZDC","heliport","Dunedin City Heliport",-45.882596,170.507947,5,"OC","NZ","NZ-OTA","Dunedin","no",,,"NZDC",,,,
@@ -49987,7 +49988,7 @@
 30102,"NZMW","small_airport","Makarora Airstrip",-44.2317008972168,169.22999572753906,1142,"OC","NZ","NZ-OTA",,"no",,,"NZMW",,,,
 44814,"NZMX","heliport","Maari Heliport",-39.974998,173.292007,60,"OC","NZ","NZ-XY","Maari Platform","no",,,"NZMX",,,,
 32074,"NZMZ","small_airport","Matakana Island Airport",-37.599998474121094,176.08299255371094,95,"OC","NZ","NZ-BOP","Matakana Island","no",,,"NZMZ",,,,
-30192,"NZNE","small_airport","North Shore Aerodrome",-36.656700134277344,174.65499877929688,210,"OC","NZ","NZ-AUK","Dairy Flat","no",,,"NZNE",,,"https://en.wikipedia.org/wiki/North_Shore_Aerodrome","Dairy Flat Airfield"
+30192,"NZNE","small_airport","North Shore Aerodrome",-36.6567,174.654999,210,"OC","NZ","NZ-AUK","Dairy Flat","no","NZNE",,"NZNE",,,"https://en.wikipedia.org/wiki/North_Shore_Aerodrome","Dairy Flat Airfield"
 429841,"NZNF","small_airport","Norfolk Airport",-39.205122,174.222565,875,"OC","NZ","NZ-TKI","Inglewood","no",,,"NZNF",,,,
 44821,"NZNH","heliport","Nelson Hospital Heliport",-41.288299560546875,173.27200317382812,180,"OC","NZ","NZ-NSN","Nelson","no",,,"NZNH",,,,
 5042,"NZNP","medium_airport","New Plymouth Airport",-39.00859832763672,174.1790008544922,97,"OC","NZ","NZ-TKI","New Plymouth","yes","NZNP","NPL","NZNP",,,"https://en.wikipedia.org/wiki/New_Plymouth_Airport",
@@ -60863,6 +60864,12 @@
 37235,"SNQW","small_airport","Cururu Airport",-7.564736,-57.739871,453,"SA","BR","BR-PA","Jacareacanga","no",,,"SNQW","PA0102",,,
 381,"SNQX","small_airport","Quixadá Airport",-4.97907,-38.987598,653,"SA","BR","BR-CE","Quixadá","no",,,"SNQX","SNQX",,"https://en.wikipedia.org/wiki/Quixad%C3%A1_Airport",
 37236,"SNQY","heliport","Colina Verde Heliport",-21.229444503799996,-47.795276641799994,2173,"SA","BR","BR-SP","Ribeirão Preto","no",,,"SNQY",,,,
+595866,"SNR2","small_airport","Renascer Airstrip.",-15.416417,-41.354119,2906,"SA","BR","BR-BA","Cândido Sales","no",,,"SNR2","BA0488",,,
+595869,"SNR3","small_airport","Tassiana Airport",-12.039232,-55.491976,1234,"SA","BR","BR-MT","Sinop","no",,,"SNR3","MT1114",,,
+595871,"SNR6","small_airport","Fazenda Vale Verde Airport",-9.101959,-50.936136,721,"SA","BR","BR-PA","Santana do Araguaia","no",,,"SNR6","PA0352",,,
+595873,"SNR7","small_airport","Santa Agro 1 Airstrip",-10.636175,-65.02235,574,"SA","BR","BR-RO","Guajará-Mirim","no",,,"SNR7","RO0102",,,
+595875,"SNR8","small_airport","Fazenda Palotina Airstrip",-13.171346,-56.988984,1283,"SA","BR","BR-MT","Nova Maringá","no",,,"SNR8","MT1107",,,
+595877,"SNR9","heliport","Fazenda Aroeira Heliport",-15.212852,-48.364774,2221,"SA","BR","BR-GO","Padre Bernardo","no",,,"SNR9","GO0383",,,
 382,"SNRB","small_airport","Fazenda Rosa de Maio Airport",-4.31616,-56.108461,102,"SA","BR","BR-PA","Itaituba","no",,,"SIYR","PA0064",,,"SNRB"
 37239,"SNRC","heliport","Ouro Verde Heliport",-25.507931,-49.332202,3155,"SA","BR","BR-PR","Curitiba","no",,,"SSOF","PR0143",,,"SNRC"
 383,"SNRD","small_airport","Prado Airport",-17.296976,-39.271131,89,"SA","BR","BR-BA","Prado","no","SNRD","PDF","SNRD","BA0048",,,
@@ -60881,6 +60888,10 @@
 30332,"SNRX","small_airport","Riachão Airport",-7.350279808044434,-46.6338996887207,1312,"SA","BR","BR-MA","Riachão","no",,,"SNRX",,,,
 37247,"SNRY","heliport","Redpoint I Heliport",-19.97249984741211,-43.934722900390625,3812,"SA","BR","BR-MG","Belo Horizonte","no",,,"SNRY",,,,
 311056,"SNRZ","small_airport","Oliveira Airport",-20.7146,-44.8653,3334,"SA","BR","BR-MG","Oliveira","no",,,"SNRZ",,,"http://pt.wikipedia.org/wiki/Aer%C3%B3dromo_P%C3%BAblico_de_Oliveira",
+595879,"SNS2","small_airport","Fazenda Boa Vista Airport",-11.356481,-55.261347,1237,"SA","BR","BR-MT","Cláudia","no",,,"SNS2","MT1117",,,
+595881,"SNS3","small_airport","Fazenda Nossa Senhora das Graças Airport",-10.883037,-55.550602,1234,"SA","BR","BR-MT","Colíder","no",,,"SNS3","MT1115",,,
+595886,"SNS4","small_airport","Fazenda São Paulo do Cravarí Airstrip",-12.548542,-57.992213,1286,"SA","BR","BR-MT","Brasnorte","no",,,"SNS4","MT1109",,,
+595884,"SNS6","small_airport","Fazenda Nova Esperança Airport",-9.478919,-62.803341,466,"SA","BR","BR-RO","Cujubim","no",,,"SNS6","RO0112",,,
 30368,"SNSC","small_airport","Sacramento Airport",-19.89310073852539,-47.42219924926758,3288,"SA","BR","BR-MG","Sacramento","no",,,"SNSC",,,,
 37250,"SNSD","small_airport","Franor Airport",-12.91656,-45.722453,2664,"SA","BR","BR-BA","São Desidério","no",,,"SJFA","BA0107",,,"SNSD, São Luiz"
 37251,"SNSE","small_airport","Sento Sé Airport",-9.7576,-41.854662,1306,"SA","BR","BR-BA","Sento Sé","no",,,"SNSE",,,,
