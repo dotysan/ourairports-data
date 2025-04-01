@@ -9315,7 +9315,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 525154,ZYSD,small_airport,Suifenhe Dongning Airport,44.453889,130.843889,1407,AS,CN,CN-23,Suifenhe,no,,HSF,ZYSD,,,https://en.wikipedia.org/wiki/Suifenhe_Dongning_Airport,
 327451,ZYSQ,medium_airport,Songyuan Chaganhu Airport,44.938114,124.550178,459,AS,CN,CN-22,Qian Gorlos Mongol Autonomous County,yes,ZYSQ,YSQ,ZYSQ,,,https://en.wikipedia.org/wiki/Songyuan_Chaganhu_Airport,
 27242,ZYTL,large_airport,Dalian Zhoushuizi International Airport,38.965719,121.538477,107,AS,CN,CN-21,Dalian (Ganjingzi),yes,ZYTL,DLC,ZYTL,,,https://en.wikipedia.org/wiki/Dalian_Zhoushuizi_International_Airport,Dalian Air Base
-307013,ZYTN,medium_airport,Tonghua Sanyuanpu Airport,42.2538888889,125.703333333,1200,AS,CN,CN-22,Tonghua,yes,ZYTN,TNH,ZYTN,,,https://en.wikipedia.org/wiki/Tonghua_Sanyuanpu_Airport,Tonghua Liuhe Airport
+307013,ZYTN,medium_airport,Tonghua Sanyuanpu Airport,42.048435,125.733963,1347,AS,CN,CN-22,Tonghua,yes,ZYTN,TNH,ZYTN,,,https://en.wikipedia.org/wiki/Tonghua_Sanyuanpu_Airport,Tonghua Liuhe Airport
 27243,ZYTX,large_airport,Shenyang Taoxian International Airport,41.639801,123.483002,198,AS,CN,CN-21,"Hunnan, Shenyang",yes,ZYTX,SHE,ZYTX,,,https://en.wikipedia.org/wiki/Shenyang_Taoxian_International_Airport,
 44182,ZYXC,medium_airport,Xingcheng Air Base,40.580328,120.700374,30,AS,CN,CN-21,Huludao (Xingcheng),no,ZYXC,XEN,ZYXC,,,,
 27244,ZYYJ,medium_airport,Yanji Chaoyangchuan Airport,42.8828010559,129.451004028,624,AS,CN,CN-22,Yanji,yes,ZYYJ,YNJ,ZYYJ,,,https://en.wikipedia.org/wiki/Yanji_Chaoyangchuan_Airport,
