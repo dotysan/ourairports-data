@@ -12457,7 +12457,7 @@
 325008,"BG-0057","small_airport","Lozen Airstrip",43.301985,25.862821,751,"EU","BG","BG-04","Lozen","no",,,,,,,
 325118,"BG-0058","closed","Dragoman Airfield",42.933316,22.978828,2316,"EU","BG","BG-23","Dragoman","no",,,,,,,
 326621,"BG-0059","small_airport","Slavovitsa Airstrip",43.580888,24.447176,,"EU","BG","BG-15","Slavovitsa","no",,,,,,,
-326891,"BG-0060","small_airport","Panicharevo Cropduster Strip",42.276287,22.990773,1811,"EU","BG","BG-10","Panicharevo","no",,,"LBPN",,,,
+326891,"BG-0060","small_airport","Panicharevo Airport",42.276287,22.990773,1811,"EU","BG","BG-10","Panicharevo","no",,,"LBPN",,,,
 328102,"BG-0061","closed","Doyrentsi Airfield",43.250388,24.838526,738,"EU","BG","BG-11","Doyrentsi","no",,,,,,,
 328224,"BG-0062","small_airport","Knezha Airstrip",43.546246,24.094756,495,"EU","BG","BG-15","Knezha","no",,,,,,,
 328225,"BG-0063","small_airport","Brenitsa Airstrip",43.4415329,24.1403714,,"EU","BG","BG-15",,"no",,,,,,,
@@ -13028,7 +13028,7 @@
 323715,"BR-0234","small_airport","Jalles Machado Airstrip",-15.083994,-49.294977,,"SA","BR","BR-GO",,"no",,,,,,,
 323716,"BR-0235","small_airport","Juscelândia Airstrip",-15.117624,-49.31236,,"SA","BR","BR-GO","Juscelândia","no",,,,,,,
 323717,"BR-0236","small_airport","Simplício Mendes Airstrip",-7.823368,-41.958934,,"SA","BR","BR-PI","Simplício Mendes","no",,,,,,,
-323718,"BR-0237","small_airport","Jaicós Airstrip",-7.342569,-41.141514,,"SA","BR","BR-PI","Jaicós","no",,,,,,,
+323718,"BR-0237","small_airport","Jaicós Airport",-7.342351,-41.141814,1045,"SA","BR","BR-PI","Jaicós","no",,,"SNK7","PI0115",,,
 323719,"BR-0238","small_airport","Valença do Piauí Airport",-6.388103,-41.763983,1148,"SA","BR","BR-PI","Valença do Piauí","no",,,"SDKE","PI0073",,,
 323720,"BR-0239","small_airport","Canavieira Airstrip",-7.68378,-43.71091,,"SA","BR","BR-PI","Canavieira","no",,,,,,,
 323721,"BR-0240","small_airport","Mirador Airstrip",-6.36777,-44.347317,,"SA","BR","BR-MA","Mirador","no",,,,,,,
@@ -13794,7 +13794,7 @@
 335719,"BR-1007","heliport","Jardim Metropolitano Heliport",-3.86717,-38.48117,62,"SA","BR","BR-CE","Eusébio","no",,,"SNJG","CE0079",,,"Fazenda Bender, Juazeiro do Norte, CE0077"
 335720,"BR-1008","small_airport","Sérgio Miranda Airport",0.040172,-51.149408,62,"SA","BR","BR-AP","Macapá","no",,,"SISM","AP0005",,,
 335721,"BR-1009","heliport","Reobot Heliport",-23.157811,-46.662605,3041,"SA","BR","BR-SP","Jarinu","no",,,"SISP","SP0551",,,
-335724,"BR-1010","small_airport","Fazenda Topázio Imperial Airport",-14.967627,-43.315187,1598,"SA","BR","BR-MG","Gameleiras","no",,,"SISU","MG0108",,,
+335724,"BR-1010","small_airport","Fazenda Topázio Imperial Airport",-14.967862,-43.31548,1604,"SA","BR","BR-MG","Gameleiras","no",,,"SNK6","MG0108",,,"SISU"
 335728,"BR-1011","small_airport","Fazenda Colorado Airport",-13.133265,-55.445081,1312,"SA","BR","BR-MT",,"no",,,"SITC","MT0132",,,
 335729,"BR-1012","heliport","Fundação Santa Casa de Misericórdia do Pará Helipad",-1.439959,-48.481507,174,"SA","BR","BR-PA","Belém","no",,,"SITD","PA0154",,,
 335736,"BR-1013","small_airport","Fazenda Vitória Airport",-12.150865,-45.870333,2415,"SA","BR","BR-BA","Luís Eduardo Magalhães","no",,,"SITH","BA0242",,,
@@ -19321,7 +19321,7 @@
 510458,"CN-0405","balloonport","Balloon Launch Facility",41.779125,111.901073,,"AS","CN","CN-15",,"no",,,,,,,
 510462,"CN-0406","balloonport","Hele Balloon Launch Facility",18.939119,110.473006,,"AS","CN","CN-46","Wanning (Hele)","no",,,,,,"https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident",
 510539,"CN-0407","small_airport","East Red Airport",24.170412,114.799213,,"AS","CN","CN-44",,"no",,,,,,,
-511015,"CN-0408","heliport","Military Helipads",43.922187,81.355219,,"AS","CN","CN-65","Yining City","no",,,,,,,
+511015,"CN-0408","heliport","Yining Army Heliport",43.922187,81.355219,,"AS","CN","CN-65","Yining City","no",,,,,,,
 524237,"CN-0412","seaplane_base","Zhongshan Ferry Port",22.519296,113.361307,,"AS","CN","CN-44","Zhongshan","no",,"ZGN",,,,,
 525151,"CN-0413","small_airport","Bozhou Airport (under construction)",33.560777,115.911859,,"AS","CN","CN-34","Bozhou","no",,"BZJ",,,,,
 525152,"CN-0414","small_airport","Bailing Airport",41.656944,110.3125,4645,"AS","CN","CN-15","Bailingmiao","no",,"BKV",,,,,
@@ -19379,6 +19379,8 @@
 595221,"CN-0466","heliport","Niulong Heliport",21.886534,113.267262,253,"AS","CN","CN-44","Zhuhai (Jinwan)","no",,,,,,,
 595414,"CN-0467","small_airport","Jingbian Haizetan Airport",37.76514,108.847615,4298,"AS","CN","CN-61","Jingbian","no",,,,,,,"靖边县"
 595620,"CN-0468","heliport","Jiareke Heliport",31.58707,79.95375,15131,"AS","CN","CN-54","Zanda","no",,,,,,,
+595940,"CN-0469","small_airport","Shuimen Airbase",26.941602,120.077384,,"AS","CN","CN-35","Shuimen","no",,,,,,"https://en.wikipedia.org/wiki/Shuimen_Air_Base",
+595941,"CN-0470","small_airport","Zhuzhou Lusong Airport",27.771768,113.207248,231,"AS","CN","CN-43","Zhuzhou","no",,,,,,,
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -27267,6 +27269,7 @@
 29023,"FR-1276","small_airport","Marville Montmédy Airfield",49.45646,5.413835,909,"EU","FR","FR-GES","Marville, Meuse","no",,,,"LF5526","https://lespilotesdemarville.fr/",,
 31813,"FR-1277","small_airport","Condat sur Vézère",45.103885,1.215121,499,"EU","FR","FR-NAQ","Condat sur Vézère","no",,,,"LF2423",,,"LFDZ"
 595807,"FR-1278","closed","Jumel Ultralight Airfield",49.757233,2.302594,413,"EU","FR","FR-HDF","Jumel","no",,,,,,,"LF8022"
+595924,"FR-1279","heliport","BASE ULM ILE DE RE",46.229429,-1.419833,20,"EU","FR","FR-NAQ",17111,"no",,,,"DZIDR",,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes",,,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assumption Island Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assumption Island","no",,,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -48946,7 +48949,6 @@
 23020,"NH67","small_airport","Winterwood Airport",42.97840118408203,-71.0094985961914,130,"NA","US","US-NH","Brentwood","no",,,"NH67","NH67",,,
 23021,"NH68","seaplane_base","Merrymeeting Lake Seaplane Base",43.47999954223633,-71.17019653320312,647,"NA","US","US-NH","New Durham","no",,,"NH68","NH68",,,
 23022,"NH69","small_airport","Windsock Village Airport",43.825303,-71.183368,460,"NA","US","US-NH","West Ossipee","no",,,"NH69","NH69",,,
-23023,"NH70","heliport","Forbes Heliport",44.04529953,-71.15779877,540,"NA","US","US-NH","North Conway","no",,,"NH70","NH70",,,
 23025,"NH73","heliport","Meader's Heliport",43.79290008544922,-71.17729949951172,420,"NA","US","US-NH","Center Ossipee","no",,,"NH73","NH73",,,
 23026,"NH74","heliport","Crowley Heliport",43.34090042114258,-71.47090148925781,570,"NA","US","US-NH","Loudon","no",,,"NH74","NH74",,,
 23027,"NH75","heliport","Psnh Heliport",43.14509963989258,-71.47530364990234,190,"NA","US","US-NH","Bow","no",,,"NH75","NH75",,,
@@ -48963,7 +48965,6 @@
 23038,"NH86","small_airport","Intervale Airport",43.17509841918945,-71.78730010986328,425,"NA","US","US-NH","Henniker","no",,,"NH86","NH86",,,
 23039,"NH87","heliport","Blue Light Heliport",43.7338981628418,-71.6791000366211,825,"NA","US","US-NH","Plymouth","no",,,"NH87","NH87",,,
 23040,"NH88","small_airport","Country Club Air Park",43.067298889160156,-71.61119842529297,780,"NA","US","US-NH","Goffstown","no",,,"NH88","NH88",,,
-23041,"NH91","heliport","Cheney Heliport",44.050301,-71.176201,600,"NA","US","US-NH","Hales Location","no",,,"NH91","NH91",,,
 23042,"NH92","heliport","Littleton Hospital Heliport",44.31740189,-71.82649994,1155,"NA","US","US-NH","Littleton","no",,,"NH92","NH92",,,
 23043,"NH93","heliport","Sean Heliport",42.762901306152344,-71.31529998779297,150,"NA","US","US-NH","Pelham","no",,,"NH93","NH93",,,
 23044,"NH94","heliport","Spring Creek Heliport",42.80780029296875,-71.68579864501953,400,"NA","US","US-NH","Milford","no",,,"NH94","NH94",,,
@@ -55399,6 +55400,7 @@
 574315,"SA-0090","heliport","Ras Alsheikh Hamid",28.145526,34.662163,,"AS","SA","SA-07",,"no",,,,,,,
 30952,"SA-0091","closed","Dawadmi Domestic Airport",24.5,44.400002,3429,"AS","SA","SA-01","Dawadmi","no",,,,,,,"DWD, Prinz Salman bin Abdulaziz Airport, Dwadmi, OEDW"
 326441,"SA-0092","closed","Al Ghat Airport",26.026479,44.959166,2509,"AS","SA","SA-01","Al Ghat","no",,,,,,,"OEGH, OEGH"
+595937,"SA-0093","heliport","Al Runah Army Heliport",18.23069,42.823044,6725,"AS","SA","SA-14","Al Runah","no",,,,,,,
 13,"SA01","small_airport","Cachi Airport",-25.1049995422,-66.15720367429999,8232,"SA","AR","AR-A","Cachi","no",,,"SA01","CCS",,,"SA01"
 14,"SA02","small_airport","Cafayate Airport",-26.056101,-65.936897,5375,"SA","AR","AR-A","Cafayate","no",,,,"CAF",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Gilberto_Lavaque","SA02, Gilberto Lavaque"
 15,"SA03","small_airport","Villa Minetti Airport",-28.6201,-61.6038,246,"SA","AR","AR-S","Villa Minetti","no",,,"SA03","MIN",,,"SA03"
@@ -60729,6 +60731,8 @@
 37136,"SNJZ","small_airport","Fazenda Jaú Airport",-7.090949,-52.935777,735,"SA","BR","BR-PA","São Félix do Xingu","no",,,"SI3O","PA0383",,,"SNJZ, Santa Izabel do Porto Seguro da Jaú"
 563055,"SNK2","small_airport","Fazenda Igarapará Airport",-6.984752,-49.693094,741,"SA","BR","BR-PA","Sapucaia","no",,,"SNK2","PA0420",,,
 558165,"SNK3","heliport","4 Ventos Heliport",-19.974989,-43.925375,3790,"SA","BR","BR-MG","Nova Lima","no",,,"SNK3","MG0396",,,
+595962,"SNK8","heliport","Walter Fernandez Heliport",-12.363661,-38.999969,623,"SA","BR","BR-BA","São Gonçalo dos Campos","no",,,"SNK8","BA0479",,,
+595960,"SNK9","small_airport","Fazenda Vereda Airport",-12.873376,-45.641289,2536,"SA","BR","BR-BA","São Desidério","no",,,"SNK9","BA0474",,,
 45635,"SNKA","heliport","Fazenda Perto d`Água Heliport",-23.253889,-48.9075,2041,"SA","BR","BR-SP","Avaré","no",,,"SNKA",,,,
 37137,"SNKB","small_airport","Aeroclube Airport",-7.178333,-35.990276,1926,"SA","BR","BR-PB","Campina Grande","no",,,"SNKB",,,"https://pt.wikipedia.org/wiki/Aeroclube_de_Campina_Grande",
 37138,"SNKC","small_airport","Cocos Airport",-14.17277778,-44.54666667,2018,"SA","BR","BR-BA","Cocos","no",,,"SNKC",,,,
@@ -68668,6 +68672,8 @@
 595602,"US-12682","small_airport","Twisted Prop Airport",46.297841,-118.289665,1071,"NA","US","US-WA","Prescott","no",,,"WT03","WT03",,,
 595680,"US-12683","seaplane_base","Larry's Cove Seaplane Base",44.182931,-69.967607,174,"NA","US","US-ME","Monmouth","no",,,"14ME","14ME",,,
 595682,"US-12684","heliport","AdventHealth Partin Settlement Helistop",28.276622,-81.343111,75,"NA","US","US-FL","Kissimmee","no",,,"21FD","21FD",,,
+23041,"US-12685","heliport","Cheney Heliport",44.043833,-71.166733,600,"NA","US","US-NH","Hales Location","no",,,"NH91","NH91",,,
+23023,"US-12686","heliport","Forbes Heliport",44.0431,-71.157222,540,"NA","US","US-NH","North Conway","no",,,"NH70","NH70",,,
 334277,"US-1269","small_airport","Kourtis Family Farm Airport",36.415446,-96.056122,919,"NA","US","US-OK","Skiatook","no",,,"OL19","OL19",,,
 334278,"US-1270","small_airport","Richland Creek Airport",35.914847,-92.899712,735,"NA","US","US-AR","Saint Joe","no",,,"4AR9","4AR9",,,"Richland Creek Airfield"
 334280,"US-1271","small_airport","Taylor Homestead Airport",48.092824,-114.157961,2903,"NA","US","US-MT","Somers","no",,,"MT61","MT61",,,
@@ -71656,7 +71662,7 @@
 344942,"US-4250","closed","Bachelor Field",31.0224,-87.41476,285,"NA","US","US-AL","Atmore","no",,,,,,,
 344943,"US-4251","closed","Hopville Airport",44.80513,-123.13225,167,"NA","US","US-OR","Independence","no",,,,,,,
 344944,"US-4252","small_airport","Short Road Airstrip",39.18857,-119.31662,4567,"NA","US","US-NV","Dayton","no",,,,,,,
-344945,"US-4253","small_airport","Huffman Prairie Flying Field",39.80424,-84.06429,804,"NA","US","US-OH","Dayton","no",,,,,,,"Huffman Field"
+344945,"US-4253","closed","Huffman Prairie Flying Field",39.80424,-84.06429,804,"NA","US","US-OH","Dayton","no",,,,,,"https://en.wikipedia.org/wiki/Huffman_Prairie","Huffman Field"
 344946,"US-4254","small_airport","Big Meadow Airstrip",39.17177,-119.44333,6649,"NA","US","US-NV","Dayton","no",,,,,,,
 344947,"US-4255","closed","Foster Field",28.69561,-97.27677,153,"NA","US","US-TX","Goliad","no",,,,,,,"Aloe Auxiliary Airfield Number 10"
 344948,"US-4256","small_airport","Elkton Airfield",43.6235,-123.57557,113,"NA","US","US-OR","Elkton","no",,,,,,,
@@ -82796,7 +82802,7 @@
 327451,"ZYSQ","medium_airport","Songyuan Chaganhu Airport",44.938114,124.550178,459,"AS","CN","CN-22","Qian Gorlos Mongol Autonomous County","yes","ZYSQ","YSQ","ZYSQ",,,"https://en.wikipedia.org/wiki/Songyuan_Chaganhu_Airport",
 307017,"ZYTH","small_airport","Da Hinggan Ling Targen Airport",52.224444,124.720222,1240,"AS","CN","CN-23","Tahe","no",,,"ZYTH",,,,"Tahe"
 27242,"ZYTL","large_airport","Dalian Zhoushuizi International Airport",38.965719,121.538477,107,"AS","CN","CN-21","Dalian (Ganjingzi)","yes","ZYTL","DLC","ZYTL",,,"https://en.wikipedia.org/wiki/Dalian_Zhoushuizi_International_Airport","Dalian Air Base"
-307013,"ZYTN","medium_airport","Tonghua Sanyuanpu Airport",42.2538888889,125.703333333,1200,"AS","CN","CN-22","Tonghua","yes","ZYTN","TNH","ZYTN",,,"https://en.wikipedia.org/wiki/Tonghua_Sanyuanpu_Airport","Tonghua Liuhe Airport"
+307013,"ZYTN","medium_airport","Tonghua Sanyuanpu Airport",42.048435,125.733963,1347,"AS","CN","CN-22","Tonghua","yes","ZYTN","TNH","ZYTN",,,"https://en.wikipedia.org/wiki/Tonghua_Sanyuanpu_Airport","Tonghua Liuhe Airport"
 27243,"ZYTX","large_airport","Shenyang Taoxian International Airport",41.639801,123.483002,198,"AS","CN","CN-21","Hunnan, Shenyang","yes","ZYTX","SHE","ZYTX",,,"https://en.wikipedia.org/wiki/Shenyang_Taoxian_International_Airport",
 44182,"ZYXC","medium_airport","Xingcheng Air Base",40.580328,120.700374,30,"AS","CN","CN-21","Huludao (Xingcheng)","no","ZYXC","XEN","ZYXC",,,,
 27244,"ZYYJ","medium_airport","Yanji Chaoyangchuan Airport",42.8828010559,129.451004028,624,"AS","CN","CN-22","Yanji","yes","ZYYJ","YNJ","ZYYJ",,,"https://en.wikipedia.org/wiki/Yanji_Chaoyangchuan_Airport",
