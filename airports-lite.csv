@@ -595,7 +595,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 302393,BYL,small_airport,Bella Yella Airport,7.36916666667,-9.99372222222,690,AF,LR,LR-LO,Beliyela,no,,BYL,,,,,
 300806,BYV,seaplane_base,Beira Lake Seaplane Base,6.9294444444400005,79.85416666670001,17,AS,LK,LK-1,Colombo,no,,BYV,,,,,
 44573,BZ-BCV,small_airport,Hector Silva Airstrip,17.269603,-88.776496,150,NA,BZ,BZ-CY,Belmopan,no,,BCV,MZBP,,http://www.flightstats.com/go/Airport/airportDetails.do?airportCode=BCV,https://en.wikipedia.org/wiki/Hector_Silva_Airstrip,Belmopan Airport
-42216,BZ-BGK,small_airport,Big Creek Airport,16.519369,-88.407913,22,NA,BZ,BZ-SC,Big Creek,no,,BGK,MZBG,,,https://en.wikipedia.org/wiki/Big_Creek_Airport_(Belize),
+42216,BZ-BGK,small_airport,Big Creek Airport,16.519369,-88.407913,22,NA,BZ,BZ-SC,Big Creek,yes,,BGK,MZBG,,,https://en.wikipedia.org/wiki/Big_Creek_Airport_(Belize),
 30861,BZ-CUK,medium_airport,Caye Caulker Airport,17.735015,-88.032862,2,NA,BZ,BZ-BZ,Caye Caulker,yes,,CUK,MZCK,,,https://en.wikipedia.org/wiki/Caye_Caulker_Airport,
 30867,BZ-CYC,medium_airport,Caye Chapel Airport,17.683792,-88.044985,3,NA,BZ,BZ-BZ,Caye Chapel,yes,,CYC,MZCP,,,https://en.wikipedia.org/wiki/Caye_Chapel_Airport,
 42209,BZ-CZH,medium_airport,Corozal Airport,18.3822,-88.411903,40,NA,BZ,BZ-CZL,Corozal,yes,,CZH,MZCZ,,,https://en.wikipedia.org/wiki/Corozal_Airport,Ranchito Airport
@@ -1462,6 +1462,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29109,EGBK,small_airport,Sywell Aerodrome,52.305302,-0.793056,429,EU,GB,GB-ENG,"Northampton, Northamptonshire",no,EGBK,ORM,EGBK,,http://www.sywellaerodrome.co.uk/,https://en.wikipedia.org/wiki/Sywell_Aerodrome,
 2393,EGBN,medium_airport,Nottingham Airport,52.919998,-1.07917,138,EU,GB,GB-ENG,Nottingham,no,EGBN,NQT,EGBN,,http://www.nottinghamairport.co.uk/,https://en.wikipedia.org/wiki/Nottingham_Airport,
 2395,EGBP,small_airport,Cotswold Airport,51.668528,-2.056599,433,EU,GB,GB-ENG,"Cirencester, Gloucestershire",no,EGBP,GBA,EGBP,,http://www.cotswoldairport.com/,https://en.wikipedia.org/wiki/Cotswold_Airport,"RAF Kemble, Kemble Airfield, Kemble Airport, Cotswold Airport"
+314577,EGCA,small_airport,Coal Aston Airfield,53.304809,-1.42886,750,EU,GB,GB-ENG,"Dronfield, Derbyshire",no,EGCA,,EGCA,,,https://en.wikipedia.org/wiki/Coal_Aston_Airfield,
 2398,EGCC,large_airport,Manchester Airport,53.349375,-2.279521,257,EU,GB,GB-ENG,"Manchester, Greater Manchester",yes,EGCC,MAN,EGCC,,http://www.manchesterairport.co.uk/,https://en.wikipedia.org/wiki/Manchester_Airport,"Ringway Airport, RAF Ringway"
 29123,EGDJ,small_airport,Upavon Aerodrome,51.28657,-1.782239,574,EU,GB,GB-ENG,"Pewsey, Wiltshire",no,EGDJ,UPV,EGDJ,,,https://en.wikipedia.org/wiki/RAF_Upavon,"RAF Upavon, Trenchard Lines, Salisbury Plain"
 2410,EGDY,medium_airport,RNAS Yeovilton,51.009399,-2.63882,75,EU,GB,GB-ENG,"Yeovil, Somerset",no,EGDY,YEO,EGDY,,,https://en.wikipedia.org/wiki/RNAS_Yeovilton_(HMS_Heron),
@@ -1507,7 +1508,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2435,EGMC,medium_airport,London Southend Airport,51.570562,0.693627,49,EU,GB,GB-ENG,"Southend-on-Sea, Essex",yes,EGMC,SEN,EGMC,,http://www.southendairport.com/,https://en.wikipedia.org/wiki/London_Southend_Airport,RAF Rochford
 2436,EGMD,medium_airport,Lydd London Ashford Airport,50.956246,0.939074,13,EU,GB,GB-ENG,"Romney Marsh, Kent",no,EGMD,LYX,EGMD,,http://www.lydd-airport.co.uk/,https://en.wikipedia.org/wiki/Lydd_Airport,London Ashford
 2439,EGNC,medium_airport,Carlisle Lake District Airport,54.9375,-2.80917,190,EU,GB,GB-ENG,Carlisle,no,EGNC,CAX,EGNC,,https://www.carlisleairport.co.uk/,https://en.wikipedia.org/wiki/Carlisle_Lake_District_Airport,
-2441,EGNH,medium_airport,Blackpool International Airport,53.77170181274414,-3.0286099910736084,34,EU,GB,GB-ENG,Blackpool,yes,EGNH,BLK,EGNH,,http://www.blackpoolinternational.com/,https://en.wikipedia.org/wiki/Blackpool_International_Airport,
+2441,EGNH,medium_airport,Blackpool International Airport,53.771702,-3.02861,34,EU,GB,GB-ENG,Blackpool,no,EGNH,BLK,EGNH,,http://www.blackpoolinternational.com/,https://en.wikipedia.org/wiki/Blackpool_International_Airport,
 2442,EGNJ,medium_airport,Humberside Airport,53.576152,-0.34954,121,EU,GB,GB-ENG,"Grimsby, Lincolnshire",yes,EGNJ,HUY,EGNJ,,http://www.humbersideairport.com/,https://en.wikipedia.org/wiki/Humberside_Airport,RAF Kirmington
 2443,EGNL,medium_airport,Barrow Walney Island Airport,54.1286111,-3.2675,173,EU,GB,GB-ENG,Barrow-in-Furness,no,EGNL,BWF,EGNL,,http://www.walneyairfield.multiservers.com/,https://en.wikipedia.org/wiki/Barrow/Walney_Island_Airfield,
 2444,EGNM,medium_airport,Leeds Bradford Airport,53.865898,-1.66057,681,EU,GB,GB-ENG,"Leeds, West Yorkshire",yes,EGNM,LBA,EGNM,,http://www.lbia.co.uk/,https://en.wikipedia.org/wiki/Leeds_Bradford_International_Airport,
@@ -1517,7 +1518,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2448,EGNT,medium_airport,Newcastle International Airport,55.037958,-1.689577,266,EU,GB,GB-ENG,"Newcastle upon Tyne, Tyne and Wear",yes,EGNT,NCL,EGNT,,http://www.newcastleairport.com/,https://en.wikipedia.org/wiki/Newcastle_International_Airport,
 2449,EGNV,medium_airport,Teesside International Airport,54.509201,-1.42941,120,EU,GB,GB-ENG,"Darlington, Durham",yes,EGNV,MME,EGNV,,https://www.teessideinternational.com/,https://en.wikipedia.org/wiki/Teesside_International_Airport,"Durham Tees Valley Airport, RAF Middleton St George, Tees-Side"
 2450,EGNX,medium_airport,East Midlands Airport,52.8311,-1.32806,306,EU,GB,GB-ENG,Nottingham,yes,EGNX,EMA,EGNX,,http://www.eastmidlandsairport.com/,https://en.wikipedia.org/wiki/East_Midlands_Airport,RAF Castle Donington
-2454,EGOV,medium_airport,Anglesey Airport,53.2481002808,-4.53533983231,37,EU,GB,GB-WLS,Angelsey,yes,EGOV,VLY,EGOV,,http://www.angleseyairport.com/,https://en.wikipedia.org/wiki/Anglesey_Airport,"Maes Awyr Môn, RAF Valley"
+2454,EGOV,medium_airport,Anglesey Airport,53.2481,-4.53534,37,EU,GB,GB-WLS,Angelsey,no,EGOV,VLY,EGOV,,http://www.angleseyairport.com/,https://en.wikipedia.org/wiki/Anglesey_Airport,"Maes Awyr Môn, RAF Valley"
 2456,EGPA,medium_airport,Kirkwall Airport,58.957801818847656,-2.9049999713897705,50,EU,GB,GB-SCT,Orkney Islands,yes,EGPA,KOI,EGPA,,,https://en.wikipedia.org/wiki/Kirkwall_Airport,
 2457,EGPB,medium_airport,Sumburgh Airport,59.87889862060547,-1.2955600023269653,20,EU,GB,GB-SCT,Lerwick,yes,EGPB,LSI,EGPB,,http://www.hial.co.uk/sumburgh-airport.html,https://en.wikipedia.org/wiki/Sumburgh_Airport,Shetlands
 2458,EGPC,medium_airport,Wick Airport,58.458900451660156,-3.09306001663208,126,EU,GB,GB-SCT,Wick,yes,EGPC,WIC,EGPC,,http://www.hial.co.uk/wick-airport.html,https://en.wikipedia.org/wiki/Wick_Airport,
@@ -4708,6 +4709,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4407,LKPO,medium_airport,Přerov Air Base,49.4258,17.404699,676,EU,CZ,CZ-OL,Přerov,no,LKPO,PRV,LKPO,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_P%C5%99erov,
 4408,LKPR,large_airport,Václav Havel Airport Prague,50.100874,14.259911,1247,EU,CZ,CZ-PR,Prague,yes,LKPR,PRG,LKPR,,http://www.prg.aero,https://en.wikipedia.org/wiki/Václav_Havel_Airport_Prague,"Letiště Praha-Ruzyně, Ruzyně International Airport, Letiště Václava Havla Praha"
 4409,LKTB,medium_airport,Brno-Tuřany Airport,49.15129852294922,16.694400787353516,778,EU,CZ,CZ-JM,Brno,yes,LKTB,BRQ,LKTB,,http://www.airport-brno.cz/index.php?id=0&lang=en,https://en.wikipedia.org/wiki/Brno-Tu%C5%99any_Airport,
+30487,LKTC,small_airport,Točná Airfield,49.985435,14.426465,1027,EU,CZ,CZ-PR,Prague,no,LKTC,,LKTC,,http://www.tocna.cz,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_To%C4%8Dn%C3%A1,
 4410,LKVO,medium_airport,Vodochody Airport,50.216599,14.3958,919,EU,CZ,CZ-ST,Vodochody,no,LKVO,VOD,LKVO,,http://www.lkvo.cz,https://en.wikipedia.org/wiki/Vodochody_Airport,
 30572,LKZA,small_airport,Zábřeh Dolní Benešov Airfield,49.928258,18.075557,791,EU,CZ,CZ-MO,Dolní Benešov,no,LKZA,ZBE,LKZA,,http://lkza.cz/o_letisti/,,
 4411,LLBG,large_airport,Ben Gurion International Airport,32.011398,34.8867,135,AS,IL,IL-M,Tel Aviv,yes,LLBG,TLV,LLBG,,http://www.iaa.gov.il/Rashat/en-US/Airports/BenGurion/,https://en.wikipedia.org/wiki/Ben_Gurion_International_Airport,
