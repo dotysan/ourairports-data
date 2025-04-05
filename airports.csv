@@ -7705,7 +7705,7 @@
 14481,"7Y9","small_airport","Big Falls Municipal Airport",48.19580078125,-93.76679992675781,1232,"NA","US","US-MN","Big Falls","no",,,"7Y9","7Y9",,,
 11486,"80AK","seaplane_base","Morvro Lake Seaplane Base",61.60200119018555,-149.78399658203125,300,"NA","US","US-AK","Houston","no",,,"80AK","80AK",,,"Formerly 4K2"
 541346,"80AL","small_airport","Sunflower Ranch Airport",32.133688,-86.775786,341,"NA","US","US-AL","Tyler","no",,,"80AL","80AL",,,
-14482,"80AR","small_airport","Price Field",35.49516,-90.13149,236,"NA","US","US-AR","Joiner","no",,,,,,,"80AR"
+14482,"80AR","closed","Price Field",35.49516,-90.13149,236,"NA","US","US-AR","Joiner","no",,,,,,,"80AR"
 14483,"80C","small_airport","Lone Hickory Airport",36.060444,-80.69016,1000,"NA","US","US-NC","Yadkinville","no",,,,"80C",,,"NC74"
 14484,"80CA","small_airport","Bacchi Valley Industries Airport",38.817133,-120.922541,760,"NA","US","US-CA","Lotus","no",,,"80CA","80CA",,,
 14485,"80CL","heliport","Blythe Service Center Heliport",33.604879,-114.602305,297,"NA","US","US-CA","Blythe","no",,,"80CL","80CL",,,"blythe, blythe service center"
@@ -8762,6 +8762,7 @@
 15521,"97FL","small_airport","Love Field",28.96190071105957,-81.8915023803711,80,"NA","US","US-FL","Weirsdale","no",,,"97FL","97FL",,,
 15522,"97G","small_airport","Glowacki Airport",43.000329,-84.595002,775,"NA","US","US-MI","St Johns","no",,,"K97G","97G",,,
 15523,"97GA","small_airport","B Tree Farms Airport",34.2681999206543,-83.6720962524414,1000,"NA","US","US-GA","Gillsville","no",,,"97GA","97GA",,,
+596047,"97GE","heliport","BMW Valley Heliport",33.719714,-83.674361,750,"NA","US","US-GA","Monroe","no",,,"97GE","97GE",,,
 15524,"97IA","small_airport","Volkens Field",41.25579833984375,-95.47669982910156,1275,"NA","US","US-IA","Carson","no",,,"97IA","97IA",,,
 15525,"97IL","heliport","Graham Hospital Heliport",40.55220032,-90.03669739,680,"NA","US","US-IL","Canton","no",,,"97IL","97IL",,,
 15526,"97IN","heliport","Solar Heliport",38.49589920043945,-87.28250122070312,445,"NA","US","US-IN","Petersburg","no",,,"97IN","97IN",,,
@@ -28245,7 +28246,7 @@
 319156,"GB-0344","heliport","Wythenshawe Hospital Helipad",53.388414,-2.289633,,"EU","GB","GB-ENG","Manchester","no",,,,,,,
 319157,"GB-0345","heliport","Royal Stoke University Hospital Helipad",53.002633,-2.210636,,"EU","GB","GB-ENG","Stoke-on-Trent","no",,,,,,,
 319158,"GB-0346","heliport","Queen Elizabeth Hospital Helipad",52.452751,-1.944705,,"EU","GB","GB-ENG","Birmingham","no",,,,,,,
-319159,"GB-0347","heliport","Lundy Island Helipad",51.164763,-4.666801,,"EU","GB","GB-ENG","Lundy Island","no",,,,,,,
+319159,"GB-0347","heliport","Lundy Island Helipad",51.164763,-4.666801,,"EU","GB","GB-ENG","Lundy Island","yes",,,,,,,
 319160,"GB-0348","heliport","Bristol Royal Infirmary Helipad",51.458895,-2.596294,,"EU","GB","GB-ENG","Bristol","no",,,,,,,
 319161,"GB-0349","heliport","Royal Bournemouth Hospital Helipad",50.746805,-1.819998,,"EU","GB","GB-ENG","Bournemouth","no",,,,,,,
 319162,"GB-0350","heliport","Queen Alexandra Hospital Heliport",50.851178,-1.069046,,"EU","GB","GB-ENG","Portsmouth","no",,,,,,,
@@ -29220,6 +29221,8 @@
 595998,"GB-1319","closed","Moat Hall Airfield",52.818174,-1.798007,427,"EU","GB","GB-ENG","Newborough","no",,,,,,,"Staffordshire"
 595999,"GB-1320","heliport","Swan Hotel Helipad",54.269754,-2.969127,140,"EU","GB","GB-ENG","Newby Bridge","no",,,,,,,"Hotel, Cumbria, Private"
 596019,"GB-1321","closed","Meir Aerodrome",52.973133,-2.091469,689,"EU","GB","GB-ENG","Stoke-on-Trent","no",,,,,,,"Staffordshire, Stoke-on-Trent, RAF, Meir"
+596079,"GB-1322","heliport","Eskmeals Helipad",54.324442,-3.40932,18,"EU","GB","GB-ENG","Eskmeals, Cumbria","no",,,,,,,
+596082,"GB-1323","heliport","Sellafield Helipad",54.434146,-3.495542,153,"EU","GB","GB-ENG","Sellafield, Cumbria","no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,"DOC",,,"http://www.dornochairfield.com/",,"EG08, EGZJ"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO"
@@ -57618,13 +57621,14 @@
 348836,"SHAF","heliport","Santa Carolina Heliport",-34.826222,-72.066622,164,"SA","CL","CL-ML","Vichuquén","no",,,"SHAF",,,,
 39330,"SHAG","heliport","Anguila 1 Heliport",-52.49944305419922,-68.72555541992188,66,"SA","CL","CL-MA","Magallanes","no",,,"SHAG",,,,
 39331,"SHAH","heliport","Nazareno II Heliport",-33.400001525878906,-70.57389831542969,,"SA","CL","CL-RM","Santiago","no",,,"SHAH",,,,
-45085,"SHAL","heliport","Los Paltos Heliport",-33.725556,-70.930278,298,"SA","CL","CL-RM","Isla De Maipo","no",,,"SHAL",,,,
+45085,"SHAL","heliport","Los Paltos Heliport",-33.725492,-70.930352,978,"SA","CL","CL-RM","Isla de Maipo","no",,,"SHAL",,,,
 348809,"SHAO","heliport","Hospital de Ovalle Heliport",-30.578565,-71.191728,1033,"SA","CL","CL-CO","Ovalle","no",,,"SHAO",,,,"http://www.airmate.aero/php/airport_page.php?page=airport_page&code=SHAO"
 39332,"SHAP","heliport","Asistencia Pública Dr. Alejandro del Río Heliport",-33.439998626708984,-70.63722229003906,1886,"SA","CL","CL-RM","Santiago","no",,,"SHAP",,,,
 348810,"SHAQ","heliport","Apoquindo 2929 Helipad",-33.417772,-70.599148,2322,"SA","CL","CL-RM","Santiago","no",,,"SHAQ",,,,
 39333,"SHAU","heliport","La Aurora Heliport",-33.42527770996094,-71.02305603027344,696,"SA","CL","CL-RM","Curacavi","no",,,"SHAU",,,,
 45086,"SHBC","heliport","Las Brisas De Chicureo Heliport",-33.239722,-70.696111,1175,"SA","CL","CL-RM","Santiago","no",,,"SHBC",,,,
 39334,"SHBE","heliport","Banco Exterior Heliport",-33.43611145019531,-70.6449966430664,2000,"SA","CL","CL-RM","Santiago","no",,,"SHBE",,,,
+596072,"SHBH","heliport","Eagle Copters Heliport",-33.27136,-70.650136,1887,"SA","CL","CL-RM","Colina","no",,,"SHBH",,,,
 39335,"SHBL","heliport","Hospital Ramón Barros Luco Heliport",-33.48527908325195,-70.64444732666016,1805,"SA","CL","CL-RM","Santiago","no",,,"SHBL",,,,
 39336,"SHBP","heliport","Bahía Los Primos Heliport",-34.11083221435547,-71.5352783203125,574,"SA","CL","CL-LI","La Estrella","no",,,"SHBP",,,,
 39337,"SHBS","heliport","Banco Santander Heliport",-33.43611145019531,-70.6513900756836,2067,"SA","CL","CL-RM","Santiago","no",,,"SHBS",,,,
@@ -57633,13 +57637,14 @@
 39340,"SHCC","heliport","Clínica Las Condes Heliport",-33.385276794433594,-70.53083038330078,2461,"SA","CL","CL-RM","Santiago","no",,,"SHCC",,,,
 512499,"SHCF","heliport","Carlos Cisternas Hospital Heliport",-22.444481,-68.916692,7495,"SA","CL","CL-AN","Calama","no",,,"SHCF",,,,"17"
 39341,"SHCG","heliport","Cachagua Heliport",-32.578887939453125,-71.4544448852539,80,"SA","CL","CL-VS","Zapallar","no",,,"SHCG",,,,
+596073,"SHCH","heliport","Agroforestal Heliport",-33.221012,-70.75941,1693,"SA","CL","CL-RM","Colina","no",,,"SHCH",,,,
 39342,"SHCI","heliport","San Cristóbal Heliport",-32.57611083984375,-71.45249938964844,98,"SA","CL","CL-VS","Zapallar","no",,,"SHCI",,,,
 39343,"SHCM","heliport","Corporativo Mutual Heliport",-33.440277099609375,-70.63777923583984,2100,"SA","CL","CL-RM","Santiago","no",,,"SHCM",,,,
 39344,"SHCP","heliport","Servicios Aéreos Copters Heliport",-34.136390686035156,-70.77055358886719,1509,"SA","CL","CL-LI","Rancagua","no",,,"SHCP",,,,
 39345,"SHCY","heliport","Coyhaique Regional Hospital Heliport",-45.568792,-72.075629,915,"SA","CL","CL-AI","Coyhaique","no",,,"SHCY",,,,
 39346,"SHDG","heliport","Batería Dungenes Nº 1 Heliport",-52.38083267211914,-68.43138885498047,25,"SA","CL","CL-MA","Magallanes","no",,,"SHDG",,,,
 39347,"SHDN","heliport","Daniel 1 Heliport",-52.364723205566406,-68.76499938964844,98,"SA","CL","CL-MA","Magallanes","no",,,"SHDN",,,,
-39348,"SHDO","heliport","Valle Nevado Heliport",-33.363887786865234,-70.25166320800781,9858,"SA","CL","CL-RM","Farellones","no",,,"SHDO",,,,
+39348,"SHDO","heliport","Valle Nevado Heliport",-33.357872,-70.248694,9858,"SA","CL","CL-RM","Farellones","no",,,"SHDO",,,,
 39349,"SHDP","heliport","Del Pacifico Heliport",-38.75416564941406,-72.80249786376953,200,"SA","CL","CL-AR","Temuco","no",,,"SHDP",,,,
 332835,"SHEB","heliport","Ejército Bicentenario Helipad",-33.457784,-70.657424,1821,"SA","CL","CL-RM","Santiago","no",,,"SHEB",,,,
 39350,"SHEC","heliport","Edificio Itaú Helipad",-33.416555,-70.593563,2270,"SA","CL","CL-RM","Santiago","no",,,"SHEC",,,,"Edificio BankBoston"
@@ -57670,10 +57675,12 @@
 332834,"SHIN","heliport","Clínica Indisa Helipad",-33.420833,-70.617778,2100,"SA","CL","CL-RM","Santiago","no",,,"SHIN",,,,
 39372,"SHIQ","heliport","Cuartel Gral. VI División de Ejercito Heliport",-20.229999542236328,-70.1449966430664,26,"SA","CL","CL-TA","Iquique","no",,,"SHIQ",,,,
 45090,"SHIS","heliport","Isidora 3000 Heliport",-33.414011,-70.598112,2510,"SA","CL","CL-RM","Las Condes","no",,,"SHIS",,,,
+596076,"SHJN","heliport","Dr. Juan Noé Crevani, Arica Regional Hospital Helipad",-18.482836,-70.31314,187,"SA","CL","CL-AP","Arica","no","SHJN",,"SHJN",,,,
 39373,"SHJO","heliport","Hospital San José Heliport",-33.40861129760742,-70.6522216796875,1868,"SA","CL","CL-RM","Santiago","no",,,"SHJO",,,,
 39374,"SHKI","heliport","Kipreos Heliport",-33.56027603149414,-70.74444580078125,1575,"SA","CL","CL-RM","Santiago","no",,,"SHKI",,,,
 39375,"SHLA","heliport","Las Americas Heliport",-33.43583297729492,-70.6433334350586,2126,"SA","CL","CL-RM","Santiago","no",,,"SHLA",,,,
 39376,"SHLC","heliport","Lan Courier Heliport",-33.38389,-70.750556,1565,"SA","CL","CL-RM","Santiago","no",,,"SHLC",,,,
+596074,"SHLI","heliport","CLC- Chicureo Heliport",-33.282708,-70.650805,1847,"SA","CL","CL-RM","Colina","no",,,"SHLI",,,,"Clinica Las Condes"
 39377,"SHLP","heliport","La Parva Heliport",-33.328887939453125,-70.28333282470703,9080,"SA","CL","CL-RM","Farellones","no",,,"SHLP",,,,
 39378,"SHLS","heliport","Las Salinas Heliport",-32.99583435058594,-71.54722595214844,10,"SA","CL","CL-VS","Viña Del Mar","no",,,"SHLS",,,,
 39379,"SHMA","heliport","Clínica Santa María Heliport",-33.432220458984375,-70.62833404541016,2028,"SA","CL","CL-RM","Santiago","no",,,"SHMA",,,,
@@ -68693,6 +68700,8 @@
 334277,"US-1269","small_airport","Kourtis Family Farm Airport",36.415446,-96.056122,919,"NA","US","US-OK","Skiatook","no",,,"OL19","OL19",,,
 596032,"US-12690","small_airport","Echtle Field",29.383701,-98.893272,816,"NA","US","US-TX","Castroville","no",,,,"99TA",,,
 596033,"US-12691","small_airport","Creekbend Airport",39.267519,-86.578508,780,"NA","US","US-IN","Elletsville","no",,,,"IN37",,,
+596038,"US-12692","small_airport","Moore Short Field Landing",39.204375,-95.727569,1111,"NA","US","US-KS","Topeka","no",,,,"7KS8",,,
+596067,"US-12693","small_airport","King Airport",34.41432,-90.729411,175,"NA","US","US-AR","Helena","no",,,"80AR","80AR",,,
 334278,"US-1270","small_airport","Richland Creek Airport",35.914847,-92.899712,735,"NA","US","US-AR","Saint Joe","no",,,"4AR9","4AR9",,,"Richland Creek Airfield"
 334280,"US-1271","small_airport","Taylor Homestead Airport",48.092824,-114.157961,2903,"NA","US","US-MT","Somers","no",,,"MT61","MT61",,,
 334282,"US-1272","small_airport","Prairie Ridge Airport",34.7925,-96.908333,1154,"NA","US","US-OK","Stratford","no",,,"9OK7","9OK7",,,
