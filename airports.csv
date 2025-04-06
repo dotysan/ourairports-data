@@ -10803,6 +10803,7 @@
 16383,"AR97","small_airport","Chael Airport",35.22010040283203,-92.49649810791016,320,"NA","US","US-AR","Wooster","no",,,"AR97","AR97",,,
 301707,"ARP","small_airport","Aragip Airport",-9.88333333333,149.483333333,1750,"OC","PG","PG-MBA",,"no",,"ARP",,"AGP",,,
 32422,"AS-0001","closed","Tau Airport",-14.23178,-169.51101,185,"OC","AS","AS-MA","Tau","no",,,,,,"https://en.wikipedia.org/wiki/Tau_Airport","TAV, TAV, HI36"
+596138,"AS11","small_airport","Rohrscheib Airport",34.447311,-90.807518,170,"NA","US","US-AR","Helena","no",,,"AS11","AS11",,,
 301732,"ASZ","small_airport","Asirim Airport",-6.009722222220001,150.368611111,1050,"OC","PG","PG-WBK",,"no",,"ASZ",,"ASM",,,
 43818,"AT-0001","heliport","Pöchlarn-Wörth Heliport",48.214737,15.255424,709,"EU","AT","AT-3","Pöchlarn-Wörth","no",,,"LOAL",,,,
 46529,"AT-0002","seaplane_base","Scalaria Airchallenge Water Landing Area",47.734705433100004,13.4438323975,,"EU","AT","AT-4","Lake Wolfgang","no",,,,,"http://www.airchallenge.scalaria.com/",,
@@ -21117,6 +21118,7 @@
 43206,"CZ-0273","small_airport","Hradčany Airfield",50.619247,14.732753,912,"EU","CZ","CZ-LI","Kuřívody","no",,,,"LKHRAD",,"https://en.wikipedia.org/wiki/Hrad%C4%8Dany_Air_Base","LKHR, Hradčany Air Base, Letecká základna Hradčany, Letiště Hradčany, CZ-0273"
 316350,"CZ-0274","small_airport","Zlín Štípa Airfield",49.272778,17.746389,1086,"EU","CZ","CZ-ZL","Zlín","no",,,,"LKSTIP",,,"CZ-0274"
 595572,"CZ-0275","small_airport","Trnávka Airstrip",49.69157,18.16402,,"EU","CZ","CZ-MO",,"no",,,,"LKTRNA",,,
+596092,"CZ-0276","small_airport","Brusné",49.36761,17.65548,1033,"EU","CZ","CZ-ZL",,"no",,,,"LKBRUS",,,
 2005,"CZAC","small_airport","York Landing Airport",56.089401,-96.089203,621,"NA","CA","CA-MB","York Landing","no","CZAC","ZAC","CZAC",,,"https://en.wikipedia.org/wiki/York_Landing_Airport",
 2006,"CZAM","medium_airport","Shuswap Regional Airport",50.682802,-119.228996,1751,"NA","CA","CA-BC","Salmon Arm","no","CZAM","YSN","CZAM",,"http://www.salmonarm.ca/index.aspx?nid=228","https://en.wikipedia.org/wiki/Salmon_Arm_Airport","AM4, Shuswap Regional Airport, Salmon Arm Airport"
 2007,"CZBA","small_airport","Burlington Executive Airpark",43.441453,-79.850103,602,"NA","CA","CA-ON","Burlington","no",,,"CZBA",,"http://www.burlingtonairpark.com/","https://en.wikipedia.org/wiki/Burlington_Executive_Aerodrome","ZBA"
@@ -24970,6 +24972,7 @@
 509071,"FA89","small_airport","Suwanee Valley Airport",30.373585,-82.71963,133,"NA","US","US-FL","White Springs,","no",,,"FA89","FA89",,,
 321980,"FA90","heliport","Port Canaveral Heliport",28.4052556,-80.6186694,10,"NA","US","US-FL","Port Canaveral","no",,,"FA90","FA90",,,
 326257,"FA91","heliport","Orange County Convention Center Heliport",28.430844,-81.456296,92,"NA","US","US-FL","Orlando","no",,,"FA91","FA91",,,"Peabody Heliport"
+596136,"FA92","seaplane_base","Thomas Landing Seaplane Base",30.216861,-82.44475,153,"NA","US","US-FL","Lake City","no",,,"FA92","FA92",,,
 328036,"FA94","seaplane_base","ONeals Seaplane Base",28.231111,-81.234444,63,"NA","US","US-FL","St Cloud","no",,,"FA94","FA94",,,
 322490,"FA95","heliport","Advent Health Lake Mary ER Heliport",28.783739,-81.348728,68,"NA","US","US-FL","Lake Mary","no",,,"FA95","FA95",,,"Florida Hospital Lake Mary"
 324747,"FA96","heliport","HCA Florida Oviedo Hospital Heliport",28.658047,-81.228452,32,"NA","US","US-FL","Oviedo","no",,,"FA96","FA96",,,"Oviedo Medical Center Heliport"
@@ -29223,6 +29226,7 @@
 596019,"GB-1321","closed","Meir Aerodrome",52.973133,-2.091469,689,"EU","GB","GB-ENG","Stoke-on-Trent","no",,,,,,,"Staffordshire, Stoke-on-Trent, RAF, Meir"
 596079,"GB-1322","heliport","Eskmeals Helipad",54.324442,-3.40932,18,"EU","GB","GB-ENG","Eskmeals, Cumbria","no",,,,,,,
 596082,"GB-1323","heliport","Sellafield Helipad",54.434146,-3.495542,153,"EU","GB","GB-ENG","Sellafield, Cumbria","no",,,,,,,
+596131,"GB-1324","heliport","Wordsworth Hotel Helipad",54.458148,-3.022211,236,"EU","GB","GB-ENG","Grasmere, Cumbria","no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,"DOC",,,"http://www.dornochairfield.com/",,"EG08, EGZJ"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO"
@@ -43667,6 +43671,7 @@
 30588,"LSTZ","small_airport","Zweisimmen Airfield",46.551713,7.381012,3068,"EU","CH","CH-BE","Zweisimmen","no","LSTZ",,"LSTZ",,"http://www.zweisimmen.aero","https://de.wikipedia.org/wiki/Flugplatz_Zweisimmen","Flugplatz Zweisimmen"
 354300,"LSVD","small_airport","Clariden-Hüfifirn Mountain Landing Site",46.821944,8.880277,,"EU","CH","CH-GL","Plateau nördlich Planurahütte","no","LSVD",,"LSVD",,,,
 594915,"LSVP","small_airport","Petersgrat Mountain Landing Site",46.468889,7.828333,,"EU","CH","CH-BE","Firnplateau","no","LSVP",,"LSVP",,,,
+596089,"LSVV","small_airport","Vorabgletscher Mountain Landing Site",46.878333,9.151944,,"EU","CH","CH-GR","Sattel","no","LSVV",,"LSVV",,,,
 43075,"LSXB","heliport","Balzers Heliport",47.067908,9.480774,1585,"EU","LI","LI-01","Balzers","no",,,"LSXB",,"http://www.heli.li/sites/heliports-balzers-lsxb.php","https://de.wikipedia.org/wiki/Heliport_Balzers",
 324130,"LSXG","heliport","Gsteigwiler Heliport",46.647697,7.878219,,"EU","CH","CH-BE","Gsteigwiler","no",,,"LSXG",,,,
 43114,"LSXH","heliport","Holziken Heliport",47.314143,8.026126,,"EU","CH","CH-AG","Holziken","no",,,"LSXH",,"https://roseheli.ch/index.php/homepage/about-us",,
@@ -43680,6 +43685,7 @@
 324197,"LSXU","heliport","Untervaz Heliport",46.912621,9.55081,,"EU","CH","CH-GR","Untervaz","no",,,"LSXU",,,,
 43092,"LSXY","heliport","Leysin  Heliport",46.341801,7.0204,,"EU","CH","CH-VD","Leysin","no",,,"LSEY",,,,
 514016,"LSXZ","heliport","Schattenhalb-Meiringen Heliport",46.71096,8.20148,2625,"EU","CH","CH-BE","Schattenhalb","no",,,"LSXZ","LSXZ","https://www.swisshelicopter.ch/en/about-us/helicopter-bases/schattenhalb-meiringen",,"Geissholz Heliport"
+596090,"LSYI","small_airport","Limmerenfirn Mountain Landing Site",46.810556,8.967778,,"EU","CH","CH-GL","Oberer Firnrand","no","LSYI",,"LSYI",,,,
 594914,"LSYK","small_airport","Kanderfirn Mountain Landing Site",46.485833,7.828333,,"EU","CH","CH-BE","West of Mutthorn hut","no","LSYK",,"LSYK",,,,
 594957,"LSYR","small_airport","Rosa Blanche Mountain Landing Site",46.060833,7.354722,,"EU","CH","CH-VS","Grat südlich Gipfel","no","LSYR",,"LSYR",,,,
 523137,"LSYX","small_airport","Glacier du Trient Mountain Landing Site",45.9883,7.0425,,"EU","CH","CH-VS","Firnrand","no","LSYX",,"LSYX",,,,
@@ -60936,6 +60942,12 @@
 397,"SNSW","small_airport","Soure Airport",-0.697844,-48.519759,43,"SA","BR","BR-PA","Soure","no","SNSW","SFK","SNSW","SNSW",,,
 37259,"SNSX","small_airport","Fazenda São Martinho Airport",-20.357312,-51.255308,1148,"SA","BR","BR-SP","Ilha Solteira","no",,,"SNDS","SP0226",,,"SNSX"
 37260,"SNSY","small_airport","Fazenda São José Airport",-20.94499969482422,-56.49611282348633,1247,"SA","BR","BR-MS","Bonito","no",,,"SNSY",,,,
+596112,"SNT2","small_airport","Dois Irmãos Airstrip",-9.5554,-49.018006,930,"SA","BR","BR-TO","Dois Irmãos do Tocantins","no",,,"SNT2","TO0152",,,
+596114,"SNT3","small_airport","Serra Bonita Sementes Airstrip",-15.835125,-46.700889,3171,"SA","BR","BR-MG","Unaí","no",,,"SNT3","MG0626",,,
+596118,"SNT4","small_airport","Fazenda Bela Vista Airport",-12.434605,-45.292296,2359,"SA","BR","BR-BA","São Desidério","no",,,"SNT4","BA0487",,,
+596120,"SNT6","small_airport","Genésio Ceolin Airport",-12.999335,-45.359483,2462,"SA","BR","BR-BA","São Desidério","no",,,"SNT6","BA0478",,,
+596123,"SNT7","small_airport","Fazenda Santa Rita Airport",-15.422397,-49.408625,2075,"SA","BR","BR-GO","Santa Isabel","no",,,"SNT7","GO0397",,,
+596132,"SNT8","small_airport","Fazenda São João Airport",-12.184631,-45.816269,2583,"SA","BR","BR-BA","Luís Eduardo Magalhães","no",,,"SNT8","BA0485",,,
 37262,"SNTA","small_airport","Fazenda São Miguel Airport",-21.868610382080078,-50.116390228271484,1444,"SA","BR","BR-SP","Pompéia","no",,,"SNTA",,,,
 398,"SNTD","small_airport","Fazenda Mamoneira Airport",-16.586200714111328,-46.5010986328125,1862,"SA","BR","BR-MG","Natalândia","no",,,"SNTD","SNTD",,,
 327415,"SNTE","heliport","Terras II Heliport",-23.342778,-47.306111,2139,"SA","BR","BR-SP","Itu","no",,,"SNTE",,,,
@@ -60952,6 +60964,7 @@
 403,"SNTR","small_airport","Piritiba Airport",-11.7381000519,-40.569499969499994,1896,"SA","BR","BR-BA","Piritiba","no",,,"SNTR","SNTR",,,
 404,"SNTS","small_airport","Aeroporto Brigadeiro Firmino Ayres",-7.03899,-37.251598,869,"SA","BR","BR-PB","Patos","no",,"JPO","SNTS","PB0005",,"https://pt.wikipedia.org/wiki/Aeroporto_Regional_de_Patos","Peregrino Filho"
 37272,"SNTY","small_airport","Correntina Airport",-13.380556106567383,-44.61722183227539,2159,"SA","BR","BR-BA","Correntina","no",,,"SNTY",,,,
+596134,"SNU2","heliport","Mater Dei Hospital Helipad",-19.982975,-43.946015,3934,"SA","BR","BR-MG","Nova Lima","no",,,"SNU2","MG0518",,,
 340976,"SNUA","small_airport","Fazenda Paulista Airport",-25.392105,-54.409799,820,"SA","BR","BR-PR","Santa Terezinha de Itaipu","no",,,"SNUA","PR0068",,,
 407,"SNUB","small_airport","Ubá Airport",-21.121,-42.881901,1115,"SA","BR","BR-MG","Ubá","no",,,"SNUB","SNUB",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Ub%C3%A1",
 408,"SNUC","small_airport","Açu Airport",-5.59505,-36.960899,364,"SA","BR","BR-RN","Açu","no",,,"SNUC","RN0003",,,
