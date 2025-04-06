@@ -4819,6 +4819,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30588,LSTZ,small_airport,Zweisimmen Airfield,46.551713,7.381012,3068,EU,CH,CH-BE,Zweisimmen,no,LSTZ,,LSTZ,,http://www.zweisimmen.aero,https://de.wikipedia.org/wiki/Flugplatz_Zweisimmen,Flugplatz Zweisimmen
 354300,LSVD,small_airport,Clariden-Hüfifirn Mountain Landing Site,46.821944,8.880277,,EU,CH,CH-GL,Plateau nördlich Planurahütte,no,LSVD,,LSVD,,,,
 594915,LSVP,small_airport,Petersgrat Mountain Landing Site,46.468889,7.828333,,EU,CH,CH-BE,Firnplateau,no,LSVP,,LSVP,,,,
+596089,LSVV,small_airport,Vorabgletscher Mountain Landing Site,46.878333,9.151944,,EU,CH,CH-GR,Sattel,no,LSVV,,LSVV,,,,
+596090,LSYI,small_airport,Limmerenfirn Mountain Landing Site,46.810556,8.967778,,EU,CH,CH-GL,Oberer Firnrand,no,LSYI,,LSYI,,,,
 594914,LSYK,small_airport,Kanderfirn Mountain Landing Site,46.485833,7.828333,,EU,CH,CH-BE,West of Mutthorn hut,no,LSYK,,LSYK,,,,
 594957,LSYR,small_airport,Rosa Blanche Mountain Landing Site,46.060833,7.354722,,EU,CH,CH-VS,Grat südlich Gipfel,no,LSYR,,LSYR,,,,
 523137,LSYX,small_airport,Glacier du Trient Mountain Landing Site,45.9883,7.0425,,EU,CH,CH-VS,Firnrand,no,LSYX,,LSYX,,,,
