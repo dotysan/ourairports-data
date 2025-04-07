@@ -7148,7 +7148,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6246,SULS,medium_airport,Capitan Corbeta CA Curbelo International Airport,-34.855099,-55.094299,95,SA,UY,UY-MA,Punta del Este,yes,SULS,PDP,SULS,,http://www.puntadeleste.aero/,https://en.wikipedia.org/wiki/Capitan_Corbeta_CA_Curbelo_International_Airport,
 31920,SUMO,small_airport,Cerro Largo International Airport,-32.337898,-54.216702,364,SA,UY,UY-CL,Melo,no,SUMO,MLZ,SUMO,,,https://en.wikipedia.org/wiki/Cerro_Largo_International_Airport,
 6247,SUMU,large_airport,Carrasco General Cesáreo L. Berisso International Airport,-34.835647,-56.026497,105,SA,UY,UY-CA,Ciudad de la Costa,yes,SUMU,MVD,SUMU,,,https://en.wikipedia.org/wiki/Carrasco_International_Airport,Montevideo
-30253,SUPU,small_airport,Tydeo Larre Borges Airport,-32.3633,-58.061901,138,SA,UY,UY-PA,Paysandú,no,SUPU,PDU,SUPU,,,https://en.wikipedia.org/wiki/Paysand%C3%BA_Airport,
+30253,SUPU,medium_airport,Tydeo Larre Borges Airport,-32.3633,-58.061901,138,SA,UY,UY-PA,Paysandú,no,SUPU,PDU,SUPU,,,https://en.wikipedia.org/wiki/Paysand%C3%BA_Airport,
 32240,SURV,small_airport,Presidente General Don Oscar D. Gestido International Airport,-30.9746,-55.4762,712,SA,UY,UY-RV,Rivera,no,SURV,RVY,SURV,,,https://en.wikipedia.org/wiki/Rivera_International_Airport,
 6248,SUSO,medium_airport,Nueva Hesperides International Airport,-31.438499,-57.985298,187,SA,UY,UY-SA,Salto,no,SUSO,STY,SUSO,,,https://en.wikipedia.org/wiki/Nueva_Hesperides_International_Airport,
 32423,SUTB,small_airport,Tacuarembo Airport,-31.749001,-55.925801,440,SA,UY,UY-TA,Tacuarembo,no,SUTB,TAW,SUTB,,,https://en.wikipedia.org/wiki/Tacuaremb%C3%B3_Airport,
