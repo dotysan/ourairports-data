@@ -15091,22 +15091,22 @@
 35754,"BR-2315","small_airport","Agrorural Sol Nascente Airport",-3.510294,-56.311784,108,"SA","BR","BR-PA","Aveiro","no",,,,,,,"SDUA"
 35755,"BR-2316","small_airport","Fazenda Figueira Airport",-21.510058,-50.121825,1526,"SA","BR","BR-SP","Penápolis","no",,,,,,,"SDUE"
 35756,"BR-2317","small_airport","Fazenda Sumaré Airport",-21.542281,-53.345331,1001,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,,,,,"SDUH, SWRM"
-35761,"BR-2318","heliport","Unibanco Patriarca Heliport",-23.548055648804,-46.636112213135,2867,"SA","BR","BR-SP","São Paulo","no",,,,"SDUP",,,"SDUP"
-35763,"BR-2319","small_airport","Iberá Airport",-25.051944732666,-50.19083404541,2937,"SA","BR","BR-PR","Ponta Grossa","no",,,,"SDUR",,,"SDUR"
-35772,"BR-2320","small_airport","Coronel Newton Braga Airport",-22.242779,-43.713612,1903,"SA","BR","BR-RJ","Valença","no",,,,"SDVL",,,"SDVL"
-35773,"BR-2321","heliport","Bradesco - Vila Matilde Heliport",-23.544248,-46.516575,2587,"SA","BR","BR-SP","São Paulo","no",,,,"SDVM",,,"SDVM"
+35761,"BR-2318","heliport","Unibanco Patriarca Heliport",-23.547894,-46.635988,2867,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SDUP"
+35763,"BR-2319","small_airport","Iberá Airport",-25.052823,-50.188438,2937,"SA","BR","BR-PR","Ponta Grossa","no",,,,,,,"SDUR"
+35772,"BR-2320","small_airport","Coronel Newton Braga Airport",-22.242779,-43.713612,1903,"SA","BR","BR-RJ","Valença","no",,,,,,,"SDVL"
+35773,"BR-2321","heliport","Bradesco - Vila Matilde Heliport",-23.544248,-46.516575,2587,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SDVM"
 35778,"BR-2322","closed","Life Hotel Heliport",-25.424723,-49.269169,3183,"SA","BR","BR-PR","Curitiba","no",,,,,,,"SDVZ"
-35782,"BR-2323","small_airport","Fazenda Califórnia Airport",-20.43013,-48.602303,1856,"SA","BR","BR-SP","Barretos","no",,,,"SDWD",,,"SDWD"
-35783,"BR-2324","small_airport","Usina São Carlos Airport",-21.28416633606,-48.162776947021,1919,"SA","BR","BR-SP","Jaboticabal","no",,,,"SDWE",,,"SDWE"
-35784,"BR-2325","heliport","Panco 9 Heliport",-22.861110687256,-43.342220306396,131,"SA","BR","BR-RJ","Rio De Janeiro","no",,,,"SDWF",,,"SDWF"
-35785,"BR-2326","small_airport","Fazenda Itapiranga Airport",-22.063056945801,-51.92472076416,1394,"SA","BR","BR-SP","Marabá Paulista","no",,,,"SDWG",,,"SDWG"
-35786,"BR-2327","small_airport","Aldeia Kubenkroke Airport",-8.724905,-53.391234,894,"SA","BR","BR-PA","Altamira","no",,,,"SDWJ",,,"SDWJ"
-35788,"BR-2328","small_airport","Aldeia de Metuktire Airport",-10.063611,-52.996666,2953,"SA","BR","BR-MT","Peixoto De Azevedo","no",,,,"SDWM",,,"SDWM"
-35789,"BR-2329","heliport","Palácio Boa Vista Heliport",-22.734935,-45.606737,5814,"SA","BR","BR-SP","Campos Do Jordão","no",,,,"SP0505",,,"SDWP, SIIQ, BR-2329"
-35790,"BR-2330","small_airport","Fazenda Primavera Airport",-21.077778,-51.144444,1627,"SA","BR","BR-SP","Mirandópolis","no",,,,"SDWR",,,"SDWR"
-35793,"BR-2331","heliport","Central Towers Paulista Heliport",-23.564722061157,-46.64083480835,2808,"SA","BR","BR-SP","São Paulo","no",,,,"SDWY",,,"SDWY"
-35794,"BR-2332","heliport","Cesp Heliport",-22.287779,-49.098888,1959,"SA","BR","BR-SP","Bauru","no",,,,"SDXC",,,"SDXC"
-35798,"BR-2333","small_airport","Fazenda Cajueiro Airport",-4.236688,-48.4791,577,"SA","BR","BR-PA","São Domingos do Capim","no",,,,"SDXI",,,"SDXI"
+35782,"BR-2323","small_airport","Fazenda Califórnia Airport",-20.43013,-48.602303,1856,"SA","BR","BR-SP","Barretos","no",,,,,,,"SDWD"
+35783,"BR-2324","small_airport","Usina São Carlos Airport",-21.284712,-48.163505,1919,"SA","BR","BR-SP","Jaboticabal","no",,,,,,,"SDWE"
+35784,"BR-2325","heliport","Panco 9 Heliport",-22.861111,-43.34222,131,"SA","BR","BR-RJ","Rio De Janeiro","no",,,,,,,"SDWF"
+35785,"BR-2326","small_airport","Fazenda Itapiranga Airport",-22.063057,-51.924721,1394,"SA","BR","BR-SP","Marabá Paulista","no",,,,,,,"SDWG"
+35786,"BR-2327","small_airport","Aldeia Kubenkroke Airport",-8.724905,-53.391234,894,"SA","BR","BR-PA","Altamira","no",,,,,,,"SDWJ"
+35788,"BR-2328","small_airport","Aldeia de Metuktire Airport",-10.067984,-52.99908,886,"SA","BR","BR-MT","Peixoto de Azevedo","no",,,,,,,"SDWM"
+35789,"BR-2329","heliport","Palácio Boa Vista Heliport",-22.734935,-45.606737,5814,"SA","BR","BR-SP","Campos do Jordão","no",,,"SIIQ","SP0505",,,"SDWP"
+35790,"BR-2330","small_airport","Fazenda Primavera Airport",-21.07844,-51.148095,1627,"SA","BR","BR-SP","Mirandópolis","no",,,,,,,"SDWR"
+35793,"BR-2331","heliport","Central Towers Paulista Heliport",-23.564812,-46.641176,2808,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SDWY"
+35794,"BR-2332","heliport","CESP Heliport",-22.287779,-49.098888,1959,"SA","BR","BR-SP","Bauru","no",,,,,,,"SDXC"
+35798,"BR-2333","small_airport","Fazenda Cajueiro Airport",-4.236688,-48.4791,577,"SA","BR","BR-PA","São Domingos do Capim","no",,,,,,,"SDXI"
 35800,"BR-2334","heliport","Da Praia Heliport",-22.77403,-41.889898,23,"SA","BR","BR-RJ","Armação dos Búzios","no",,,,"RJ0083",,,"SDXM, SIIB, BR-2334"
 35801,"BR-2335","small_airport","Fazenda Santa Maria da Mata Airport",-20.727500915527,-50.971668243408,1142,"SA","BR","BR-SP","Sud Menucci","no",,,,"SDXO",,,"SDXO"
 35803,"BR-2336","small_airport","Fazenda Flamboyant Airport",-20.906944,-51.575558,1112,"SA","BR","BR-SP","Castilho","no",,,,"SDXQ",,,"SDXQ"
@@ -15194,7 +15194,7 @@
 36015,"BR-2418","heliport","Mont Blanc Heliport",-22.746389389038,-45.554721832275,6102,"SA","BR","BR-SP","Campos Do Jordão","no",,,,"SIHY",,,"SIHY"
 36022,"BR-2419","heliport","Valparaíso Heliport",-21.329036,-50.950942,1181,"SA","BR","BR-SP","Valparaíso","no",,,,"SP0503",,,"SIIF, BR-2419"
 36026,"BR-2420","heliport","Ilha da Jipóia Heliport",-23.048610687256,-44.347499847412,190,"SA","BR","BR-RJ","Angra Dos Reis","no",,,,"SIIL",,,"SIIL"
-36031,"BR-2421","small_airport","Fazenda Aracoxim Airport",-17.403739,-53.716557,2198,"SA","BR","BR-MS","Sonora","no",,,,"SIIQ",,,"SIIQ"
+36031,"BR-2421","small_airport","Fazenda Aracoxim Airport",-17.403739,-53.716557,2198,"SA","BR","BR-MS","Sonora","no",,,,,,,"SIIQ"
 36036,"BR-2422","small_airport","Fazenda Córrego Fundo Airport",-13.736944,-52.589443,1207,"SA","BR","BR-MT","Água Boa","no",,,,"SIIX",,,"SJCF, SIIX"
 36039,"BR-2423","heliport","Jambo Heliport",-3.2116670608521,-39.420276641846,72,"SA","BR","BR-CE","Trairi","no",,,,"SIJB",,,"SIJB"
 36045,"BR-2424","heliport","Cosipa Heliport",-23.860000610352,-46.384998321533,20,"SA","BR","BR-SP","Cubatão","no",,,,"SIJH",,,"SIJH"
@@ -28945,7 +28945,7 @@
 354221,"GB-1038","small_airport","Broadmarsh Farm Airstrip",52.526831,0.982146,,"EU","GB","GB-ENG","Attleborough, Norfolk","no",,,,,,,
 354348,"GB-1039","small_airport","Tullochgribban-High Airstrip",57.307125,-3.749256,,"EU","GB","GB-SCT","Dulnain Bridge","no",,,,,,,
 354387,"GB-1040","small_airport","Idsworth Airstrip",50.92723,-0.95384,344,"EU","GB","GB-ENG","Waterlooville, Hampshire","no",,,,,,,
-354631,"GB-1041","small_airport","Lempitlaw Farm Airstrip",55.585485,-2.328248,,"EU","GB","GB-ENG",,"no",,,,,,,
+354631,"GB-1041","small_airport","Lempitlaw Farm Airstrip",55.585485,-2.328248,,"EU","GB","GB-SCT",,"no",,,,,,,
 355027,"GB-1042","small_airport","Barnfield Farm Airstrip",52.359721,-0.012274,,"EU","GB","GB-ENG","Huntingdon, Cambridgeshire","no",,,,,,,
 355049,"GB-1043","small_airport","Altamuskin",54.522128,-7.083564,,"EU","GB","GB-NIR",,"no",,,,,,,"Hilltop Flying Club"
 355704,"GB-1044","small_airport","Corston Airstrip",59.052331,-3.19069,,"EU","GB","GB-SCT",,"no",,,,,,,
@@ -64279,6 +64279,7 @@
 595633,"UA-9876","closed","Podorozhnje Airfield",49.03422,33.10005,456,"EU","UA","UA-35","Podorozhnje","no",,,,,,,
 596179,"UA-9877","closed","Pervomaysk Heliport",47.974137,30.905585,427,"EU","UA","UA-48","Pervomaysk","no",,,,,,,"HG5N, ХГ5Н, Первомайськ"
 596181,"UA-9878","closed","Tyshkivka Airfield",48.475065,30.937243,620,"EU","UA","UA-35","Tyshkivka","no",,,,,,,"ZB5E, ЗБ5Е, Тишківка"
+596213,"UA-9879","closed","Dmitrovka Airfield",46.839552,36.587008,148,"EU","UA","UA-23","Dmitrovka","no",,,,,,,"ZE0U, ЗЕ0У, Дмитрівка"
 3549,"UA30","medium_airport","Batken Airport",40.042899,70.83784,3602,"AS","KG","KG-B","Batken","yes","UCFB",,"UCFB",,"http://www.airport.kg/index.php?option=com_content&view=article&id=4&Itemid=6","https://en.wikipedia.org/wiki/Batken_Airport","UAFB, Баткен"
 3964,"UA34","small_airport","Chardara Airport",41.2765007019043,67.97100067138672,709,"AS","KZ","KZ-YUZ","Shardara","no",,,"UA34","UA34",,,
 3966,"UA36","small_airport","Lugovoy Airport",42.972565,72.728051,2130,"AS","KZ","KZ-ZHA","Lugovoy","no",,,"UA36","XAAL",,,
@@ -82821,7 +82822,7 @@
 28144,"ZWTC","small_airport","Tacheng Qianquan Airport",46.672501,83.340797,,"AS","CN","CN-65","Tacheng","yes","ZWTC","TCG","ZWTC",,,"https://en.wikipedia.org/wiki/Tacheng_Airport",
 314799,"ZWTL","medium_airport","Turpan Jiaohe Airport",43.0308,89.0987,934,"AS","CN","CN-65","Turpan","yes","ZWTL","TLQ","ZWTL",,,"https://en.wikipedia.org/wiki/Turpan_Jiaohe_Airport",
 27235,"ZWTN","medium_airport","Hotan Airport",37.03850173950195,79.86489868164062,4672,"AS","CN","CN-65","Hotan","yes","ZWTN","HTN","ZWTN",,,"https://en.wikipedia.org/wiki/Hotan_Airport","Khotan, Heitan Air Base"
-27236,"ZWWW","large_airport","Ürümqi Diwopu International Airport",43.907100677490234,87.47419738769531,2125,"AS","CN","CN-65","Ürümqi","yes","ZWWW","URC","ZWWW",,,"https://en.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi_Diwopu_International_Airport",
+27236,"ZWWW","large_airport","Ürümqi Tianshan International Airport",43.907101,87.474197,2125,"AS","CN","CN-65","Ürümqi","yes","ZWWW","URC","ZWWW",,,"https://en.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi_Tianshan_International_Airport",
 32725,"ZWYN","small_airport","Yining Airport",43.955799,81.330299,,"AS","CN","CN-65","Ili (Yining / Ghulja)","yes","ZWYN","YIN","ZWYN",,,"https://en.wikipedia.org/wiki/Yining_Airport","Ghulja, Ili"
 342843,"ZWYT","small_airport","Yutian Wanfang Airport",36.8085,81.7827,4731,"AS","CN","CN-65","Hotan (Yutian)","yes","ZWYT","YTW","ZWYT","YTW",,"https://en.wikipedia.org/wiki/Yutian_Wanfang_Airport",
 30646,"ZYAS","medium_airport","Anshan Teng'ao Airport / Anshan Air Base",41.105301,122.853996,,"AS","CN","CN-21","Anshan","yes","ZYAS","AOG","ZYAS",,,"https://en.wikipedia.org/wiki/Anshan_Teng%27ao_Airport",
