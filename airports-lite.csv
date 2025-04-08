@@ -9292,7 +9292,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 28144,ZWTC,small_airport,Tacheng Qianquan Airport,46.672501,83.340797,,AS,CN,CN-65,Tacheng,yes,ZWTC,TCG,ZWTC,,,https://en.wikipedia.org/wiki/Tacheng_Airport,
 314799,ZWTL,medium_airport,Turpan Jiaohe Airport,43.0308,89.0987,934,AS,CN,CN-65,Turpan,yes,ZWTL,TLQ,ZWTL,,,https://en.wikipedia.org/wiki/Turpan_Jiaohe_Airport,
 27235,ZWTN,medium_airport,Hotan Airport,37.03850173950195,79.86489868164062,4672,AS,CN,CN-65,Hotan,yes,ZWTN,HTN,ZWTN,,,https://en.wikipedia.org/wiki/Hotan_Airport,"Khotan, Heitan Air Base"
-27236,ZWWW,large_airport,Ürümqi Diwopu International Airport,43.907100677490234,87.47419738769531,2125,AS,CN,CN-65,Ürümqi,yes,ZWWW,URC,ZWWW,,,https://en.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi_Diwopu_International_Airport,
+27236,ZWWW,large_airport,Ürümqi Tianshan International Airport,43.907101,87.474197,2125,AS,CN,CN-65,Ürümqi,yes,ZWWW,URC,ZWWW,,,https://en.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi_Tianshan_International_Airport,
 32725,ZWYN,small_airport,Yining Airport,43.955799,81.330299,,AS,CN,CN-65,Ili (Yining / Ghulja),yes,ZWYN,YIN,ZWYN,,,https://en.wikipedia.org/wiki/Yining_Airport,"Ghulja, Ili"
 342843,ZWYT,small_airport,Yutian Wanfang Airport,36.8085,81.7827,4731,AS,CN,CN-65,Hotan (Yutian),yes,ZWYT,YTW,ZWYT,YTW,,https://en.wikipedia.org/wiki/Yutian_Wanfang_Airport,
 30646,ZYAS,medium_airport,Anshan Teng'ao Airport / Anshan Air Base,41.105301,122.853996,,AS,CN,CN-21,Anshan,yes,ZYAS,AOG,ZYAS,,,https://en.wikipedia.org/wiki/Anshan_Teng%27ao_Airport,
