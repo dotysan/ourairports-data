@@ -2286,6 +2286,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31778,GASK,small_airport,Sikasso Airport,11.328611,-5.684722,1378,AF,ML,ML-3,Sikasso,no,GASK,KSS,GASK,,,,KSS
 3071,GATB,medium_airport,Timbuktu Airport,16.730499,-3.00758,863,AF,ML,ML-7,Timbuktu,yes,GATB,TOM,GATB,,,https://en.wikipedia.org/wiki/Timbuktu_Airport,"Timbuctoo Airport, Tombouctou Airport, Tumbutu Airport, Tombouktou Airport"
 31034,GAYE,small_airport,Yélimané Airport,15.123682,-10.571177,325,AF,ML,ML-1,Yélimané,no,GAYE,EYL,GAYE,,,https://en.wikipedia.org/wiki/Y%C3%A9liman%C3%A9_Airport,
+595235,GB-1327,heliport,Penzance Heliport,50.130376,-5.513946,,EU,GB,GB-ENG,"Penzance, Cornwall",yes,EGHK,PZE,,,https://penzanceheliport.co.uk/,https://en.wikipedia.org/wiki/Penzance_Heliport,
 30935,GB-DOC,small_airport,Dornoch Airfield,57.868999,-4.023,1,EU,GB,GB-SCT,"Dornoch, Sunderland",no,,DOC,,,http://www.dornochairfield.com/,,"EG08, EGZJ"
 31147,GB-FLH,small_airport,Flotta Isle Airstrip,58.825802,-3.14278,50,EU,GB,GB-SCT,Flotta Isle,no,,FLH,,,,https://en.wikipedia.org/wiki/Flotta_Isle_Airport,EGZR
 31199,GB-FOA,small_airport,Foula Airfield,60.121725,-2.053202,150,EU,GB,GB-SCT,Foula,yes,,FOA,,,,https://en.wikipedia.org/wiki/Foula_Airfield,EGFO
@@ -9325,4 +9326,3 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 44182,ZYXC,medium_airport,Xingcheng Air Base,40.580328,120.700374,30,AS,CN,CN-21,Huludao (Xingcheng),no,ZYXC,XEN,ZYXC,,,,
 27244,ZYYJ,medium_airport,Yanji Chaoyangchuan Airport,42.8828010559,129.451004028,624,AS,CN,CN-22,Yanji,yes,ZYYJ,YNJ,ZYYJ,,,https://en.wikipedia.org/wiki/Yanji_Chaoyangchuan_Airport,
 317861,ZYYK,medium_airport,Yingkou Lanqi Airport,40.542524,122.3586,,AS,CN,CN-21,Yingkou (Laobian),yes,ZYYK,YKH,ZYYK,,,https://en.wikipedia.org/wiki/Yingkou_Lanqi_Airport,
-595235,ZZ-0004,heliport,Penzance Heliport,50.130376,-5.513946,,EU,GB,GB-ENG,"Penzance, Cornwall",yes,EGHK,PZE,,,https://penzanceheliport.co.uk/,https://en.wikipedia.org/wiki/Penzance_Heliport,
