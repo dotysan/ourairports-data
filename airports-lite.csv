@@ -1460,7 +1460,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2390,EGBE,medium_airport,Coventry Airport,52.369701,-1.47972,267,EU,GB,GB-ENG,"Coventry, West Midlands",no,EGBE,CVT,EGBE,,http://www.coventryairport.co.uk/,https://en.wikipedia.org/wiki/Coventry_Airport,RAF Baginton
 2392,EGBJ,medium_airport,Gloucestershire Airport,51.89419937133789,-2.167220115661621,101,EU,GB,GB-ENG,Staverton,no,EGBJ,GLO,EGBJ,,,https://en.wikipedia.org/wiki/Gloucestershire_Airport,
 29109,EGBK,small_airport,Sywell Aerodrome,52.305302,-0.793056,429,EU,GB,GB-ENG,"Northampton, Northamptonshire",no,EGBK,ORM,EGBK,,http://www.sywellaerodrome.co.uk/,https://en.wikipedia.org/wiki/Sywell_Aerodrome,
-2393,EGBN,medium_airport,Nottingham Airport,52.919998,-1.07917,138,EU,GB,GB-ENG,Nottingham,no,EGBN,NQT,EGBN,,http://www.nottinghamairport.co.uk/,https://en.wikipedia.org/wiki/Nottingham_Airport,
+2393,EGBN,medium_airport,Nottingham City Airport,52.919998,-1.07917,138,EU,GB,GB-ENG,Nottingham,no,EGBN,NQT,EGBN,,http://www.nottinghamairport.co.uk/,https://en.wikipedia.org/wiki/Nottingham_Airport,
 2395,EGBP,small_airport,Cotswold Airport,51.668528,-2.056599,433,EU,GB,GB-ENG,"Cirencester, Gloucestershire",no,EGBP,GBA,EGBP,,http://www.cotswoldairport.com/,https://en.wikipedia.org/wiki/Cotswold_Airport,"RAF Kemble, Kemble Airfield, Kemble Airport, Cotswold Airport"
 314577,EGCA,small_airport,Coal Aston Airfield,53.304809,-1.42886,750,EU,GB,GB-ENG,"Dronfield, Derbyshire",no,EGCA,,EGCA,,,https://en.wikipedia.org/wiki/Coal_Aston_Airfield,
 2398,EGCC,large_airport,Manchester Airport,53.349375,-2.279521,257,EU,GB,GB-ENG,"Manchester, Greater Manchester",yes,EGCC,MAN,EGCC,,http://www.manchesterairport.co.uk/,https://en.wikipedia.org/wiki/Manchester_Airport,"Ringway Airport, RAF Ringway"
@@ -1471,24 +1471,24 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29127,EGEF,small_airport,Fair Isle Airport,59.534721,-1.628509,223,EU,GB,GB-SCT,Fair Isle,yes,EGEF,FIE,EGEF,,http://www.fairisle.org.uk/egef/index.htm,https://en.wikipedia.org/wiki/Fair_Isle_Airport,
 29128,EGEH,small_airport,Whalsay Airstrip,60.376835,-0.927229,100,EU,GB,GB-SCT,"Whalsay, Shetlands",no,EGEH,WHS,EGEH,,,https://en.wikipedia.org/wiki/Whalsay_Airstrip,
 41918,EGEI,small_airport,Broadford Airstrip,57.253399,-5.8279,24,EU,GB,GB-SCT,Ashaig,no,EGEI,SKL,EGEI,,,https://en.wikipedia.org/wiki/Broadford_Airfield,"Ashaig Airstrip, Isle of Sky Airstrip, Broadford"
-44408,EGEL,small_airport,Coll Airport,56.601898,-6.61778,21,EU,GB,GB-SCT,Coll Island,no,,COL,EGEL,,,https://en.wikipedia.org/wiki/Coll_Airport,
+44408,EGEL,small_airport,Coll Airport,56.601898,-6.61778,21,EU,GB,GB-SCT,Coll Island,yes,,COL,EGEL,,,https://en.wikipedia.org/wiki/Coll_Airport,
 29129,EGEN,small_airport,North Ronaldsay Airport,59.3675003052,-2.43443989754,40,EU,GB,GB-SCT,North Ronaldsay,yes,EGEN,NRL,EGEN,,,https://en.wikipedia.org/wiki/North_Ronaldsay_Airport,
-2412,EGEO,small_airport,Oban Airport,56.463501,-5.39967,20,EU,GB,GB-SCT,North Connel,no,EGEO,OBN,EGEO,,http://obanandtheislesairports.com/,https://en.wikipedia.org/wiki/Oban_Airport,
+2412,EGEO,small_airport,Oban Airport,56.463501,-5.39967,20,EU,GB,GB-SCT,North Connel,yes,EGEO,OBN,EGEO,,http://obanandtheislesairports.com/,https://en.wikipedia.org/wiki/Oban_Airport,
 29130,EGEP,small_airport,Papa Westray Airport,59.351699829100006,-2.9002799987800003,91,EU,GB,GB-SCT,Papa Westray,yes,EGEP,PPW,EGEP,,,https://en.wikipedia.org/wiki/Papa_Westray_Airport,Papay
 29131,EGER,small_airport,Stronsay Airport,59.1553,-2.64139,39,EU,GB,GB-SCT,Stronsay,yes,EGER,SOY,EGER,,,https://en.wikipedia.org/wiki/Stronsay_Airport,
 29132,EGES,small_airport,Sanday Airport,59.250301,-2.57667,68,EU,GB,GB-SCT,Sanday,yes,EGES,NDY,EGES,,,https://en.wikipedia.org/wiki/Sanday_Airport,
-29133,EGET,small_airport,Lerwick / Tingwall Airport,60.1922,-1.24361,43,EU,GB,GB-SCT,Sumburgh,yes,EGET,LWK,EGET,,,https://en.wikipedia.org/wiki/Tingwall_Airport,Lerwick
+29133,EGET,small_airport,Lerwick / Tingwall Airport,60.1922,-1.24361,43,EU,GB,GB-SCT,"Lerwick, Shetland Islands",yes,EGET,LWK,EGET,,,https://en.wikipedia.org/wiki/Tingwall_Airport,Lerwick
 29134,EGEW,small_airport,Westray Airport,59.3502998352,-2.95000004768,29,EU,GB,GB-SCT,Westray,yes,EGEW,WRY,EGEW,,,https://en.wikipedia.org/wiki/Westray_Airport,
-44409,EGEY,small_airport,Colonsay Airstrip,56.057499,-6.24306,44,EU,GB,GB-SCT,Colonsay,no,,CSA,EGEY,,,https://en.wikipedia.org/wiki/Colonsay_Airport,Machrins
+44409,EGEY,small_airport,Colonsay Airstrip,56.057499,-6.24306,44,EU,GB,GB-SCT,Colonsay,yes,,CSA,EGEY,,,https://en.wikipedia.org/wiki/Colonsay_Airport,Machrins
 2414,EGFE,medium_airport,Haverfordwest Airport,51.833099365234375,-4.9611101150512695,159,EU,GB,GB-WLS,Haverfordwest,no,EGFE,HAW,EGFE,,,https://en.wikipedia.org/wiki/Haverfordwest_Aerodrome,
-2415,EGFF,medium_airport,Cardiff International Airport,51.396702,-3.34333,220,EU,GB,GB-WLS,"Rhoose, Vale of Glamorgan",yes,EGFF,CWL,EGFF,,http://www.cwlfly.com/,https://en.wikipedia.org/wiki/Cardiff_Airport,"Caerdydd, Cardiff International Airport, Maes Awyr Caerdydd, Rhoose, Y Rhws"
+2415,EGFF,medium_airport,Cardiff International Airport,51.396702,-3.34333,220,EU,GB,GB-WLS,Cardiff,yes,EGFF,CWL,EGFF,,http://www.cwlfly.com/,https://en.wikipedia.org/wiki/Cardiff_Airport,"Caerdydd, Cardiff International Airport, Maes Awyr Caerdydd, Rhoose, Y Rhws"
 2416,EGFH,medium_airport,Swansea Airport,51.601366,-4.071006,299,EU,GB,GB-WLS,Swansea,no,EGFH,SWS,EGFH,,,https://en.wikipedia.org/wiki/Swansea_Airport,"Abertawe, Fairwood Common, RAF Fairwood Common, Maes Awyr Abertawe"
 2417,EGGD,medium_airport,Bristol Airport,51.382702,-2.71909,622,EU,GB,GB-ENG,Bristol,yes,EGGD,BRS,EGGD,,http://www.bristolairport.co.uk/,https://en.wikipedia.org/wiki/Bristol_Airport,Lulsgate Bottom
 2418,EGGP,medium_airport,Liverpool John Lennon Airport,53.333599,-2.84972,80,EU,GB,GB-ENG,Liverpool,yes,EGGP,LPL,EGGP,,http://www.liverpoolairport.com/,https://en.wikipedia.org/wiki/Liverpool_John_Lennon_Airport,
 2419,EGGW,large_airport,London Luton Airport,51.874699,-0.368333,526,EU,GB,GB-ENG,"Luton, Bedfordshire",yes,EGGW,LTN,EGGW,,http://www.london-luton.co.uk/en/,https://en.wikipedia.org/wiki/Luton_Airport,LON
 29139,EGHC,small_airport,Land's End Airport,50.102798,-5.67056,398,EU,GB,GB-ENG,"Land's End, Cornwall",yes,EGHC,LEQ,EGHC,,http://www.landsendairport.co.uk/,https://en.wikipedia.org/wiki/Land%27s_End_Airport,St. Just Airport
-29140,EGHE,small_airport,St. Mary's Airport,49.9133,-6.29167,116,EU,GB,GB-ENG,St. Mary's,yes,EGHE,ISC,EGHE,,http://www.scilly.gov.uk/transport/airandsea/airport/,https://en.wikipedia.org/wiki/St._Mary%27s_Airport_%28Isles_of_Scilly%29,
-2421,EGHH,medium_airport,Bournemouth Airport,50.780483,-1.839576,38,EU,GB,GB-ENG,"Christchurch, Dorset",yes,EGHH,BOH,EGHH,,http://www.bournemouthairport.com/,https://en.wikipedia.org/wiki/Bournemouth_Airport,RAF Hurn
+29140,EGHE,small_airport,St. Mary's Airport,49.913375,-6.291894,116,EU,GB,GB-ENG,"St. Mary's, Isles of Scilly",yes,EGHE,ISC,EGHE,,http://www.scilly.gov.uk/transport/airandsea/airport/,https://en.wikipedia.org/wiki/St._Mary%27s_Airport_%28Isles_of_Scilly%29,
+2421,EGHH,medium_airport,Bournemouth Airport,50.780483,-1.839576,38,EU,GB,GB-ENG,Bournemouth,yes,EGHH,BOH,EGHH,,http://www.bournemouthairport.com/,https://en.wikipedia.org/wiki/Bournemouth_Airport,RAF Hurn
 2422,EGHI,medium_airport,Southampton Airport,50.950298,-1.3568,44,EU,GB,GB-ENG,Southampton,yes,EGHI,SOU,EGHI,,http://www.southamptonairport.com/,https://en.wikipedia.org/wiki/Southampton_Airport,"RAF Eastleigh, RAF Southampton"
 29143,EGHJ,small_airport,Bembridge Airport,50.678101,-1.10944,53,EU,GB,GB-ENG,"Bembridge, Isle of Wight",no,EGHJ,BBP,EGHJ,,http://www.eghj.com/,https://en.wikipedia.org/wiki/Bembridge_Airport,Britten Norman
 2423,EGHL,medium_airport,Lasham Airfield,51.18744,-1.031663,618,EU,GB,GB-ENG,"Alton, Hampshire",no,EGHL,,EGHL,,http://www.lasham.org.uk/,https://en.wikipedia.org/wiki/Lasham_Airfield,"Basingstoke, RAF Lasham"
@@ -1508,7 +1508,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2435,EGMC,medium_airport,London Southend Airport,51.570562,0.693627,49,EU,GB,GB-ENG,"Southend-on-Sea, Essex",yes,EGMC,SEN,EGMC,,http://www.southendairport.com/,https://en.wikipedia.org/wiki/London_Southend_Airport,RAF Rochford
 2436,EGMD,medium_airport,Lydd London Ashford Airport,50.956246,0.939074,13,EU,GB,GB-ENG,"Romney Marsh, Kent",no,EGMD,LYX,EGMD,,http://www.lydd-airport.co.uk/,https://en.wikipedia.org/wiki/Lydd_Airport,London Ashford
 2439,EGNC,medium_airport,Carlisle Lake District Airport,54.9375,-2.80917,190,EU,GB,GB-ENG,Carlisle,no,EGNC,CAX,EGNC,,https://www.carlisleairport.co.uk/,https://en.wikipedia.org/wiki/Carlisle_Lake_District_Airport,
-2441,EGNH,medium_airport,Blackpool International Airport,53.771702,-3.02861,34,EU,GB,GB-ENG,Blackpool,no,EGNH,BLK,EGNH,,http://www.blackpoolinternational.com/,https://en.wikipedia.org/wiki/Blackpool_International_Airport,
+2441,EGNH,medium_airport,Blackpool Airport,53.771702,-3.02861,34,EU,GB,GB-ENG,Blackpool,no,EGNH,BLK,EGNH,,http://www.blackpoolinternational.com/,https://en.wikipedia.org/wiki/Blackpool_International_Airport,
 2442,EGNJ,medium_airport,Humberside Airport,53.576152,-0.34954,121,EU,GB,GB-ENG,"Grimsby, Lincolnshire",yes,EGNJ,HUY,EGNJ,,http://www.humbersideairport.com/,https://en.wikipedia.org/wiki/Humberside_Airport,RAF Kirmington
 2443,EGNL,medium_airport,Barrow Walney Island Airport,54.1286111,-3.2675,173,EU,GB,GB-ENG,Barrow-in-Furness,no,EGNL,BWF,EGNL,,http://www.walneyairfield.multiservers.com/,https://en.wikipedia.org/wiki/Barrow/Walney_Island_Airfield,
 2444,EGNM,medium_airport,Leeds Bradford Airport,53.865898,-1.66057,681,EU,GB,GB-ENG,"Leeds, West Yorkshire",yes,EGNM,LBA,EGNM,,http://www.lbia.co.uk/,https://en.wikipedia.org/wiki/Leeds_Bradford_International_Airport,
@@ -1521,10 +1521,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2454,EGOV,medium_airport,Anglesey Airport,53.2481,-4.53534,37,EU,GB,GB-WLS,Angelsey,no,EGOV,VLY,EGOV,,http://www.angleseyairport.com/,https://en.wikipedia.org/wiki/Anglesey_Airport,"Maes Awyr Môn, RAF Valley"
 2456,EGPA,medium_airport,Kirkwall Airport,58.957801818847656,-2.9049999713897705,50,EU,GB,GB-SCT,Orkney Islands,yes,EGPA,KOI,EGPA,,,https://en.wikipedia.org/wiki/Kirkwall_Airport,
 2457,EGPB,medium_airport,Sumburgh Airport,59.87889862060547,-1.2955600023269653,20,EU,GB,GB-SCT,Lerwick,yes,EGPB,LSI,EGPB,,http://www.hial.co.uk/sumburgh-airport.html,https://en.wikipedia.org/wiki/Sumburgh_Airport,Shetlands
-2458,EGPC,medium_airport,Wick Airport,58.458900451660156,-3.09306001663208,126,EU,GB,GB-SCT,Wick,yes,EGPC,WIC,EGPC,,http://www.hial.co.uk/wick-airport.html,https://en.wikipedia.org/wiki/Wick_Airport,
-2459,EGPD,medium_airport,Aberdeen Dyce Airport,57.2019,-2.19778,215,EU,GB,GB-SCT,Aberdeen,yes,EGPD,ABZ,EGPD,,http://www.aberdeenairport.com/,https://en.wikipedia.org/wiki/Aberdeen_Airport,
+2458,EGPC,medium_airport,Wick John O'Groats Airport,58.4589,-3.09306,126,EU,GB,GB-SCT,Wick,yes,EGPC,WIC,EGPC,,http://www.hial.co.uk/wick-airport.html,https://en.wikipedia.org/wiki/Wick_Airport,
+2459,EGPD,medium_airport,Aberdeen International Airport,57.2019,-2.19778,215,EU,GB,GB-SCT,Aberdeen,yes,EGPD,ABZ,EGPD,,http://www.aberdeenairport.com/,https://en.wikipedia.org/wiki/Aberdeen_Airport,Dyce
 2460,EGPE,medium_airport,Inverness Airport,57.54249954223633,-4.047500133514404,31,EU,GB,GB-SCT,Inverness,yes,EGPE,INV,EGPE,,http://www.hial.co.uk/inverness-airport.html,https://en.wikipedia.org/wiki/Inverness_Airport,
-2461,EGPF,large_airport,Glasgow International Airport,55.871899,-4.43306,26,EU,GB,GB-SCT,"Paisley, Renfrewshire",yes,EGPF,GLA,EGPF,,http://www.glasgowairport.com/,https://en.wikipedia.org/wiki/Glasgow_International_Airport,"Port-adhair Eadar-nàiseanta Ghlaschu, RAF Abbotsinch, RAF Ayr"
+2461,EGPF,large_airport,Glasgow Airport,55.871899,-4.43306,26,EU,GB,GB-SCT,Glasgow,yes,EGPF,GLA,EGPF,,http://www.glasgowairport.com/,https://en.wikipedia.org/wiki/Glasgow_International_Airport,"Port-adhair Eadar-nàiseanta Ghlaschu, RAF Abbotsinch, RAF Ayr"
 2462,EGPH,large_airport,Edinburgh Airport,55.950145,-3.372288,135,EU,GB,GB-SCT,Edinburgh,yes,EGPH,EDI,EGPH,,http://www.edinburghairport.com/,https://en.wikipedia.org/wiki/Edinburgh_Airport,
 2463,EGPI,medium_airport,Islay Airport,55.682708,-6.257525,56,EU,GB,GB-SCT,"Isle of Islay, Argyll and Bute",yes,EGPI,ILY,EGPI,,,https://en.wikipedia.org/wiki/Islay_Airport,"Glenegedale, Islay, Port Ellen"
 2464,EGPK,medium_airport,Glasgow Prestwick Airport,55.502003,-4.587019,65,EU,GB,GB-SCT,"Prestwick, South Ayrshire",yes,EGPK,PIK,EGPK,,http://www.glasgowprestwick.com/,https://en.wikipedia.org/wiki/Glasgow_Prestwick_International_Airport,
@@ -1534,7 +1534,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29173,EGPR,medium_airport,Barra Airport,57.0228,-7.44306,5,EU,GB,GB-SCT,Eoligarry,yes,EGPR,BRR,EGPR,,http://www.hial.co.uk/barra-airport.html,https://en.wikipedia.org/wiki/Barra_Airport_(Scotland),"Barra Eoligarry Airport, Barra Island"
 29175,EGPT,small_airport,Perth/Scone Airport,56.439201,-3.37222,397,EU,GB,GB-SCT,Perth,no,EGPT,PSL,EGPT,,https://www.perthairport.co.uk/,https://en.wikipedia.org/wiki/Perth_Airport_(Scotland),
 2469,EGPU,medium_airport,Tiree Airport,56.49919891357422,-6.869170188903809,38,EU,GB,GB-SCT,Balemartine,yes,EGPU,TRE,EGPU,,http://www.hial.co.uk/tiree-airport.html,https://en.wikipedia.org/wiki/Tiree_Airport,Inner Hebrides
-29176,EGPW,small_airport,Unst Airport,60.7472,-0.85385,,EU,GB,GB-SCT,Shetland Islands,no,EGPW,UNT,EGPW,,,https://en.wikipedia.org/wiki/Unst_Airport,
+29176,EGPW,small_airport,Unst Airport,60.7472,-0.85385,,EU,GB,GB-SCT,"Baltasound, Shetland Islands",no,EGPW,UNT,EGPW,,,https://en.wikipedia.org/wiki/Unst_Airport,
 2471,EGQL,medium_airport,Leuchars Station Airfield,56.37398,-2.868862,38,EU,GB,GB-SCT,"Leuchars, Fife",no,EGQL,ADX,EGQL,,,https://en.wikipedia.org/wiki/Leuchars_Station,
 2472,EGQS,medium_airport,RAF Lossiemouth,57.7052001953125,-3.339169979095459,42,EU,GB,GB-SCT,Lossiemouth,no,EGQS,LMO,EGQS,,http://www.raf.mod.uk/raflossiemouth/,https://en.wikipedia.org/wiki/RAF_Lossiemouth,
 2473,EGSC,medium_airport,Cambridge City Airport,52.205002,0.175,47,EU,GB,GB-ENG,"Cambridge, Cambridgeshire",no,EGSC,CBG,EGSC,,http://www.cambridgeairport.com/,https://en.wikipedia.org/wiki/Cambridge_City_Airport,Marshall Airport Cambridge UK
