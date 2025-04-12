@@ -1520,7 +1520,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2450,EGNX,medium_airport,East Midlands Airport,52.8311,-1.32806,306,EU,GB,GB-ENG,Nottingham,yes,EGNX,EMA,EGNX,,http://www.eastmidlandsairport.com/,https://en.wikipedia.org/wiki/East_Midlands_Airport,RAF Castle Donington
 2454,EGOV,medium_airport,Anglesey Airport,53.2481,-4.53534,37,EU,GB,GB-WLS,Angelsey,no,EGOV,VLY,EGOV,,http://www.angleseyairport.com/,https://en.wikipedia.org/wiki/Anglesey_Airport,"Maes Awyr Môn, RAF Valley"
 2456,EGPA,medium_airport,Kirkwall Airport,58.957801818847656,-2.9049999713897705,50,EU,GB,GB-SCT,Orkney Islands,yes,EGPA,KOI,EGPA,,,https://en.wikipedia.org/wiki/Kirkwall_Airport,
-2457,EGPB,medium_airport,Sumburgh Airport,59.87889862060547,-1.2955600023269653,20,EU,GB,GB-SCT,Lerwick,yes,EGPB,LSI,EGPB,,http://www.hial.co.uk/sumburgh-airport.html,https://en.wikipedia.org/wiki/Sumburgh_Airport,Shetlands
+2457,EGPB,medium_airport,Sumburgh Airport,59.878899,-1.29556,20,EU,GB,GB-SCT,"Lerwick, Shetland",yes,EGPB,LSI,EGPB,,http://www.hial.co.uk/sumburgh-airport.html,https://en.wikipedia.org/wiki/Sumburgh_Airport,Shetlands
 2458,EGPC,medium_airport,Wick John O'Groats Airport,58.4589,-3.09306,126,EU,GB,GB-SCT,Wick,yes,EGPC,WIC,EGPC,,http://www.hial.co.uk/wick-airport.html,https://en.wikipedia.org/wiki/Wick_Airport,
 2459,EGPD,medium_airport,Aberdeen International Airport,57.2019,-2.19778,215,EU,GB,GB-SCT,Aberdeen,yes,EGPD,ABZ,EGPD,,http://www.aberdeenairport.com/,https://en.wikipedia.org/wiki/Aberdeen_Airport,Dyce
 2460,EGPE,medium_airport,Inverness Airport,57.54249954223633,-4.047500133514404,31,EU,GB,GB-SCT,Inverness,yes,EGPE,INV,EGPE,,http://www.hial.co.uk/inverness-airport.html,https://en.wikipedia.org/wiki/Inverness_Airport,
@@ -1583,7 +1583,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29222,EIIR,small_airport,Inisheer Aerodrome,53.064701,-9.5109,40,EU,IE,IE-G,Inis Oírr,yes,EIIR,INQ,EIIR,,,https://en.wikipedia.org/wiki/Inisheer_Aerodrome,Aran Islands
 29224,EIKK,small_airport,Kilkenny Airport,52.65079879760742,-7.296110153198242,319,EU,IE,IE-KK,Kilkenny,no,EIKK,KKY,EIKK,,http://www.kilkennyflying-glidingclub.com/,https://en.wikipedia.org/wiki/Kilkenny_Airport,EIKL
 2534,EIKN,medium_airport,Ireland West Knock Airport,53.910301,-8.81849,665,EU,IE,IE-MO,Charlestown,yes,EIKN,NOC,EIKN,,http://www.irelandwestairport.com/,https://en.wikipedia.org/wiki/Ireland_West_Airport_Knock,Connaught
-2535,EIKY,medium_airport,Kerry Airport,52.180901,-9.52378,112,EU,IE,IE-KY,Killarney,yes,EIKY,KIR,EIKY,,http://www.kerryairport.ie/,https://en.wikipedia.org/wiki/Kerry_Airport,
+2535,EIKY,medium_airport,Kerry Airport,52.180901,-9.52378,112,EU,IE,IE-KY,Farranfore,yes,EIKY,KIR,EIKY,,http://www.kerryairport.ie/,https://en.wikipedia.org/wiki/Kerry_Airport,
 29225,EILT,small_airport,Letterkenny Airfield,54.951302,-7.67283,20,EU,IE,IE-DL,Letterkenny,no,EILT,LTR,EILT,,,,
 29226,EIMN,small_airport,Inishmaan Aerodrome,53.092999,-9.56806,15,EU,IE,IE-G,Inis Meáin,yes,EIMN,IIA,EIMN,,,https://en.wikipedia.org/wiki/Inishmaan_Aerodrome,Aran Islands
 2537,EINN,large_airport,Shannon Airport,52.702,-8.92482,46,EU,IE,IE-CE,Shannon,yes,EINN,SNN,EINN,,http://www.shannonairport.com/,https://en.wikipedia.org/wiki/Shannon_Airport,
@@ -2376,7 +2376,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30630,GQNJ,small_airport,Akjoujt Airport,19.727998,-14.377214,403,AF,MR,MR-12,Akjoujt,no,GQNJ,AJJ,GQNJ,,,https://en.wikipedia.org/wiki/Akjoujt_Airport,
 3134,GQNK,small_airport,Kaédi Airport,16.1595,-13.5076,75,AF,MR,MR-04,Kaédi,no,GQNK,KED,GQNK,,,https://en.wikipedia.org/wiki/Ka%C3%A9di_Airport,
 31934,GQNL,small_airport,Letfotar Airport,17.75,-12.5,256,AF,MR,MR-05,Moudjeria,no,GQNL,MOM,GQNL,,,https://en.wikipedia.org/wiki/Letfotar_Airport,
-323315,GQNO,large_airport,Nouakchott–Oumtounsy International Airport,18.31,-15.969722,9,AF,MR,MR-NKC,Nouakchott,yes,GQNO,NKC,GQNO,,,https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport,"Nouakchott, Oumtounsy"
+323315,GQNO,large_airport,Nouakchott–Oumtounsy International Airport,18.31,-15.969722,9,AF,MR,MR-NKC,Nouakchott,yes,GQNN,NKC,GQNN,,https://www.aeroport-nouakchott.com/en/index_en.php,https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport,"Nouakchott, Oumtounsy"
 3136,GQNS,small_airport,Sélibaby Airport,15.179699897766113,-12.207300186157227,219,AF,MR,MR-10,Sélibaby,no,GQNS,SEY,GQNS,,,https://en.wikipedia.org/wiki/S%C3%A9libaby_Airport,Selibabi
 32446,GQNT,small_airport,Tamchakett Airport,17.23157,-10.77923,620,AF,MR,MR-02,Tamchakett,no,GQNT,THT,GQNT,,,https://en.wikipedia.org/wiki/Tamchakett_Airport,
 3137,GQPA,medium_airport,Atar International Airport,20.506799697875977,-13.04319953918457,734,AF,MR,MR-07,Atar,no,GQPA,ATR,GQPA,,,https://en.wikipedia.org/wiki/Atar_International_Airport,
