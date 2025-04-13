@@ -153,6 +153,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 42812,AR-0390,small_airport,Carmen de Patagones Airport,-40.7781,-62.9803,131,SA,AR,AR-B,Carmen de Patagones,no,,CPG,SA3R,PAT,,https://en.wikipedia.org/wiki/Carmen_de_Patagones_Airport,
 301707,ARP,small_airport,Aragip Airport,-9.88333333333,149.483333333,1750,OC,PG,PG-MBA,,no,,ARP,,AGP,,,
 301732,ASZ,small_airport,Asirim Airport,-6.009722222220001,150.368611111,1050,OC,PG,PG-WBK,,no,,ASZ,,ASM,,,
+43807,AT-0050,heliport,Eisenstadt Heliport,47.84677,16.51345,748,EU,AT,AT-1,Eisenstadt,no,LOAE,,LOAE,,,,
+43808,AT-0051,heliport,Baden Hospital Helipad,48.000612,16.255796,733,EU,AT,AT-3,Baden,no,LOAF,,LOAF,,,,
 313838,AU-0081,small_airport,Lady Elliot Island Airstrip,-24.1129,152.7156,20,OC,AU,AU-QLD,Lady Elliot Island,no,,LYT,YLTT,,,,
 354527,AU-0456,small_airport,Gruyere Airport,-28.034548,123.81506,1542,OC,AU,AU-WA,Cosmo Newbery,yes,,GYZ,YGRM,,,,
 356438,AU-0490,small_airport,Packsaddle Airport,-30.29424,142.13758,342,OC,AU,AU-NSW,Packsaddle,no,YPAS,,YPAS,,,,
@@ -1576,7 +1578,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29216,EIBT,small_airport,Belmullet Aerodrome,54.2228012085,-10.0307998657,150,EU,IE,IE-MO,Belmullet,no,EIBT,BLY,EIBT,,,https://en.wikipedia.org/wiki/Belmullet_Aerodrome,Béal an Mhuirthead
 27309,EICA,small_airport,Connemara Regional Airport,53.23030090332031,-9.467780113220215,70,EU,IE,IE-G,Inverin,yes,EICA,NNR,EICA,,http://www.aerarannislands.ie/,https://en.wikipedia.org/wiki/Aerfort_na_Minna,"Aerfort na Minna, Indreabhán"
 2530,EICK,medium_airport,Cork Airport,51.841301,-8.49111,502,EU,IE,IE-CO,Cork,yes,EICK,ORK,EICK,,http://www.corkairport.com/,https://en.wikipedia.org/wiki/Cork_Airport,Aerfort Chorcaí
-2531,EICM,medium_airport,Galway Airport,53.300201,-8.94159,81,EU,IE,IE-G,Galway,no,EICM,GWY,EICM,,http://www.galwayairport.com/,https://en.wikipedia.org/wiki/Galway_Airport,
+2531,EICM,medium_airport,Galway Airport,53.300201,-8.94159,81,EU,IE,IE-G,Galway,no,EICM,,EICM,,http://www.galwayairport.com/,https://en.wikipedia.org/wiki/Galway_Airport,GWY
 2532,EIDL,medium_airport,Donegal Airport,55.0442008972168,-8.340999603271484,30,EU,IE,IE-DL,Donegal,yes,EIDL,CFN,EIDL,,http://www.donegalairport.ie/,https://en.wikipedia.org/wiki/Donegal_Airport,Gweedore
 2533,EIDW,large_airport,Dublin Airport,53.428713,-6.262121,242,EU,IE,IE-D,Dublin,yes,EIDW,DUB,EIDW,,http://www.dublinairport.com/,https://en.wikipedia.org/wiki/Dublin_Airport,Aerfort Bhaile Átha Cliath
 29221,EIIM,small_airport,Inishmore Aerodrome,53.1067008972168,-9.653610229492188,24,EU,IE,IE-G,Inis Mór,yes,EIIM,IOR,EIIM,,,https://en.wikipedia.org/wiki/Inishmore_Aerodrome,Aran Islands
@@ -1798,7 +1800,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2809,FAMG,medium_airport,Margate Airport,-30.8574008942,30.343000412,495,AF,ZA,ZA-NL,Margate,yes,FAMG,MGH,FAMG,,,https://en.wikipedia.org/wiki/Margate_Airport,
 41285,FAMH,small_airport,Musina(Messina) Airport,-22.355672,29.9862,1904,AF,ZA,ZA-NP,Musina,no,,MEZ,FAMH,,,,
 2812,FAMM,medium_airport,Mmabatho International Airport,-25.798400878900004,25.548000335699996,4181,AF,ZA,ZA-NW,Mafeking,yes,FAMM,MBD,FAMM,,,https://en.wikipedia.org/wiki/Mmabatho_International_Airport,Mafikeng
-525716,FAMN,small_airport,Malelane Airport,-25.473333,31.565556,1153,AF,ZA,ZA-MP,Malelane,no,FAMN,LLE,FAMN,,,,
+525716,FAMN,small_airport,Malelane Airport,-25.473581,31.565947,1153,AF,ZA,ZA-MP,Malelane,no,FAMN,LLE,FAMN,,https://malelaneairport.co.za/,,
 30164,FAMO,small_airport,Mossel Bay Airport,-34.158746,22.055676,531,AF,ZA,ZA-WC,Mossel Bay,no,FAMO,MZY,FAMO,,http://www.mosselbayaero.com/wmenu.php,,
 2814,FAMS,medium_airport,Morningside Farm Airport,-25.7045001984,26.9090003967,4251,AF,ZA,ZA-NW,Silveroaks,no,FAMS,,FAMS,,,,
 2815,FAMU,medium_airport,Mkuze Airport,-27.626100540161133,32.0443000793457,400,AF,ZA,ZA-NL,Mkuze,no,FAMU,MZQ,FAMU,,,,
@@ -4696,7 +4698,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4381,LIRS,medium_airport,Grosseto Corrado Baccarini Air Base / Grosseto Airport,42.759701,11.0719,17,EU,IT,IT-52,Grosseto (GR),no,LIRS,GRS,LIRS,GR06,,https://en.wikipedia.org/wiki/Grosseto_Airport,C Baccarini
 4384,LIRZ,medium_airport,Perugia San Francesco d'Assisi – Umbria International Airport,43.095901,12.5132,697,EU,IT,IT-55,Perugia (PG),yes,LIRZ,PEG,LIRZ,PG10,http://www.airport.umbria.it/,https://en.wikipedia.org/wiki/Perugia_San_Francesco_d%27Assisi_%E2%80%93_Umbria_International_Airport,"Perugia San Francesco d'Assisi, Perugia Sant'Egidio Airport, Umbria International Airport"
 4386,LJLJ,large_airport,Ljubljana Jože Pučnik Airport,46.223701,14.4576,1273,EU,SI,SI-012,Zgornji Brnik,yes,LJLJ,LJU,LJLJ,,http://www.lju-airport.si/,https://en.wikipedia.org/wiki/Ljubljana_Jo%C5%BEe_Pu%C4%8Dnik_Airport,"Ljubljana, Kranj"
-4387,LJMB,medium_airport,Maribor Edvard Rusjan Airport,46.4799,15.6861,876,EU,SI,SI-160,Orehova Vas,no,LJMB,MBX,LJMB,,,https://en.wikipedia.org/wiki/Maribor_Airport,
+4387,LJMB,medium_airport,Maribor Edvard Rusjan Airport,46.4799,15.6861,876,EU,SI,SI-160,Orehova Vas,no,LJMB,MBX,LJMB,,https://www.mbx-airport.si/en/airport,https://en.wikipedia.org/wiki/Maribor_Airport,
 4388,LJPZ,medium_airport,Portorož Airport,45.47201,13.615951,7,EU,SI,SI-090,Sečovlje,no,LJPZ,POW,LJPZ,,http://www.portoroz-airport.si/,https://en.wikipedia.org/wiki/Portoro%C5%BE_Airport,Sečovlje
 347114,LK-0005,seaplane_base,Nuwara Eliya (Lake Gregory) Waterdrome,6.95605,80.77927,6157,AS,LK,LK-2,Nuwara Eliya,no,,NUA,,NUA,,https://en.wikipedia.org/wiki/Lake_Gregory_Waterdrome,
 313916,LKC,small_airport,Lekana Airport,-2.313,14.606,2634,AF,CG,CG-14,Lekana,no,,LKC,,,,,
@@ -4732,10 +4734,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 349342,LMV,small_airport,Madivaru Airport,5.457545,73.370261,6,AS,MV,MV-03,Naifaru,no,,LMV,VRGD,,,https://en.wikipedia.org/wiki/Madivaru_Airport,
 308663,LMZ,small_airport,Palma Airport,-10.7506,40.4702,177,AF,MZ,MZ-P,Palma,no,,LMZ,,,,,
 30153,LNMC,heliport,Monaco Heliport,43.725798,7.419673,20,EU,MC,MC-U-A,Fontvieille,yes,,MCM,LNMC,,,https://en.wikipedia.org/w/index.php?title=Monaco_Heliport&oldid=1139229385,"Monte Carlo Heliport, Heli Air Monaco"
+29444,LOAA,small_airport,Ottenschlag Airfield,48.41856,15.215294,2867,EU,AT,AT-3,Ottenschlag,no,LOAA,,LOAA,,,https://en.wikipedia.org/wiki/Flugplatz_Ottenschlag,Union Sportfliegergruppe
+29445,LOAB,small_airport,Dobersberg Airfield,48.922113,15.296826,1720,EU,AT,AT-3,Dobersberg,no,LOAB,,LOAB,,,https://en.wikipedia.org/wiki/Dobersberg_Airport,
+29446,LOAD,small_airport,Völtendorf Airfield,48.160081,15.58677,1063,EU,AT,AT-3,Ober-Grafendorf,no,LOAD,,LOAD,,,https://en.wikipedia.org/wiki/V%C3%B6ltendorf_Airport,
 43858,LOIC,heliport,Sankt Anton am Arlberg Heliport,47.119621,10.240524,4730,EU,AT,AT-8,Sankt Anton am Arlberg,no,,ANT,LOIC,,,,
 29458,LOIH,small_airport,Hohenems-Dornbirn Airfield,47.384477,9.699776,1352,EU,AT,AT-8,Hohenems,no,LOIH,HOH,LOIH,,http://www.loih.at/,http://de.wikipedia.org/wiki/Flugplatz_Hohenems-Dornbirn,
 514004,LOJD,heliport,Dornbirn City Hospital Heliport,47.406315,9.740058,,EU,AT,AT-8,Dornbirn,no,LOJD,,,,,,
 313922,LOM,small_airport,Francisco Primo de Verdad y Ramos Airport,21.258983,-101.943758,6227,NA,MX,MX-JAL,Lagos de Moreno,no,,LOM,MMOO,LMO,,https://en.wikipedia.org/wiki/Francisco_Primo_de_Verdad_National_Airport,
+596410,LOMR,heliport,RK-1 Heliport,46.740944,13.664802,2858,EU,AT,AT-2,Fresach,no,LOMR,,LOMR,,,,Kärnten
 21633,LOR,heliport,Lowe AHP (Fort Rucker) Heliport,31.35580063,-85.75119781,294,NA,US,US-AL,Fort Rucker Ozark,no,,LOR,KLOR,LOR,,https://en.wikipedia.org/wiki/Lowe_Army_Heliport,
 4430,LOWG,medium_airport,Graz Airport,46.9911,15.4396,1115,EU,AT,AT-6,Feldkirchen bei Graz,yes,LOWG,GRZ,LOWG,,http://www.flughafen-graz.at/,https://en.wikipedia.org/wiki/Graz_Airport,"Thalerhof Airport, Fliegerhorst Nittner, Nittner Air Base, Christophorus 12"
 4431,LOWI,medium_airport,Innsbruck Airport,47.260201,11.344,1907,EU,AT,AT-7,Innsbruck,yes,LOWI,INN,LOWI,,http://www.innsbruck-airport.com/,https://en.wikipedia.org/wiki/Innsbruck_Airport,Kranebitten Airport
@@ -6902,7 +6908,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32321,SLAG,small_airport,Monteagudo Airport,-19.827,-63.960999,3674,SA,BO,BO-H,El Bañado,no,SLAG,MHW,SLAG,,,https://en.wikipedia.org/wiki/Monteagudo_Airport,
 333229,SLAL,medium_airport,Alcantarí Airport,-19.246835,-65.149611,10184,SA,BO,BO-H,Yamparaez,yes,,SRE,SLAL,,,https://en.wikipedia.org/wiki/Alcantar%C3%AD_Airport,
 29662,SLAP,small_airport,Apolo Airport,-14.7356,-68.411903,4639,SA,BO,BO-L,Apolo,no,SLAP,APB,SLAP,,,https://en.wikipedia.org/wiki/Apolo_Airport,
-29671,SLAS,small_airport,Ascención De Guarayos Airport,-15.9303,-63.1567,807,SA,BO,BO-S,Ascensión de Guarayos,no,SLAS,ASC,SLAS,,,https://en.wikipedia.org/wiki/Ascensi%C3%B3n_de_Guarayos_Airport,
+29671,SLAS,small_airport,Ascención de Guarayos Airport,-15.933365,-63.155575,807,SA,BO,BO-S,Ascensión de Guarayos,no,SLAS,ASC,SLAS,,,https://en.wikipedia.org/wiki/Ascensi%C3%B3n_de_Guarayos_Airport,
 6179,SLBJ,medium_airport,Bermejo Airport,-22.7733001709,-64.31289672850001,1249,SA,BO,BO-T,Bermejo,no,SLBJ,BJO,SLBJ,,,https://en.wikipedia.org/wiki/Bermejo_Airport,
 29751,SLCA,small_airport,Camiri Airport,-20.00656,-63.527827,2614,SA,BO,BO-S,Camiri,no,SLCA,CAM,SLCA,,,https://en.wikipedia.org/wiki/Camiri_Airport,
 6180,SLCB,medium_airport,Jorge Wilsterman International Airport,-17.421100616455078,-66.1771011352539,8360,SA,BO,BO-C,Cochabamba,yes,SLCB,CBB,SLCB,,,https://en.wikipedia.org/wiki/Jorge_Wilstermann_International_Airport,
@@ -8906,7 +8912,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 27946,YSEN,small_airport,Serpentine Airport,-32.394966,115.870987,9,OC,AU,AU-WA,,no,YSEN,,YSEN,,http://www.sabc.org.au,https://en.wikipedia.org/wiki/Serpentine_Airfield,
 27136,YSGE,small_airport,St George Airport,-28.049699783325195,148.59500122070312,656,OC,AU,AU-QLD,,yes,YSGE,SGO,YSGE,,,https://en.wikipedia.org/wiki/Saint_George_Airport,
 27951,YSGT,small_airport,Singleton Airport,-32.600832,151.193056,46,OC,AU,AU-NSW,Singleton,no,YSGT,SIX,YSGT,,,,
-27952,YSGW,small_airport,South Galway Airport,-25.6833,142.108002,116,OC,AU,AU-QLD,,no,YSGW,ZGL,YSGW,,,https://fr.wikipedia.org/wiki/A%C3%A9roport_South_Galway,
+27952,YSGW,small_airport,South Galway Airport,-25.67464,142.089171,116,OC,AU,AU-QLD,,no,YSGW,ZGL,YSGW,,,https://fr.wikipedia.org/wiki/A%C3%A9roport_South_Galway,
 32292,YSHG,small_airport,Shay Gap Airport,-20.4247,120.140999,620,OC,AU,AU-WA,Shay Gap,no,YSHG,SGP,YSHG,,,https://en.wikipedia.org/wiki/Shay_Gap_Airport,
 27137,YSHK,medium_airport,Shark Bay Airport,-25.897294,113.575802,111,OC,AU,AU-WA,Denham,yes,YSHK,MJK,YSHK,,,https://en.wikipedia.org/wiki/Shark_Bay_Airport,Monkey Mia Airport
 27177,YSHL,medium_airport,Shellharbour Airport,-34.5611,150.789001,31,OC,AU,AU-NSW,Albion Park Rail,yes,,WOL,YSHL,,https://www.shellharbourairport.com.au/,https://en.wikipedia.org/wiki/Shellharbour_Airport,"YWOL, RAAF Albion Park, Illawarra Regional Airport, Albion Park Aerodrome, Wollongong Airport"
