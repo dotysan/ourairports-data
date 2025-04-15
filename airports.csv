@@ -29467,7 +29467,7 @@
 3134,"GQNK","small_airport","Kaédi Airport",16.1595,-13.5076,75,"AF","MR","MR-04","Kaédi","no","GQNK","KED","GQNK",,,"https://en.wikipedia.org/wiki/Ka%C3%A9di_Airport",
 31934,"GQNL","small_airport","Letfotar Airport",17.75,-12.5,256,"AF","MR","MR-05","Moudjeria","no","GQNL","MOM","GQNL",,,"https://en.wikipedia.org/wiki/Letfotar_Airport",
 31548,"GQNM","small_airport","Dahara Airport",16.299999237060547,-8.050000190734863,722,"AF","MR","MR-01","Timbreda","no",,,"GQNM",,,"https://en.wikipedia.org/wiki/Dahara_Airport",
-323315,"GQNO","large_airport","Nouakchott–Oumtounsy International Airport",18.31,-15.969722,9,"AF","MR","MR-NKC","Nouakchott","yes","GQNN","NKC","GQNN",,"https://www.aeroport-nouakchott.com/en/index_en.php","https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport","Nouakchott, Oumtounsy"
+323315,"GQNO","large_airport","Nouakchott–Oumtounsy International Airport",18.31,-15.969722,9,"AF","MR","MR-NKC","Nouakchott","yes","GQNO","NKC","GQNO",,"https://www.aeroport-nouakchott.com/en/index_en.php","https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport","Nouakchott, Oumtounsy"
 3136,"GQNS","small_airport","Sélibaby Airport",15.179699897766113,-12.207300186157227,219,"AF","MR","MR-10","Sélibaby","no","GQNS","SEY","GQNS",,,"https://en.wikipedia.org/wiki/S%C3%A9libaby_Airport","Selibabi"
 32446,"GQNT","small_airport","Tamchakett Airport",17.23157,-10.77923,620,"AF","MR","MR-02","Tamchakett","no","GQNT","THT","GQNT",,,"https://en.wikipedia.org/wiki/Tamchakett_Airport",
 3137,"GQPA","medium_airport","Atar International Airport",20.506799697875977,-13.04319953918457,734,"AF","MR","MR-07","Atar","no","GQPA","ATR","GQPA",,,"https://en.wikipedia.org/wiki/Atar_International_Airport",
@@ -48677,7 +48677,7 @@
 22820,"NC80","heliport","Morehead City State Port Terminal Heliport",34.716800689697266,-76.69969940185547,8,"NA","US","US-NC","Morehead City","no",,,"NC80","NC80",,,
 22821,"NC81","small_airport","Cox Airport",35.751800537109375,-78.85970306396484,455,"NA","US","US-NC","Apex","no",,,"NC81","NC81",,,
 22822,"NC82","small_airport","Dublin Field",34.67084,-78.700304,126,"NA","US","US-NC","Dublin","no",,,"NC82","NC82",,,
-22823,"NC83","heliport","Cape Fear Valley Medical Center Heliport",35.03350067138672,-78.93720245361328,213,"NA","US","US-NC","Fayetteville","no",,,"NC83","NC83",,,
+22823,"NC83","heliport","Cape Fear Valley Medical Center Heliport",35.032606,-78.932068,228,"NA","US","US-NC","Fayetteville","no",,,"NC83","NC83",,,
 22825,"NC85","heliport","Sampson Regional Medical Center Heliport",35.00849914550781,-78.31919860839844,159,"NA","US","US-NC","Clinton","no",,,"NC85","NC85",,,
 22826,"NC86","small_airport","Rocking A Farm Airport",34.73360061645508,-78.75309753417969,58,"NA","US","US-NC","White Oak","no",,,"NC86","NC86",,,
 22828,"NC88","heliport","Outer Banks Heliport",35.98270034790039,-75.65129852294922,30,"NA","US","US-NC","Nags Head","no",,,"NC88","NC88",,,
@@ -57314,8 +57314,7 @@
 30439,"SE-0111","closed","Stockholm Tullinge Airport",59.179401397705,17.907800674438,180,"EU","SE","SE-AB","Stockholm","no",,,,,,,"ESCN, ESCN"
 31020,"SE-0112","closed","Nyge Airport",58.7456016541,17.0489006042,7,"EU","SE","SE-D","Nyköping","no",,,,,,,"ESCY, ESCY"
 595592,"SE-0113","heliport","Kallax Flyg Heliport",68.34579,18.83074,1332,"EU","SE","SE-BD","Abisko","no",,,,,,,
-596437,"SE-0114","small_airport","ESGRENE Field",58.132092,11.775177,20,"EU","SE","SE-Q","Svanesund","no",,,,"ESGRENE","http://orustfly.com/",,
-596438,"SE-0115","small_airport","ESGRENE Field",58.132092,11.775177,20,"EU","SE","SE-Q","Svanesund","no",,,,"ESGRENE","http://orustfly.com/   https://orustbackamoflygsallskap.com/ http://mpaviation.se/",,
+596437,"SE-0114","small_airport","Esgrene Field",58.132092,11.775177,20,"EU","SE","SE-Q","Svanesund, Ourst","no",,,,"ESGRENE","http://orustfly.com/",,"Burås/Grenegård"
 2170,"SE01","small_airport","Alba Elena Airport",-2.173581,-79.280763,150,"SA","EC","EC-G","Bucay","no",,,"SEAE",,,,"SE01, Coronel Marcelino Mariduena"
 2171,"SE02","small_airport","Guabital Airport",-2.773399,-79.702411,45,"SA","EC","EC-G","Soledad","no",,,"SEGB",,,,"SE02"
 2172,"SE03","small_airport","Las Peñas Airport",-2.94716,-80.1007,3,"SA","EC","EC-G","Puerto Grande","no",,,"SEEN",,,,"SE03"
