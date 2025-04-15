@@ -2378,7 +2378,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30630,GQNJ,small_airport,Akjoujt Airport,19.727998,-14.377214,403,AF,MR,MR-12,Akjoujt,no,GQNJ,AJJ,GQNJ,,,https://en.wikipedia.org/wiki/Akjoujt_Airport,
 3134,GQNK,small_airport,Kaédi Airport,16.1595,-13.5076,75,AF,MR,MR-04,Kaédi,no,GQNK,KED,GQNK,,,https://en.wikipedia.org/wiki/Ka%C3%A9di_Airport,
 31934,GQNL,small_airport,Letfotar Airport,17.75,-12.5,256,AF,MR,MR-05,Moudjeria,no,GQNL,MOM,GQNL,,,https://en.wikipedia.org/wiki/Letfotar_Airport,
-323315,GQNO,large_airport,Nouakchott–Oumtounsy International Airport,18.31,-15.969722,9,AF,MR,MR-NKC,Nouakchott,yes,GQNN,NKC,GQNN,,https://www.aeroport-nouakchott.com/en/index_en.php,https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport,"Nouakchott, Oumtounsy"
+323315,GQNO,large_airport,Nouakchott–Oumtounsy International Airport,18.31,-15.969722,9,AF,MR,MR-NKC,Nouakchott,yes,GQNO,NKC,GQNO,,https://www.aeroport-nouakchott.com/en/index_en.php,https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport,"Nouakchott, Oumtounsy"
 3136,GQNS,small_airport,Sélibaby Airport,15.179699897766113,-12.207300186157227,219,AF,MR,MR-10,Sélibaby,no,GQNS,SEY,GQNS,,,https://en.wikipedia.org/wiki/S%C3%A9libaby_Airport,Selibabi
 32446,GQNT,small_airport,Tamchakett Airport,17.23157,-10.77923,620,AF,MR,MR-02,Tamchakett,no,GQNT,THT,GQNT,,,https://en.wikipedia.org/wiki/Tamchakett_Airport,
 3137,GQPA,medium_airport,Atar International Airport,20.506799697875977,-13.04319953918457,734,AF,MR,MR-07,Atar,no,GQPA,ATR,GQPA,,,https://en.wikipedia.org/wiki/Atar_International_Airport,
