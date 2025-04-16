@@ -5457,7 +5457,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32658,NVSW,small_airport,Walaha Airport,-15.412,167.690994,151,OC,VU,VU-PAM,Walaha,yes,NVSW,WLH,NVSW,,,https://en.wikipedia.org/wiki/Walaha_Airport,
 35162,NVSX,small_airport,Southwest Bay Airport,-16.4864,167.4472,68,OC,VU,VU-MAP,Malekula Island,no,NVSX,SWJ,NVSX,,,https://en.wikipedia.org/wiki/South_West_Bay_Airport,
 35160,NVSZ,small_airport,North West Santo Airport,-14.881699562099998,166.557998657,50,OC,VU,VU-SAM,Olpoi,yes,NVSZ,OLJ,NVSZ,,,https://en.wikipedia.org/wiki/Olpoi_Airport,"Lajmoli Airport, Olpoi Airport"
-30663,NVVA,small_airport,Aneityum Airport,-20.249201,169.770996,7,OC,VU,VU-TAE,Anatom Island,no,NVVA,AUY,NVVA,,,https://en.wikipedia.org/wiki/Anatom_Airport,"Anelghowhat Airport, Anatom Airport"
+30663,NVVA,small_airport,Aneityum Airport,-20.249142,169.770758,7,OC,VU,VU-TAE,Anatom Island,no,NVVA,AUY,NVVA,,,https://en.wikipedia.org/wiki/Anatom_Airport,"Anelghowhat Airport, Anatom Airport"
 30665,NVVB,small_airport,Aniwa Airport,-19.2346,169.6009,69,OC,VU,VU-TAE,Aniwa,no,NVVB,AWD,NVVB,,,https://en.wikipedia.org/wiki/Aniwa_Airport,
 30926,NVVD,small_airport,Dillon's Bay Airport,-18.7694,169.001007,630,OC,VU,VU-TAE,Dillon's Bay,no,NVVD,DLY,NVVD,,,https://en.wikipedia.org/wiki/Dillon's_Bay_Airport,
 31209,NVVF,small_airport,Futuna Airport,-19.516399383499998,170.231994629,95,OC,VU,VU-TAE,Futuna Island,yes,NVVF,FTA,NVVF,,,https://en.wikipedia.org/wiki/Futuna_Airport,
@@ -6762,7 +6762,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41023,SK-120,small_airport,San Luis De Palenque Airport,5.400181,-71.7001,551,SA,CO,CO-CAS,San Luis De Palenque,no,,SQE,,SQE,,https://en.wikipedia.org/wiki/San_Luis_de_Palenque_Airport,
 40671,SK-129,small_airport,Tablón De Tamara Airport,5.726667,-72.100556,1605,NA,CO,CO-CAS,Tablón De Tamara,no,,TTM,SQUJ,TTM,,https://en.wikipedia.org/wiki/Tabl%C3%B3n_de_Tamar%C3%A1_Airport,
 41081,SK-140,small_airport,Lopez de Micay Airport,2.841177,-77.237214,111,SA,CO,CO-CAU,Micay,no,,LMX,,LMX,,,El Trapiche
-41044,SK-144,small_airport,Ayacucho Airport,8.6,-73.616667,415,SA,CO,CO-CES,Ayacucho,no,,AYC,,AYC,,,
+41044,SK-144,small_airport,Ayacucho Airport,8.602149,-73.612866,415,NA,CO,CO-CES,Ayacucho,no,,AYC,,AYC,,,La Gloria
 41045,SK-160,small_airport,Gamarra Airport,8.20199,-73.7653,130,NA,CO,CO-CES,Puerto Mosquito,no,,GRA,,GRA,,,
 40751,SK-174,small_airport,Las Flores Airport,10.096608,-73.2337,399,SA,CO,CO-CES,Codazzi,no,,DZI,,LFL,,,
 41035,SK-183,small_airport,San Juan Del César Airport,10.766667,-73.016667,3608,SA,CO,CO-CES,San Juan Del César,no,,SJH,,SJH,,,
@@ -8444,7 +8444,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 27342,YARY,small_airport,Arrabury Airport,-26.69639,141.048718,334,OC,AU,AU-QLD,Tanbar,no,YARY,AAB,YARY,,,https://en.wikipedia.org/wiki/Arrabury_Airport,
 26894,YAUR,small_airport,Aurukun Airport,-13.354019,141.720028,31,OC,AU,AU-QLD,Aurukun,yes,YAUR,AUU,YAUR,,,https://en.wikipedia.org/wiki/Aurukun_Airport,
 27347,YAUS,small_airport,Austral Downs Airport,-20.5,137.75,,OC,AU,AU-NT,,no,,AWP,YAUS,,,,
-27348,YAUV,small_airport,Auvergne Airport,-15.699999809265137,130,,OC,AU,AU-NT,,no,YAUV,AVG,YAUV,,,,
+27348,YAUV,small_airport,Auvergne Airport,-15.690555,130.008818,,OC,AU,AU-NT,Auvergne Station,no,YAUV,AVG,YAUV,,,,Baines
 26895,YAYE,medium_airport,Ayers Rock Connellan Airport,-25.185913,130.97703,1626,OC,AU,AU-NT,Yulara,yes,YAYE,AYQ,YAYE,,,https://en.wikipedia.org/wiki/Ayers_Rock_Airport,"Ayers Rock, Uluru"
 26896,YAYR,small_airport,Ayr Airport,-19.595832,147.324495,41,OC,AU,AU-QLD,Ayr,no,YAYR,AYR,YAYR,,,,
 38236,YBAN,small_airport,Mount Barnett Airport,-16.741453,125.905608,1339,OC,AU,AU-WA,Wunaamin Miliwundi Ranges,no,,MBN,YBAN,,,,Wananami
