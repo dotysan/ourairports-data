@@ -23122,7 +23122,7 @@
 2271,"EDSN","small_airport","Neuhausen ob Eck Airfield",47.976665,8.903889,2638,"EU","DE","DE-BW","Neuhausen ob Eck","no",,,"EDSN",,,"https://en.wikipedia.org/wiki/Neuhausen_ob_Eck_Airfield","Flugplatz Neuhausen ob Eck"
 315964,"EDSO","small_airport","Gruibingen-Nortel Airfield",48.6212,9.6557,2318,"EU","DE","DE-BW","Salach","no",,,"EDSO",,"http://www.aeroclub-gs.de/flugplatz.html","https://de.wikipedia.org/wiki/Flugplatz_Gruibingen-Nortel",
 314009,"EDSP","small_airport","Poltringen Airfield",48.547282,8.945918,1315,"EU","DE","DE-BW","Ammerbuch","no",,,"EDSP",,,"https://en.wikipedia.org/wiki/Poltringen_Airfield",
-314007,"EDSR","small_airport","Radolfzell-Stahlringen Airfield",47.802587,8.979378,,"EU","DE","DE-BW","Radolfzell am Bodensee","no",,,"EDSR",,,"https://de.wikipedia.org/wiki/Flugplatz_Radolfzell-Stahringen","Flugplatz Stahringen-Wahlwies"
+314007,"EDSR","small_airport","Radolfzell-Stahlringen Airfield",47.802587,8.979378,,"EU","DE","DE-BW","Radolfzell am Bodensee","no",,,"EDSR",,"https://edsr.info","https://de.wikipedia.org/wiki/Flugplatz_Radolfzell-Stahringen","Flugplatz Stahringen-Wahlwies"
 309630,"EDST","small_airport","Hahnweide Airfield",48.631841,9.429201,1146,"EU","DE","DE-BW","Kirchheim unter Teck","no",,,"EDST",,"http://www.hahnweide.com/","http://de.wikipedia.org/wiki/Flugplatz_Hahnweide",
 28496,"EDSW","small_airport","Altdorf-Wallburg Airfield",48.269883,7.841942,623,"EU","DE","DE-BW","Kippenheim","no",,,"EDSW",,,"https://de.wikipedia.org/wiki/Flugplatz_Altdorf-Wallburg","Flugplatz Altdorf-Wallburg"
 547941,"EDSX","small_airport","Völkleshofen-Lichtenberg Airfield",49.009332,9.354601,1301,"EU","DE","DE-BW","Aspach","no",,,"EDSX",,"https://sfg-backnang.de","https://de.wikipedia.org/wiki/Flugplatz_V%C3%B6lkleshofen-Lichtenberg",
@@ -31964,6 +31964,10 @@
 42521,"IR-0183","closed","Behshahr Airport",36.694401,53.5425,137,"AS","IR","IR-02","Behshahr","no",,,,,,,"OINH, OINH"
 42522,"IR-0184","closed","Ghaem Shahr Airport",36.466667,52.866669,,"AS","IR","IR-02","Ghaem Shahr","no",,,,,,,"OINI, OINI"
 42527,"IR-0185","closed","Bafgh Airport",31.583332,55.566666,,"AS","IR","IR-21","Bafgh","no",,,,,,,"OIYB"
+596490,"IR-0186","small_airport","Kushke Nosrat 1",35.027393,50.814532,,"AS","IR","IR-U-A",,"no",,,,,,,
+596491,"IR-0187","small_airport","Kushke Nosrat 1",35.027393,50.814532,,"AS","IR","IR-U-A",,"no",,,,,,,
+596492,"IR-0188","small_airport","Kushke Nosrat 1",35.027393,50.814532,,"AS","IR","IR-U-A","Qāshqābolāq, Qom Province, Iran","no",,,,,,,
+596496,"IR-0189","small_airport","Kushke Nosrat 1",35.028621,50.813211,,"AS","IR","IR-U-A",,"no",,,,,,,
 3352,"IR-OI24","small_airport","Gonbad-e Kavus Airport",37.246101,55.095901,107,"AS","IR","IR-27","Gonbad-e Kavus","no",,,,"OI24",,,
 317284,"IRU","seaplane_base","Iranamadu Seaplane Base",9.299746,80.448627,102,"AS","LK","LK-4","Iranamadu","no",,"IRU",,,,,
 314970,"IS-0001","small_airport","Suðureyri Airstrip",66.1318,-23.544,92,"EU","IS","IS-4","Suðureyri","no",,,,"SUY",,,"SUY"
@@ -47355,7 +47359,7 @@
 349194,"MX-1805","heliport","Helipuerto Rancho San Ramón",19.730796,-99.152963,7382,"NA","MX","MX-MEX","Teoloyucan","no",,,,"HSB",,,
 349195,"MX-1806","small_airport","Huixiopa Airstrip",25.757344,-107.185804,2920,"NA","MX","MX-SIN","Badiraguato","no",,,,"XIP",,,
 349196,"MX-1807","heliport","Helipuerto Texcalucan",19.410598,-99.306605,8346,"NA","MX","MX-MEX","Texcalucan","no",,,,"HVH",,,
-349217,"MX-1808","small_airport","Colorado Airstrip",28.694484,-101.197386,1575,"NA","MX","MX-COA","Piedras Negras","no",,,,"CDQ",,,
+349217,"MX-1808","small_airport","Colorado Airstrip",28.694484,-101.197386,1575,"NA","MX","MX-COA","Zaragoza","no",,,,"CDQ",,,
 349218,"MX-1809","small_airport","Ciénega del Toro Airstrip",25.09821,-100.31456,7054,"NA","MX","MX-NLE","Galeana","no",,,,"CDT",,,
 349219,"MX-1810","small_airport","Cerro de Enmedio Airstrip",25.296396,-100.782166,6693,"NA","MX","MX-COA","Arteaga","no",,,,"CDW",,,
 349220,"MX-1811","closed","Copa de Oro Airstrip",23.024389,-97.832533,49,"NA","MX","MX-TAM","Aldama","no",,,,,,,"CDX, Las Bugambilias"
@@ -49705,7 +49709,7 @@
 32658,"NVSW","small_airport","Walaha Airport",-15.412,167.690994,151,"OC","VU","VU-PAM","Walaha","yes","NVSW","WLH","NVSW",,,"https://en.wikipedia.org/wiki/Walaha_Airport",
 35162,"NVSX","small_airport","Southwest Bay Airport",-16.4864,167.4472,68,"OC","VU","VU-MAP","Malekula Island","no","NVSX","SWJ","NVSX",,,"https://en.wikipedia.org/wiki/South_West_Bay_Airport",
 35160,"NVSZ","small_airport","North West Santo Airport",-14.881699562099998,166.557998657,50,"OC","VU","VU-SAM","Olpoi","yes","NVSZ","OLJ","NVSZ",,,"https://en.wikipedia.org/wiki/Olpoi_Airport","Lajmoli Airport, Olpoi Airport"
-30663,"NVVA","small_airport","Aneityum Airport",-20.249201,169.770996,7,"OC","VU","VU-TAE","Anatom Island","no","NVVA","AUY","NVVA",,,"https://en.wikipedia.org/wiki/Anatom_Airport","Anelghowhat Airport, Anatom Airport"
+30663,"NVVA","small_airport","Aneityum Airport",-20.249142,169.770758,7,"OC","VU","VU-TAE","Anatom Island","no","NVVA","AUY","NVVA",,,"https://en.wikipedia.org/wiki/Anatom_Airport","Anelghowhat Airport, Anatom Airport"
 30665,"NVVB","small_airport","Aniwa Airport",-19.2346,169.6009,69,"OC","VU","VU-TAE","Aniwa","no","NVVB","AWD","NVVB",,,"https://en.wikipedia.org/wiki/Aniwa_Airport",
 30926,"NVVD","small_airport","Dillon's Bay Airport",-18.7694,169.001007,630,"OC","VU","VU-TAE","Dillon's Bay","no","NVVD","DLY","NVVD",,,"https://en.wikipedia.org/wiki/Dillon's_Bay_Airport",
 31209,"NVVF","small_airport","Futuna Airport",-19.516399383499998,170.231994629,95,"OC","VU","VU-TAE","Futuna Island","yes","NVVF","FTA","NVVF",,,"https://en.wikipedia.org/wiki/Futuna_Airport",
@@ -56352,7 +56356,7 @@
 24504,"SD13","small_airport","Hofer Private Airport",44.86712,-98.07396,1368,"NA","US","US-SD","Doland","no",,,"SD13","SD13",,,
 24505,"SD14","small_airport","Valburg Ranch Airport",43.733299255371094,-100.39800262451172,1688,"NA","US","US-SD","Draper","no",,,"SD14","SD14",,,
 551359,"SD15","small_airport","Fleurish Farm Airport",42.758063,-96.669323,1133,"NA","US","US-SD","Elk Point","no",,,"SD15","SD15",,,
-24506,"SD17","heliport","Cdp Hospital Heliport",45.65800094604492,-97.05010223388672,1250,"NA","US","US-SD","Sisseton","no",,,"SD17","SD17",,,
+24506,"SD17","heliport","CDP Hospital Heliport",45.658008,-97.050013,1250,"NA","US","US-SD","Sisseton","no",,,"SD17","SD17",,,
 327296,"SD18","heliport","Keystone Adventures Heliport",43.916111,-103.441943,4969,"NA","US","US-SD","Rapid City","no",,,"SD18","SD18",,,
 24507,"SD19","small_airport","Andersen Farms Airport",44.465301513671875,-97.22250366210938,1750,"NA","US","US-SD","Badger","no",,,"SD19","SD19",,,
 337248,"SD20","heliport","Crooked Lake Lodge Heliport",45.032936,-96.883486,1882,"NA","US","US-SD","Strandburg","no",,,"SD20","SD20",,,
@@ -57314,7 +57318,7 @@
 30439,"SE-0111","closed","Stockholm Tullinge Airport",59.179401397705,17.907800674438,180,"EU","SE","SE-AB","Stockholm","no",,,,,,,"ESCN, ESCN"
 31020,"SE-0112","closed","Nyge Airport",58.7456016541,17.0489006042,7,"EU","SE","SE-D","Nyköping","no",,,,,,,"ESCY, ESCY"
 595592,"SE-0113","heliport","Kallax Flyg Heliport",68.34579,18.83074,1332,"EU","SE","SE-BD","Abisko","no",,,,,,,
-596437,"SE-0114","small_airport","Esgrene Field",58.132092,11.775177,20,"EU","SE","SE-Q","Svanesund, Ourst","no",,,,"ESGRENE","http://orustfly.com/",,"Burås/Grenegård"
+596437,"SE-0114","small_airport","Esgrene Field",58.132092,11.775177,20,"EU","SE","SE-Q","Svanesund, Ourst","no",,,,,"http://orustfly.com/",,"Burås/Grenegård"
 2170,"SE01","small_airport","Alba Elena Airport",-2.173581,-79.280763,150,"SA","EC","EC-G","Bucay","no",,,"SEAE",,,,"SE01, Coronel Marcelino Mariduena"
 2171,"SE02","small_airport","Guabital Airport",-2.773399,-79.702411,45,"SA","EC","EC-G","Soledad","no",,,"SEGB",,,,"SE02"
 2172,"SE03","small_airport","Las Peñas Airport",-2.94716,-80.1007,3,"SA","EC","EC-G","Puerto Grande","no",,,"SEEN",,,,"SE03"
@@ -59592,7 +59596,7 @@
 41081,"SK-140","small_airport","Lopez de Micay Airport",2.841177,-77.237214,111,"SA","CO","CO-CAU","Micay","no",,"LMX",,"LMX",,,"El Trapiche"
 40975,"SK-141","small_airport","San Jacinto Airport",3.185833,-76.326111,3261,"SA","CO","CO-CAU","Padilla","no",,,,"SJP",,,
 40763,"SK-143","small_airport","Ana María Airport",10.0375,-73.283611,331,"SA","CO","CO-CES","Codazzi","no",,,,"ANN",,,
-41044,"SK-144","small_airport","Ayacucho Airport",8.6,-73.616667,415,"SA","CO","CO-CES","Ayacucho","no",,"AYC",,"AYC",,,
+41044,"SK-144","small_airport","Ayacucho Airport",8.602149,-73.612866,415,"NA","CO","CO-CES","Ayacucho","no",,"AYC",,"AYC",,,"La Gloria"
 40818,"SK-145","small_airport","Base Principal Celta Airport",8.2025,-73.631667,317,"SA","CO","CO-CES","Aguachica","no",,,,"AGY",,,
 40831,"SK-146","small_airport","Bella Cruz - San Juan Airport",8.621196,-73.726693,141,"SA","CO","CO-CES","La Gloria","no",,,,"LGL",,,
 40860,"SK-147","small_airport","Bethania Airport",10.116667,-74.425,426,"SA","CO","CO-CES","El Copey","no",,,,"CES",,,
@@ -78620,6 +78624,8 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,,"XLO, XLO"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
+596494,"VN-0077","small_airport","vn88 christmas",-0.000001,-0.000001,,"AS","VN","VN-U-A","hanoi","no",,,,,"https://vn88.christmas",,
+596495,"VN-0078","small_airport","vn88 christmas",-0.000001,-0.000001,,"AS","VN","VN-U-A","hanoi","no",,,,,"https://vn88.christmas",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
@@ -80198,7 +80204,7 @@
 517133,"YAUL","small_airport","Aratula Airstrip",-27.97776,152.56377,465,"OC","AU","AU-QLD",,"no",,,"YAUL",,,,
 26894,"YAUR","small_airport","Aurukun Airport",-13.354019,141.720028,31,"OC","AU","AU-QLD","Aurukun","yes","YAUR","AUU","YAUR",,,"https://en.wikipedia.org/wiki/Aurukun_Airport",
 27347,"YAUS","small_airport","Austral Downs Airport",-20.5,137.75,,"OC","AU","AU-NT",,"no",,"AWP","YAUS",,,,
-27348,"YAUV","small_airport","Auvergne Airport",-15.699999809265137,130,,"OC","AU","AU-NT",,"no","YAUV","AVG","YAUV",,,,
+27348,"YAUV","small_airport","Auvergne Airport",-15.690555,130.008818,,"OC","AU","AU-NT","Auvergne Station","no","YAUV","AVG","YAUV",,,,"Baines"
 27349,"YAVD","small_airport","Avon Downs Airport",-20.033300399780273,137.51699829101562,,"OC","AU","AU-NT",,"no",,,"YAVD",,,,
 27350,"YAVM","small_airport","Avonmore Airport",-36.56669998168945,144.5500030517578,,"OC","AU","AU-VIC",,"no",,,"YAVM",,,,
 27351,"YAWT","small_airport","Agnes Water private Airport",-24.20224,151.8925,60,"OC","AU","AU-QLD","Agnes Water","no",,,"YAWT",,,,"owner charges landing fees"
