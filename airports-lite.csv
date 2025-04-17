@@ -761,6 +761,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 1531,CSK6,small_airport,Snap Lake Airport,63.593601,-110.905998,1557,NA,CA,CA-NT,Snap Lake Mine,no,,YNX,,,,https://en.wikipedia.org/wiki/Snap_Lake_Airport,CSK6
 1556,CSR8,small_airport,La Sarre Airport,48.917198181152,-79.178596496582,1048,NA,CA,CA-QC,La Sarre,no,,SSQ,CSR8,CSR8,http://www.ville.lasarre.qc.ca/fr/ville/services-municipaux/aeroport-municipal/index.cfm,https://en.wikipedia.org/wiki/La_Sarre_Airport,SR8
 1563,CSU2,small_airport,Chisasibi Airport,53.805599212646484,-78.91690063476562,43,NA,CA,CA-QC,Chisasibi,yes,,YKU,CSU2,CSU2,,https://en.wikipedia.org/wiki/Chisasibi_Airport,SU2
+596512,CSVS,medium_airport,Ok365comdev,17,20,12,EU,AD,AD-07,Hồ Chí Minh,yes,HGLD,,CSVS,VSV1,https://ok365com.dev/nap-tien-ok365/,,
 1590,CTB6,small_airport,Tête-à-la-Baleine Airport,50.674400329589844,-59.38359832763672,107,NA,CA,CA-QC,Tête-à-la-Baleine,yes,,ZTB,CTB6,CTB6,,https://en.wikipedia.org/wiki/T%C3%AAte-%C3%A0-La-Baleine_Airport,TB6
 1604,CTK6,small_airport,Kégashka Airport,50.195801,-61.2658,32,NA,CA,CA-QC,Côte-Nord-du-Golfe-du-Saint-Laurent,yes,,ZKG,CTK6,CTK6,,https://en.wikipedia.org/wiki/K%C3%A9gashka_Airport,Kegaska
 28194,CTM3,seaplane_base,Chute-Des-Passes/Lac Margane Seaplane Base,49.9434,-71.138,1310,NA,CA,CA-QC,Chutes-des-Passes,no,,YWQ,CTM3,CTM3,,https://en.wikipedia.org/wiki/Chutes-des-Passes/Lac_Margane_Water_Aerodrome,
@@ -1591,6 +1592,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2537,EINN,large_airport,Shannon Airport,52.702,-8.92482,46,EU,IE,IE-CE,Shannon,yes,EINN,SNN,EINN,,http://www.shannonairport.com/,https://en.wikipedia.org/wiki/Shannon_Airport,
 2538,EISG,medium_airport,Sligo Airport,54.280200958252,-8.5992097854614,11,EU,IE,IE-SO,Sligo,no,EISG,SXL,EISG,,http://www.sligoairport.com/,https://en.wikipedia.org/wiki/Sligo_Airport,
 2539,EIWF,medium_airport,Waterford Airport,52.187199,-7.08696,119,EU,IE,IE-WD,Waterford,no,EIWF,WAT,EIWF,,http://flywaterford.com/,https://en.wikipedia.org/wiki/Waterford_Airport,
+27310,EIWT,medium_airport,Weston Airport,53.351622,-6.490357,150,EU,IE,IE-D,Leixlip,no,EIWT,,,,http://www.westonairport.com/,https://en.wikipedia.org/wiki/Weston_Airport,Dublin
 314559,EJN,small_airport,Ejin Banner Taolai Airport,42.0155,101.0005,3077,AS,CN,CN-15,Ejin Banner,no,,EJN,ZBEN,,,https://en.wikipedia.org/wiki/Ejin_Banner_Taolai_Airport,
 317874,EJT,small_airport,Enejit Airport,6.0404,171.9846,30,OC,MH,MH-MIL,Enejit Island,yes,,EJT,,,,https://en.wikipedia.org/wiki/Enejit_Airport,Enajet
 2540,EKAH,medium_airport,Aarhus Airport,56.303331,10.618286,82,EU,DK,DK-82,Aarhus,yes,EKAH,AAR,EKAH,,http://www.aar.dk/default.asp?id=87,https://en.wikipedia.org/wiki/Aarhus_Airport,
@@ -4701,6 +4703,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4387,LJMB,medium_airport,Maribor Edvard Rusjan Airport,46.4799,15.6861,876,EU,SI,SI-160,Orehova Vas,no,LJMB,MBX,LJMB,,https://www.mbx-airport.si/en/airport,https://en.wikipedia.org/wiki/Maribor_Airport,
 4388,LJPZ,medium_airport,Portorož Airport,45.47201,13.615951,7,EU,SI,SI-090,Sečovlje,no,LJPZ,POW,LJPZ,,http://www.portoroz-airport.si/,https://en.wikipedia.org/wiki/Portoro%C5%BE_Airport,Sečovlje
 347114,LK-0005,seaplane_base,Nuwara Eliya (Lake Gregory) Waterdrome,6.95605,80.77927,6157,AS,LK,LK-2,Nuwara Eliya,no,,NUA,,NUA,,https://en.wikipedia.org/wiki/Lake_Gregory_Waterdrome,
+29722,LKBA,small_airport,Břeclav Airfield,48.790439,16.892531,531,EU,CZ,CZ-JM,Břeclav,no,LKBA,,,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_B%C5%99eclav,Letiště Břeclav
+29696,LKBE,small_airport,Benešov Airfield,49.740799,14.6447,1319,EU,CZ,CZ-ST,Benešov,no,LKBE,,,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Bene%C5%A1ov,
+29714,LKBO,small_airport,Bohuňovice Airfield,49.670601,17.295,771,EU,CZ,CZ-OL,Bohuňovice,no,LKBO,,,,,,
+29728,LKBR,small_airport,Broumov Airfield,50.561901,16.3428,1342,EU,CZ,CZ-KR,Broumov,no,LKBR,,,,http://www.airbroumov.eu/,https://en.wikipedia.org/wiki/Broumov_Airport,
+29731,LKBU,small_airport,Bubovice Airfield,49.9744,14.1781,1401,EU,CZ,CZ-ST,Bubovice,no,LKBU,,,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Bubovice,
 313916,LKC,small_airport,Lekana Airport,-2.313,14.606,2634,AF,CG,CG-14,Lekana,no,,LKC,,,,,
 4393,LKCS,small_airport,České Budějovice South Bohemian Airport,48.9464,14.4275,1417,EU,CZ,CZ-JC,České Budějovice,no,LKCS,JCL,LKCS,,https://www.airport-cb.cz/,https://en.wikipedia.org/wiki/%C4%8Cesk%C3%A9_Bud%C4%9Bjovice_Airport,Jihočeské letiště České Budějovice
 4398,LKKU,medium_airport,Kunovice Airport,49.0294,17.439699,581,EU,CZ,CZ-ZL,Uherské Hradiště,no,LKKU,UHE,LKKU,,,https://en.wikipedia.org/wiki/Kunovice_Airport,Letiště Kunovice
@@ -4936,10 +4943,13 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4613,LYPG,large_airport,Podgorica Airport / Podgorica Golubovci Airbase,42.359402,19.2519,141,EU,ME,ME-16,Podgorica,yes,LYPG,TGD,LYPG,,https://montenegroairports.com/en/podgorica-airport/,https://en.wikipedia.org/wiki/Podgorica_Airport,"Podgorica Airbase, Golubovci Airbase, Аеродром Подгорица, Aerodrom Podgorica"
 4615,LYTV,medium_airport,Tivat Airport,42.404701232910156,18.72330093383789,20,EU,ME,ME-19,Tivat,yes,LYTV,TIV,LYTV,,http://www.montenegroairports.com/?menu=3,https://en.wikipedia.org/wiki/Tivat_Airport,"Аеродром Тиват, Aerodrom Tivat, Zračna luka Tivat"
 1649,LYUZ,medium_airport,Ponikve Airport,43.898899,19.697701,2966,EU,RS,RS-16,Stapari,no,LYUZ,UZC,LYUZ,,http://aerodromponikve.rs,https://en.wikipedia.org/wiki/U%C5%BEice-Ponikve_Airport,"Аеродром Ужице-Поникве, Lepa Glava, Užice"
+316252,LZBD,small_airport,Bidovce Airfield,48.743192,21.448285,984,EU,SK,SK-KI,Bidovce,no,LZBD,,,,,,
 354840,LZG,medium_airport,Langzhong Gucheng Airport,31.50191,106.034417,1444,AS,CN,CN-51,Nanchong (Langzhong),yes,,LZG,ZULA,,,https://en.wikipedia.org/wiki/Langzhong_Gucheng_Airport,
 4617,LZIB,large_airport,M. R. Štefánik Airport,48.1702,17.2127,436,EU,SK,SK-BL,Bratislava,yes,LZIB,BTS,LZIB,,,https://en.wikipedia.org/wiki/M._R._%C5%A0tef%C3%A1nik_Airport,
 4618,LZKZ,medium_airport,Košice International Airport,48.663101,21.2411,755,EU,SK,SK-KI,Košice,yes,LZKZ,KSC,LZKZ,,,https://en.wikipedia.org/wiki/Ko%C5%A1ice_International_Airport,
 31861,LZLU,small_airport,Lučenec Airfield,48.339401,19.7358,,EU,SK,SK-BC,Lučenec,no,LZLU,LUE,LZLU,,,https://sk.wikipedia.org/wiki/Letisko_Bo%C4%BEkovce,
+30119,LZMA,small_airport,Martin Airfield,49.0653,18.9508,1381,EU,SK,SK-ZI,Martin,no,LZMA,,,,http://www.aeroklubmartin.sk,https://en.wikipedia.org/wiki/Martin_Airfield_(Slovakia),Tomčany
+4619,LZMC,medium_airport,Malacky/Kuchyňa Air Base,48.402,17.118401,679,EU,SK,SK-BL,Kuchyňa,no,LZMC,,,,,https://en.wikipedia.org/wiki/Malacky_Air_Base,Letecká základňa Malacky/Kuchyňa
 4620,LZPP,medium_airport,Piešťany Airport,48.62519836425781,17.828399658203125,545,EU,SK,SK-TA,Piešťany,no,LZPP,PZY,LZPP,,http://www.ba.psg.sk/prezenta/airport-piestany/,https://en.wikipedia.org/wiki/Pie%C5%A1%C5%A5any_Airport,
 30288,LZPW,small_airport,Prešov Air Base,49.02970123291,21.315599441528,1060,EU,SK,SK-PV,Prešov,no,LZPW,POV,LZPW,,,https://en.wikipedia.org/wiki/Pre%C5%A1ov_Air_Base,
 4621,LZSL,medium_airport,Sliač Airport,48.63779830932617,19.13409996032715,1043,EU,SK,SK-BC,Sliač,yes,LZSL,SLD,LZSL,,http://www.airportsliac.sk/home-engle.html,https://en.wikipedia.org/wiki/Slia%C4%8D_Airport,
@@ -6745,6 +6755,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 336997,SJOY,small_airport,Jorge Luiz Stocco Airport,-25.40068,-49.80028,3438,SA,BR,BR-PR,Palmeira,no,SJOY,,SJOY,PR0058,,,SJOY
 44713,SJRG,small_airport,Rio Grande Regional Airport,-32.083065,-52.167184,27,SA,BR,BR-RS,Rio Grande,no,,RIG,SJRG,RS0013,,https://en.wikipedia.org/wiki/Rio_Grande_Airport,"SBRG, Gustavo Cramer Airport"
 36924,SJVO,small_airport,Aragarças Airport,-15.8994,-52.2411,1061,SA,BR,BR-GO,Aragarças,no,,ARS,SJVO,GO0030,,,SWAC
+315707,SK-0001,small_airport,Dobra Niva airfield,48.488716,19.101749,1143,EU,SK,SK-BC,Zvolen,no,LZDN,,,,http://lsk.sk/letisko/,https://sk.wikipedia.org/wiki/Letisko_Dobr%C3%A1_Niva,
+316294,SK-0003,small_airport,Dunajská Streda-Malé Blahovo Airfield,48.020261,17.612572,,EU,SK,SK-TA,Dunajská Streda,no,LZDU,,,,,,
 41037,SK-002,small_airport,El Encanto Airport,-1.7533333333299999,-73.20472222219999,420,SA,CO,CO-AMA,El Encanto,no,,ECO,,ECO,,,
 41016,SK-003,small_airport,Miriti Parana Airport,-0.886017,-70.983446,409,SA,CO,CO-AMA,Mirití-Paraná,no,,MIX,,MIX,,,
 41073,SK-005,small_airport,Arboletes Airport,8.855118,-76.422676,13,SA,CO,CO-ANT,Arboletes,no,,ARO,,ARO,,https://fr.wikipedia.org/wiki/A%C3%A9roport_d%27Arboletes,
@@ -8418,6 +8430,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 328940,WZQ,small_airport,Urad Middle Banner Airport,41.460289,108.539085,3996,AS,CN,CN-15,Urad Middle Banner,no,,WZQ,,,,https://ceb.wikipedia.org/wiki/Urad_Middle_Banner_Airport,
 26128,X44,seaplane_base,Miami Seaplane Base,25.778299331665,-80.170303344727,0,NA,US,US-FL,Miami,no,,MPB,X44,X44,,https://en.wikipedia.org/wiki/Miami_Seaplane_Base,
 317272,XBB,seaplane_base,Blubber Bay Seaplane Base,49.793958,-124.621064,0,NA,CA,CA-BC,Blubber Bay,no,,XBB,,,,,
+596510,XCBA,medium_airport,Ok365comdev,10,12,12,AS,VN,VN-NC,Hồ Chí Minh,yes,CCAA,,XCBA,CA12,https://ok365com.dev/nap-tien-ok365/,,
 317829,XIG,small_airport,Xinguara Municipal Airport,-7.0906,-49.9765,810,SA,BR,BR-PA,Xinguara,no,,XIG,SWSX,PA0150,,https://en.wikipedia.org/wiki/Xinguara_Municipal_Airport,
 313435,XMA,small_airport,Maramag Airport,7.7538,125.0333,919,AS,PH,PH-BUK,Maramag,no,,XMA,,,http://www.pbase.com/philippineaviation/maramagoadi_airport_bukidnon,,Oadi
 332207,XRQ,small_airport,New Barag Right Banner Baogede Airport,48.575585,116.939382,1798,AS,CN,CN-15,New Barag Right Banner,yes,,XRQ,,,,https://en.wikipedia.org/wiki/Xinbarag_Youqi_Baogede_Airport,
