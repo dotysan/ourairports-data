@@ -15147,29 +15147,29 @@
 35894,"BR-2369","heliport","Cantareira Heliport",-23.377501,-46.625278,2657,"SA","BR","BR-SP","Mairiporã","no",,,,,,,"SICR"
 35897,"BR-2370","heliport","Chamonix Heliport",-22.978333,-46.868332,2631,"SA","BR","BR-SP","Itatiba","no",,,,,,,"SICU"
 35905,"BR-2371","heliport","Pátio de Treinamento da HSE - TRAINING Heliport",-22.443546,-41.872083,187,"SA","BR","BR-RJ","Rio das Ostras","no",,,,,,,"SIDC"
-35906,"BR-2372","small_airport","Fazenda São João do Monte Alto Airport",-21.497222900391,-55.263889312744,1476,"SA","BR","BR-MS","Maracaju","no",,,,"SIDD",,,"SIDD"
-35908,"BR-2373","heliport","Umicore Heliport",-22.694999694824,-47.355556488037,1706,"SA","BR","BR-SP","Americana","no",,,,"SIDF",,,"SIDF"
-35909,"BR-2374","small_airport","Fazenda Jatobasso Airport",-22.429166793823,-55.533332824707,2152,"SA","BR","BR-MS","Ponta Porã","no",,,,"SIDG",,,"SIDG"
-35910,"BR-2375","heliport","Brahma Juatuba Heliport",-19.957778930664,-44.336109161377,2480,"SA","BR","BR-MG","Juatuba","no",,,,"SIDH",,,"SIDH"
+35906,"BR-2372","small_airport","Fazenda São João do Monte Alto Airport",-21.497223,-55.263889,1476,"SA","BR","BR-MS","Maracaju","no",,,,,,,"SIDD"
+35908,"BR-2373","heliport","Umicore Heliport",-22.695857,-47.355973,1706,"SA","BR","BR-SP","Americana","no",,,,,,,"SIDF"
+35909,"BR-2374","small_airport","Fazenda Jatobasso Airport",-22.429167,-55.533333,2152,"SA","BR","BR-MS","Ponta Porã","no",,,,,,,"SIDG"
+35910,"BR-2375","heliport","Brahma Juatuba Heliport",-19.958295,-44.336289,2480,"SA","BR","BR-MG","Juatuba","no",,,,,,,"SIDH"
 35911,"BR-2376","closed","Centro Século XXI Heliport",-25.435204,-49.276568,3286,"SA","BR","BR-PR","Curitiba","no",,,,,,,"SIDK"
-35914,"BR-2377","small_airport","Fazenda Ipanema Airport",-23.425556182861,-47.581390380859,1985,"SA","BR","BR-SP","Iperó","no",,,,"SIDN",,,"SIDN"
-35915,"BR-2378","heliport","Santa Elisa Heliport",-3.5188889503479,-39.170555114746,98,"SA","BR","BR-CE","São Gonçalo Do Amarante","no",,,,"SIDO",,,"SIDO"
-35916,"BR-2379","heliport","Mega Air Heliport",-23.493333816528,-46.55944442749,2674,"SA","BR","BR-SP","Guarulhos","no",,,,"SIDP",,,"SIDP"
-35919,"BR-2380","small_airport","Fazenda Santa Lucinha Airport",-18.023332595825,-56.732223510742,300,"SA","BR","BR-MS","Corumbá","no",,,,"SIDS",,,"SIDS"
-35921,"BR-2381","heliport","Biju Heliport",-22.296667098999,-43.151943206787,1969,"SA","BR","BR-RJ","Areal","no",,,,"SIDU",,,"SIDU"
-35925,"BR-2382","small_airport","Estância Ayrton Senna Airport",-22.660026,-54.82277,1509,"SA","BR","BR-MS","Caarapó","no",,,,"MS0120",,,"SIDZ, SIQH, BR-2382"
-35927,"BR-2383","small_airport","Fazenda Carrapicho Airport",-20.74694442749,-55.357223510742,932,"SA","BR","BR-MS","Dois Irmãos Do Buriti","no",,,,"SIEB",,,"SIEB"
-35928,"BR-2384","small_airport","Fazenda Anhumas II Airport",-22.042752,-52.287397,955,"SA","BR","BR-SP","Presidente Eptácio","no",,,,"SIEC",,,"SIEC"
-35930,"BR-2385","heliport","Meliá Confort São Paulo Heliport",-23.631639,-46.711378,2502,"SA","BR","BR-SP","São Paulo","no",,,,"SIEE",,,"SIEE"
-35932,"BR-2386","small_airport","Fazenda Santa Edwiges Airport",-22.653055,-53.393055,951,"SA","BR","BR-MS","Taquarussu","no",,,,"SIEG",,,"SIEG"
-35936,"BR-2387","heliport","Eurípedes Mineiro de Mello Heliport",-20.8226,-49.389891,1838,"SA","BR","BR-SP","São José do Rio Preto","no",,,,"SIEK",,,"SIEK"
-35938,"BR-2388","heliport","BASF Imigrantes Heliport",-23.719167709351,-46.599445343018,2625,"SA","BR","BR-SP","São Bernardo Do Campo","no",,,,"SIEM",,,"SIEM"
-35939,"BR-2389","small_airport","Fazenda São Marcos Airport",-15.404999732971,-53.342220306396,1503,"SA","BR","BR-MT","General Carneiro","no",,,,"SIEN",,,"SIEN"
-35940,"BR-2390","heliport","AmBev Jaguaríuna Heliport",-22.710679,-47.003353,2192,"SA","BR","BR-SP","Jaguaríuna","no",,,,"SIEO",,,"SIEO, SIDK"
-35943,"BR-2391","small_airport","Estância Tara Airport",-20.088333129883,-56.724723815918,607,"SA","BR","BR-MS","Miranda","no",,,,"SIET",,,"SIET"
-35947,"BR-2392","small_airport","Fazenda Pedra Branca Airport",-24.624166488647,-50.459167480469,2953,"SA","BR","BR-PR","Tibagi","no",,,,"SIEZ",,,"SIEZ"
-35950,"BR-2393","small_airport","Fazenda Cachoeirinha Airport",-20.382221221924,-56.268890380859,722,"SA","BR","BR-MS","Miranda","no",,,,"SIFC",,,"SIFC"
-35951,"BR-2394","small_airport","Fazenda Dois Irmãos Airport",-16.387222290039,-57.288612365723,591,"SA","BR","BR-MT","Cáceres","no",,,,"SIFD",,,"SIFD"
+35914,"BR-2377","small_airport","Fazenda Ipanema Airport",-23.427111,-47.582061,1985,"SA","BR","BR-SP","Iperó","no",,,,,,,"SIDN"
+35915,"BR-2378","heliport","Santa Elisa Heliport",-3.518889,-39.170555,98,"SA","BR","BR-CE","São Gonçalo Do Amarante","no",,,,,,,"SIDO"
+35916,"BR-2379","heliport","Mega Air Heliport",-23.493334,-46.559444,2674,"SA","BR","BR-SP","Guarulhos","no",,,,,,,"SIDP"
+35919,"BR-2380","small_airport","Fazenda Santa Lucinha Airport",-18.023333,-56.732224,300,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SIDS"
+35921,"BR-2381","heliport","Biju Heliport",-22.296819,-43.152065,1969,"SA","BR","BR-RJ","Areal","no",,,,,,,"SIDU"
+35925,"BR-2382","small_airport","Estância Ayrton Senna Airport",-22.659211,-54.822463,1509,"SA","BR","BR-MS","Caarapó","no",,,"SIQH","MS0120",,,"SIDZ"
+35927,"BR-2383","small_airport","Fazenda Carrapicho Airport",-20.746944,-55.357224,932,"SA","BR","BR-MS","Dois Irmãos do Buriti","no",,,,,,,"SIEB"
+35928,"BR-2384","small_airport","Fazenda Anhumas II Airport",-22.042752,-52.287397,955,"SA","BR","BR-SP","Presidente Eptácio","no",,,,,,,"SIEC"
+35930,"BR-2385","heliport","Meliá Confort São Paulo Heliport",-23.631639,-46.711378,2502,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SIEE"
+35932,"BR-2386","small_airport","Fazenda Santa Edwiges Airport",-22.653055,-53.393055,951,"SA","BR","BR-MS","Taquarussu","no",,,,,,,"SIEG"
+35936,"BR-2387","heliport","Eurípedes Mineiro de Mello Helipad",-20.822654,-49.38982,1838,"SA","BR","BR-SP","São José do Rio Preto","no",,,,,,,"SIEK"
+35938,"BR-2388","closed","BASF Imigrantes Heliport",-23.720043,-46.601413,2625,"SA","BR","BR-SP","São Bernardo do Campo","no",,,,,,,"SIEM"
+35939,"BR-2389","small_airport","Fazenda São Marcos Airport",-15.41007,-53.335973,1503,"SA","BR","BR-MT","General Carneiro","no",,,,,,,"SIEN"
+35940,"BR-2390","heliport","AmBev Jaguaríuna Heliport",-22.710679,-47.003353,2192,"SA","BR","BR-SP","Jaguaríuna","no",,,,,,,"SIEO, SIDK"
+35943,"BR-2391","small_airport","Estância Tara Airport",-20.088314,-56.724172,607,"SA","BR","BR-MS","Miranda","no",,,,,,,"SIET"
+35947,"BR-2392","small_airport","Fazenda Pedra Branca Airport",-24.628946,-50.46511,2953,"SA","BR","BR-PR","Tibagi","no",,,,,,,"SIEZ"
+35950,"BR-2393","small_airport","Fazenda Cachoeirinha Airport",-20.383623,-56.270091,722,"SA","BR","BR-MS","Miranda","no",,,,,,,"SIFC"
+35951,"BR-2394","small_airport","Fazenda Dois Irmãos Airport",-16.388842,-57.288171,591,"SA","BR","BR-MT","Cáceres","no",,,,,,,"SIFD"
 35952,"BR-2395","small_airport","Fazenda Dinorá Airport",-23.416389465332,-50.600833892822,2100,"SA","BR","BR-PR","Nova Fátima","no",,,,"SIFE",,,"SIFE"
 35953,"BR-2396","small_airport","Fazenda Firme Airport",-19.259443283081,-57.011665344238,233,"SA","BR","BR-MS","Corumbá","no",,,,"SIFF",,,"SIFF"
 35955,"BR-2397","small_airport","Santa Rita do Araguaia Airport",-17.3208,-53.194,2490,"SA","BR","BR-GO","Santa Rita do Araguaia","no",,,,"SIFH",,,"SIFH"
@@ -15178,7 +15178,7 @@
 35959,"BR-2400","small_airport","Fazenda Mudança Airport",-9.9122219085693,-60.86194229126,499,"SA","BR","BR-MT","Aripuanã","no",,,,"SIFM",,,"SIFM"
 35960,"BR-2401","small_airport","Fazenda Planura Airport",-3.5936110019684,-59.652221679688,188,"SA","BR","BR-AM","Autazes","no",,,,"SIFN",,,"SIFN"
 35962,"BR-2402","heliport","Iguassu II Heliport",-25.51133,-54.583901,584,"SA","BR","BR-PR","Foz do Iguaçu","no",,,,,,,"SIFS"
-35966,"BR-2403","heliport","Secretaria da Agricultura Heliport",-23.647777557373,-46.627777099609,2608,"SA","BR","BR-SP","São Paulo","no",,,,"SIFX",,,"SIFX"
+35966,"BR-2403","heliport","Secretaria da Agricultura Heliport",-23.648557,-46.628042,2608,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SIFX"
 35969,"BR-2404","heliport","Jardin Guanabara Heliport",-22.809722900391,-43.210277557373,210,"SA","BR","BR-RJ","Rio De Janeiro","no",,,,"SIGA",,,"SIGA"
 35972,"BR-2405","heliport","Gota Dourada Heliport",-21.008056640625,-47.658611297607,2848,"SA","BR","BR-SP","Brodowski","no",,,,"SIGD",,,"SIGD"
 35974,"BR-2406","heliport","Auto Viação Reginas II Heliport",-22.660556793213,-43.047222137451,66,"SA","BR","BR-RJ","Magé","no",,,,"SIGG",,,"SIGG"
@@ -21301,7 +21301,7 @@
 45044,"DE-0001","heliport","Klinikum am Plattenwald Helipad",49.2128560011,9.236728549,,"EU","DE","DE-BW","Bad Friedrichshall","no",,,,,,,
 332693,"DE-0002","closed","Ahlhorn Highway Strip",52.929984,8.173538,,"EU","DE","DE-NI","Großenkneten","no",,,,,,,"Ahlhorn Autobahn-Notlandeplatz NLP"
 299694,"DE-0003","small_airport","August Euler Airfield",49.853757,8.586243,358,"EU","DE","DE-HE","Griesheim","no",,,"EDES",,"https://web.archive.org/web/20201019233127/http://www.sla.tu-darmstadt.de/windkanal/einrichtungen_sla/flugplatz_sla/index.de.jsp","https://en.wikipedia.org/wiki/Griesheim_Airport","ZCS, August-Euler Flugplatz, Griesheim Airport"
-28576,"DE-0004","small_airport","Gransee Airfield",53.00628,13.202177,164,"EU","DE","DE-BR","Gransee","no",,,"EDUG",,"http://www.gojump.de/","https://de.wikipedia.org/wiki/Flugplatz_Gransee",
+28576,"DE-0004","small_airport","Gransee Airfield",53.00628,13.202177,164,"EU","DE","DE-BR","Gransee","no","EDUG",,,,"http://www.gojump.de/","https://de.wikipedia.org/wiki/Flugplatz_Gransee",
 322973,"DE-0005","small_airport","Warngau Airfield",47.82399,11.70398,2380,"EU","DE","DE-BY","Warngau","no",,,,,"http://www.fliegerclub-warngau.de",,"münchen, munich, wargau"
 43128,"DE-0006","small_airport","Locktow Airfield",52.1165,12.709562,213,"EU","DE","DE-BR","Planetal","no",,,,,,,"Sonderlandeplatz Locktow"
 43695,"DE-0007","closed","Wünsdorf Airfield",52.198001861572,13.527000427246,,"EU","DE","DE-BR",,"no",,,,,,,"Wuensdorf Airfield, Аэродром Вюнсдорф"
@@ -21553,7 +21553,7 @@
 315723,"DE-0253","small_airport","Montabaur Airfield",50.422638,7.827973,930,"EU","DE","DE-RP","Westerwald","no",,,,,"http://www.lsc-ww.de/",,
 315725,"DE-0254","small_airport","Arnschwang ULM",49.271627,12.778309,1355,"EU","DE","DE-BY","Arnschwang","no",,,,,,,
 315726,"DE-0255","closed","Erpetshof UL",49.657417,12.293667,,"EU","DE","DE-BY","Vohenstrauß","no",,,,,,,
-315728,"DE-0256","small_airport","Perleberg Glider Field",53.070464,11.818672,91,"EU","DE","DE-MV",,"no",,,"EDUP",,"http://www.aeroclub-perleberg.de/","https://de.wikipedia.org/wiki/Flugplatz_Perleberg",
+315728,"DE-0256","small_airport","Perleberg Glider Field",53.070464,11.818672,91,"EU","DE","DE-MV",,"no","EDUP",,,,"http://www.aeroclub-perleberg.de/","https://de.wikipedia.org/wiki/Flugplatz_Perleberg",
 315772,"DE-0257","closed","Niepars Airfield",54.304566,12.910596,,"EU","DE","DE-MV","Niepars","no",,,,,,,
 315775,"DE-0258","small_airport","Neu-Gülze Airfield",53.381,10.804,38,"EU","DE","DE-MV","Neu-Gülze","no",,,,,"http://www.akaflieg-hamburg.de/",,
 315786,"DE-0259","small_airport","Neuruppin Airfield",52.94127,12.78,140,"EU","DE","DE-BR","Berlin","no",,,,,"http://www.ftv-spandau.de/",,
@@ -22869,11 +22869,11 @@
 28631,"EDEL","small_airport","Langenlonsheim Airfield",49.908333,7.907778,295,"EU","DE","DE-RP","Langenlonsheim","no",,,"EDEL",,,"https://en.wikipedia.org/wiki/Langenlonsheim_Airfield",
 28604,"EDEM","small_airport","Mosenberg Airfeld",51.062746,9.42201,1296,"EU","DE","DE-HE","Homburg (Efze)","no",,,"EDEM",,,"https://de.wikipedia.org/wiki/Flugplatz_Mosenberg","Mosenberg bei Homberg"
 314001,"EDEN","small_airport","Bad Hersfeld Airfield",50.844055,9.707218,,"EU","DE","DE-HE","Bad Hersfeld","no",,,"EDEN",,,"https://de.wikipedia.org/wiki/Flugplatz_Bad_Hersfeld","EDOZ, Johannesberg"
-29946,"EDEP","small_airport","Heppenheim Glider Field",49.621944,8.624444,361,"EU","DE","DE-HE","Heppenheim","no",,,"EDEP",,,"https://de.wikipedia.org/wiki/Flugplatz_Heppenheim",
+29946,"EDEP","small_airport","Heppenheim Glider Field",49.621944,8.624444,361,"EU","DE","DE-HE","Heppenheim","no","EDEP",,,,,"https://de.wikipedia.org/wiki/Flugplatz_Heppenheim",
 28651,"EDEQ","small_airport","Mühlhausen Airfield",51.213055,10.548611,814,"EU","DE","DE-TH","Mühlhausen","no",,,"EDEQ",,,"https://de.wikipedia.org/wiki/Flugplatz_M%C3%BChlhausen","Flugplatz Mühlhausen"
 29072,"EDER","small_airport","Wasserkuppe Airfield",50.498807,9.954166,2956,"EU","DE","DE-HE","Gersfeld (Rhön)","no",,,"EDER",,,"https://de.wikipedia.org/wiki/Flugplatz_Wasserkuppe",
 28750,"EDEW","small_airport","Walldürn Airfield",49.581669,9.402222,1312,"EU","DE","DE-BW","Walldürn","no",,,"EDEW",,,"https://de.wikipedia.org/wiki/Flugplatz_Walld%C3%BCrn",
-28500,"EDFA","small_airport","Anspach-Taunus Airfield",50.288334,8.533889,1102,"EU","DE","DE-HE","Wehrheim","no",,,"EDFA",,,"https://de.wikipedia.org/wiki/Flugplatz_Anspach/Taunus","Flugplatz Anspach/Taunus"
+28500,"EDFA","small_airport","Anspach-Taunus Airfield",50.288334,8.533889,1102,"EU","DE","DE-HE","Wehrheim","no","EDFA",,,,,"https://de.wikipedia.org/wiki/Flugplatz_Anspach/Taunus","Flugplatz Anspach/Taunus"
 28700,"EDFB","small_airport","Reichelsheim Airfield",50.337973,8.878984,397,"EU","DE","DE-HE","Reichelsheim","no",,,"EDFB",,,"https://en.wikipedia.org/wiki/Reichelsheim_Airfield",
 28502,"EDFC","small_airport","Aschaffenburg Airfield",49.938806,9.062777,410,"EU","DE","DE-BY","Großostheim","no",,,"EDFC",,,"https://de.wikipedia.org/wiki/Flugplatz_Aschaffenburg",
 28515,"EDFD","small_airport","Bad Neustadt/Saale-Grasberg Airfield",50.306062,10.227284,997,"EU","DE","DE-BY","Bad Neustadt an der Saale","no",,,"EDFD",,,"https://de.wikipedia.org/wiki/Flugplatz_Bad_Neustadt/Saale-Grasberg",
@@ -22887,7 +22887,7 @@
 2228,"EDFM","medium_airport","Mannheim-City Airport",49.473057,8.514167,308,"EU","DE","DE-BW","Mannheim","yes","EDFM","MHG","EDFM",,"http://www.flugplatz-mannheim.de/","https://en.wikipedia.org/wiki/Mannheim_City_Airport","Mannheim"
 28643,"EDFN","small_airport","Marburg-Schönstadt Airfield",50.874443,8.815,833,"EU","DE","DE-HE","Cölbe","no",,,"EDFN",,,"https://de.wikipedia.org/wiki/Flugplatz_Marburg-Sch%C3%B6nstadt",
 28648,"EDFO","small_airport","Michelstadt-Odenwald Airfield",49.678466,8.971614,1142,"EU","DE","DE-HE","Michelstadt","no",,,"EDFO",,,"http://de.wikipedia.org/wiki/Flugplatz_Michelstadt","Flugplatz Michelstadt/Odenwald"
-505089,"EDFP","small_airport","Ober-Mörlen Airfield",50.3622,8.71164,822,"EU","DE","DE-HE","Ober-Mörlen","no",,,"EDFP",,,"https://de.wikipedia.org/wiki/Flugplatz_Ober-M%C3%B6rlen",
+505089,"EDFP","small_airport","Ober-Mörlen Airfield",50.3622,8.71164,822,"EU","DE","DE-HE","Ober-Mörlen","no","EDFP",,,,,"https://de.wikipedia.org/wiki/Flugplatz_Ober-M%C3%B6rlen",
 2229,"EDFQ","small_airport","Allendorf-Eder Airfield",51.035268,8.681002,1158,"EU","DE","DE-HE","Allendorf (Eder)","no",,,"EDFQ",,,"https://en.wikipedia.org/wiki/Allendorf_Airport",
 28708,"EDFR","small_airport","Rothenburg ob der Tauber Airfield",49.388332,10.218056,1309,"EU","DE","DE-BY","Rothenburg ob der Tauber","no",,,"EDFR",,,"https://de.wikipedia.org/wiki/Flugplatz_Rothenburg_ob_der_Tauber","Rothenburg ob d. Tauber, Rothenburg o d T, Rothenburg oT"
 28724,"EDFS","small_airport","Schweinfurt South Airfield",50.010834,10.251111,686,"EU","DE","DE-BY","Gochsheim","no",,,"EDFS",,,"https://de.wikipedia.org/wiki/Flugplatz_Schweinfurt-S%C3%BCd","Schweinfurt-Süd"
@@ -22917,7 +22917,7 @@
 28743,"EDGU","small_airport","Unterschüpf Airfield",49.515835,9.669444,1155,"EU","DE","DE-BW","Boxberg","no",,,"EDGU",,,"https://de.wikipedia.org/wiki/Flugplatz_Untersch%C3%BCpf",
 28763,"EDGW","small_airport","Flugplatz „Graner Berg“",51.30722,9.175278,1027,"EU","DE","DE-HE","Wolfhagen","no",,,"EDGW",,,"https://de.wikipedia.org/wiki/Flugplatz_Wolfhagen-Graner_Berg",
 28749,"EDGX","small_airport","Walldorf Airfield",49.303055,8.658889,344,"EU","DE","DE-BW","Walldorf","no",,,"EDGX",,,"https://de.wikipedia.org/wiki/Flugplatz_Walldorf",
-28754,"EDGZ","small_airport","Weinheim/Bergstraße Airfield",49.566763,8.61145,318,"EU","DE","DE-BW","Weinheim","no",,,"EDGZ",,,"https://de.wikipedia.org/wiki/Flugplatz_Weinheim/Bergstra%C3%9Fe","Bergstrasse, Sonderlandeplatz Weinheim/Bergstraße"
+28754,"EDGZ","small_airport","Weinheim/Bergstraße Airfield",49.566763,8.61145,318,"EU","DE","DE-BW","Weinheim","no","EDGZ",,,,,"https://de.wikipedia.org/wiki/Flugplatz_Weinheim/Bergstra%C3%9Fe","Bergstrasse, Sonderlandeplatz Weinheim/Bergstraße"
 28581,"EDHB","small_airport","Grube Airfield",54.244446,11.024722,7,"EU","DE","DE-SH","Grube","no","EDHB",,"EDHB",,"https://flugplatz-grube.de/","https://de.wikipedia.org/wiki/Flugplatz_Grube","Sonderlandeplatz Grube"
 28640,"EDHC","small_airport","Lüchow-Rehbeck Airfield",53.017158,11.144729,49,"EU","DE","DE-NI","Lüchow","no",,,"EDHC",,,"https://de.wikipedia.org/wiki/Flugplatz_L%C3%BCchow-Rehbeck","Flugplatz Lüchow-Rehbeck"
 308604,"EDHD","small_airport","Eichsfeld Airfield",51.40755,10.1453,1195,"EU","DE","DE-TH","Heilbad Heiligenstadt","no",,,"EDHD",,,"https://de.wikipedia.org/wiki/Flugplatz_Eichsfeld",
@@ -23130,7 +23130,7 @@
 28496,"EDSW","small_airport","Altdorf-Wallburg Airfield",48.269883,7.841942,623,"EU","DE","DE-BW","Kippenheim","no",,,"EDSW",,,"https://de.wikipedia.org/wiki/Flugplatz_Altdorf-Wallburg","Flugplatz Altdorf-Wallburg"
 547941,"EDSX","small_airport","Völkleshofen-Lichtenberg Airfield",49.009332,9.354601,1301,"EU","DE","DE-BW","Aspach","no",,,"EDSX",,"https://sfg-backnang.de","https://de.wikipedia.org/wiki/Flugplatz_V%C3%B6lkleshofen-Lichtenberg",
 28709,"EDSZ","small_airport","Rottweil-Zepfenhan Airfield",48.186604,8.722801,2444,"EU","DE","DE-BW","Rottweil","no",,,"EDSZ",,,"https://de.wikipedia.org/wiki/Flugplatz_Rottweil-Zepfenhan",
-2272,"EDTB","small_airport","Baden-Oos Airfield",48.791943,8.185833,404,"EU","DE","DE-BW","Baden-Baden","no",,,"EDTB",,"http://www.flugplatz-baden-oos.com/","https://de.wikipedia.org/wiki/Flugplatz_Baden-Oos","Flugplatz Baden-Oos"
+2272,"EDTB","small_airport","Baden-Oos Airfield",48.791943,8.185833,404,"EU","DE","DE-BW","Baden-Baden","no","EDTB",,,,"http://www.flugplatz-baden-oos.com/","https://de.wikipedia.org/wiki/Flugplatz_Baden-Oos","Flugplatz Baden-Oos"
 505112,"EDTC","small_airport","Bruchsal Airfield",49.13484,8.56412,,"EU","DE","DE-BW",,"no",,,"EDTC",,,"https://de.wikipedia.org/wiki/Flugplatz_Bruchsal",
 2273,"EDTD","medium_airport","Donaueschingen-Villingen Airfield",47.973331,8.522222,2231,"EU","DE","DE-BW","Donaueschingen","no",,,"EDTD",,"http://www.flugplatz-donaueschingen.de/","http://de.wikipedia.org/wiki/Flugplatz_Donaueschingen-Villingen","Flugplatz Donaueschingen-Villingen"
 2274,"EDTF","small_airport","Freiburg im Breisgau Airfield",48.022778,7.8325,801,"EU","DE","DE-BW","Freiburg im Breisgau","no",,,"EDTF",,"http://www.city-flugplatz-freiburg.de/","http://de.wikipedia.org/wiki/Flugplatz_Freiburg","Flugplatz Freiburg"
@@ -23197,7 +23197,7 @@
 28759,"EDWX","small_airport","Westerstede-Felde Airfield",53.288612,7.930556,30,"EU","DE","DE-NI","Westerstede","no",,,"EDWX",,,"https://de.wikipedia.org/wiki/Flugplatz_Westerstede-Felde","Flugplatz Westerstede-Felde"
 2292,"EDWY","small_airport","Norderney Airport",53.706944,7.23,7,"EU","DE","DE-NI","Norderney","yes","EDWY","NRD","EDWY",,"https://flughafen-norderney.de/","https://en.wikipedia.org/wiki/Norderney_Airport",
 28520,"EDWZ","small_airport","Baltrum Airport",53.72485,7.373257,7,"EU","DE","DE-NI","Baltrum","yes","EDWZ","BMR","EDWZ",,"https://www.baltrum-flug.de/","https://de.wikipedia.org/wiki/Flugplatz_Baltrum",
-28491,"EDXA","small_airport","Flugplatz Achmer",52.37722,7.913333,177,"EU","DE","DE-NI","Bramsche","no",,,"EDXA",,,"https://en.wikipedia.org/wiki/Achmer_Aerodrome",
+28491,"EDXA","small_airport","Flugplatz Achmer",52.37722,7.913333,177,"EU","DE","DE-NI","Bramsche","no","EDXA",,,,,"https://en.wikipedia.org/wiki/Achmer_Aerodrome",
 28590,"EDXB","small_airport","Heide-Büsum Airport",54.153332,8.901667,7,"EU","DE","DE-SH","Oesterdeichstrich","yes","EDXB","HEI","EDXB",,"http://www.edxb.de","https://en.wikipedia.org/wiki/Heide-Buesum_Airport",
 28716,"EDXC","small_airport","Schleswig-Kropp Airfield",54.425497,9.541883,52,"EU","DE","DE-SH","Kropp","no",,,"EDXC",,,"https://de.wikipedia.org/wiki/Flugplatz_Schleswig-Kropp","Flugplatz Schleswig-Kropp"
 28531,"EDXD","small_airport","Bohmte-Bad Essen Airfield",52.351391,8.328333,148,"EU","DE","DE-NI","Bohmte","no",,,"EDXD",,,"https://de.wikipedia.org/wiki/Flugplatz_Bohmte-Bad_Essen","Flugplatz Bohmte-Bad Essen"
@@ -23212,10 +23212,10 @@
 28733,"EDXM","small_airport","Sankt Michaelisdonn Airfield",53.978263,9.14521,125,"EU","DE","DE-SH","Sankt Michaelisdonn","no",,,"EDXM",,,"https://de.wikipedia.org/wiki/Flugplatz_St._Michaelisdonn","Hopen, Flugplatz Sankt Michaelisdonn, St. Michaelisdonn"
 28671,"EDXN","small_airport","Nordholz-Spieka Airfield",53.767223,8.643611,72,"EU","DE","DE-NI","Wurster Nordseeküste","no",,,"EDXN",,,"http://de.wikipedia.org/wiki/Flugplatz_Nordholz-Spieka",
 28734,"EDXO","small_airport","Sankt Peter-Ording Airport",54.308887,8.686944,7,"EU","DE","DE-SH","Sankt Peter-Ording","no","EDXO","PSH","EDXO",,"https://www.flugplatz-st-peter-ording.de/","https://en.wikipedia.org/wiki/Sankt_Peter-Ording_Airport","Saint Peter-Ording, St. Peter-Ording"
-28588,"EDXP","small_airport","Harlesiel Airfield",53.706669,7.820278,7,"EU","DE","DE-NI","Harlesiel","yes",,,"EDXP",,,"https://en.wikipedia.org/wiki/Harle_Airfield","Flugplatz Harle"
+28588,"EDXP","small_airport","Harlesiel Airfield",53.706669,7.820278,7,"EU","DE","DE-NI","Harlesiel","yes","EDXP",,,,,"https://en.wikipedia.org/wiki/Harle_Airfield","Flugplatz Harle"
 29097,"EDXQ","small_airport","Rotenburg (Wümme) Airfield",53.128334,9.348611,98,"EU","DE","DE-NI","Rotenburg (Wümme)","no",,,"EDXQ",,,"https://de.wikipedia.org/wiki/Flugplatz_Rotenburg_(W%C3%BCmme)","Flugplatz Rotenburg (Wümme)"
 2295,"EDXR","small_airport","Rendsburg-Schachtholm Airfield",54.220001,9.599444,23,"EU","DE","DE-SH","Hörsten","no",,,"EDXR",,,"https://de.wikipedia.org/wiki/Flugplatz_Rendsburg-Schachtholm",
-28727,"EDXS","small_airport","Seedorf Airfield",53.335556,9.259444,72,"EU","DE","DE-NI","Zeven","no",,,"EDXS",,,"https://de.wikipedia.org/wiki/Flugplatz_Seedorf","Sonderlandeplatz Seedorf"
+28727,"EDXS","small_airport","Seedorf Airfield",53.335556,9.259444,72,"EU","DE","DE-NI","Zeven","no","EDXS",,,,,"https://de.wikipedia.org/wiki/Flugplatz_Seedorf","Sonderlandeplatz Seedorf"
 28603,"EDXT","small_airport","Sierksdorf/Hof Altona Airfield",54.066743,10.742183,79,"EU","DE","DE-SH","Sierksdorf","no",,,"EDXT",,,"https://de.wikipedia.org/wiki/Flugplatz_Sierksdorf/Hof-Altona",
 28607,"EDXU","small_airport","Hüttenbusch Airfield",53.286667,8.947222,10,"EU","DE","DE-NI","Worpswede","no",,,"EDXU",,,"https://de.wikipedia.org/wiki/Flugplatz_H%C3%BCttenbusch","Sonderlandeplatz Hüttenbusch"
 2296,"EDXW","medium_airport","Westerland Sylt Airport",54.9132,8.34047,51,"EU","DE","DE-SH","Sylt","yes","EDXW","GWT","EDXW",,"https://www.flughafen-sylt.de","https://en.wikipedia.org/wiki/Sylt_Airport",
@@ -28279,7 +28279,7 @@
 320049,"GB-0366","small_airport","Stoke Airfield",51.4456,0.633467,,"EU","GB","GB-ENG","Rochester, Kent","no",,,,,"http://www.ravenmad.co.uk/findus.htm",,"Medway, Stoke Medway"
 320071,"GB-0367","small_airport","Chatteris Airfield",52.4873,0.0891111,5,"EU","GB","GB-ENG","Chatteris","no",,,,,,,
 320072,"GB-0368","small_airport","Long Acres Farm",52.129787,-0.310853,80,"EU","GB","GB-ENG","Sandy, Bedfordshire","no",,,,,,,"Longacre Farm, Bedford Microlight"
-320075,"GB-0369","small_airport","Darley Moor Airfield",52.9693,-1.74868,580,"EU","GB","GB-ENG",,"no",,,,,"http://www.airways-airsports.com",,
+320075,"GB-0369","small_airport","Darley Moor Airfield",52.9693,-1.74868,580,"EU","GB","GB-ENG","Ashbourne, Derbyshire","no",,,,,"http://www.airways-airsports.com",,
 320078,"GB-0370","small_airport","Derryogue",54.0517,-6.029625,68,"EU","GB","GB-NIR","Derryogue","no",,,,,,,
 320079,"GB-0371","small_airport","Decoy Farm Airstrip",52.865514,-0.303276,9,"EU","GB","GB-ENG","Sleaford, Lincolnshire","no",,,,,,,"Pointon"
 320089,"GB-0372","small_airport","Shifnal Airfield",52.668116,-2.401969,420,"EU","GB","GB-ENG","Shifnal, Shropshire","no",,,,,"http://www.wrekinmfc.co.uk",,"Wrekin Microlight Flying Club, Shaw Lane"
@@ -29122,7 +29122,7 @@
 28473,"GB-1209","small_airport","Rufforth West Airfield",53.947146,-1.18721,65,"EU","GB","GB-ENG","York, North Yorkshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Rufforth","UK11, RAF Rufforth, EGYJ, EG64"
 302248,"GB-1210","closed","RNAS Pembroke/RNAS Milton/RAF Carew Cheriton",51.690117,-4.812355,,"EU","GB","GB-ENG","Pembrokeshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Carew_Cheriton",
 2399,"GB-1211","closed","Manchester Woodford Airport",53.3381,-2.14889,295,"EU","GB","GB-ENG","Stockport, Greater Manchester","no",,,,,,"https://en.wikipedia.org/wiki/Woodford_Aerodrome","EGCD, XXB"
-2401,"GB-1212","closed","Robin Hood Doncaster Sheffield Airport",53.475287,-1.004267,55,"EU","GB","GB-ENG","Doncaster, South Yorkshire","no",,,,,"http://www.robinhoodairport.com/","https://en.wikipedia.org/wiki/Robin_Hood_Airport_Doncaster_Sheffield","RAF Finningley, EGCN, DSA"
+2401,"GB-1212","closed","Doncaster Sheffield Airport",53.475287,-1.004267,55,"EU","GB","GB-ENG","Doncaster, South Yorkshire","no",,,,,"https://web.archive.org/web/20200809224841/https://flydsa.co.uk/","https://en.wikipedia.org/wiki/Robin_Hood_Airport_Doncaster_Sheffield","Robin Hood, RAF Finningley, EGCN, DSA"
 2405,"GB-1213","closed","RAF Lyneham",51.507485,-1.991511,513,"EU","GB","GB-ENG","Chippenham, Wiltshire","no",,,,,"http://www.raf.mod.uk/raflyneham/","https://en.wikipedia.org/wiki/RAF_Lyneham","EGDL, LYE"
 2420,"GB-1214","closed","Plymouth City Airport",50.424282,-4.109439,476,"EU","GB","GB-ENG","Plymouth, Devon","no",,,,,"http://www.plymouthairport.com/","https://en.wikipedia.org/wiki/Plymouth_City_Airport","EGHD, PLH"
 2437,"GB-1215","closed","Kent International Airport (Manston)",51.342201,1.34611,178,"EU","GB","GB-ENG","Ramsgate, Kent","no",,,,,"http://www.kentinternationalairport-manston.com/","https://en.wikipedia.org/wiki/Kent_International_Airport","RAF Manston, Ramsgate, EGUM, Manston Airport, EGMH, MSE"
@@ -55150,6 +55150,7 @@
 596378,"RU-10100","heliport","Burgagchan Heliport",66.285568,164.739334,1422,"EU","RU","RU-CHU","Burgagchan","no",,,,"HDC7",,,"ХДЦ7, Бургагчан"
 596379,"RU-10101","closed","Ambarchik Heliport",69.627014,162.312698,31,"AS","RU","RU-SA","Ambarchik","no",,,,,,,"HC9M, ХЦ9М, Амбарчик"
 596380,"RU-10102","heliport","PogZ Shestakova Heliport",49.457699,154.704483,10,"EU","RU","RU-SAK","Onekotan Island","no",,,,"HA4R",,,"ХА4Р, Онекотан, Ōtomari Kuri Is."
+596566,"RU-10103","closed","Peremilovo Airfield",56.891053,41.418455,327,"AS","RU","RU-IVA","Peremilovo","no",,,,,,,"ZDG9, ЗДГ9, Перемилово"
 526851,"RU-1011","heliport","KS-3 Gagaratskaya",67.995908,65.177518,,"AS","RU","RU-KO","Khalmer-Yu","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526852,"RU-1012","heliport","KS-4 Vorkutinskaya",67.225925,63.674161,,"AS","RU","RU-KO","Vorkuta","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526854,"RU-1013","heliport","KS-9 Maloperanskaya",64.258736,54.893339,,"EU","RU","RU-KO",,"no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
@@ -58369,7 +58370,7 @@
 36200,"SIQE","small_airport","Botelho Airport",-15.937469,-47.726636,3399,"SA","BR","BR-DF","Brasília","no",,,"SIQE","DF0005",,,"Esquadrilha Fox"
 36201,"SIQF","heliport","Recanto das Marés Heliport",-27.378013,-48.530822,181,"SA","BR","BR-SC","Governador Celso Ramos","no",,,"SILM","SC0056",,,"SIQF"
 36202,"SIQG","small_airport","Fazenda Morro Alto Airport",-10.504746,-55.709881,899,"SA","BR","BR-MT","Nova Canaã do Norte","no",,,"SNYL","MT0278",,,"SIQG"
-36203,"SIQH","heliport","Universidade Mogi das Cruzes Heliport",-23.52750015258789,-46.73444366455078,2419,"SA","BR","BR-SP","São Paulo","no",,,"SIQH",,,,
+36203,"SIQH","heliport","Universidade Mogi das Cruzes Heliport",-23.527919,-46.73451,2419,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SIQH"
 36204,"SIQI","small_airport","Aerolis Airport",-30.536381,-50.467404,20,"SA","BR","BR-RS","Mostardas","no",,,"SIQI","RS0066",,,"Aeroagricola Lisboa, Palmares do Sul"
 235,"SIQJ","small_airport","Morro do Chapéu II Airport",-14.9583,-55.800701,989,"SA","BR","BR-MT","Chapada Dos Guimarães","no",,,"SIQJ","MT0117",,,
 36205,"SIQK","small_airport","Nova Odessa Airport",-22.781533,-47.334557,1909,"SA","BR","BR-SP","Nova Odessa","no",,,"SIQK","SP0194",,,"Rodrigues"
@@ -60971,6 +60972,7 @@
 596120,"SNT6","small_airport","Genésio Ceolin Airport",-12.999335,-45.359483,2462,"SA","BR","BR-BA","São Desidério","no",,,"SNT6","BA0478",,,
 596123,"SNT7","small_airport","Fazenda Santa Rita Airport",-15.422397,-49.408625,2075,"SA","BR","BR-GO","Santa Isabel","no",,,"SNT7","GO0397",,,
 596132,"SNT8","small_airport","Fazenda São João Airport",-12.184631,-45.816269,2583,"SA","BR","BR-BA","Luís Eduardo Magalhães","no",,,"SNT8","BA0485",,,
+596567,"SNT9","small_airport","Fazenda YKK Airport.",-16.528326,-46.202365,2930,"SA","BR","BR-MG","Bonfinópolis de Minas","no",,,"SNT9","MG0628",,,
 37262,"SNTA","small_airport","Fazenda São Miguel Airport",-21.868610382080078,-50.116390228271484,1444,"SA","BR","BR-SP","Pompéia","no",,,"SNTA",,,,
 398,"SNTD","small_airport","Fazenda Mamoneira Airport",-16.586200714111328,-46.5010986328125,1862,"SA","BR","BR-MG","Natalândia","no",,,"SNTD","SNTD",,,
 327415,"SNTE","heliport","Terras II Heliport",-23.342778,-47.306111,2139,"SA","BR","BR-SP","Itu","no",,,"SNTE",,,,
@@ -61787,7 +61789,7 @@
 506,"SSTB","small_airport","Três Barras Airport",-26.135799,-50.310902,2559,"SA","BR","BR-SC","Três Barras","no",,,"SSTB","SSTB",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Tr%C3%AAs_Barras",
 37661,"SSTC","heliport","Copesul Heliport",-29.882778167699996,-51.381111145,92,"SA","BR","BR-RS","Triunfo","no",,,"SSTC",,,,
 37662,"SSTD","small_airport","Fazenda Arco de Canto Airport",-28.550832748413086,-51.59611129760742,2311,"SA","BR","BR-RS","André Da Rocha","no",,,"SSTD",,,,
-37663,"SSTF","small_airport","Fazenda Triunfo Airport",-17.872499465942383,-57.130001068115234,328,"SA","BR","BR-MS","Corumbá","no",,,"SSTF",,,,
+37663,"SSTF","small_airport","Fazenda Triunfo Airport",-17.874997,-57.131681,325,"SA","BR","BR-MS","Corumbá","no",,,"SNU4","MS0772",,,"SSTF"
 37664,"SSTG","small_airport","Fazenda Santa Terezinha Airport",-18.469444274902344,-57.05500030517578,525,"SA","BR","BR-MS","Corumbá","no",,,"SSTG",,,,
 507,"SSTH","small_airport","Fazenda Thália Airport",-25.520223,-49.682472,3346,"SA","BR","BR-PR","Balsa Nova","no",,,"SDUE","PR0040",,,"SSTH"
 45603,"SSTI","small_airport","Arraial d`Ajuda Airport",-16.457778,-39.165833,279,"SA","BR","BR-BA","Porto Seguro","no",,,"SSTI",,,,
