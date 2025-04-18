@@ -1193,6 +1193,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 300319,DCG,seaplane_base,Dubai Creek SPB,25.2422222222,55.3313888889,,AS,AE,AE-DU,Dubai,no,,DCG,,,,,
 17113,DCK,small_airport,Dahl Creek Airport,66.943298,-156.904999,260,NA,US,US-AK,Dahl Creek,no,,DCK,PODC,DCK,,https://en.wikipedia.org/wiki/Dahl_Creek_Airport,
 302106,DDM,small_airport,Dodoima Airport,-8.17736111111,147.809444444,75,OC,PG,PG-NPP,,no,,DDM,,DDM,,,
+28576,DE-0004,small_airport,Gransee Airfield,53.00628,13.202177,164,EU,DE,DE-BR,Gransee,no,EDUG,,,,http://www.gojump.de/,https://de.wikipedia.org/wiki/Flugplatz_Gransee,
+315728,DE-0256,small_airport,Perleberg Glider Field,53.070464,11.818672,91,EU,DE,DE-MV,,no,EDUP,,,,http://www.aeroclub-perleberg.de/,https://de.wikipedia.org/wiki/Flugplatz_Perleberg,
 336115,DEQ,small_airport,Deqing Moganshan Airport,30.504264,120.107388,,AS,CN,CN-33,Huzhou,no,,DEQ,,,,https://en.wikipedia.org/wiki/Deqing_Moganshan_Airport,
 315622,DEX,small_airport,Nop Goliat Dekai Airport,-4.8557,139.482006,198,AS,ID,ID-PP,Dekai,yes,,DEX,WAVD,,,https://en.wikipedia.org/wiki/Nop_Goliat_Dekai_Airport,Nop Goliath
 32704,DFCA,small_airport,Kaya Airport,13.067,-1.1,984,AF,BF,BF-SMT,Kaya,no,DFCA,XKY,DFCA,,,https://en.wikipedia.org/wiki/Kaya_Airport,
@@ -1345,11 +1347,15 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2222,EDDS,large_airport,Stuttgart Airport,48.689899,9.22196,1276,EU,DE,DE-BW,Stuttgart,yes,EDDS,STR,EDDS,,http://www.flughafen-stuttgart.de/,https://en.wikipedia.org/wiki/Stuttgart_Airport,
 2224,EDDV,large_airport,Hannover Airport,52.461102,9.68508,183,EU,DE,DE-NI,Hannover,yes,EDDV,HAJ,EDDV,,https://www.hannover-airport.de,https://en.wikipedia.org/wiki/Hanover/Langenhagen_International_Airport,
 2225,EDDW,medium_airport,Bremen Airport,53.046786,8.78932,14,EU,DE,DE-HB,Bremen,yes,EDDW,BRE,EDDW,,https://www.bremen-airport.com,https://en.wikipedia.org/wiki/Bremen_Airport,
+29946,EDEP,small_airport,Heppenheim Glider Field,49.621944,8.624444,361,EU,DE,DE-HE,Heppenheim,no,EDEP,,,,,https://de.wikipedia.org/wiki/Flugplatz_Heppenheim,
+28500,EDFA,small_airport,Anspach-Taunus Airfield,50.288334,8.533889,1102,EU,DE,DE-HE,Wehrheim,no,EDFA,,,,,https://de.wikipedia.org/wiki/Flugplatz_Anspach/Taunus,Flugplatz Anspach/Taunus
 2227,EDFH,medium_airport,Frankfurt-Hahn Airport,49.9487,7.26389,1649,EU,DE,DE-RP,Frankfurt am Main (Lautzenhausen),yes,EDFH,HHN,EDFH,,https://www.hahn-airport.de/en/home,https://en.wikipedia.org/wiki/Frankfurt-Hahn_Airport,
 2228,EDFM,medium_airport,Mannheim-City Airport,49.473057,8.514167,308,EU,DE,DE-BW,Mannheim,yes,EDFM,MHG,EDFM,,http://www.flugplatz-mannheim.de/,https://en.wikipedia.org/wiki/Mannheim_City_Airport,Mannheim
+505089,EDFP,small_airport,Ober-Mörlen Airfield,50.3622,8.71164,822,EU,DE,DE-HE,Ober-Mörlen,no,EDFP,,,,,https://de.wikipedia.org/wiki/Flugplatz_Ober-M%C3%B6rlen,
 2232,EDGE,medium_airport,Eisenach-Kindel Airport,50.991604,10.47973,1112,EU,DE,DE-TH,Hörselberg-Hainich,no,EDGE,EIB,EDGE,,http://www.flugplatz-eisenach.de/,http://de.wikipedia.org/wiki/Flugplatz_Eisenach-Kindel,Flugplatz Eisenach-Kindel
 308408,EDGL,heliport,Ludwigshafen Accident Hospital Heliport,49.486509,8.389243,313,EU,DE,DE-RP,Ludwigshafen am Rhein,no,,ZOE,EDGL,,https://www.bg-kliniken.de/klinik-ludwigshafen/,,
 2233,EDGS,medium_airport,Siegerland Airport,50.707699,8.08297,1966,EU,DE,DE-NW,Burbach,no,EDGS,SGE,EDGS,,,https://en.wikipedia.org/wiki/Siegerland_Airport,EDKS
+28754,EDGZ,small_airport,Weinheim/Bergstraße Airfield,49.566763,8.61145,318,EU,DE,DE-BW,Weinheim,no,EDGZ,,,,,https://de.wikipedia.org/wiki/Flugplatz_Weinheim/Bergstra%C3%9Fe,"Bergstrasse, Sonderlandeplatz Weinheim/Bergstraße"
 28581,EDHB,small_airport,Grube Airfield,54.244446,11.024722,7,EU,DE,DE-SH,Grube,no,EDHB,,EDHB,,https://flugplatz-grube.de/,https://de.wikipedia.org/wiki/Flugplatz_Grube,Sonderlandeplatz Grube
 28742,EDHE,small_airport,Uetersen-Heist Airfield,53.645477,9.703503,23,EU,DE,DE-SH,Heist,yes,EDHE,,EDHE,,,https://en.wikipedia.org/wiki/Uetersen_Airfield,
 29073,EDHF,small_airport,Itzehoe Hungriger Wolf Airfield,53.992009,9.576409,89,EU,DE,DE-SH,Hohenlockstedt,no,,IZE,EDHF,,,https://de.wikipedia.org/wiki/Flugplatz_Itzehoe/Hungriger_Wolf,Itzehoe
@@ -1377,6 +1383,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2265,EDRB,small_airport,Bitburg Airport,49.945278,6.565,1220,EU,DE,DE-RP,Bitburg,no,EDRB,BBJ,EDRB,,,https://en.wikipedia.org/wiki/Bitburg_Airport,
 2269,EDRZ,small_airport,Zweibrücken Airport,49.2094,7.40056,1132,EU,DE,DE-RP,Zweibrücken,no,EDRZ,ZQW,EDRZ,,http://www.edrz-airport.de,https://en.wikipedia.org/wiki/Zweibr%C3%BCcken_Airport,
 2270,EDSB,medium_airport,Karlsruhe Baden-Baden Airport,48.7794,8.0805,408,EU,DE,DE-BW,Rheinmünster,yes,EDSB,FKB,EDSB,,http://www.baden-airpark.de/startseite.html,https://en.wikipedia.org/wiki/Baden_Airpark,Baden Airpark
+2272,EDTB,small_airport,Baden-Oos Airfield,48.791943,8.185833,404,EU,DE,DE-BW,Baden-Baden,no,EDTB,,,,http://www.flugplatz-baden-oos.com/,https://de.wikipedia.org/wiki/Flugplatz_Baden-Oos,Flugplatz Baden-Oos
 2276,EDTL,medium_airport,Lahr Airport,48.369301,7.82772,511,EU,DE,DE-BW,Lahr/Schwarzwald,no,EDTL,LHA,EDTL,,http://airport-lahr.de/,https://en.wikipedia.org/wiki/CFB_Lahr,Black Forest Airport
 2284,EDVE,medium_airport,Braunschweig-Wolfsburg Airport,52.319199,10.5561,295,EU,DE,DE-NI,Braunschweig,no,EDVE,BWE,EDVE,,http://www.flughafen-braunschweig-wolfsburg.de/,https://en.wikipedia.org/wiki/Braunschweig_Airport,
 2285,EDVK,medium_airport,Kassel Airport,51.420699,9.392152,820,EU,DE,DE-HE,Calden,yes,EDVK,KSF,EDVK,,http://www.flughafenkassel.de/,https://en.wikipedia.org/wiki/Kassel_Airport,Kassel-Calden
@@ -1390,11 +1397,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 28744,EDWU,small_airport,Varrelbusch Airfield,52.908333,8.040556,128,EU,DE,DE-NI,Cloppenburg,no,EDWU,VAC,EDWU,,http://www.lsv-cloppenburg.de,https://en.wikipedia.org/wiki/Varrelbusch_Airfield,
 2292,EDWY,small_airport,Norderney Airport,53.706944,7.23,7,EU,DE,DE-NI,Norderney,yes,EDWY,NRD,EDWY,,https://flughafen-norderney.de/,https://en.wikipedia.org/wiki/Norderney_Airport,
 28520,EDWZ,small_airport,Baltrum Airport,53.72485,7.373257,7,EU,DE,DE-NI,Baltrum,yes,EDWZ,BMR,EDWZ,,https://www.baltrum-flug.de/,https://de.wikipedia.org/wiki/Flugplatz_Baltrum,
+28491,EDXA,small_airport,Flugplatz Achmer,52.37722,7.913333,177,EU,DE,DE-NI,Bramsche,no,EDXA,,,,,https://en.wikipedia.org/wiki/Achmer_Aerodrome,
 28590,EDXB,small_airport,Heide-Büsum Airport,54.153332,8.901667,7,EU,DE,DE-SH,Oesterdeichstrich,yes,EDXB,HEI,EDXB,,http://www.edxb.de,https://en.wikipedia.org/wiki/Heide-Buesum_Airport,
 2293,EDXF,small_airport,Flensburg-Schäferhaus Airport,54.773335,9.378889,131,EU,DE,DE-SH,Flensburg,no,EDXF,FLF,EDXF,,,https://en.wikipedia.org/wiki/Flensburg-Sch%C3%A4ferhaus_Airport,
 28591,EDXH,small_airport,Helgoland-Düne Airport,54.185279846200004,7.91583299637,8,EU,DE,DE-SH,Helgoland,yes,EDXH,HGL,EDXH,,http://www.flughafen-helgoland.de,https://en.wikipedia.org/wiki/Heligoland_Airport,
 2294,EDXJ,small_airport,Husum-Schwesing Airport,54.5099983215,9.138333320620001,62,EU,DE,DE-SH,Husum,no,EDXJ,QHU,EDXJ,,,https://en.wikipedia.org/wiki/Husum_Schwesing_Airport,
 28734,EDXO,small_airport,Sankt Peter-Ording Airport,54.308887,8.686944,7,EU,DE,DE-SH,Sankt Peter-Ording,no,EDXO,PSH,EDXO,,https://www.flugplatz-st-peter-ording.de/,https://en.wikipedia.org/wiki/Sankt_Peter-Ording_Airport,"Saint Peter-Ording, St. Peter-Ording"
+28588,EDXP,small_airport,Harlesiel Airfield,53.706669,7.820278,7,EU,DE,DE-NI,Harlesiel,yes,EDXP,,,,,https://en.wikipedia.org/wiki/Harle_Airfield,Flugplatz Harle
+28727,EDXS,small_airport,Seedorf Airfield,53.335556,9.259444,72,EU,DE,DE-NI,Zeven,no,EDXS,,,,,https://de.wikipedia.org/wiki/Flugplatz_Seedorf,Sonderlandeplatz Seedorf
 2296,EDXW,medium_airport,Westerland Sylt Airport,54.9132,8.34047,51,EU,DE,DE-SH,Sylt,yes,EDXW,GWT,EDXW,,https://www.flughafen-sylt.de,https://en.wikipedia.org/wiki/Sylt_Airport,
 28765,EDXY,small_airport,Wyk auf Föhr Airport,54.684444,8.528333,26,EU,DE,DE-SH,Wyk auf Föhr,no,EDXY,OHR,EDXY,,,https://de.wikipedia.org/wiki/Flugplatz_Wyk_auf_F%C3%B6hr,
 318331,EE-9281,small_airport,Rakvere Airfield,59.364032,26.35874,240,EU,EE,EE-59,Rakvere,no,EERE,,EERE,,,,EERE
