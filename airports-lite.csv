@@ -4719,7 +4719,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29728,LKBR,small_airport,Broumov Airfield,50.561901,16.3428,1342,EU,CZ,CZ-KR,Broumov,no,LKBR,,,,http://www.airbroumov.eu/,https://en.wikipedia.org/wiki/Broumov_Airport,
 29731,LKBU,small_airport,Bubovice Airfield,49.9744,14.1781,1401,EU,CZ,CZ-ST,Bubovice,no,LKBU,,,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Bubovice,
 313916,LKC,small_airport,Lekana Airport,-2.313,14.606,2634,AF,CG,CG-14,Lekana,no,,LKC,,,,,
+29778,LKCB,small_airport,Cheb Airfield,50.066101,12.4117,1585,EU,CZ,CZ-KA,Cheb,no,LKCB,,,,http://www.letistecheb.cz/,https://en.wikipedia.org/wiki/Cheb_Airfield,"Letiště Cheb, Eger"
+29773,LKCE,small_airport,Česká Lípa Airfield,50.7094,14.5667,932,EU,CZ,CZ-LI,Česká Lípa,no,LKCE,,,,,,Letiště Česká Lípa
+29784,LKCH,small_airport,Chomutov Airfield,50.468899,13.4681,1132,EU,CZ,CZ-US,Otvice,no,LKCH,,,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Chomutov,
+30127,LKCM,small_airport,Medlánky Airfield,49.236698,16.555,853,EU,CZ,CZ-JM,Medlánky,no,LKCM,,,,,https://en.wikipedia.org/wiki/Medl%C3%A1nky_Airfield,
+29786,LKCR,small_airport,Chrudim Airfield,49.936401,15.7806,981,EU,CZ,CZ-PA,Chrudim,no,LKCR,,,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Chrudim,
 4393,LKCS,small_airport,České Budějovice South Bohemian Airport,48.9464,14.4275,1417,EU,CZ,CZ-JC,České Budějovice,no,LKCS,JCL,LKCS,,https://www.airport-cb.cz/,https://en.wikipedia.org/wiki/%C4%8Cesk%C3%A9_Bud%C4%9Bjovice_Airport,Jihočeské letiště České Budějovice
+29785,LKCT,small_airport,Chotěboř Airfield,49.685799,15.6761,1949,EU,CZ,CZ-VY,Chotěboř,no,LKCT,,,,,,
+4394,LKCV,medium_airport,Čáslav Air Base,49.939701,15.3818,794,EU,CZ,CZ-ST,Chotusice,no,LKCV,,,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_%C4%8C%C3%A1slav,21st Tactical Air Base Čáslav
 4398,LKKU,medium_airport,Kunovice Airport,49.0294,17.439699,581,EU,CZ,CZ-ZL,Uherské Hradiště,no,LKKU,UHE,LKKU,,,https://en.wikipedia.org/wiki/Kunovice_Airport,Letiště Kunovice
 4399,LKKV,medium_airport,Karlovy Vary Airport,50.202999,12.915,1989,EU,CZ,CZ-KA,Karlovy Vary,yes,LKKV,KLV,LKKV,,http://www.airport-k-vary.cz/indexEN.php,https://en.wikipedia.org/wiki/Karlovy_Vary_Airport,Karlovy Vary International
 4401,LKMH,small_airport,Mnichovo Hradiště Airport,50.540199,15.0066,800,EU,CZ,CZ-ST,Mnichovo Hradiště,no,,HRA,LKMH,,https://www.lkmh.cz/en/,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Mnichovo_Hradi%C5%A1t%C4%9B,
