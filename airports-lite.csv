@@ -761,7 +761,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 1531,CSK6,small_airport,Snap Lake Airport,63.593601,-110.905998,1557,NA,CA,CA-NT,Snap Lake Mine,no,,YNX,,,,https://en.wikipedia.org/wiki/Snap_Lake_Airport,CSK6
 1556,CSR8,small_airport,La Sarre Airport,48.917198181152,-79.178596496582,1048,NA,CA,CA-QC,La Sarre,no,,SSQ,CSR8,CSR8,http://www.ville.lasarre.qc.ca/fr/ville/services-municipaux/aeroport-municipal/index.cfm,https://en.wikipedia.org/wiki/La_Sarre_Airport,SR8
 1563,CSU2,small_airport,Chisasibi Airport,53.805599212646484,-78.91690063476562,43,NA,CA,CA-QC,Chisasibi,yes,,YKU,CSU2,CSU2,,https://en.wikipedia.org/wiki/Chisasibi_Airport,SU2
-596512,CSVS,medium_airport,Ok365comdev,17,20,12,EU,AD,AD-07,Hồ Chí Minh,yes,HGLD,,CSVS,VSV1,https://ok365com.dev/nap-tien-ok365/,,
 1590,CTB6,small_airport,Tête-à-la-Baleine Airport,50.674400329589844,-59.38359832763672,107,NA,CA,CA-QC,Tête-à-la-Baleine,yes,,ZTB,CTB6,CTB6,,https://en.wikipedia.org/wiki/T%C3%AAte-%C3%A0-La-Baleine_Airport,TB6
 1604,CTK6,small_airport,Kégashka Airport,50.195801,-61.2658,32,NA,CA,CA-QC,Côte-Nord-du-Golfe-du-Saint-Laurent,yes,,ZKG,CTK6,CTK6,,https://en.wikipedia.org/wiki/K%C3%A9gashka_Airport,Kegaska
 28194,CTM3,seaplane_base,Chute-Des-Passes/Lac Margane Seaplane Base,49.9434,-71.138,1310,NA,CA,CA-QC,Chutes-des-Passes,no,,YWQ,CTM3,CTM3,,https://en.wikipedia.org/wiki/Chutes-des-Passes/Lac_Margane_Water_Aerodrome,
@@ -1195,6 +1194,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 302106,DDM,small_airport,Dodoima Airport,-8.17736111111,147.809444444,75,OC,PG,PG-NPP,,no,,DDM,,DDM,,,
 28576,DE-0004,small_airport,Gransee Airfield,53.00628,13.202177,164,EU,DE,DE-BR,Gransee,no,EDUG,,,,http://www.gojump.de/,https://de.wikipedia.org/wiki/Flugplatz_Gransee,
 315728,DE-0256,small_airport,Perleberg Glider Field,53.070464,11.818672,91,EU,DE,DE-MV,,no,EDUP,,,,http://www.aeroclub-perleberg.de/,https://de.wikipedia.org/wiki/Flugplatz_Perleberg,
+315950,DE-0295,small_airport,Müllheim Airfield,47.824316,7.639475,955,EU,DE,DE-BW,Müllheim,no,EDSM,,,,,https://de.wikipedia.org/wiki/Flugplatz_M%C3%BCllheim,"Flugplatz Müllheim, Segelflugplatz Müllheim"
+315960,DE-0298,small_airport,Deckenpfronn-Egelsee Airfield,48.6385,8.8175,1895,EU,DE,DE-BW,Sindelfingen,no,EDSD,,,,https://translate.google.com/translate?hl=en&sl=de&u=https://www.fsv-sindelfingen-ev.de/index.php%3Fid%3D84&prev=search,https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Deckenpfronn-Egelsee,
+316014,DE-0310,small_airport,Hütten Glider Field,47.6333,7.9412,2885,EU,DE,DE-BW,Rickenbach,no,EDSF,,,,http://www.lg-hotzenwald.de/,https://de.wikipedia.org/wiki/Flugplatz_H%C3%BCtten-Hotzenwald,Sonderlandeplatz Hütten-Hotzenwald
 336115,DEQ,small_airport,Deqing Moganshan Airport,30.504264,120.107388,,AS,CN,CN-33,Huzhou,no,,DEQ,,,,https://en.wikipedia.org/wiki/Deqing_Moganshan_Airport,
 315622,DEX,small_airport,Nop Goliat Dekai Airport,-4.8557,139.482006,198,AS,ID,ID-PP,Dekai,yes,,DEX,WAVD,,,https://en.wikipedia.org/wiki/Nop_Goliat_Dekai_Airport,Nop Goliath
 32704,DFCA,small_airport,Kaya Airport,13.067,-1.1,984,AF,BF,BF-SMT,Kaya,no,DFCA,XKY,DFCA,,,https://en.wikipedia.org/wiki/Kaya_Airport,
@@ -1363,6 +1365,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2235,EDHK,medium_airport,Kiel-Holtenau Airport,54.37957,10.145266,102,EU,DE,DE-SH,Kiel,no,EDHK,KEL,EDHK,,,https://en.wikipedia.org/wiki/Kiel-Holtenau_airport,
 2236,EDHL,medium_airport,Lübeck Blankensee Airport,53.805401,10.7192,53,EU,DE,DE-SH,Lübeck,yes,EDHL,LBC,EDHL,,https://www.flughafen-luebeck.de/en/home,https://en.wikipedia.org/wiki/L%C3%BCbeck_Airport,
 28662,EDHN,small_airport,Neumünster Airport,54.079445,9.941389,72,EU,DE,DE-SH,Neumünster,no,EDHN,EUM,EDHN,,,https://de.wikipedia.org/wiki/Flugplatz_Neum%C3%BCnster,
+28492,EDHO,small_airport,Ahrenlohe Airfield,53.70031,9.742119,33,EU,DE,DE-SH,Tornesch,no,EDHO,,,,,https://de.wikipedia.org/wiki/Flugplatz_Ahrenlohe,Flugplatz Ahrenlohe
 2237,EDJA,medium_airport,Memmingen Allgau Airport,47.988800048799995,10.2395000458,2077,EU,DE,DE-BY,Memmingen,yes,EDJA,FMM,EDJA,,,https://en.wikipedia.org/wiki/Memmingen_Airport,
 28490,EDKA,small_airport,Aachen-Merzbrück Airport,50.823055,6.186389,623,EU,DE,DE-NW,Aachen,no,EDKA,AAH,EDKA,,https://www.flugplatz-aachen.de,https://en.wikipedia.org/wiki/Aachen_Merzbr%C3%BCck_Airfield,"EDCM, ETBA, Flugplatz Aachen Merzbrück, Segelflug Aachen, Motorflug Aachen"
 28553,EDLD,small_airport,Dinslaken-Schwarze Heide Airfield,51.616018,6.861262,217,EU,DE,DE-NW,Hünxe,no,EDLD,,EDLD,,http://schwarze-heide.com,https://de.wikipedia.org/wiki/Flugplatz_Schwarze_Heide,
@@ -1370,9 +1373,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2242,EDLI,small_airport,Bielefeld Airport,51.964722,8.544444,454,EU,DE,DE-NW,Bielefeld,no,EDLI,BFE,EDLI,,http://www.flugplatz-bielefeld.de/,http://de.wikipedia.org/wiki/Flugplatz_Bielefeld,Flugplatz-Windelsbleiche
 2243,EDLN,medium_airport,Mönchengladbach Airport,51.230278,6.504444,125,EU,DE,DE-NW,Mönchengladbach,no,EDLN,MGL,EDLN,,,https://en.wikipedia.org/wiki/D%C3%BCsseldorf-M%C3%B6nchengladbach_Airport,
 2244,EDLP,medium_airport,Paderborn Lippstadt Airport,51.614101,8.61632,699,EU,DE,DE-NW,Büren,yes,EDLP,PAD,EDLP,,,https://en.wikipedia.org/wiki/Paderborn_Lippstadt_Airport,
+30206,EDLU,small_airport,Oelde Bergeler Airfield,51.830601,8.17472,269,EU,DE,DE-NW,,no,EDLU,,,,,https://de.wikipedia.org/wiki/Flugplatz_Oelde-Bergeler,
 2246,EDLV,medium_airport,Weeze Airport,51.6024017334,6.14216995239,106,EU,DE,DE-NW,Weeze,yes,EDLV,NRN,EDLV,,http://www.airport-weeze.de/de,https://en.wikipedia.org/wiki/Airport_Weeze,"LRC, ETUL, Niederrhein Airport, RAF Laarbruch, Düsseldorf Regional"
 2247,EDLW,medium_airport,Dortmund Airport,51.518299,7.61224,425,EU,DE,DE-NW,Dortmund,yes,EDLW,DTM,EDLW,,https://www.dortmund-airport.com/,https://en.wikipedia.org/wiki/Dortmund_Airport,
 2248,EDMA,medium_airport,Augsburg Airport,48.425278,10.931667,1516,EU,DE,DE-BY,Augsburg,no,EDMA,AGB,EDMA,,https://www.augsburg-airport.de/,https://en.wikipedia.org/wiki/Augsburg_Airport,
+2251,EDMN,small_airport,Mindelheim-Mattsies Airfield,48.106945,10.525,1857,EU,DE,DE-BY,Tussenhausen,no,EDMN,,,,,https://de.wikipedia.org/wiki/Flugplatz_Mindelheim-Mattsies,GrobAircraft
 2252,EDMO,medium_airport,Oberpfaffenhofen Airport,48.081402,11.2831,1947,EU,DE,DE-BY,Weßling,no,EDMO,OBF,EDMO,,http://www.edmo-airport.de,https://de.wikipedia.org/wiki/Flugplatz_Oberpfaffenhofen,Weßling
 2253,EDMS,small_airport,Straubing Airport,48.900833,12.516667,1047,EU,DE,DE-BY,Atting,no,EDMS,RBM,EDMS,,https://www.airport-straubing.com/en/homepage/,https://en.wikipedia.org/wiki/Straubing_Wallm%C3%BChle_Airport,
 2256,EDNY,medium_airport,Friedrichshafen Airport,47.671299,9.51149,1367,EU,DE,DE-BW,Friedrichshafen,yes,EDNY,FDH,EDNY,,https://www.bodensee-airport.eu,https://en.wikipedia.org/wiki/Friedrichshafen_Airport,Bodensee Airport Friedrichshafen
@@ -1383,6 +1388,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2265,EDRB,small_airport,Bitburg Airport,49.945278,6.565,1220,EU,DE,DE-RP,Bitburg,no,EDRB,BBJ,EDRB,,,https://en.wikipedia.org/wiki/Bitburg_Airport,
 2269,EDRZ,small_airport,Zweibrücken Airport,49.2094,7.40056,1132,EU,DE,DE-RP,Zweibrücken,no,EDRZ,ZQW,EDRZ,,http://www.edrz-airport.de,https://en.wikipedia.org/wiki/Zweibr%C3%BCcken_Airport,
 2270,EDSB,medium_airport,Karlsruhe Baden-Baden Airport,48.7794,8.0805,408,EU,DE,DE-BW,Rheinmünster,yes,EDSB,FKB,EDSB,,http://www.baden-airpark.de/startseite.html,https://en.wikipedia.org/wiki/Baden_Airpark,Baden Airpark
+314009,EDSP,small_airport,Poltringen Airfield,48.547282,8.945918,1315,EU,DE,DE-BW,Ammerbuch,no,EDSP,,,,,https://en.wikipedia.org/wiki/Poltringen_Airfield,
+547941,EDSX,small_airport,Völkleshofen-Lichtenberg Airfield,49.009332,9.354601,1301,EU,DE,DE-BW,Aspach,no,EDSX,,,,https://sfg-backnang.de,https://de.wikipedia.org/wiki/Flugplatz_V%C3%B6lkleshofen-Lichtenberg,
 2272,EDTB,small_airport,Baden-Oos Airfield,48.791943,8.185833,404,EU,DE,DE-BW,Baden-Baden,no,EDTB,,,,http://www.flugplatz-baden-oos.com/,https://de.wikipedia.org/wiki/Flugplatz_Baden-Oos,Flugplatz Baden-Oos
 2276,EDTL,medium_airport,Lahr Airport,48.369301,7.82772,511,EU,DE,DE-BW,Lahr/Schwarzwald,no,EDTL,LHA,EDTL,,http://airport-lahr.de/,https://en.wikipedia.org/wiki/CFB_Lahr,Black Forest Airport
 2284,EDVE,medium_airport,Braunschweig-Wolfsburg Airport,52.319199,10.5561,295,EU,DE,DE-NI,Braunschweig,no,EDVE,BWE,EDVE,,http://www.flughafen-braunschweig-wolfsburg.de/,https://en.wikipedia.org/wiki/Braunschweig_Airport,
@@ -1570,8 +1577,13 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2506,EGXW,medium_airport,RAF Waddington,53.166199,-0.523811,231,EU,GB,GB-ENG,"Lincoln, Lincolnshire",no,EGXW,WTN,EGXW,,http://www.raf.mod.uk/rafwaddington,https://en.wikipedia.org/wiki/RAF_Waddington,Waddington
 2511,EGYM,medium_airport,RAF Marham,52.648395,0.550692,75,EU,GB,GB-ENG,"King's Lynn, Norfolk",no,EGYM,KNF,EGYM,,http://www.raf.mod.uk/rafmarham/,https://en.wikipedia.org/wiki/RAF_Marham,King's Lynn
 2512,EGYP,medium_airport,Mount Pleasant Airport,-51.82279968261719,-58.447200775146484,244,SA,FK,FK-U-A,Mount Pleasant,yes,EGYP,MPN,EGYP,,,https://en.wikipedia.org/wiki/RAF_Mount_Pleasant,RAF Mount Pleasant
+28120,EHAL,small_airport,Ameland Airport Ballum,53.453612,5.678396,11,EU,NL,NL-FR,Ballum,no,EHAL,,,,http://www.ehal.nl/,https://en.wikipedia.org/wiki/Ameland_Airport,Aachen
 2513,EHAM,large_airport,Amsterdam Airport Schiphol,52.308601,4.76389,-11,EU,NL,NL-NH,Amsterdam,yes,EHAM,AMS,EHAM,,https://www.schiphol.nl/,https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol,
+2514,EHBD,medium_airport,Kempen Airport Budel,51.255299,5.60139,114,EU,NL,NL-NB,Weert,no,EHBD,,,,http://www.kempenairport.nl/,https://en.wikipedia.org/wiki/Kempen_Airport,"Kempen Airport, Budel Aerodrome"
 2515,EHBK,medium_airport,Maastricht Aachen Airport,50.911701,5.77014,375,EU,NL,NL-LI,Maastricht,yes,EHBK,MST,EHBK,,,https://en.wikipedia.org/wiki/Maastricht_Aachen_Airport,
+2516,EHDL,medium_airport,Deelen Air Base,52.0606,5.87306,158,EU,NL,NL-GE,Arnhem,no,EHDL,,,,,https://en.wikipedia.org/wiki/Deelen_Air_Base,QAR
+2517,EHDR,small_airport,Drachten Airfield,53.117933,6.127324,14,EU,NL,NL-FR,Drachten,no,EHDR,,,,,https://en.wikipedia.org/wiki/Drachten_Airfield,
+515200,EHDV,heliport,D15-FA-1 Heliport,54.32472,2.93417,,EU,NL,NL-XX,,no,EHDV,,,,,,
 2518,EHEH,large_airport,Eindhoven Airport,51.4500999451,5.37452983856,74,EU,NL,NL-NB,Eindhoven,yes,EHEH,EIN,EHEH,,http://www.eindhovenairport.nl/,https://en.wikipedia.org/wiki/Eindhoven_Airport,Welschap Airport
 2519,EHGG,medium_airport,Groningen Airport Eelde,53.119701,6.57944,17,EU,NL,NL-DR,Groningen,yes,EHGG,GRQ,EHGG,,,https://en.wikipedia.org/wiki/Groningen_Airport_Eelde,
 2520,EHGR,medium_airport,Gilze Rijen Air Base,51.567402,4.93183,49,EU,NL,NL-NB,Rijen,no,EHGR,GLZ,EHGR,,http://www.defensie.nl/luchtmacht/luchtmachtbases/gilze-rijen/,https://en.wikipedia.org/wiki/Gilze-Rijen_Air_Base,
@@ -2668,6 +2680,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 351149,HZU,medium_airport,Chengdu Huaizhou Airport,30.677339,104.529397,1453,AS,CN,CN-51,Chengdu (Jintang),no,,HZU,,,,https://zh.wikipedia.org/wiki/%E6%88%90%E9%83%BD%E6%B7%AE%E5%B7%9E%E6%9C%BA%E5%9C%BA,
 312933,IBI,small_airport,Iboki Airport,-5.5536,149.19,13,OC,PG,PG-WBK,Iboki,no,,IBI,,IBK,,,Iaboki
 27302,IBL,medium_airport,Indigo Bay Lodge Airport,-21.708,35.452801,20,AF,MZ,MZ-I,Bazaruto Island,no,,IBL,,,,https://en.wikipedia.org/wiki/Indigo_Bay_Lodge_Airport,
+596644,ICAD,medium_airport,tylekeonhacaibuzz,13,15,23,AS,VN,VN-U-A,hồ chí minh,yes,ICAN,LHB,ICAD,NH12,https://tylekeonhacai.buzz/,,
 309145,ICO,small_airport,Sicogon Airstrip,11.4595,123.2506,25,AS,PH,PH-ILI,Carles,no,,ICO,,,,https://en.wikipedia.org/wiki/Sicogon_Airport,
 41492,ID-0003,small_airport,Pulau Panjang Airport,-5.644444,106.5625,155,AS,ID,ID-JB,Jakarta,no,,PPJ,WIHG,,,,"WIIG, Panjang Island"
 311154,ID-0139,small_airport,Syekh Hamzah Fansyuri Airport,2.269614,97.967863,17,AS,ID,ID-AC,Singkil,yes,WIMI,,WIMI,,,https://en.wikipedia.org/wiki/Syekh_Hamzah_Fansyuri_Airport,WT13
@@ -8239,7 +8252,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26781,WAOS,small_airport,Sampit (Hasan) Airport,-2.499198,112.974987,50,AS,ID,ID-KT,Sampit,yes,,SMQ,WAGS,,,https://en.wikipedia.org/wiki/H._Asan_Airport,"WRBS,WAOS"
 41402,WAOW,small_airport,Tumbang Samba Airport,-1.4694,113.0833,160,AS,ID,ID-KT,Tumbang Samba-Borneo Island,yes,WAOW,TBM,WAOW,,,http://id.wikipedia.org/wiki/Bandar_Udara_Tumbang_Samba,WRBW
 30623,WAPA,small_airport,Amahai Airport,-3.347851,128.927093,29,AS,ID,ID-MA,Amahai,no,WAPA,AHI,WAPA,,,https://en.wikipedia.org/wiki/Amahai_Airport,
-41389,WAPC,small_airport,Bandanaira Airport,-4.5214,129.9054,100,AS,ID,ID-MA,Bandanaira,no,WAPC,NDA,WAPC,,,https://en.wikipedia.org/wiki/Bandanaira_Airport,Banda-Naira
+41389,WAPC,small_airport,Bandanaira Airport,-4.5214,129.9054,59,AS,ID,ID-MA,Bandanaira,no,WAPC,NDA,WAPC,,,https://en.wikipedia.org/wiki/Bandanaira_Airport,Banda-Naira
 30934,WAPD,small_airport,Rar Gwamar Airport,-5.773724,134.209245,61,AS,ID,ID-MA,Dobo-Warmar Island,no,WAPD,DOB,WAPD,,,https://en.wikipedia.org/wiki/Dobo_Airport,
 41443,WAPE,small_airport,"Mangole Airport, Falabisahaya",-1.782255,125.482246,10,AS,ID,ID-MU,Mangole Island,no,,MAL,WAEO,,,,WAPE
 333039,WAPF,medium_airport,Karel Sadsuitubun Airport,-5.760278,132.759444,78,AS,ID,ID-MA,Langgur,yes,WAPF,LUV,WAPF,,,https://en.wikipedia.org/wiki/Karel_Sadsuitubun_Airport,Tual Baru
