@@ -2366,7 +2366,7 @@
 9020,"24NK","heliport","Jet-Line Products Heliport",40.785499572753906,-73.17539978027344,10,"NA","US","US-NY","Islandia","no",,,"24NK","24NK",,,
 9023,"24OI","small_airport","Reeds Airport",40.07780075073242,-83.89720153808594,1200,"NA","US","US-OH","St Paris","no",,,"24OI","24OI",,,
 9024,"24OK","heliport","SSM Health St Anthony Hospital-Shawnee Heliport",35.244862,-96.697758,964,"NA","US","US-OK","Seminole","no",,,"24OK","24OK",,,"Columbia Seminole, Alliance Health Seminole"
-9025,"24OR","heliport","Beaverton Corporate Center Heliport",45.49509811401367,-122.8270034790039,175,"NA","US","US-OR","Beaverton","no",,,"24OR","24OR",,,
+9025,"24OR","closed","Beaverton Corporate Center Heliport",45.495098,-122.827003,175,"NA","US","US-OR","Beaverton","no",,,,,,,"04/08/10"
 9026,"24PA","small_airport","Kindelberger Landing Strip",40.69169998168945,-80.17780303955078,1140,"NA","US","US-PA","Freedom","no",,,"24PA","24PA",,,
 45737,"24PN","heliport","A.H. Butz Downtown Allentown Heliport",40.601056,-75.475083,456,"NA","US","US-PA","Allentown","no",,,"24PN","24PN",,,
 9027,"24S","small_airport","Pinehurst State Airport",42.110198974609375,-122.38300323486328,3638,"NA","US","US-OR","Pinehurst","no",,,"24S","24S",,"https://en.wikipedia.org/wiki/Pinehurst_State_Airport",
@@ -3476,7 +3476,7 @@
 301246,"35AL","heliport","Silcox Memorial Heliport",31.089605,-88.245089,339,"NA","US","US-AL","Citronelle","no",,,"35AL",,,,
 10127,"35C","small_airport","Wells Airport",43.128399,-85.505302,890,"NA","US","US-MI","Rockford","no",,,"35C","35C",,"https://en.wikipedia.org/wiki/Wells_Airport",
 10128,"35CA","heliport","Los Angeles County/USC Medical Center Heliport",34.057766,-118.208096,454,"NA","US","US-CA","Los Angeles","no",,,"35CA","35CA",,,
-10130,"35CN","small_airport","Farnsworth Ranch Airstrip",39.09989929199219,-121.93399810791016,50,"NA","US","US-CA","Grimes","no",,,"35CN","35CN",,,
+10130,"35CN","closed","Farnsworth Ranch Airstrip",39.104237,-121.936515,50,"NA","US","US-CA","Grimes","no",,,,,,,"35CN"
 10131,"35CO","small_airport","Lone Tree Ranch Airport",38.886555,-103.812561,5525,"NA","US","US-CO","Punkin Center","no",,,"35CO","35CO",,,
 10132,"35FA","small_airport","Rimes Lakecrest Airport",29.467899322509766,-82.15879821777344,65,"NA","US","US-FL","Cross Creek","no",,,"35FA","35FA",,,
 10133,"35FD","small_airport","Rush Airport",29.69230079650879,-82.72920227050781,80,"NA","US","US-FL","Trenton","no",,,"35FD","35FD",,,
@@ -7174,7 +7174,7 @@
 346524,"76NY","heliport","Independent Heliport",41.492778,-74.104361,512,"NA","US","US-NY","New Windsor","no",,,"KT27","T27",,,"76NY"
 13907,"76OH","heliport","Wyandot Memorial Hospital Heliport",40.839808,-83.28053,840,"NA","US","US-OH","Upper Sandusky","no",,,"76OH","76OH",,,
 13909,"76OK","small_airport","Odom's Roost Airport",35.282739,-97.61982,1240,"NA","US","US-OK","Newcastle","no",,,"76OK","76OK",,,
-13910,"76OR","heliport","Camp Withycombe Heliport",45.4139764,-122.5584286,113,"NA","US","US-OR","Clackamas","no",,,"76OR","76OR",,,
+13910,"76OR","heliport","Camp Withycombe Army Heliport",45.414025,-122.558448,113,"NA","US","US-OR","Happy Valley","no",,,"24OR","24OR",,,"76OR"
 13912,"76PN","heliport","Heritage Valley Beaver Heliport",40.711355,-80.321908,1132,"NA","US","US-PA","Beaver","no",,,"76PN","76PN",,,"MCBC Heliport"
 13913,"76T","small_airport","Bishop Airport",33.268952,-97.451849,875,"NA","US","US-TX","Decatur","no",,,,"76T",,"https://en.wikipedia.org/wiki/Bishop_Airport_(Decatur,_Texas)",
 13914,"76TA","small_airport","Canadian River Ranch Airport",35.402675,-102.807605,3839,"NA","US","US-TX","Adrian","no",,,"46XS","46XS",,,"76TA, Coleman Cattle Company Nr 2"
@@ -24365,7 +24365,7 @@
 320545,"ES-0074","small_airport","Aeródromo el Maíllo",40.571167,-6.2188167,3396,"EU","ES","ES-CL",,"no",,,,,,,
 320546,"ES-0075","small_airport","Aeródromo de Navianos de Valverde",41.959145,-5.835035,2395,"EU","ES","ES-CL",,"no",,,,,,,
 320565,"ES-0076","small_airport","AeroVeleta ULM",37.294754,-3.712869,2444,"EU","ES","ES-AN","Caparacena, Granada","no",,,,,"http://http://aeroveleta.es/",,
-320566,"ES-0077","small_airport","Aeródromo Pozuelo de Calatrava",38.905198,-3.852635,1847,"EU","ES","ES-CM","Pozuelo de Calatrava","no",,,,,,,
+320566,"ES-0077","closed","Aeródromo Pozuelo de Calatrava",38.905198,-3.852635,1847,"EU","ES","ES-CM","Pozuelo de Calatrava","no",,,,,,,
 320567,"ES-0078","small_airport","Aeródromo de Sober",42.432403,-7.488721,1903,"EU","ES","ES-GA","Sober","no",,,,,,,
 320568,"ES-0079","small_airport","Aeródromo La Balanzona",37.9617333333,-4.80705,1969,"EU","ES","ES-AN",,"no",,,,,,,
 320627,"ES-0080","small_airport","Aeródromo de Valverde del Camino",37.5056,-6.70245,810,"EU","ES","ES-AN","Valverde del Camino","no",,,,,,,
@@ -43099,7 +43099,7 @@
 4366,"LIPX","large_airport","Verona Villafranca Valerio Catullo Airport",45.394955,10.887303,239,"EU","IT","IT-34","Caselle (VR)","yes","LIPX","VRN","LIPX","VR10","http://www.aeroportoverona.it/","https://en.wikipedia.org/wiki/Verona_Airport","Valerio Catullo, Villafranca International Airport, Valerio Catullo Airport, Villafranca Airport"
 4367,"LIPY","medium_airport","Marche Airport",43.616299,13.3623,49,"EU","IT","IT-57","Falconara Marittima (AN)","yes","LIPY","AOI","LIPY","AN01","http://www.aeroportomarche.com/index.php?lang=english","https://en.wikipedia.org/wiki/Marche_Airport","Ancona, Ancona Falconara Airport, Falconara, Raffaello Sanzio Airport"
 4368,"LIPZ","large_airport","Venice Marco Polo Airport",45.505299,12.3519,7,"EU","IT","IT-34","Venezia (VE)","yes","LIPZ","VCE","LIPZ","VE05","http://www.veniceairport.com/core/index.jsp?_requestid=37300&language=en","https://en.wikipedia.org/wiki/Venice_Marco_Polo_Airport","Venezia-Tessera, Venice-Tessera"
-29439,"LIQB","small_airport","Arezzo Molin Blanco Airport",43.455248,11.847393,814,"EU","IT","IT-52","Arezzo (AR)","no",,,"LIQB","AR03",,"https://it.wikipedia.org/wiki/Aeroporto_di_Arezzo",
+29439,"LIQB","small_airport","Arezzo Molin Blanco Airfield",43.455248,11.847393,814,"EU","IT","IT-52","Arezzo (AR)","no",,,"LIQB","AR03",,"https://it.wikipedia.org/wiki/Aeroporto_di_Arezzo",
 316455,"LIQG","small_airport","Cecina Airfield",43.2856,10.521183,,"EU","IT","IT-52","Cecina (LI)","no",,,"LIQG","LI05",,,"Aviosuperficie Cecina, Porta della Maremma"
 29440,"LIQL","small_airport","Lucca-Tassignano Airport",43.825825,10.577928,39,"EU","IT","IT-52","Capannori (LU)","no","LIQL","LCV","LIQL","LU02",,"http://it.wikipedia.org/wiki/Aeroporto_di_Lucca-Tassignano","Enrico Squaglia Airport"
 30337,"LIQN","small_airport","Rieti Airfield",42.4272,12.8517,1278,"EU","IT","IT-62","Rieti","no",,,"LIQN","RI01",,"https://en.wikipedia.org/wiki/Rieti_Airport",
@@ -43853,7 +43853,7 @@
 324731,"LTDB","large_airport","Çukurova International Airport",36.890908,35.070522,35,"AS","TR","TR-33","Tarsus","yes","LTDB","COV","LTDB",,,"https://en.wikipedia.org/wiki/%C3%87ukurova_International_Airport",
 313850,"LTF","small_airport","Leitre Airport",-2.8337,141.6257,32,"OC","PG","PG-SAN","Leitre","no",,"LTF",,"LRE",,,
 4563,"LTFA","small_airport","Kaklıç Airport",38.517601,26.9774,13,"AS","TR","TR-35","Çiğli","no",,,"LTFA",,,,
-4564,"LTFB","small_airport","Selçuk Efes Airport",37.950699,27.329,10,"AS","TR","TR-35","Selçuk","no",,"IZM","LTFB",,,"https://en.wikipedia.org/wiki/Sel%C3%A7uk%E2%80%93Efes_Airport",
+4564,"LTFB","small_airport","Selçuk Efes Airport",37.950699,27.329,10,"AS","TR","TR-35","Selçuk","no","LTFB","IZM","LTFB",,,"https://en.wikipedia.org/wiki/Sel%C3%A7uk%E2%80%93Efes_Airport",
 4565,"LTFC","medium_airport","Süleyman Demirel International Airport",37.8554,30.368401,2835,"AS","TR","TR-32","Isparta","yes","LTFC","ISE","LTFC",,"http://www.dhmi.gov.tr/dosyalar/limanvemeydanlar/sdemirel/sdemirel.asp","https://en.wikipedia.org/wiki/S%C3%BCleyman_Demirel_Airport",
 4566,"LTFD","medium_airport","Balıkesir Koca Seyit Airport",39.5546,27.0138,50,"AS","TR","TR-10","Edremit","yes","LTFD","EDO","LTFD",,,"https://en.wikipedia.org/wiki/Bal%C4%B1kesir_Koca_Seyit_Airport",
 4567,"LTFE","large_airport","Milas Bodrum International Airport",37.250599,27.664301,21,"AS","TR","TR-48","Bodrum","yes","LTFE","BJV","LTFE",,,"https://en.wikipedia.org/wiki/Milas-Bodrum_Airport",
