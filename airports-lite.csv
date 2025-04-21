@@ -4946,7 +4946,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 44484,LTDA,medium_airport,Hatay Airport,36.362778,36.282223,269,AS,TR,TR-31,Antakya,yes,LTDA,HTY,LTDA,,,https://en.wikipedia.org/wiki/Hatay_Airport,"hatay,antakya,samandag"
 324731,LTDB,large_airport,Çukurova International Airport,36.890908,35.070522,35,AS,TR,TR-33,Tarsus,yes,LTDB,COV,LTDB,,,https://en.wikipedia.org/wiki/%C3%87ukurova_International_Airport,
 313850,LTF,small_airport,Leitre Airport,-2.8337,141.6257,32,OC,PG,PG-SAN,Leitre,no,,LTF,,LRE,,,
-4564,LTFB,small_airport,Selçuk Efes Airport,37.950699,27.329,10,AS,TR,TR-35,Selçuk,no,,IZM,LTFB,,,https://en.wikipedia.org/wiki/Sel%C3%A7uk%E2%80%93Efes_Airport,
+4564,LTFB,small_airport,Selçuk Efes Airport,37.950699,27.329,10,AS,TR,TR-35,Selçuk,no,LTFB,IZM,LTFB,,,https://en.wikipedia.org/wiki/Sel%C3%A7uk%E2%80%93Efes_Airport,
 4565,LTFC,medium_airport,Süleyman Demirel International Airport,37.8554,30.368401,2835,AS,TR,TR-32,Isparta,yes,LTFC,ISE,LTFC,,http://www.dhmi.gov.tr/dosyalar/limanvemeydanlar/sdemirel/sdemirel.asp,https://en.wikipedia.org/wiki/S%C3%BCleyman_Demirel_Airport,
 4566,LTFD,medium_airport,Balıkesir Koca Seyit Airport,39.5546,27.0138,50,AS,TR,TR-10,Edremit,yes,LTFD,EDO,LTFD,,,https://en.wikipedia.org/wiki/Bal%C4%B1kesir_Koca_Seyit_Airport,
 4567,LTFE,large_airport,Milas Bodrum International Airport,37.250599,27.664301,21,AS,TR,TR-48,Bodrum,yes,LTFE,BJV,LTFE,,,https://en.wikipedia.org/wiki/Milas-Bodrum_Airport,
