@@ -153,8 +153,12 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 42812,AR-0390,small_airport,Carmen de Patagones Airport,-40.7781,-62.9803,131,SA,AR,AR-B,Carmen de Patagones,no,,CPG,SA3R,PAT,,https://en.wikipedia.org/wiki/Carmen_de_Patagones_Airport,
 301707,ARP,small_airport,Aragip Airport,-9.88333333333,149.483333333,1750,OC,PG,PG-MBA,,no,,ARP,,AGP,,,
 301732,ASZ,small_airport,Asirim Airport,-6.009722222220001,150.368611111,1050,OC,PG,PG-WBK,,no,,ASZ,,ASM,,,
+43818,AT-0001,heliport,Pöchlarn-Wörth Heliport,48.214386,15.255579,709,EU,AT,AT-3,Pöchlarn-Wörth,no,LOAL,,LOAL,,,,
 43807,AT-0050,heliport,Eisenstadt Heliport,47.84677,16.51345,748,EU,AT,AT-1,Eisenstadt,no,LOAE,,LOAE,,,,
 43808,AT-0051,heliport,Baden Hospital Helipad,48.000612,16.255796,733,EU,AT,AT-3,Baden,no,LOAF,,LOAF,,,,
+43809,AT-0052,heliport,Horn Heliport,48.669249,15.660705,1012,EU,AT,AT-3,Horn,no,LOAH,,LOAH,,,,
+43810,AT-0053,heliport,Krems University Hospital Helipad,48.412753,15.615224,647,EU,AT,AT-3,Krems,no,LOAK,,LOAK,,,,Christophorus 2
+43864,AT-0087,heliport,Wien-Meidling Heliport,48.173743,16.322633,737,EU,AT,AT-9,Vienna,no,LOAM,,LOAM,,,,Vienna Police
 313838,AU-0081,small_airport,Lady Elliot Island Airstrip,-24.1129,152.7156,20,OC,AU,AU-QLD,Lady Elliot Island,no,,LYT,YLTT,,,,
 354527,AU-0456,small_airport,Gruyere Airport,-28.034548,123.81506,1542,OC,AU,AU-WA,Cosmo Newbery,yes,,GYZ,YGRM,,,,
 356438,AU-0490,small_airport,Packsaddle Airport,-30.29424,142.13758,342,OC,AU,AU-NSW,Packsaddle,no,YPAS,,YPAS,,,,
@@ -1091,6 +1095,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2001,CYZV,medium_airport,Sept-Îles Airport,50.22330093383789,-66.2656021118164,180,NA,CA,CA-QC,Sept-Îles,yes,CYZV,YZV,CYZV,,,https://en.wikipedia.org/wiki/Sept-%C3%8Eles_Airport,
 2002,CYZW,medium_airport,Teslin Airport,60.17279815673828,-132.7429962158203,2313,NA,CA,CA-YT,Teslin,no,CYZW,YZW,CYZW,,,https://en.wikipedia.org/wiki/Teslin_Airport,
 2003,CYZX,medium_airport,CFB Greenwood,44.98440170288086,-64.91690063476562,92,NA,CA,CA-NS,Greenwood,no,CYZX,YZX,CYZX,,,https://en.wikipedia.org/wiki/CFB_Greenwood,Greenwood Airport
+324117,CZ-0161,small_airport,Luhačovice Airfield,49.088188,17.718769,,EU,CZ,CZ-ZL,Luhačovice,no,LKLU,,LKLU,,https://www.aeroklubluhacovice.cz/?,,Letiště Luhačovice
 2005,CZAC,small_airport,York Landing Airport,56.089401,-96.089203,621,NA,CA,CA-MB,York Landing,no,CZAC,ZAC,CZAC,,,https://en.wikipedia.org/wiki/York_Landing_Airport,
 2006,CZAM,medium_airport,Shuswap Regional Airport,50.682802,-119.228996,1751,NA,CA,CA-BC,Salmon Arm,no,CZAM,YSN,CZAM,,http://www.salmonarm.ca/index.aspx?nid=228,https://en.wikipedia.org/wiki/Salmon_Arm_Airport,"AM4, Shuswap Regional Airport, Salmon Arm Airport"
 2008,CZBB,medium_airport,Boundary Bay Airport,49.0742,-123.012001,6,NA,CA,CA-BC,Delta,no,CZBB,YDT,CZBB,,http://http://czbb.com/,https://en.wikipedia.org/wiki/Boundary_Bay_Airport,ZBB
@@ -2709,6 +2714,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 311990,IMG,small_airport,Inhaminga Airport,-18.41,35.0045,1072,AF,MZ,MZ-S,Inhaminga,no,,IMG,,,,,
 44362,IN-0012,small_airport,Pakyong Airport,27.2313,88.587196,4590,AS,IN,IN-SK,Pakyong,no,,PYG,VEPY,,,https://en.wikipedia.org/wiki/Pakyong_Airport,
 46512,IN-0025,medium_airport,Ayodhya Airport,26.751283,82.155295,335,AS,IN,IN-UP,Faizabad,yes,,AYJ,VEAY,,,https://en.wikipedia.org/wiki/Ayodhya_Airport,Maharishi Valmiki International
+299082,IN-0065,small_airport,Amravati (Belora) Airstrip,20.814608,77.717765,1125,AS,IN,IN-MM,Amravati,no,VAAM,,VAAM,,,https://en.wikipedia.org/wiki/Amravati_Airport,
 342093,IN-0276,large_airport,Navi Mumbai International Airport,18.988686,73.068523,184,AS,IN,IN-MM,Navi Mumbai,yes,,NMI,,,,https://en.wikipedia.org/wiki/Navi_Mumbai_International_Airport,"D. B. Patil, new airport"
 354545,IN-0301,medium_airport,Rashtrakavi Kuvempu Airport,13.858024,75.618868,2017,AS,IN,IN-KA,Shimoga,no,,RQY,VOSH,,https://web.archive.org/web/20240204161112/https://ksiidc.karnataka.gov.in/new-page/ShivamoggaAirport/en,https://en.wikipedia.org/wiki/Shivamogga_Airport,"Sogane, Shivamogga"
 354546,IN-0308,medium_airport,Itanagar Donyi Polo Hollongi Airport,26.96683,93.638792,328,AS,IN,IN-AR,Hollongi,yes,,HGI,VEHO,,,https://en.wikipedia.org/wiki/Itanagar_Airport,
@@ -4774,6 +4780,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29444,LOAA,small_airport,Ottenschlag Airfield,48.41856,15.215294,2867,EU,AT,AT-3,Ottenschlag,no,LOAA,,LOAA,,,https://en.wikipedia.org/wiki/Flugplatz_Ottenschlag,Union Sportfliegergruppe
 29445,LOAB,small_airport,Dobersberg Airfield,48.922113,15.296826,1720,EU,AT,AT-3,Dobersberg,no,LOAB,,LOAB,,,https://en.wikipedia.org/wiki/Dobersberg_Airport,
 29446,LOAD,small_airport,Völtendorf Airfield,48.160081,15.58677,1063,EU,AT,AT-3,Ober-Grafendorf,no,LOAD,,LOAD,,,https://en.wikipedia.org/wiki/V%C3%B6ltendorf_Airport,
+28135,LOAG,small_airport,Krems/Langenlois Airfield,48.446155,15.635011,1017,EU,AT,AT-3,Krems an der Donau,no,LOAG,,LOAG,,,https://en.wikipedia.org/wiki/Krems-Langenlois_Airport,
+515406,LOAI,heliport,Wiener Neustadt Hospital Heliport,47.8159,16.24713,,EU,AT,AT-3,Wiener Neustadt,no,LOAI,,LOAI,,,,
+4428,LOAN,medium_airport,Wiener Neustadt East Airport,47.8433,16.260099,896,EU,AT,AT-3,Wiener Neustadt,no,LOAN,,LOAN,,http://www.loan-airport.at/,https://en.wikipedia.org/wiki/Wiener_Neustadt_East_Airport,
+43811,LOAP,heliport,Waidhofen an der Ybbs Hospital Helipad,47.952692,14.788011,1279,EU,AT,AT-3,Waidhofen an der Ybbs,no,LOAP,,LOAP,,,,
 43858,LOIC,heliport,Sankt Anton am Arlberg Heliport,47.119621,10.240524,4730,EU,AT,AT-8,Sankt Anton am Arlberg,no,,ANT,LOIC,,,,
 29458,LOIH,small_airport,Hohenems-Dornbirn Airfield,47.384477,9.699776,1352,EU,AT,AT-8,Hohenems,no,LOIH,HOH,LOIH,,http://www.loih.at/,http://de.wikipedia.org/wiki/Flugplatz_Hohenems-Dornbirn,
 514004,LOJD,heliport,Dornbirn City Hospital Heliport,47.406315,9.740058,,EU,AT,AT-8,Dornbirn,no,LOJD,,,,,,
