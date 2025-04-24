@@ -15179,24 +15179,24 @@
 35947,"BR-2392","small_airport","Fazenda Pedra Branca Airport",-24.628946,-50.46511,2953,"SA","BR","BR-PR","Tibagi","no",,,,,,,"SIEZ"
 35950,"BR-2393","small_airport","Fazenda Cachoeirinha Airport",-20.383623,-56.270091,722,"SA","BR","BR-MS","Miranda","no",,,,,,,"SIFC"
 35951,"BR-2394","small_airport","Fazenda Dois Irmãos Airport",-16.388842,-57.288171,591,"SA","BR","BR-MT","Cáceres","no",,,,,,,"SIFD"
-35952,"BR-2395","small_airport","Fazenda Dinorá Airport",-23.416389465332,-50.600833892822,2100,"SA","BR","BR-PR","Nova Fátima","no",,,,"SIFE",,,"SIFE"
-35953,"BR-2396","small_airport","Fazenda Firme Airport",-19.259443283081,-57.011665344238,233,"SA","BR","BR-MS","Corumbá","no",,,,"SIFF",,,"SIFF"
-35955,"BR-2397","small_airport","Santa Rita do Araguaia Airport",-17.3208,-53.194,2490,"SA","BR","BR-GO","Santa Rita do Araguaia","no",,,,"SIFH",,,"SIFH"
+35952,"BR-2395","small_airport","Fazenda Dinorá Airport",-23.416389,-50.600834,2100,"SA","BR","BR-PR","Nova Fátima","no",,,,,,,"SIFE"
+35953,"BR-2396","small_airport","Fazenda Firme Airport",-19.259443,-57.011665,233,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SIFF"
+35955,"BR-2397","small_airport","Santa Rita do Araguaia Airport",-17.3208,-53.194,2490,"SA","BR","BR-GO","Santa Rita do Araguaia","no",,,,,,,"SIFH"
 35956,"BR-2398","small_airport","Fazenda Jurema Airport",-21.805279,-54.246387,709,"SA","BR","BR-MS","Rio Brilhante","no",,,,,,,"SIFJ"
 35958,"BR-2399","heliport","Solar dos Vianas Heliport",-16.735832,-49.110832,2342,"SA","BR","BR-GO","Senador Canedo","no",,,,,,,"SIFL"
 35959,"BR-2400","small_airport","Fazenda Mudança Airport",-9.912923,-60.862559,499,"SA","BR","BR-MT","Aripuanã","no",,,,,,,"SIFM"
-35960,"BR-2401","small_airport","Fazenda Planura Airport",-3.5936110019684,-59.652221679688,188,"SA","BR","BR-AM","Autazes","no",,,,"SIFN",,,"SIFN"
+35960,"BR-2401","small_airport","Fazenda Planura Airport",-3.593611,-59.652222,188,"SA","BR","BR-AM","Autazes","no",,,,,,,"SIFN"
 35962,"BR-2402","heliport","Iguassu II Heliport",-25.51133,-54.583901,584,"SA","BR","BR-PR","Foz do Iguaçu","no",,,,,,,"SIFS"
 35966,"BR-2403","heliport","Secretaria da Agricultura Heliport",-23.648557,-46.628042,2608,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SIFX"
 35969,"BR-2404","heliport","Jardin Guanabara Heliport",-22.809722900391,-43.210277557373,210,"SA","BR","BR-RJ","Rio De Janeiro","no",,,,"SIGA",,,"SIGA"
 35972,"BR-2405","heliport","Gota Dourada Heliport",-21.008056640625,-47.658611297607,2848,"SA","BR","BR-SP","Brodowski","no",,,,"SIGD",,,"SIGD"
 35974,"BR-2406","heliport","Auto Viação Reginas II Heliport",-22.660556793213,-43.047222137451,66,"SA","BR","BR-RJ","Magé","no",,,,"SIGG",,,"SIGG"
 35979,"BR-2407","small_airport","Fazenda São Benedito Airport",-16.270555496216,-57.862777709961,469,"SA","BR","BR-MT","Cáceres","no",,,,"SIGM",,,"SIGM"
-35988,"BR-2408","small_airport","Estância Miranda Airport",-21.914443969727,-57.143890380859,640,"SA","BR","BR-MS","Caracol","no",,,,"SIGW",,,"SIGW"
-35992,"BR-2409","heliport","Hotel Ariau Amazon Towers Heliport",-3.090037,-60.438731,99,"SA","BR","BR-AM","Iranduba","no",,,,"SIHA",,,"SIHA, SIAH"
-35996,"BR-2410","heliport","Mendes Heliport",-23.959793,-46.335644,52,"SA","BR","BR-SP","Santos","no",,,,"SP0544",,,"SIHE, SIRB, BR-2410"
-35997,"BR-2411","heliport","Campo de Exposições Torto Heliport",-15.70444393158,-47.920555114746,3445,"SA","BR","BR-DF","Brasília","no",,,,"SIHF",,,"SIHF"
-35998,"BR-2412","small_airport","Fazenda Ponderosa Airport",-10.071666717529,-49.995555877686,656,"SA","BR","BR-TO","Pium","no",,,,"SIHG",,,"SIHG"
+35988,"BR-2408","small_airport","Estância Miranda Airport",-21.912812,-57.143777,640,"SA","BR","BR-MS","Caracol","no",,,,,,,"SIGW"
+35992,"BR-2409","heliport","Hotel Ariau Amazon Towers Heliport",-3.090037,-60.438731,99,"SA","BR","BR-AM","Iranduba","no",,,,,,,"SIHA, SIAH"
+35996,"BR-2410","heliport","Mendes Heliport",-23.959793,-46.335644,52,"SA","BR","BR-SP","Santos","no",,,"SIRB","SP0544",,,"SIHE"
+35997,"BR-2411","heliport","Campo de Exposições Torto Heliport",-15.702584,-47.919079,3445,"SA","BR","BR-DF","Brasília","no",,,,,,,"SIHF"
+35998,"BR-2412","small_airport","Fazenda Ponderosa Airport",-10.066705,-49.993896,656,"SA","BR","BR-TO","Pium","no",,,,,,,"SIHG"
 35999,"BR-2413","heliport","Hotel Intercontinental Heliport",-22.997777938843,-43.261112213135,33,"SA","BR","BR-RJ","Rio De Janeiro","no",,,,"SIHH",,,"SIHH"
 36005,"BR-2414","small_airport","Estância Vacadiga Airport",-21.798610687256,-56.571388244629,936,"SA","BR","BR-MS","Bela Vista","no",,,,"SIHN",,,"SIHN"
 36008,"BR-2415","heliport","Roberta Lombardi Heliport",-19.952499389648,-43.917499542236,3602,"SA","BR","BR-MG","Belo Horizonte","no",,,,"SIHR",,,"SIHR"
@@ -58407,7 +58407,7 @@
 549575,"SIR7","small_airport","Ricardo Dias Alves Airstrip",-19.978083,-57.223828,364,"SA","BR","BR-MS","Corumbá","no",,,"SIR7","MS0610",,,
 557798,"SIR8","small_airport","Fazenda Cafelândia Airport",-16.392782,-39.553869,597,"SA","BR","BR-BA","Eunápolis","no",,,"SIR8","BA0351",,,
 557849,"SIR9","small_airport","Fazenda Itaporanga Airstrip",-7.100204,-49.520193,709,"SA","BR","BR-PA","Rio Maria","no",,,"SIR9","PA0393",,,
-36222,"SIRB","small_airport","Fazenda Mimoso Airport",-21.77111053466797,-54.38166809082031,1476,"SA","BR","BR-MS","Rio Brilhante","no",,,"SIRB",,,,
+36222,"SIRB","small_airport","Fazenda Mimoso Airport",-21.771111,-54.381668,1476,"SA","BR","BR-MS","Rio Brilhante","no",,,,,,,"SIRB"
 36223,"SIRC","small_airport","Fazenda Jarinã Airport",-10.325341,-53.58592,1112,"SA","BR","BR-MT","Peixoto De Azevedo","no",,,"SJDM","MT0167",,,"SIRC"
 36226,"SIRF","small_airport","José Múcio Monteiro Airport",-8.631111,-35.271667,479,"SA","BR","BR-PE","Rio Formoso","no",,,"SIRF","PE0015",,,
 36228,"SIRH","small_airport","Fazenda Morada da Lua Airport",-18.263323,-54.311836,1450,"SA","BR","BR-MS","Coxim","no",,,"SIRH","MS0124",,,
@@ -82610,7 +82610,7 @@
 336112,"ZLYA","medium_airport","Yan'an Nanniwan Airport",36.479413,109.464083,,"AS","CN","CN-61","Yan'an (Baota)","yes","ZLYA","ENY","ZLYA","ENY",,"https://en.wikipedia.org/wiki/Yan%27an_Nanniwan_Airport",
 32563,"ZLYL","small_airport","Yulin Yuyang Airport",38.35971,109.590927,3891,"AS","CN","CN-61","Yulin","yes","ZLYL","UYN","ZLYL",,"http://www.cwag-yl.com/","https://en.wikipedia.org/wiki/Yulin_Yuyang_Airport",
 300516,"ZLYS","medium_airport","Yushu Batang Airport",32.836389,97.036389,12816,"AS","CN","CN-63","Yushu (Batang)","yes","ZLYS","YUS","ZLYS",,,"https://en.wikipedia.org/wiki/Yushu_Batang_Airport",
-308462,"ZLZW","medium_airport","Zhongwei Shapotou Airport",37.573125,105.154454,8202,"AS","CN","CN-64","Zhongwei (Shapotou)","yes","ZLZW","ZHY","ZLZW",,,"https://en.wikipedia.org/wiki/Zhongwei_Shapotou_Airport",
+308462,"ZLZW","medium_airport","Zhongwei Shapotou Airport",37.573125,105.154454,4088,"AS","CN","CN-64","Zhongwei (Shapotou)","yes","ZLZW","ZHY","ZLZW",,,"https://en.wikipedia.org/wiki/Zhongwei_Shapotou_Airport",
 44221,"ZLZY","small_airport","Zhangye Ganzhou Airport",38.801899,100.675003,5280,"AS","CN","CN-62","Zhangye (Ganzhou)","yes","ZLZY","YZY","ZLZY",,,"https://en.wikipedia.org/wiki/Zhangye_Ganzhou_Airport","Zhangye Southeast Air Base, 张掖甘州机场"
 41851,"ZM-0001","small_airport","Lilayi Airport",-15.512200355500001,28.3246002197,4264,"AF","ZM","ZM-09","Lilayi","no",,,,,,,
 308257,"ZM-0002","small_airport","Mumbwa",-15.072745130299998,27.1867847443,,"AF","ZM","ZM-02",,"no",,,,,,,"Military"
