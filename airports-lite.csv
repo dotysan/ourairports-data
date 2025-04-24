@@ -9196,7 +9196,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 336112,ZLYA,medium_airport,Yan'an Nanniwan Airport,36.479413,109.464083,,AS,CN,CN-61,Yan'an (Baota),yes,ZLYA,ENY,ZLYA,ENY,,https://en.wikipedia.org/wiki/Yan%27an_Nanniwan_Airport,
 32563,ZLYL,small_airport,Yulin Yuyang Airport,38.35971,109.590927,3891,AS,CN,CN-61,Yulin,yes,ZLYL,UYN,ZLYL,,http://www.cwag-yl.com/,https://en.wikipedia.org/wiki/Yulin_Yuyang_Airport,
 300516,ZLYS,medium_airport,Yushu Batang Airport,32.836389,97.036389,12816,AS,CN,CN-63,Yushu (Batang),yes,ZLYS,YUS,ZLYS,,,https://en.wikipedia.org/wiki/Yushu_Batang_Airport,
-308462,ZLZW,medium_airport,Zhongwei Shapotou Airport,37.573125,105.154454,8202,AS,CN,CN-64,Zhongwei (Shapotou),yes,ZLZW,ZHY,ZLZW,,,https://en.wikipedia.org/wiki/Zhongwei_Shapotou_Airport,
+308462,ZLZW,medium_airport,Zhongwei Shapotou Airport,37.573125,105.154454,4088,AS,CN,CN-64,Zhongwei (Shapotou),yes,ZLZW,ZHY,ZLZW,,,https://en.wikipedia.org/wiki/Zhongwei_Shapotou_Airport,
 44221,ZLZY,small_airport,Zhangye Ganzhou Airport,38.801899,100.675003,5280,AS,CN,CN-62,Zhangye (Ganzhou),yes,ZLZY,YZY,ZLZY,,,https://en.wikipedia.org/wiki/Zhangye_Ganzhou_Airport,"Zhangye Southeast Air Base, 张掖甘州机场"
 508595,ZM-0045,medium_airport,Kalumbila Airport,-12.25358,25.44432,4354,AF,ZM,ZM-06,Kalumbila,no,,UMB,,,,,
 29670,ZMAH,medium_airport,Arvaikheer Airport,46.250301361083984,102.802001953125,5932,AS,MN,MN-055,Arvaikheer,yes,ZMAH,AVK,ZMAH,,,https://en.wikipedia.org/wiki/Arvaikheer_Airport,
