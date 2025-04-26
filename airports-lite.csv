@@ -1040,7 +1040,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 1942,CYVT,small_airport,Buffalo Narrows Airport,55.8418998718,-108.417999268,1423,NA,CA,CA-SK,Buffalo Narrows,no,CYVT,YVT,CYVT,,,https://en.wikipedia.org/wiki/Buffalo_Narrows_Airport,YVT
 1943,CYVV,medium_airport,Wiarton Airport,44.7458,-81.107201,729,NA,CA,CA-ON,Wiarton,yes,CYVV,YVV,CYVV,,http://wiartonairport.ca/,https://en.wikipedia.org/wiki/Wiarton_Airport,
 1944,CYVZ,small_airport,Deer Lake Airport,52.655613,-94.061208,1092,NA,CA,CA-ON,Deer Lake,yes,CYVZ,YVZ,CYVZ,,,https://en.wikipedia.org/wiki/Deer_Lake_Airport_(Ontario),
-1945,CYWA,medium_airport,Petawawa Airport,45.95220184326172,-77.31919860839844,427,NA,CA,CA-ON,Petawawa,no,CYWA,YWA,CYWA,,,https://en.wikipedia.org/wiki/Petawawa_Airport,
+1945,CYWA,heliport,Petawawa Heliport,45.952202,-77.319199,427,NA,CA,CA-ON,Petawawa,no,CYWA,YWA,CYWA,,,https://en.wikipedia.org/wiki/Petawawa_Airport,
 954,CYWE,small_airport,Wekweètì Airport,64.190804,-114.077002,1208,NA,CA,CA-NT,Wekweètì,yes,CYWE,YFJ,CYWE,CFJ7,,https://en.wikipedia.org/wiki/Wekwe%C3%A8t%C3%AC_Airport,"Wekweti, Snare Lake"
 1946,CYWG,large_airport,Winnipeg / James Armstrong Richardson International Airport,49.909999847399995,-97.2398986816,783,NA,CA,CA-MB,Winnipeg,yes,CYWG,YWG,CYWG,YWG,http://www.waa.ca/,https://en.wikipedia.org/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport,CFB Winnipeg
 1947,CYWH,seaplane_base,Victoria Harbour Seaplane Base,48.423782,-123.37198,,NA,CA,CA-BC,Victoria,yes,CYWH,YWH,CYWH,,,https://en.wikipedia.org/wiki/Victoria_Inner_Harbour_Airport,
