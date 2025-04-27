@@ -1568,7 +1568,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2477,EGSU,small_airport,Duxford Aerodrome,52.090801,0.131944,125,EU,GB,GB-ENG,Duxford,no,EGSU,,EGSU,,http://www.iwm.org.uk/pilots,https://en.wikipedia.org/wiki/Duxford_Aerodrome,"RAF Duxford, Duxford, IWM Duxford"
 29196,EGTB,small_airport,Wycombe Air Park,51.61177,-0.808316,515,EU,GB,GB-ENG,"Marlow, Buckinghamshire",no,EGTB,HYC,EGTB,,,https://en.wikipedia.org/wiki/Wycombe_Air_Park,"RAF Booker, High Wycombe"
 2481,EGTE,medium_airport,Exeter International Airport,50.734261,-3.413984,102,EU,GB,GB-ENG,"Exeter, Devon",yes,EGTE,EXT,EGTE,,http://www.exeter-airport.co.uk/,https://en.wikipedia.org/wiki/Exeter_International_Airport,
-2483,EGTK,medium_airport,Oxford (Kidlington) Airport,51.836899,-1.32,270,EU,GB,GB-ENG,"Kidlington, Oxfordshire",no,EGTK,OXF,EGTK,,http://www.oxfordairport.co.uk/,https://en.wikipedia.org/wiki/Oxford_Airport,RAF Kidlington
+2483,EGTK,medium_airport,London Oxford Airport,51.836899,-1.32,270,EU,GB,GB-ENG,"Kidlington, Oxfordshire",no,EGTK,OXF,EGTK,,http://www.oxfordairport.co.uk/,https://en.wikipedia.org/wiki/Oxford_Airport,RAF Kidlington
 29200,EGTO,small_airport,Rochester Airport,51.351898,0.503333,436,EU,GB,GB-ENG,"Rochester, Kent",no,EGTO,RCS,EGTO,,http://www.rochesterairport.co.uk/,https://en.wikipedia.org/wiki/Rochester_Airport_%28England%29,
 2486,EGUB,medium_airport,RAF Benson,51.614366,-1.095991,226,EU,GB,GB-ENG,"Wallingford, Oxfordshire",no,EGUB,BEX,EGUB,,,https://en.wikipedia.org/wiki/RAF_Benson,Benson
 2487,EGUL,medium_airport,RAF Lakenheath,52.40954,0.561161,32,EU,GB,GB-ENG,"Brandon, Suffolk",no,EGUL,LKZ,EGUL,,http://www.lakenheath.af.mil/,https://en.wikipedia.org/wiki/RAF_Lakenheath,
@@ -4637,7 +4637,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4262,LGKL,medium_airport,Kalamata Airport,37.06829833984375,22.02549934387207,26,EU,GR,GR-J,Kalamata,yes,LGKL,KLX,LGKL,,,https://en.wikipedia.org/wiki/Kalamata_International_Airport,
 4264,LGKO,medium_airport,Kos Airport,36.794523,27.09115,412,AS,GR,GR-L,Kos Island,yes,LGKO,KGS,LGKO,,https://www.kgs-airport.gr/el/,https://en.wikipedia.org/wiki/Kos_Island_International_Airport,
 4265,LGKP,medium_airport,Karpathos Airport,35.421398,27.146,66,EU,GR,GR-L,Karpathos Island,yes,LGKP,AOK,LGKP,,,https://en.wikipedia.org/wiki/Karpathos_Island_National_Airport,
-4266,LGKR,medium_airport,Corfu Ioannis Kapodistrias International Airport,39.601898,19.911699,6,EU,GR,GR-F,Kerkyra (Corfu),yes,LGKR,CFU,LGKR,,,https://en.wikipedia.org/wiki/Corfu_International_Airport%2C_%26quot%3BIoannis_Kapodistrias%26quot%3B,Corfu
+4266,LGKR,medium_airport,Corfu Ioannis Kapodistrias International Airport,39.601898,19.911699,6,AS,GR,GR-F,Kerkyra (Corfu),yes,LGKR,CFU,LGKR,,https://www.cfu-airport.gr/en,https://en.wikipedia.org/wiki/Corfu_International_Airport,Corfu
 4267,LGKS,small_airport,Kasos Airport,35.4213981628,26.909999847399998,35,EU,GR,GR-L,Kasos Island,yes,LGKS,KSJ,LGKS,,,https://en.wikipedia.org/wiki/Kassos_Island_Public_Airport,
 4268,LGKV,medium_airport,Kavala Alexander the Great International Airport,40.9133,24.6192,18,EU,GR,GR-A,Kavala,yes,LGKV,KVA,LGKV,,,https://en.wikipedia.org/wiki/Kavala_International_Airport,Megas Alexandros
 30004,LGKY,small_airport,Kalymnos Airport,36.9632987976,26.9405994415,771,EU,GR,GR-L,Kalymnos Island,yes,LGKY,JKL,LGKY,,,https://en.wikipedia.org/wiki/Kalymnos_Island_National_Airport,"Kalimnos, Κάλυμνος"
