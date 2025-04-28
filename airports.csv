@@ -16700,7 +16700,7 @@
 40069,"CA-0423","closed","Île d'Orléans Heliport",46.983333587646484,-70.83333587646484,,"NA","CA","CA-QC",,"no",,,,,,,
 44559,"CA-0424","small_airport","Witwer Airfield",55.53519821166992,-127.86599731445312,1070,"NA","CA","CA-BC","Hazelton","no",,,,,,,"Witwer Air Field"
 44557,"CA-0425","small_airport","Seeley Lake Field",55.193001,-127.712997,987,"NA","CA","CA-BC","Hazelton","no",,,,,,,
-45943,"CA-0426","closed","Herb's Travel Plaza Airstrip",45.4675131907,-74.6766815185,,"NA","CA","CA-ON","Vankleek Hill","no",,,,,,,
+45943,"CA-0426","small_airport","Herb's Travel Plaza Airstrip",45.467513,-74.676682,,"NA","CA","CA-ON","Vankleek Hill","no",,,,,,,
 46374,"CA-0427","small_airport","Disley Airport",50.637459,-105.036194,,"NA","CA","CA-SK","Disley","no",,,"CDS2","CDS2",,"https://en.wikipedia.org/wiki/Disley_Aerodrome",
 46375,"CA-0428","small_airport","Elbow Airstrip",51.1344200458,-106.585707664,,"NA","CA","CA-SK","Elbow","no",,,,,,,
 46517,"CA-0429","closed","Stevensville Airstrip",42.938894,-79.10006,,"NA","CA","CA-ON","Fort Erie","no",,,,,,,
@@ -17470,6 +17470,11 @@
 596948,"CA-1193","small_airport","Merrickville Private Strip",44.950919,-75.797768,348,"NA","CA","CA-ON","Merrickville","no",,,,,,,
 596949,"CA-1194","closed","Port Elmesley Private Strip",44.893089,-76.087039,420,"NA","CA","CA-ON","Smiths Falls","no",,,,,,,
 596950,"CA-1195","closed","Northbrook Airport",44.736277,-77.152133,850,"NA","CA","CA-ON","Northbrook","no",,,,,,,
+596968,"CA-1196","closed","Oxford Mills Aerodrome",44.95262,-75.688012,328,"NA","CA","CA-ON","Oxford Mills","no",,,,,,,
+596969,"CA-1197","closed","Oxford Mills Private Strip",44.936764,-75.705028,348,"NA","CA","CA-ON","Oxford Mills","no",,,,,,,
+596971,"CA-1198","closed","Patterson's Corners Private Strip",44.923973,-75.658797,,"NA","CA","CA-ON","Oxford Mills","no",,,,,,,
+596972,"CA-1199","closed","Ferris Farm Private Airstrip",45.432943,-75.896387,400,"NA","CA","CA-QC","Gatineau","no",,,,,,,
+596984,"CA-1200","closed","RCAF Station St. Eugene",45.487455,-74.472027,185,"NA","CA","CA-ON","Saint Eugene","no",,,,,,,"RCAF, BCATP"
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -23641,7 +23646,7 @@
 29168,"EGNY","small_airport","Beverley/Linley Hill Airfield",53.898384,-0.36139,3,"EU","GB","GB-ENG","Beverley, East Riding of Yorkshire","no",,,"EGNY",,,"https://en.wikipedia.org/wiki/Beverley/Linley_Hill_Airfield",
 2452,"EGOE","small_airport","Tern Hill Airfield",52.872775,-2.532692,272,"EU","GB","GB-ENG","Market Drayton, Shropshire","no",,,"EGOE",,,"https://en.wikipedia.org/wiki/RAF_Tern_Hill","RAF Tern Hill"
 30991,"EGOM","medium_airport","RAF Spadeadam",55.0499992371,-2.54999995232,1066,"EU","GB","GB-ENG","Spadeadam","no",,,"EGOM",,"http://www.raf.mod.uk/rafspadeadam/","https://en.wikipedia.org/wiki/RAF_Spadeadam",
-3073,"EGOQ","small_airport","RAF Mona",53.258598,-4.37355,202,"EU","GB","GB-WLS","Holyhead Island","no",,,"EGOQ",,,"https://en.wikipedia.org/wiki/RAF_Mona",
+3073,"EGOQ","small_airport","RAF Mona",53.258598,-4.37355,202,"EU","GB","GB-WLS","Bodffordd, Anglesey","no",,,"EGOQ",,,"https://en.wikipedia.org/wiki/RAF_Mona",
 2453,"EGOS","medium_airport","RAF Shawbury",52.798199,-2.66804,249,"EU","GB","GB-ENG","Shrewsbury, Shropshire","no",,,"EGOS",,"http://www.raf.mod.uk/rafshawbury/","https://en.wikipedia.org/wiki/RAF_Shawbury","Shrewsbury"
 2454,"EGOV","medium_airport","Anglesey Airport",53.2481,-4.53534,37,"EU","GB","GB-WLS","Angelsey","no","EGOV","VLY","EGOV",,"http://www.angleseyairport.com/","https://en.wikipedia.org/wiki/Anglesey_Airport","Maes Awyr Môn, RAF Valley"
 2455,"EGOW","small_airport","RAF Woodvale",53.5816,-3.05552,37,"EU","GB","GB-ENG","Southport","no",,,"EGOW",,,"https://en.wikipedia.org/wiki/RAF_Woodvale",
@@ -23674,7 +23679,7 @@
 2475,"EGSH","medium_airport","Norwich Airport",52.6758,1.28278,117,"EU","GB","GB-ENG","Norwich, Norfolk","yes","EGSH","NWI","EGSH",,"https://www.norwichairport.co.uk/","https://en.wikipedia.org/wiki/Norwich_Airport","RAF Horsham St Faith"
 307882,"EGSI","small_airport","Marshland Airfield",52.643611,0.295,-6,"EU","GB","GB-ENG","Wisbech","no",,,"EGSI",,,,
 29183,"EGSJ","small_airport","Seething Airfield",52.510997,1.416864,130,"EU","GB","GB-ENG","Mundham, Norfolk","no",,,"EGSJ",,"https://www.seething-airfield.co.uk/","https://en.wikipedia.org/wiki/Seething_Airfield","RAF Seething"
-29185,"EGSL","small_airport","Andrewsfield",51.895,0.449167,286,"EU","GB","GB-ENG","Braintree, Essex","no",,,"EGSL",,,"https://en.wikipedia.org/wiki/Andrewsfield_Airport","RAF Andrews Field"
+29185,"EGSL","small_airport","Andrewsfield Aerodrome",51.895,0.449167,286,"EU","GB","GB-ENG","Braintree, Essex","no",,,"EGSL",,,"https://en.wikipedia.org/wiki/Andrewsfield_Airport","RAF Andrews Field"
 29186,"EGSM","small_airport","Beccles Airfield",52.435299,1.61833,80,"EU","GB","GB-ENG","Beccles, Suffolk","no",,,"EGSM",,"https://becclesaerodrome.co.uk/","https://en.wikipedia.org/wiki/Beccles_Airfield","RAF Beccles"
 29188,"EGSO","small_airport","Crowfield Airfield",52.17251,1.110563,201,"EU","GB","GB-ENG","Ipswich, Suffolk","no",,,"EGSO",,"http://www.crowfieldairfield.co.uk/","https://en.wikipedia.org/wiki/Crowfield_Airfield","Stowmarket"
 29189,"EGSP","small_airport","Peterborough/Sibson Airfield",52.5571,-0.386982,130,"EU","GB","GB-ENG","Peterborough, Cambridgeshire","no",,,"EGSP",,"http://www.nsof.co.uk/","https://en.wikipedia.org/wiki/Peterborough/Sibson_Airfield","Sibson Aerodrome"
@@ -23727,7 +23732,7 @@
 2510,"EGYE","medium_airport","RAF Barkston Heath",52.960616,-0.559428,367,"EU","GB","GB-ENG","Grantham, Lincolnshire","no",,,"EGYE",,,"https://en.wikipedia.org/wiki/RAF_Barkston_Heath",
 2511,"EGYM","medium_airport","RAF Marham",52.648395,0.550692,75,"EU","GB","GB-ENG","King's Lynn, Norfolk","no","EGYM","KNF","EGYM",,"http://www.raf.mod.uk/rafmarham/","https://en.wikipedia.org/wiki/RAF_Marham","King's Lynn"
 2512,"EGYP","medium_airport","Mount Pleasant Airport",-51.82279968261719,-58.447200775146484,244,"SA","FK","FK-U-A","Mount Pleasant","yes","EGYP","MPN","EGYP",,,"https://en.wikipedia.org/wiki/RAF_Mount_Pleasant","RAF Mount Pleasant"
-314595,"EGZL","small_airport","Feshiebridge Glider Field",57.103667,-3.891667,,"EU","GB","GB-SCT",,"no",,,"EGZL",,"http://www.gliding.org/",,
+314595,"EGZL","small_airport","Feshiebridge Glider Field",57.103667,-3.891667,,"EU","GB","GB-SCT",,"no","EGZL",,,,"http://www.gliding.org/",,
 318923,"EH-0001","small_airport","Tifariti Airstrip",26.15126,-10.564245,1624,"AF","EH","EH-U-A","Tifariti","no",,,,,,,"GSSM"
 347407,"EH-0002","heliport","Aousserd Heliport",22.5636,-14.31462,1047,"AF","EH","EH-U-A","Aousserd","no",,,,,,,
 347408,"EH-0003","heliport","Tichla Heliport",21.63065,-14.89377,650,"AF","EH","EH-U-A","Tichla","no",,,,,,,
@@ -24384,7 +24389,7 @@
 320545,"ES-0074","small_airport","Aeródromo el Maíllo",40.571167,-6.2188167,3396,"EU","ES","ES-CL",,"no",,,,,,,
 320546,"ES-0075","small_airport","Aeródromo de Navianos de Valverde",41.959145,-5.835035,2395,"EU","ES","ES-CL",,"no",,,,,,,
 320565,"ES-0076","small_airport","AeroVeleta ULM",37.294754,-3.712869,2444,"EU","ES","ES-AN","Caparacena, Granada","no",,,,,"http://http://aeroveleta.es/",,
-320566,"ES-0077","closed","Aeródromo Pozuelo de Calatrava",38.905198,-3.852635,1847,"AF","ES","ES-CM","Pozuelo de Calatrava","no",,,,,,,
+320566,"ES-0077","closed","Aeródromo Pozuelo de Calatrava",38.905198,-3.852635,1847,"EU","ES","ES-CM","Pozuelo de Calatrava","no",,,,,,,
 320567,"ES-0078","small_airport","Aeródromo de Sober",42.432403,-7.488721,1903,"EU","ES","ES-GA","Sober","no",,,,,,,
 320568,"ES-0079","small_airport","Aeródromo La Balanzona",37.9617333333,-4.80705,1969,"EU","ES","ES-AN",,"no",,,,,,,
 320627,"ES-0080","small_airport","Aeródromo de Valverde del Camino",37.5056,-6.70245,810,"EU","ES","ES-AN","Valverde del Camino","no",,,,,,,
@@ -29160,7 +29165,7 @@
 2401,"GB-1212","closed","Doncaster Sheffield Airport",53.475287,-1.004267,55,"EU","GB","GB-ENG","Doncaster, South Yorkshire","no",,,,,"https://web.archive.org/web/20200809224841/https://flydsa.co.uk/","https://en.wikipedia.org/wiki/Robin_Hood_Airport_Doncaster_Sheffield","Robin Hood, RAF Finningley, EGCN, DSA"
 2405,"GB-1213","closed","RAF Lyneham",51.507485,-1.991511,513,"EU","GB","GB-ENG","Chippenham, Wiltshire","no",,,,,"http://www.raf.mod.uk/raflyneham/","https://en.wikipedia.org/wiki/RAF_Lyneham","EGDL, LYE"
 2420,"GB-1214","closed","Plymouth City Airport",50.424282,-4.109439,476,"EU","GB","GB-ENG","Plymouth, Devon","no",,,,,"http://www.plymouthairport.com/","https://en.wikipedia.org/wiki/Plymouth_City_Airport","EGHD, PLH"
-2437,"GB-1215","closed","Kent International Airport (Manston)",51.342201,1.34611,178,"EU","GB","GB-ENG","Ramsgate, Kent","no",,,,,"http://www.kentinternationalairport-manston.com/","https://en.wikipedia.org/wiki/Kent_International_Airport","RAF Manston, Ramsgate, EGUM, Manston Airport, EGMH, MSE"
+2437,"GB-1215","closed","Manston Airport",51.342201,1.34611,178,"EU","GB","GB-ENG","Ramsgate, Kent","no",,,,,"http://www.kentinternationalairport-manston.com/","https://en.wikipedia.org/wiki/Kent_International_Airport","RAF Manston, Ramsgate, EGUM, Manston Airport, EGMH, MSE"
 2438,"GB-1216","closed","Brough Airport",53.7197,-0.566333,12,"EU","GB","GB-ENG","Brough","no",,,,,,"https://en.wikipedia.org/wiki/Brough_Aerodrome","EGNB, EGNB"
 2466,"GB-1217","closed","Scatsta Airport",60.4328,-1.29611,81,"EU","GB","GB-SCT","Shetland Islands","no",,,,,,"https://en.wikipedia.org/wiki/Scatsta_Airport","EGPM, SCS"
 2470,"GB-1218","closed","RAF Kinloss",57.649399,-3.56064,22,"EU","GB","GB-SCT","Kinloss","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Kinloss","EGQK, EGQK, FSS"
@@ -32049,7 +32054,7 @@
 18203,"IS43","small_airport","Riggins Farms Airport",39.869998931884766,-88.07499694824219,699,"NA","US","US-IL","Villa Glove","no",,,"IS43","IS43",,,
 18204,"IS44","heliport","Illini Community Hospital Heliport",39.6072998046875,-90.81400299072266,740,"NA","US","US-IL","Pittsfield","no",,,"IS44","IS44",,,
 18205,"IS45","small_airport","Mast Field",39.97669982910156,-91.33399963378906,738,"NA","US","US-IL","Quincy","no",,,"IS45","IS45",,,
-18206,"IS46","heliport","Cgh Medical Center Heliport",41.80479813,-89.69730377,707,"NA","US","US-IL","Sterling","no",,,"IS46","IS46",,,
+18206,"IS46","heliport","CGH Medical Center Heliport",41.802856,-89.697154,727,"NA","US","US-IL","Sterling","no",,,"IS46","IS46",,,
 18207,"IS47","small_airport","Willis Airport",42.030601501464844,-88.70179748535156,856,"NA","US","US-IL","Sycamore","no",,,"IS47","IS47",,,
 18208,"IS48","heliport","Il State Police District 22 Heliport",37.271400451699996,-89.1647033691,335,"NA","US","US-IL","Ullin","no",,,"IS48","IS48",,,
 18209,"IS49","heliport","Illinois Valley Community Hospital Heliport",41.329200744628906,-89.12370300292969,600,"NA","US","US-IL","Peru","no",,,"IS49","IS49",,,
@@ -37824,10 +37829,10 @@
 3447,"KCGI","medium_airport","Cape Girardeau Regional Airport",37.2253,-89.570801,342,"NA","US","US-MO","Cape Girardeau","yes","KCGI","CGI","KCGI","CGI",,"https://en.wikipedia.org/wiki/Cape_Girardeau_Regional_Airport",
 19490,"KCGS","small_airport","College Park Airport",38.9805984497,-76.9223022461,48,"NA","US","US-MD","College Park","no","KCGS","CGS","KCGS","CGS","http://www.collegeparkairport.aero/","https://en.wikipedia.org/wiki/College_Park_Airport","DC3, FRZ, ADIZ"
 19491,"KCGZ","small_airport","Casa Grande Municipal Airport",32.954899,-111.766998,1464,"NA","US","US-AZ","Casa Grande","no","KCGZ","CGZ","KCGZ","CGZ","http://www.casagrandeaz.gov/web/guest/airport","https://en.wikipedia.org/wiki/Casa_Grande_Municipal_Airport",
-3448,"KCHA","medium_airport","Chattanooga Metropolitan Airport (Lovell Field)",35.035301,-85.203796,683,"NA","US","US-TN","Chattanooga","yes","KCHA","CHA","KCHA","CHA",,"https://en.wikipedia.org/wiki/Chattanooga_Metropolitan_Airport",
+3448,"KCHA","medium_airport","Chattanooga Metropolitan Airport (Lovell Field)",35.035301,-85.203796,683,"NA","US","US-TN","Chattanooga","yes","KCHA","CHA","KCHA","CHA","https://www.flycha.com/","https://en.wikipedia.org/wiki/Chattanooga_Metropolitan_Airport",
 19492,"KCHD","small_airport","Chandler Municipal Airport",33.2691,-111.810997,1243,"NA","US","US-AZ","Chandler","no",,,"KCHD","CHD","http://www.chandleraz.gov/default.aspx?pageid=318","https://en.wikipedia.org/wiki/Chandler_Municipal_Airport","P10"
 19493,"KCHK","small_airport","Chickasha Municipal Airport",35.09740067,-97.96769714,1152,"NA","US","US-OK","Chickasha","no","KCHK","CHK","KCHK","CHK","http://www.chickasha.org/airport/","https://en.wikipedia.org/wiki/Chickasha_Municipal_Airport",
-19494,"KCHN","small_airport","Wauchula Municipal Airport",27.51490020752,-81.880500793457,106,"NA","US","US-FL","Wauchula","no",,,"KCHN","CHN","http://www.cityofwauchula.com/Pages/WauchulaFL_Airport/index","https://en.wikipedia.org/wiki/Main_Page","FD06, F37"
+19494,"KCHN","small_airport","Wauchula Municipal Airport",27.5149,-81.880501,106,"NA","US","US-FL","Wauchula","no",,,"KCHN","CHN","http://www.cityofwauchula.com/Pages/WauchulaFL_Airport/index","https://en.wikipedia.org/wiki/Wauchula_Municipal_Airport","FD06, F37"
 3449,"KCHO","medium_airport","Charlottesville Albemarle Airport",38.13859939575195,-78.4529037475586,639,"NA","US","US-VA","Charlottesville","yes","KCHO","CHO","KCHO","CHO",,"https://en.wikipedia.org/wiki/Charlottesville-Albemarle_Airport",
 19495,"KCHQ","small_airport","Mississippi County Airport",36.842098,-89.359703,313,"NA","US","US-MO","Charleston","no",,,"KCHQ","CHQ",,"https://en.wikipedia.org/wiki/Mississippi_County_Airport",
 3450,"KCHS","medium_airport","Charleston International Airport",32.898602,-80.040497,46,"NA","US","US-SC","Charleston","yes","KCHS","CHS","KCHS","CHS","https://www.iflychs.com/","https://en.wikipedia.org/wiki/Charleston_International_Airport","Charleston Air Force Base"
@@ -61205,7 +61210,7 @@
 6210,"SPEQ","small_airport","Cesar Torke Podesta Airport",-17.179001,-70.930801,4480,"SA","PE","PE-MOQ","Moquegua","no",,,"SPEQ",,,"https://en.wikipedia.org/wiki/Cesar_Torque_Podesta_Airport",
 39593,"SPEZ","small_airport","Puerto Bermudez Airport",-10.299200057983398,-74.93720245361328,840,"SA","PE","PE-PAS","Oxapampa","no",,,"SPEZ",,,,
 6211,"SPGB","small_airport","Galilea Airport",-4.03188,-77.758797,597,"SA","PE","PE-AMA",,"no",,,"SPGB",,,"https://en.wikipedia.org/wiki/Galilea_Airport",
-313312,"SPGL","small_airport","Chagual Airport",-7.798106,-77.6495,3967,"SA","PE","PE-LAL",,"no",,,"SPGL",,,"https://en.wikipedia.org/wiki/Chagual_Airport",
+313312,"SPGL","small_airport","Chagual Airport",-7.797624,-77.651249,3967,"SA","PE","PE-LAL",,"no","SPGL","CGL","SPGL",,,"https://en.wikipedia.org/wiki/Chagual_Airport",
 32438,"SPGM","small_airport","Tingo Maria Airport",-9.289667,-76.005058,2146,"SA","PE","PE-HUC","Tingo Maria","no","SPGM","TGI","SPGM",,,"https://en.wikipedia.org/wiki/Tingo_Mar%C3%ADa_Airport",
 6212,"SPGP","small_airport","Güeppi­ Airport",-0.119056,-75.247902,680,"SA","PE","PE-LOR",,"no",,,"SPGP","SP01",,"https://en.wikipedia.org/wiki/G%C3%BCeppi_Airport",
 39625,"SPGS","small_airport","Lagunas Airport",-6.900000095367432,-78.63333129882812,12675,"SA","PE","PE-CAJ","Cajamarca","no",,,"SPGS",,,,
@@ -68814,6 +68819,7 @@
 596887,"US-12710","small_airport","Walker Family Farm Airport",34.719514,-98.923333,1426,"NA","US","US-OK","Mountain Park","no",,,"OK14","OK14",,,
 596889,"US-12711","small_airport","Bearhawks Den Airport",36.254401,-85.969525,612,"NA","US","US-TN","Carthage","no",,,"TN09","TN09",,,
 596893,"US-12712","small_airport","5 Springs Airport",44.774602,-108.168127,3682,"NA","US","US-WY","Lovell","no",,,"WY41","WY41",,,
+596982,"US-12713","small_airport","Grieser Airport",41.543207,-84.082748,738,"NA","US","US-OH","Wauseon","no",,,,,,,
 334282,"US-1272","small_airport","Prairie Ridge Airport",34.7925,-96.908333,1154,"NA","US","US-OK","Stratford","no",,,"9OK7","9OK7",,,
 334283,"US-1273","heliport","St Lukes Monroe Heliport",40.997189,-75.26095,699,"NA","US","US-PA","Stroudsburg","no",,,"PA13","PA13",,,
 334309,"US-1274","small_airport","Ottertail Lake Airport",45.818929,-111.695886,4155,"NA","US","US-MT","Three Forks","no",,,"MT36","MT36",,,
