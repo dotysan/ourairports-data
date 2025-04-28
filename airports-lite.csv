@@ -1582,6 +1582,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2506,EGXW,medium_airport,RAF Waddington,53.166199,-0.523811,231,EU,GB,GB-ENG,"Lincoln, Lincolnshire",no,EGXW,WTN,EGXW,,http://www.raf.mod.uk/rafwaddington,https://en.wikipedia.org/wiki/RAF_Waddington,Waddington
 2511,EGYM,medium_airport,RAF Marham,52.648395,0.550692,75,EU,GB,GB-ENG,"King's Lynn, Norfolk",no,EGYM,KNF,EGYM,,http://www.raf.mod.uk/rafmarham/,https://en.wikipedia.org/wiki/RAF_Marham,King's Lynn
 2512,EGYP,medium_airport,Mount Pleasant Airport,-51.82279968261719,-58.447200775146484,244,SA,FK,FK-U-A,Mount Pleasant,yes,EGYP,MPN,EGYP,,,https://en.wikipedia.org/wiki/RAF_Mount_Pleasant,RAF Mount Pleasant
+314595,EGZL,small_airport,Feshiebridge Glider Field,57.103667,-3.891667,,EU,GB,GB-SCT,,no,EGZL,,,,http://www.gliding.org/,,
 28120,EHAL,small_airport,Ameland Airport Ballum,53.453612,5.678396,11,EU,NL,NL-FR,Ballum,no,EHAL,,,,http://www.ehal.nl/,https://en.wikipedia.org/wiki/Ameland_Airport,Aachen
 2513,EHAM,large_airport,Amsterdam Airport Schiphol,52.308601,4.76389,-11,EU,NL,NL-NH,Amsterdam,yes,EHAM,AMS,EHAM,,https://www.schiphol.nl/,https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol,
 2514,EHBD,medium_airport,Kempen Airport Budel,51.255299,5.60139,114,EU,NL,NL-NB,Weert,no,EHBD,,,,http://www.kempenairport.nl/,https://en.wikipedia.org/wiki/Kempen_Airport,"Kempen Airport, Budel Aerodrome"
@@ -3054,7 +3055,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3447,KCGI,medium_airport,Cape Girardeau Regional Airport,37.2253,-89.570801,342,NA,US,US-MO,Cape Girardeau,yes,KCGI,CGI,KCGI,CGI,,https://en.wikipedia.org/wiki/Cape_Girardeau_Regional_Airport,
 19490,KCGS,small_airport,College Park Airport,38.9805984497,-76.9223022461,48,NA,US,US-MD,College Park,no,KCGS,CGS,KCGS,CGS,http://www.collegeparkairport.aero/,https://en.wikipedia.org/wiki/College_Park_Airport,"DC3, FRZ, ADIZ"
 19491,KCGZ,small_airport,Casa Grande Municipal Airport,32.954899,-111.766998,1464,NA,US,US-AZ,Casa Grande,no,KCGZ,CGZ,KCGZ,CGZ,http://www.casagrandeaz.gov/web/guest/airport,https://en.wikipedia.org/wiki/Casa_Grande_Municipal_Airport,
-3448,KCHA,medium_airport,Chattanooga Metropolitan Airport (Lovell Field),35.035301,-85.203796,683,NA,US,US-TN,Chattanooga,yes,KCHA,CHA,KCHA,CHA,,https://en.wikipedia.org/wiki/Chattanooga_Metropolitan_Airport,
+3448,KCHA,medium_airport,Chattanooga Metropolitan Airport (Lovell Field),35.035301,-85.203796,683,NA,US,US-TN,Chattanooga,yes,KCHA,CHA,KCHA,CHA,https://www.flycha.com/,https://en.wikipedia.org/wiki/Chattanooga_Metropolitan_Airport,
 19493,KCHK,small_airport,Chickasha Municipal Airport,35.09740067,-97.96769714,1152,NA,US,US-OK,Chickasha,no,KCHK,CHK,KCHK,CHK,http://www.chickasha.org/airport/,https://en.wikipedia.org/wiki/Chickasha_Municipal_Airport,
 3449,KCHO,medium_airport,Charlottesville Albemarle Airport,38.13859939575195,-78.4529037475586,639,NA,US,US-VA,Charlottesville,yes,KCHO,CHO,KCHO,CHO,,https://en.wikipedia.org/wiki/Charlottesville-Albemarle_Airport,
 3450,KCHS,medium_airport,Charleston International Airport,32.898602,-80.040497,46,NA,US,US-SC,Charleston,yes,KCHS,CHS,KCHS,CHS,https://www.iflychs.com/,https://en.wikipedia.org/wiki/Charleston_International_Airport,Charleston Air Force Base
@@ -7115,6 +7116,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6205,SPCL,medium_airport,Cap FAP David Abenzur Rengifo International Airport,-8.37794017791748,-74.57430267333984,513,SA,PE,PE-UCA,Pucallpa,yes,SPCL,PCL,SPCL,,,https://en.wikipedia.org/wiki/Captain_Rolden_International_Airport,
 6206,SPDR,small_airport,Trompeteros Airport,-3.80601,-75.039299,427,SA,PE,PE-LOR,Corrientes,no,SPDR,TDP,SPDR,,,https://en.wikipedia.org/wiki/Trompeteros_Airport,
 6208,SPEO,medium_airport,FAP Lieutenant Jaime Andres de Montreuil Morales Airport,-9.14961,-78.523804,69,SA,PE,PE-ANC,Chimbote,yes,SPEO,CHM,SPEO,,,https://en.wikipedia.org/wiki/Tnte._FAP_Jaime_Montreuil_Morales_Airport,
+313312,SPGL,small_airport,Chagual Airport,-7.797624,-77.651249,3967,SA,PE,PE-LAL,,no,SPGL,CGL,SPGL,,,https://en.wikipedia.org/wiki/Chagual_Airport,
 32438,SPGM,small_airport,Tingo Maria Airport,-9.289667,-76.005058,2146,SA,PE,PE-HUC,Tingo Maria,no,SPGM,TGI,SPGM,,,https://en.wikipedia.org/wiki/Tingo_Mar%C3%ADa_Airport,
 6213,SPHI,medium_airport,Air Force Captain Jose A Quinones Gonzales International Airport,-6.78748,-79.828102,97,SA,PE,PE-LAM,Chiclayo,yes,SPHI,CIX,SPHI,,,https://en.wikipedia.org/wiki/Cap._FAP_Jos%C3%A9_A._Qui%C3%B1ones_Gonzales_International_Airport,
 6214,SPHO,medium_airport,Air Force Colonel Alfredo Mendivil Duarte Airport,-13.1548,-74.204399,8917,SA,PE,PE-AYA,Ayacucho,yes,SPHO,AYP,SPHO,,,https://en.wikipedia.org/wiki/Coronel_FAP_Alfredo_Mendivil_Duarte_Airport,Coronel FAP Alfredo Mendivil Duarte
