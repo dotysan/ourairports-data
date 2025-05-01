@@ -1566,6 +1566,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2475,EGSH,medium_airport,Norwich Airport,52.6758,1.28278,117,EU,GB,GB-ENG,"Norwich, Norfolk",yes,EGSH,NWI,EGSH,,https://www.norwichairport.co.uk/,https://en.wikipedia.org/wiki/Norwich_Airport,RAF Horsham St Faith
 2476,EGSS,large_airport,London Stansted Airport,51.884998,0.235,348,EU,GB,GB-ENG,London,yes,EGSS,STN,EGSS,,http://www.stanstedairport.com/,https://en.wikipedia.org/wiki/London_Stansted_Airport,LON
 2477,EGSU,small_airport,Duxford Aerodrome,52.090801,0.131944,125,EU,GB,GB-ENG,Duxford,no,EGSU,,EGSU,,http://www.iwm.org.uk/pilots,https://en.wikipedia.org/wiki/Duxford_Aerodrome,"RAF Duxford, Duxford, IWM Duxford"
+29193,EGSV,small_airport,Old Buckenham Airfield,52.497501,1.05194,194,EU,GB,GB-ENG,"Old Buckenham, Norfolk",no,EGSV,,EGSV,,https://www.oldbuck.com,https://en.wikipedia.org/wiki/Old_Buckenham_Airfield,RAF Old Buckenham
 29196,EGTB,small_airport,Wycombe Air Park,51.61177,-0.808316,515,EU,GB,GB-ENG,"Marlow, Buckinghamshire",no,EGTB,HYC,EGTB,,,https://en.wikipedia.org/wiki/Wycombe_Air_Park,"RAF Booker, High Wycombe"
 2481,EGTE,medium_airport,Exeter International Airport,50.734261,-3.413984,102,EU,GB,GB-ENG,"Exeter, Devon",yes,EGTE,EXT,EGTE,,http://www.exeter-airport.co.uk/,https://en.wikipedia.org/wiki/Exeter_International_Airport,
 2483,EGTK,medium_airport,London Oxford Airport,51.836899,-1.32,270,EU,GB,GB-ENG,"Kidlington, Oxfordshire",no,EGTK,OXF,EGTK,,http://www.oxfordairport.co.uk/,https://en.wikipedia.org/wiki/Oxford_Airport,RAF Kidlington
