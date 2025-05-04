@@ -7598,6 +7598,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 42918,ULAS,small_airport,Solovki Airport,65.029999,35.733334,60,EU,RU,RU-ARK,Solovetsky Islands,yes,,CSH,ULAS,ULAS,,https://en.wikipedia.org/wiki/Solovki_Airport,"Аэропорт Соловки, УЛАС"
 30643,ULDD,medium_airport,Amderma Airport,69.76329803466797,61.556400299072266,13,AS,RU,RU-NEN,Amderma,yes,ULDD,AMV,ULDD,,,https://en.wikipedia.org/wiki/Amderma_Airport,
 43672,ULDW,small_airport,Varandey Airport,68.848503,58.201401,23,AS,RU,RU-NEN,Varandey,no,ULDW,VRI,ULDW,,,https://en.wikipedia.org/wiki/Varandey_Airport,"УЛДВ, Varandei Airport, Аэропорт Варандей"
+44853,ULER,small_airport,Kharuta Airport,66.846122,59.539305,165,AS,RU,RU-NEN,Kharuta,no,ULER,,ULER,,,https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D1%83%D1%82%D0%B0_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82),"УЛЕР, Аэропорт Харута"
 31780,ULKK,medium_airport,Kotlas Airport,61.235801696777344,46.6974983215332,184,EU,RU,RU-ARK,Kotlas,yes,ULKK,KSZ,ULKK,,,https://en.wikipedia.org/wiki/Kotlas_Airport,Аэропорт Котлас
 6489,ULLI,large_airport,Pulkovo Airport,59.800301,30.262501,78,EU,RU,RU-SPE,St. Petersburg,yes,ULLI,LED,ULLI,,https://pulkovoairport.ru/,https://en.wikipedia.org/wiki/Pulkovo_Airport,"Аэропо́рт Пу́лково, Leningrad, Shosseynaya Airport, Saint Petersburg, Petrograd"
 6490,ULMM,medium_airport,Murmansk Airport,68.78170013427734,32.75080108642578,266,EU,RU,RU-MUR,Murmansk,yes,ULMM,MMK,ULMM,,http://www.airport-murmansk.ru/,https://en.wikipedia.org/wiki/Murmansk_Airport,
