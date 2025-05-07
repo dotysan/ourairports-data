@@ -1577,6 +1577,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2492,EGVA,medium_airport,RAF Fairford,51.683568,-1.789172,286,EU,GB,GB-ENG,"Fairford, Gloucestershire",no,EGVA,FFD,EGVA,,,https://en.wikipedia.org/wiki/RAF_Fairford,
 2493,EGVN,medium_airport,RAF Brize Norton,51.75,-1.58362,288,EU,GB,GB-ENG,"Carterton, Oxfordshire",no,EGVN,BZZ,EGVN,,http://www.raf.mod.uk/rafbrizenorton/passengers/,https://en.wikipedia.org/wiki/RAF_Brize_Norton,Royal Air Force
 2494,EGVO,medium_airport,RAF Odiham,51.2341,-0.942825,405,EU,GB,GB-ENG,"Hook, Hampshire",no,EGVO,ODH,EGVO,,,https://en.wikipedia.org/wiki/RAF_Odiham,Odiham
+29207,EGWN,small_airport,RAF Halton,51.790699,-0.737972,370,EU,GB,GB-ENG,"Halton, Buckinghamshire",no,EGWN,,EGWN,EGWN,https://www.raf.mod.uk/our-organisation/stations/raf-halton/,https://en.wikipedia.org/wiki/RAF_Halton,
 2496,EGWU,medium_airport,RAF Northolt,51.553001,-0.418167,124,EU,GB,GB-ENG,London,no,EGWU,NHT,EGWU,,https://www.raf.mod.uk/our-organisation/stations/raf-northolt/,https://en.wikipedia.org/wiki/RAF_Northolt,
 2497,EGXC,medium_airport,RAF Coningsby,53.092999,-0.166014,25,EU,GB,GB-ENG,"Lincoln, Lincolnshire",no,EGXC,QCY,EGXC,,http://www.raf.mod.uk/rafconingsby,https://en.wikipedia.org/wiki/RAF_Coningsby,Coningsby
 2501,EGXH,medium_airport,RAF Honington,52.342602,0.772939,174,EU,GB,GB-ENG,"Bury Saint Edmunds, Suffolk",no,EGXH,BEQ,EGXH,,,https://en.wikipedia.org/wiki/RAF_Honington,
@@ -2728,6 +2729,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 313294,IOK,small_airport,Iokea Airport,-8.401,146.277,39,OC,PG,PG-GPK,Iokea,no,,IOK,,IOK,,,
 313299,IOP,small_airport,Ioma Airport,-8.3614,147.84,95,OC,PG,PG-NPP,Ioma,no,,IOP,,IOMA,,,
 317284,IRU,seaplane_base,Iranamadu Seaplane Base,9.299746,80.448627,102,AS,LK,LK-4,Iranamadu,no,,IRU,,,,,
+298700,IT-0010,small_airport,Calatabiano (Aviosuperficie Angelo D'Arrigo),37.799561,15.22775,197,EU,IT,IT-82,Calatabiano (CT),no,LICN,,LICN,,http://www.triavio.eu,,"Calatabiano, Etnavolo, Angelo D'Arrigo"
 308235,ITK,small_airport,Itokama Airport,-9.201527,148.264261,2563,OC,PG,PG-NPP,Itokama,no,,ITK,AYIK,ITK,,,
 316549,IVI,small_airport,Viveros Island Airport,8.4693,-79.0016,100,NA,PA,PA-8,Isla Viveros,no,,IVI,,,,,
 319816,JIO,small_airport,Jos Orno Imsula Airport,-8.140402,127.908758,43,AS,ID,ID-MA,Tiakur,yes,,JIO,WAPM,,,https://en.wikipedia.org/wiki/Jos_Orno_Imsula_Airport,"Moa Island, Leti Islands"
@@ -7907,7 +7909,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26540,VIAR,medium_airport,Sri Guru Ram Dass Jee International Airport,31.7096,74.797302,756,AS,IN,IN-PB,Amritsar,yes,VIAR,ATQ,VIAR,,http://www.aai.aero/allAirports/amritsar_generalinfo.jsp,https://en.wikipedia.org/wiki/Sri_Guru_Ram_Dass_Jee_International_Airport,Amritsar Air Force Station
 26542,VIAX,small_airport,Adampur Airport,31.4338,75.758797,775,AS,IN,IN-PB,Adampur,yes,VIAX,AIP,VIAX,,,https://en.wikipedia.org/wiki/Adampur_Air_Force_Base,Adampur Air Force Station
 26543,VIBK,medium_airport,Nal Airport,28.070601,73.207199,750,AS,IN,IN-RJ,Bikaner,no,VIBK,BKB,VIBK,,,https://en.wikipedia.org/wiki/Bikaner_Airport,Nal Air Force Station
-26546,VIBR,medium_airport,Kullu Manali Airport,31.876699,77.154404,3573,AS,IN,IN-HP,Bhuntar,no,VIBR,KUU,VIBR,,,https://en.wikipedia.org/wiki/Kullu%E2%80%93Manali_Airport,
+26546,VIBR,medium_airport,Kullu Manali Airport,31.876699,77.154404,3573,AS,IN,IN-HP,Bhuntar,yes,VIBR,KUU,VIBR,,,https://en.wikipedia.org/wiki/Kullu%E2%80%93Manali_Airport,
 26547,VIBT,medium_airport,Bhatinda Air Force Station,30.2701,74.755798,662,AS,IN,IN-PB,,no,VIBT,BUP,VIBT,,,https://en.wikipedia.org/wiki/Bathinda_Airport,
 26549,VIBY,medium_airport,Bareilly Air Force Station,28.4221,79.450798,580,AS,IN,IN-UP,Bareilly,yes,VIBY,BEK,VIBY,,,https://en.wikipedia.org/wiki/Trishul_Air-base,Trishul Air Base
 26550,VICG,medium_airport,Chandigarh International Airport,30.6735,76.788498,1012,AS,IN,IN-CH,Chandigarh,yes,VICG,IXC,VICG,,,https://en.wikipedia.org/wiki/Chandigarh_Airport,Chandigarh Air Force Station
