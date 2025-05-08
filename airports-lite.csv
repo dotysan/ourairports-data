@@ -2790,6 +2790,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 19060,K7G9,small_airport,Canton Municipal Airport,43.308842,-96.571225,1290,NA,US,US-SD,Canton,no,,CTK,K7G9,7G9,https://cantonsd.org/our-community/cornerstones/airport/,,SD10
 19083,K7V2,small_airport,North Fork Valley Airport,38.8316993713,-107.646003723,5798,NA,US,US-CO,Paonia,no,,WPO,K7V2,7V2,,,
 19094,K80F,small_airport,Antlers Municipal Airport,34.1926002502,-95.6499023438,575,NA,US,US-OK,Antlers,no,,ATE,80F,80F,,https://en.wikipedia.org/wiki/Antlers_Municipal_Airport,
+19114,K8A0,small_airport,Albertville Regional Airport/Thomas J Brumlik Field,34.229099,-86.255798,1032,NA,US,US-AL,Albertville,no,KBFZ,,KBFZ,BFZ,http://albertvilleaviation.biz/,https://en.wikipedia.org/wiki/Albertville_Regional_Airport,8A0
 19204,K9U3,small_airport,Austin Airport,39.467708,-117.197576,5730,NA,US,US-NV,Austin,no,,ASQ,KTMT,TMT,,https://en.wikipedia.org/wiki/Austin_Airport_(Nevada),9U3
 19224,KAAF,small_airport,Apalachicola Regional Airport,29.727501,-85.027496,20,NA,US,US-FL,Apalachicola,no,KAAF,AAF,KAAF,AAF,,https://en.wikipedia.org/wiki/Apalachicola_Municipal_Airport,"AQQ, KAQQ"
 3356,KABE,medium_airport,Lehigh Valley International Airport,40.651773,-75.442797,393,NA,US,US-PA,Allentown,yes,KABE,ABE,KABE,ABE,,https://en.wikipedia.org/wiki/Lehigh_Valley_International_Airport,
@@ -4324,6 +4325,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 21250,KU07,small_airport,Bullfrog Basin Airport,37.547827,-110.712898,4167,NA,US,US-UT,Bullfrog,no,,BFG,KU07,U07,,https://en.wikipedia.org/wiki/Bullfrog_Basin_Airport,
 21256,KU14,small_airport,J. Randy McKnight Nephi Municipal Airport,39.73681,-111.870063,5022,NA,US,US-UT,Nephi,no,,NPH,KU14,U14,http://nephi.utah.gov/airport/,,
 21259,KU34,small_airport,Green River Municipal Airport,38.9613990784,-110.226997375,4225,NA,US,US-UT,Green River,no,,RVR,KU34,U34,,https://en.wikipedia.org/wiki/Green_River_Municipal_Airport,
+21261,KU42,medium_airport,South Valley Regional Airport,40.619499,-111.992996,4607,NA,US,US-UT,Salt Lake City,no,KSVR,,KSVR,SVR,https://slcairport.com/about-the-airport/general-aviation/south-valley-regional-airport/,https://en.wikipedia.org/wiki/Salt_Lake_City_Municipal_2_Airport,U42
 21264,KU55,small_airport,Panguitch Municipal Airport,37.84519958,-112.3919983,6763,NA,US,US-UT,Panguitch,no,,PNU,U55,U55,http://panguitch.com/business-directory/1300/panguitch-municipal-airport/,https://en.wikipedia.org/wiki/Panguitch_Municipal_Airport,
 21271,KU70,small_airport,Cascade Airport,44.4938011169,-116.01599884,4742,NA,US,US-ID,Cascade,no,,ICS,KU70,U70,,,
 21282,KUBS,small_airport,Columbus Lowndes County Airport,33.4654006958,-88.3803024292,188,NA,US,US-MS,Columbus,no,KUBS,UBS,KUBS,UBS,,https://en.wikipedia.org/wiki/Columbus-Lowndes_County_Airport,
