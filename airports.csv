@@ -5899,7 +5899,7 @@
 328500,"5OK0","small_airport","Kits Airport",35.54135,-98.59455,1492,"NA","US","US-OK","Hydro","no",,,"5OK0","5OK0",,,
 12598,"5OK1","heliport","Claremore Regional Hospital Heliport",36.323322,-95.605125,620,"NA","US","US-OK","Claremore","no",,,"5OK1","5OK1",,,
 45715,"5OK2","small_airport","Christopher M. Rippee Memorial Airport",34.776667,-96.245278,820,"NA","US","US-OK","Non","no",,,"5OK2","5OK2",,,
-12599,"5OK3","small_airport","Stearmans Roost Airport",36.488399505615234,-95.1438980102539,702,"NA","US","US-OK","Vinita","no",,,"5OK3","5OK3",,,
+12599,"5OK3","small_airport","Stearmans Roost Airport",36.488438,-95.140275,702,"NA","US","US-OK","Vinita","no",,,"KOK1","OK1",,,"5OK3"
 12600,"5OK4","small_airport","Pacer Field",35.113112,-97.450647,1140,"NA","US","US-OK","Washington","no",,,"5OK4","5OK4",,,
 12601,"5OK5","heliport","Integris Clinton Regional Hospital Heliport",35.5250015259,-98.99199676510001,1615,"NA","US","US-OK","Clinton","no",,,"5OK5","5OK5",,,
 344220,"5OL5","small_airport","Morning Yodle Airport",35.001975,-97.189844,1128,"NA","US","US-OK","Lexington","no",,,"5OL5","5OL5",,,
@@ -16292,7 +16292,7 @@
 35396,"CA-0013","closed","RCAF Pennfield Ridge",45.1265983581543,-66.69300079345703,,"NA","CA","CA-NB","Pennfield","no",,,,,,"https://en.wikipedia.org/wiki/RCAF_Station_Pennfield_Ridge",
 35397,"CA-0014","closed","RCAF Station Dafoe",51.932098388671875,-104.56700134277344,,"NA","CA","CA-SK","Dafoe","no",,,,,,"https://en.wikipedia.org/wiki/RCAF_Station_Dafoe",
 35358,"CA-0015","small_airport","Maxville Airport",45.296501,-74.8536,,"NA","CA","CA-ON","Maxville","no",,,"CMX2","CMX2",,"https://en.wikipedia.org/wiki/Maxville_Aerodrome",
-39086,"CA-0016","closed","Dog Creek Airport",51.626598,-122.255997,,"NA","CA","CA-BC","Dog Creek","no",,,,,,,"AH2, CAH2"
+39086,"CA-0016","closed","Dog Creek Airport",51.626598,-122.255997,3250,"NA","CA","CA-BC","Dog Creek","no",,,,,"https://rcaf.info/rcaf-stations/british-columbia-rcaf-stations/rcaf-station-dog-creek/","https://en.wikipedia.org/wiki/Dog_Creek,_British_Columbia","AH2, RCAF Dog Creek"
 39663,"CA-0017","closed","Agnes Lake Airport",55.8086710079,-112.508411407,,"NA","CA","CA-AB","Agnes Lake","no",,,,,,,
 39664,"CA-0018","closed","Aishihik Airport",61.6505264292,-137.488231659,,"NA","CA","CA-YT","Aishihik","no",,,,,,,
 39665,"CA-0019","closed","Albert Bay Airport",69.63333129882812,-103.61666870117188,,"NA","CA","CA-NU",,"no",,,,,,,
@@ -16823,7 +16823,7 @@
 314218,"CA-0544","closed","Morfee Lakes Water Aerodrome",55.35,-123.08,2365,"NA","CA","CA-BC","Mackenzie","no",,,,,,,"AZ7, AZ7"
 314221,"CA-0545","closed","Takla Narrows Water Aerodrome",55.1635,-125.7133,2257,"NA","CA","CA-BC","Takla Narrows","no",,,,,,,"AP9, AP9"
 314224,"CA-0546","closed","Dease Lake Seaplane Base",58.459,-130.038,2470,"NA","CA","CA-BC","Dease Lake","no",,,,,,,"AP6, AP6"
-314228,"CA-0547","closed","Invermere Water Aerodrome",50.49,-116.01,2618,"NA","CA","CA-BC","Invermere","no",,,,,,,"AF7, AF7"
+314228,"CA-0547","closed","Invermere Water Aerodrome",50.49,-116.01,2618,"NA","CA","CA-BC","Invermere","no",,,,,,,"AF7"
 314912,"CA-0548","closed","North Cariboo Air Park",54.008098602295,-123.02300262451,2500,"NA","CA","CA-BC","Prince George","no",,,,,,"https://en.wikipedia.org/wiki/Prince_George_(North_Cariboo_Air_Park)_Airport","BW8, CBW8"
 315415,"CA-0549","small_airport","Nicholson Island Private Airstrip",43.9163977,-77.52523636,,"NA","CA","CA-ON",,"no",,,,,,,
 315836,"CA-0550","seaplane_base","Cree Lake (Crystal Lodge) Water Aerodrome",57.4616,-106.7528,1593,"NA","CA","CA-SK","Crystal Lodge","no",,,"CRE4","CRE4","http://www.creelake.com/map-and-flight.html","https://en.wikipedia.org/wiki/Cree_Lake_(Crystal_Lodge)_Water_Aerodrome","RE4"
@@ -17477,6 +17477,7 @@
 596971,"CA-1198","closed","Patterson's Corners Private Strip",44.923973,-75.658797,,"NA","CA","CA-ON","Oxford Mills","no",,,,,,,
 596972,"CA-1199","closed","Ferris Farm Private Airstrip",45.432943,-75.896387,400,"NA","CA","CA-QC","Gatineau","no",,,,,,,
 596984,"CA-1200","closed","RCAF Station St. Eugene",45.487455,-74.472027,185,"NA","CA","CA-ON","Saint Eugene","no",,,,,,,"RCAF, BCATP"
+597230,"CA-1201","small_airport","Platinum Park Airport",44.196333,-79.763,985,"NA","CA","CA-ON","Cookstown","no",,,"CRJ2","CRJ2",,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -17601,6 +17602,7 @@
 28346,"CAH2","seaplane_base","Ocean Falls Seaplane Base",52.3666992188,-127.717002869,0,"NA","CA","CA-BC","Ocean Falls","no",,"ZOF","CAH2","CAH2",,"https://en.wikipedia.org/wiki/Ocean_Falls_Water_Aerodrome",
 620,"CAH3","small_airport","Courtenay Airpark",49.679237,-124.98064,26,"NA","CA","CA-BC","Courtenay","no",,"YCA","CAH3","CAH3",,"https://en.wikipedia.org/wiki/Courtenay_Airpark","AH3"
 621,"CAH4","small_airport","Valemount Airport",52.852736,-119.336266,2615,"NA","CA","CA-BC","Valemount","no",,,"CAH4","CAH4",,"https://en.wikipedia.org/wiki/Valemount_Airport","AH4"
+597255,"CAH5","heliport","Ascent Helicopters Heliport",49.311667,-124.370333,261,"NA","CA","CA-BC","Parksville","no",,,"CAH5","CAH5","https://www.ascenthelicopters.ca/#home",,
 28268,"CAH7","seaplane_base","Kamloops Water Aerodrome",50.698499,-120.431862,1129,"NA","CA","CA-BC","Kamloops","no",,,"CAH7","CAH7",,"https://en.wikipedia.org/wiki/Kamloops_Water_Aerodrome","AH7"
 28437,"CAH9","seaplane_base","Telegraph Creek Seaplane Base",57.9071,-131.18946,1129,"NA","CA","CA-BC","Telegraph Creek","no",,,"CAH9","CAH9",,"https://en.wikipedia.org/wiki/Telegraph_Creek_Water_Aerodrome","AH9"
 622,"CAJ2","small_airport","Wiley Airport",66.49109649658203,-136.572998046875,2365,"NA","CA","CA-YT","Eagle Plains","no",,,"CAJ2","CAJ2",,"https://en.wikipedia.org/wiki/Wiley_Aerodrome","AJ2"
@@ -19539,7 +19541,7 @@
 1319,"CNL8","small_airport","Wyevale (Boker Field) Airport",44.655253,-79.879746,705,"NA","CA","CA-ON","Tiny","no",,,"CNL8","CNL8",,"https://en.wikipedia.org/wiki/Wyevale_(Boker_Field)_Airport","Boker Farm Airfield"
 1320,"CNL9","small_airport","Nueltin Lake Airport",59.708099365234375,-100.12699890136719,971,"NA","CA","CA-MB","Nueltin Lake","no",,,"CNL9","CNL9",,"https://en.wikipedia.org/wiki/Nueltin_Lake_Airport","NL9"
 1321,"CNM2","small_airport","Melbourne Airport",42.82419967651367,-81.54859924316406,735,"NA","CA","CA-ON","Melbourne","no",,,"CNM2","CNM2",,"https://en.wikipedia.org/wiki/Melbourne_Airport_(Ontario)","NM2"
-1322,"CNM3","heliport","Sturgeon Falls (West Nipissing General Hospital) Heliport",46.3733236554,-79.91627812390001,680,"NA","CA","CA-ON","Sturgeon Falls","no",,,"CNM3","CNM3",,,"NM3"
+1322,"CNM3","heliport","West Nipissing General Hospital Heliport",46.3734,-79.916207,680,"NA","CA","CA-ON","Sturgeon Falls","no",,,"CNM3","CNM3",,"https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#245",
 1324,"CNM5","small_airport","Kingfisher Lake Airport",53.01250076293945,-89.85530090332031,866,"NA","CA","CA-ON","Kingfisher Lake","yes",,"KIF","CNM5","CNM5",,"https://en.wikipedia.org/wiki/Kingfisher_Lake_Airport","NM5"
 320433,"CNM6","heliport","Naramata Heliport",49.6029,-119.578501,1856,"NA","CA","CA-BC","Naramata","no",,,"CNM6","CNM6",,,
 28362,"CNM7","seaplane_base","Pays Plat Seaplane Base",48.88330078125,-87.58329772949219,601,"NA","CA","CA-ON",,"no",,,"CNM7","CNM7",,,
@@ -19948,7 +19950,7 @@
 576357,"CRH3","seaplane_base","Rifflin' Hitch Water Aerodrome",53.42,-57.694,151,"NA","CA","CA-NL","Eagle River","no",,,"CRH3","CRH3",,,
 1489,"CRH5","heliport","Rimbey (Hospital & Care Centre) Heliport",52.6406155976,-114.247781038,3067,"NA","CA","CA-AB","Rimbey","no",,,"CRH5","CRH5",,,"RH5"
 355458,"CRHA","small_airport","Streatham Reef Hueston Airfield",53.822569,-126.172957,,"NA","CA","CA-BC","Streatham","yes",,,"CRHA","CRHA",,,
-44372,"CRJ2","small_airport","Stoney Point (Trepanier)",42.288887,-82.598335,630,"NA","CA","CA-ON",,"no",,,"CRJ2",,,"https://en.wikipedia.org/wiki/Stoney_Point_(Trepanier)_Aerodrome",
+44372,"CRJ2","closed","Trepanier Aerodrome",42.288887,-82.598335,630,"NA","CA","CA-ON","Stoney Point","no",,,,,,"https://en.wikipedia.org/wiki/Stoney_Point_(Trepanier)_Aerodrome","CRJ2"
 320351,"CRK2","small_airport","Millet/Creekview Airport",53.0778,-113.506601,2535,"NA","CA","CA-AB","Millet","no",,,"CRK2","CRK2",,"https://en.wikipedia.org/wiki/Millet/Creekview_Aerodrome",
 562336,"CRK3","seaplane_base","Pourvoirie Cecaurel Water Aerodrome",46.6216,-75.066,876,"NA","CA","CA-QC","Kiamka Reservoir","no",,,"CRK3","CRK3",,,
 1490,"CRL2","small_airport","Westport / Rideau Lakes Airport",44.666665176600006,-76.3966673613,500,"NA","CA","CA-ON","Westport","no",,,"CRL2","CRL2",,"https://en.wikipedia.org/wiki/Westport/Rideau_Lakes_Airport","RL2"
@@ -37348,7 +37350,7 @@
 19109,"K87Y","small_airport","Blackhawk Airfield",43.1049,-89.185501,920,"NA","US","US-WI","Madison","no",,,"K87Y","87Y",,"https://en.wikipedia.org/wiki/Blackhawk_Airfield",
 19111,"K88M","small_airport","Eureka Airport",48.968332,-115.07947,2668,"NA","US","US-MT","Eureka","no",,,,"88M",,,
 19112,"K88R","small_airport","Austin Air Ranch Airport",30.47363,-98.121497,830,"NA","US","US-TX","Spicewood","no",,,,"88R",,,"Spicewood"
-19114,"K8A0","small_airport","Albertville Regional Airport/Thomas J Brumlik Field",34.22909927,-86.25579834,1032,"NA","US","US-AL","Albertville","no",,,"8A0","8A0","http://albertvilleaviation.biz/","https://en.wikipedia.org/wiki/Albertville_Regional_Airport",
+19114,"K8A0","small_airport","Albertville Regional Airport/Thomas J Brumlik Field",34.229099,-86.255798,1032,"NA","US","US-AL","Albertville","no","KBFZ",,"KBFZ","BFZ","http://albertvilleaviation.biz/","https://en.wikipedia.org/wiki/Albertville_Regional_Airport","8A0"
 19115,"K8A1","small_airport","Guntersville Municipal Joe Starnes Field",34.399399,-86.270203,615,"NA","US","US-AL","Guntersville","no",,,"K8A1","8A1",,"https://en.wikipedia.org/wiki/Guntersville_Municipal_Airport",
 19116,"K8A3","small_airport","Livingston Municipal Airport",36.412102,-85.3116,1372,"NA","US","US-TN","Livingston","no",,,"K8A3","8A3",,"https://en.wikipedia.org/wiki/Livingston_Municipal_Airport_(Tennessee)",
 19118,"K8B0","small_airport","Steven A. Bean Municipal Airport",44.991902,-70.664597,1825,"NA","US","US-ME","Rangeley","no",,,,"8B0",,"https://en.wikipedia.org/wiki/Steven_A._Bean_Municipal_Airport",
@@ -41664,7 +41666,7 @@
 21258,"KU30","small_airport","Temple Bar Airport",36.02050018310547,-114.33499908447266,1549,"NA","US","US-AZ","Temple Bar","no",,,"KU30","U30",,"https://en.wikipedia.org/wiki/Temple_Bar_Airport",
 21259,"KU34","small_airport","Green River Municipal Airport",38.9613990784,-110.226997375,4225,"NA","US","US-UT","Green River","no",,"RVR","KU34","U34",,"https://en.wikipedia.org/wiki/Green_River_Municipal_Airport",
 21260,"KU36","small_airport","Aberdeen Municipal Airport",42.921001,-112.880997,4470,"NA","US","US-ID","Aberdeen","no",,,,"U36",,"https://en.wikipedia.org/wiki/Aberdeen_Municipal_Airport",
-21261,"KU42","medium_airport","South Valley Regional Airport",40.619499,-111.992996,4607,"NA","US","US-UT","Salt Lake City","no",,,,"U42",,"https://en.wikipedia.org/wiki/Salt_Lake_City_Municipal_2_Airport",
+21261,"KU42","medium_airport","South Valley Regional Airport",40.619499,-111.992996,4607,"NA","US","US-UT","Salt Lake City","no","KSVR",,"KSVR","SVR","https://slcairport.com/about-the-airport/general-aviation/south-valley-regional-airport/","https://en.wikipedia.org/wiki/Salt_Lake_City_Municipal_2_Airport","U42"
 21263,"KU52","small_airport","Beaver Municipal Airport",38.230701,-112.675003,5863,"NA","US","US-UT","Beaver","no",,,"KU52","U52",,"https://en.wikipedia.org/wiki/Beaver_Municipal_Airport_(Utah)",
 21264,"KU55","small_airport","Panguitch Municipal Airport",37.84519958,-112.3919983,6763,"NA","US","US-UT","Panguitch","no",,"PNU","U55","U55","http://panguitch.com/business-directory/1300/panguitch-municipal-airport/","https://en.wikipedia.org/wiki/Panguitch_Municipal_Airport",
 21265,"KU56","small_airport","Rigby Jefferson County Airport",43.642039,-111.929526,4845,"NA","US","US-ID","Rigby","no",,,"KU56","U56",,,
