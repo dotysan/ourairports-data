@@ -30931,7 +30931,6 @@
 595431,"ID-0361","small_airport","Menou Airstrip",-3.86487,135.51802,4741,"OC","ID","ID-PT","Menou","no",,,,,,,"Meno, Minou"
 595432,"ID-0362","small_airport","Apogomakida Airstrip",-4.00453,135.49515,5988,"OC","ID","ID-PT","Apogomakida","no",,,,,,,
 595433,"ID-0363","closed","Sagan Airfield",-2.78618,134.52473,69,"AS","ID","ID-PB","Wasior","no",,,,,,,
-597201,"ID-0364","medium_airport","ares188",-0.000002,-0.000001,,"AS","ID","ID-JA",,"no",,,,,"https://ares188real.com",,
 41361,"ID-AAS","small_airport","Apalapsili Airport",-3.882495,139.310932,3100,"AS","ID","ID-PP","Apalapsili","no",,"AAS","WAVR","APA",,"https://en.wikipedia.org/wiki/Apalapsili_Airport",
 41362,"ID-AGD","small_airport","Anggi Airport",-1.3858,133.8737,6644,"AS","ID","ID-PB","Anggi-Papua Island","no",,"AGD","WAUA",,,"https://en.wikipedia.org/wiki/Anggi_Airport","WASG"
 43978,"ID-AHI","small_airport","Mina Wanam Airport",-7.540726,139.110916,22,"AS","ID","ID-PS","Wanam","no",,,,,,,"WT82"
@@ -32108,7 +32107,7 @@
 298693,"IT-0007","closed","Campo di Volo Assoro",37.56181,14.496374,237,"EU","IT","IT-82","Assoro","no",,,,,,,
 298696,"IT-0008","small_airport","Campo di Volo AvioClub Centro Sicilia",37.450962,13.923111,,"EU","IT","IT-82","Serra di Falco (CL)","no",,,,"CLSDF",,,"Walter,Serradifalco"
 298698,"IT-0009","small_airport","Avioclub Ereo Airfield",37.19222,14.613297,1483,"EU","IT","IT-82","Grammichele (CT)","no",,,,"CT07",,,"CTGMM, Campo di Volo Avioclub Ereo"
-298700,"IT-0010","small_airport","Calatabiano (Aviosuperficie Angelo D'Arrigo)",37.799561,15.22775,197,"EU","IT","IT-82","Calatabiano (CT)","no","LICN",,"LICN",,"http://www.triavio.eu",,"Calatabiano, Etnavolo, Angelo D'Arrigo"
+298700,"IT-0010","small_airport","Calatabiano (Aviosuperficie Angelo D'Arrigo)",37.799561,15.22775,197,"EU","IT","IT-82","Calatabiano (CT)","no","LICN",,"LICN","CTFFD","http://www.triavio.eu",,"CT05, Etnavolo, Fiumefreddo di Sicilia"
 298702,"IT-0011","closed","Aviosuperficie Avioclub Paternò",37.553356,14.884435,377,"EU","IT","IT-82","Paternò","no",,,,,,,"Paterno'"
 298704,"IT-0012","small_airport","Aviosuperficie Rinaura",37.028647,15.243509,40,"EU","IT","IT-82","Rinaura (SR)","no",,,,"SRSIR","http://www.avioclubsiracusa.it",,"Avio Club Siracusa.SIR0"
 298706,"IT-0013","small_airport","Aviosuperficie Minotaurus e Medusa",38.049105,14.541306,13,"EU","IT","IT-82","Caronia","no",,,,"MECAR",,"http://it.wikipedia.org/wiki/Aviosuperficie_Minotaurus_e_Medusa",
@@ -42371,7 +42370,7 @@
 43233,"LELH","small_airport","Alhama De Murcia Airfield",37.748901,-1.30216,669,"EU","ES","ES-MC","Cánovas","no",,,"LELH",,,,
 29412,"LELL","small_airport","Sabadell Airfield",41.520901,2.10508,485,"EU","ES","ES-CT","Sabadell","no",,,"LELL",,"https://www.aena.es/en/sabadell.html","https://en.wikipedia.org/wiki/Sabadell_Airport","QSA"
 43234,"LELM","small_airport","Almansa Airfield",38.895,-1.11318,2248,"EU","ES","ES-CM","Almansa","no",,,"LELM",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Almansa",
-4018,"LELN","medium_airport","León Airport",42.589001,-5.65556,3006,"EU","ES","ES-CL","León","yes","LELN","LEN","LELN",,"https://www.aena.es/en/leon.html","https://en.wikipedia.org/wiki/Le%C3%B3n_Airport",
+4018,"LELN","medium_airport","León Int'l Airport",42.589001,-5.65556,3006,"EU","ES","ES-CL","La Virgen Del Camino","yes","LELN","LEN","LELN",,"https://www.aena.es/en/leon.html","https://en.wikipedia.org/wiki/Le%C3%B3n_Airport",
 30083,"LELO","medium_airport","Logroño-Agoncillo Airport",42.460953,-2.322235,1161,"EU","ES","ES-RI","Logroño","no",,"RJL","LERJ",,"https://www.aena.es/en/logrono-agoncillo.html","https://en.wikipedia.org/wiki/Logro%C3%B1o%E2%80%93Agoncillo_Airport","LELO"
 43279,"LELT","small_airport","Lillo Airfield",39.7169,-3.32056,2272,"EU","ES","ES-CM","Lillo","no",,,"LELT",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Lillo",
 549915,"LELV","heliport","Infanta Leonor University Hospital Heliport",40.386565,-3.615839,2145,"EU","ES","ES-MD","Madrid","no",,,"LELV",,,"https://en.wikipedia.org/wiki/Hospital_Universitario_Infanta_Leonor",
@@ -43085,7 +43084,7 @@
 4335,"LILE","medium_airport","Biella-Cerrione Airfield",45.4953,8.10278,920,"EU","IT","IT-21","Cerrione (BI)","no",,,"LILE","BI03","http://www.aeroportobiella.it/","https://en.wikipedia.org/wiki/Biella-Cerrione_Airfield",
 29427,"LILG","small_airport","Vergiate Airfield",45.712633,8.700714,863,"EU","IT","IT-25","Vergiate (VA)","no",,,"LILG","VA03",,"https://it.wikipedia.org/wiki/Aeroporto_di_Vergiate",
 4336,"LILH","small_airport","Voghera-Rivanazzano Airfield",44.952,9.01653,423,"EU","IT","IT-25","Voghera (PV)","no",,,"LILH","PV06","http://www.aeroportovoghera.it/presentazione.html","https://it.wikipedia.org/wiki/Aeroporto_di_Voghera-Rivanazzano",
-29428,"LILI","medium_airport","Vercelli Airfield",45.309935,8.417931,417,"EU","IT","IT-21","Vercelli (VC)","no",,,"LILI","VC04","http://www.aeroclubvercelli.it/","https://it.wikipedia.org/wiki/Aeroporto_di_Vercelli","Carlo del Prete"
+29428,"LILI","medium_airport","Vercelli Airfield",45.309935,8.417931,417,"EU","IT","IT-21","Vercelli (VC)","no","LILI",,"LILI","VC04","http://www.aeroclubvercelli.it/","https://it.wikipedia.org/wiki/Aeroporto_di_Vercelli","Carlo del Prete, Aeroclub Marilla Rigazio"
 29429,"LILM","small_airport","Casale Monferrato Airfield",45.110039,8.456898,377,"EU","IT","IT-21","Casale Monferrato (AL)","no",,,"LILM","AL04","http://www.aeroclubcasale.it/","https://it.wikipedia.org/wiki/Aeroporto_di_Casale_Monferrato",
 4337,"LILN","medium_airport","Varese-Venegono Airport",45.742199,8.888233,1100,"EU","IT","IT-25","Venegono Superiore (VA)","no","LILN",,"LILN","VA02","http://www.aeroclubvarese.it/","https://en.wikipedia.org/wiki/Varese-Venegono_Airport","QVA"
 30429,"LILO","small_airport","Caiolo Sondrio Airfield",46.154448,9.79507,899,"EU","IT","IT-25","Caiolo (SO)","no",,,"LILO","SO01",,"https://it.wikipedia.org/wiki/Aviosuperfice_di_Sondrio-Caiolo",
@@ -50310,7 +50309,7 @@
 5113,"OERM","medium_airport","Ras Mishab Airport",28.079599,48.611,13,"AS","SA","SA-04","Al Mishab","no",,,"OERM",,,"https://en.wikipedia.org/wiki/Ras_Mishab_Airport",
 5114,"OERR","medium_airport","Arar Domestic Airport",30.906600952148438,41.13819885253906,1813,"AS","SA","SA-08","Arar","yes","OERR","RAE","OERR",,,"https://en.wikipedia.org/wiki/Arar_Domestic_Airport",
 5115,"OERT","medium_airport","Ras Tanura Airport",26.723101,50.0308,6,"AS","SA","SA-04","Ras Tanura","no",,,"OERT",,,"https://en.wikipedia.org/wiki/Ras_Tanura_Airport",
-5116,"OERY","medium_airport","Riyadh Air Base",24.725725,46.722336,2082,"AS","SA","SA-01","Riyadh","no",,,"OERY",,,"https://en.wikipedia.org/wiki/Riyadh_Air_Base","Riyad, XXN"
+5116,"OERY","closed","Riyadh Air Base",24.725725,46.722336,2082,"AS","SA","SA-01","Riyadh","no",,,,,,"https://en.wikipedia.org/wiki/Riyadh_Air_Base","Riyad, XXN, OERY"
 5117,"OESB","small_airport","Shaibah Airport",22.514781,53.964114,300,"AS","SA","SA-04","Shaybah","no",,,"OESB",,,"https://en.wikipedia.org/wiki/Shaybah_Airport",
 5118,"OESH","medium_airport","Sharurah Domestic Airport",17.4669,47.121399,2363,"AS","SA","SA-10","Sharurah","yes","OESH","SHW","OESH",,,"https://en.wikipedia.org/wiki/Sharurah_Domestic_Airport",
 5119,"OESK","medium_airport","Al-Jawf Domestic Airport",29.78510093688965,40.099998474121094,2261,"AS","SA","SA-12","Al-Jawf","yes","OESK","AJF","OESK",,,"https://en.wikipedia.org/wiki/Al-Jawf_Domestic_Airport","Al Jouf Airport"
@@ -55495,6 +55494,7 @@
 30952,"SA-0091","closed","Dawadmi Domestic Airport",24.5,44.400002,3429,"AS","SA","SA-01","Dawadmi","no",,,,,,,"DWD, Prinz Salman bin Abdulaziz Airport, Dwadmi, OEDW"
 326441,"SA-0092","closed","Al Ghat Airport",26.026479,44.959166,2509,"AS","SA","SA-01","Al Ghat","no",,,,,,,"OEGH, OEGH"
 595937,"SA-0093","heliport","Al Runah Army Heliport",18.23069,42.823044,6725,"AS","SA","SA-14","Al Runah","no",,,,,,,
+597259,"SA-0094","medium_airport","King Salman Air Base",24.465259,46.659279,,"AS","SA","SA-01","Riyadh","no","OERY",,,,,,
 13,"SA01","small_airport","Cachi Airport",-25.1049995422,-66.15720367429999,8232,"SA","AR","AR-A","Cachi","no",,,"SA01","CCS",,,"SA01"
 14,"SA02","small_airport","Cafayate Airport",-26.056101,-65.936897,5375,"SA","AR","AR-A","Cafayate","no",,,,"CAF",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Gilberto_Lavaque","SA02, Gilberto Lavaque"
 15,"SA03","small_airport","Villa Minetti Airport",-28.6201,-61.6038,246,"SA","AR","AR-S","Villa Minetti","no",,,"SA03","MIN",,,"SA03"
