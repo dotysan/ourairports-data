@@ -2729,7 +2729,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 313294,IOK,small_airport,Iokea Airport,-8.401,146.277,39,OC,PG,PG-GPK,Iokea,no,,IOK,,IOK,,,
 313299,IOP,small_airport,Ioma Airport,-8.3614,147.84,95,OC,PG,PG-NPP,Ioma,no,,IOP,,IOMA,,,
 317284,IRU,seaplane_base,Iranamadu Seaplane Base,9.299746,80.448627,102,AS,LK,LK-4,Iranamadu,no,,IRU,,,,,
-298700,IT-0010,small_airport,Calatabiano (Aviosuperficie Angelo D'Arrigo),37.799561,15.22775,197,EU,IT,IT-82,Calatabiano (CT),no,LICN,,LICN,,http://www.triavio.eu,,"Calatabiano, Etnavolo, Angelo D'Arrigo"
+298700,IT-0010,small_airport,Calatabiano (Aviosuperficie Angelo D'Arrigo),37.799561,15.22775,197,EU,IT,IT-82,Calatabiano (CT),no,LICN,,LICN,CTFFD,http://www.triavio.eu,,"CT05, Etnavolo, Fiumefreddo di Sicilia"
 308235,ITK,small_airport,Itokama Airport,-9.201527,148.264261,2563,OC,PG,PG-NPP,Itokama,no,,ITK,AYIK,ITK,,,
 316549,IVI,small_airport,Viveros Island Airport,8.4693,-79.0016,100,NA,PA,PA-8,Isla Viveros,no,,IVI,,,,,
 319816,JIO,small_airport,Jos Orno Imsula Airport,-8.140402,127.908758,43,AS,ID,ID-MA,Tiakur,yes,,JIO,WAPM,,,https://en.wikipedia.org/wiki/Jos_Orno_Imsula_Airport,"Moa Island, Leti Islands"
@@ -4465,7 +4465,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4013,LEIB,large_airport,Ibiza Airport,38.872898,1.37312,24,EU,ES,ES-IB,Ibiza (Eivissa),yes,LEIB,IBZ,LEIB,,https://www.aena.es/en/ibiza.html,https://en.wikipedia.org/wiki/Ibiza_Airport,
 4015,LEJR,medium_airport,Jerez Airport,36.744598,-6.06011,93,EU,ES,ES-AN,Jerez de la Frontera,yes,LEJR,XRY,LEJR,,https://www.aena.es/en/jerez.html,https://en.wikipedia.org/wiki/Jerez_Airport,
 4017,LELC,medium_airport,San Javier Airport,37.775002,-0.812389,11,EU,ES,ES-MC,San Javier,no,LELC,MJV,LELC,,,https://en.wikipedia.org/wiki/Murcia-San_Javier_Airport,
-4018,LELN,medium_airport,León Airport,42.589001,-5.65556,3006,EU,ES,ES-CL,León,yes,LELN,LEN,LELN,,https://www.aena.es/en/leon.html,https://en.wikipedia.org/wiki/Le%C3%B3n_Airport,
+4018,LELN,medium_airport,León Int'l Airport,42.589001,-5.65556,3006,EU,ES,ES-CL,La Virgen Del Camino,yes,LELN,LEN,LELN,,https://www.aena.es/en/leon.html,https://en.wikipedia.org/wiki/Le%C3%B3n_Airport,
 30083,LELO,medium_airport,Logroño-Agoncillo Airport,42.460953,-2.322235,1161,EU,ES,ES-RI,Logroño,no,,RJL,LERJ,,https://www.aena.es/en/logrono-agoncillo.html,https://en.wikipedia.org/wiki/Logro%C3%B1o%E2%80%93Agoncillo_Airport,LELO
 4019,LEMD,large_airport,Adolfo Suárez Madrid–Barajas Airport,40.471926,-3.56264,1998,EU,ES,ES-MD,Madrid,yes,LEMD,MAD,LEMD,,https://www.aena.es/en/adolfo-suarez-madrid-barajas.html,https://en.wikipedia.org/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport,"Leganés, Madrid Barajas International Airport"
 4020,LEMG,large_airport,Málaga-Costa del Sol Airport,36.6749,-4.49911,53,EU,ES,ES-AN,Málaga,yes,LEMG,AGP,LEMG,,https://www.aena.es/en/malaga-costa-del-sol.html,https://en.wikipedia.org/wiki/M%C3%A1laga_Airport,"Costa del Sol, Malaga"
@@ -4701,6 +4701,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4333,LIEO,medium_airport,Olbia Costa Smeralda Airport,40.898701,9.51763,37,EU,IT,IT-88,Olbia (SS),yes,LIEO,OLB,LIEO,SS03,,https://en.wikipedia.org/wiki/Olbia_Costa_Smeralda_Airport,
 29424,LIER,small_airport,Oristano-Fenosu Airport,39.895308,8.642661,36,EU,IT,IT-88,Oristano,no,LIER,FNU,LIER,OR01,http://www.sogeaor.it,http://it.wikipedia.org/wiki/Aeroporto_di_Oristano-Fenosu,QOS
 4334,LIET,medium_airport,Tortolì Airport,39.9188,9.68298,23,EU,IT,IT-88,Arbatax,no,LIET,TTB,LIET,NU01,,https://en.wikipedia.org/wiki/Tortol%C3%AC_Airport,Tortolì-Arbatax airport
+29428,LILI,medium_airport,Vercelli Airfield,45.309935,8.417931,417,EU,IT,IT-21,Vercelli (VC),no,LILI,,LILI,VC04,http://www.aeroclubvercelli.it/,https://it.wikipedia.org/wiki/Aeroporto_di_Vercelli,"Carlo del Prete, Aeroclub Marilla Rigazio"
 4337,LILN,medium_airport,Varese-Venegono Airport,45.742199,8.888233,1100,EU,IT,IT-25,Venegono Superiore (VA),no,LILN,,LILN,VA02,http://www.aeroclubvarese.it/,https://en.wikipedia.org/wiki/Varese-Venegono_Airport,QVA
 4340,LIMC,large_airport,Milan Malpensa International Airport,45.6306,8.72811,768,EU,IT,IT-25,Ferno (VA),yes,LIMC,MXP,LIMC,MI12,http://www.sea-aeroportimilano.it/en/malpensa/index.phtml,https://en.wikipedia.org/wiki/Malpensa_Airport,"MIL, Silvio Berlusconi"
 4341,LIME,large_airport,Milan Bergamo Airport / Antonio Locatelli Air Base,45.670725,9.709223,782,EU,IT,IT-25,Orio al Serio (BG),yes,LIME,BGY,LIME,BG01,http://www.sacbo.it/,https://en.wikipedia.org/wiki/Orio_al_Serio_International_Airport,"Bergamo Orio al Serio Airport, Il Caravaggio International Airport"
@@ -6418,6 +6419,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 311046,RVC,small_airport,River Cess Airport and Heliport,5.472469,-9.58546,27,AF,LR,LR-RI,River Cess,no,,RVC,,,,,
 24373,S31,small_airport,Lopez Island Airport,48.4838981628418,-122.93800354003906,209,NA,US,US-WA,Lopez,yes,,LPS,S31,S31,,https://en.wikipedia.org/wiki/Lopez_Island_Airport,
 24380,S60,seaplane_base,Kenmore Air Harbor LLC Seaplane Base,47.754799,-122.259003,14,NA,US,US-WA,Kenmore,yes,,KEH,S60,S60,,https://en.wikipedia.org/wiki/Kenmore_Air_Harbor,
+597259,SA-0094,medium_airport,King Salman Air Base,24.465259,46.659279,,AS,SA,SA-01,Riyadh,no,OERY,,,,,,
 24,SA14,small_airport,Miramar Airport,-38.2271,-57.8697,42,SA,AR,AR-B,Miramar,no,,MJR,SAEM,IRA,,https://en.wikipedia.org/wiki/Miramar_Airport,SA14
 5764,SAAC,medium_airport,Comodoro Pierrestegui Airport,-31.2969,-57.9966,112,SA,AR,AR-E,Concordia,no,SAAC,COC,SAAC,DIA,,https://en.wikipedia.org/wiki/Comodoro_Pierrestegui_Airport,
 5765,SAAG,medium_airport,Gualeguaychu Airport,-33.005567,-58.612833,75,SA,AR,AR-E,Gualeguaychu,no,SAAG,GHU,SAAG,GUA,,https://en.wikipedia.org/wiki/Gualeguaych%C3%BA_Airport,
