@@ -1386,6 +1386,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2252,EDMO,medium_airport,Oberpfaffenhofen Airport,48.081402,11.2831,1947,EU,DE,DE-BY,Weßling,no,EDMO,OBF,EDMO,,http://www.edmo-airport.de,https://de.wikipedia.org/wiki/Flugplatz_Oberpfaffenhofen,Weßling
 2253,EDMS,small_airport,Straubing Airport,48.900833,12.516667,1047,EU,DE,DE-BY,Atting,no,EDMS,RBM,EDMS,,https://www.airport-straubing.com/en/homepage/,https://en.wikipedia.org/wiki/Straubing_Wallm%C3%BChle_Airport,
 2256,EDNY,medium_airport,Friedrichshafen Airport,47.671299,9.51149,1367,EU,DE,DE-BW,Friedrichshafen,yes,EDNY,FDH,EDNY,,https://www.bodensee-airport.eu,https://en.wikipedia.org/wiki/Friedrichshafen_Airport,Bodensee Airport Friedrichshafen
+28720,EDPH,small_airport,Schwabach-Heidenberg Airfield,49.268019,11.012606,1181,EU,DE,DE-BY,Büchenbach,no,EDPH,,EDPH,,,https://de.wikipedia.org/wiki/Flugplatz_Schwabach-B%C3%BCchenbach,
 2261,EDQD,medium_airport,Bayreuth Airport,49.985001,11.64,1601,EU,DE,DE-BY,Bindlach,no,EDQD,BYU,EDQD,,,https://en.wikipedia.org/wiki/Bindlacher_Berg_Airport,Bindlacher Berg Airport
 2262,EDQE,small_airport,Burg Feuerstein Airport,49.794167,11.133611,1673,EU,DE,DE-BY,Ebermannstadt,no,EDQE,URD,EDQE,,http://www.edqe.de/home/,http://de.wikipedia.org/wiki/Flugplatz_Burg_Feuerstein,
 43125,EDQG,small_airport,Giebelstadt Airport,49.6480560303,9.966388702390002,981,EU,DE,DE-BY,Giebelstadt,no,EDQG,GHF,EDQG,,http://www.edqg.de/,https://en.wikipedia.org/wiki/Giebelstadt_Airport,
@@ -4575,6 +4576,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4169,LFOB,medium_airport,Paris-Beauvais Airport,49.454399,2.11278,359,EU,FR,FR-HDF,Tillé,yes,LFOB,BVA,LFOB,,https://www.aeroportparisbeauvais.com/,https://en.wikipedia.org/wiki/Paris_Beauvais_Till%C3%A9_Airport,Beauvais-Tillé
 4172,LFOE,medium_airport,Évreux-Fauville (BA 105) Air Base,49.028702,1.21986,464,EU,FR,FR-NOR,"Fauville, Eure",no,LFOE,EVX,LFOE,,,https://en.wikipedia.org/wiki/%C3%89vreux-Fauville_Air_Base,
 4173,LFOH,medium_airport,Le Havre-Octeville Airport,49.534038,0.088406,313,EU,FR,FR-NOR,Le Havre,no,LFOH,LEH,LFOH,,https://www.lehavre.aeroport.fr/,https://en.wikipedia.org/wiki/Le_Havre_Octeville_Airport,
+4174,LFOI,medium_airport,Abbeville-Buigny Baie de Somme Airfield,50.143501,1.831891,220,EU,FR,FR-HDF,Buigny-Saint-Maclou,no,LFOI,,LFOI,,http://aeroclub-abbeville.fr/,https://fr.wikipedia.org/wiki/Aérodrome_d'Abbeville,Aérodrome d'Abbeville
 4176,LFOK,medium_airport,Châlons-Vatry Airport,48.77333,4.20611,587,EU,FR,FR-GES,Bussy-Lettrée,yes,LFOK,XCR,LFOK,,https://www.parisvatry.com/,https://en.wikipedia.org/wiki/Ch%C3%A2lons_Vatry_Airport,"Paris-Châlons, Paris-Vatry, Paris-Vatry (Disney), Vatry Europort"
 28964,LFOO,small_airport,Les Sables-d'Olonne Talmont Airport,46.476898,-1.72278,105,EU,FR,FR-PDL,Les Sables-d'Olonne,no,LFOO,LSO,LFOO,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_des_Sables-d%27Olonne-Talmont,Talmon-Saint-Hilaire
 4177,LFOP,medium_airport,Rouen Vallée de Seine Airport,49.384887,1.179142,512,EU,FR,FR-NOR,Boos,no,LFOP,URO,LFOP,,https://www.aeroport-rouen.fr/,https://en.wikipedia.org/wiki/Rouen_Airport,
@@ -6964,7 +6966,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6176,SKVP,medium_airport,Alfonso López Pumarejo Airport,10.435,-73.2495,483,SA,CO,CO-CES,Valledupar,yes,SKVP,VUP,SKVP,VUP,,https://en.wikipedia.org/wiki/Valledupar_Airport,
 6177,SKVV,medium_airport,Vanguardia Airport,4.16787,-73.6138,1394,SA,CO,CO-MET,Villavicencio,yes,SKVV,VVC,SKVV,VVC,,https://en.wikipedia.org/wiki/La_Vanguardia_Airport,
 30667,SKYA,small_airport,Yaguara Airport,1.54417,-73.9333,812,SA,CO,CO-CAQ,San Vicente Del Caguán,no,SKYA,AYG,SKYA,AYG,,,
-6178,SKYP,medium_airport,El Alcaravan - Yopal Airport,5.31911,-72.384,1028,NA,CO,CO-CAS,Yopal,yes,SKYP,EYP,SKYP,EYP,,https://en.wikipedia.org/wiki/El_Alcarav%C3%A1n_Airport,
+6178,SKYP,medium_airport,El Alcaravan - Yopal Airport,5.31911,-72.384,1028,SA,CO,CO-CAS,Yopal,yes,SKYP,EYP,SKYP,EYP,,https://en.wikipedia.org/wiki/El_Alcarav%C3%A1n_Airport,
 32321,SLAG,small_airport,Monteagudo Airport,-19.827,-63.960999,3674,SA,BO,BO-H,El Bañado,no,SLAG,MHW,SLAG,,,https://en.wikipedia.org/wiki/Monteagudo_Airport,
 333229,SLAL,medium_airport,Alcantarí Airport,-19.246835,-65.149611,10184,SA,BO,BO-H,Yamparaez,yes,,SRE,SLAL,,,https://en.wikipedia.org/wiki/Alcantar%C3%AD_Airport,
 29662,SLAP,small_airport,Apolo Airport,-14.7356,-68.411903,4639,SA,BO,BO-L,Apolo,no,SLAP,APB,SLAP,,,https://en.wikipedia.org/wiki/Apolo_Airport,
@@ -7225,26 +7227,28 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6249,SVAC,medium_airport,Oswaldo Guevara Mujica Airport,9.553375,-69.237869,640,SA,VE,VE-P,Acarigua,no,SVAC,AGV,SVAC,,,https://en.wikipedia.org/wiki/Oswaldo_Guevara_Mujica_Airport,Acarigua-Araure Airport
 6251,SVAN,medium_airport,Anaco Airport,9.430225,-64.470726,721,SA,VE,VE-B,Anaco,no,SVAN,AAO,SVAN,,,https://en.wikipedia.org/wiki/Anaco_Airport,
 6252,SVAS,small_airport,Armando Schwarck Airport,6.57805,-66.816902,266,SA,VE,VE-F,Guayabal,no,,LPJ,SVAS,,,https://es.wikipedia.org/wiki/Aeropuerto_Armando_Schwarck,
+40315,SVAT,small_airport,San Fernando de Atabapo Airport,4.051683,-67.701133,301,SA,VE,VE-Z,San Fernando de Atabapo,no,SVAT,,SVAT,,,,
+40082,SVAY,small_airport,Araya Airport,10.597324,-64.272011,33,SA,VE,VE-R,,no,SVAA,,SVAA,,,,
 6255,SVBC,large_airport,General José Antonio Anzoategui International Airport,10.111111,-64.692222,30,SA,VE,VE-B,Barcelona,yes,SVBC,BLA,SVBC,,http://aigdjaa.baer.gob.ve,https://en.wikipedia.org/wiki/General_Jos%C3%A9_Antonio_Anzo%C3%A1tegui_International_Airport,"Barcelona, Puero La Cruz,Lecheria"
 6256,SVBI,medium_airport,Barinas Airport,8.615,-70.214167,615,SA,VE,VE-E,Barinas,yes,SVBI,BNS,SVBI,,,https://en.wikipedia.org/wiki/Barinas_Airport,
 6259,SVBM,medium_airport,Barquisimeto International Airport,10.042747,-69.35862,2042,SA,VE,VE-K,Barquisimeto,yes,SVBM,BRM,SVBM,,,https://en.wikipedia.org/wiki/Jacinto_Lara_International_Airport,
-6261,SVBS,medium_airport,Escuela Mariscal Sucre Airport,10.249978,-67.649422,1338,NA,VE,VE-D,Maracay,no,SVBS,MYC,SVBS,,,https://en.wikipedia.org/wiki/Mariscal_Sucre_Airport_(Venezuela),
+6261,SVBS,medium_airport,Escuela Mariscal Sucre Airport,10.249978,-67.649422,1338,SA,VE,VE-D,Maracay,no,SVBS,MYC,SVBS,,,https://en.wikipedia.org/wiki/Mariscal_Sucre_Airport_(Venezuela),
 6262,SVCB,medium_airport,General Tomas de Heres Airport,8.122161,-63.536957,197,SA,VE,VE-F,Ciudad Bolivar,no,SVCB,CBL,SVCB,,,https://en.wikipedia.org/wiki/Tom%C3%A1s_de_Heres_Airport,Aeropuerto General Tomas de Heres
 6263,SVCD,medium_airport,Caicara del Orinoco Airport,7.62551,-66.162804,141,SA,VE,VE-F,,no,SVCD,CXA,SVCD,,,https://en.wikipedia.org/wiki/Caicara_del_Orinoco_Airport,
 6264,SVCE,small_airport,Zaraza Airport,9.350306,-65.280655,204,SA,VE,VE-J,Zaraza,no,,ZRZ,SVCE,,,,
 6265,SVCG,small_airport,Casigua El Cubo Airport,8.75814,-72.536301,99,SA,VE,VE-V,Casigua El Cubo,no,SVCG,CUV,SVCG,,,https://en.wikipedia.org/wiki/El_Cubo_Airport,
-6267,SVCL,medium_airport,Calabozo Airport,8.924656,-67.417091,328,NA,VE,VE-J,Guarico,no,SVCL,CLZ,SVCL,,,https://en.wikipedia.org/wiki/Calabozo_Airport,
+6267,SVCL,medium_airport,Calabozo Airport,8.924656,-67.417091,328,SA,VE,VE-J,Guarico,no,SVCL,CLZ,SVCL,,,https://en.wikipedia.org/wiki/Calabozo_Airport,
 6268,SVCN,medium_airport,Canaima Airport,6.231989,-62.85485,1450,SA,VE,VE-F,Canaima,yes,SVCN,CAJ,SVCN,,,https://en.wikipedia.org/wiki/Canaima_Airport,
 6270,SVCP,medium_airport,General Francisco Bermúdez Airport,10.660014,-63.261681,33,SA,VE,VE-R,Carúpano,yes,SVCP,CUP,SVCP,,,https://en.wikipedia.org/wiki/General_Jos%C3%A9_Francisco_Berm%C3%BAdez_Airport,
 6271,SVCR,medium_airport,José Leonardo Chirinos Airport,11.414944,-69.680901,52,SA,VE,VE-I,Coro,yes,SVCR,CZE,SVCR,,,https://en.wikipedia.org/wiki/Jos%C3%A9_Leonardo_Chirino_Airport,
 6273,SVCU,medium_airport,Cumaná (Antonio José de Sucre) Airport,10.450333,-64.13047,14,SA,VE,VE-R,,yes,SVCU,CUM,SVCU,,,https://en.wikipedia.org/wiki/Antonio_Jos%C3%A9_de_Sucre_Airport,
-40119,SVDZ,small_airport,Puerto Paez Airport,6.220095,-67.447508,146,SA,VE,VE-C,Puerto Paez,no,,PPZ,SVDZ,,,https://en.wikipedia.org/wiki/Puerto_Páez_Airport,
+40119,SVDZ,small_airport,Puerto Paez Airport,6.220095,-67.447508,146,SA,VE,VE-C,Puerto Paez,no,SVPP,PPZ,SVPP,,,https://en.wikipedia.org/wiki/Puerto_Páez_Airport,SVDZ
 6277,SVED,medium_airport,El Dorado Airport,6.71573,-61.638786,318,SA,VE,VE-F,Bolivar,no,SVED,EOR,SVED,,,,
 6281,SVEZ,medium_airport,Elorza Airport,7.059677,-69.4967,295,SA,VE,VE-C,,no,SVEZ,EOZ,SVEZ,,,https://en.wikipedia.org/wiki/Elorza_Airport,
 6285,SVGD,medium_airport,Guasdualito Airport,7.210834,-70.756386,427,SA,VE,VE-C,Guasdualito,no,SVGD,GDO,SVGD,,,https://en.wikipedia.org/wiki/Guasdualito_Airport,
 6286,SVGI,medium_airport,Guiria Airport,10.574077606200001,-62.3126678467,42,SA,VE,VE-R,,no,SVGI,GUI,SVGI,,,https://en.wikipedia.org/wiki/Guiria_Airport,
 6287,SVGU,medium_airport,Guanare Airport,9.026944,-69.75515,606,SA,VE,VE-P,Guanare,no,SVGU,GUQ,SVGU,,,https://en.wikipedia.org/wiki/Guanare_Airport,
-6289,SVHG,small_airport,Higuerote Airport,10.462474,-66.092779,12,NA,VE,VE-M,Higuerote,no,SVHG,HGE,SVHG,,,https://en.wikipedia.org/wiki/Higuerote_Airport,Sabana de Oro
+6289,SVHG,small_airport,Higuerote Airport,10.462474,-66.092779,12,SA,VE,VE-M,Higuerote,no,SVHG,HGE,SVHG,,,https://en.wikipedia.org/wiki/Higuerote_Airport,Sabana de Oro
 31661,SVIC,small_airport,Icabarú Airport,4.33632,-61.739601,1574,SA,VE,VE-F,,no,SVIC,ICA,SVIC,,,https://en.wikipedia.org/wiki/Icabar%C3%BA_Airport,
 6291,SVIE,small_airport,Andrés Miguel Salazar Marcano Airport,10.794432,-63.98159,10,SA,VE,VE-O,Isla de Coche,yes,SVIE,ICC,SVIE,,,https://en.wikipedia.org/wiki/Andr%C3%A9s_Miguel_Salazar_Marcano_Airport,
 6292,SVJC,medium_airport,Josefa Camejo International Airport,11.780775,-70.151497,75,SA,VE,VE-I,Paraguaná,yes,SVJC,LSP,SVJC,,,https://en.wikipedia.org/wiki/Josefa_Camejo_International_Airport,
@@ -7252,23 +7256,28 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41598,SVKM,small_airport,Kamarata Airport,5.7171,-62.33727,1770,SA,VE,VE-F,Kamarata,no,SVKM,KTV,SVKM,,,https://en.wikipedia.org/wiki/Kamarata_Airport,
 6294,SVLF,medium_airport,La Fria Airport,8.239167,-72.271027,305,SA,VE,VE-S,,no,SVLF,LFR,SVLF,,,https://en.wikipedia.org/wiki/La_Fr%C3%ADa_Airport,
 6297,SVMC,medium_airport,La Chinita International Airport,10.5582084656,-71.7278594971,239,SA,VE,VE-V,Maracaibo,yes,SVMC,MAR,SVMC,,,https://en.wikipedia.org/wiki/La_Chinita_International_Airport,
-6298,SVMD,medium_airport,Alberto Carnevalli Airport,8.582078,-71.161041,5007,NA,VE,VE-L,Mérida,no,SVMD,MRD,SVMD,,,https://en.wikipedia.org/wiki/Alberto_Carnevalli_Airport,
+6298,SVMD,medium_airport,Alberto Carnevalli Airport,8.582078,-71.161041,5007,SA,VE,VE-L,Mérida,no,SVMD,MRD,SVMD,,,https://en.wikipedia.org/wiki/Alberto_Carnevalli_Airport,
 6299,SVMG,medium_airport,Del Caribe Santiago Mariño International Airport,10.912603378295898,-63.96659851074219,74,SA,VE,VE-O,Isla Margarita,yes,SVMG,PMV,SVMG,,,https://en.wikipedia.org/wiki/Del_Caribe_International_General_Santiago_Marino_Airport,
-6300,SVMI,large_airport,Maiquetía Simón Bolívar International Airport,10.601194,-66.991222,234,NA,VE,VE-X,Maiquetía,yes,SVMI,CCS,SVMI,,http://www.aeropuerto-maiquetia.com.ve/web/,https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar_International_Airport,Caracas
-6302,SVMT,medium_airport,Maturín Airport,9.749023,-63.153348,224,SA,VE,VE-N,Maturín,yes,SVMT,MUN,SVMT,,,https://en.wikipedia.org/wiki/Jos%C3%A9_Tadeo_Monagas_International_Airport,
+6300,SVMI,large_airport,Maiquetía Simón Bolívar International Airport,10.601194,-66.991222,234,SA,VE,VE-X,Maiquetía,yes,SVMI,CCS,SVMI,,http://www.aeropuerto-maiquetia.com.ve/web/,https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar_International_Airport,Caracas
+40207,SVMN,small_airport,Mene Grande Airport,9.805958,-70.896256,90,SA,VE,VE-V,Mene Grande,no,SVMN,,SVMN,,,,
+6301,SVMP,medium_airport,Metropolitano International Airport,10.133169,-66.787827,574,NA,VE,VE-M,Ocumare del Tuy,no,SVMP,,,,,https://en.wikipedia.org/wiki/Metropolitano_International_Airport,
+6302,SVMT,medium_airport,José Tadeo Monagas International Airport,9.749023,-63.153348,224,SA,VE,VE-N,Maturín,yes,SVMT,MUN,SVMT,,,https://en.wikipedia.org/wiki/Jos%C3%A9_Tadeo_Monagas_International_Airport,
+40216,SVNB,small_airport,Maripa Airport,7.45448,-65.17621,200,SA,VE,VE-F,Maripa,no,SVMA,,SVMA,,,,SVNB
+597304,SVNH,heliport,El Nido del Halcon Heliport,10.424753,-66.783982,3285,SA,VE,VE-M,,no,SVNH,,SVNH,,,,Expanzoo
 6308,SVON,small_airport,Oro Negro Airport,10.3307,-71.322502,164,SA,VE,VE-V,Cabimas,no,SVON,CBS,SVON,,,https://en.wikipedia.org/wiki/Oro_Negro_Airport,
-6309,SVPA,medium_airport,Cacique Aramare Airport,5.61999,-67.606102,245,NA,VE,VE-Z,Puerto Ayacucho,no,SVPA,PYH,SVPA,,,https://en.wikipedia.org/wiki/Cacique_Aramare_Airport,Casique Aramare Airport
-6310,SVPC,medium_airport,General Bartolome Salom International Airport,10.4805,-68.072998,32,SA,VE,VE-G,,no,SVPC,PBL,SVPC,,,https://en.wikipedia.org/wiki/General_Bartolom%C3%A9_Salom_Airport,
-6311,SVPE,small_airport,Pedernales Airport,9.97924,-62.2286,25,SA,VE,VE-Y,,no,SVPE,PDZ,SVPE,,,https://en.wikipedia.org/wiki/Pedernales_Airport,
+6309,SVPA,medium_airport,Cacique Aramare Airport,5.61999,-67.606102,245,SA,VE,VE-Z,Puerto Ayacucho,no,SVPA,PYH,SVPA,,,https://en.wikipedia.org/wiki/Cacique_Aramare_Airport,Casique Aramare Airport
+6310,SVPC,medium_airport,General Bartolome Salom International Airport,10.4805,-68.072998,32,SA,VE,VE-G,Puerto Cabello,no,SVPC,PBL,SVPC,,,https://en.wikipedia.org/wiki/General_Bartolom%C3%A9_Salom_Airport,
+6311,SVPE,small_airport,Pedernales Airport,9.978672,-62.231318,25,SA,VE,VE-Y,Capure,no,SVPE,PDZ,SVPE,,,https://en.wikipedia.org/wiki/Pedernales_Airport,
 40247,SVPH,small_airport,Perai-Tepuy Airport,4.570275,-61.520262,2953,SA,VE,VE-F,Parai-tepuí,no,,PPH,SVPX,,,https://en.wikipedia.org/wiki/Parai-tepuí_Airport,SVPH
-6312,SVPM,medium_airport,Paramillo Airport,7.80132,-72.202904,3314,SA,VE,VE-S,,no,SVPM,SCI,SVPM,,,https://en.wikipedia.org/wiki/Paramillo_Airport,
-6315,SVPR,medium_airport,General Manuel Carlos Piar International Airport,8.288530349731445,-62.760398864746094,472,SA,VE,VE-F,Puerto Ordaz-Ciudad Guayana,yes,SVPR,PZO,SVPR,,,https://en.wikipedia.org/wiki/Manuel_Carlos_Piar_Guayana_Airport,
-6316,SVPT,medium_airport,Palmarito Airport,7.56667,-70.183296,347,SA,VE,VE-C,Palmarito,no,SVPT,PTM,SVPT,,,https://en.wikipedia.org/wiki/Palmarito_Airport,
-40293,SVRS,small_airport,Los Roques Airport,11.946177,-66.669836,17,NA,VE,VE-W,Gran Roque Island,yes,SVRS,LRV,SVRS,,,https://en.wikipedia.org/wiki/Los_Roques_Airport,
+6312,SVPM,medium_airport,Paramillo Airport,7.80132,-72.202904,3314,SA,VE,VE-S,San Cristóbal,no,SVPM,SCI,SVPM,,,https://en.wikipedia.org/wiki/Paramillo_Airport,
+6313,SVPP,small_airport,Luepa Airport,5.791642,-61.440721,4250,SA,VE,VE-F,Luepa,no,SVLP,,SVLP,,,,SVPP
+6315,SVPR,medium_airport,General Manuel Carlos Piar International Airport,8.28853,-62.760399,472,SA,VE,VE-F,Puerto Ordaz-Ciudad Guayana,yes,SVPR,PZO,SVPR,,,https://en.wikipedia.org/wiki/Manuel_Carlos_Piar_Guayana_Airport,CGU
+6316,SVPT,medium_airport,Palmarito Airport,7.575479,-70.174435,347,SA,VE,VE-C,Palmarito,no,SVPT,PTM,SVPT,,,https://en.wikipedia.org/wiki/Palmarito_Airport,
+40293,SVRS,small_airport,Los Roques Airport,11.946935,-66.668333,17,NA,VE,VE-W,Gran Roque Island,yes,SVRS,LRV,SVRS,,,https://en.wikipedia.org/wiki/Los_Roques_Airport,
 24677,SVS,small_airport,Stevens Village Airport,66.016727,-149.056835,328,NA,US,US-AK,Stevens Village,yes,,SVS,PFSV,SVS,,https://en.wikipedia.org/wiki/Stevens_Village_Airport,
 6321,SVSA,medium_airport,San Antonio Del Tachira Airport,7.84083,-72.439697,1312,SA,VE,VE-S,,yes,SVSA,SVZ,SVSA,,,https://en.wikipedia.org/wiki/Juan_Vicente_G%C3%B3mez_International_Airport,
 6322,SVSB,small_airport,Santa Bárbara de Barinas Airport,7.803514,-71.165718,590,SA,VE,VE-E,Santa Bárbara,no,SVSB,SBB,SVSB,,,https://en.wikipedia.org/wiki/Santa_B%C3%A1rbara_de_Barinas_Airport,
-6323,SVSE,medium_airport,Santa Elena de Uairen Airport,4.555,-61.150002,2938,SA,VE,VE-F,,no,SVSE,SNV,SVSE,,,https://en.wikipedia.org/wiki/Santa_Elena_de_Uair%C3%A9n_Airport,
+6323,SVSE,medium_airport,Santa Elena de Uairen Airport,4.554699,-61.145234,2938,SA,VE,VE-F,Santa Elena de Uairén,no,SVSE,SNV,SVSE,,,https://en.wikipedia.org/wiki/Santa_Elena_de_Uair%C3%A9n_Airport,
 6325,SVSO,medium_airport,Mayor Buenaventura Vivas International Airport,7.56538,-72.035103,1083,SA,VE,VE-S,Santo Domingo,yes,SVSO,STD,SVSO,,,https://en.wikipedia.org/wiki/Mayor_Buenaventura_Vivas_Airport,
 6326,SVSP,medium_airport,Sub Teniente Nestor Arias Airport,10.2787,-68.755203,761,SA,VE,VE-U,San Felipe,no,SVSP,SNF,SVSP,,,,
 6327,SVSR,medium_airport,San Fernando de Apure Las Flecheras National Airport,7.88332,-67.444,154,SA,VE,VE-C,San Fernando de Apure,no,SVSR,SFD,SVSR,,,https://en.wikipedia.org/wiki/Las_Flecheras_Airport,
@@ -7276,7 +7285,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6329,SVSZ,medium_airport,Miguel Urdaneta Fernández Airport,8.97455,-71.943253,32,SA,VE,VE-V,San Carlos del Zulia,no,SVSZ,STB,SVSZ,,,,"Relámpago del Catatumbo National, Santa Bárbara del Zulia"
 6330,SVTC,medium_airport,Tucupita Airport,9.088994,-62.094173,16,SA,VE,VE-Y,Tucupita,no,SVTC,TUV,SVTC,,,https://en.wikipedia.org/wiki/San_Rafael_Airport_(Venezuela),
 6332,SVTM,medium_airport,Tumeremo Airport,7.24938,-61.52893,345,SA,VE,VE-F,,no,SVTM,TMO,SVTM,,,https://en.wikipedia.org/wiki/Tumeremo_Airport,
-32549,SVUM,small_airport,Uriman Airport,5.333333,-62.766666,1148,SA,VE,VE-F,,no,SVUM,URM,SVUM,,,https://en.wikipedia.org/wiki/Uriman_Airport,
+32549,SVUM,small_airport,Uriman Airport,5.358118,-62.671625,1148,SA,VE,VE-F,Urimán,no,SVUM,URM,SVUM,,,https://en.wikipedia.org/wiki/Uriman_Airport,
+6333,SVUP,small_airport,Upata Airport,7.979201,-62.32902,1056,SA,VE,VE-F,Upata,no,SVUP,,SVUP,,,,
+32398,SVUQ,small_airport,Uon Quen Airport,4.984002,-61.730102,2820,SA,VE,VE-F,Uonquén,no,SVUQ,WOK,SVUQ,,,https://en.wikipedia.org/wiki/Uonqu%C3%A9n_Airport,Uonquen
+40332,SVUY,small_airport,Uruyen Airport,5.680422,-62.457705,1476,SA,VE,VE-F,,no,SVUY,,SVUY,,,,
 6334,SVVA,medium_airport,Arturo Michelena International Airport,10.14973258972168,-67.92839813232422,1411,SA,VE,VE-G,Valencia,yes,SVVA,VLN,SVVA,,,https://en.wikipedia.org/wiki/Arturo_Michelena_International_Airport,
 6335,SVVG,medium_airport,Juan Pablo Pérez Alfonso Airport,8.624139,-71.672668,250,SA,VE,VE-L,El Vigía,yes,SVVG,VIG,SVVG,,,https://en.wikipedia.org/wiki/Juan_Pablo_P%C3%A9rez_Alfonzo_Airport,
 6336,SVVL,medium_airport,Dr. Antonio Nicolás Briceño Airport,9.340478,-70.584061,2060,SA,VE,VE-T,Valera,yes,SVVL,VLV,SVVL,,,https://en.wikipedia.org/wiki/Dr._Antonio_Nicol%C3%A1s_Brice%C3%B1o_Airport,
@@ -7841,9 +7853,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 40463,VE-0114,small_airport,Lagunillas Airport,10.12399959564209,-71.23799896240234,2469,SA,VE,VE-V,Lagunillas,no,,LGY,,,,,
 41600,VE-0207,small_airport,Macagua Airport,8.2788,-62.6652,231,SA,VE,VE-F,Ciudad Guayana,no,,SFX,SVMU,,,,San Felix Airport
 41601,VE-0208,small_airport,San Salvador de Paul Airport,7,-62,576,SA,VE,VE-F,San Salvador de Paul,no,,SVV,,,,,
-41602,VE-0209,small_airport,Wonken Airport,5.25,-61.733333587646484,3250,SA,VE,VE-F,Wonken,no,,WOK,,,,,
 525782,VE-0222,small_airport,El Tigre Airport,8.833546,-64.20828,837,SA,VE,VE-B,El Tigre,no,,ELX,,,,https://en.wikipedia.org/wiki/El_Tigre_Airport,
 595248,VE-0234,small_airport,Hato Santa Rita Airfield,7.57581,-67.01453,131,SA,VE,VE-C,San Fernando de Apure,no,SVQS,,SVQS,,,,Agropecuaria Santa Rita
+597305,VE-0244,heliport,BOD Tower Helipad,10.211518,-68.003907,1890,SA,VE,VE-G,Valencia,no,SVOD,,SVOD,,,,
 525150,VEAH,small_airport,Azamgarh Airport,26.153333,83.118333,250,AS,IN,IN-UP,Azamgarh,no,,AZH,VEAH,,,https://en.wikipedia.org/wiki/Azamgarh_Airport,
 26488,VEAN,medium_airport,Along Airport,28.17530059814453,94.802001953125,900,AS,IN,IN-AR,,no,VEAN,IXV,VEAN,,,https://en.wikipedia.org/wiki/Along_Airport,
 26489,VEAT,medium_airport,Agartala - Maharaja Bir Bikram Airport,23.886999,91.240402,46,AS,IN,IN-TR,Agartala,yes,VEAT,IXA,VEAT,,,https://en.wikipedia.org/wiki/Agartala_Airport,"Singerbhil Airport, Agartala Air Force Station"
