@@ -14954,7 +14954,7 @@
 222,"BR-2161","small_airport","Benedito Mutran Airport",-5.758452,-49.176216,551,"SA","BR","BR-PA","Marabá","no",,,,"SIBD",,,"SIBD, Fazenda Cedro"
 227,"BR-2162","small_airport","Fazenda Romaria Airport",-18.872575,-47.558148,3297,"SA","BR","BR-MG","Romaria","no",,,,,,,"SIFR"
 229,"BR-2163","small_airport","Fazenda Jopejó Airport",-14.99125,-55.817712,1020,"SA","BR","BR-MT","Chapada dos Guimarães","no",,,,,,,"SIGF"
-258,"BR-2164","small_airport","Fazenda Grupal Airport",-10.042222,-51.589167,1050,"SA","BR","BR-MT","Vila Rica","no",,,,,,,"SJGP"
+258,"BR-2164","small_airport","Fazenda São Francisco Airport",-10.041933,-51.588514,1061,"SA","BR","BR-MT","Vila Rica","no",,,"SS8J","MT1102",,,"SJGP, Fazenda Grupal"
 260,"BR-2165","small_airport","Itaú de Minas Airport",-20.755301,-46.750198,2520,"SA","BR","BR-MG","Itaú de Minas","no",,,,"MG0126",,,"SJIT, BR-2165"
 269,"BR-2166","small_airport","Adustina Airport",-10.5809,-38.088799,892,"SA","BR","BR-BA","Adustina","no",,,,,,,"SNAH"
 276,"BR-2167","small_airport","Amargosa Airport",-12.9936,-39.639902,1394,"SA","BR","BR-BA","Amargosa","no",,,,,,,"SNAZ"
@@ -17482,6 +17482,16 @@
 597324,"CA-1203","closed","Mulvihill Farm (Gatineau Gliding Club) Field",45.471266,-75.858192,,"NA","CA","CA-ON","Gatineau","no",,,,,,,
 597325,"CA-1204","small_airport","Grey's Creek Private Airstrip",45.208588,-75.521221,,"NA","CA","CA-ON","Ottawa","no",,,,,,,
 597326,"CA-1205","small_airport","Devereaux Rd Farm Strip",45.204507,-75.496395,,"NA","CA","CA-ON","Ottawa","no",,,,,,,
+597341,"CA-1206","closed","Avonmore Aerodrome",45.16753,-74.959266,,"NA","CA","CA-ON","Avonmore","no",,,,,,,
+597342,"CA-1207","closed","St Andrews West Aerodrome",45.092323,-74.822237,,"NA","CA","CA-ON","Cornwall","no",,,,,,,
+597343,"CA-1208","closed","Dixon Aerodrome",45.089186,-74.993083,,"NA","CA","CA-ON","Dixon","no",,,,,,,
+597344,"CA-1209","closed","McMillans Corners Aerodrome",45.155381,-74.879637,,"NA","CA","CA-ON",,"no",,,,,,,
+597345,"CA-1210","small_airport","Williamsburg (South) Aerodrome",44.955296,-75.207553,,"NA","CA","CA-ON","Williamsburg","no",,,,,,,
+597346,"CA-1211","small_airport","Williamsburg (North) Farm Strip",44.991572,-75.262721,,"NA","CA","CA-ON","Williamsburg","no",,,,,,,
+597347,"CA-1212","closed","South Mountain Aerodrome",44.999616,-75.434232,,"NA","CA","CA-ON",,"no",,,,,,,
+597348,"CA-1213","closed","Inkerman Private Aerodrome",45.031182,-75.388978,,"NA","CA","CA-ON",,"no",,,,,,,
+597349,"CA-1214","closed","Gananoque (Clark's Marina) Aerodrome",44.31948,-76.209143,-1,"NA","CA","CA-ON","Gananoque","no",,,,,,,
+597351,"CA-1215","closed","Lac des Plages Aerodrome",46.012074,-74.903326,,"NA","CA","CA-QC",,"no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -61076,7 +61086,7 @@
 340981,"SNUR","heliport","Iguatemi Empresarial Helipad",-3.753724,-38.490611,180,"SA","BR","BR-CE","Fortaleza","no",,,"SNUR","CE0055",,,
 37283,"SNUS","small_airport","Usina Delta I Airport",-19.941324,-47.771367,2100,"SA","BR","BR-MG","Delta","no",,,"SNUS","MG0164",,,
 411,"SNUT","small_airport","Utinga Airport",-12.1055,-41.074501,1962,"SA","BR","BR-BA","Utinga","no",,,"SNUT","BA0017",,,
-37287,"SNUX","small_airport","Fazenda Santo Antônio Airport",-21.404722213745117,-53.30694580078125,1142,"SA","BR","BR-MS","Ribas Do Rio Pardo","no",,,"SNUX",,,,
+37287,"SNUX","small_airport","Fazenda Santo Antônio Airport",-21.410506,-53.308492,1133,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,"SS8H","MS0230",,,"SNUX"
 37289,"SNUZ","small_airport","Usina Coruripe Airport",-10.094107,-36.18639,210,"SA","BR","BR-AL","Coruripe","no",,,"SNUZ",,,,
 37290,"SNVA","small_airport","Fazenda Bela Vista Airport",-7.987500190734863,-50.63166809082031,1037,"SA","BR","BR-PA","Cumaru Do Norte","no",,,"SNVA",,,,
 412,"SNVB","small_airport","Valença Airport",-13.2965,-38.992401,21,"SA","BR","BR-BA","Valença","yes","SNVB","VAL","SNVB","SNVB",,"https://en.wikipedia.org/wiki/Valen%C3%A7a_Airport",
@@ -61511,6 +61521,8 @@
 555226,"SS4O","small_airport","Fazenda Nossa Senhora Aparecida Airport",-13.204772,-53.647239,1138,"SA","BR","BR-MT","Gaúcha do Norte","no",,,"SS4O","MT1068",,,
 558160,"SS4P","small_airport","Fazenda Apunã Airport",-5.91233,-59.953219,314,"SA","BR","BR-AM","Novo Aripuanã","no",,,"SS4P","AM0117",,,
 553260,"SS4U","small_airport","Cajamar Airport",-5.639585,-45.230105,646,"SA","BR","BR-MA","Barra do Corda","no",,,"SS4U","MA0192",,,
+597368,"SS8F","small_airport","Fazenda Santa Maria Airport",-12.901194,-55.928706,1302,"SA","BR","BR-MT","Sorriso","no",,,"SS8F","MT1094",,,
+597366,"SS8G","small_airport","Fazenda Carisma Airstrip",-16.105775,-56.608795,488,"SA","BR","BR-MT","Poconé","no",,,"SS8G","MT1095",,,
 597162,"SS8L","small_airport","Fazenda Tupancy Airstrip",-18.513139,-55.153003,600,"SA","BR","BR-MS","Rio Verde de Mato Grosso","no",,,"SS8L","MS0773",,,
 597156,"SS8M","small_airport","Aero Agrícola Norte Sul Airport",-9.42744,-59.247585,509,"SA","BR","BR-MT","Colniza","no",,,"SS8M","MT1101",,,
 597158,"SS8N","small_airport","Fazenda São Lourenço Airport",-16.998234,-53.460652,2782,"SA","BR","BR-MT","Alto Garças","no",,,"SS8N","MT1088",,,
@@ -62580,6 +62592,7 @@
 37938,"SWKE","small_airport","Cobrape Airport",-11.50861,-49.84222,656,"SA","BR","BR-TO","Formoso Do Araguaia","no",,,"SWKE",,,,
 37939,"SWKG","small_airport","Fazenda Água Limpa Airport",-13.407221794128418,-54.75194549560547,1623,"SA","BR","BR-MT","Nova Ubiratã","no",,,"SWKG",,,,
 37941,"SWKJ","small_airport","Fazenda Mutum Airport",-15.398056030273438,-54.608333587646484,1821,"SA","BR","BR-MT","Dom Aquino","no",,,"SWKJ",,,,
+597353,"SWKK","heliport","Huck Heliport",-23.00857,-43.288228,328,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SWKK","RJ0161",,,
 37942,"SWKL","small_airport","Fazenda Primavera do Terebinto Airport",-12.557778358459473,-61.99611282348633,590,"SA","BR","BR-RO","Alto Alegre Dos Parecis","no",,,"SWKL",,,,
 37943,"SWKM","small_airport","Aero Agrícola Rondon Airport",-14.644166946411133,-57.50416564941406,1390,"SA","BR","BR-MT","Tangará Da Serra","no",,,"SWKM",,,,
 554,"SWKO","small_airport","Coari Airport",-4.13406,-63.132599,131,"SA","BR","BR-AM","Coari","no","SWKO","CIZ","SWKO","SWKO",,"https://en.wikipedia.org/wiki/Coari_Airport",
@@ -62754,22 +62767,22 @@
 323574,"SWUX","small_airport","Fazenda 4 Amigos Airport",-9.409722,-49.668333,604,"SA","BR","BR-TO","Abreulândia","no",,,"SWUX",,,,
 591,"SWUZ","small_airport","Brigadeiro Araripe Macedo Airport",-16.2617,-47.9687,3269,"SA","BR","BR-GO","Luziânia","no",,,"SWUZ","SWUZ",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Luzi%C3%A2nia",
 564920,"SWVB","heliport","ICPB Heliport",-27.143296,-48.532353,18,"SA","BR","BR-SC","Porto Belo","no","SWVB",,"SWVB","SC0206",,,
-38114,"SWVC","small_airport","Vila Rica Airport",-9.979444,-51.142223,892,"SA","BR","BR-MT","Vila Rica","no","SWVC","VLP","SWVC",,,"https://en.wikipedia.org/wiki/Vila_Rica_Airport",
-38117,"SWVF","small_airport","Fazenda Sto Antônio Guaporé - Sede Nova Airport",-16.0094432831,-59.9280548096,709,"SA","BR","BR-MT","Vila Bela Da Santíssima Trindade","no",,,"SWVF",,,,
-316514,"SWVG","heliport","Riacho Verde Heliport",-5.971,-40.2983,1387,"SA","BR","BR-CE","Tauá","no",,,"SWVG","SWVG",,,
+38114,"SWVC","small_airport","Vila Rica Airport",-9.981057,-51.140358,833,"SA","BR","BR-MT","Vila Rica","no","SWVC","VLP","SWVC","MT0016",,"https://en.wikipedia.org/wiki/Vila_Rica_Airport",
+38117,"SWVF","small_airport","Fazenda Santo Antônio Guaporé Airport",-16.008766,-59.920008,741,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,"SWVF","MT0415",,,"Sede Nova"
+316514,"SWVG","heliport","Riacho Verde Heliport",-5.971023,-40.298348,1388,"SA","BR","BR-CE","Tauá","no",,,"SWVG","CE0070",,,
 38118,"SWVH","small_airport","Fazenda Vaca Branca Airport",-9.523333,-56.238333,899,"SA","BR","BR-MT","Alta Floresta","no",,,"SBQD","MT0694",,,"SWVH"
 38120,"SWVJ","small_airport","Fazenda Uiapuru Airport",-13.666504,-56.002564,1519,"SA","BR","BR-MT","Nova Mutum","no",,,"SS47","MT1021",,,"SWVJ"
 38121,"SWVK","small_airport","Fazenda Vale do Rio Celeste Airport",-13.035319,-55.32782,1450,"SA","BR","BR-MT","Nova Ubiratã","no",,,"SWVK","MT0417",,,
-316513,"SWVM","heliport","Vinte e Oito Helipad",-19.9626,-43.9584,3405,"SA","BR","BR-MG","Belo Horizonte","no",,,"SWVM","SWVM",,,
+316513,"SWVM","heliport","Vinte e Oito Helipad",-19.962612,-43.958441,3340,"SA","BR","BR-MG","Belo Horizonte","no",,,"SWVM","MG0288",,,
 38123,"SWVN","small_airport","Nova Era & Thomazi Agropecuárias Airport",-13.634017,-59.796052,2054,"SA","BR","BR-MT","Comodoro","no",,,"SD4H","MT0698",,,"SWVN, Valdir Masutti Airport"
 38126,"SWVR","small_airport","Aeródromo do Canarinho",-11.906131,-55.456099,1460,"SA","BR","BR-MT","Sinop","no",,,"SWVR",,,,"Estância Rosália"
 38127,"SWVS","small_airport","Baia do Padre Airport",-15.861972,-60.04039,675,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,"SWVS","MT0419",,,"Fazenda Sto Antônio do Guaporé"
 41096,"SWVU","small_airport","Fazenda Ramalhete Airport",-21.733299255371094,-54.576698303222656,1099,"SA","BR","BR-MS","Rio Brilhante","no",,,"SWVU",,,,
 38128,"SWVV","small_airport","Fazenda Bela Vista Airport",-15.755166,-60.096052,692,"SA","BR","BR-MT","Vila Bela Da Santíssima Trindade","no",,,"SWVV",,,,"Fazenda Esperança"
-316511,"SWVW","small_airport","Furnaspark Resort Airport",-20.535,-45.6037,2580,"SA","BR","BR-MG","Formiga","no",,,"SWVW","SWVW","http://www.furnaspark.com.br/airport-facility/",,
-316509,"SWVX","small_airport","Fazenda Guariba Airstrip",-10.2415,-60.1409,517,"SA","BR","BR-MT","Aripuanã","no",,,"SWVX","SWVX",,,
+316511,"SWVW","small_airport","Furnaspark Resort Airport",-20.53527,-45.603935,2589,"SA","BR","BR-MG","Formiga","no",,,"SWVW","MG0205","http://www.furnaspark.com.br/airport-facility/",,
+316509,"SWVX","small_airport","Fazenda Guariba Airstrip",-10.2415,-60.1409,531,"SA","BR","BR-MT","Aripuanã","no",,,"SWVX","MT0421",,,
 42734,"SWVY","small_airport","Fazenda Carvalho Airport",-17.568061,-56.482236,361,"SA","BR","BR-MS","Corumbá","no",,,"SNQO","MS0225",,,"SWVY"
-38129,"SWVZ","small_airport","EMAL - Empresa de Mineração Aripuanã Ltda Airport",-14.75,-56.352779388427734,2362,"SA","BR","BR-MT","Nobres","no",,,"SWVZ",,,,
+38129,"SWVZ","small_airport","EMAL - Empresa de Mineração Aripuanã Ltda Airport",-14.75,-56.352779,2362,"SA","BR","BR-MT","Nobres","no",,,"SWVZ","MT0422",,,
 592,"SWWA","small_airport","Porangatu Airport",-13.4048,-49.158298,1201,"SA","BR","BR-GO","Porangatu","no",,,"SWWA","GO0012",,,
 331936,"SWWC","heliport","Cataratas Poços Helipad",2.766853,-60.716017,279,"SA","BR","BR-RR","Boa Vista","no",,,"SWWC","RR0115",,,
 331931,"SWWE","small_airport","M. Baumann Airfield",-26.03618,-49.500291,3123,"SA","BR","BR-PR","Piên","no",,,"SWWE","PR0099",,,
