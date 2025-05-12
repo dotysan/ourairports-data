@@ -7342,7 +7342,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 38096,SWTY,small_airport,Taguatinga Airport,-12.433889389038086,-46.40055465698242,1959,SA,BR,BR-TO,Taguatinga,no,,QHN,SWTY,,,,
 588,SWUA,small_airport,São Miguel do Araguaia Airport,-13.331299781799316,-50.197601318359375,1249,SA,BR,BR-GO,São Miguel Do Araguaia,no,SWUA,SQM,SWUA,SWUA,,,
 564920,SWVB,heliport,ICPB Heliport,-27.143296,-48.532353,18,SA,BR,BR-SC,Porto Belo,no,SWVB,,SWVB,SC0206,,,
-38114,SWVC,small_airport,Vila Rica Airport,-9.979444,-51.142223,892,SA,BR,BR-MT,Vila Rica,no,SWVC,VLP,SWVC,,,https://en.wikipedia.org/wiki/Vila_Rica_Airport,
+38114,SWVC,small_airport,Vila Rica Airport,-9.981057,-51.140358,833,SA,BR,BR-MT,Vila Rica,no,SWVC,VLP,SWVC,MT0016,,https://en.wikipedia.org/wiki/Vila_Rica_Airport,
 31882,SWXM,small_airport,Orlando Villas Boas Regional Airport,-10.170368,-54.953964,886,SA,BR,BR-MT,Matupá,no,SWXM,MBK,SWXM,MT0014,,https://en.wikipedia.org/wiki/Matup%C3%A1_Airport,Matupá Airport
 32042,SWXV,small_airport,Xavantina Airport,-14.697778,-52.347246,1037,SA,BR,BR-MT,Nova Xavantina,no,SWXV,NOK,SWXV,MT0013,,https://pt.wikipedia.org/wiki/Aeroporto_de_Nova_Xavantina,SWXN
 602,SWYN,small_airport,Apuí Airport,-7.172773,-59.8396,197,SA,BR,BR-AM,Apuí,no,,IUP,SWYN,AM0023,,https://en.wikipedia.org/wiki/Apu%C3%AD_Airport,
