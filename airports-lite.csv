@@ -159,7 +159,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 43809,AT-0052,heliport,Horn Heliport,48.669249,15.660705,1012,EU,AT,AT-3,Horn,no,LOAH,,LOAH,,,,
 43810,AT-0053,heliport,Krems University Hospital Helipad,48.412753,15.615224,647,EU,AT,AT-3,Krems,no,LOAK,,LOAK,,,,Christophorus 2
 43864,AT-0087,heliport,Wien-Meidling Heliport,48.173743,16.322633,737,EU,AT,AT-9,Vienna,no,LOAM,,LOAM,,,,Vienna Police
-313838,AU-0081,small_airport,Lady Elliot Island Airstrip,-24.1129,152.7156,20,OC,AU,AU-QLD,Lady Elliot Island,no,,LYT,YLTT,,,,
+313838,AU-0081,small_airport,Lady Elliot Island Airstrip,-24.1129,152.7156,20,OC,AU,AU-QLD,Lady Elliot Island,no,YLTT,LYT,YLTT,,,,
 354527,AU-0456,small_airport,Gruyere Airport,-28.034548,123.81506,1542,OC,AU,AU-WA,Cosmo Newbery,yes,,GYZ,YGRM,,,,
 356438,AU-0490,small_airport,Packsaddle Airport,-30.29424,142.13758,342,OC,AU,AU-NSW,Packsaddle,no,YPAS,,YPAS,,,,
 507890,AU-0565,small_airport,Moora Airport,-30.684896,115.982059,659,OC,AU,AU-WA,Moora,no,YMRO,,YMRO,,,,Topfun Aviation
@@ -642,7 +642,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 624,CAJ4,medium_airport,Anahim Lake Airport,52.451501,-125.303776,3635,NA,CA,CA-BC,Anahim Lake,yes,,YAA,CAJ4,CAJ4,,https://en.wikipedia.org/wiki/Anahim_Lake_Airport,AJ4
 629,CAL3,small_airport,Douglas Lake Airport,50.1654600485,-120.171273351,2770,NA,CA,CA-BC,Douglas Lake,no,,DGF,CAL3,CAL3,,https://en.wikipedia.org/wiki/Douglas_Lake_Airport,AL3
 30592,CAL4,small_airport,Fort MacKay/Albian Aerodrome,57.223899841299996,-111.418998718,1048,NA,CA,CA-AB,Albian Village,no,,JHL,CAL4,CAL4,,https://en.wikipedia.org/wiki/Fort_MacKay/Albian_Aerodrome,"Shell Canada, Jackpine Mine"
-28434,CAL9,seaplane_base,Tahsis Seaplane Base,49.916698455799995,-126.666999817,0,NA,CA,CA-BC,Tahsis,no,,ZTS,CAL9,CAL9,,https://en.wikipedia.org/wiki/Tahsis_Water_Aerodrome,
+28434,CAL9,seaplane_base,Tahsis Seaplane Base,49.92,-126.655,0,NA,CA,CA-BC,Tahsis,no,,ZTS,CAL9,CAL9,,https://en.wikipedia.org/wiki/Tahsis_Water_Aerodrome,
 631,CAM3,small_airport,Duncan Airport,48.754534,-123.709702,300,NA,CA,CA-BC,Duncan,no,,DUQ,CAM3,CAM3,,https://en.wikipedia.org/wiki/Duncan_Airport,AM3
 634,CAP3,small_airport,Sechelt-Gibsons Airport,49.460601806599996,-123.71900177,340,NA,CA,CA-BC,Sechelt,no,,YHS,CAP3,CAP3,,https://en.wikipedia.org/wiki/Sechelt-Gibsons_Airport,"AP3, Sechelt Aerodrome, Sunshine Coast Airfield"
 28274,CAP7,seaplane_base,Kitkatla Seaplane Base,53.7999992371,-130.432998657,,NA,CA,CA-BC,Kitkatla,no,,YKK,CAP7,CAP7,,https://en.wikipedia.org/wiki/Kitkatla_Water_Aerodrome,AP7
@@ -882,7 +882,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 1768,CYHU,medium_airport,Montréal / Saint-Hubert Metropolitan Airport,45.517502,-73.416901,90,NA,CA,CA-QC,Montréal,yes,CYHU,YHU,CYHU,,http://www.dashl.ca/,https://en.wikipedia.org/wiki/Montr%C3%A9al/St-Hubert_Airport,
 1769,CYHY,medium_airport,Hay River / Merlyn Carter Airport,60.8396987915,-115.782997131,541,NA,CA,CA-NT,Hay River,yes,CYHY,YHY,CYHY,,,https://en.wikipedia.org/wiki/Hay_River_Airport,
 1770,CYHZ,large_airport,Halifax / Stanfield International Airport,44.8807983398,-63.5085983276,477,NA,CA,CA-NS,Halifax,yes,CYHZ,YHZ,CYHZ,,http://www.hiaa.ca/,https://en.wikipedia.org/wiki/Halifax_International_Airport,Robert L. Stanfield International Airport
-1771,CYIB,medium_airport,Atikokan Municipal Airport,48.7738990784,-91.6386032104,1408,NA,CA,CA-ON,Atikokan,no,CYIB,YIB,CYIB,,http://www.atikokaninfo.com/community/transportation/airport/,https://en.wikipedia.org/wiki/Atikokan_Municipal_Airport,
+1771,CYIB,medium_airport,Atikokan Municipal Airport,48.773899,-91.638603,1408,NA,CA,CA-ON,Atikokan,no,CYIB,YIB,CYIB,,http://www.atikokaninfo.com/community/transportation/airport/,https://en.wikipedia.org/wiki/Atikokan_Municipal_Airport,
 1772,CYID,medium_airport,Digby / Annapolis Regional Airport,44.5458450365,-65.7854247093,499,NA,CA,CA-NS,Digby,no,CYID,YDG,CYID,,,https://en.wikipedia.org/wiki/Digby_Airport,YID
 1773,CYIF,medium_airport,St Augustin Airport,51.2117,-58.658298,20,NA,CA,CA-QC,St-Augustin,yes,CYIF,YIF,CYIF,,,https://en.wikipedia.org/wiki/St-Augustin_Airport,Pakuashipi Airport
 1774,CYIK,small_airport,Ivujivik Airport,62.417301,-77.925301,126,NA,CA,CA-QC,Ivujivik,yes,CYIK,YIK,CYIK,,,https://en.wikipedia.org/wiki/Ivujivik_Airport,
