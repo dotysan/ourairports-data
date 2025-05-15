@@ -1578,7 +1578,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2492,EGVA,medium_airport,RAF Fairford,51.683568,-1.789172,286,EU,GB,GB-ENG,"Fairford, Gloucestershire",no,EGVA,FFD,EGVA,,,https://en.wikipedia.org/wiki/RAF_Fairford,
 2493,EGVN,medium_airport,RAF Brize Norton,51.75,-1.58362,288,EU,GB,GB-ENG,"Carterton, Oxfordshire",no,EGVN,BZZ,EGVN,,http://www.raf.mod.uk/rafbrizenorton/passengers/,https://en.wikipedia.org/wiki/RAF_Brize_Norton,Royal Air Force
 2494,EGVO,medium_airport,RAF Odiham,51.2341,-0.942825,405,EU,GB,GB-ENG,"Hook, Hampshire",no,EGVO,ODH,EGVO,,,https://en.wikipedia.org/wiki/RAF_Odiham,Odiham
-29207,EGWN,small_airport,RAF Halton,51.790699,-0.737972,370,EU,GB,GB-ENG,"Halton, Buckinghamshire",no,EGWN,,EGWN,EGWN,https://www.raf.mod.uk/our-organisation/stations/raf-halton/,https://en.wikipedia.org/wiki/RAF_Halton,
+29207,EGWN,small_airport,RAF Halton,51.790699,-0.737972,370,EU,GB,GB-ENG,"Halton, Buckinghamshire",no,EGWN,,EGWN,,https://www.raf.mod.uk/our-organisation/stations/raf-halton/,https://en.wikipedia.org/wiki/RAF_Halton,
 2496,EGWU,medium_airport,RAF Northolt,51.553001,-0.418167,124,EU,GB,GB-ENG,London,no,EGWU,NHT,EGWU,,https://www.raf.mod.uk/our-organisation/stations/raf-northolt/,https://en.wikipedia.org/wiki/RAF_Northolt,
 2497,EGXC,medium_airport,RAF Coningsby,53.092999,-0.166014,25,EU,GB,GB-ENG,"Lincoln, Lincolnshire",no,EGXC,QCY,EGXC,,http://www.raf.mod.uk/rafconingsby,https://en.wikipedia.org/wiki/RAF_Coningsby,Coningsby
 2501,EGXH,medium_airport,RAF Honington,52.342602,0.772939,174,EU,GB,GB-ENG,"Bury Saint Edmunds, Suffolk",no,EGXH,BEQ,EGXH,,,https://en.wikipedia.org/wiki/RAF_Honington,
