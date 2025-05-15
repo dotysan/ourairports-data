@@ -11121,7 +11121,7 @@
 348326,"AU-0201","small_airport","Cygnet Bay Pearl Farm Airport",-16.44032,123.01758,92,"OC","AU","AU-WA","Dampier Peninsula","no",,,,,,,
 348327,"AU-0202","small_airport","Arrow Pearling Base Airport",-16.947598,122.49758,16,"OC","AU","AU-WA","Dampier Peninsula","no",,,,,,,
 348328,"AU-0203","small_airport","Meda Airport",-17.36042,123.99276,52,"OC","AU","AU-WA","Meda","no",,,,,,,
-348329,"AU-0204","small_airport","Koolan Island Village Airport",-16.12854,123.77981,502,"OC","AU","AU-WA","Kimbolton","no",,,"YKLI",,,,
+348329,"AU-0204","closed","Koolan Island Village Airport",-16.12854,123.77981,502,"OC","AU","AU-WA","Kimbolton","no",,,,,,,"YKLI"
 348506,"AU-0205","small_airport","Kynuna Town Strip (Glenagra)",-21.535126,141.838249,735,"OC","AU","AU-QLD","Kynuna","no",,,,"YKYNU",,,
 348586,"AU-0206","small_airport","Minilya Airport",-23.80655,114.00853,49,"OC","AU","AU-WA","Minilya","no",,,,,,,
 348587,"AU-0207","closed","Yandoo Creek Airport",-24.31272,114.32325,223,"OC","AU","AU-WA","Yandoo Creek","no",,,,,,,
@@ -14883,7 +14883,7 @@
 37442,"BR-2090","closed","Fazenda Divisão Airport",-23.133888,-54.633888,1312,"SA","BR","BR-MS","Amambaí","no",,,,,,,"SSDZ"
 37470,"BR-2091","closed","Fazenda Thoma Airport",-21.659200668335,-53.511100769043,1111,"SA","BR","BR-MS","Nova Andradina","no",,,,,,,"SSFT, SSFT"
 37484,"BR-2092","closed","Fazenda São Francisco Airport",-19.3808326721,-53.0416679382,1099,"SA","BR","BR-MS","Água Clara","no",,,,,,,"SSGQ, SSGQ"
-37510,"BR-2093","closed","Fazenda Orion Airport",-22.024088,-56.325231,1001,"SA","BR","BR-MS","Bela Vista","no",,,,,,,"SSII"
+37510,"BR-2093","small_airport","Fazenda Orion Airport",-22.021104,-56.329251,849,"SA","BR","BR-MS","Bela Vista","no",,,"SS8C","MS0629",,,"SSII"
 37567,"BR-2094","closed","Marrecão Airport",-27.065844,-48.889318,68,"SA","BR","BR-SC","Brusque","no",,,,,,,"SSMA"
 37579,"BR-2095","closed","Fazenda São Benedito Airport",-18.42,-56.46,394,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SSNE, SSNE"
 37609,"BR-2096","closed","Fazenda Reserva Airport",-25.849569,-52.014685,3438,"SA","BR","BR-PR","Reserva do Iguaçu","no",,,,,,,"SSPJ"
@@ -15265,21 +15265,21 @@
 36182,"BR-2472","small_airport","Fazenda Palmeiras Airport",-9.601944,-49.773888,722,"SA","BR","BR-TO","Caseara","no",,,,,,,"SIPH"
 36183,"BR-2473","small_airport","Fazenda Marreco Airport",-18.108372,-45.217416,1969,"SA","BR","BR-MG","São Gonçalo Do Abaeté","no",,,,,,,"SIPJ"
 36184,"BR-2474","small_airport","Fazenda Entre Serras Airport",-14.623884,-54.47653,1824,"SA","BR","BR-MT","Planalto da Serra","no",,,,,,,"SIPL"
-36185,"BR-2475","heliport","Praia do Morcego Heliport",-23.038610458374,-44.347778320312,10,"SA","BR","BR-RJ","Angra Dos Reis","no",,,,"SIPM",,,"SIPM"
-36187,"BR-2476","heliport","Lura Heliport",-23.015829,-44.279426,123,"SA","BR","BR-RJ","Angra dos Reis","no",,,,"SIPP",,,"SIPP"
-36188,"BR-2477","small_airport","Fazenda Rancho Estrela Airport",-16.992365,-48.736353,3002,"SA","BR","BR-GO","São Miguel do Passa Quatro","no",,,,"SIPQ",,,"SIPQ"
+36185,"BR-2475","heliport","Praia do Morcego Heliport",-23.039144,-44.34756,10,"SA","BR","BR-RJ","Angra dos Reis","no",,,,,,,"SIPM"
+36187,"BR-2476","heliport","Lura Heliport",-23.015839,-44.279353,123,"SA","BR","BR-RJ","Angra dos Reis","no",,,,,,,"SIPP"
+36188,"BR-2477","small_airport","Fazenda Rancho Estrela Airport",-16.992365,-48.736353,3002,"SA","BR","BR-GO","São Miguel do Passa Quatro","no",,,,,,,"SIPQ"
 36189,"BR-2478","small_airport","Fazenda São José Airport",-17.00111,-50.742779,2451,"SA","BR","BR-GO","Paraúna","no",,,,,,,"SIPR"
 36191,"BR-2479","small_airport","Fazenda Lagoa da Capa Airport",-19.448334,-47.362778,3567,"SA","BR","BR-MG","Perdizes","no",,,,,,,"SIPU"
 36192,"BR-2480","heliport","Aquarius Heliport",-23.603333,-45.865555,2726,"SA","BR","BR-SP","Cotia","no",,,,,,,"SIPV"
-36194,"BR-2481","small_airport","Ambrósio Airport",-1.9813890457153,-50.811389923096,96,"SA","BR","BR-PA","Portel","no",,,,"SIPY",,,"SIPY"
-36197,"BR-2482","small_airport","Monte Verde Airport",-3.2741670608521,-50.321388244629,249,"SA","BR","BR-PA","Portel","no",,,,"SIQB",,,"SIQB"
-36207,"BR-2483","small_airport","Fazenda Bom Jardim Airport",-17.900278091431,-50.123611450195,1693,"SA","BR","BR-GO","Porteirão","no",,,,"SIQM",,,"SIQM"
-36208,"BR-2484","small_airport","Fazenda Flor da Mata Airport",-10.716667175293,-52.801944732666,1264,"SA","BR","BR-MT","São José Do Xingu","no",,,,"SIQN",,,"SIQN"
-36209,"BR-2485","small_airport","Fazenda Mercedes Estância Airport",-18.334167480469,-55.485000610352,499,"SA","BR","BR-MS","Corumbá","no",,,,"SIQO",,,"SIQO"
-36210,"BR-2486","heliport","Chimical Heliport",-23.582778930664,-46.168888092041,2576,"SA","BR","BR-SP","Mogi Das Cruzes","no",,,,"SIQP",,,"SIQP"
-36212,"BR-2487","small_airport","Fazenda Triângulo Airport",-13.581944465637,-49.820556640625,804,"SA","BR","BR-GO","Bonópolis","no",,,,"SIQR",,,"SIQR"
-36214,"BR-2488","heliport","Minerva Heliport",-22.866112,-43.214169,8,"SA","BR","BR-RJ","Rio De Janeiro","no",,,,"SIQT",,,"SIQT"
-36217,"BR-2489","small_airport","Fazenda Santa Maria do Jauru Airport",-15.823852,-58.551443,680,"SA","BR","BR-MT","Porto Esperidião","no",,,,"SIQW",,,"SIQW"
+36194,"BR-2481","small_airport","Ambrósio Airport",-1.981594,-50.811522,96,"SA","BR","BR-PA","Portel","no",,,,,,,"SIPY"
+36197,"BR-2482","small_airport","Monte Verde Airport",-3.276844,-50.318674,249,"SA","BR","BR-PA","Portel","no",,,,,,,"SIQB"
+36207,"BR-2483","small_airport","Fazenda Bom Jardim Airport",-17.903033,-50.122099,1693,"SA","BR","BR-GO","Porteirão","no",,,,,,,"SIQM"
+36208,"BR-2484","small_airport","Fazenda Flor da Mata Airport",-10.716667,-52.801945,1264,"SA","BR","BR-MT","São José do Xingu","no",,,,,,,"SIQN"
+36209,"BR-2485","small_airport","Fazenda Mercedes Estância Airport",-18.33644,-55.480644,499,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SIQO"
+36210,"BR-2486","heliport","Chimical Heliport",-23.582779,-46.168888,2576,"SA","BR","BR-SP","Mogi das Cruzes","no",,,,,,,"SIQP"
+36212,"BR-2487","small_airport","Fazenda Triângulo Airport",-13.580328,-49.820848,804,"SA","BR","BR-GO","Bonópolis","no",,,,,,,"SIQR"
+36214,"BR-2488","heliport","Minerva Heliport",-22.8661,-43.214411,8,"SA","BR","BR-RJ","Rio de Janeiro","no",,,,,,,"SIQT"
+36217,"BR-2489","small_airport","Fazenda Santa Maria do Jauru Airport",-15.823852,-58.551443,680,"SA","BR","BR-MT","Porto Esperidião","no",,,,,,,"SIQW"
 36218,"BR-2490","small_airport","Fazenda Barranquinho Airport",-15.647606,-57.470176,558,"SA","BR","BR-MT","Porto Estrela","no",,,,,,,"SIQX"
 36221,"BR-2491","small_airport","Fazenda Magiana Airport",-12.3886108398,-55.2427787781,1575,"SA","BR","BR-MT","Sorriso","no",,,,"SIRA",,,"SIRA"
 36224,"BR-2492","small_airport","Rancho Jatobá Airport",-12.241211,-50.935497,677,"SA","BR","BR-MT","Novo Santo Antônio","no",,,,"SIRD",,,"SIRD"
@@ -23740,7 +23740,7 @@
 30618,"EGWA","heliport","Marlborough Lines Heliport",51.207641,-1.529366,249,"EU","GB","GB-ENG","Andover, Hampshire","no",,,"EGWA",,,"https://en.wikipedia.org/wiki/RAF_Andover","RAF Andover, ADV"
 2495,"EGWC","medium_airport","RAF Cosford",52.639999,-2.30558,272,"EU","GB","GB-ENG","Cosford","no",,,"EGWC",,"http://www.raf.mod.uk/dcaecosford/","https://en.wikipedia.org/wiki/DCAE_Cosford","RAF Cosford"
 29206,"EGWE","small_airport","RAF Henlow",52.0182,-0.30385,206,"EU","GB","GB-ENG","Henlow","no",,,"EGWE",,,"https://en.wikipedia.org/wiki/RAF_Henlow",
-29207,"EGWN","small_airport","RAF Halton",51.790699,-0.737972,370,"EU","GB","GB-ENG","Halton, Buckinghamshire","no","EGWN",,"EGWN","EGWN","https://www.raf.mod.uk/our-organisation/stations/raf-halton/","https://en.wikipedia.org/wiki/RAF_Halton",
+29207,"EGWN","small_airport","RAF Halton",51.790699,-0.737972,370,"EU","GB","GB-ENG","Halton, Buckinghamshire","no","EGWN",,"EGWN",,"https://www.raf.mod.uk/our-organisation/stations/raf-halton/","https://en.wikipedia.org/wiki/RAF_Halton",
 2496,"EGWU","medium_airport","RAF Northolt",51.553001,-0.418167,124,"EU","GB","GB-ENG","London","no","EGWU","NHT","EGWU",,"https://www.raf.mod.uk/our-organisation/stations/raf-northolt/","https://en.wikipedia.org/wiki/RAF_Northolt",
 2497,"EGXC","medium_airport","RAF Coningsby",53.092999,-0.166014,25,"EU","GB","GB-ENG","Lincoln, Lincolnshire","no","EGXC","QCY","EGXC",,"http://www.raf.mod.uk/rafconingsby","https://en.wikipedia.org/wiki/RAF_Coningsby","Coningsby"
 2499,"EGXE","medium_airport","RAF Leeming",54.297191,-1.538944,132,"EU","GB","GB-ENG","Northallerton, North Yorkshire","no",,,"EGXE",,,"https://en.wikipedia.org/wiki/RAF_Leeming",
@@ -61525,6 +61525,12 @@
 555226,"SS4O","small_airport","Fazenda Nossa Senhora Aparecida Airport",-13.204772,-53.647239,1138,"SA","BR","BR-MT","Gaúcha do Norte","no",,,"SS4O","MT1068",,,
 558160,"SS4P","small_airport","Fazenda Apunã Airport",-5.91233,-59.953219,314,"SA","BR","BR-AM","Novo Aripuanã","no",,,"SS4P","AM0117",,,
 553260,"SS4U","small_airport","Cajamar Airport",-5.639585,-45.230105,646,"SA","BR","BR-MA","Barra do Corda","no",,,"SS4U","MA0192",,,
+597446,"SS88","small_airport","Fazenda Caravelas Airsrtip",-17.657616,-45.052576,1720,"SA","BR","BR-MG","Buritizeiro","no",,,"SS88","MG0627",,,
+597445,"SS89","small_airport","Fazenda São Vicente Airport",-18.746586,-56.358164,381,"SA","BR","BR-MS","Corumbá","no",,,"SS89","MS0778",,,
+597443,"SS8A","small_airport","Fazenda Fênix Airstrip",-18.960108,-54.798939,1292,"SA","BR","BR-MS","Rio Verde de Mato Grosso","no",,,"SS8A","MS0779",,,
+597438,"SS8B","heliport","Aura Almas Heliport",-11.700895,-47.166726,1257,"SA","BR","BR-TO","Almas","no",,,"SS8B","TO0144",,,
+597437,"SS8D","heliport","Guarajuba Beach Country Heliport",-12.633167,-38.095472,148,"SA","BR","BR-BA","Camaçari","no",,,"SS8D","BA0482",,,
+597435,"SS8E","small_airport","Fazenda Chibata Airport",-15.420926,-51.093533,919,"SA","BR","BR-GO","Britânia","no",,,"SS8E","GO0396",,,
 597368,"SS8F","small_airport","Fazenda Santa Maria Airport",-12.901194,-55.928706,1302,"SA","BR","BR-MT","Sorriso","no",,,"SS8F","MT1094",,,
 597366,"SS8G","small_airport","Fazenda Carisma Airstrip",-16.105775,-56.608795,488,"SA","BR","BR-MT","Poconé","no",,,"SS8G","MT1095",,,
 597162,"SS8L","small_airport","Fazenda Tupancy Airstrip",-18.513139,-55.153003,600,"SA","BR","BR-MS","Rio Verde de Mato Grosso","no",,,"SS8L","MS0773",,,
