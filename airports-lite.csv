@@ -1618,7 +1618,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29224,EIKK,small_airport,Kilkenny Airport,52.65079879760742,-7.296110153198242,319,EU,IE,IE-KK,Kilkenny,no,EIKK,KKY,EIKK,,http://www.kilkennyflying-glidingclub.com/,https://en.wikipedia.org/wiki/Kilkenny_Airport,EIKL
 2534,EIKN,medium_airport,Ireland West Knock Airport,53.910301,-8.81849,665,EU,IE,IE-MO,Charlestown,yes,EIKN,NOC,EIKN,,http://www.irelandwestairport.com/,https://en.wikipedia.org/wiki/Ireland_West_Airport_Knock,Connaught
 2535,EIKY,medium_airport,Kerry Airport,52.180901,-9.52378,112,EU,IE,IE-KY,Farranfore,yes,EIKY,KIR,EIKY,,http://www.kerryairport.ie/,https://en.wikipedia.org/wiki/Kerry_Airport,
-29225,EILT,small_airport,Letterkenny Airfield,54.951302,-7.67283,20,EU,IE,IE-DL,Letterkenny,no,EILT,LTR,EILT,,,,
+29225,EILT,small_airport,Letterkenny Airfield,54.951302,-7.67283,20,EU,IE,IE-DL,Letterkenny,no,EILT,,EILT,,,,
 29226,EIMN,small_airport,Inishmaan Aerodrome,53.092999,-9.56806,15,EU,IE,IE-G,Inis Meáin,yes,EIMN,IIA,EIMN,,,https://en.wikipedia.org/wiki/Inishmaan_Aerodrome,Aran Islands
 2537,EINN,large_airport,Shannon Airport,52.702,-8.92482,46,EU,IE,IE-CE,Shannon,yes,EINN,SNN,EINN,,http://www.shannonairport.com/,https://en.wikipedia.org/wiki/Shannon_Airport,
 2538,EISG,medium_airport,Sligo Airport,54.280200958252,-8.5992097854614,11,EU,IE,IE-SO,Sligo,no,EISG,SXL,EISG,,http://www.sligoairport.com/,https://en.wikipedia.org/wiki/Sligo_Airport,
@@ -4465,7 +4465,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29967,LEHC,small_airport,Huesca-Pirineos Airport,42.076099,-0.316667,1769,EU,ES,ES-AR,Monflorite/Alcalá del Obispo,no,LEHC,HSK,LEHC,,https://www.aena.es/en/huesca-pirineos.html,https://en.wikipedia.org/wiki/Huesca%E2%80%93Pirineos_Airport,"Huesca-Pirineos, Huesca-Pyrenees"
 4013,LEIB,large_airport,Ibiza Airport,38.872898,1.37312,24,EU,ES,ES-IB,Ibiza (Eivissa),yes,LEIB,IBZ,LEIB,,https://www.aena.es/en/ibiza.html,https://en.wikipedia.org/wiki/Ibiza_Airport,
 4015,LEJR,medium_airport,Jerez Airport,36.744598,-6.06011,93,EU,ES,ES-AN,Jerez de la Frontera,yes,LEJR,XRY,LEJR,,https://www.aena.es/en/jerez.html,https://en.wikipedia.org/wiki/Jerez_Airport,
-4017,LELC,medium_airport,San Javier Airport,37.775002,-0.812389,11,EU,ES,ES-MC,San Javier,no,LELC,MJV,LELC,,,https://en.wikipedia.org/wiki/Murcia-San_Javier_Airport,
+4017,LELC,medium_airport,San Javier Airport,37.775002,-0.812389,11,EU,ES,ES-MC,San Javier,no,LELC,,LELC,,,https://en.wikipedia.org/wiki/Murcia-San_Javier_Airport,
 4018,LELN,medium_airport,León Int'l Airport,42.589001,-5.65556,3006,EU,ES,ES-CL,La Virgen Del Camino,yes,LELN,LEN,LELN,,https://www.aena.es/en/leon.html,https://en.wikipedia.org/wiki/Le%C3%B3n_Airport,
 30083,LELO,medium_airport,Logroño-Agoncillo Airport,42.460953,-2.322235,1161,EU,ES,ES-RI,Logroño,no,,RJL,LERJ,,https://www.aena.es/en/logrono-agoncillo.html,https://en.wikipedia.org/wiki/Logro%C3%B1o%E2%80%93Agoncillo_Airport,LELO
 4019,LEMD,large_airport,Adolfo Suárez Madrid–Barajas Airport,40.471926,-3.56264,1998,EU,ES,ES-MD,Madrid,yes,LEMD,MAD,LEMD,,https://www.aena.es/en/adolfo-suarez-madrid-barajas.html,https://en.wikipedia.org/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport,"Leganés, Madrid Barajas International Airport"
@@ -7907,7 +7907,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26526,VGCB,medium_airport,Cox's Bazar Airport,21.452199935913086,91.96389770507812,12,AS,BD,BD-2,Cox's Bazar,yes,VGCB,CXB,VGCB,,,https://en.wikipedia.org/wiki/Cox's_Bazar_Airport,
 30832,VGCM,small_airport,Comilla Airport,23.437201,91.189697,25,AS,BD,BD-2,Comilla,no,VGCM,CLA,VGCM,,,https://en.wikipedia.org/wiki/Comilla_Airport,
 26527,VGEG,medium_airport,Shah Amanat International Airport,22.249599,91.813301,12,AS,BD,BD-2,Chattogram (Chittagong),yes,VGEG,CGP,VGEG,,,https://en.wikipedia.org/wiki/Shah_Amanat_International_Airport,M.A. Hannan International Airport
-26534,VGHS,large_airport,Hazrat Shahjalal International Airport,23.843347,90.397783,30,AS,BD,BD-3,Dhaka,yes,VGHS,DAC,VGHS,,,https://en.wikipedia.org/wiki/Shahjalal_International_Airport,"VGZR, Zia International Airport, Dacca International Airport, Hazrat Shahjalal International Airport"
+26534,VGHS,large_airport,Hazrat Shahjalal International Airport,23.843347,90.397783,30,AS,BD,BD-3,Dhaka,yes,VGHS,DAC,VGHS,5500,,https://www.linkedin.com/in/md-shamim-islam-109925358/,"VGZR, Zia International Airport, Dacca International Airport, Hazrat Shahjalal International Airport"
 26528,VGIS,medium_airport,Ishurdi Airport,24.1525,89.0494,45,AS,BD,BD-5,Ishurdi,no,VGIS,IRD,VGIS,,,https://en.wikipedia.org/wiki/Ishwardi_Airport,
 26529,VGJR,medium_airport,Jessore Airport,23.1838,89.160797,20,AS,BD,BD-4,Jashore (Jessore),yes,VGJR,JSR,VGJR,,,https://en.wikipedia.org/wiki/Jessore_Airport,
 26530,VGRJ,medium_airport,Shah Mokhdum Airport,24.43720054626465,88.61650085449219,64,AS,BD,BD-5,Rajshahi,yes,VGRJ,RJH,VGRJ,,,https://en.wikipedia.org/wiki/Shah_Makhdum_Airport,
@@ -7974,6 +7974,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26589,VMMC,large_airport,Macau International Airport,22.149599,113.592003,20,AS,MO,MO-CAR,Nossa Senhora do Carmo,yes,VMMC,MFM,VMMC,,http://www.macau-airport.gov.mo/en/index.php,https://en.wikipedia.org/wiki/Macau_International_Airport,澳門國際機場
 328642,VN-0012,heliport,Nước Mặn (Marble Mountain) Air Facility,16.028581,108.252851,29,AS,VN,VN-SCC,Da Nang,no,VVNM,,VVNM,,,https://en.wikipedia.org/wiki/Marble_Mountain_Air_Facility,"Da Nang East Airfield, Khuê Mỹ"
 430104,VN-0044,small_airport,Phu Giao Airport,11.30034,106.79325,,AS,VN,VN-SE,Phu Giao,no,,PHU,,,,,
+597551,VN-0077,small_airport,KM88 onl,0.000002,-0.000002,,AS,VN,VN-SE,,no,KMKM,RKM,,KM88,https://km88.onl/,,
 30760,VNBG,small_airport,Bajhang Airport,29.539,81.185402,4100,AS,NP,NP-P7,Bajhang,no,VNBG,BJH,VNBG,,,https://en.wikipedia.org/wiki/Bajhang_Airport,
 30706,VNBJ,small_airport,Bhojpur Airport,27.1474,87.050797,4000,AS,NP,NP-P1,Bhojpur,no,VNBJ,BHP,VNBJ,,,https://en.wikipedia.org/wiki/Bhojpur_Airport,
 30701,VNBL,small_airport,Baglung Airport,28.212799,83.666298,3320,AS,NP,NP-P4,Baglung,no,VNBL,BGL,VNBL,,,https://en.wikipedia.org/wiki/Baglung_Airport,
