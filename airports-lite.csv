@@ -7428,6 +7428,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 333097,TOV,seaplane_base,Tortola West End Seaplane Base,18.45,-64.583333,,NA,VG,VG-U-A,Tortola,no,,TOV,,,,,
 316460,TPT,small_airport,Tapeta Airport,6.4948,-8.873,870,AF,LR,LR-NI,Tapeta,no,,TPT,,,,,
 6407,TQPF,medium_airport,Clayton J Lloyd International Airport,18.204773,-63.05383,127,NA,AI,AI-U-A,The Valley,yes,TQPF,AXA,TQPF,,http://www.news.ai/ref/airport.html,https://en.wikipedia.org/wiki/Clayton_J._Lloyd_International_Airport,Wallblake Airport
+340314,TR-0080,small_airport,Samsun / Ondokuz Mayis Airport,41.5129,36.1203,5,AS,TR,TR-55,İstiklal,no,LTON,,LTON,,,,Engiz Airport
 43074,TRPG,medium_airport,John A. Osborne Airport,16.791401,-62.193298,550,NA,MS,MS-SP,Gerald's Park,yes,TRPG,MNI,TRPG,,,https://en.wikipedia.org/wiki/John_A._Osborne_Airport,"Gerald's Airport, Brades"
 25116,TSG,small_airport,Tanacross Airport,63.374401092499994,-143.335998535,1549,NA,US,US-AK,Tanacross,no,,TSG,TSG,TSG,,https://en.wikipedia.org/wiki/Tanacross_Airport,
 316424,TSI,small_airport,Tsile Tsile Airport,-6.8498,146.3554,500,OC,PG,PG-MPL,Tsile Tsile,no,,TSI,,TSL,,https://en.wikipedia.org/wiki/Tsili_Tsili_Airfield,
