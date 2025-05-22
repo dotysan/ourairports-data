@@ -727,6 +727,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 348690,CN-0218,small_airport,Binzhou Dagao General Aviation Airport,37.61055,117.885699,25,AS,CN,CN-37,Binzhou,no,,CBZ,,,,,
 350882,CN-0236,medium_airport,Rikaze Dingri Airport,28.604567,86.798,14108,AS,CN,CN-54,Xigazê (Dingri),yes,,DDR,ZUDR,,,https://en.wikipedia.org/wiki/Rikaze_Dingri_Airport,Shigatse Tingri
 350883,CN-0237,medium_airport,Tashikuergan Hongqilafu Airport,37.661333,75.288877,10499,AS,CN,CN-65,Tashikuergan,yes,,HQL,ZWTK,,,https://en.wikipedia.org/wiki/Tashkurgan_Airport,
+350886,CN-0238,small_airport,Dongyang Hengdian General Airport,29.122619,120.24289,364,AS,CN,CN-33,Jinhua (Dongyang),no,,HEW,,,,,
 350949,CN-0253,small_airport,Jiande Qiandaohu General Airport,29.360905,119.180829,249,AS,CN,CN-33,Hangzhou,no,,JDE,,,,,
 350965,CN-0268,small_airport,Zhaodong Beidahuang General Airport,46.12779,125.77354,469,AS,CN,CN-23,Suihua,no,,HLJ,,,,,
 352226,CN-0300,small_airport,Taiyuan Yaocheng Airport,37.50312,112.424126,,AS,CN,CN-14,Taiyuan,no,,TYC,,,,,
@@ -3762,7 +3763,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 20513,KMJQ,small_airport,Jackson Municipal Airport,43.650002,-94.986504,1446,NA,US,US-MN,Jackson,no,KMJQ,MJQ,KMJQ,MJQ,,https://en.wikipedia.org/wiki/Jackson_Municipal_Airport_(Minnesota),
 20514,KMJX,small_airport,Ocean County Airport,39.92750168,-74.29239655,82,NA,US,US-NJ,Toms River,no,KMJX,MJX,KMJX,MJX,http://www.planning.co.ocean.nj.us/rjmiller/index.htm,https://en.wikipedia.org/wiki/Robert_J._Miller_Air_Park,"N44, Robert J. Miller Air Park"
 20515,KMKA,small_airport,Miller Municipal Airport,44.5252,-98.958099,1569,NA,US,US-SD,Miller,no,,MKA,KMKA,MKA,https://www.cityofmiller.com/199/Municipal-Airport,https://en.wikipedia.org/wiki/Miller_Municipal_Airport,
-3689,KMKC,medium_airport,Charles B. Wheeler Downtown Airport,39.123199,-94.592796,759,NA,US,US-MO,Kansas City,no,KMKC,MKC,KMKC,MKC,,https://en.wikipedia.org/wiki/Charles_B._Wheeler_Downtown_Airport,
+3689,KMKC,medium_airport,Charles B. Wheeler Downtown Airport,39.123199,-94.592796,759,NA,US,US-MO,Kansas City,no,KMKC,MKC,KMKC,MKC,https://flymkc.com/,https://en.wikipedia.org/wiki/Charles_B._Wheeler_Downtown_Airport,
 3690,KMKE,large_airport,General Mitchell International Airport,42.947201,-87.896599,723,NA,US,US-WI,Milwaukee,yes,KMKE,MKE,KMKE,MKE,https://www.mitchellairport.com/,https://en.wikipedia.org/wiki/General_Mitchell_International_Airport,
 3691,KMKG,medium_airport,Muskegon County Airport,43.169498,-86.238197,629,NA,US,US-MI,Muskegon,yes,KMKG,MKG,KMKG,MKG,,https://en.wikipedia.org/wiki/Muskegon_County_Airport,
 3692,KMKL,medium_airport,McKellar-Sipes Regional Airport,35.599899,-88.915604,434,NA,US,US-TN,Jackson,yes,KMKL,MKL,KMKL,MKL,http://mckellarsipes.com/,https://en.wikipedia.org/wiki/McKellar-Sipes_Regional_Airport,
@@ -4459,6 +4460,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4005,LEBZ,medium_airport,Badajoz Airport,38.8913,-6.82133,609,EU,ES,ES-EX,Badajoz,yes,LEBZ,BJZ,LEBZ,,https://www.aena.es/en/badajoz.html,https://en.wikipedia.org/wiki/Badajoz_Airport,Talavera La Real Airport
 300859,LECH,medium_airport,Castellón-Costa Azahar Airport,40.213889,0.073333,1182,EU,ES,ES-VC,Castellón de la Plana,yes,LECH,CDT,LECH,,https://www.aeroportcastello.com/,https://en.wikipedia.org/wiki/Castell%C3%B3n%E2%80%93Costa_Azahar_Airport,
 4007,LECO,medium_airport,A Coruña Airport,43.302101,-8.37726,326,EU,ES,ES-GA,Culleredo,yes,LECO,LCG,LECO,,https://www.aena.es/en/a-coruna.html,https://en.wikipedia.org/wiki/A_Coru%C3%B1a_Airport,"The Groyne, La Coruña"
+4044,LECU,medium_airport,Madrid-Cuatro Vientos Airport,40.370701,-3.78514,2269,AF,ES,ES-MD,Madrid,no,LECU,,LECU,,https://www.aena.es/en/madrid-cuatro-vientos.html,https://en.wikipedia.org/wiki/Cuatro_Vientos_Airport,"LEVS, ECV"
 308328,LEDA,medium_airport,Lleida-Alguaire Airport,41.728185,0.535023,1152,EU,ES,ES-CT,Lleida,yes,LEDA,ILD,LEDA,,http://www.aeroportlleida.cat/?L=2,https://en.wikipedia.org/wiki/Lleida-Alguaire_Airport,
 4010,LEGE,medium_airport,Girona-Costa Brava Airport,41.904639,2.761774,468,EU,ES,ES-CT,Girona,yes,LEGE,GRO,LEGE,,https://www.aena.es/en/girona-costa-brava.html,https://en.wikipedia.org/wiki/Girona-Costa_Brava_Airport,"Girona, Costa Brava, Girona-Costa Brava"
 4011,LEGR,medium_airport,F.G.L. Airport Granada-Jaén Airport,37.188702,-3.77736,1860,EU,ES,ES-AN,Granada,yes,LEGR,GRX,LEGR,,https://www.aena.es/en/f.g.l.-granada-jaen.html,https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca_Airport,
@@ -4526,7 +4528,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 28820,LFEC,small_airport,Ouessant Airport,48.4632,-5.06358,142,EU,FR,FR-BRE,Ushant,yes,,OUI,LFEC,,,https://en.wikipedia.org/wiki/Ushant_Airport,
 4101,LFEY,small_airport,Île d'Yeu Airport,46.717641,-2.392544,79,EU,FR,FR-PDL,Île d'Yeu,yes,LFEY,IDY,LFEY,,,https://en.wikipedia.org/wiki/%C3%8Ele_d'Yeu_Aerodrome,
 4104,LFGA,medium_airport,Colmar-Houssen Airport,48.109901,7.35901,628,EU,FR,FR-GES,"Colmar, Haut-Rhin",no,LFGA,CMR,LFGA,,https://www.colmar.aeroport.fr/en/,https://en.wikipedia.org/wiki/Colmar_Airport,
-4107,LFGJ,medium_airport,Dole-Jura Airport,47.038955,5.427589,645,EU,FR,FR-BFC,"Tavaux, Jura",yes,LFGJ,DLE,LFGJ,,https://www.aeroportdolejura.com/,https://en.wikipedia.org/wiki/Dole%E2%80%93Jura_Airport,Dole-Tavaux
+4107,LFGJ,medium_airport,Dole-Jura Airport,47.038955,5.427589,645,EU,FR,FR-BFC,"Tavaux, Jura",yes,LFGJ,DLE,LFGJ,,https://dole.aeroport.fr/,https://en.wikipedia.org/wiki/Dole%E2%80%93Jura_Airport,Dole-Tavaux
 28887,LFHM,small_airport,Megève Altiport,45.823005,6.649406,4823,EU,FR,FR-ARA,Megève,no,LFHM,MVV,LFHM,,,https://en.wikipedia.org/wiki/Meg%C3%A8ve_Altiport,
 4110,LFHO,medium_airport,Aubenas-South Ardèche Airport,44.544367,4.372194,923,EU,FR,FR-ARA,"Lanas, Ardèche",no,LFHO,OBS,LFHO,,,https://en.wikipedia.org/wiki/Aubenas_Aerodrome,Aubenas Ardèche Méridionale
 4111,LFHP,small_airport,Le Puy-Loudes Airfield,45.0807,3.76289,2731,EU,FR,FR-ARA,"Chaspuzac, Haute-Loire",yes,LFHP,LPY,LFHP,,,https://en.wikipedia.org/wiki/Le_Puy_-_Loudes_Airport,
