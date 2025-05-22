@@ -19248,11 +19248,11 @@
 350874,"CN-0235","small_airport","Jiangning Tushan Air Base",31.97139,118.8404,33,"AS","CN","CN-32","Nanjing","no",,,,,,,
 350882,"CN-0236","medium_airport","Rikaze Dingri Airport",28.604567,86.798,14108,"AS","CN","CN-54","Xigazê (Dingri)","yes",,"DDR","ZUDR",,,"https://en.wikipedia.org/wiki/Rikaze_Dingri_Airport","Shigatse Tingri"
 350883,"CN-0237","medium_airport","Tashikuergan Hongqilafu Airport",37.661333,75.288877,10499,"AS","CN","CN-65","Tashikuergan","yes",,"HQL","ZWTK",,,"https://en.wikipedia.org/wiki/Tashkurgan_Airport",
-350886,"CN-0238","small_airport","Dongyang Hengdian General Airport",29.12513,120.24343,364,"AS","CN","CN-33","Jinhua (Dongyang)","no",,,,,,,
+350886,"CN-0238","small_airport","Dongyang Hengdian General Airport",29.122619,120.24289,364,"AS","CN","CN-33","Jinhua (Dongyang)","no",,"HEW",,,,,
 350887,"CN-0239","heliport","Woduhe Heliport",50.53783,125.81467,1076,"AS","CN","CN-23","Nenjiang, Heihe","no",,,,,,,
 350888,"CN-0240","heliport","Taizhou Chunlan Heliport",32.49338,119.95283,20,"AS","CN","CN-33","Taizhou","no",,,,,,,
 350889,"CN-0241","small_airport","Jingmen Zhanghe General Airport",30.985923,112.05368,454,"AS","CN","CN-42","Jingmen (Dongbao)","no",,,,,,,
-350923,"CN-0242","small_airport","Faku Caihu Airport",42.38999,123.36977,286,"AS","CN","CN-21","Faku","no",,,,,,,
+350923,"CN-0242","small_airport","Faku Caihu Airport",42.390739,123.370464,286,"AS","CN","CN-21","Faku","no",,,"ZYFK",,,,
 350924,"CN-0243","small_airport","Qindeli Farm Airport",47.96256,133.18252,246,"AS","CN","CN-23","Jiamusi","no",,,,,,,
 350939,"CN-0244","small_airport","Chengdu Fenghuangshan Air Base",30.73019,104.09282,1660,"AS","CN","CN-51","Chengdu (Jinniu)","no",,,,,,,
 350940,"CN-0245","small_airport","Chengdu Taipingsi Airport",30.60321,104.01766,1616,"AS","CN","CN-51","Chengdu (Wuhou)","no",,,,,,,
@@ -19474,6 +19474,8 @@
 595940,"CN-0469","small_airport","Shuimen Airbase",26.941602,120.077384,,"AS","CN","CN-35","Shuimen","no",,,,,,"https://en.wikipedia.org/wiki/Shuimen_Air_Base",
 595941,"CN-0470","small_airport","Zhuzhou Lusong Airport",27.771768,113.207248,231,"AS","CN","CN-43","Zhuzhou","no",,,,,,,
 597654,"CN-0471","small_airport","Hump Tongyong Aviation",30.846557,103.61043,2074,"AS","CN","CN-51","Dujiangyan City Chengdu","no",,,,,,,
+597727,"CN-0472","small_airport","Rizhao City Lanshan General Airport",35.087326,119.300545,3,"AS","CN","CN-37","Lanshan","no",,,,,,,"Andongwei"
+597730,"CN-0473","small_airport","Jiande Hospital Heliport",29.345012,119.198245,177,"AS","CN","CN-33","Hangzhou","no",,,,,,,
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -29677,6 +29679,7 @@
 42450,"GR-0101","closed","Volos Army Airport",39.3838996887,22.9174003601,112,"EU","GR","GR-E","Volos","no",,,,,,,"LGVO, LGVO"
 594413,"GR-0102","closed","Skiathos Heliport",39.14462,23.44039,10,"EU","GR","GR-E","Platanias","no",,,,,,,
 594442,"GR-0103","closed","Sarantapicho Airfield",38.02697,22.37193,4308,"EU","GR","GR-J","Sarantapicho","no",,,,,,,
+597719,"GR-0104","heliport","Evelpidon Heliport",37.842764,23.815539,184,"EU","GR","GR-I","Vari","no",,,,,,,"Βάρη, Hellenic Army Academy"
 311387,"GRC","small_airport","Grand Cess Airport",4.571,-8.2076,28,"AF","LR","LR-GK","Grand Cess","no",,"GRC",,,,,
 342429,"GS-0001","heliport","Grytviken Emergency Helipad",-54.2824,-36.5095,27,"AN","GS","GS-U-A","Grytviken","no",,,,,,,
 42230,"GT-0001","small_airport","Chiquimula Airport",14.83092,-89.520938,1484,"NA","GT","GT-CQ","Chiquimula","no",,"CIQ","MGCQ",,,"https://en.wikipedia.org/wiki/Chiquimula_Airport",
@@ -36806,7 +36809,7 @@
 18467,"K1G3","small_airport","Kent State University Airport",41.151402,-81.4151,1134,"NA","US","US-OH","Kent","no",,,"K1G3","1G3",,"https://en.wikipedia.org/wiki/Kent_State_University_Airport",
 18468,"K1G4","small_airport","Grand Canyon West Airport",35.985787,-113.817072,4825,"NA","US","US-AZ","Peach Springs","no",,"GCW","K1G4","1G4",,"https://en.wikipedia.org/wiki/Grand_Canyon_West_Airport",
 18469,"K1G5","small_airport","Medina Municipal Airport",41.131401,-81.7649,1190,"NA","US","US-OH","Medina","no",,,"K1G5","1G5",,"https://en.wikipedia.org/wiki/Medina_Municipal_Airport","Freedom Field"
-18470,"K1H0","small_airport","Creve Coeur Airport",38.726799,-90.508301,463,"NA","US","US-MO","St Louis","no",,,"1H0","1H0",,"https://en.wikipedia.org/wiki/Creve_Coeur_Airport",
+18470,"K1H0","small_airport","Creve Coeur Airport",38.726799,-90.508301,463,"NA","US","US-MO","St Louis","no",,,"K1H0","1H0","https://www.crevecoeurairport.com/","https://en.wikipedia.org/wiki/Creve_Coeur_Airport",
 18471,"K1H2","small_airport","Effingham County Memorial Airport",39.0704,-88.533501,587,"NA","US","US-IL","Effingham","no",,,"K1H2","1H2",,"https://en.wikipedia.org/wiki/Effingham_County_Memorial_Airport",
 18472,"K1H3","small_airport","State Technical College of Missouri Airport",38.471583,-91.817293,952,"NA","US","US-MO","Linn","no",,,"K1H3","1H3","https://statetechmo.edu/program/aviation-maintenance/",,
 18473,"K1H5","small_airport","Willow Springs Memorial Airport",36.989601135253906,-91.9541015625,1247,"NA","US","US-MO","Willow Springs","no",,,"K1H5","1H5",,,
@@ -39553,7 +39556,7 @@
 20513,"KMJQ","small_airport","Jackson Municipal Airport",43.650002,-94.986504,1446,"NA","US","US-MN","Jackson","no","KMJQ","MJQ","KMJQ","MJQ",,"https://en.wikipedia.org/wiki/Jackson_Municipal_Airport_(Minnesota)",
 20514,"KMJX","small_airport","Ocean County Airport",39.92750168,-74.29239655,82,"NA","US","US-NJ","Toms River","no","KMJX","MJX","KMJX","MJX","http://www.planning.co.ocean.nj.us/rjmiller/index.htm","https://en.wikipedia.org/wiki/Robert_J._Miller_Air_Park","N44, Robert J. Miller Air Park"
 20515,"KMKA","small_airport","Miller Municipal Airport",44.5252,-98.958099,1569,"NA","US","US-SD","Miller","no",,"MKA","KMKA","MKA","https://www.cityofmiller.com/199/Municipal-Airport","https://en.wikipedia.org/wiki/Miller_Municipal_Airport",
-3689,"KMKC","medium_airport","Charles B. Wheeler Downtown Airport",39.123199,-94.592796,759,"NA","US","US-MO","Kansas City","no","KMKC","MKC","KMKC","MKC",,"https://en.wikipedia.org/wiki/Charles_B._Wheeler_Downtown_Airport",
+3689,"KMKC","medium_airport","Charles B. Wheeler Downtown Airport",39.123199,-94.592796,759,"NA","US","US-MO","Kansas City","no","KMKC","MKC","KMKC","MKC","https://flymkc.com/","https://en.wikipedia.org/wiki/Charles_B._Wheeler_Downtown_Airport",
 3690,"KMKE","large_airport","General Mitchell International Airport",42.947201,-87.896599,723,"NA","US","US-WI","Milwaukee","yes","KMKE","MKE","KMKE","MKE","https://www.mitchellairport.com/","https://en.wikipedia.org/wiki/General_Mitchell_International_Airport",
 3691,"KMKG","medium_airport","Muskegon County Airport",43.169498,-86.238197,629,"NA","US","US-MI","Muskegon","yes","KMKG","MKG","KMKG","MKG",,"https://en.wikipedia.org/wiki/Muskegon_County_Airport",
 20516,"KMKJ","small_airport","Mountain Empire Airport",36.894901,-81.349899,2558,"NA","US","US-VA","Rural Retreat","no",,,"KMKJ","MKJ",,"https://en.wikipedia.org/wiki/Mountain_Empire_Airport",
@@ -42370,7 +42373,7 @@
 29760,"LECN","small_airport","Castellon de la Plana Aerodrome",39.99836,0.026355,20,"EU","ES","ES-VC","Castellón de la Plana","no",,,"LECN",,"http://aeroclubcastellon.com","https://en.wikipedia.org/wiki/Castell%C3%B3n_Airport","CDT"
 4007,"LECO","medium_airport","A Coruña Airport",43.302101,-8.37726,326,"EU","ES","ES-GA","Culleredo","yes","LECO","LCG","LECO",,"https://www.aena.es/en/a-coruna.html","https://en.wikipedia.org/wiki/A_Coru%C3%B1a_Airport","The Groyne, La Coruña"
 43254,"LECT","small_airport","El Castaño Airfield",39.013604,-4.387141,2116,"EU","ES","ES-CM","Luciana","no",,,"LECT",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_El_Casta%C3%B1o",
-4044,"LECU","medium_airport","Madrid-Cuatro Vientos Airport",40.370701,-3.78514,2269,"EU","ES","ES-MD","Madrid","no",,,"LECU",,"https://www.aena.es/en/madrid-cuatro-vientos.html","https://en.wikipedia.org/wiki/Cuatro_Vientos_Airport","LEVS, ECV"
+4044,"LECU","medium_airport","Madrid-Cuatro Vientos Airport",40.370701,-3.78514,2269,"AF","ES","ES-MD","Madrid","no","LECU",,"LECU",,"https://www.aena.es/en/madrid-cuatro-vientos.html","https://en.wikipedia.org/wiki/Cuatro_Vientos_Airport","LEVS, ECV"
 326765,"LECV","heliport","Base Aérea de Colmenar Viejo",40.697296,-3.763255,3264,"EU","ES","ES-MD","Colmenar Viejo","no",,,"LECV",,,,"FAMET"
 308328,"LEDA","medium_airport","Lleida-Alguaire Airport",41.728185,0.535023,1152,"EU","ES","ES-CT","Lleida","yes","LEDA","ILD","LEDA",,"http://www.aeroportlleida.cat/?L=2","https://en.wikipedia.org/wiki/Lleida-Alguaire_Airport",
 518334,"LEDE","small_airport","Córdoba-Villarrubia Airfield",37.836632,-4.896426,307,"EU","ES","ES-AN","Córdoba","no",,,"LEDE",,"https://www.aeronauticadelgado.com/web/aerodromo/",,"Aerodel"
@@ -42668,7 +42671,7 @@
 28860,"LFGG","small_airport","Belfort Chaux Airfield",47.700732,6.831265,1368,"EU","FR","FR-BFC","Chaux","no",,,"LFGG",,,"https://en.wikipedia.org/wiki/Belfort_Chaux_Airport",
 28861,"LFGH","small_airport","Cosne-sur-Loire Airfield",47.36092,2.915862,581,"EU","FR","FR-BFC","Cosne-Cours-sur-Loire, Nièvre","no",,,"LFGH",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Cosne-sur-Loire",
 28862,"LFGI","small_airport","Dijon Darois Airfield",47.385278,4.946944,1586,"EU","FR","FR-BFC","Darois, Côte-d'Or","no",,,"LFGI",,,"https://fr.m.wikipedia.org/wiki/Aérodrome_de_Dijon_-_Darois",
-4107,"LFGJ","medium_airport","Dole-Jura Airport",47.038955,5.427589,645,"EU","FR","FR-BFC","Tavaux, Jura","yes","LFGJ","DLE","LFGJ",,"https://www.aeroportdolejura.com/","https://en.wikipedia.org/wiki/Dole%E2%80%93Jura_Airport","Dole-Tavaux"
+4107,"LFGJ","medium_airport","Dole-Jura Airport",47.038955,5.427589,645,"EU","FR","FR-BFC","Tavaux, Jura","yes","LFGJ","DLE","LFGJ",,"https://dole.aeroport.fr/","https://en.wikipedia.org/wiki/Dole%E2%80%93Jura_Airport","Dole-Tavaux"
 4108,"LFGK","small_airport","Joigny Airfield",47.994462,3.392715,732,"EU","FR","FR-BFC","Joigny, Yonne","no",,,"LFGK",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Joigny",
 28863,"LFGL","small_airport","Lons-le-Saunier Courlaoux Airfield",46.675046,5.46911,761,"EU","FR","FR-BFC","Courlaoux","no",,,"LFGL",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Lons-le-Saunier_-_Courlaoux",
 28864,"LFGM","small_airport","Montceau-les-Mines Pouilloux Airfield",46.60318,4.338162,1030,"EU","FR","FR-BFC","Pouilloux, Saône-et-Loire","no",,,"LFGM",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Montceau-les-Mines_-_Pouilloux",
