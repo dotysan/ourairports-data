@@ -1326,6 +1326,12 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 312833,EBO,small_airport,Ebon Airport,4.5982,168.752,8,OC,MH,MH-EBO,Ebon Atoll,no,,EBO,,,,https://en.wikipedia.org/wiki/Ebon_Airport,
 2163,EBOS,medium_airport,Oostende-Brugge International Airport,51.1998,2.874673,13,EU,BE,BE-VWV,Oostende,yes,EBOS,OST,EBOS,,http://www.ost.aero/,https://en.wikipedia.org/wiki/Ostend-Bruges_International_Airport,Ostend-Bruges International Airport
 2169,EBZR,small_airport,Oostmalle Airfield,51.269092,4.762428,53,EU,BE,BE-VAN,Zoersel,no,EBZR,OBL,EBZR,,http://www.ebzr.be/,https://en.wikipedia.org/wiki/Oostmalle_Airfield,Malle Airfield
+323815,EC-0014,small_airport,Macuma Airstrip,-2.145775,-77.700306,2300,SA,EC,EC-S,Macuma,no,SEAK,,SEAK,,,,
+324026,EC-0024,small_airport,Sharamentza Airstrip,-2.463387,-76.992629,997,SA,EC,EC-Y,Sharamentza,no,SEAW,,SEAW,,,,Jibaría Añangu
+324028,EC-0026,small_airport,Achuar Airstrip,-2.023662,-77.468825,1450,SA,EC,EC-Y,Achuar,no,SEAT,,SEAT,,,,Cotosaz
+351438,EC-0036,small_airport,Ana María Airport,-0.96115,-79.4162,236,SA,EC,EC-R,La Esperanza,no,SEAN,,SEAN,,,,Quevedo
+512190,EC-0056,small_airport,Aguayo Airport,-2.928941,-80.075941,10,SA,EC,EC-G,Aguayo,no,SEAA,,SEAA,,,,
+597754,EC-0071,heliport,Patio 400 Heliport,-0.948611,-80.730556,33,SA,EC,EC-M,Manta,no,SEAP,,SEAP,,,,
 41594,EC-MZD,small_airport,Méndez Airport,-2.733330011367798,-78.31670379638672,1770,SA,EC,EC-S,Santiago de Méndez,no,,MZD,,,,,
 317873,EDA,seaplane_base,Edna Bay Seaplane Base,55.949653,-133.661012,,NA,US,US-AK,Edna Bay,yes,,EDA,,,,,
 2184,EDAC,medium_airport,Leipzig–Altenburg Airport,50.981945,12.506389,640,EU,DE,DE-TH,Nobitz,no,EDAC,AOC,EDAC,,http://www.leipzig-altenburg-airport.de/,https://en.wikipedia.org/wiki/Leipzig%E2%80%93Altenburg_Airport,Altenburg-Nobitz
@@ -4460,7 +4466,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4005,LEBZ,medium_airport,Badajoz Airport,38.8913,-6.82133,609,EU,ES,ES-EX,Badajoz,yes,LEBZ,BJZ,LEBZ,,https://www.aena.es/en/badajoz.html,https://en.wikipedia.org/wiki/Badajoz_Airport,Talavera La Real Airport
 300859,LECH,medium_airport,Castellón-Costa Azahar Airport,40.213889,0.073333,1182,EU,ES,ES-VC,Castellón de la Plana,yes,LECH,CDT,LECH,,https://www.aeroportcastello.com/,https://en.wikipedia.org/wiki/Castell%C3%B3n%E2%80%93Costa_Azahar_Airport,
 4007,LECO,medium_airport,A Coruña Airport,43.302101,-8.37726,326,EU,ES,ES-GA,Culleredo,yes,LECO,LCG,LECO,,https://www.aena.es/en/a-coruna.html,https://en.wikipedia.org/wiki/A_Coru%C3%B1a_Airport,"The Groyne, La Coruña"
-4044,LECU,medium_airport,Madrid-Cuatro Vientos Airport,40.370701,-3.78514,2269,AF,ES,ES-MD,Madrid,no,LECU,,LECU,,https://www.aena.es/en/madrid-cuatro-vientos.html,https://en.wikipedia.org/wiki/Cuatro_Vientos_Airport,"LEVS, ECV"
+4044,LECU,medium_airport,Madrid-Cuatro Vientos Airport,40.370701,-3.78514,2269,EU,ES,ES-MD,Madrid,no,LECU,,LECU,,https://www.aena.es/en/madrid-cuatro-vientos.html,https://en.wikipedia.org/wiki/Cuatro_Vientos_Airport,"LEVS, ECV"
 308328,LEDA,medium_airport,Lleida-Alguaire Airport,41.728185,0.535023,1152,EU,ES,ES-CT,Lleida,yes,LEDA,ILD,LEDA,,http://www.aeroportlleida.cat/?L=2,https://en.wikipedia.org/wiki/Lleida-Alguaire_Airport,
 4010,LEGE,medium_airport,Girona-Costa Brava Airport,41.904639,2.761774,468,EU,ES,ES-CT,Girona,yes,LEGE,GRO,LEGE,,https://www.aena.es/en/girona-costa-brava.html,https://en.wikipedia.org/wiki/Girona-Costa_Brava_Airport,"Girona, Costa Brava, Girona-Costa Brava"
 4011,LEGR,medium_airport,F.G.L. Airport Granada-Jaén Airport,37.188702,-3.77736,1860,EU,ES,ES-AN,Granada,yes,LEGR,GRX,LEGR,,https://www.aena.es/en/f.g.l.-granada-jaen.html,https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca_Airport,
@@ -6751,7 +6757,19 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 208,SDUN,small_airport,Itaperuna Airport,-21.219299316399997,-41.8759002686,410,SA,BR,BR-RJ,Itaperuna,no,SDUN,ITP,SDUN,SDUN,,http://pt.wikipedia.org/wiki/Aeroporto_de_Itaperuna,
 211,SDVG,small_airport,Domingos Pignatari Airport,-20.458426,-50.003134,1676,SA,BR,BR-SP,Votuporanga,no,SDVG,VOT,SDVG,SP0026,,https://pt.wikipedia.org/wiki/Aeroporto_de_Votuporanga,
 310918,SDZG,small_airport,Pedro Teixeira Castelo Airport,-5.9334,-40.2975,1457,SA,BR,BR-CE,Tauá,no,,JTA,SDZG,,,https://en.wikipedia.org/wiki/Tau%C3%A1_Airport,
+512191,SEAB,small_airport,Mar Abierto Airport,-2.156493,-80.773187,10,SA,EC,EC-25,Mar Abierto,no,SEAB,,SEAB,,,,
+512193,SEAC,small_airport,Acado Airport,-1.397507,-77.19885,1102,SA,EC,EC-Y,Acado,no,SEAC,,SEAC,,,,Tono Akoro
+512195,SEAD,small_airport,Paandin Airport,-2.137235,-77.677402,2201,SA,EC,EC-S,Paandin,no,SEAD,,SEAD,,,,
+512199,SEAH,small_airport,Achuentza Airport,-2.833653,-77.761799,902,SA,EC,EC-S,Achuentza,no,SEAH,,SEAH,,,,
+514254,SEAJ,small_airport,San Alejandro Airport,-0.881361,-79.396645,407,SA,EC,EC-R,Valencia,no,SEAJ,,SEAJ,,https://www.airhistory.net/photo/55957,,
+512319,SEAL,small_airport,Algarrobo Airstrip,-2.288551,-80.019765,36,SA,EC,EC-G,Guayaquil,no,SEAL,,SEAL,,,,
 6051,SEAM,medium_airport,Chachoán Regional Airport,-1.21207,-78.5746,8502,SA,EC,EC-T,Ambato,no,SEAM,ATF,SEAM,,,https://en.wikipedia.org/wiki/Chachoan_Airport,"Chachoan, Izamba"
+514256,SEAO,small_airport,Agromarina Airstrip,-2.453185,-80.066835,5,SA,EC,EC-G,Samborondón,no,SEAO,,SEAO,,,,
+512323,SEAQ,small_airport,Aquapesca Airstrip,-2.496764,-80.552155,49,SA,EC,EC-25,Engunga,no,SEAQ,,SEAQ,,,,Chanduy
+512328,SEAU,small_airport,Chau Airstrip,-2.823807,-77.771768,997,SA,EC,EC-S,Morona Santiago,no,SEAU,,SEAU,,,,
+597757,SEAX,small_airport,Mashumarentza Military Airstrip,-2.757044,-77.22027,794,SA,EC,EC-S,Mashumarentza,no,SEAX,,SEAX,,,,
+41104,SEAY,small_airport,Ayangue Airport,-1.977683,-80.745158,16,SA,EC,EC-25,Ayangue,no,SEAY,,SEAY,,,,San Pedro
+512337,SEAZ,small_airport,Costa Azul Airstrip,-0.873078,-79.327704,79,SA,EC,EC-R,Valencia,no,SEAZ,,SEAZ,,,,
 6053,SECO,medium_airport,Francisco De Orellana Airport,-0.462886,-76.986801,834,SA,EC,EC-D,Coca,yes,SECO,OCC,SECO,,,https://en.wikipedia.org/wiki/Francisco_de_Orellana_Airport,
 6054,SECU,medium_airport,Mariscal Lamar Airport,-2.88947,-78.984398,8306,SA,EC,EC-A,Cuenca,yes,SECU,CUE,SECU,,,https://en.wikipedia.org/wiki/Mariscal_Lamar_International_Airport,
 6055,SEGS,small_airport,Seymour Galapagos Ecological Airport,-0.453758,-90.2659,207,SA,EC,EC-W,Isla Baltra,yes,SEGS,GPS,SEGS,,,https://en.wikipedia.org/wiki/Seymour_Airport,
@@ -6759,9 +6777,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41131,SEII,small_airport,General Villamil Airport,-0.942628,-90.953003,35,SA,EC,EC-W,Puerto Villamil,yes,SEII,IBB,SEII,,,,
 309411,SEJD,medium_airport,Jumandy Airport,-1.060185,-77.580525,1234,SA,EC,EC-N,Ahuano,no,SEJD,TNW,SEJD,,http://www.dgac.gob.ec/tena/,https://en.wikipedia.org/wiki/Jumandy_Airport,Tena
 41119,SEJI,small_airport,Jipijapa Airport,-1,-80.66666412353516,223,SA,EC,EC-M,Jipijapa,no,SEJI,JIP,SEJI,,,,
+597752,SEKM,small_airport,KM 35 Airport,-0.739894,-79.387207,459,SA,EC,EC-R,Fumisa,no,SEKM,,SEKM,,,,
 6061,SELT,medium_airport,Cotopaxi International Airport,-0.906833,-78.615799,9205,SA,EC,EC-X,Latacunga,yes,,LTX,SELT,,,https://en.wikipedia.org/wiki/Cotopaxi_International_Airport,"Latacunga, Vulcano, Ecuador, Cargo, Long runway, Height"
 6062,SEMA,medium_airport,Jose Maria Velasco Ibarra Airport,-4.37823009491,-79.94100189210002,1508,SA,EC,EC-L,Macará,no,SEMA,MRR,SEMA,,,https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Velasco_Ibarra_Airport,
 6063,SEMC,medium_airport,Coronel E Carvajal Airport,-2.2991700172424316,-78.12079620361328,3452,SA,EC,EC-S,Macas,yes,SEMC,XMS,SEMC,,,https://en.wikipedia.org/wiki/Macas_Airport,
+597756,SEMK,small_airport,Maki Airstrip,-2.753646,-77.157786,804,SA,EC,EC-S,Maki,no,SEMK,,SEMK,,,,
 6066,SEMT,medium_airport,Eloy Alfaro International Airport,-0.9460780024528503,-80.67880249023438,48,SA,EC,EC-M,Manta,yes,SEMT,MEC,SEMT,,,https://en.wikipedia.org/wiki/Manta_Air_Base,
 32277,SENL,small_airport,Nueva Loja Airport,0.0930560007691,-76.86750030520001,980,SA,EC,EC-U,Lago Agrio,no,SENL,LGQ,SENL,,,https://en.wikipedia.org/wiki/Lago_Agrio_Airport,"SELA, Lago Agrio,"
 41130,SEPT,small_airport,Putumayo Airport,0.115949,-75.85022,733,SA,EC,EC-U,Puerto Putumayo,no,SEPT,PYO,SEPT,,,https://en.wikipedia.org/wiki/Putumayo_Airport,
@@ -7977,7 +7997,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26589,VMMC,large_airport,Macau International Airport,22.149599,113.592003,20,AS,MO,MO-CAR,Nossa Senhora do Carmo,yes,VMMC,MFM,VMMC,,http://www.macau-airport.gov.mo/en/index.php,https://en.wikipedia.org/wiki/Macau_International_Airport,澳門國際機場
 328642,VN-0012,heliport,Nước Mặn (Marble Mountain) Air Facility,16.028581,108.252851,29,AS,VN,VN-SCC,Da Nang,no,VVNM,,VVNM,,,https://en.wikipedia.org/wiki/Marble_Mountain_Air_Facility,"Da Nang East Airfield, Khuê Mỹ"
 430104,VN-0044,small_airport,Phu Giao Airport,11.30034,106.79325,,AS,VN,VN-SE,Phu Giao,no,,PHU,,,,,
-597551,VN-0077,small_airport,KM88 onl,0.000002,-0.000002,,AS,VN,VN-SE,,no,KMKM,RKM,,KM88,https://km88.onl/,,
 30760,VNBG,small_airport,Bajhang Airport,29.539,81.185402,4100,AS,NP,NP-P7,Bajhang,no,VNBG,BJH,VNBG,,,https://en.wikipedia.org/wiki/Bajhang_Airport,
 30706,VNBJ,small_airport,Bhojpur Airport,27.1474,87.050797,4000,AS,NP,NP-P1,Bhojpur,no,VNBJ,BHP,VNBJ,,,https://en.wikipedia.org/wiki/Bhojpur_Airport,
 30701,VNBL,small_airport,Baglung Airport,28.212799,83.666298,3320,AS,NP,NP-P4,Baglung,no,VNBL,BGL,VNBL,,,https://en.wikipedia.org/wiki/Baglung_Airport,
