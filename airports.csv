@@ -19476,6 +19476,7 @@
 597654,"CN-0471","small_airport","Hump Tongyong Aviation",30.846557,103.61043,2074,"AS","CN","CN-51","Dujiangyan City Chengdu","no",,,,,,,
 597727,"CN-0472","small_airport","Rizhao City Lanshan General Airport",35.087326,119.300545,3,"AS","CN","CN-37","Lanshan","no",,,,,,,"Andongwei"
 597730,"CN-0473","small_airport","Jiande Hospital Heliport",29.345012,119.198245,177,"AS","CN","CN-33","Hangzhou","no",,,,,,,
+597737,"CN-0474","heliport","Houma Army Heliport",35.663868,111.407621,1432,"AS","CN","CN-14","Houma","no",,,,,,,
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -19971,7 +19972,7 @@
 519426,"CR-0006","small_airport","Cóbano Airport",9.693365,-85.091216,502,"NA","CR","CR-P","Cóbano","no",,"ACO","MRAF",,"https://www.cobanoairport.com/",,
 31952,"CR-0007","closed","Playa Blanca (J. W. Berteus) Airport",8.64999,-83.432998657227,6,"NA","CR","CR-P","Puntarenas","no",,,,,,,"MRPB, MRPB"
 31953,"CR-0008","closed","Paso Canoas Airport",8.530931,-82.841367,328,"NA","CR","CR-P","Paso Canoas","no",,,,,,,"MRPC, MRPC"
-597498,"CR-0009","large_airport","LIR",10.229845,-85.539551,,"NA","CR","CR-G",,"no",,,,,,,
+597498,"CR-0009","large_airport","(Mislocated duplicate of MRLB) LIR",10.229845,-85.539551,,"NA","CR","CR-G",,"no",,,,,,,
 597499,"CR-0010","large_airport","LIR (Mislocated duplicate of ident: MRLB?)",10.465923,-85.534058,,"NA","CR","CR-G",,"no",,,,,,,
 355460,"CR8A","heliport","Reef Hueston Helicopter Landing",53.823101,-126.172228,,"NA","CA","CA-BC","Streatham","no",,,"CR8A","XV8",,,
 320492,"CRA2","small_airport","Rollick Airpark",44.1406,-79.484802,726,"NA","CA","CA-ON","Queensville","no",,,"CRA2","CRA2",,"https://en.wikipedia.org/wiki/Queensville_(Rollick_Airpark)_Aerodrome",
@@ -22810,7 +22811,7 @@
 323812,"EC-0011","small_airport","Sarayaku Airstrip",-1.739358,-77.485087,,"SA","EC","EC-Y","Sarayaku","no",,,,,,,
 323813,"EC-0012","small_airport","Teresa Mama Airstrip",-1.923175,-77.211526,,"SA","EC","EC-Y","Teresa Mama","no",,,,,,,
 323814,"EC-0013","small_airport","Huito Molino Airstrip",-1.828625,-77.321688,1240,"SA","EC","EC-Y","Huito Molino","no",,,"SEIO",,,,
-323815,"EC-0014","small_airport","Macuma Airstrip",-2.145775,-77.700306,2300,"SA","EC","EC-S","Macuma","no",,,"SEAK",,,,"http://www.ais.aviacioncivil.gob.ec/aerodromo/show?aerodromo_sel=aerodromo&designador=SEAk&popup=&boton=Consultar"
+323815,"EC-0014","small_airport","Macuma Airstrip",-2.145775,-77.700306,2300,"SA","EC","EC-S","Macuma","no","SEAK",,"SEAK",,,,
 323835,"EC-0015","small_airport","Chichirata Airstrip",-2.38364,-76.656656,844,"SA","EC","EC-Y","Chichirata","no",,,"SEHT",,,,
 323836,"EC-0016","small_airport","Andoas Airstrip",-2.568889,-76.660795,,"SA","EC","EC-Y","Andoas","no",,,,,,,
 323842,"EC-0017","small_airport","Patukmai Airstrip",-2.483436,-77.201006,905,"SA","EC","EC-S","Patukmai","no",,,"SEUX",,,,"Huasaga"
@@ -22820,9 +22821,9 @@
 324023,"EC-0021","small_airport","Ayuy Airstrip",-2.082567,-77.580241,,"SA","EC","EC-S","Ayuy","no",,,,,,,
 324024,"EC-0022","small_airport","Copataza Airstrip",-2.090779,-77.446868,1350,"SA","EC","EC-Y","Copataza","no",,,"SEOZ",,,,
 324025,"EC-0023","small_airport","Jimbiquiti Airstrip",-1.990084,-77.716252,,"SA","EC","EC-Y","Jimbiquiti","no",,,,,,,
-324026,"EC-0024","small_airport","Sharamentza Airstrip",-2.463387,-76.992629,997,"SA","EC","EC-Y","Sharamentza","no",,,"SEAW",,,,"Jibaría Añangu"
+324026,"EC-0024","small_airport","Sharamentza Airstrip",-2.463387,-76.992629,997,"SA","EC","EC-Y","Sharamentza","no","SEAW",,"SEAW",,,,"Jibaría Añangu"
 324027,"EC-0025","small_airport","Capauari Airstrip",-2.070324,-77.173335,1093,"SA","EC","EC-Y","Capauari","no",,,"SEPH",,,,"Capahuari"
-324028,"EC-0026","small_airport","Achuar Airstrip",-2.023662,-77.468825,1450,"SA","EC","EC-Y","Achuar","no",,,"SEAT",,,,"Cotosaz"
+324028,"EC-0026","small_airport","Achuar Airstrip",-2.023662,-77.468825,1450,"SA","EC","EC-Y","Achuar","no","SEAT",,"SEAT",,,,"Cotosaz"
 324029,"EC-0027","small_airport","Shaimi Airstrip",-1.926173,-77.505011,1464,"SA","EC","EC-Y","Shaimi","no",,,"SEHX",,,,"Tutaguana"
 324030,"EC-0028","small_airport","Yaupi Airstrip",-2.852197,-77.942373,1250,"SA","EC","EC-S","Yaupi","no",,,"SEYA",,,,
 324034,"EC-0029","small_airport","Wasakentza Airstrip",-2.543927,-77.199249,,"SA","EC","EC-S","Wasakentza","no",,,,,,,
@@ -22832,7 +22833,7 @@
 324039,"EC-0033","small_airport","Cononaco Bameno Airstrip",-1.298779,-76.154546,840,"SA","EC","EC-Y","Cononaco Bameno","no",,,"SECB",,,,"Cabaña Yasuni"
 324040,"EC-0034","small_airport","Atatakuinjia Airstrip",-1.649742,-77.047942,985,"SA","EC","EC-Y","Atatakuinjia","no",,,"SEKJ",,,,"Kapawi Ecolodge"
 351437,"EC-0035","small_airport","Holandesa Airport",-0.72495,-79.46976,445,"SA","EC","EC-R","Holandesa","no",,,,,,,
-351438,"EC-0036","small_airport","Ana María Airport",-0.96115,-79.4162,236,"SA","EC","EC-R","La Esperanza","no",,,"SEAN",,,,"Quevedo"
+351438,"EC-0036","small_airport","Ana María Airport",-0.96115,-79.4162,236,"SA","EC","EC-R","La Esperanza","no","SEAN",,"SEAN",,,,"Quevedo"
 351439,"EC-0037","small_airport","La Cadena Airport",-0.93109,-79.420359,246,"SA","EC","EC-R","Quevedo","no",,,"SELC",,,,"Valencia"
 351440,"EC-0038","small_airport","El Guayabo Airport",-0.98999,-79.43663,207,"SA","EC","EC-R","Quevedo","no",,,"SEEG",,,,
 351441,"EC-0039","small_airport","Agro Aereo Jaramillo Airport",-0.98762,-79.4445,210,"SA","EC","EC-R","Quevedo","no",,,"SEJL",,,,
@@ -22852,7 +22853,7 @@
 505099,"EC-0053","heliport","Mitad del Mundo Heliport",-0.00327,-78.45354,8094,"SA","EC","EC-P","Quito","no",,,,,,,
 505100,"EC-0054","heliport","DGAC Heliport",-0.23626,-78.47779,10010,"SA","EC","EC-P","Quito","no",,,,,,,"Dirección General de Aviación Civil"
 505101,"EC-0055","closed","Cayambe Airport",0.057,-78.13857,9291,"SA","EC","EC-P","Cayambe","no",,,,,,,
-512190,"EC-0056","small_airport","Aguayo Airport",-2.928941,-80.075941,10,"SA","EC","EC-G","Aguayo","no",,,"SEAA",,,,
+512190,"EC-0056","small_airport","Aguayo Airport",-2.928941,-80.075941,10,"SA","EC","EC-G","Aguayo","no","SEAA",,"SEAA",,,,
 512242,"EC-0057","small_airport","Tapatla Airstrip",1.064419,-79.351037,18,"SA","EC","EC-E","Rocafuerte","no",,,,,,,
 512243,"EC-0058","closed","Haciendó Acapulco Airstrip",1.110251,-79.137712,12,"SA","EC","EC-E","Rompido","no",,,,,,,
 513511,"EC-0059","heliport","León Becerra Hospital Heliport",-2.12665,-79.58841,36,"SA","EC","EC-G","Milagro","no",,,,,,,
@@ -22867,6 +22868,7 @@
 41123,"EC-0068","closed","Ascazubi Airport",-0.083333,-78.283333,9517,"SA","EC","EC-P","Ascazubi","no",,,,,,,"SEAS"
 41126,"EC-0069","closed","Buena Fe Airport",-0.837328,-79.486759,320,"SA","EC","EC-R","Buena Fe","no",,,,,,,"SEBF, SEBF"
 6073,"EC-0070","heliport","Mariscal Sucre Air Base",-0.136782,-78.490598,9228,"SA","EC","EC-P","Quito","no",,,,"SEQU","http://www.aeropuertoquito.aero/","https://en.wikipedia.org/wiki/Old_Mariscal_Sucre_International_Airport","Quito, Ecuador, Dangerous, Closed, Mountains, Volcano, America, Middle of the world, SEQU"
+597754,"EC-0071","heliport","Patio 400 Heliport",-0.948611,-80.730556,33,"SA","EC","EC-M","Manta","no","SEAP",,"SEAP",,,,
 41594,"EC-MZD","small_airport","Méndez Airport",-2.733330011367798,-78.31670379638672,1770,"SA","EC","EC-S","Santiago de Méndez","no",,"MZD",,,,,
 317873,"EDA","seaplane_base","Edna Bay Seaplane Base",55.949653,-133.661012,,"NA","US","US-AK","Edna Bay","yes",,"EDA",,,,,
 2183,"EDAB","small_airport","Bautzen Airfield",51.193611,14.519722,568,"EU","DE","DE-SN","Kubschütz","no",,,"EDAB",,"http://www.flugplatz-bautzen.de/","http://de.wikipedia.org/wiki/Flugplatz_Bautzen","Flugplatz Bautzen"
@@ -42373,7 +42375,7 @@
 29760,"LECN","small_airport","Castellon de la Plana Aerodrome",39.99836,0.026355,20,"EU","ES","ES-VC","Castellón de la Plana","no",,,"LECN",,"http://aeroclubcastellon.com","https://en.wikipedia.org/wiki/Castell%C3%B3n_Airport","CDT"
 4007,"LECO","medium_airport","A Coruña Airport",43.302101,-8.37726,326,"EU","ES","ES-GA","Culleredo","yes","LECO","LCG","LECO",,"https://www.aena.es/en/a-coruna.html","https://en.wikipedia.org/wiki/A_Coru%C3%B1a_Airport","The Groyne, La Coruña"
 43254,"LECT","small_airport","El Castaño Airfield",39.013604,-4.387141,2116,"EU","ES","ES-CM","Luciana","no",,,"LECT",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_El_Casta%C3%B1o",
-4044,"LECU","medium_airport","Madrid-Cuatro Vientos Airport",40.370701,-3.78514,2269,"AF","ES","ES-MD","Madrid","no","LECU",,"LECU",,"https://www.aena.es/en/madrid-cuatro-vientos.html","https://en.wikipedia.org/wiki/Cuatro_Vientos_Airport","LEVS, ECV"
+4044,"LECU","medium_airport","Madrid-Cuatro Vientos Airport",40.370701,-3.78514,2269,"EU","ES","ES-MD","Madrid","no","LECU",,"LECU",,"https://www.aena.es/en/madrid-cuatro-vientos.html","https://en.wikipedia.org/wiki/Cuatro_Vientos_Airport","LEVS, ECV"
 326765,"LECV","heliport","Base Aérea de Colmenar Viejo",40.697296,-3.763255,3264,"EU","ES","ES-MD","Colmenar Viejo","no",,,"LECV",,,,"FAMET"
 308328,"LEDA","medium_airport","Lleida-Alguaire Airport",41.728185,0.535023,1152,"EU","ES","ES-CT","Lleida","yes","LEDA","ILD","LEDA",,"http://www.aeroportlleida.cat/?L=2","https://en.wikipedia.org/wiki/Lleida-Alguaire_Airport",
 518334,"LEDE","small_airport","Córdoba-Villarrubia Airfield",37.836632,-4.896426,307,"EU","ES","ES-AN","Córdoba","no",,,"LEDE",,"https://www.aeronauticadelgado.com/web/aerodromo/",,"Aerodel"
@@ -52877,6 +52879,7 @@
 594602,"PL-0278","small_airport","Czerwonak Paraglider Field",52.56005,16.9934,210,"EU","PL","PL-ZP","Murowana Goślina","no",,,,,,,
 596165,"PL-0279","small_airport","Dejguny Airstrip",54.021285,21.594777,397,"EU","PL","PL-MZ","Sterławki Wielkie","no",,,,,,,
 597492,"PL-0280","seaplane_base","Mielno Seaplane Base",54.25843,16.07638,,"EU","PL","PL-ZP","Mielno","no",,,,,,,
+597738,"PL-0281","heliport","Jastrzębie-Zdrój Heliport",49.944716,18.584994,827,"EU","PL","PL-SL","Jastrzębie-Zdrój","no",,,,,,,"H255"
 5493,"PLCH","medium_airport","Cassidy International Airport",1.986278,-157.350011,5,"OC","KI","KI-L","Kiritimati","yes","PLCH","CXI","PLCH",,,"https://en.wikipedia.org/wiki/Cassidy_International_Airport","Christmas Island, Banana"
 32466,"PLFA","small_airport","Tabuaeran Island Airport",3.89944,-159.389008,,"OC","KI","KI-L","Tabuaeran Island","no",,"TNV","PLFA",,,"https://de.wikipedia.org/wiki/Flugplatz_Tabuaeran","Fanning Island"
 6493,"PLPA","small_airport","Palmyra (Cooper) Airport",5.888748,-162.077866,5,"OC","UM","UM-95","Palmyra Island Atoll","no",,,"PLPA","P16",,"https://en.wikipedia.org/wiki/Palmyra_(Cooper)_Airport",
@@ -54315,7 +54318,7 @@
 44616,"RU-0162","small_airport","Maksimkin Yar Airport",58.68242645263672,86.82374572753906,,"AS","RU","RU-TOM","Maksimkin Yar","no",,,,,,,"Аэропорт Максимкин Яр"
 44618,"RU-0163","closed","Yegorlykskaya Air Base",46.573002,40.59,,"EU","RU","RU-ROS","Yegorlykskaya","no",,,,,,,"Egorlykskaya Airfield, Аэродром Егорлыкская, XRRL"
 44619,"RU-0164","small_airport","Tikhoretsk Air Base",45.879002,40.105,253,"EU","RU","RU-KDA","Tikhoretsk","no",,,"URKT",,,,"Tihoretsk Air Base, Аэродром Тихорецк"
-44620,"RU-0165","small_airport","Agoy Airfield",44.138929,39.028943,,"EU","RU","RU-KDA","Agoy","no",,,,,,,"Agoi Airport, Аэродром Агой"
+44620,"RU-0165","small_airport","Agoy Airfield",44.138929,39.028943,,"EU","RU","RU-KDA","Agoy","no",,,,,,,"Agoi Airport, Аэродром Агой, MSFS UAGG"
 44621,"RU-0166","closed","Giaginskaya Air Base",44.887001,39.965,,"EU","RU","RU-AD","Giaginskaya","no",,,,,,,"Giaginskaya Northwest Airfield, Аэродром Гиагинская, XRKG"
 44622,"RU-0167","small_airport","Mozhga Airport",56.42380142211914,52.27870178222656,,"EU","RU","RU-UD","Mozhga","no",,,,,,,"Аэропорт Можга"
 44623,"RU-0168","small_airport","Sarmany Airport",55.257999420166016,52.573001861572266,449,"EU","RU","RU-TA","Sarmanovo","no",,,,,,"https://en.wikipedia.org/wiki/Sarmany_Airport","Sarmanovo Airport, Аэропорт Сарманы, Аэропорт Сарманово"
@@ -57462,23 +57465,24 @@
 2178,"SE58","small_airport","Solbananas Airport",-3.34094,-79.8638,9,"SA","EC","EC-O","Buenavista","no",,,"SEBA",,,,"SE58, Banasur"
 2179,"SE59","small_airport","La Mina Airport",-3.202759,-79.79825,13,"SA","EC","EC-O","El Guabo","no",,,"SEIN",,,,"SE59"
 2180,"SE60","small_airport","La Puntilla Airport",-2.443333,-79.399167,195,"SA","EC","EC-F","La Puntilla","no",,,"SELU",,,,"SE60"
-512191,"SEAB","small_airport","Mar Abierto Airport",-2.156493,-80.773187,10,"SA","EC","EC-25","Mar Abierto","no",,,"SEAB",,,,
-512193,"SEAC","small_airport","Acado Airport",-1.397507,-77.19885,1102,"SA","EC","EC-Y","Acado","no",,,"SEAC",,,,"Tono Akoro"
-512195,"SEAD","small_airport","Paandin Airport",-2.137235,-77.677402,2201,"SA","EC","EC-S","Paandin","no",,,"SEAD",,,,
+512191,"SEAB","small_airport","Mar Abierto Airport",-2.156493,-80.773187,10,"SA","EC","EC-25","Mar Abierto","no","SEAB",,"SEAB",,,,
+512193,"SEAC","small_airport","Acado Airport",-1.397507,-77.19885,1102,"SA","EC","EC-Y","Acado","no","SEAC",,"SEAC",,,,"Tono Akoro"
+512195,"SEAD","small_airport","Paandin Airport",-2.137235,-77.677402,2201,"SA","EC","EC-S","Paandin","no","SEAD",,"SEAD",,,,
 512292,"SEAG","heliport","Aringcon S.A. Heliport",-2.164471,-79.847522,10,"SA","EC","EC-G","Durán","no",,,"SEAG",,,,
-512199,"SEAH","small_airport","Achuentza Airport",-2.833653,-77.761799,902,"SA","EC","EC-S","Achuentza","no",,,"SEAH",,,,
+512199,"SEAH","small_airport","Achuentza Airport",-2.833653,-77.761799,902,"SA","EC","EC-S","Achuentza","no","SEAH",,"SEAH",,,,
 512293,"SEAI","heliport","Adria Heliport",-0.948005,-80.750853,98,"SA","EC","EC-M","Manta","no",,,"SEAI",,,,
-514254,"SEAJ","small_airport","San Alejandro Airport",-0.881361,-79.396645,407,"SA","EC","EC-R","Valencia","no",,,"SEAJ",,"https://www.airhistory.net/photo/55957",,
-512319,"SEAL","small_airport","Algarrobo Airstrip",-2.288551,-80.019765,36,"SA","EC","EC-G","Guayaquil","no",,,"SEAL",,,,
+514254,"SEAJ","small_airport","San Alejandro Airport",-0.881361,-79.396645,407,"SA","EC","EC-R","Valencia","no","SEAJ",,"SEAJ",,"https://www.airhistory.net/photo/55957",,
+512319,"SEAL","small_airport","Algarrobo Airstrip",-2.288551,-80.019765,36,"SA","EC","EC-G","Guayaquil","no","SEAL",,"SEAL",,,,
 6051,"SEAM","medium_airport","Chachoán Regional Airport",-1.21207,-78.5746,8502,"SA","EC","EC-T","Ambato","no","SEAM","ATF","SEAM",,,"https://en.wikipedia.org/wiki/Chachoan_Airport","Chachoan, Izamba"
-514256,"SEAO","small_airport","Agromarina Airstrip",-2.453185,-80.066835,5,"SA","EC","EC-G","Samborondón","no",,,"SEAO",,,,
-41128,"SEAP","small_airport","Arapicos Airport",-1.8576200008392334,-77.94139862060547,2920,"SA","EC","EC-S","Sangay","no",,,"SEAP",,,,
-512323,"SEAQ","small_airport","Aquapesca Airstrip",-2.496764,-80.552155,49,"SA","EC","EC-25","Engunga","no",,,"SEAQ",,,,"Chanduy"
+514256,"SEAO","small_airport","Agromarina Airstrip",-2.453185,-80.066835,5,"SA","EC","EC-G","Samborondón","no","SEAO",,"SEAO",,,,
+41128,"SEAP","small_airport","Arapicos Airport",-1.85762,-77.941399,2920,"SA","EC","EC-S","Sangay","no",,,,,,,"SEAP"
+512323,"SEAQ","small_airport","Aquapesca Airstrip",-2.496764,-80.552155,49,"SA","EC","EC-25","Engunga","no","SEAQ",,"SEAQ",,,,"Chanduy"
 41132,"SEAR","small_airport","Arajuno Airport",-1.2357300519943237,-77.6854019165039,1700,"SA","EC","EC-Y","Arajuno","no",,,"SEAR",,,,
-512328,"SEAU","small_airport","Chau Airstrip",-2.823807,-77.771768,997,"SA","EC","EC-S","Morona Santiago","no",,,"SEAU",,,,
+512328,"SEAU","small_airport","Chau Airstrip",-2.823807,-77.771768,997,"SA","EC","EC-S","Morona Santiago","no","SEAU",,"SEAU",,,,
 512330,"SEAV","heliport","Teniente Pablo Valdéz Carvallo Heliport",-3.446531,-79.980131,23,"SA","EC","EC-O","Santa Rosa","no",,,"SEAV",,,,
-41104,"SEAY","small_airport","Ayangue Airport",-1.977683,-80.745158,16,"SA","EC","EC-25","Ayangue","no",,,"SEAY",,,,"San Pedro"
-512337,"SEAZ","small_airport","Costa Azul Airstrip",-0.873078,-79.327704,79,"SA","EC","EC-R","Valencia","no",,,"SEAZ",,,,
+597757,"SEAX","small_airport","Mashumarentza Military Airstrip",-2.757044,-77.22027,794,"SA","EC","EC-S","Mashumarentza","no","SEAX",,"SEAX",,,,
+41104,"SEAY","small_airport","Ayangue Airport",-1.977683,-80.745158,16,"SA","EC","EC-25","Ayangue","no","SEAY",,"SEAY",,,,"San Pedro"
+512337,"SEAZ","small_airport","Costa Azul Airstrip",-0.873078,-79.327704,79,"SA","EC","EC-R","Valencia","no","SEAZ",,"SEAZ",,,,
 512407,"SEBL","small_airport","Balzaura Airstrip",-1.947116,-76.308024,751,"SA","EC","EC-Y","Balzaura","no",,,"SEBL",,,,
 512409,"SEBM","small_airport","Brisas del Mar Airstrip.",-2.828381,-80.020884,10,"SA","EC","EC-G","Isla Puná","no",,,"SEBM",,,,
 512411,"SEBO","small_airport","Bototillal Airstrip",-1.423874,-79.396144,259,"SA","EC","EC-R","Ventanas","no",,,"SEBO",,,,
@@ -57585,6 +57589,7 @@
 513995,"SEKH","small_airport","Kuakash Airfield",-2.033081,-77.670886,1979,"SA","EC","EC-Y","Kuakash","no",,,"SEKH",,,,"Jimbiquiti"
 6059,"SEKK","small_airport","Km 192 Airport",0.18465,-79.391181,1247,"SA","EC","EC-E","Vía Quinindé-La Concordia","no",,,"SEKK",,,,"Lagartera, La Unión"
 514027,"SEKL","small_airport","Silok Airport",-0.03085,-79.366315,825,"SA","EC","EC-26","La Concordia","no",,,"SEKL",,,,
+597752,"SEKM","small_airport","KM 35 Airport",-0.739894,-79.387207,459,"SA","EC","EC-R","Fumisa","no","SEKM",,"SEKM",,,,
 514029,"SEKN","small_airport","Kaniats Airstrip",-2.710571,-77.505235,760,"SA","EC","EC-S","Taisha","no",,,"SEKN",,,,
 514030,"SEKP","small_airport","Kapatinentza Airstrip",-2.681793,-77.477093,80,"SA","EC","EC-S","Kapatinentza","no",,,"SEKP",,,,
 514650,"SEKQ","small_airport","Kikints Airstrip",-2.301939,-77.357591,1180,"SA","EC","EC-S","Kikints","no",,,"SEKQ",,,,
@@ -57607,6 +57612,7 @@
 515480,"SELV","small_airport","La Virgen Airport",-1.225142,-79.50581,110,"SA","EC","EC-R","Zapotal","no",,,"SELV",,,,
 6062,"SEMA","medium_airport","Jose Maria Velasco Ibarra Airport",-4.37823009491,-79.94100189210002,1508,"SA","EC","EC-L","Macará","no","SEMA","MRR","SEMA",,,"https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Velasco_Ibarra_Airport",
 6063,"SEMC","medium_airport","Coronel E Carvajal Airport",-2.2991700172424316,-78.12079620361328,3452,"SA","EC","EC-S","Macas","yes","SEMC","XMS","SEMC",,,"https://en.wikipedia.org/wiki/Macas_Airport",
+597756,"SEMK","small_airport","Maki Airstrip",-2.753646,-77.157786,804,"SA","EC","EC-S","Maki","no","SEMK",,"SEMK",,,,
 525294,"SEML","small_airport","Manglaralto Airport",-1.844848,-80.73696,30,"SA","EC","EC-G",,"no",,,"SEML",,,,
 6065,"SEMO","small_airport","El Carmen Airport",-2.06701,-76.9757,960,"SA","EC","EC-Y","Montalvo","no",,,"SEMO",,,"https://en.wikipedia.org/wiki/El_Carmen_Airport",
 6066,"SEMT","medium_airport","Eloy Alfaro International Airport",-0.9460780024528503,-80.67880249023438,48,"SA","EC","EC-M","Manta","yes","SEMT","MEC","SEMT",,,"https://en.wikipedia.org/wiki/Manta_Air_Base",
@@ -78801,7 +78807,6 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,,"XLO, XLO"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
-597551,"VN-0077","small_airport","KM88 onl",0.000002,-0.000002,,"AS","VN","VN-SE",,"no","KMKM","RKM",,"KM88","https://km88.onl/",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
