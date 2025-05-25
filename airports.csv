@@ -12616,7 +12616,7 @@
 43328,"BG-0181","closed","Ravnets Air Base",42.526788,27.272322,74,"EU","BG","BG-02","Burgas","no",,,,,,,"Ravnetz, LBBR"
 43891,"BG-0182","closed","Izgrev Airport",43.277222,27.701944,1119,"EU","BG","BG-03","Kalimantsi","no",,,,,,,"LBWV, LBWV"
 594492,"BG-0183","heliport","Panagyurishte Hospital Heliport",42.49309,24.18503,1703,"EU","BG","BG-13","Panagyurishte","no",,,,,,,
-31597,"BG-HKV","small_airport","Malevo Airfield",41.871799,25.604799,600,"EU","BG","BG-26","Malevo","no",,"HKV","LBMV",,,"https://en.wikipedia.org/wiki/Haskovo_Malevo_Airport","LB26"
+31597,"BG-HKV","small_airport","Malevo Airfield",41.871799,25.604799,600,"EU","BG","BG-26","Malevo","no",,,"LBMV",,,"https://en.wikipedia.org/wiki/Haskovo_Malevo_Airport","LB26"
 111,"BG-JAM","medium_airport","Bezmer Air Base",42.454899,26.3522,509,"EU","BG","BG-28","Bezmer","no",,"JAM","LBIA",,,"https://en.wikipedia.org/wiki/Bezmer_Airbase","LB44"
 31697,"BGAA","medium_airport","Aasiaat Airport",68.721802,-52.784698,74,"NA","GL","GL-QK","Aasiaat","yes","BGAA","JEG","BGAA",,"http://airgreenland.com/om_rejsen/efter_rejsen/din_destination_/aasiaat/","https://en.wikipedia.org/wiki/Aasiaat_Airport","Mittarfik Aasiaat, Aasiaat Lufthavn, Egedesminde"
 43214,"BGAG","heliport","Aappilattoq Heliport",72.88703,-55.596287,42,"NA","GL","GL-AV","Aappilattoq","yes",,"AOQ","BGAG","AAP",,"https://en.wikipedia.org/wiki/Aappilattoq_Heliport_(Avannaata)",
@@ -15307,11 +15307,11 @@
 36242,"BR-2499","heliport","Transpel Heliport",-22.002500534058,-47.86888885498,2890,"SA","BR","BR-SP","São Carlos","no",,,,"SISA",,,"SISA"
 36246,"BR-2500","small_airport","Fazenda Kanaxuê S/A Airport",-12.00613,-50.869457,650,"SA","BR","BR-MT","São Félix do Araguaia","no",,,,"SISE",,,"SISE, Novo Santo Antonio"
 36247,"BR-2501","small_airport","Fazenda Santa Feliciana Airport",-20.944667,-56.676557,2198,"SA","BR","BR-MS","Bonito","no",,,,"SISF",,,"SISF"
-36248,"BR-2502","small_airport","Fazenda Sete Ilhas Airport",-17.633208,-50.471807,1720,"SA","BR","BR-GO","Acreúna","no",,,,"SISI",,,"SISI"
-36252,"BR-2503","small_airport","Fazenda Nossa Senhora Aparecida Airport",-17.545344,-53.895174,2001,"SA","BR","BR-MS","Sonora","no",,,,"SISN",,,"SISN"
-36256,"BR-2504","small_airport","Fazenda Lagoa do Campo Airport",-20.384721756,-53.4011116028,1542,"SA","BR","BR-MS","Ribas Do Rio Pardo","no",,,,"SISS",,,"SISS"
-36257,"BR-2505","small_airport","Fazenda Pontal do Lagoa Airport",-20.870000839233,-53.154998779297,1264,"SA","BR","BR-MS","Santa Rita Do Pardo","no",,,,"SISU",,,"SISU"
-36260,"BR-2506","small_airport","Santa Felicidade Airport",-5.583134,-56.645415,821,"SA","BR","BR-PA","Itaituba","no",,,,"SISZ",,,"SISZ"
+36248,"BR-2502","small_airport","Fazenda Sete Ilhas Airport",-17.633208,-50.471807,1720,"SA","BR","BR-GO","Acreúna","no",,,,,,,"SISI"
+36252,"BR-2503","small_airport","Fazenda Nossa Senhora Aparecida Airport",-17.545344,-53.895174,2001,"SA","BR","BR-MS","Sonora","no",,,,,,,"SISN"
+36256,"BR-2504","small_airport","Fazenda Lagoa do Campo Airport",-20.384722,-53.401112,1542,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,,,,,"SISS"
+36257,"BR-2505","small_airport","Fazenda Pontal do Lagoa Airport",-20.870001,-53.154999,1264,"SA","BR","BR-MS","Santa Rita do Pardo","no",,,,,,,"SISU"
+36260,"BR-2506","small_airport","Santa Felicidade Airport",-5.583134,-56.645415,821,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SISZ"
 36261,"BR-2507","small_airport","Nossa Senhora da Conceição Airport",-7.2202777862549,-56.166667938232,958,"SA","BR","BR-PA","Itaituba","no",,,,"SITA",,,"SITA"
 36264,"BR-2508","small_airport","Cara Preta Airport",-5.1061110496521,-57.482498168945,155,"SA","BR","BR-PA","Itaituba","no",,,,"SITD",,,"SITD"
 36266,"BR-2509","small_airport","Fazenda Depósito Airport",4.10833,-60.733299,365,"SA","BR","BR-RR","Pacaraima","no",,,,"SITF",,,"SITF"
@@ -15320,24 +15320,24 @@
 36272,"BR-2512","small_airport","Fazenda Santo Antônio Diamandoré Airport",-18.243055343628,-57.55611038208,493,"SA","BR","BR-MS","Corumbá","no",,,,"SITN",,,"SITN"
 36273,"BR-2513","small_airport","Muriçoca Airport",-7.154167175293,-56.636112213135,361,"SA","BR","BR-PA","Itaituba","no",,,,"SITO",,,"SITO"
 36276,"BR-2514","small_airport","Fazenda Guaíra Airport",-7.089905,-45.95139,1900,"SA","BR","BR-MA","Balsas","no",,,,"SITT",,,"SITT"
-36278,"BR-2515","small_airport","Fazenda Chapadão Airport",-13.410938,-55.673611,1450,"SA","BR","BR-MT","Santa Rita do Trivelato","no",,,,"SITV",,,"SITV"
-36279,"BR-2516","small_airport","Fazenda Santa Luzia Airport",-6.8233327865601,-45.411945343018,1720,"SA","BR","BR-MA","São Raimundo Das Mangabeiras","no",,,,"SITW",,,"SITW"
-36281,"BR-2517","small_airport","Fazenda São Geraldo Airport",-19.403888702393,-55.862777709961,486,"SA","BR","BR-MS","Aquidauana","no",,,,"SITY",,,"SITY"
-36282,"BR-2518","small_airport","Fazenda MRV Airport",-14.917778015137,-43.359722137451,1713,"SA","BR","BR-MG","Monte Azul","no",,,,"SITZ",,,"SITZ"
-36283,"BR-2519","small_airport","Fazenda Barra do Lagoa Airport",-20.872777938843,-53.210834503174,1083,"SA","BR","BR-MS","Santa Rita Do Pardo","no",,,,"SIUA",,,"SIUA"
-36284,"BR-2520","small_airport","Aerojaco Airport",-13.505000114441,-55.150833129883,1510,"SA","BR","BR-MT","Sorriso","no",,,,"SIUB",,,"SIUB"
-36285,"BR-2521","small_airport","Selva de Pedra Airport",-7.2263889312744,-56.670833587646,391,"SA","BR","BR-PA","Itaituba","no",,,,"SIUC",,,"SIUC"
-36290,"BR-2522","small_airport","Fazenda Santa Ana Airport",-11.139721870422,-55.879722595215,1038,"SA","BR","BR-MT","Itaúba","no",,,,"SIUH",,,"SIUH"
-36291,"BR-2523","small_airport","Pista Santa Tereza Airport",-5.1858329772949,-57.584442138672,401,"SA","BR","BR-PA","Itaituba","no",,,,"SIUJ",,,"SIUJ"
+36278,"BR-2515","small_airport","Fazenda Chapadão Airport",-13.410938,-55.673611,1450,"SA","BR","BR-MT","Santa Rita do Trivelato","no",,,,,,,"SITV"
+36279,"BR-2516","small_airport","Fazenda Santa Luzia Airport",-6.823333,-45.411945,1720,"SA","BR","BR-MA","São Raimundo Das Mangabeiras","no",,,,,,,"SITW"
+36281,"BR-2517","small_airport","Fazenda São Geraldo Airport",-19.403889,-55.862778,486,"SA","BR","BR-MS","Aquidauana","no",,,,,,,"SITY"
+36282,"BR-2518","small_airport","Fazenda MRV Airport",-14.91348,-43.364317,1713,"SA","BR","BR-MG","Monte Azul","no",,,,,,,"SITZ"
+36283,"BR-2519","small_airport","Fazenda Barra do Lagoa Airport",-20.872778,-53.210835,1083,"SA","BR","BR-MS","Santa Rita do Pardo","no",,,,,,,"SIUA"
+36284,"BR-2520","small_airport","Aerojaco Airport",-13.527772,-55.12879,1510,"SA","BR","BR-MT","Sorriso","no",,,,,,,"SIUB"
+36285,"BR-2521","small_airport","Selva de Pedra Airport",-7.2329,-56.673055,391,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SIUC"
+36290,"BR-2522","small_airport","Fazenda Santa Ana Airport",-11.140121,-55.880019,1038,"SA","BR","BR-MT","Itaúba","no",,,,,,,"SIUH"
+36291,"BR-2523","small_airport","Pista Santa Tereza Airport",-5.200349,-57.590484,401,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SIUJ"
 36292,"BR-2524","small_airport","Serra Verde Airport",-6.9250001907349,-56.991390228271,840,"SA","BR","BR-PA","Jacareacanga","no",,,,"SIUK",,,"SIUK"
 36293,"BR-2525","small_airport","Agrosserra Airport",-6.7755560874939,-45.891666412354,1926,"SA","BR","BR-MA","São Raimundo Das Mangabeiras","no",,,,"SIUL",,,"SIUL"
 36295,"BR-2526","heliport","Uniban II Heliport",-23.6450004578,-46.5800018311,2429,"SA","BR","BR-SP","São Bernardo Do Campo","no",,,,"SIUN",,,"SIUN"
 36300,"BR-2527","small_airport","Fazenda São Matheus Airport",-20.317777633667,-51.783611297607,1365,"SA","BR","BR-MS","Selvíria","no",,,,"SIUV",,,"SIUV"
 36301,"BR-2528","small_airport","Pista Comunidade São Domingos",-6.420052,-56.049438,985,"SA","BR","BR-PA","Itaituba","no",,,,"SIUX",,,"SIUX"
 36302,"BR-2529","small_airport","Santos Dumont Airport",-7.0127778053284,-55.875,870,"SA","BR","BR-PA","Novo Progresso","no",,,,"SIUY",,,"SIUY"
-36303,"BR-2530","small_airport","Boa Esperança Airport",-7.661388874054,-55.960277557373,788,"SA","BR","BR-PA","Novo Progresso","no",,,,"SIUZ",,,"SIUZ"
-36304,"BR-2531","heliport","Cereal Citrus Heliport",-15.706944,-47.369446,3183,"SA","BR","BR-DF","Brasília","no",,,,"SIVA",,,"SIVA"
-36311,"BR-2532","small_airport","Crispiano Airport",-13.222778320312,-46.953056335449,1657,"SA","BR","BR-GO","Monte Alegre De Goiás","no",,,,"SIVK",,,"SIVK"
+36303,"BR-2530","small_airport","Boa Esperança Airport",-7.686248,-55.970102,788,"SA","BR","BR-PA","Novo Progresso","no",,,,,,,"SIUZ"
+36304,"BR-2531","heliport","Cereal Citrus Heliport",-15.706944,-47.369446,3183,"SA","BR","BR-DF","Brasília","no",,,,,,,"SIVA"
+36311,"BR-2532","small_airport","Crispiano Airport",-13.224383,-46.953095,1657,"SA","BR","BR-GO","Monte Alegre de Goiás","no",,,,,,,"SIVK"
 36312,"BR-2533","small_airport","Sítio Flor de Lys Airport",-6.9452781677246,-36.672500610352,1641,"SA","BR","BR-PB","Junco Do Seridó","no",,,,"SIVL",,,"SIVL"
 36313,"BR-2534","heliport","Vista Mar Heliport",-22.932777404785,-43.340000152588,264,"SA","BR","BR-RJ","Rio De Janeiro","no",,,,"SIVM",,,"SIVM"
 36324,"BR-2535","small_airport","Fazenda Sapucaí Airport",-8.2988891601562,-45.763332366943,1575,"SA","BR","BR-MA","Tasso Fragoso","no",,,,"SIVY",,,"SIVY"
@@ -16044,7 +16044,7 @@
 323615,"BR-3236","small_airport","Fazenda da Barra Airport",-19.097706,-51.716482,1542,"SA","BR","BR-GO","Aporé","no",,,,"GO0093",,,"SNAA, BR-3236"
 323918,"BR-3237","small_airport","Fazenda Vittória Airport",-15.558611,-58.586944,1033,"SA","BR","BR-MT","Figueirópolis d'Oeste","no",,,,"SWRQ",,,"SWRQ"
 324187,"BR-3238","heliport","Usina Hidrelétrica de Porto Primavera Heliport",-22.486397,-52.956547,873,"SA","BR","BR-SP","Rosana","no",,,,"SSXG",,,"SSXG, SIRO"
-327003,"BR-3239","small_airport","Letícia Airport",-21.552032,-53.558751,1191,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,,"SDMK",,,"SDMK"
+327003,"BR-3239","small_airport","Letícia Airport",-21.552044,-53.559246,1191,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,"SN78","MS0720",,,"SDMK"
 327005,"BR-3240","heliport","Basalto Base 5 Heliport",-22.898253,-47.134075,1979,"SA","BR","BR-SP","Campinas","no",,,,"SDOJ",,,"SDOJ"
 327009,"BR-3241","small_airport","Napoleão Airport",3.906468,-60.027144,359,"SA","BR","BR-RR","Normandia","no",,,,"RR0011",,,"SDPQ, BR-3241"
 327085,"BR-3242","heliport","Condomínio Aldebaran Ville Heliport",-5.009557,-42.767573,266,"SA","BR","BR-PI","Teresina","no",,,,"SDYQ",,,"SDYQ"
@@ -16745,7 +16745,7 @@
 46634,"CA-0451","small_airport","Prichard Airstrip",50.659473079099996,-119.793720245,,"NA","CA","CA-BC","Pritchard","no",,,,,,,
 46635,"CA-0452","small_airport","Courtland / Tillsonburg Flying Club Field",42.85709146759999,-80.63207387920001,800,"NA","CA","CA-ON","Tillsonburg","no",,,,,,,
 298629,"CA-0453","small_airport","Sheridan Lake Airstrip",51.4954922213,-120.835790634,,"NA","CA","CA-BC","Sheridan Lake","no",,,,,,,
-46642,"CA-0454","small_airport","Baker's Valley Aerodrome",44.754657,-76.929016,625,"NA","CA","CA-ON","Central Frontenac","no",,,,,"https://bakervalley.shutterfly.com/?fbclid=IwAR32E8Awt8c6FEFTKbVN0NfKDXSvKe_w2OtiyvhFVeQDxH7Ee-quRmSWYdc",,
+46642,"CA-0454","small_airport","Baker Valley Airpark",44.754657,-76.929016,625,"NA","CA","CA-ON","Central Frontenac","no",,,,,"https://bakervalley.shutterfly.com/?fbclid=IwAR32E8Awt8c6FEFTKbVN0NfKDXSvKe_w2OtiyvhFVeQDxH7Ee-quRmSWYdc",,
 46638,"CA-0455","closed","Brisbane Private Airfield",43.737879,-80.084281,1289,"NA","CA","CA-ON","Hillsburgh","no",,,,,,,
 46648,"CA-0456","small_airport","Roseville Field",43.3471211516,-80.43365478519999,,"NA","CA","CA-ON",,"no",,,,,,,
 298348,"CA-0457","small_airport","L'Île d'Entrée Airfield",47.276376,-61.712329,20,"NA","CA","CA-QC","L'Île d'Entrée","no",,,,,,"https://en.wikipedia.org/wiki/Entry_Island","Ile d'entré"
@@ -31626,7 +31626,7 @@
 341984,"IN-0273","heliport","Prakrithisakthi Helipad",9.5293,76.9786,2726,"AS","IN","IN-KL","Panchalimedu","no",,,,,,,
 341985,"IN-0274","heliport","Ottakathatla Helipad",9.6367,77.1545,3996,"AS","IN","IN-KL","Chakkuppallam","no",,,,,,,
 341986,"IN-0275","heliport","Aster Hospital Helipad",10.0445,76.2767,14,"AS","IN","IN-KL","Kochi","no",,,,,,,
-342093,"IN-0276","large_airport","Navi Mumbai International Airport",18.988686,73.068523,184,"AS","IN","IN-MM","Navi Mumbai","yes",,"NMI",,,,"https://en.wikipedia.org/wiki/Navi_Mumbai_International_Airport","D. B. Patil, new airport"
+342093,"IN-0276","large_airport","Navi Mumbai International Airport",18.984597,73.065253,184,"AS","IN","IN-MM","Navi Mumbai","yes","VANM","NMI",,,,"https://en.wikipedia.org/wiki/Navi_Mumbai_International_Airport","D. B. Patil, new airport"
 342196,"IN-0278","heliport","Nyoma Heliport",33.193,78.6417,13594,"AS","IN","IN-LA","Nyoma","no",,,,,,,
 342197,"IN-0279","small_airport","Chushul Airstrip",33.55493,78.72214,14213,"AS","IN","IN-LA","Chushul","no",,,,,,,
 342198,"IN-0280","heliport","Tangtse Heliport",34.06786,78.13719,12851,"AS","IN","IN-LA","Tangtse","no",,,,,,,
@@ -31741,6 +31741,7 @@
 597482,"IN-0389","heliport","INS Dronacharya Heliport",9.952137,76.239602,15,"AS","IN","IN-KL","Kochi","no",,,,,,,
 597483,"IN-0390","small_airport","Kannur Heliport",11.862516,75.366505,24,"AS","IN","IN-KL","Kannur","no",,,,,,,
 597486,"IN-0391","heliport","PRSU Heliport",21.248285,81.599843,944,"AS","IN","IN-CT","Raipur","no",,,,,,,
+597786,"IN-0392","small_airport","Noida International Airport",28.175556,77.60611,,"AS","IN","IN-UP",,"no","VIND",,,,"https://niairport.in/","https://en.wikipedia.org/wiki/Noida_International_Airport",
 31698,"IN-JGB","small_airport","Jagdalpur Airport",19.074301,82.036797,1822,"AS","IN","IN-CT","Jagdalpur","yes",,"JGB","VEJR","VEJR",,"https://en.wikipedia.org/wiki/Jagdalpur_Airport",
 32215,"IN-RJI","small_airport","Rajouri Airport",33.377899,74.315201,3000,"AS","IN","IN-JK","Rajouri","no",,"RJI",,,,"https://en.wikipedia.org/wiki/Rajouri_Airport","Rajauri"
 3302,"IN-VA38","small_airport","Sirohi Airport",24.895099639892578,72.84590148925781,1000,"AS","IN","IN-RJ",,"no",,,"VA38","VA38",,,
@@ -32262,7 +32263,7 @@
 315875,"IT-0104","small_airport","Villafranca Airfield",44.291111,12.026111,100,"EU","IT","IT-45","Villafranca-San Martino (FC)","no",,,,"FCVIF",,,"Campo di Volo Villafranca, Villafranca di Forli"
 315876,"IT-0105","small_airport","Lyra 34 Airfield",44.500278,11.944444,36,"EU","IT","IT-45","Lugo (RA)","no",,,,"RABEL","http://www.lyra34.com/",,"Aviosuperficie Lyra34, Aviosuperficie LYRA 34"
 315877,"IT-0106","small_airport","Ali Filanti Airfield",44.582222,11.923056,20,"EU","IT","IT-45","Alfonsine (FE)","no",,,,"FE11",,,"Filo, Alifilanti, Campo di Volo ""Ali Filanti"""
-315878,"IT-0107","small_airport","Icaro Village Airfield",44.842996,11.485068,66,"EU","IT","IT-45","Vigarano Mainarda (FE)","no",,,,"FEVIG",,,"Campo di Volo Icaro Village"
+315878,"IT-0107","closed","Icaro Village Airfield",44.842996,11.485068,66,"EU","IT","IT-45","Vigarano Mainarda (FE)","no",,,,,,,"Campo di Volo Icaro Village, FEVIG"
 315879,"IT-0108","small_airport","Le Merline Airfield",44.97287,9.479142,300,"EU","IT","IT-45","Agazzano (PC)","no",,,,"PCAGA",,,"Campo di Volo Le Merline"
 315880,"IT-0109","small_airport","Arbuschi Airfield",45.051392,9.163255,223,"EU","IT","IT-25","Robecco Pavese (PV)","no",,,,"PVROB",,,"Campo di Volo Arbuschi, Northair"
 315881,"IT-0110","small_airport","Dovera Airfield",45.380312,9.534945,259,"EU","IT","IT-25","Dovera (CR)","no",,,,"CR01",,,"JFK Dovera, Scuola volo Milano"
@@ -53265,7 +53266,7 @@
 4445,"PT-0157","closed","Covilhã Airfield",40.264801,-7.47996,1572,"EU","PT","PT-05","Covilhã","no",,,,,,"https://en.wikipedia.org/wiki/Covilh%C3%A3_Airport","COV, LPCV"
 29491,"PT-0158","closed","Sines Airport",37.941692,-8.817301,,"EU","PT","PT-15",,"no",,,,,,,"LPSI, LPSI, SIE"
 31845,"PT-0159","closed","Aerodromo de Alijó",41.327145,-7.457717,2580,"EU","PT","PT-17","Alijó","no",,,,,,,"LPJO"
-31848,"PT-0160","closed","Ota Air Base",39.087502,-8.96278,140,"EU","PT","PT-11","Alenquer","no",,,,,,"https://en.wikipedia.org/wiki/Military_and_Technical_Training_Center_of_the_Air_Force","LPOT, LPOT"
+31848,"PT-0160","closed","Ota Air Base",39.087502,-8.96278,140,"EU","PT","PT-11","Alenquer","no",,,,,,"https://en.wikipedia.org/wiki/Military_and_Technical_Training_Center_of_the_Air_Force","LPOT"
 30285,"PT-0161","small_airport","Praia Verde Airstrip",37.193441,-7.472073,10,"EU","PT","PT-08","Praia Verde","no",,,,,,"https://en.wikipedia.org/wiki/Praia_Verde_Airstrip","LPPV"
 597487,"PT-0162","heliport","Grândola Firefighting Heliport",38.18049,-8.575788,345,"EU","PT","PT-15","Grândola","no",,,,,,,
 597489,"PT-0163","heliport","Cachopo Heliport",37.3349,-7.813328,1319,"EU","PT","PT-08","Cachopo","no",,,,,,,
@@ -53314,7 +53315,7 @@
 318555,"PY-0035","small_airport","Aeródromo Militar del Parque Nacional Cerro Corá",-22.639541,-56.020317,,"SA","PY","PY-13","Cerro Corá","no",,,,,,,
 321673,"PY-0036","small_airport","Aeródromo de la Estancia El Dorado",-21.370676,-61.484652,,"SA","PY","PY-19","Estancia El Dorado","no",,,,,,,
 321674,"PY-0037","small_airport","Aeródromo El Retiro",-24.001777,-60.342462,,"SA","PY","PY-15","El Retiro","no",,,,,,,
-321679,"PY-0038","small_airport","San Juan Bautista National Airport",-26.634333,-57.105528,,"SA","PY","PY-8","San Juan Bautista","no",,,,,,,"Aeropuerto Nacional de San Juan Bautista"
+321679,"PY-0038","small_airport","Aeropuerto Nacional de San Juan Bautista",-26.634333,-57.105528,,"SA","PY","PY-8","San Juan Bautista","no",,,,,,,"Aeropuerto Nacional de San Juan Bautista"
 321680,"PY-0039","small_airport","Aeródromo de la Estancia Buena Vista",-26.563752,-57.144935,,"SA","PY","PY-8","Estancia Buena Vista","no",,,,,,,
 321681,"PY-0040","small_airport","Aeródromo de San Miguel",-26.546805,-57.101111,,"SA","PY","PY-8","San Miguel","no",,,,,,,
 321682,"PY-0041","small_airport","Aeródromo de Santa María Misiones",-26.781323,-56.952095,,"SA","PY","PY-8","Santa Maria","no",,,,,,,
@@ -54916,7 +54917,7 @@
 347903,"RU-0761","small_airport","Nakanno Airport",62.89988,108.44788,816,"EU","RU","RU-IRK","Nakanno","no",,,,,,,
 347904,"RU-0762","small_airport","Khamakar Airport",61.989,108.17978,889,"EU","RU","RU-IRK","Khamakar","no",,,,,,,
 347906,"RU-0763","closed","Kystatyam Airport",67.32212,123.33179,262,"EU","RU","RU-SA","Kystatyam","no",,,,,,,
-35012,"RU-0764","medium_airport","Kubinka Air Base",55.611695,36.650002,614,"EU","RU","RU-MOS","Kubinka","no",,,"UUMB",,,"https://en.wikipedia.org/wiki/Kubinka_(air_base)","УУМБ, Кубинка"
+35012,"RU-0764","medium_airport","Kubinka Air Base",55.611695,36.650002,614,"EU","RU","RU-MOS","Kubinka","no","UUMB",,"XUMB","XUMB",,"https://en.wikipedia.org/wiki/Kubinka_(air_base)","УУМБ, Кубинка"
 347913,"RU-0765","closed","Belogorsk Airfield",55.03342,88.48534,2476,"EU","RU","RU-KEM","Belogorsk","no",,,,,,,
 347914,"RU-0766","heliport","Uzhur Heliport",55.26431,89.82905,1299,"EU","RU","RU-KYA","Uzhur","no",,,,,,,
 348669,"RU-0767","small_airport","Yam Airfield",56.33257,38.6369,558,"EU","RU","RU-VLA","Alexandrovsky","no",,,,,,,
@@ -57444,6 +57445,7 @@
 31020,"SE-0112","closed","Nyge Airport",58.7456016541,17.0489006042,7,"EU","SE","SE-D","Nyköping","no",,,,,,,"ESCY, ESCY"
 595592,"SE-0113","heliport","Kallax Flyg Heliport",68.34579,18.83074,1332,"EU","SE","SE-BD","Abisko","no",,,,,,,
 596437,"SE-0114","small_airport","Esgrene Field",58.132092,11.775177,20,"EU","SE","SE-Q","Svanesund, Ourst","no",,,,,"http://orustfly.com/",,"Burås/Grenegård"
+597819,"SE-0115","closed","Göteborg Torslanda",57.70761,11.77764,,"EU","SE","SE-Q",,"no",,,,,,"https://en.wikipedia.org/wiki/Torslanda_Airport","ESGB, GOT"
 2170,"SE01","small_airport","Alba Elena Airport",-2.173581,-79.280763,150,"SA","EC","EC-G","Bucay","no",,,"SEAE",,,,"SE01, Coronel Marcelino Mariduena"
 2171,"SE02","small_airport","Guabital Airport",-2.773399,-79.702411,45,"SA","EC","EC-G","Soledad","no",,,"SEGB",,,,"SE02"
 2172,"SE03","small_airport","Las Peñas Airport",-2.94716,-80.1007,3,"SA","EC","EC-G","Puerto Grande","no",,,"SEEN",,,,"SE03"
@@ -57740,7 +57742,7 @@
 339980,"SG-0004","closed","Kallang Airport",1.307411,103.873378,,"AS","SG","SG-01","Kallang","no",,,,,,"https://en.wikipedia.org/wiki/Kallang_Airport",
 351987,"SG-0005","small_airport","Murai Airfield",1.39203,103.69951,72,"AS","SG","SG-03","Western Water Catchment","no",,,,,,,
 5508,"SG67","small_airport","Aeródromo de la Estancia Pai Quara",-23.229702,-55.948455,712,"SA","PY","PY-13","Estancia Pai Quara","no",,,"SG67","SG67",,,
-6088,"SGAS","large_airport","Silvio Pettirossi International Airport",-25.240156,-57.519227,292,"SA","PY","PY-11","Asunción","yes","SGAS","ASU","SGAS",,,"https://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport","Luque, Stroessner, Aeropuerto Internacional Silvio Pettirossi"
+6088,"SGAS","large_airport","Aeropuerto Internacional Silvio Pettirossi",-25.240156,-57.519227,292,"SA","PY","PY-11","Asunción","yes","SGAS","ASU","SGAS",,,"https://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport","Luque, Stroessner, Aeropuerto Internacional Silvio Pettirossi"
 6089,"SGAY","medium_airport","Juan de Ayolas National Airport",-27.378379,-56.856791,223,"SA","PY","PY-8","Ayolas","no","SGAY","AYO","SGAY",,,"https://en.wikipedia.org/wiki/Juan_de_Ayolas_Airport","Aeropuerto Nacional de Juan De Ayolas"
 308256,"SGBA","small_airport","Aeródromo de Bella Vista Sur",-27.052393,-55.578026,650,"SA","PY","PY-7","Colonia Doctor Pastor Obligado","no",,,"SGBA",,,,
 41566,"SGBN","small_airport","Aeródromo de Bahía Negra",-20.2246,-58.179528,277,"SA","PY","PY-16","Bahía Negra","no","SGBN","BFA","SGBN",,,,
@@ -60502,6 +60504,7 @@
 510764,"SN2U","small_airport","Nereu Luis de Souza Airport",-5.611213,-43.521628,581,"SA","BR","BR-MA","Parnarama","no",,,"SN2U","MA0175",,,
 565801,"SN2V","small_airport","INCAPE Heliport",-26.779117,-49.417945,1086,"SA","BR","BR-SC","Benedito Novo","no",,,"SN2V","SC0229",,,
 524652,"SN2W","small_airport","Fazenda Teodoro Airport",-6.384167,-58.228889,413,"SA","BR","BR-AM","Maués","no",,,"SN2W","AM0114",,,
+597791,"SN2X","small_airport","Fazenda Belvedere Airport",-23.2875,-49.241389,2116,"SA","BR","BR-SP","Tejupá","no",,,"SN2X","SP1318",,,
 511398,"SN2Y","small_airport","Aerojet Airstrip",-7.943333,-49.675556,692,"SA","BR","BR-PA","Conceição do Araguaia","no",,,"SN2Y","PA0366",,,
 511397,"SN2Z","heliport","Subprefeitura de Parelheiros Heliport",-23.816249,-46.736532,2533,"SA","BR","BR-SP","São Paulo","no",,,"SN2Z","SP1456",,,
 24607,"SN30","heliport","Marysville Mediport Heliport",39.847801208496094,-96.63500213623047,1283,"NA","US","US-KS","Marysville","no",,,"SN30","SN30",,,
@@ -60615,7 +60618,7 @@
 24651,"SN74","heliport","Hays Medical Center Heliport",38.879949,-99.297462,2000,"NA","US","US-KS","Hays","no",,,,"SN74",,,
 24652,"SN75","small_airport","Sommers Airport",39.866429,-95.342061,1070,"NA","US","US-KS","Highland","no",,,,"SN75",,,
 24653,"SN76","small_airport","Sunflower Aerodrome Gliderport",37.926399,-97.906665,1582,"NA","US","US-KS","Hutchinson","no",,,,"SN76","http://www.soarkansas.org/soar/SN76.aspx","https://en.wikipedia.org/wiki/Sunflower_Aerodrome_Gliderport","NAS Hutchinson"
-24655,"SN78","small_airport","Albright Airport",38.698146,-94.719154,1000,"NA","US","US-KS","Bucyrus","no",,,"SN78","SN78",,,
+24655,"SN78","small_airport","Albright Airport",38.698146,-94.719154,1000,"NA","US","US-KS","Bucyrus","no",,,,"SN78",,,
 513762,"SN7A","heliport","Fazenda Nova Era Heliport",-16.082222,-50.061667,2503,"SA","BR","BR-GO","Mossâmedes","no",,,"SN7A","GO0370",,,
 515125,"SN7B","small_airport","Fazenda Herança Airstrip",-20.109561,-56.730498,364,"SA","BR","BR-MS","Miranda","no",,,"SN7B","MS0635",,,
 524088,"SN7C","small_airport","Estância Peroba Rosa Airstrip",-23.020278,-53.819444,1063,"SA","BR","BR-MS","Naviraí","no",,,"SN7C","MS0710",,,
@@ -60722,6 +60725,8 @@
 45622,"SNAX","small_airport","Marcelo Pires Halzhausen Airport",-22.638601,-50.455983,1850,"SA","BR","BR-SP","Assis","no",,"AIF","SNAX","SP0016",,"https://en.wikipedia.org/wiki/Assis_Airport","SBAS, Assis Airport"
 546792,"SNB2","heliport","Unidade ALB-URLA Heliport",-18.874051,-48.205585,2923,"SA","BR","BR-MG","Uberlândia","no",,,"SNB2","MG0476",,,
 553273,"SNB4","small_airport","Fazenda Cantanhede Airport",-3.676706,-44.524153,174,"SA","BR","BR-MA","Matões do Norte","no",,,"SNB4","MA0194",,,
+597792,"SNB5","small_airport","Fazenda Abelha Airstrip",-17.921461,-55.594508,503,"SA","BR","BR-MS","Corumbá","no",,,"SNB5","MS0751",,,
+597793,"SNB6","heliport","Vera Simone Heliport",-7.965892,-35.0074,368,"SA","BR","BR-PE","Camaragibe","no",,,"SNB6","PE0109",,,
 553292,"SNB7","small_airport","Fazenda São Luiz Airport",-5.627047,-44.8174,709,"SA","BR","BR-MA","Tuntum","no",,,"SNB7","MA0195",,,
 37038,"SNBB","small_airport","Fazenda Agronol Airport",-11.954774,-45.723528,2464,"SA","BR","BR-BA","Luís Eduardo Magalhães","no",,,"SJVW","BA0124",,,"SNBB"
 29687,"SNBC","small_airport","Barra do Corda Airport",-5.5025,-45.215833,526,"SA","BR","BR-MA","Barra do Corda","no","SNBC","BDC","SNBC","MA0006",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Barra_do_Corda",
@@ -60785,7 +60790,10 @@
 300,"SNDV","small_airport","Brigadeiro Cabral Airport",-20.180700302124,-44.870899200439,2608,"SA","BR","BR-MG","Divinópolis","no","SNDV","DIQ","SNDV","SNDV",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Divin%C3%B3polis",
 37065,"SNDX","small_airport","Cachoeira Airport",-10.039999961853027,-36.32638931274414,345,"SA","BR","BR-AL","Coruripe","no",,,"SNDX",,,,
 552506,"SNE2","heliport","Fazenda Santa Rosa Heliport",-24.011208,-48.417058,2474,"SA","BR","BR-SP","Capão Bonito","no",,,"SNE2","SP1475",,,
+597795,"SNE3","small_airport","Fazenda Cristalino Airport",-9.077222,-50.632642,827,"SA","BR","BR-PA","Santana do Araguaia","no",,,"SNE3","PA0418",,,
 552898,"SNE4","small_airport","Vale do Pontal Açucar e Etanol S.A. Airstrip",-19.303147,-50.715569,1522,"SA","BR","BR-MG","Limeira do Oeste","no",,,"SNE4","MG0610",,,
+597797,"SNE6","heliport","Chateau Julie 1 Heliport",-2.901514,-40.656169,24,"SA","BR","BR-CE","Camocim","no",,,"SNE6","CE0166",,,
+597799,"SNE7","small_airport","Fazenda Sol Nascente Airport",-21.327621,-55.179773,1448,"SA","BR","BR-MS","Sidrolândia","no",,,"SNE7","MS0753",,,
 37068,"SNEB","small_airport","Nagib Demachki Airport",-3.019798,-47.316474,443,"SA","BR","BR-PA","Paragominas","yes",,"JPE","SNEB","PA0018",,"https://en.wikipedia.org/wiki/Paragominas_Airport",
 37069,"SNEC","small_airport","Outeiros da Brisas Airport",-16.712959,-39.142413,130,"SA","BR","BR-BA","Porto Seguro","no",,,"SNEC","BA0134",,"https://pt.wikipedia.org/wiki/Aeroporto_Outeiro_das_Brisas",
 302,"SNED","small_airport","Sócrates Rezende Airport",-15.666999816895,-38.954700469971,19,"SA","BR","BR-BA","Canavieiras","no","SNED","CNV","SNED","SNED",,,
@@ -64235,16 +64243,16 @@
 44294,"UA-0010","medium_airport","Oktyabrskoe Air Base",45.31999969482422,34.099998474121094,,"EU","UA","UA-43","Oktyabrskoe","no",,,,,,,"Oktyabrskoye Air Base, Аэродром Октябрьское"
 44295,"UA-0011","closed","Karankut Air Base",45.577999,34.282001,52,"EU","UA","UA-43","Volnoye","no",,,,,,,"Krasnogvardeyskoe Air Base, Krasnogvardeyskoye Air Base, Аэродром Каранкут, Аэродром Красногвардейское"
 44297,"UA-0012","medium_airport","Kirovskoe Air Base",45.16699981689453,35.18299865722656,,"EU","UA","UA-43","Kirovskoe","no",,,,,,,"Kirovskoye Air Base, Аэродром Кировское"
-44298,"UA-0013","small_airport","Rysove Airfield",45.995499,33.681017,,"EU","UA","UA-43","Rysove","no",,,,,,,"Risovoe Airfield, Аэродром Рисовое, Risovoye"
+44298,"UA-0013","small_airport","Rysove Airfield",45.995499,33.681017,,"EU","UA","UA-43","Rysove","no","UKAR",,"UKAR",,,,"Risovoe Airfield, Аэродром Рисовое, Risovoye"
 44305,"UA-0014","closed","Donuzlav Air Base",45.325884,33.050407,37,"EU","UA","UA-43","Myrnyi","no",,,,,,,"Аэродром Донузлав"
 44306,"UA-0015","closed","Perekop Airfield",46.15800094604492,33.71699905395508,,"EU","UA","UA-43","Armyansk","no",,,,,,,"Аэродром Перекоп"
 44307,"UA-0016","small_airport","Yukharina Balka Airfield",44.549003,33.488613,335,"EU","UA","UA-40","Sevastopol","no","UKFP",,"UKFP",,,,"Аэродром Юхарина Балка"
 44308,"UA-0017","closed","Genichesk Air Base",46.209,34.764999,,"EU","UA","UA-65","Genichesk","no",,,,,,,"Аэродром Геническ"
-44309,"UA-0018","small_airport","Sevastopol Kozachya Bay Aerodrome / Khersones Air Base",44.578466,33.395462,46,"EU","UA","UA-40","Sevastopol","no",,,,,,,"Hersones Air Base, Аэродром Херсонес, Khersones Air Base, Kozachya Bukhta"
+44309,"UA-0018","small_airport","Sevastopol Kozachya Bay Aerodrome / Khersones Air Base",44.579478,33.395899,46,"EU","UA","UA-40","Sevastopol","no",,,"UKFH",,,"https://en.wikipedia.org/wiki/Khersones_air_base","УКФХ, Hersones Air Base, Аэродром Херсонес, Kozachya Bukhta"
 44310,"UA-0019","closed","Bagerovo Air Base",45.407001,36.244999,,"EU","UA","UA-43","Bagerovo","no",,,,,,"https://en.wikipedia.org/wiki/Baherove_(air_base)","Аэродром Багерово, Bagarovo, Baherove"
 44311,"UA-0020","medium_airport","Melitopol Air Base",46.880001,35.305,,"EU","UA","UA-23","Melitopol","no",,,"UKDM",,,"https://en.wikipedia.org/wiki/Melitopol_Air_Base","Аэродром Мелитополь"
-44312,"UA-0021","small_airport","Skadovsk Airfield",46.131888,32.902506,7,"EU","UA","UA-65","Skadovsk","no",,,"UKOS",,,,"Аэродром Скадовск"
-44313,"UA-0022","medium_airport","Kacha Air Base",44.779764,33.572245,403,"EU","UA","UA-43","Kacha","no",,,"UKFA",,,"https://en.m.wikipedia.org/wiki/Kacha,_Sevastopol#Military_outpost","Аэродром Кача, URFA, XRFA"
+44312,"UA-0021","small_airport","Skadovsk Airfield",46.131888,32.902506,7,"EU","UA","UA-65","Skadovsk","no","UKSK",,"UKSK",,,,"Аэродром Скадовск"
+44313,"UA-0022","medium_airport","Kacha Air Base",44.779764,33.572245,403,"EU","UA","UA-43","Kacha","no","UKKA",,"UKKA",,,"https://en.m.wikipedia.org/wiki/Kacha,_Sevastopol#Military_outpost","Аэродром Кача, URFA, XRFA"
 44314,"UA-0023","closed","Chkalovskiy Airfield",45.073002,35.202999,,"EU","UA","UA-43","Pervomaiske","no",,,,,,,"Chkalovsky Airfield, Аэродром Чкаловский"
 44332,"UA-0024","closed","Askaniya-Nova Airport",46.419998,33.724998,,"EU","UA","UA-65","Khrestivka","no",,,,,,,"Askania-Nova Airport, Аэропорт Аскания-Нова"
 44343,"UA-0025","medium_airport","Bila Tserkva Air Base",49.795228,30.024435,584,"EU","UA","UA-32","Bila Tserkva","no",,,"UKBC",,,"https://en.wikipedia.org/wiki/Bila_Tserkva_Air_Base","Belaya Tserkov Airfield, Аэродром Белая Церковь"
@@ -64770,7 +64778,7 @@
 44291,"UKFG","medium_airport","Gvardeyskoye (Hvardiiske) Air Base",45.116192,33.976625,721,"EU","UA","UA-43","Hvardiiske","no",,,"UKFG","XRFG",,"https://en.wikipedia.org/wiki/Gvardeyskoye_(air_base)","Gvardeyskoye Air Base, Аэродром Гвардейское"
 44296,"UKFI","medium_airport","Saky Air Base",45.090611,33.598536,36,"EU","UA","UA-43","Novofedorivka","no",,,"UKFI",,,"https://en.wikipedia.org/wiki/Saky_(air_base)","Аэродом Саки, URFI"
 31747,"UKFK","small_airport","Kerch Airport",45.372501,36.401402,171,"EU","UA","UA-43","Kerch","no","UKFK","KHC","UKFK",,,"https://en.wikipedia.org/wiki/Kerch_Airport",
-32531,"UKFV","small_airport","Yevpatoriya Airport",45.225601,33.376701,33,"EU","UA","UA-43","Yevpatoriya","no",,,"UKFE",,,"https://en.wikipedia.org/wiki/Yevpatoria_Airport","UKFV, Yevpatoria Aircraft Repair Plant Airport"
+32531,"UKFV","small_airport","Yevpatoriya Airport",45.225601,33.376701,33,"EU","UA","UA-43","Yevpatoriya","no","UKFV",,"UKFV",,,"https://en.wikipedia.org/wiki/Yevpatoria_Airport","Yevpatoria Aircraft Repair Plant Airport"
 44430,"UKFW","small_airport","Zavodskoe Airfield",44.916281,34.061586,955,"EU","UA","UA-43","Simferopol","no",,,"UKFW",,"https://web.archive.org/web/20090717025942/http://www.unavia.narod.ru:80/engl/index.html","https://en.wikipedia.org/wiki/Zavodske_Airfield","Zavodskoye Airfield, Аэродром Заводское"
 43680,"UKFY","medium_airport","Dzhankoy Air Base",45.700901,34.4189,75,"EU","UA","UA-43","Dzhankoy","no",,,"UKFY","XRFY",,"https://en.wikipedia.org/wiki/Dzhankoi_(air_base)","Аэропорт Джанкой, ЬРФЫ"
 335516,"UKGW","small_airport","Voroniv Airfield",50.695956,26.699958,722,"EU","UA","UA-19","Voroniv","no",,,"UKGW",,,,
