@@ -469,7 +469,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 301840,BAJ,small_airport,Bali Airport,-4.8833333333299995,149.133333333,90,OC,PG,PG-WBK,Unea Island,no,,BAJ,,BALI,,,
 27301,BCW,medium_airport,Benguera Island Airport,-21.8533,35.438301,,AF,MZ,MZ-I,Benguera Island,no,,BCW,,,,https://en.wikipedia.org/wiki/Benguera_Island_Airport,
 301872,BCZ,small_airport,Milyakburra Airport,-13.780833333299999,136.201666667,85,OC,AU,AU-NT,Bickerton Island,no,,BCZ,,YBIC,,https://en.wikipedia.org/wiki/Bickerton_Island,
-31597,BG-HKV,small_airport,Malevo Airfield,41.871799,25.604799,600,EU,BG,BG-26,Malevo,no,,HKV,LBMV,,,https://en.wikipedia.org/wiki/Haskovo_Malevo_Airport,LB26
 111,BG-JAM,medium_airport,Bezmer Air Base,42.454899,26.3522,509,EU,BG,BG-28,Bezmer,no,,JAM,LBIA,,,https://en.wikipedia.org/wiki/Bezmer_Airbase,LB44
 31697,BGAA,medium_airport,Aasiaat Airport,68.721802,-52.784698,74,NA,GL,GL-QK,Aasiaat,yes,BGAA,JEG,BGAA,,http://airgreenland.com/om_rejsen/efter_rejsen/din_destination_/aasiaat/,https://en.wikipedia.org/wiki/Aasiaat_Airport,"Mittarfik Aasiaat, Aasiaat Lufthavn, Egedesminde"
 43214,BGAG,heliport,Aappilattoq Heliport,72.88703,-55.596287,42,NA,GL,GL-AV,Aappilattoq,yes,,AOQ,BGAG,AAP,,https://en.wikipedia.org/wiki/Aappilattoq_Heliport_(Avannaata),
@@ -2726,11 +2725,12 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 44362,IN-0012,small_airport,Pakyong Airport,27.2313,88.587196,4590,AS,IN,IN-SK,Pakyong,no,,PYG,VEPY,,,https://en.wikipedia.org/wiki/Pakyong_Airport,
 46512,IN-0025,medium_airport,Ayodhya Airport,26.751283,82.155295,335,AS,IN,IN-UP,Faizabad,yes,,AYJ,VEAY,,,https://en.wikipedia.org/wiki/Ayodhya_Airport,Maharishi Valmiki International
 299082,IN-0065,small_airport,Amravati (Belora) Airstrip,20.814608,77.717765,1125,AS,IN,IN-MM,Amravati,no,VAAM,,VAAM,,,https://en.wikipedia.org/wiki/Amravati_Airport,
-342093,IN-0276,large_airport,Navi Mumbai International Airport,18.988686,73.068523,184,AS,IN,IN-MM,Navi Mumbai,yes,,NMI,,,,https://en.wikipedia.org/wiki/Navi_Mumbai_International_Airport,"D. B. Patil, new airport"
+342093,IN-0276,large_airport,Navi Mumbai International Airport,18.984597,73.065253,184,AS,IN,IN-MM,Navi Mumbai,yes,VANM,NMI,,,,https://en.wikipedia.org/wiki/Navi_Mumbai_International_Airport,"D. B. Patil, new airport"
 354545,IN-0301,medium_airport,Rashtrakavi Kuvempu Airport,13.858024,75.618868,2017,AS,IN,IN-KA,Shimoga,no,,RQY,VOSH,,https://web.archive.org/web/20240204161112/https://ksiidc.karnataka.gov.in/new-page/ShivamoggaAirport/en,https://en.wikipedia.org/wiki/Shivamogga_Airport,"Sogane, Shivamogga"
 354546,IN-0308,medium_airport,Itanagar Donyi Polo Hollongi Airport,26.96683,93.638792,328,AS,IN,IN-AR,Hollongi,yes,,HGI,VEHO,,,https://en.wikipedia.org/wiki/Itanagar_Airport,
 520373,IN-0376,small_airport,Utkela Airport,20.097778,83.183333,685,AS,IN,IN-OR,Bhawanipatna,yes,,UKE,,,,https://en.wikipedia.org/wiki/Utkela_Airport,
 26454,IN-0382,small_airport,Gandhinagar Airfield,19.963699,73.807602,1959,AS,IN,IN-MM,Nashik,no,VANR,,VANR,,,https://en.wikipedia.org/wiki/Gandhinagar_Airport,"ISK, Nashik Road Airport"
+597786,IN-0392,small_airport,Noida International Airport,28.175556,77.60611,,AS,IN,IN-UP,,no,VIND,,,,https://niairport.in/,https://en.wikipedia.org/wiki/Noida_International_Airport,
 31698,IN-JGB,small_airport,Jagdalpur Airport,19.074301,82.036797,1822,AS,IN,IN-CT,Jagdalpur,yes,,JGB,VEJR,VEJR,,https://en.wikipedia.org/wiki/Jagdalpur_Airport,
 32215,IN-RJI,small_airport,Rajouri Airport,33.377899,74.315201,3000,AS,IN,IN-JK,Rajouri,no,,RJI,,,,https://en.wikipedia.org/wiki/Rajouri_Airport,Rajauri
 311991,INE,small_airport,Chinde Airport,-18.59,36.4489,22,AF,MZ,MZ-Q,Chinde,no,,INE,,,,,
@@ -6420,6 +6420,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 43003,RU-0056,small_airport,Taksimo Airport,56.361668,114.93,1634,AS,RU,RU-BU,Taksimo,yes,,TKM,UIKG,,,https://en.wikipedia.org/wiki/Taksimo_Airport,
 44301,RU-0089,medium_airport,Krymsk Air Base,44.962905,37.999071,66,EU,RU,RU-KDA,Krymsk,no,,NOI,,XRKW,,https://en.wikipedia.org/wiki/Krymsk_(air_base),"Аэродром Крымск, ЬРКВ, Krimskaja II, Novorossiysk"
 323478,RU-0470,small_airport,Motygino Airport,58.180921,94.745272,538,AS,RU,RU-KYA,Motygino,yes,,MJY,UNIM,MTG,,,"УНИМ, Мотыгино, МТГ"
+35012,RU-0764,medium_airport,Kubinka Air Base,55.611695,36.650002,614,EU,RU,RU-MOS,Kubinka,no,UUMB,,XUMB,XUMB,,https://en.wikipedia.org/wiki/Kubinka_(air_base),"УУМБ, Кубинка"
 352227,RU-0802,small_airport,Aleksandrovsk-Sakhalinskiy Airport,50.877144,142.17561,12,AS,RU,RU-SAK,Aleksandrovsk-Sakhalinskiy,no,,UHS,UHSA,,,,"УХСА, Александровск-Сахалинский"
 35001,RU-10046,small_airport,Kirovsk-Apatity Airport,67.462851,33.585294,515,EU,RU,RU-MUR,Apatity,no,,KVK,ULMK,ULMK,http://www.airkirovsk.ru/,https://en.wikipedia.org/wiki/Kirovsk-Apatity_Airport,"Kirovsk Airport, Apatity Airport, Аэропорт Кировск, Аэропорт Апатиты, УЛМК"
 42330,RU-10050,small_airport,Klokovo Air Base,54.239,37.6,499,EU,RU,RU-TUL,Tula,no,,TYA,,XUBT,,https://en.wikipedia.org/wiki/Klokovo_air_base,"Аэродром Клоково, UUBT, УУБТ., ЬУБТ, Тула"
@@ -6800,7 +6801,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6085,SETR,medium_airport,Tarapoa Airport,-0.122956,-76.337799,814,SA,EC,EC-U,Tarapoa,no,SETR,TPC,SETR,,,https://en.wikipedia.org/wiki/Tarapoa_Airport,
 6086,SETU,medium_airport,Lieutenant Colonel Luis A. Mantilla International Airport,0.809506,-77.708099,9649,SA,EC,EC-C,Tulcán,yes,SETU,TUA,SETU,,,https://en.wikipedia.org/wiki/Teniente_Coronel_Luis_a_Mantilla_International_Airport,Teniente Coronel Luis A. Mantilla
 6087,SFAL,medium_airport,Port Stanley Airport,-51.685699462891,-57.777599334717,75,SA,FK,FK-U-A,Stanley,yes,SFAL,PSY,SFAL,,,https://en.wikipedia.org/wiki/Port_Stanley_Airport,
-6088,SGAS,large_airport,Silvio Pettirossi International Airport,-25.240156,-57.519227,292,SA,PY,PY-11,Asunción,yes,SGAS,ASU,SGAS,,,https://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport,"Luque, Stroessner, Aeropuerto Internacional Silvio Pettirossi"
+6088,SGAS,large_airport,Aeropuerto Internacional Silvio Pettirossi,-25.240156,-57.519227,292,SA,PY,PY-11,Asunción,yes,SGAS,ASU,SGAS,,,https://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport,"Luque, Stroessner, Aeropuerto Internacional Silvio Pettirossi"
 6089,SGAY,medium_airport,Juan de Ayolas National Airport,-27.378379,-56.856791,223,SA,PY,PY-8,Ayolas,no,SGAY,AYO,SGAY,,,https://en.wikipedia.org/wiki/Juan_de_Ayolas_Airport,Aeropuerto Nacional de Juan De Ayolas
 41566,SGBN,small_airport,Aeródromo de Bahía Negra,-20.2246,-58.179528,277,SA,PY,PY-16,Bahía Negra,no,SGBN,BFA,SGBN,,,,
 6090,SGCO,medium_airport,Lieutenant Colonel Carmelo Peralta National Airport,-23.440334,-57.429206,253,SA,PY,PY-1,Concepción,no,SGCO,CIO,SGCO,,,https://en.wikipedia.org/wiki/Teniente_Coronel_Carmelo_Peralta_Airport,Aeropuerto Nacional Tte. Cnel. Carmelo Peralta
@@ -7473,7 +7474,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 42491,TZ-GIT,small_airport,Mchauru Airport,-2.813667,32.172472,3955,AF,TZ,TZ-31,Geita,no,,GIT,HTRU,,,,
 333231,TZO,small_airport,Tsimiroro Airport,-18.345064,45.015643,755,AF,MG,MG-U,Ankisatra,no,,TZO,,,,,
 25216,U41,small_airport,Dubois Municipal Airport,44.162057,-112.220581,5123,NA,US,US-ID,Dubois,no,,DBS,KU41,U41,https://apps.itd.idaho.gov/Apps/info/aero/impact/DuboisMunicipal.pdf,https://en.wikipedia.org/wiki/Dubois_Municipal_Airport_(Idaho),
+44298,UA-0013,small_airport,Rysove Airfield,45.995499,33.681017,,EU,UA,UA-43,Rysove,no,UKAR,,UKAR,,,,"Risovoe Airfield, Аэродром Рисовое, Risovoye"
 44307,UA-0016,small_airport,Yukharina Balka Airfield,44.549003,33.488613,335,EU,UA,UA-40,Sevastopol,no,UKFP,,UKFP,,,,Аэродром Юхарина Балка
+44312,UA-0021,small_airport,Skadovsk Airfield,46.131888,32.902506,7,EU,UA,UA-65,Skadovsk,no,UKSK,,UKSK,,,,Аэродром Скадовск
+44313,UA-0022,medium_airport,Kacha Air Base,44.779764,33.572245,403,EU,UA,UA-43,Kacha,no,UKKA,,UKKA,,,"https://en.m.wikipedia.org/wiki/Kacha,_Sevastopol#Military_outpost","Аэродром Кача, URFA, XRFA"
 45178,UA-0049,small_airport,Myrhorod Air Base,49.932,33.641,400,EU,UA,UA-53,Myrhorod,no,,MXR,UKBM,,,https://en.wikipedia.org/wiki/Myrhorod_Air_Base,"Mirgorod Air Base, Аэродром Миргород"
 45179,UA-0050,small_airport,Kakhnovka Airfield,49.136799,33.477893,266,EU,UA,UA-53,Kremenchuk,no,,KHU,UKHK,,,https://en.wikipedia.org/wiki/Kremenchuk_Airport,"Аэродром Кахновка, Velyka Kokhnivka"
 321214,UA-0107,small_airport,Kam'yanets'-Podil's'kyi Airfield,48.695631,26.609471,700,EU,UA,UA-68,Kamyan'ka,no,,KCP,UKLK,,,,"Mekanik Avia, Механик Авиа, УКЛК"
@@ -7612,6 +7616,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 44293,UKFB,medium_airport,Sevastopol International Airport / Belbek Air Base,44.691822,33.57462,344,EU,UA,UA-43,Sevastopol,no,UKFB,UKS,UKFB,,,https://en.wikipedia.org/wiki/Sevastopol_International_Airport,"Севастополь,Бельбек"
 6474,UKFF,medium_airport,Simferopol International Airport,45.0522,33.975101,639,EU,UA,UA-43,Simferopol,yes,UKFF,SIP,UKFF,URFF,https://new.sipaero.ru/,https://en.wikipedia.org/wiki/Simferopol_International_Airport,
 31747,UKFK,small_airport,Kerch Airport,45.372501,36.401402,171,EU,UA,UA-43,Kerch,no,UKFK,KHC,UKFK,,,https://en.wikipedia.org/wiki/Kerch_Airport,
+32531,UKFV,small_airport,Yevpatoriya Airport,45.225601,33.376701,33,EU,UA,UA-43,Yevpatoriya,no,UKFV,,UKFV,,,https://en.wikipedia.org/wiki/Yevpatoria_Airport,Yevpatoria Aircraft Repair Plant Airport
 300610,UKH,small_airport,Mukhaizna Airport,19.386389,56.401389,473,AS,OM,OM-WU,Mukhaizna Oil Field,no,,UKH,OOMK,,,https://en.wikipedia.org/wiki/Mukhaizna_Airport,
 6476,UKHH,medium_airport,Kharkiv International Airport,49.926943,36.290814,508,EU,UA,UA-63,Kharkiv,yes,UKHH,HRK,UKHH,,http://www.airport.kharkov.ua/,https://en.wikipedia.org/wiki/Kharkiv_International_Airport,"Osnova International Airport, Міжнародний аеропорт ""Харків"""
 32532,UKHP,small_airport,Suprunovka Airport,49.5686,34.397202,505,EU,UA,UA-53,Poltava,no,UKHP,PLV,UKHP,,,https://en.wikipedia.org/wiki/Poltava_International_Airport,
