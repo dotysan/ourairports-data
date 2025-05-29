@@ -9986,7 +9986,7 @@
 565764,"AQ-0012","small_airport","Navaid",-89.998,139.273,,"AN","AQ","AQ-U-A",,"no",,,,,,,
 5035,"AQ-0013","closed","McMurdo Station Ice Runway",-77.854391,166.464387,1,"AN","AQ","AQ-U-A","McMurdo Station","no",,,,,,"https://en.wikipedia.org/wiki/Ice_Runway","NZIR, NZIR"
 5048,"AQ-0014","closed","McMurdo Station Pegasus Field",-77.963402,166.524994,18,"AN","AQ","AQ-U-A","McMurdo Station","no",,,,,,"https://en.wikipedia.org/wiki/Pegasus_blue_ice_runway","NZPG, NZPG"
-597882,"AQ-0015","closed","Byrd Station",-80.0147,-119.5656,5097,"AN","AQ","AQ-U-A","Marie Byrd Land","no",,,,,,,"NBY"
+597882,"AQ-0015","closed","Byrd Station",-80.0147,-119.5656,5097,"AN","AQ","AQ-U-A","Marie Byrd Land","no",,,,,,"https://en.wikipedia.org/wiki/Byrd_Station","NBY"
 336951,"AQBC","medium_airport","Boulder Clay Runway",-74.739373,164.03539,672,"AN","AQ","AQ-U-A","Zucchelli Station","no",,,"AQBC",,,"https://en.wikipedia.org/wiki/Zucchelli_Station",
 16294,"AQY","small_airport","Girdwood-Alyeska Airport",60.968774,-149.119792,150,"NA","US","US-AK","Girdwood","no",,"AQY",,"AQY",,"https://en.wikipedia.org/wiki/Girdwood_Airport",
 35333,"AR-0001","small_airport","Cullen Airport",-52.88574,-68.414956,132,"SA","AR","AR-V","Cullen","no",,,,,,,
@@ -15347,31 +15347,31 @@
 36336,"BR-2538","small_airport","Fazenda Espigão Airport",-14.125,-56.936111,1690,"SA","BR","BR-MT","Diamantino","no",,,,,,,"SIWL"
 36339,"BR-2539","small_airport","Fazenda Água Doce Airport",-22.867222,-54.440834,1201,"SA","BR","BR-MS","Laguna Carapã","no",,,,,,,"SIWP"
 36343,"BR-2540","small_airport","Santa Helena Airport",-7.844432,-56.664543,699,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SIWT"
-36344,"BR-2541","small_airport","Fazenda Nossa Senhora da Candelária Airport",-18.518611907959,-57.598331451416,365,"SA","BR","BR-MS","Corumbá","no",,,,"SIWU",,,"SIWU"
-36346,"BR-2542","heliport","Funchal Heliport",-23.5941677094,-46.6916656494,2586,"SA","BR","BR-SP","São Paulo","no",,,,"SIWW",,,"SIWW"
-36351,"BR-2543","small_airport","Fazenda Ilha Verde Airport",-18.505556106567,-57.402221679688,312,"SA","BR","BR-MS","Corumbá","no",,,,"SIXB",,,"SIXB"
-36358,"BR-2544","small_airport","Fazenda Antônio Andrade Airport",-15.180277824402,-40.092777252197,827,"SA","BR","BR-BA","Itororó","no",,,,"SIXI",,,"SIXI"
+36344,"BR-2541","small_airport","Fazenda Nossa Senhora da Candelária Airport",-18.517502,-57.59977,365,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SIWU"
+36346,"BR-2542","heliport","Funchal Heliport",-23.594284,-46.691861,2586,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SIWW"
+36351,"BR-2543","small_airport","Fazenda Ilha Verde Airport",-18.502611,-57.412927,312,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SIXB"
+36358,"BR-2544","small_airport","Fazenda Antônio Andrade Airport",-15.180278,-40.092777,827,"SA","BR","BR-BA","Itororó","no",,,,,,,"SIXI"
 36359,"BR-2545","small_airport","Fazenda São Francisco Airport",-13.310556411743,-52.892223358154,1152,"SA","BR","BR-MT","Canarana","no",,,,"SIXL",,,"SIXL"
-36360,"BR-2546","small_airport","Comunidade São Leopoldo do Tapajós Airport",-4.976288,-56.924028,492,"SA","BR","BR-PA","Itaituba","no",,,,"SIXM",,,"SIXM, SJIY"
-36361,"BR-2547","heliport","Soufer Heliport",-22.97613,-47.102755,2155,"SA","BR","BR-SP","Campinas","no",,,,"SIXN",,,"SIXN"
+36360,"BR-2546","small_airport","Comunidade São Leopoldo do Tapajós Airport",-4.976288,-56.924028,361,"SA","BR","BR-PA","Itaituba","no",,,"SDD7","PA0309",,,"SIXM, SJIY, Comunidade Nova Esperança"
+36361,"BR-2547","heliport","Soufer Heliport",-22.97613,-47.102755,2155,"SA","BR","BR-SP","Campinas","no",,,,,,,"SIXN"
 36365,"BR-2548","heliport","Condomínio New Place of Business Heliport",-23.60035,-46.63817,2804,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SIXU"
 36368,"BR-2549","small_airport","Usinas Braco Norte Airport",-9.658493,-54.951004,1159,"SA","BR","BR-MT","Guarantã Do Norte","no",,,,,,,"SIXX"
-36369,"BR-2550","heliport","Fábrica Fortaleza Heliport",-3.913408,-38.497203,66,"SA","BR","BR-CE","Eusébio","no",,,,"SIXY",,,"SIXY"
-36371,"BR-2551","heliport","BSH Continental Eletrodomésticos Ltda. Heliport",-22.870555877686,-47.188331604004,1959,"SA","BR","BR-SP","Hortolândia","no",,,,"SIYA",,,"SIYA"
-36373,"BR-2552","heliport","Weril Heliport",-23.333332061768,-46.678890228271,2576,"SA","BR","BR-SP","Franco Da Rocha","no",,,,"SIYD",,,"SIYD"
+36369,"BR-2550","heliport","Fábrica Fortaleza Heliport",-3.913408,-38.497203,66,"SA","BR","BR-CE","Eusébio","no",,,,,,,"SIXY"
+36371,"BR-2551","heliport","BSH Continental Eletrodomésticos Ltda. Heliport",-22.871007,-47.188706,1959,"SA","BR","BR-SP","Hortolândia","no",,,,,,,"SIYA, Mabe Hortolândia Eletrodomésticos Ltda"
+36373,"BR-2552","heliport","Weril Heliport",-23.333332,-46.67889,2576,"SA","BR","BR-SP","Franco da Rocha","no",,,,,,,"SIYD"
 36375,"BR-2553","small_airport","Fazenda Araras Airport",-23.308332443237,-49.089168548584,2166,"SA","BR","BR-SP","Itaí","no",,,,"SIYF",,,"SIYF"
-36383,"BR-2554","small_airport","Fazenda Shangri-lá Airport",-10.282500267029,-56.469165802002,1057,"SA","BR","BR-MT","Alta Floresta","no",,,,"SIYP",,,"SIYP"
-36384,"BR-2555","small_airport","Tapurá Airport",-12.791666984558,-56.498611450195,1310,"SA","BR","BR-MT","Tapurá","no",,,,"SIYQ",,,"SIYQ"
-36386,"BR-2556","small_airport","Helibrás Airport",-22.430833816528,-45.479167938232,2759,"SA","BR","BR-MG","Itajubá","no",,,,"SIYS",,,"SIYS"
-36387,"BR-2557","small_airport","Mamuru Airport",-3.117976,-56.583568,99,"SA","BR","BR-PA","Juruti","no",,,,"SIYT",,,"SIYT"
-36390,"BR-2558","small_airport","Fazenda Salvação Airport",-5.9522218704224,-56.54333114624,601,"SA","BR","BR-PA","Itaituba","no",,,,"SIYW",,,"SIYW"
+36383,"BR-2554","small_airport","Fazenda Shangri-lá Airport",-10.281914,-56.466779,1057,"SA","BR","BR-MT","Alta Floresta","no",,,,,,,"SIYP"
+36384,"BR-2555","small_airport","Tapurá Airport",-12.791704,-56.498608,1310,"SA","BR","BR-MT","Tapurá","no",,,,,,,"SIYQ"
+36386,"BR-2556","small_airport","Helibrás Airport",-22.435479,-45.482411,2759,"SA","BR","BR-MG","Itajubá","no",,,,,,,"SIYS"
+36387,"BR-2557","small_airport","Mamuru Airport",-3.117976,-56.583568,99,"SA","BR","BR-PA","Juruti","no",,,,,,,"SIYT"
+36390,"BR-2558","small_airport","Fazenda Salvação Airport",-5.952222,-56.543331,601,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SIYW"
 36391,"BR-2559","small_airport","Fazenda Varginha Airport",-21.950000762939,-46.549999237061,4200,"SA","BR","BR-MG","Andradas","no",,,,"SIYX",,,"SIYX"
 36393,"BR-2560","small_airport","Parque Manoelito Argolo Airport",-11.960277557373,-38.002777099609,558,"SA","BR","BR-BA","Entre Rios","no",,,,"SIZA",,,"SIZA"
 36396,"BR-2561","heliport","Sabre Heliport",-23.387222290039,-47.330276489258,2094,"SA","BR","BR-SP","Itu","no",,,,"SIZD",,,"SIZD"
 36402,"BR-2562","small_airport","Fazenda Santa Clara",-10.7027777778,-48.1944444444,1024,"SA","BR","BR-TO","Porto Nacional","no",,,,"SIZM",,,"SIZM"
 36404,"BR-2563","heliport","Fazenda Sant`Anna da Grama Heliport",-23.0561103821,-47.0791664124,2188,"SA","BR","BR-SP","Itupeva","no",,,,"SIZP",,,"SIZP"
 36406,"BR-2564","small_airport","Fazenda Carolina Airport",-12.900555610657,-61.130001068115,853,"SA","BR","BR-RO","Corumbiara","no",,,,"SIZR",,,"SIZR"
-36408,"BR-2565","small_airport","Fazenda Buriti Airport",-19.354444503784,-56.793056488037,299,"SA","BR","BR-MS","Corumbá","no",,,,"SIZT",,,"SIZT"
+36408,"BR-2565","small_airport","Fazenda Buriti Airport",-19.353724,-56.795472,299,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SIZT"
 36413,"BR-2566","small_airport","Fazenda São José do Rio Branco Airport",-15.071389,-59.153332,1142,"SA","BR","BR-MT","Pontes E Lacerda","no",,,,"SJAA",,,"SJAA"
 36416,"BR-2567","small_airport","Fazenda Furnas Airport",-13.158297,-51.807606,1618,"SA","BR","BR-MT","Ribeirão Cascalheira","no",,,,"SJAE",,,"SJAE"
 36421,"BR-2568","small_airport","Fazenda Santa Maria Airport",-4.646389,-47.233334,1077,"SA","BR","BR-MA","Açailândia","no",,,,"SJAL",,,"SJAL"
@@ -22301,6 +22301,7 @@
 355231,"DE-0911","heliport","Christoph Hansa ADAC Helipad",53.507971,10.173382,136,"EU","DE","DE-HH","Hamburg","no",,,,"HHBG",,"https://de.wikipedia.org/wiki/Christoph_Hansa","HHBG, BG Klinikum Boberg"
 594322,"DE-0912","heliport","Bocholt Heliport",51.82111,6.61704,,"EU","DE","DE-NW","Bocholt","no",,,,,,,
 594387,"DE-0913","heliport","Marien Hospital Papenberg Aschendorf Heliport",53.07414,7.39295,23,"EU","DE","DE-NI","Papenberg","no",,,,,,,
+597912,"DE-0914","heliport","Borkum Inselkrankenhaus Hospital Heliport",53.584915,6.670228,,"EU","DE","DE-NI",,"no",,,,,,,
 17115,"DE00","small_airport","Doyle's Airport",39.02069854736328,-75.57710266113281,51,"NA","US","US-DE","Felton","no",,,"DE00","DE00",,,
 17117,"DE02","heliport","Delaware State Police Heliport",39.20009994506836,-75.53299713134766,50,"NA","US","US-DE","Dover","no",,,"DE02","DE02",,,
 17118,"DE03","heliport","Dover Downs Helistop",39.18339920043945,-75.52459716796875,28,"NA","US","US-DE","Dover","no",,,"DE03","DE03",,,
@@ -29594,7 +29595,7 @@
 315688,"GR-0012","small_airport","Terpsithea Airfield",39.653506,22.341098,246,"EU","GR","GR-E","Larissa","no",,,,,,,
 317522,"GR-0013","closed","Ikaros Airfield",38.431698,23.134922,,"EU","GR","GR-H","Aliartos","no",,,,,,,"Kopaida Moschonis, Moschonis"
 320182,"GR-0014","small_airport","Myrini - Karditsa Airfield",39.407445,21.995921,315,"EU","GR","GR-E","Karditsa","no",,,,,,,
-320184,"GR-0015","small_airport","Molos Airfield",38.826175,22.661959,,"EU","GR","GR-H","Molos","no",,,,,,,
+320184,"GR-0015","small_airport","Molos Airfield",38.826175,22.661959,,"AS","GR","GR-H","Molos","no","LGMO",,"LGMO",,,,
 320613,"GR-0016","small_airport","Dounis Airfield",38.02401,23.30371,,"EU","GR","GR-I","Megara","no",,,,,,,
 321104,"GR-0017","small_airport","Kolchiko Airfield",40.745241,23.122964,,"EU","GR","GR-B","Kolchiko","no",,,,,,,"Kolhiko"
 321408,"GR-0018","small_airport","Serres-Chortero Airfield",41.224442,23.363543,187,"EU","GR","GR-B","Chortero","no",,,,,"http://www.serresairclub.gr/",,"chortero, hortero, serres, χορτερό, σέρρες"
@@ -43014,7 +43015,7 @@
 4282,"LGSK","medium_airport","Skiathos Island National Airport",39.177101,23.5037,54,"EU","GR","GR-E","Skiathos","yes","LGSK","JSI","LGSK",,,"https://en.wikipedia.org/wiki/Skiathos_Island_National_Airport","Alexandros Papadiamantis Airport"
 4283,"LGSM","medium_airport","Samos Airport",37.689999,26.911699,19,"EU","GR","GR-K","Samos Island","yes","LGSM","SMI","LGSM",,,"https://en.wikipedia.org/wiki/Samos_International_Airport",
 4284,"LGSO","small_airport","Syros Airport",37.4227981567,24.950899124099998,236,"EU","GR","GR-L","Syros Island","yes","LGSO","JSY","LGSO",,,"https://en.wikipedia.org/wiki/Syros_Island_National_Airport",
-4285,"LGSP","small_airport","Sparti Airfield",36.9739,22.5263,500,"EU","GR","GR-J","Sparti","no","LGSP","SPJ","LGSP",,,"https://en.wikipedia.org/wiki/Sparti_Airport",
+4285,"LGSP","small_airport","Sparti Airfield",36.9738,22.525708,500,"AS","GR","GR-J","Sparti","no",,"SPJ","LGSP",,,"https://en.wikipedia.org/wiki/Sparti_Airport",
 4286,"LGSR","medium_airport","Santorini Airport",36.399200439453125,25.479299545288086,127,"EU","GR","GR-L","Santorini Island","yes","LGSR","JTR","LGSR",,,"https://en.wikipedia.org/wiki/Santorini_(Thira)_National_Airport",
 4287,"LGST","medium_airport","Sitia Airport",35.21609878540039,26.101299285888672,376,"EU","GR","GR-M","Crete Island","yes","LGST","JSH","LGST",,,"https://en.wikipedia.org/wiki/Sitia_Public_Airport",
 4289,"LGSY","small_airport","Skiros Airport",38.9676017761,24.4871997833,44,"EU","GR","GR-H","Skiros Island","yes","LGSY","SKU","LGSY",,,"https://en.wikipedia.org/wiki/Skyros_Island_National_Airport",
@@ -54235,7 +54236,7 @@
 43661,"RU-0074","small_airport","Borki Airfield",58.371133,31.043243,,"EU","RU","RU-NGR","Novgorod","no",,,,,"http://www.ask.nov.ru/",,"Аэродром Борки"
 43657,"RU-0075","small_airport","Korpikyulya Airfield",59.60499954223633,30.272300720214844,,"EU","RU","RU-LEN","Gatchina","no",,,"ULSK",,"http://www.aeropiter.ru/ru/aeroclub.htm",,"Korpikulya Airfield, Аэродром Корпикюля"
 43658,"RU-0076","closed","Lepsari Airfield",60.138401,30.886499,98,"EU","RU","RU-LEN",,"no",,,,,,,"Аэродром Лепсари, ZA77"
-43659,"RU-0077","small_airport","Sivoritsy Airfield",59.476156,30.001545,371,"EU","RU","RU-LEN","Gatchina","no",,,,,,,"Nikolskoye Airfield, Аэродром Сиворицы, Аэродром Никольское"
+43659,"RU-0077","small_airport","Sivoritsy Airfield",59.476156,30.001545,371,"EU","RU","RU-LEN","Gatchina","no","ULSY",,,,,,"Nikolskoye Airfield, Аэродром Сиворицы, Аэродром Никольское"
 43660,"RU-0078","closed","Yermilovo Air Base",60.375,28.874000549316406,,"EU","RU","RU-LEN",,"no",,,,,,,"Ermilovo Air Base, Аэродром Ермилово"
 43662,"RU-0079","small_airport","Kuznetsovo Airfield",59.245201110839844,29.945199966430664,,"EU","RU","RU-LEN","Rozhdestveno","no",,,"ULSO",,,,"Аэродром Кузнецово"
 43665,"RU-0080","small_airport","Murmashi Airfield",68.8067,32.8077,245,"EU","RU","RU-MUR","Murmansk","no",,,,"XLMN",,,"ЬЛМН, Аэродром Мурмаши"
@@ -54309,7 +54310,7 @@
 44480,"RU-0148","small_airport","Maikhe Airfield",43.423353,132.422864,,"AS","RU","RU-PRI","Shtykovo","no",,,"ZA83",,,,"Аэродром Майхэ"
 44481,"RU-0149","small_airport","Uglovaya Air Base",43.347977,132.058755,40,"AS","RU","RU-PRI","Artyom","no",,,"UHIU",,,,"Uglovoye Air Base, Аэродром Угловая, Аэродром Угловое, UHIU"
 44555,"RU-0150","heliport","Saint Petersburg Children's Hospital No.1 Helipad",59.836299896240234,30.186500549316406,,"EU","RU","RU-SPE","Saint Petersburg","no",,,,,,,"Вертолётная площадка Детской больницы № 1"
-44556,"RU-0151","heliport","Petropavlovskaya Krepost Helipad",59.9514835454,30.3137147427,,"EU","RU","RU-SPE","Saint Petersburg","no",,,,,,,"Peter and Paul Fortress Helipad, Вертолётная площадка Петропавловская Крепость, УЛЛЯ"
+44556,"RU-0151","heliport","Petropavlovskaya Krepost Helipad",59.951484,30.313715,,"EU","RU","RU-SPE","Saint Petersburg","no","ULLQ",,,,,,"Peter and Paul Fortress Helipad, Вертолётная площадка Петропавловская Крепость, УЛЛЯ"
 44575,"RU-0152","medium_airport","Mozdok Air Base",43.78499984741211,44.599998474121094,,"EU","RU","RU-SE","Mozdok","no",,,,,,,"Аэродром Моздок"
 44576,"RU-0153","closed","Komendantskiy Airfield",59.99700164794922,30.290000915527344,,"EU","RU","RU-SPE","St. Petersburg","no",,,,,,,"Komendantsky Airfield, Комендантский Аэродром"
 44580,"RU-0154","closed","Ropsha Airfield",59.71099853515625,29.80500030517578,,"EU","RU","RU-LEN","Ropsha","no",,,,,,,"Аэродром Ропша"
@@ -78819,6 +78820,7 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,,"XLO, XLO"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
+597915,"VN-0077","large_airport","Nhà cái 383sports",0.000001,0.000001,3,"AS","VN","VN-U-A","Quy Nhơn","no",,,,,,,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
