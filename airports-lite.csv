@@ -2426,6 +2426,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31126,GQPF,small_airport,Fderik Airport,22.673551,-12.729262,961,AF,MR,MR-11,Fderik,no,GQPF,FGD,GQPF,,,https://en.wikipedia.org/wiki/Fderik_Airport,
 3138,GQPP,medium_airport,Nouadhibou International Airport,20.9330997467041,-17.030000686645508,24,AF,MR,MR-08,Nouadhibou,yes,GQPP,NDB,GQPP,,,https://en.wikipedia.org/wiki/Nouadhibou_International_Airport,
 32135,GQPZ,small_airport,Tazadit Airport,22.757345,-12.482228,1119,AF,MR,MR-11,Zouérate,yes,GQPZ,OUZ,GQPZ,,,https://en.wikipedia.org/wiki/Tazadit_Airport,
+320184,GR-0015,small_airport,Molos Airfield,38.826175,22.661959,,AS,GR,GR-H,Molos,no,LGMO,,LGMO,,,,
 311387,GRC,small_airport,Grand Cess Airport,4.571,-8.2076,28,AF,LR,LR-GK,Grand Cess,no,,GRC,,,,,
 42230,GT-0001,small_airport,Chiquimula Airport,14.83092,-89.520938,1484,NA,GT,GT-CQ,Chiquimula,no,,CIQ,MGCQ,,,https://en.wikipedia.org/wiki/Chiquimula_Airport,
 42231,GT-0002,small_airport,Dos Lagunas Airport,17.6124,-89.6884,1057,NA,GT,GT-PE,Dos Lagunas,no,,DON,MGDL,,,https://en.wikipedia.org/wiki/Dos_Lagunas_Airport,
@@ -4676,7 +4677,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4282,LGSK,medium_airport,Skiathos Island National Airport,39.177101,23.5037,54,EU,GR,GR-E,Skiathos,yes,LGSK,JSI,LGSK,,,https://en.wikipedia.org/wiki/Skiathos_Island_National_Airport,Alexandros Papadiamantis Airport
 4283,LGSM,medium_airport,Samos Airport,37.689999,26.911699,19,EU,GR,GR-K,Samos Island,yes,LGSM,SMI,LGSM,,,https://en.wikipedia.org/wiki/Samos_International_Airport,
 4284,LGSO,small_airport,Syros Airport,37.4227981567,24.950899124099998,236,EU,GR,GR-L,Syros Island,yes,LGSO,JSY,LGSO,,,https://en.wikipedia.org/wiki/Syros_Island_National_Airport,
-4285,LGSP,small_airport,Sparti Airfield,36.9739,22.5263,500,EU,GR,GR-J,Sparti,no,LGSP,SPJ,LGSP,,,https://en.wikipedia.org/wiki/Sparti_Airport,
+4285,LGSP,small_airport,Sparti Airfield,36.9738,22.525708,500,AS,GR,GR-J,Sparti,no,,SPJ,LGSP,,,https://en.wikipedia.org/wiki/Sparti_Airport,
 4286,LGSR,medium_airport,Santorini Airport,36.399200439453125,25.479299545288086,127,EU,GR,GR-L,Santorini Island,yes,LGSR,JTR,LGSR,,,https://en.wikipedia.org/wiki/Santorini_(Thira)_National_Airport,
 4287,LGST,medium_airport,Sitia Airport,35.21609878540039,26.101299285888672,376,EU,GR,GR-M,Crete Island,yes,LGST,JSH,LGST,,,https://en.wikipedia.org/wiki/Sitia_Public_Airport,
 4289,LGSY,small_airport,Skiros Airport,38.9676017761,24.4871997833,44,EU,GR,GR-H,Skiros Island,yes,LGSY,SKU,LGSY,,,https://en.wikipedia.org/wiki/Skyros_Island_National_Airport,
@@ -6420,7 +6421,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 314542,RSE,seaplane_base,Rose Bay Seaplane Base,-33.869,151.262,,OC,AU,AU-NSW,Sydney,no,,RSE,YRAY,,,https://en.wikipedia.org/wiki/Rose_Bay_Water_Airport,
 350214,RSI,medium_airport,Red Sea International Airport,25.627975,37.088914,140,AS,SA,SA-07,Hanak,yes,,RSI,OERS,,https://www.redseaglobal.com/our-destinations/the-red-sea/red-sea-international-airport,https://en.wikipedia.org/wiki/Red_Sea_International_Airport,RSI
 43003,RU-0056,small_airport,Taksimo Airport,56.361668,114.93,1634,AS,RU,RU-BU,Taksimo,yes,,TKM,UIKG,,,https://en.wikipedia.org/wiki/Taksimo_Airport,
+43659,RU-0077,small_airport,Sivoritsy Airfield,59.476156,30.001545,371,EU,RU,RU-LEN,Gatchina,no,ULSY,,,,,,"Nikolskoye Airfield, Аэродром Сиворицы, Аэродром Никольское"
 44301,RU-0089,medium_airport,Krymsk Air Base,44.962905,37.999071,66,EU,RU,RU-KDA,Krymsk,no,,NOI,,XRKW,,https://en.wikipedia.org/wiki/Krymsk_(air_base),"Аэродром Крымск, ЬРКВ, Krimskaja II, Novorossiysk"
+44556,RU-0151,heliport,Petropavlovskaya Krepost Helipad,59.951484,30.313715,,EU,RU,RU-SPE,Saint Petersburg,no,ULLQ,,,,,,"Peter and Paul Fortress Helipad, Вертолётная площадка Петропавловская Крепость, УЛЛЯ"
 323478,RU-0470,small_airport,Motygino Airport,58.180921,94.745272,538,AS,RU,RU-KYA,Motygino,yes,,MJY,UNIM,MTG,,,"УНИМ, Мотыгино, МТГ"
 35012,RU-0764,medium_airport,Kubinka Air Base,55.611695,36.650002,614,EU,RU,RU-MOS,Kubinka,no,UUMB,,XUMB,XUMB,,https://en.wikipedia.org/wiki/Kubinka_(air_base),"УУМБ, Кубинка"
 352227,RU-0802,small_airport,Aleksandrovsk-Sakhalinskiy Airport,50.877144,142.17561,12,AS,RU,RU-SAK,Aleksandrovsk-Sakhalinskiy,no,,UHS,UHSA,,,,"УХСА, Александровск-Сахалинский"
