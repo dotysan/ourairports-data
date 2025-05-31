@@ -6423,7 +6423,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 43003,RU-0056,small_airport,Taksimo Airport,56.361668,114.93,1634,AS,RU,RU-BU,Taksimo,yes,,TKM,UIKG,,,https://en.wikipedia.org/wiki/Taksimo_Airport,
 43659,RU-0077,small_airport,Sivoritsy Airfield,59.476156,30.001545,371,EU,RU,RU-LEN,Gatchina,no,ULSY,,,,,,"Nikolskoye Airfield, Аэродром Сиворицы, Аэродром Никольское"
 44301,RU-0089,medium_airport,Krymsk Air Base,44.962905,37.999071,66,EU,RU,RU-KDA,Krymsk,no,,NOI,,XRKW,,https://en.wikipedia.org/wiki/Krymsk_(air_base),"Аэродром Крымск, ЬРКВ, Krimskaja II, Novorossiysk"
-44556,RU-0151,heliport,Petropavlovskaya Krepost Helipad,59.951484,30.313715,,EU,RU,RU-SPE,Saint Petersburg,no,ULLQ,,,,,,"Peter and Paul Fortress Helipad, Вертолётная площадка Петропавловская Крепость, УЛЛЯ"
 323478,RU-0470,small_airport,Motygino Airport,58.180921,94.745272,538,AS,RU,RU-KYA,Motygino,yes,,MJY,UNIM,MTG,,,"УНИМ, Мотыгино, МТГ"
 35012,RU-0764,medium_airport,Kubinka Air Base,55.611695,36.650002,614,EU,RU,RU-MOS,Kubinka,no,UUMB,,XUMB,XUMB,,https://en.wikipedia.org/wiki/Kubinka_(air_base),"УУМБ, Кубинка"
 352227,RU-0802,small_airport,Aleksandrovsk-Sakhalinskiy Airport,50.877144,142.17561,12,AS,RU,RU-SAK,Aleksandrovsk-Sakhalinskiy,no,,UHS,UHSA,,,,"УХСА, Александровск-Сахалинский"
