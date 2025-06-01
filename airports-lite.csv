@@ -2426,7 +2426,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31126,GQPF,small_airport,Fderik Airport,22.673551,-12.729262,961,AF,MR,MR-11,Fderik,no,GQPF,FGD,GQPF,,,https://en.wikipedia.org/wiki/Fderik_Airport,
 3138,GQPP,medium_airport,Nouadhibou International Airport,20.9330997467041,-17.030000686645508,24,AF,MR,MR-08,Nouadhibou,yes,GQPP,NDB,GQPP,,,https://en.wikipedia.org/wiki/Nouadhibou_International_Airport,
 32135,GQPZ,small_airport,Tazadit Airport,22.757345,-12.482228,1119,AF,MR,MR-11,Zouérate,yes,GQPZ,OUZ,GQPZ,,,https://en.wikipedia.org/wiki/Tazadit_Airport,
-320184,GR-0015,small_airport,Molos Airfield,38.826175,22.661959,,AS,GR,GR-H,Molos,no,LGMO,,LGMO,,,,
+42452,GR-0002,small_airport,Dhokimion Airfield,38.613696,21.392955,154,AS,GR,GR-G,Agrinion,no,LGAG,,LGAG,,,,AG1666
+315592,GR-0008,small_airport,Missolonghi Aerodrome,38.356863,21.48081,,AS,GR,GR-G,Missolonghi,no,LGMS,,LGMS,LG01,,,
+320184,GR-0015,small_airport,Molos Airfield,38.826175,22.661959,,EU,GR,GR-H,Molos,no,LGMO,,LGMO,,,,
 311387,GRC,small_airport,Grand Cess Airport,4.571,-8.2076,28,AF,LR,LR-GK,Grand Cess,no,,GRC,,,,,
 42230,GT-0001,small_airport,Chiquimula Airport,14.83092,-89.520938,1484,NA,GT,GT-CQ,Chiquimula,no,,CIQ,MGCQ,,,https://en.wikipedia.org/wiki/Chiquimula_Airport,
 42231,GT-0002,small_airport,Dos Lagunas Airport,17.6124,-89.6884,1057,NA,GT,GT-PE,Dos Lagunas,no,,DON,MGDL,,,https://en.wikipedia.org/wiki/Dos_Lagunas_Airport,
@@ -2681,6 +2683,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32426,HTTB,small_airport,Tabora Airport,-5.07639,32.833302,3868,AF,TZ,TZ-24,Tabora,yes,HTTB,TBO,HTTB,,,https://en.wikipedia.org/wiki/Tabora_Airport,
 3259,HTTG,medium_airport,Tanga Airport,-5.09236,39.071201,129,AF,TZ,TZ-25,Tanga,yes,HTTG,TGT,HTTG,,,https://en.wikipedia.org/wiki/Tanga_Airport,
 3260,HTZA,large_airport,Abeid Amani Karume International Airport,-6.22202,39.224899,54,AF,TZ,TZ-07,Zanzibar,yes,HTZA,ZNZ,HTZA,,,https://en.wikipedia.org/wiki/Zanzibar_International_Airport,"HTAK, Zanzibar Airport, Kiembi Samaki"
+597970,HU-0080,small_airport,Pilis Airfield,47.30361,19.52895,,EU,HU,HU-PE,,no,LHPL,,,,,,
 32234,HUAR,medium_airport,Arua Airport,3.049152,30.911714,3951,AF,UG,UG-N,Arua,yes,HUAR,RUA,HUAR,,,https://en.wikipedia.org/wiki/Arua_Airport,
 3263,HUEN,large_airport,Entebbe International Airport,0.042386,32.443501,3782,AF,UG,UG-C,Kampala,yes,HUEN,EBB,HUEN,,https://entebbe-airport.com/,https://en.wikipedia.org/wiki/Entebbe_International_Airport,
 302288,HUGG,small_airport,Bugungu Airport,2.202788,31.554341,2472,AF,UG,UG-W,Bujenje,no,HUGG,,HUGG,,,https://en.wikipedia.org/wiki/Bugungu_Airstrip,
@@ -2799,7 +2802,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 19030,K74S,small_airport,Anacortes Airport,48.498513,-122.662513,241,NA,US,US-WA,Anacortes,yes,,OTS,K74S,74S,https://www.portofanacortes.com/airport,https://en.wikipedia.org/wiki/Anacortes_Airport,
 19031,K74V,small_airport,Roosevelt Municipal Airport,40.278301,-110.051003,5172,NA,US,US-UT,Roosevelt,no,,ROL,,74V,http://www.rooseveltcity.com/164/Airport,,
 19060,K7G9,small_airport,Canton Municipal Airport,43.308842,-96.571225,1290,NA,US,US-SD,Canton,no,,CTK,K7G9,7G9,https://cantonsd.org/our-community/cornerstones/airport/,,SD10
-19083,K7V2,small_airport,North Fork Valley Airport,38.8316993713,-107.646003723,5798,NA,US,US-CO,Paonia,no,,WPO,K7V2,7V2,,,
+19083,K7V2,small_airport,North Fork Valley Airport,38.831412,-107.645763,5798,NA,US,US-CO,Paonia,no,,WPO,K7V2,7V2,,,
 19094,K80F,small_airport,Antlers Municipal Airport,34.1926002502,-95.6499023438,575,NA,US,US-OK,Antlers,no,,ATE,80F,80F,,https://en.wikipedia.org/wiki/Antlers_Municipal_Airport,
 19114,K8A0,small_airport,Albertville Regional Airport/Thomas J Brumlik Field,34.229099,-86.255798,1032,NA,US,US-AL,Albertville,no,KBFZ,,KBFZ,BFZ,http://albertvilleaviation.biz/,https://en.wikipedia.org/wiki/Albertville_Regional_Airport,8A0
 19204,K9U3,small_airport,Austin Airport,39.467708,-117.197576,5730,NA,US,US-NV,Austin,no,,ASQ,KTMT,TMT,,https://en.wikipedia.org/wiki/Austin_Airport_(Nevada),9U3
@@ -4822,7 +4825,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4441,LPBJ,medium_airport,Beja Airport / Airbase,38.078899,-7.9324,636,EU,PT,PT-02,Beja,no,LPBJ,BYJ,LPBJ,,http://www.ana.pt/en-US/Aeroportos/alentejo/Beja/Pages/BejaHomepage.aspx,https://en.wikipedia.org/wiki/Beja_Airbase,"Beja Air Base, Base Aérea de Beja, Base Aérea Nº 11, BA11"
 4442,LPBR,medium_airport,Braga Municipal Aerodrome,41.5871009827,-8.445139884949999,247,EU,PT,PT-03,Braga,no,LPBR,BGZ,LPBR,,http://www.pelicano.com.pt/zp_braga.html,http://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_Braga,Aeródromo Municipal de Braga
 29486,LPCH,small_airport,Aerodromo de Chaves,41.722356,-7.463064,1181,EU,PT,PT-17,Chaves,no,LPCH,CHV,LPCH,,,https://en.wikipedia.org/wiki/Chaves_Airport,
-4443,LPCO,medium_airport,Aerodromo Municipal de Coimbra,40.158758,-8.470815,587,EU,PT,PT-06,Coimbra,no,LPCO,CBP,LPCO,,,https://en.wikipedia.org/wiki/Coimbra_Airport,"Bissaya Barreto Aerodrome, Coimbra Airport"
+4443,LPCO,medium_airport,Aerodromo Municipal de Coimbra,40.158758,-8.470815,587,EU,PT,PT-06,Coimbra,no,LPCO,,LPCO,,,https://en.wikipedia.org/wiki/Coimbra_Airport,CBP
 29487,LPCR,small_airport,Corvo Airport,39.671501,-31.1136,,EU,PT,PT-20,Corvo,yes,LPCR,CVU,LPCR,,,https://en.wikipedia.org/wiki/Corvo_Airport,
 4444,LPCS,medium_airport,Cascais Airport,38.724998,-9.35523,325,EU,PT,PT-11,Cascais,yes,LPCS,CAT,LPCS,,http://aerodromo-cascais.pt/?lang=en,https://en.wikipedia.org/wiki/Cascais_Aerodrome,Tires
 4447,LPFL,medium_airport,Flores Airport,39.455299377441406,-31.131399154663086,112,EU,PT,PT-20,Santa Cruz das Flores,yes,LPFL,FLW,LPFL,,,https://en.wikipedia.org/wiki/Flores_Airport,
@@ -7478,9 +7481,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 42491,TZ-GIT,small_airport,Mchauru Airport,-2.813667,32.172472,3955,AF,TZ,TZ-31,Geita,no,,GIT,HTRU,,,,
 333231,TZO,small_airport,Tsimiroro Airport,-18.345064,45.015643,755,AF,MG,MG-U,Ankisatra,no,,TZO,,,,,
 25216,U41,small_airport,Dubois Municipal Airport,44.162057,-112.220581,5123,NA,US,US-ID,Dubois,no,,DBS,KU41,U41,https://apps.itd.idaho.gov/Apps/info/aero/impact/DuboisMunicipal.pdf,https://en.wikipedia.org/wiki/Dubois_Municipal_Airport_(Idaho),
-44298,UA-0013,small_airport,Rysove Airfield,45.995499,33.681017,,EU,UA,UA-43,Rysove,no,UKAR,,UKAR,,,,"Risovoe Airfield, Аэродром Рисовое, Risovoye"
 44307,UA-0016,small_airport,Yukharina Balka Airfield,44.549003,33.488613,335,EU,UA,UA-40,Sevastopol,no,UKFP,,UKFP,,,,Аэродром Юхарина Балка
-44312,UA-0021,small_airport,Skadovsk Airfield,46.131888,32.902506,7,EU,UA,UA-65,Skadovsk,no,UKSK,,UKSK,,,,Аэродром Скадовск
 44313,UA-0022,medium_airport,Kacha Air Base,44.779764,33.572245,403,EU,UA,UA-43,Kacha,no,UKKA,,UKKA,,,"https://en.m.wikipedia.org/wiki/Kacha,_Sevastopol#Military_outpost","Аэродром Кача, URFA, XRFA"
 45178,UA-0049,small_airport,Myrhorod Air Base,49.932,33.641,400,EU,UA,UA-53,Myrhorod,no,,MXR,UKBM,,,https://en.wikipedia.org/wiki/Myrhorod_Air_Base,"Mirgorod Air Base, Аэродром Миргород"
 45179,UA-0050,small_airport,Kakhnovka Airfield,49.136799,33.477893,266,EU,UA,UA-53,Kremenchuk,no,,KHU,UKHK,,,https://en.wikipedia.org/wiki/Kremenchuk_Airport,"Аэродром Кахновка, Velyka Kokhnivka"
