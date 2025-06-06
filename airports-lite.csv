@@ -4886,11 +4886,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4432,LOWL,medium_airport,Linz-Hörsching Airport / Vogler Air Base,48.2332,14.1875,980,EU,AT,AT-4,Linz,yes,LOWL,LNZ,LOWL,,http://www.flughafen-linz.at/,https://en.wikipedia.org/wiki/Linz_Airport,"Blue Danube Airport, Vogler Air Base, Fliegerhorst Vogler, Christophorus 10"
 4433,LOWS,medium_airport,Salzburg Airport,47.793301,13.0043,1411,EU,AT,AT-5,Salzburg,yes,LOWS,SZG,LOWS,,http://www.salzburg-airport.com/,https://en.wikipedia.org/wiki/Salzburg_Airport,Christophorus 6
 4434,LOWW,large_airport,Vienna International Airport,48.110298,16.5697,600,EU,AT,AT-9,Vienna,yes,LOWW,VIE,LOWW,,http://www.viennaairport.com/en/,https://en.wikipedia.org/wiki/Vienna_International_Airport,
-4437,LPAR,medium_airport,Alverca Air Base,38.883301,-9.0301,11,EU,PT,PT-11,Vila Franca de Xira,no,,AVR,LPAR,,,https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Alverca,Alverca Airbase
+4437,LPAR,medium_airport,Alverca Air Base,38.883301,-9.0301,11,EU,PT,PT-11,Vila Franca de Xira,no,LPAR,,LPAR,,,https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Alverca,"Alverca Airbase, AVR"
 4439,LPAZ,medium_airport,Santa Maria Airport,36.97140121459961,-25.17060089111328,308,EU,PT,PT-20,Vila do Porto,yes,LPAZ,SMA,LPAZ,,,https://en.wikipedia.org/wiki/Santa_Maria_Airport,
 4440,LPBG,medium_airport,Bragança Airport,41.8578,-6.70713,2241,EU,PT,PT-04,Bragança,yes,LPBG,BGC,LPBG,,,https://en.wikipedia.org/wiki/Bragan%C3%A7a_Airport,
 4441,LPBJ,medium_airport,Beja Airport / Airbase,38.078899,-7.9324,636,EU,PT,PT-02,Beja,no,LPBJ,BYJ,LPBJ,,http://www.ana.pt/en-US/Aeroportos/alentejo/Beja/Pages/BejaHomepage.aspx,https://en.wikipedia.org/wiki/Beja_Airbase,"Beja Air Base, Base Aérea de Beja, Base Aérea Nº 11, BA11"
-4442,LPBR,medium_airport,Braga Municipal Aerodrome,41.5871009827,-8.445139884949999,247,EU,PT,PT-03,Braga,no,LPBR,BGZ,LPBR,,http://www.pelicano.com.pt/zp_braga.html,http://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_Braga,Aeródromo Municipal de Braga
+4442,LPBR,medium_airport,Braga Municipal Aerodrome,41.587,-8.445189,247,EU,PT,PT-03,Braga,no,LPBR,,LPBR,,http://www.pelicano.com.pt/zp_braga.html,http://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_Braga,"BGZ, Aeródromo Municipal de Braga"
 29486,LPCH,small_airport,Aerodromo de Chaves,41.722356,-7.463064,1181,EU,PT,PT-17,Chaves,no,LPCH,,LPCH,,,https://en.wikipedia.org/wiki/Chaves_Airport,CHV
 4443,LPCO,medium_airport,Aerodromo Municipal de Coimbra,40.158758,-8.470815,587,EU,PT,PT-06,Coimbra,no,LPCO,,LPCO,,,https://en.wikipedia.org/wiki/Coimbra_Airport,CBP
 29487,LPCR,small_airport,Corvo Airport,39.671501,-31.1136,,EU,PT,PT-20,Corvo,yes,LPCR,CVU,LPCR,,,https://en.wikipedia.org/wiki/Corvo_Airport,
@@ -4901,6 +4901,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4450,LPHR,medium_airport,Horta Airport,38.519901275634766,-28.715900421142578,118,EU,PT,PT-20,Horta,yes,LPHR,HOR,LPHR,,,https://en.wikipedia.org/wiki/Horta_Airport,
 4451,LPLA,medium_airport,Lajes Airport,38.761799,-27.090799,180,EU,PT,PT-20,Praia da Vitória,yes,LPLA,TER,LPLA,,http://aerogarelajes.azores.gov.pt,https://en.wikipedia.org/wiki/Lajes_Field,Terceira Island
 4452,LPMA,large_airport,Madeira International Airport Cristiano Ronaldo,32.697899,-16.7745,192,EU,PT,PT-30,Funchal,yes,LPMA,FNC,LPMA,,http://www.ana.pt/en-US/Aeroportos/Madeira/Funchal/Pages/default.aspx,https://en.wikipedia.org/wiki/Madeira_Airport,"Madeira, Funchal"
+4453,LPMR,medium_airport,Monte Real Air Base,39.828335,-8.8875,187,EU,PT,PT-10,,no,LPMR,,LPMR,,,https://en.wikipedia.org/wiki/Monte_Real_Air_Base,QLR
 4456,LPPD,large_airport,João Paulo II Airport,37.7411994934,-25.6979007721,259,EU,PT,PT-20,Ponta Delgada,yes,LPPD,PDL,LPPD,,http://www.ana.pt/en-US/Aeroportos/acores/PontaDelgada/Pages/Homepage-PontaDelgada.aspx,https://en.wikipedia.org/wiki/Jo%C3%A3o_Paulo_II_Airport,
 4457,LPPI,medium_airport,Pico Airport,38.554298,-28.441299,109,EU,PT,PT-20,Pico Island,yes,LPPI,PIX,LPPI,,,https://en.wikipedia.org/wiki/Pico_Airport,
 4458,LPPM,medium_airport,Portimão Airport,37.1493,-8.58396,5,EU,PT,PT-08,Portimão,yes,LPPM,PRM,LPPM,,,https://en.wikipedia.org/wiki/Portim%C3%A3o_Airport,
@@ -8189,7 +8190,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26650,VTCN,medium_airport,Nan Airport,18.807899475097656,100.78299713134766,685,AS,TH,TH-55,,yes,VTCN,NNT,VTCN,,,https://en.wikipedia.org/wiki/Nan_Airport,
 26651,VTCP,medium_airport,Phrae Airport,18.1322,100.165001,538,AS,TH,TH-54,,no,VTCP,PRH,VTCP,,,https://en.wikipedia.org/wiki/Phrae_Airport,
 26653,VTCT,medium_airport,Mae Fah Luang - Chiang Rai International Airport,19.952299,99.882896,1280,AS,TH,TH-57,Chiang Rai,yes,VTCT,CEI,VTCT,,,https://en.wikipedia.org/wiki/Chiang_Rai_International_Airport,
-30677,VTED,small_airport,Udorn Air Base,17.382999420166016,102.80000305175781,,AS,TH,TH-41,Ban Mak Khaen,no,,BAO,VTED,,,,
 26654,VTPB,medium_airport,Phetchabun Airport,16.6760005951,101.194999695,450,AS,TH,TH-67,,yes,VTPB,PHY,VTPB,,,https://en.wikipedia.org/wiki/Phetchabun_Airport,
 26655,VTPH,medium_airport,Hua Hin Airport,12.6361999512,99.951499939,62,AS,TH,TH-76,Hua Hin,yes,VTPH,HHQ,VTPH,,,https://en.wikipedia.org/wiki/Hua_Hin_Airport,
 26656,VTPI,medium_airport,Takhli Airport,15.277299881,100.29599762,107,AS,TH,TH-60,,no,VTPI,TKH,VTPI,,,https://en.wikipedia.org/wiki/Takhli_Royal_Thai_Air_Force_Base,
