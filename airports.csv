@@ -27387,6 +27387,8 @@
 597644,"FR-1281","closed","Oyonnax - Arbent",46.278611,5.666389,,"EU","FR","FR-U-A","Oyonnax","no",,,,,"https://fr.m.wikipedia.org/wiki/A%C3%A9rodrome_d%27Oyonnax_-_Arbent","https://fr.m.wikipedia.org/wiki/A%C3%A9rodrome_d%27Oyonnax_-_Arbent","LFLK"
 597830,"FR-1282","heliport","Sissonne DZ",49.540844,3.970774,,"EU","FR","FR-HDF","Sissonne","no",,,,,,,
 598002,"FR-1283","heliport","Béthune DZ",50.552843,2.633543,,"EU","FR","FR-HDF","Béthune","no",,,,,,,
+598057,"FR-1284","heliport","Brissay-Choigny",49.721622,3.380656,,"EU","FR","FR-HDF","Brissay-Choigny","no",,,,,,,
+598058,"FR-1285","heliport","Brissay-Choigny",49.721622,3.380656,,"EU","FR","FR-HDF","Brissay-Choigny","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes",,,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assumption Island Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assumption Island","no",,,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -43559,13 +43561,13 @@
 4436,"LOXZ","medium_airport","Hinterstoisser Air Base",47.202801,14.7442,2264,"EU","AT","AT-6","Zeltweg","no",,,"LOXZ",,,"https://en.wikipedia.org/wiki/Zeltweg_Air_Base","RAF Station Zeltweg, Zeltweg Air Base, Zeltweg Airport, Fliegerhorst Hinterstoisser"
 5498,"LP77","small_airport","Military Airfield of Santa Margarida",39.402401,-8.28906,541,"EU","PT","PT-14","Constância","no",,,,,,,
 321238,"LPAG","heliport","Albergaria-a-Velha Heliport",40.707119,-8.4914,460,"EU","PT","PT-01","Albergaria-a-Velha","no",,,"LPAG",,,,
-4437,"LPAR","medium_airport","Alverca Air Base",38.883301,-9.0301,11,"EU","PT","PT-11","Vila Franca de Xira","no",,"AVR","LPAR",,,"https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Alverca","Alverca Airbase"
+4437,"LPAR","medium_airport","Alverca Air Base",38.883301,-9.0301,11,"EU","PT","PT-11","Vila Franca de Xira","no","LPAR",,"LPAR",,,"https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Alverca","Alverca Airbase, AVR"
 4438,"LPAV","small_airport","São Jacinto Airfield",40.656741,-8.741544,26,"EU","PT","PT-01","Aveiro","no",,,"LPAV",,,"https://en.wikipedia.org/wiki/S%C3%A3o_Jacinto_Airport","ZAV, Aveiro Airbase"
 4439,"LPAZ","medium_airport","Santa Maria Airport",36.97140121459961,-25.17060089111328,308,"EU","PT","PT-20","Vila do Porto","yes","LPAZ","SMA","LPAZ",,,"https://en.wikipedia.org/wiki/Santa_Maria_Airport",
 4440,"LPBG","medium_airport","Bragança Airport",41.8578,-6.70713,2241,"EU","PT","PT-04","Bragança","yes","LPBG","BGC","LPBG",,,"https://en.wikipedia.org/wiki/Bragan%C3%A7a_Airport",
 323767,"LPBH","heliport","Braga Hospital Heliport",41.56855,-8.399884,865,"EU","PT","PT-03","Braga","no",,,"LPBH",,,,
 4441,"LPBJ","medium_airport","Beja Airport / Airbase",38.078899,-7.9324,636,"EU","PT","PT-02","Beja","no","LPBJ","BYJ","LPBJ",,"http://www.ana.pt/en-US/Aeroportos/alentejo/Beja/Pages/BejaHomepage.aspx","https://en.wikipedia.org/wiki/Beja_Airbase","Beja Air Base, Base Aérea de Beja, Base Aérea Nº 11, BA11"
-4442,"LPBR","medium_airport","Braga Municipal Aerodrome",41.5871009827,-8.445139884949999,247,"EU","PT","PT-03","Braga","no","LPBR","BGZ","LPBR",,"http://www.pelicano.com.pt/zp_braga.html","http://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_Braga","Aeródromo Municipal de Braga"
+4442,"LPBR","medium_airport","Braga Municipal Aerodrome",41.587,-8.445189,247,"EU","PT","PT-03","Braga","no","LPBR",,"LPBR",,"http://www.pelicano.com.pt/zp_braga.html","http://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_Braga","BGZ, Aeródromo Municipal de Braga"
 315898,"LPCB","medium_airport","Aerodromo de Castelo Branco",39.847022,-7.44111,1300,"EU","PT","PT-05","Castelo Branco","no",,,"LPCB",,,"https://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_Castelo_Branco",
 321239,"LPCC","heliport","Dr. Nélio Mendonça Hospital Heliport",32.647638,-16.92371,367,"EU","PT","PT-30","Funchal","no",,,"LPCC",,,"https://pt.wikipedia.org/wiki/Hospital_Dr._N%C3%A9lio_Mendon%C3%A7a","Cruz de Carvalho Hospital"
 321240,"LPCD","heliport","Santa Comba Dão Heliport",40.398473,-8.134162,596,"EU","PT","PT-18","Santa Comba Dão","no",,,"LPCD",,,,
@@ -43598,7 +43600,7 @@
 29489,"LPMI","small_airport","Mirandela Airfield",41.468006,-7.226257,1329,"EU","PT","PT-04","Mirandela","no",,,"LPMI",,,"https://en.wikipedia.org/wiki/Mirandela_Airport",
 30160,"LPMO","small_airport","Morargil Airfield",38.993532,-8.14201,341,"EU","PT","PT-12","Montargil","no",,,"LPMO",,,"https://en.wikipedia.org/wiki/Morargil_Airport",
 321232,"LPMP","heliport","Mafra Heliport",38.943058,-9.353825,537,"EU","PT","PT-11","Mafra","no",,,"LPMP",,,,
-4453,"LPMR","medium_airport","Monte Real Air Base",39.828335,-8.8875,187,"EU","PT","PT-10",,"no",,,"LPMR",,,"https://en.wikipedia.org/wiki/Monte_Real_Air_Base","QLR"
+4453,"LPMR","medium_airport","Monte Real Air Base",39.828335,-8.8875,187,"EU","PT","PT-10",,"no","LPMR",,"LPMR",,,"https://en.wikipedia.org/wiki/Monte_Real_Air_Base","QLR"
 4454,"LPMT","medium_airport","Montijo Air Base",38.70929,-9.03368,46,"EU","PT","PT-15","Montijo","no",,,"LPMT",,,"https://en.wikipedia.org/wiki/Montijo_Air_Base","Lisbon Montijo Airport"
 30147,"LPMU","small_airport","Mogadouro Airfield",41.3963,-6.68348,2344,"EU","PT","PT-04","Mogadouro","no",,,"LPMU",,"http://www.vooavela.mogadouro.pt/",,
 326694,"LPMZ","heliport","Porto Moniz Helipad",32.866783,-17.165167,50,"EU","PT","PT-30","Porto Moniz","no",,,"LPMZ",,,,
@@ -61146,6 +61148,11 @@
 404,"SNTS","small_airport","Aeroporto Brigadeiro Firmino Ayres",-7.03899,-37.251598,869,"SA","BR","BR-PB","Patos","no",,"JPO","SNTS","PB0005",,"https://pt.wikipedia.org/wiki/Aeroporto_Regional_de_Patos","Peregrino Filho"
 37272,"SNTY","small_airport","Correntina Airport",-13.380556106567383,-44.61722183227539,2159,"SA","BR","BR-BA","Correntina","no",,,"SNTY",,,,
 596134,"SNU2","heliport","Mater Dei Hospital Helipad",-19.982975,-43.946015,3934,"SA","BR","BR-MG","Nova Lima","no",,,"SNU2","MG0518",,,
+598061,"SNU3","small_airport","Fazenda Bela União Airport",-12.746244,-60.953269,1008,"SA","BR","BR-RO","Chupinguaia","no",,,"SNU3","RO0111",,,
+598065,"SNU6","heliport","Ita Belém Heliport",-20.793201,-41.000495,272,"SA","BR","BR-ES","Vargem","no",,,"SNU6","ES0055",,,
+598064,"SNU7","small_airport","Fazenda Santa Carmem Airport",-8.468725,-50.483226,814,"SA","BR","BR-PA","Santa Maria das Barreiras","no",,,"SNU7","PA0427",,,
+598063,"SNU8","small_airport","Fazenda Terra Nova 5 Airport",-15.371819,-53.259392,1322,"SA","BR","BR-MT","General Carneiro","no",,,"SNU8","MT1110",,,
+598062,"SNU9","heliport","CD Supermercados BH Heliport",-19.853517,-44.057428,2968,"SA","BR","BR-MG","Contagem","no",,,"SNU9","MG0631",,,
 340976,"SNUA","small_airport","Fazenda Paulista Airport",-25.392105,-54.409799,820,"SA","BR","BR-PR","Santa Terezinha de Itaipu","no",,,"SNUA","PR0068",,,
 407,"SNUB","small_airport","Ubá Airport",-21.121,-42.881901,1115,"SA","BR","BR-MG","Ubá","no",,,"SNUB","SNUB",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Ub%C3%A1",
 408,"SNUC","small_airport","Açu Airport",-5.59505,-36.960899,364,"SA","BR","BR-RN","Açu","no",,,"SNUC","RN0003",,,
@@ -79036,7 +79043,7 @@
 32598,"VTCS","small_airport","Mae Sariang Airport",18.180962,97.930627,750,"AS","TH","TH-58","Mae Sariang","no",,,"VTCS",,,,
 26653,"VTCT","medium_airport","Mae Fah Luang - Chiang Rai International Airport",19.952299,99.882896,1280,"AS","TH","TH-57","Chiang Rai","yes","VTCT","CEI","VTCT",,,"https://en.wikipedia.org/wiki/Chiang_Rai_International_Airport",
 354711,"VTCY","small_airport","Nok Airfield",18.6762,99.11157,,"AS","TH","TH-50",,"no",,,"VTCY",,"http://nokaviation.com",,
-30677,"VTED","small_airport","Udorn Air Base",17.382999420166016,102.80000305175781,,"AS","TH","TH-41","Ban Mak Khaen","no",,"BAO","VTED",,,,
+30677,"VTED","small_airport","Udorn Air Base",17.382999,102.800003,591,"AS","TH","TH-41","Ban Mak Khaen","no",,,"VTED",,,"https://en.wikipedia.org/wiki/Udorn_Royal_Thai_Air_Force_Base","BAO"
 26654,"VTPB","medium_airport","Phetchabun Airport",16.6760005951,101.194999695,450,"AS","TH","TH-67",,"yes","VTPB","PHY","VTPB",,,"https://en.wikipedia.org/wiki/Phetchabun_Airport",
 26655,"VTPH","medium_airport","Hua Hin Airport",12.6361999512,99.951499939,62,"AS","TH","TH-76","Hua Hin","yes","VTPH","HHQ","VTPH",,,"https://en.wikipedia.org/wiki/Hua_Hin_Airport",
 26656,"VTPI","medium_airport","Takhli Airport",15.277299881,100.29599762,107,"AS","TH","TH-60",,"no","VTPI","TKH","VTPI",,,"https://en.wikipedia.org/wiki/Takhli_Royal_Thai_Air_Force_Base",
