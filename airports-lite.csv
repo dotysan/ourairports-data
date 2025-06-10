@@ -1408,13 +1408,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2184,EDAC,medium_airport,Leipzig–Altenburg Airport,50.981945,12.506389,640,EU,DE,DE-TH,Nobitz,no,EDAC,AOC,EDAC,,http://www.leipzig-altenburg-airport.de/,https://en.wikipedia.org/wiki/Leipzig%E2%80%93Altenburg_Airport,Altenburg-Nobitz
 2187,EDAH,medium_airport,Heringsdorf Airport,53.8787,14.1523,93,EU,DE,DE-MV,Zirchow,yes,EDAH,HDF,EDAH,,,https://en.wikipedia.org/wiki/Heringsdorf_Airport,
 2190,EDAQ,small_airport,Halle-Oppin Airfield,51.552223,12.053889,348,EU,DE,DE-ST,Landsberg,no,EDAQ,,EDAQ,,http://www.flugplatz-halle-oppin.de/,https://de.wikipedia.org/wiki/Flugplatz_Halle-Oppin,
+29868,EDAS,small_airport,Finsterwalde-Heinrichsruh Airfield,51.634641,13.67505,384,EU,DE,DE-BR,Finsterwalde,no,EDAS,,EDAS,,,https://de.wikipedia.org/wiki/Flugplatz_Finsterwalde-Heinrichsruh,Flugplatz Finsterwalde/Heinrichsruh
 2191,EDAU,small_airport,Riesa-Göhlis Airport,51.29361,13.356111,322,EU,DE,DE-SN,Riesa,no,EDAU,IES,EDAU,,,https://de.wikipedia.org/wiki/Flugplatz_Riesa-G%C3%B6hlis,
 2193,EDAX,small_airport,Müritz Airpark,53.306389,12.752222,220,EU,DE,DE-MV,Lärz,no,EDAX,REB,EDAX,,,https://en.wikipedia.org/wiki/Rechlin-L%C3%A4rz_Airfield,"Mueritz, Rechlin–Lärz Airfield"
 2194,EDAY,small_airport,Strausberg Airfield,52.580555,13.916667,262,EU,DE,DE-BR,Strausberg,no,EDAY,,EDAY,,,https://de.wikipedia.org/wiki/Flugplatz_Strausberg,
 28546,EDBC,small_airport,Cochstedt Airport,51.8564,11.4203,594,EU,DE,DE-ST,Hecklingen,no,EDBC,CSO,EDBC,,,https://en.wikipedia.org/wiki/Magdeburg-Cochstedt_Airport,
 2196,EDBH,small_airport,Stralsund-Barth Airport,54.338253,12.710515,23,EU,DE,DE-MV,Barth,no,EDBH,BBH,EDBH,,,https://en.wikipedia.org/wiki/Stralsund%E2%80%93Barth_Airport,Osteseeflughafen Stralsund-Barth
 2743,EDBN,medium_airport,Neubrandenburg Trollenhagen Airport,53.6022,13.306,228,EU,DE,DE-MV,Trollenhagen,no,EDBN,FNB,EDBN,,http://www.flughafen-neubrandenburg.de/,https://en.wikipedia.org/wiki/Neubrandenburg_Airport,ETNU
-28584,EDCG,small_airport,Rügen Airport,54.38347,13.325542,69,EU,DE,DE-MV,Dreschvitz,no,EDCG,GTI,EDCG,,,https://en.wikipedia.org/wiki/R%C3%BCgen_Airport,"Flugplatz Güttin / Rügen, Güttin Airfield, Ostsee-Flug-Rügen, Rugen, Ruegen, Rᵫgen"
+28584,EDCG,small_airport,Rügen Airport,54.38347,13.325542,69,EU,DE,DE-MV,Dreschvitz,no,EDCG,GTI,EDCG,,https://ostseeflugruegen.de/flugplatz-ruegen/,https://en.wikipedia.org/wiki/R%C3%BCgen_Airport,"Flugplatz Güttin / Rügen, Güttin Airfield, Ostsee-Flug-Rügen, Rugen, Ruegen, Rᵫgen"
 28622,EDCK,small_airport,Köthen Airport,51.723745,11.948826,305,EU,DE,DE-ST,Köthen (Anhalt),no,EDCK,KOQ,EDCK,,http://flugplatz-koethen.jimdo.com/,http://de.wikipedia.org/wiki/Flugplatz_K%C3%B6then,
 2207,EDCP,small_airport,Peenemünde Airport,54.15778,13.774444,7,EU,DE,DE-MV,Peenemünde,no,EDCP,PEF,EDCP,,,https://en.wikipedia.org/wiki/Peenem%C3%BCnde_Airfield,Peenemuende
 301881,EDDB,large_airport,Berlin Brandenburg Airport,52.362247,13.500672,157,EU,DE,DE-BR,Berlin,yes,EDDB,BER,EDDB,,https://ber.berlin-airport.de/,https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport,
@@ -1779,12 +1780,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 35127,ENVR,heliport,Værøy Heliport,67.654555,12.727257,12,EU,NO,NO-18,Værøy,yes,,VRY,ENVR,,https://avinor.no/en/airport/varoy-heliport/,https://en.wikipedia.org/wiki/V%C3%A6r%C3%B8y_Heliport,Værøy STOLport
 2602,ENZV,large_airport,"Stavanger Airport, Sola",58.876701,5.63778,29,EU,NO,NO-11,Stavanger,yes,ENZV,SVG,ENZV,,http://www.avinor.no/en/airport/stavanger/,"https://en.wikipedia.org/wiki/Stavanger_Airport,_Sola","Sola Air Station, Stavanger lufthavn, Sola"
 2604,EPBY,medium_airport,Bydgoszcz Ignacy Jan Paderewski Airport,53.096802,17.977699,235,EU,PL,PL-KP,Bydgoszcz,yes,EPBY,BZG,EPBY,,http://www.plb.pl/,https://en.wikipedia.org/wiki/Bydgoszcz_Ignacy_Jan_Paderewski_Airport,"Szwederowo, Bromberg"
+29843,EPEL,small_airport,Elbląg Airfield,54.1408,19.4233,10,EU,PL,PL-WN,Elbląg,no,EPEL,,EPEL,,http://aeroklubelblaski.pl/index.php/lotnisko-2/,https://de.wikipedia.org/wiki/Flugplatz_Elbl%C4%85g,"ZBG, Elblag, Elbing"
 2608,EPGD,large_airport,Gdańsk Lech Wałęsa Airport,54.377602,18.4662,489,EU,PL,PL-PM,Gdańsk,yes,EPGD,GDN,EPGD,,http://www.airport.gdansk.pl/,https://en.wikipedia.org/wiki/Gda%C5%84sk_Lech_Wa%C5%82%C4%99sa_Airport,Gdańsk-Rębiechowo
 2609,EPKK,large_airport,Kraków John Paul II International Airport,50.077702,19.7848,791,EU,PL,PL-MA,Balice,yes,EPKK,KRK,EPKK,,http://www.krakowairport.pl/en/,https://en.wikipedia.org/wiki/Kraków_John_Paul_II_International_Airport,Krakov
 2613,EPKT,medium_airport,Katowice Wojciech Korfanty International Airport,50.476015,19.080705,995,EU,PL,PL-SL,Katowice,yes,EPKT,KTW,EPKT,,http://katowice.airport.com,https://en.wikipedia.org/wiki/Katowice_International_Airport,"Pyrzowice, Dąbrowa Górnicza, Katowice, Silesia, GOP, Silesia Metropolis, Gliwice, Piekary Śląskie, Bytom, Zabrze, Sosnowiec"
 309484,EPLB,medium_airport,Lublin Airport,51.240157,22.713461,633,EU,PL,PL-LU,Lublin,yes,EPLB,LUZ,EPLB,,,https://en.wikipedia.org/wiki/Lublin_Airport,
 2616,EPLL,medium_airport,Łódź Władysław Reymont Airport,51.721901,19.3981,604,EU,PL,PL-LD,Łódź,yes,EPLL,LCJ,EPLL,,https://www.lodz-airport.pl/en,https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA_W%C5%82adys%C5%82aw_Reymont_Airport,Lublinek
 2622,EPMO,medium_airport,Modlin Airport,52.451099,20.6518,341,EU,PL,PL-MZ,Nowy Dwór Mazowiecki,yes,EPMO,WMI,EPMO,,http://modlinairport.pl/,https://en.wikipedia.org/wiki/Warsaw_Modlin_Airport,"Warsaw, Warszawa"
+323653,EPMY,small_airport,Myślibórz-Giżyn Airfield,52.941164,15.029812,230,EU,PL,PL-ZP,Nowogródek Pomorski,no,EPMY,,EPMY,,https://gcas.com.pl/lotnisko/,,
 2625,EPPO,medium_airport,Poznań-Ławica Airport,52.421598,16.823359,308,EU,PL,PL-WP,Poznań,yes,EPPO,POZ,EPPO,,https://poznanairport.pl,https://en.wikipedia.org/wiki/Pozna%C5%84-%C5%81awica_Airport,Poznań–Ławica Henryk Wieniawski Airport
 2628,EPRA,medium_airport,Warsaw Radom Airport,51.38937,21.214742,610,EU,PL,PL-MZ,Radom,yes,EPRA,RDO,EPRA,,http://lotnisko-radom.eu/pl/,https://en.wikipedia.org/wiki/Warsaw_Radom_Airport,"Radom Military Air Base, Radom-Sadków Airport, Warszawa-Radom, Lotnisko Warszawa-Radom im. Bohaterów Radomskiego Czerwca 1976 Roku, Heroes of Radom June 1976 Warsaw Radom"
 2606,EPRU,small_airport,Częstochowa-Rudniki Airport,50.884716,19.201842,860,EU,PL,PL-SL,Rudniki,no,EPRU,,EPRU,,,https://pl.wikipedia.org/wiki/Lotnisko_Cz%C4%99stochowa-Rudniki,CZW
@@ -1811,6 +1814,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2659,ESKM,medium_airport,Mora Airport,60.957901,14.5114,634,EU,SE,SE-W,Mora,yes,ESKM,MXX,ESKM,,,https://en.wikipedia.org/wiki/Mora-Siljan_Airport,
 2660,ESKN,medium_airport,Stockholm Skavsta Airport,58.788601,16.912201,140,EU,SE,SE-D,Nyköping,yes,ESKN,NYO,ESKN,,,https://en.wikipedia.org/wiki/Stockholm-Skavsta_Airport,
 316498,ESKS,medium_airport,Scandinavian Mountains Airport,61.158393,12.842503,1608,EU,SE,SE-W,Malung-Sälen,yes,,SCR,ESKS,,https://scandinavianmountains.se/en/home/,https://en.wikipedia.org/wiki/Scandinavian_Mountains_Airport,"Sälens Flygplats, Trysil"
+29344,ESME,small_airport,Eslöv Airfield,55.848923,13.329935,296,EU,SE,SE-M,Eslöv,no,ESME,,ESME,,https://eslovsflygplats.se/information-for-piloter/,http://sv.wikipedia.org/wiki/Esl%C3%B6vs_flygplats,
 2664,ESMK,medium_airport,Kristianstad Airport,55.9217,14.0855,76,EU,SE,SE-M,Kristianstad,no,ESMK,KID,ESMK,,https://kidairport.com,https://en.wikipedia.org/wiki/Kristianstad_Airport,
 2666,ESMO,small_airport,Oskarshamn Airport,57.350498,16.497999,96,EU,SE,SE-H,Oskarshamn,no,ESMO,OSK,ESMO,,,https://en.wikipedia.org/wiki/Oskarshamn_Airport,
 2668,ESMQ,medium_airport,Kalmar Airport,56.685501,16.2876,17,EU,SE,SE-H,Kalmar,yes,ESMQ,KLR,ESMQ,,,https://en.wikipedia.org/wiki/Kalmar_Airport,
@@ -1835,10 +1839,12 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2695,ESOK,medium_airport,Karlstad Airport,59.444698,13.3374,352,EU,SE,SE-S,Karlstad,yes,ESOK,KSD,ESOK,,https://www.ksdarprt.se/,https://en.wikipedia.org/wiki/Karlstad_Airport,
 2696,ESOW,medium_airport,Stockholm Västerås Airport,59.58940124511719,16.63360023498535,21,EU,SE,SE-U,Stockholm / Västerås,yes,ESOW,VST,ESOW,,,https://en.wikipedia.org/wiki/Stockholm-V%C3%A4ster%C3%A5s_Airport,
 2697,ESPA,medium_airport,Luleå Airport,65.5438,22.122,65,EU,SE,SE-BD,Luleå,yes,ESPA,LLA,ESPA,,https://www.swedavia.com/lulea/,https://en.wikipedia.org/wiki/Lule%C3%A5_Airport,Kallax Air Base
+2700,ESQO,small_airport,Arboga Airfield,59.3866,15.9241,33,EU,SE,SE-U,,no,ESQO,,ESQO,,https://klubbhus.flygsport.se/arboga-flygklubb/flygplatsen-esqo,https://en.wikipedia.org/wiki/Arboga_Airfield,
 2701,ESSA,large_airport,Stockholm-Arlanda Airport,59.64849,17.928829,137,EU,SE,SE-AB,Stockholm,yes,ESSA,ARN,ESSA,,http://www.swedavia.se/arlanda/,https://en.wikipedia.org/wiki/Stockholm-Arlanda_Airport,
 2702,ESSB,medium_airport,Stockholm-Bromma Airport,59.354400634765625,17.941699981689453,47,EU,SE,SE-AB,Stockholm,yes,ESSB,BMA,ESSB,,,https://en.wikipedia.org/wiki/Stockholm-Bromma_Airport,
 2703,ESSD,medium_airport,Dala Airport,60.422001,15.5152,503,EU,SE,SE-W,Borlange,yes,ESSD,BLE,ESSD,,https://www.dalaflyget.se/,https://en.wikipedia.org/wiki/Borl%C3%A4nge_Airport,
 2704,ESSF,small_airport,Hultsfred Airport,57.525799,15.8233,366,EU,SE,SE-H,Hultsfred,no,ESSF,HLF,ESSF,,https://www.hultsfredairport.se,https://en.wikipedia.org/wiki/Hultsfred_Airport,
+29365,ESSG,small_airport,Ludvika Airfield,60.088299,15.0964,894,EU,SE,SE-W,Ludvika,no,ESSG,,ESSG,,https://ludvikaflyg.se/Flygplatsen/,,
 2705,ESSK,medium_airport,Gävle Sandviken Airport,60.5933,16.951401,224,EU,SE,SE-X,Gävle / Sandviken,no,ESSK,GVX,ESSK,,,https://en.wikipedia.org/wiki/G%C3%A4vle-Sandviken_Airport,
 2706,ESSL,medium_airport,Linköping City Airport,58.4062004089,15.680500030500001,172,EU,SE,SE-E,Linköping,yes,ESSL,LPI,ESSL,,http://www.linkopingsflygplats.se/,https://en.wikipedia.org/wiki/Link%C3%B6ping_SAAB_Airport,
 2707,ESSP,medium_airport,Norrköping Airport,58.586299896240234,16.250600814819336,32,EU,SE,SE-E,Norrköping,yes,ESSP,NRK,ESSP,,,https://en.wikipedia.org/wiki/Norrk%C3%B6ping_Airport,Kungsangen
@@ -1855,6 +1861,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32294,ET-SHC,small_airport,Shire Inda Selassie Airport,14.075699,38.273592,6207,AF,ET,ET-TI,Shire Inda Selassie,yes,,SHC,HASR,,,https://en.wikipedia.org/wiki/Shire_Airport,"Indaselassie, Indasilase"
 2717,ETAD,medium_airport,Spangdahlem Air Base,49.976507,6.698413,1197,EU,DE,DE-RP,Trier,no,ETAD,SPM,ETAD,,http://www.spangdahlem.af.mil/,https://en.wikipedia.org/wiki/Spangdahlem_Air_Base,
 2718,ETAR,medium_airport,Ramstein Air Base,49.436901,7.60028,776,EU,DE,DE-RP,Ramstein-Miesenbach,no,ETAR,RMS,ETAR,,http://www.ramstein.af.mil/,https://en.wikipedia.org/wiki/Ramstein_Air_Base,Landstuhl Air Base
+29393,ETEB,heliport,Ansbach Katterbach Army Heliport,49.308201,10.6387,,EU,DE,DE-BY,Ansbach,no,ETEB,,ETEB,,,https://en.wikipedia.org/wiki/Katterbach_Kaserne,
+300113,ETED,heliport,Kaiserslautern Depot Army Heliport,49.447874,7.83957,950,EU,DE,DE-RP,Kaiserslautern,no,ETED,,ETED,,,,
+2722,ETHC,medium_airport,Celle Army Airfield,52.591202,10.0221,129,EU,DE,DE-NI,Celle,no,ETHC,,ETHC,,,https://en.wikipedia.org/wiki/Celle_Air_Base,ZCN
 2724,ETHF,medium_airport,Fritzlar Army Airfield,51.1146,9.286,565,EU,DE,DE-HE,Fritzlar,no,ETHF,FRZ,ETHF,,,https://en.wikipedia.org/wiki/Fritzlar_Air_Base,Heeresflugplatz Fritzlar
 29972,ETIK,heliport,Illesheim Army Heliport,49.4739,10.3881,1079,EU,DE,DE-BY,Illesheim,no,ETIK,ILH,ETIK,,,https://en.wikipedia.org/wiki/Illesheim_Army_Heliport,Storck Barracks
 2733,ETIN,small_airport,Kitzingen Airfield,49.744293,10.207313,689,EU,DE,DE-BY,Kitzingen,no,,KZG,EDGY,,https://www.flugplatz-kitzingen.de/,https://en.wikipedia.org/wiki/Kitzingen_Airport,"ETIN, EDIN, Kitzingen AAF"
@@ -1882,42 +1891,59 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41198,FAAM,small_airport,Amsterdam Airport,-26.633803,30.605561,4310,AF,ZA,ZA-MP,Amsterdam,no,FAAM,,FAAM,,,,
 27277,FAAN,small_airport,Aliwal North Airport,-30.681072,26.730141,4405,AF,ZA,ZA-EC,Aliwal North,no,FAAN,,FAAN,,,https://af.wikipedia.org/wiki/Aliwal-Noord-lughawe,
 41298,FAAS,small_airport,Ashton Airport,-33.837978,20.049838,525,AF,ZA,ZA-WC,Ashton,no,FAAS,,FAAS,,,,
+2770,FABB,small_airport,Brakpan Airport,-26.2386,28.3018,5300,AF,ZA,ZA-GT,Brakpan,no,FABB,,FABB,,,,
 2771,FABE,medium_airport,Bisho Airport,-32.897099,27.2791,1950,AF,ZA,ZA-EC,Bisho,no,FABE,BIY,FABE,,,https://en.wikipedia.org/wiki/Bhisho_Airport,
 2772,FABL,medium_airport,Bram Fischer International Airport,-29.092699,26.302401,4457,AF,ZA,ZA-FS,Bloemfontain,yes,FABL,BFN,FABL,,,https://en.wikipedia.org/wiki/Bloemfontein_Airport,
-41152,FABU,small_airport,Bultfontein Airport,-28.273369,26.135835,4400,AF,ZA,ZA-FS,Bultfontein,no,,UTE,FABU,,,,
+41152,FABU,small_airport,Bultfontein Airport,-28.273369,26.135835,4400,AF,ZA,ZA-FS,Bultfontein,no,FABU,UTE,FABU,,,,
+27278,FABW,small_airport,Beaufort West Airport,-32.299999,22.67,2941,AF,ZA,ZA-WC,Beaufort West,no,FABW,,FABW,,,,
 41263,FACC,small_airport,Arathusa Safari Lodge Airport,-24.740527,31.517973,1289,AF,ZA,ZA-NP,Arathusa,no,FAAR,ASS,FAAR,,http://arathusa.co.za/getting-to-arathusa-by-scheduled-flight/,https://ceb.wikipedia.org/wiki/Arathusa_Safari_Lodge_Airport,FACC
 29908,FACD,small_airport,Cradock Airport,-32.1567001343,25.6455993652,3110,AF,ZA,ZA-EC,Cradock,no,FACD,CDO,FACD,,,,
+29756,FACN,small_airport,Carnarvon Airport,-30.9886,22.131701,4160,AF,ZA,ZA-NC,Carnarvon,no,FACN,,FACN,,,https://en.wikipedia.org/wiki/Carnarvon_Airport_(South_Africa),
 2775,FACT,large_airport,Cape Town International Airport,-33.9648017883,18.6016998291,151,AF,ZA,ZA-WC,Cape Town,yes,FACT,CPT,FACT,,http://www.airports.co.za/home.asp?pid=229,https://en.wikipedia.org/wiki/Cape_Town_International_Airport,"Kaapstad Internasionale Lughawe, CTIA, DF Malan Airport"
+31037,FACW,small_airport,Clanwilliam Airport,-32.177,18.8819,416,AF,ZA,ZA-WC,Clanwilliam,no,FACW,,FACW,,,,
 2777,FADK,small_airport,Mubatuba Airport,-28.36840057373047,32.24810028076172,210,AF,ZA,ZA-NL,Mubatuba,no,FADK,DUK,FADK,FA65,,,
 32185,FADQ,small_airport,Zulu Inyala Airport,-27.84939956665039,32.30970001220703,160,AF,ZA,ZA-NL,Phinda,no,FADQ,PZL,FADQ,,,,
 2779,FAEL,medium_airport,King Phalo Airport,-33.035599,27.825899,435,AF,ZA,ZA-EC,East London,yes,FAEL,ELS,FAEL,,http://www.airports.co.za/home.asp?pid=415,https://en.wikipedia.org/wiki/East_London_Airport,
 27281,FAEM,small_airport,Empangeni Airport,-28.719999313354492,31.889999389648438,251,AF,ZA,ZA-NL,Empangeni,no,FAEM,EMG,FAEM,,,,
+2780,FAEO,medium_airport,Ermelo Airport,-26.4956,29.979799,5700,AF,ZA,ZA-MP,Ermelo,no,FAEO,,FAEO,,,,
 29846,FAER,small_airport,Ellisras Matimba Airport,-23.726699829101562,27.68829917907715,2799,AF,ZA,ZA-NP,Ellisras,no,FAER,ELL,FAER,,,,
 2781,FAFB,medium_airport,Ficksburg Sentraoes Airport,-28.82309913635254,27.908899307250977,5315,AF,ZA,ZA-FS,Ficksburg,no,FAFB,FCB,FAFB,,,,
 2782,FAGC,medium_airport,Grand Central Airport,-25.986299514799995,28.1401004791,5325,AF,ZA,ZA-GT,Midrand,no,FAGC,GCJ,FAGC,,,https://en.wikipedia.org/wiki/Grand_Central_Airport,
 2783,FAGG,medium_airport,George Airport,-34.0056,22.378902,648,AF,ZA,ZA-WC,George,yes,FAGG,GRJ,FAGG,,,https://en.wikipedia.org/wiki/George_Airport,PW Botha Airport
 27283,FAGI,small_airport,Giyani Airport,-23.2833,30.65,1584,AF,ZA,ZA-NP,Giyani,no,FAGI,GIY,FAGI,,,https://af.wikipedia.org/wiki/Giyani-lughawe,
 2784,FAGM,medium_airport,Rand Airport,-26.2425,28.151199,5483,AF,ZA,ZA-GT,Johannesburg,no,FAGM,QRA,FAGM,,,https://en.wikipedia.org/wiki/Rand_Airport,
+2785,FAGR,small_airport,Graaff Reinet Airport,-32.1936,24.541401,2604,AF,ZA,ZA-EC,Graaff-Reinet,no,FAGR,,FAGR,,,,
+2786,FAGT,small_airport,Grahamstown Airport,-33.284698,26.4981,2135,AF,ZA,ZA-EC,Grahamstown,no,FAGT,,FAGT,,,,
+2787,FAGY,small_airport,Greytown Airport,-29.122,30.5867,3531,AF,ZA,ZA-NL,Greytown,no,FAGY,,FAGY,,,https://en.wikipedia.org/wiki/Greytown_Airport,
+2788,FAHA,small_airport,Harmony Airport,-28.078699,26.8612,4399,AF,ZA,ZA-FS,Virginia,no,FAHA,,FAHA,,,,
+27284,FAHG,small_airport,Heidelburg Airport,-26.51,28.389999,5089,AF,ZA,ZA-GT,Heidelburg,no,FAHG,,FAHG,,,https://en.wikipedia.org/wiki/Heidelberg_Airport,
 29948,FAHL,small_airport,Hluhluwe Airport,-28.0166049887,32.2751712799,249,AF,ZA,ZA-NL,Hluhluwe,no,FAHL,HLW,FAHL,,,https://en.wikipedia.org/wiki/Hluhluwe_Airport,
 2789,FAHR,medium_airport,Harrismith Airport,-28.2351,29.106199,5585,AF,ZA,ZA-FS,Harrismith,no,FAHR,HRS,FAHR,,,https://en.wikipedia.org/wiki/Harrismith_Airport,
 2790,FAHS,small_airport,Hoedspruit Air Force Base Airport,-24.368600845299998,31.0487003326,1743,AF,ZA,ZA-NP,Hoedspruit,yes,FAHS,HDS,FAHS,,,https://en.wikipedia.org/wiki/Hoedspruit_Airport#Eastgate_Airport,
+2791,FAHV,small_airport,Gariep Dam Airport,-30.562111,25.529343,4176,AF,ZA,ZA-FS,Gariepdam,no,FAHV,,FAHV,,,,
 2793,FAKD,medium_airport,P C Pelser Airport,-26.871099,26.718,4444,AF,ZA,ZA-NW,Klerksdorp,no,FAKD,KXE,FAKD,,,https://en.wikipedia.org/wiki/Klerksdorp_Airport,
 2794,FAKM,medium_airport,Kimberley Airport,-28.802799224900003,24.7651996613,3950,AF,ZA,ZA-NC,Kimberley,yes,FAKM,KIM,FAKM,,,https://en.wikipedia.org/wiki/Kimberley_Airport,
 2795,FAKN,medium_airport,Kruger Mpumalanga International Airport,-25.3831996918,31.1056003571,2829,AF,ZA,ZA-MP,Mpumalanga,yes,FAKN,MQP,FAKN,,,https://en.wikipedia.org/wiki/Kruger_Mpumalanga_International_Airport,
 30038,FAKP,small_airport,Komatipoort Airport,-25.44029998779297,31.93000030517578,541,AF,ZA,ZA-MP,Komatipoort,no,FAKP,KOF,FAKP,,,,
+2796,FAKR,small_airport,Krugersdorp Airport,-26.080826,27.725915,5499,AF,ZA,ZA-GT,Krugersdorp,no,FAKR,,FAKR,,http://www.fakr.co.za,,Jack Taylor
+2797,FAKS,small_airport,Kroonstad Airport,-27.660601,27.3158,4700,AF,ZA,ZA-FS,Kroonstad,no,FAKS,,FAKS,,,https://en.wikipedia.org/wiki/Kroonstad_Airport,
 2798,FAKU,medium_airport,Johan Pienaar Airport,-27.45669937133789,23.411399841308594,4382,AF,ZA,ZA-NC,Kuruman,no,FAKU,KMH,FAKU,,,https://en.wikipedia.org/wiki/Johan_Pienaar_Airport,
 2799,FAKZ,medium_airport,Kleinsee Airport,-29.6884002686,17.093999862700002,270,AF,ZA,ZA-NC,Kleinsee,no,FAKZ,KLZ,FAKZ,,,https://en.wikipedia.org/wiki/Kleinzee_Airport,
 2800,FALA,medium_airport,Lanseria International Airport,-25.938499,27.9261,4517,AF,ZA,ZA-GT,Johannesburg,yes,FALA,HLA,FALA,,,https://en.wikipedia.org/wiki/Lanseria_Airport,
 2801,FALC,medium_airport,Lime Acres Finsch Mine Airport,-28.36009979248047,23.43910026550293,4900,AF,ZA,ZA-NC,Lime Acres,no,FALC,LMR,FALC,,,,
 41262,FALD,small_airport,Londolozi Airport,-24.7478,31.4743,1300,AF,ZA,ZA-NP,Londolozi,no,FALD,LDZ,FALD,,,,
 300795,FALE,large_airport,King Shaka International Airport,-29.6144444444,31.1197222222,295,AF,ZA,ZA-NL,Durban,yes,FALE,DUR,FALE,,,https://en.wikipedia.org/wiki/King_Shaka_International_Airport,La Mercy Airport
-30093,FALK,small_airport,Lusikisiki Airport,-31.36669921875,29.58329963684082,1831,AF,ZA,ZA-EC,Lusikisiki,no,,LUJ,FALK,,,,
+2802,FALI,small_airport,Lichtenburg Airport,-26.175699,26.184601,4875,AF,ZA,ZA-NW,Lichtenburg,no,FALI,,FALI,,,,
+2803,FALM,small_airport,Makhado Air Force Base Airport,-23.159901,29.696501,3069,AF,ZA,ZA-NP,Louis Trichardt Southwest,no,FALM,,FALM,,,https://en.wikipedia.org/wiki/Air_Force_Base_Makhado,
 2804,FALO,small_airport,Louis Trichardt Airport,-23.061899185180664,29.864700317382812,3025,AF,ZA,ZA-NP,Louis Trichardt,no,FALO,LCD,FALO,,,,
 2805,FALW,medium_airport,Langebaanweg Airport,-32.968898773199996,18.1602993011,108,AF,ZA,ZA-WC,Langebaanweg,no,FALW,SDB,FALW,,,https://en.wikipedia.org/wiki/AFB_Langebaanweg,
 2806,FALY,medium_airport,Ladysmith Airport,-28.5816993713,29.749700546299998,3548,AF,ZA,ZA-NL,Ladysmith,no,FALY,LAY,FALY,,,https://en.wikipedia.org/wiki/Ladysmith_Airport,
+2807,FAMB,small_airport,Middelburg Airport,-25.684799,29.440201,4886,AF,ZA,ZA-MP,Middelburg,no,FAMB,,FAMB,,,,
 2808,FAMD,medium_airport,Malamala Airport,-24.816866,31.544085,1124,AF,ZA,ZA-MP,Malamala,no,FAMD,AAM,FAMD,,,https://en.wikipedia.org/wiki/Mala_Mala_Airport,
 2809,FAMG,medium_airport,Margate Airport,-30.8574008942,30.343000412,495,AF,ZA,ZA-NL,Margate,yes,FAMG,MGH,FAMG,,,https://en.wikipedia.org/wiki/Margate_Airport,
 41285,FAMH,small_airport,Musina(Messina) Airport,-22.355672,29.9862,1904,AF,ZA,ZA-NP,Musina,no,,MEZ,FAMH,,,,
+2810,FAMI,small_airport,Marble Hall Airport,-24.9891,29.2831,2980,AF,ZA,ZA-NP,Marble Hall,no,FAMI,,FAMI,,,,
+2811,FAMJ,small_airport,Majuba Power Station Airport,-27.0793,29.7785,5600,AF,ZA,ZA-MP,Amerspoort,no,FAMJ,,FAMJ,,,,
 2812,FAMM,medium_airport,Mmabatho International Airport,-25.798400878900004,25.548000335699996,4181,AF,ZA,ZA-NW,Mafeking,yes,FAMM,MBD,FAMM,,,https://en.wikipedia.org/wiki/Mmabatho_International_Airport,Mafikeng
 525716,FAMN,small_airport,Malelane Airport,-25.473581,31.565947,1153,AF,ZA,ZA-MP,Malelane,no,FAMN,LLE,FAMN,,https://malelaneairport.co.za/,,
 30164,FAMO,small_airport,Mossel Bay Airport,-34.158746,22.055676,531,AF,ZA,ZA-WC,Mossel Bay,no,FAMO,MZY,FAMO,,http://www.mosselbayaero.com/wmenu.php,,
@@ -1926,30 +1952,44 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2816,FANC,medium_airport,Newcastle Airport,-27.7705993652,29.976900100699996,4074,AF,ZA,ZA-NL,Newcastle,no,FANC,NCS,FANC,,,https://en.wikipedia.org/wiki/Newcastle_Airport_(South_Africa),
 41271,FANG,small_airport,Ngala Airport,-24.389,31.326,3357,AF,ZA,ZA-MP,Ngala,no,FANG,NGL,FANG,,,,
 27289,FANS,small_airport,Nelspruit Airport,-25.5,30.9137992859,2875,AF,ZA,ZA-MP,Nelspruit,no,FANS,NLP,FANS,,,https://en.wikipedia.org/wiki/Nelspruit_Airport,
+2817,FANY,small_airport,Nylstroom Airfield,-24.6861,28.4349,3900,AF,ZA,ZA-NP,Modimolle,no,FANY,,FANY,,,,
 2818,FAOB,small_airport,Overberg Airport,-34.563474,20.252438,52,AF,ZA,ZA-WC,Overberg,no,FAOB,OVG,FAOB,,,https://en.wikipedia.org/wiki/AFB_Overberg,
 2819,FAOH,medium_airport,Oudtshoorn Airport,-33.6069984436,22.188999176,1063,AF,ZA,ZA-WC,Oudtshoorn,no,FAOH,OUH,FAOH,FAOH,,,
 31055,FAOR,large_airport,O.R. Tambo International Airport,-26.1392,28.246,5558,AF,ZA,ZA-GT,Johannesburg,yes,FAOR,JNB,FAOR,,https://ortambo-airport.com/index.html,https://en.wikipedia.org/wiki/O._R._Tambo_International_Airport,"Johannesburg International Airport, FAJS"
 27290,FAPA,small_airport,Port Alfred Airport,-33.555057,26.881656,275,AF,ZA,ZA-EC,Port Alfred,no,FAPA,AFD,FAPA,,,https://en.wikipedia.org/wiki/Port_Alfred_Airport,"Port Alfred Aerodrome, Port Alfred Airfield"
 2820,FAPE,medium_airport,Chief Dawid Stuurman International Airport,-33.984901,25.6173,226,AF,ZA,ZA-EC,Gqeberha (Port Elizabeth),yes,FAPE,PLZ,FAPE,,http://www.acsa.co.za/home.asp?pid=236,https://en.wikipedia.org/wiki/Chief_Dawid_Stuurman_International_Airport,"H F Verwoerd Airport, Port Elizabeth International Airport"
+30258,FAPF,small_airport,Piet Retief Airport,-26.996901,30.840799,4423,AF,ZA,ZA-MP,Piet Retief,no,FAPF,,FAPF,,,,
 2821,FAPG,medium_airport,Plettenberg Bay Airport,-34.08816,23.328723,465,AF,ZA,ZA-WC,Plettenberg Bay,no,FAPG,PBZ,FAPG,,,https://en.wikipedia.org/wiki/Plettenberg_Bay_Aerodrome,
 2822,FAPH,medium_airport,Hendrik Van Eck Airport,-23.937200546299998,31.1553993225,1432,AF,ZA,ZA-NP,Phalaborwa,yes,FAPH,PHW,FAPH,,,https://en.wikipedia.org/wiki/Hendrik_Van_Eck_Airport,
+2823,FAPI,medium_airport,Pietersburg Municipal Airport,-23.9261,29.4844,4354,AF,ZA,ZA-NP,Polokwane,yes,FAPI,,FAPI,,,,PTG
 2824,FAPJ,medium_airport,Port St Johns Airport,-31.60612,29.52175,1227,AF,ZA,ZA-EC,Port St Johns,no,FAPJ,JOH,FAPJ,,,,
 30291,FAPK,small_airport,Prieska Airport,-29.6835994720459,22.770599365234375,3100,AF,ZA,ZA-NC,Prieska,no,FAPK,PRK,FAPK,,,,
+30278,FAPL,small_airport,Pongola Airport,-27.3622,31.606701,942,AF,ZA,ZA-NL,Pongola,no,FAPL,,FAPL,,,https://en.wikipedia.org/wiki/Pongola_Airport,
 2825,FAPM,medium_airport,Pietermaritzburg Airport,-29.649000167799997,30.3987007141,2423,AF,ZA,ZA-NL,Pietermaritzburg,yes,FAPM,PZB,FAPM,,,https://en.wikipedia.org/wiki/Pietermaritzburg_Airport,
 2826,FAPN,small_airport,Pilanesberg International Airport,-25.333799,27.173401,3412,AF,ZA,ZA-NW,Pilanesberg,no,FAPN,NTY,FAPN,,,https://en.wikipedia.org/wiki/Pilanesberg_International_Airport,
 2827,FAPP,medium_airport,Polokwane International Airport,-23.845269,29.458615,4076,AF,ZA,ZA-NP,Polokwane,yes,FAPP,PTG,FAPP,,,https://en.wikipedia.org/wiki/Polokwane_International_Airport,"FAPB,  AFB Pietersburg,  Pietersburg International Airport, Gateway International Airport"
 2828,FAPS,medium_airport,Potchefstroom Airport,-26.670999527,27.0818996429,4520,AF,ZA,ZA-NW,Potchefstroom,no,FAPS,PCF,FAPS,,,,
+2829,FAPY,small_airport,Parys Airport,-26.889299,27.503401,4740,AF,ZA,ZA-FS,Parys,no,FAPY,,FAPY,,,,
 2830,FAQT,medium_airport,Queenstown Airport,-31.92020034790039,26.882200241088867,3637,AF,ZA,ZA-EC,Queenstown,no,FAQT,UTW,FAQT,,,,
 2831,FARB,medium_airport,Richards Bay Airport,-28.740999221800003,32.0920982361,109,AF,ZA,ZA-NL,Richards Bay,yes,FARB,RCB,FARB,,,https://en.wikipedia.org/wiki/Richards_Bay_Airport,
+2832,FARG,medium_airport,Rustenburg Airport,-25.6443,27.271099,3700,AF,ZA,ZA-NW,Rustenburg,no,FARG,,FARG,,,https://en.wikipedia.org/wiki/Rustenburg_Airfield,
 30329,FARI,small_airport,Reivilo Airport,-27.547199249267578,24.172500610351562,4715,AF,ZA,ZA-NW,Reivilo,no,FARI,RVO,FARI,,,,
 2833,FARS,medium_airport,Robertson Airport,-33.812199,19.9028,640,AF,ZA,ZA-WC,Robertson,no,FARS,ROD,FARS,,,https://en.wikipedia.org/wiki/Robertson_Airfield,
 2834,FASB,medium_airport,Springbok Airport,-29.689300537109375,17.939599990844727,2690,AF,ZA,ZA-NC,Springbok,no,FASB,SBU,FASB,,,,
 2835,FASC,medium_airport,Secunda Airport,-26.52409935,29.170099258399997,5250,AF,ZA,ZA-MP,Secunda,no,FASC,ZEC,FASC,,,,
+2836,FASD,medium_airport,Saldanha/Vredenburg Airport,-32.9641,17.969299,50,AF,ZA,ZA-WC,Saldanha-Vredenburg,no,FASD,,FASD,,,,
 41210,FASE,small_airport,Sabi Sabi Airport,-24.947375434199998,31.4488477707,1276,AF,ZA,ZA-MP,Belfast,no,,GSS,FASE,,,,
+27295,FASH,small_airport,Stellenbosch Airport,-33.980983,18.822327,295,AF,ZA,ZA-WC,Stellenbosch,no,FASH,,FASH,,http://www.stelfly.co.za/,,Stellenbosch Flying Club
+2837,FASI,small_airport,Springs Airfield,-26.2494,28.398272,5340,AF,ZA,ZA-GT,Del Fouche,no,FASI,,FASI,,,,
+2838,FASK,medium_airport,Swartkop Air Force Base,-25.8097,28.1646,4780,AF,ZA,ZA-GT,Pretoria,no,FASK,,FASK,,,https://en.wikipedia.org/wiki/AFB_Swartkop,
 2839,FASS,medium_airport,Sishen Airport,-27.6486,22.9993,3848,AF,ZA,ZA-NC,Sishen,yes,FASS,SIS,FASS,,,,
+2840,FASX,small_airport,Hendrik Swellengrebel Airport,-34.048199,20.4746,407,AF,ZA,ZA-WC,Swellendam,no,FASX,,FASX,,,,
 2841,FASZ,medium_airport,Skukuza Airport,-24.960899353,31.5886993408,1020,AF,ZA,ZA-MP,Skukuza,no,FASZ,SZK,FASZ,,,https://en.wikipedia.org/wiki/Skukuza_Airport,
+2842,FATF,small_airport,Tommys Field Airport,-28.26,22.9932,4360,AF,ZA,ZA-NC,Beeshoek,no,FATF,,FATF,,,,
 30485,FATH,small_airport,Thohoyandou Airport,-23.0769,30.3836,2021,AF,ZA,ZA-NP,Thohoyandou,no,FATH,THY,FATH,,,https://af.wikipedia.org/wiki/PR_Mphephu-lughawe,
 30482,FATN,small_airport,Thaba Nchu Tar Airport,-29.317800521850586,26.822799682617188,4941,AF,ZA,ZA-FS,Homeward,no,FATN,TCU,FATN,,,,
+2843,FATP,small_airport,New Tempe Airport,-29.035109,26.16268,4547,AF,ZA,ZA-FS,Bloemfontein,no,FATP,,FATP,,,,
+2844,FATT,small_airport,Tutuka Power Station Airport,-26.775128,29.337542,5313,AF,ZA,ZA-MP,Standerton,no,FATT,,FATT,,,,
 2845,FATZ,medium_airport,Tzaneen Airport,-23.8244,30.3293,1914,AF,ZA,ZA-NP,Tzaneen,no,FATZ,LTA,FATZ,,,https://af.wikipedia.org/wiki/Tzaneen-lughawe,
 2846,FAUL,medium_airport,Prince Mangosuthu Buthelezi Airport,-28.3206005096,31.4165000916,1720,AF,ZA,ZA-NL,Ulundi,no,FAUL,ULD,FAUL,,,https://en.wikipedia.org/wiki/Ulundi_Airport,
 2847,FAUP,medium_airport,Pierre Van Ryneveld Airport,-28.39909935,21.260200500499998,2782,AF,ZA,ZA-NC,Upington,yes,FAUP,UTN,FAUP,,,https://en.wikipedia.org/wiki/Upington_Airport,
@@ -1957,11 +1997,18 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2848,FAUT,medium_airport,K. D. Matanzima Airport,-31.546363184900002,28.6733551025,2400,AF,ZA,ZA-EC,Mthatha,yes,FAUT,UTT,FAUT,,,https://en.wikipedia.org/wiki/K.D._Matanzima_Airport,Umtata
 2849,FAVB,medium_airport,Vryburg Airport,-26.9824008942,24.7287998199,3920,AF,ZA,ZA-NW,Vyrburg,no,FAVB,VRU,FAVB,,,https://en.wikipedia.org/wiki/Vryburg_Airport,
 2850,FAVG,medium_airport,Virginia Airport,-29.770599,31.058399,20,AF,ZA,ZA-NL,Durban,no,FAVG,VIR,FAVG,,,https://en.wikipedia.org/wiki/Virginia_Airport,
+2851,FAVM,small_airport,Venetia Mine Airport,-22.448099,29.3377,2333,AF,ZA,ZA-NP,Alldays,no,FAVM,,FAVM,,,,
 2852,FAVR,medium_airport,Vredendal Airport,-31.641000747680664,18.5447998046875,330,AF,ZA,ZA-WC,Vredendal,no,FAVR,VRE,FAVR,,,,
+2853,FAVV,medium_airport,Vereeniging Airport,-26.566401,27.9608,4846,AF,ZA,ZA-GT,Vereeniging,no,FAVV,,FAVV,,,,
+30529,FAVW,small_airport,Victoria West Airport,-31.399401,23.156401,4124,AF,ZA,ZA-NC,Victoria West,no,FAVW,,FAVW,,,,
 30542,FAVY,small_airport,Vryheid Airport,-27.78689956665039,30.79640007019043,3799,AF,ZA,ZA-NL,Vryheid,no,FAVY,VYD,FAVY,,,,
 2854,FAWB,medium_airport,Wonderboom Airport,-25.6539,28.224199,4095,AF,ZA,ZA-GT,Pretoria,no,FAWB,PRY,FAWB,,http://www.wonderboomairport.co.za/,https://en.wikipedia.org/wiki/Wonderboom_Airport,
+2855,FAWI,small_airport,Witbank Airport,-25.8323,29.191999,5078,AF,ZA,ZA-MP,Witbank,no,FAWI,,FAWI,,,,
 2856,FAWK,medium_airport,Waterkloof Air Force Base,-25.829999923699997,28.222499847399998,4940,AF,ZA,ZA-GT,Pretoria,no,FAWK,WKF,FAWK,,,https://en.wikipedia.org/wiki/AFB_Waterkloof,AFB
 2857,FAWM,small_airport,Welkom Airport,-27.996825,26.663334,4421,AF,ZA,ZA-FS,Welkom,no,FAWM,WEL,FAWM,,,,
+27282,FAWN,small_airport,Cape Winelands Airport,-33.77,18.74,399,AF,ZA,ZA-WC,Durbanville,no,FAWN,,FAWN,,https://capewinelands.aero/,https://en.wikipedia.org/wiki/Cape_Winelands_Airport,"Fisantekraal Airport, FAFK"
+2858,FAYP,medium_airport,Ysterplaat Air Force Base,-33.9002,18.498301,52,AF,ZA,ZA-WC,Cape Town,no,FAYP,,FAYP,,http://www.af.mil.za/bases/afb_ysterplaat/,https://en.wikipedia.org/wiki/AFB_Ysterplaat,"Maitland Aerodrome, AFS Brooklyn"
+2859,FAZR,small_airport,Zeerust Airport,-25.599001,26.042299,4258,AF,ZA,ZA-NW,Zeerust,no,FAZR,,FAZR,,,,
 31064,FBCO,small_airport,Camp Okavango Airport,-19.131115,23.102505,3158,AF,BW,BW-NW,Camp Okavango,no,FBCO,,FBCO,,,https://en.wikipedia.org/wiki/Camp_Okavango_Airport,
 2860,FBFT,medium_airport,P G Matante Intl,-21.15914,27.468545,3283,AF,BW,BW-FR,Francistown,yes,FBPM,FRW,FBPM,,https://www.caab.co.bw/p-g-matante-international-airport/,https://en.wikipedia.org/wiki/Francistown_Airport,FBFT
 31066,FBGM,small_airport,Gumare Airport,-19.338,22.1544,3177,AF,BW,BW-NW,Gumare,no,FBGM,,FBGM,,,https://en.wikipedia.org/wiki/Gumare_Airport,Gomare
@@ -2091,21 +2138,24 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29781,FLCP,small_airport,Chipata Airport,-13.5583,32.5872,3360,AF,ZM,ZM-03,Chipata,no,FLCP,CIP,FLCP,,,https://en.wikipedia.org/wiki/Chipata_Airport,
 318932,FLCU,small_airport,Chunga Airstrip,-15.053957,25.985673,3632,AF,ZM,ZM-02,Chunga,no,,CGX,FLCU,,,,
 316480,FLJK,small_airport,Jeki Airport,-15.6334,29.6036,1165,AF,ZM,ZM-09,Jeki,no,,JEK,FLJK,,,https://en.wikipedia.org/wiki/Jeki_Airstrip,
-2891,FLKE,medium_airport,Kasompe Airport,-12.572799682617,27.893899917603,4636,AF,ZM,ZM-08,Chingola,no,,CGJ,FLKE,,,https://en.wikipedia.org/wiki/Kasompe_Airport,
+2891,FLKE,medium_airport,Kasompe Airport,-12.5728,27.8939,4636,AF,ZM,ZM-08,Chingola,no,FLKE,CGJ,FLKE,,,https://en.wikipedia.org/wiki/Kasompe_Airport,
 31756,FLKL,small_airport,Kalabo Airport,-14.998818,22.648372,3450,AF,ZM,ZM-01,Kalabo,no,FLKL,KLB,FLKL,,,https://en.wikipedia.org/wiki/Kalabo_Airport,
 31762,FLKO,small_airport,Kaoma Airport,-14.8,24.783001,3670,AF,ZM,ZM-01,Kaoma,no,FLKO,KMZ,FLKO,,,https://en.wikipedia.org/wiki/Kaoma_Airport,
 30012,FLKS,small_airport,Kasama Airport,-10.210169,31.123045,4541,AF,ZM,ZM-05,Kasama,yes,FLKS,KAA,FLKS,,,https://en.wikipedia.org/wiki/Kasama_Airport,
+31153,FLKW,small_airport,Milliken Airport,-14.4506,28.3792,3920,AF,ZM,ZM-02,Kabwe,no,FLKW,,FLKW,,,https://en.wikipedia.org/wiki/Milliken_Airport,QKE
 32746,FLKY,small_airport,Kasaba Bay Airport,-8.525,30.663,2780,AF,ZM,ZM-05,Kasaba Bay,no,FLKY,ZKB,FLKY,,,https://en.wikipedia.org/wiki/Kasaba_Bay_Airport,
-2893,FLLI,medium_airport,Harry Mwanga Nkumbula International Airport,-17.8218,25.822701,3302,AF,ZM,ZM-07,Livingstone,yes,,LVI,FLHN,,,https://en.wikipedia.org/wiki/Harry_Mwanga_Nkumbula_International_Airport,FLLI
+30087,FLLA,small_airport,Luanshya Zambia Airport,-13.143052,28.426517,4101,AF,ZM,ZM-08,Luanshya,no,FLLA,,FLLA,,,https://en.wikipedia.org/wiki/Luanshya_Airport,
+2892,FLLC,medium_airport,Lusaka City Airport,-15.4138,28.3307,4200,AF,ZM,ZM-09,Lusaka,no,FLLC,,FLLC,,,https://en.wikipedia.org/wiki/Lusaka_City_Airport,
+2893,FLLI,medium_airport,Harry Mwanga Nkumbula International Airport,-17.8218,25.822701,3302,AF,ZM,ZM-07,Livingstone,yes,FLHN,LVI,FLHN,,,https://en.wikipedia.org/wiki/Harry_Mwanga_Nkumbula_International_Airport,FLLI
 31869,FLLK,small_airport,Lukulu Airport,-14.375891,23.248648,3480,AF,ZM,ZM-01,Lukulu,no,FLLK,LXU,FLLK,,,https://en.wikipedia.org/wiki/Lukulu_Airport,
-2894,FLLS,large_airport,Kenneth Kaunda International Airport,-15.330833,28.452722,3779,AF,ZM,ZM-09,Lusaka,yes,,LUN,FLKK,,http://www.nacl.co.zm/?page_id=336,https://en.wikipedia.org/wiki/Kenneth_Kaunda_International_Airport,
+2894,FLLS,large_airport,Kenneth Kaunda International Airport,-15.330833,28.452722,3779,AF,ZM,ZM-09,Lusaka,yes,FLKK,LUN,FLKK,,http://www.nacl.co.zm/?page_id=336,https://en.wikipedia.org/wiki/Kenneth_Kaunda_International_Airport,
 30110,FLMA,small_airport,Mansa Airport,-11.137,28.872601,4101,AF,ZM,ZM-04,Mansa,no,FLMA,MNS,FLMA,,,https://en.wikipedia.org/wiki/Mansa_Airport,
 2895,FLMF,medium_airport,Mfuwe Airport,-13.258899688720703,31.936599731445312,1853,AF,ZM,ZM-03,Mfuwe,yes,FLMF,MFU,FLMF,,,https://en.wikipedia.org/wiki/Mfuwe_Airport,
 2896,FLMG,medium_airport,Mongu Airport,-15.2545,23.1623,3488,AF,ZM,ZM-01,Mongu,no,FLMG,MNR,FLMG,,,https://en.wikipedia.org/wiki/Mongu_Airport,
 32742,FLNA,small_airport,Ngoma Airport,-15.9658,25.9333,3400,AF,ZM,ZM-07,Ngoma,no,FLNA,ZGM,FLNA,,,https://en.wikipedia.org/wiki/Ngoma_Airport,
 2897,FLND,medium_airport,Peter Zuze Air Force Base,-12.997222,28.663889,4170,AF,ZM,ZM-08,Ndola,yes,FLND,,FLND,,,https://en.wikipedia.org/wiki/Peter_Zuze_Air_Force_Base,"NLA, Ndola Airport"
 312366,FLRZ,small_airport,Royal Zambezi Lodge Airstrip,-15.724789,29.303541,1243,AF,ZM,ZM-09,Lower Zambezi River,no,,RYL,FLRZ,,http://www.royalzambezilodge.com/,,
-525659,FLSK,medium_airport,Simon Mwansa Kapwepwe International Airport,-12.961667,28.516667,4308,AF,ZM,ZM-08,Ndola,yes,,NLA,FLSK,,https://www.zacl.co.zm/airport-section/airports/smkia,https://en.wikipedia.org/wiki/Simon_Mwansa_Kapwepwe_International_Airport,
+525659,FLSK,medium_airport,Simon Mwansa Kapwepwe International Airport,-12.961667,28.516667,4308,AF,ZM,ZM-08,Ndola,yes,FLSK,NLA,FLSK,,https://www.zacl.co.zm/airport-section/airports/smkia,https://en.wikipedia.org/wiki/Simon_Mwansa_Kapwepwe_International_Airport,
 32405,FLSN,small_airport,Senanga Airport,-16.113,23.2982,3347,AF,ZM,ZM-01,Senanga,no,FLSN,SXG,FLSN,,,https://en.wikipedia.org/wiki/Senanga_Airport,
 2898,FLSO,medium_airport,Southdowns Airport,-12.9005,28.1499,4145,AF,ZM,ZM-08,Kitwe,no,FLSO,KIW,FLSO,,,https://en.wikipedia.org/wiki/Southdowns_Airport,
 32304,FLSS,small_airport,Sesheke Airport,-17.47632,24.306089,3100,AF,ZM,ZM-01,Sesheke,no,FLSS,SJQ,FLSS,,,https://en.wikipedia.org/wiki/Sesheke_Airport,
@@ -2315,15 +2365,24 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31214,FTTZ,small_airport,Bardai Zougra Airport,21.448426,17.053271,3524,AF,TD,TD-TI,Bardai Zougra,no,FTTZ,,FTTZ,,,https://en.wikipedia.org/wiki/Barda%C3%AF-Zougra_Airport,
 312835,FUB,small_airport,Fulleborn Airport,-6.1518,150.6264,36,OC,PG,PG-WBK,Fulleborn,no,,FUB,,FUL,,,
 31220,FVBM,small_airport,Bumi Hills Airport,-16.816485,28.344786,1650,AF,ZW,ZW-MW,Bumi,no,,BZH,FVBM,,,,
-3000,FVBU,medium_airport,Joshua Mqabuko Nkomo International Airport,-20.017401,28.617901,4359,AF,ZW,ZW-BU,Bulawayo,yes,,BUQ,FVJN,,,https://en.wikipedia.org/wiki/Joshua_Mqabuko_Nkomo_International_Airport,
+3000,FVBU,medium_airport,Joshua Mqabuko Nkomo International Airport,-20.021254,28.626296,4359,AF,ZW,ZW-BU,Bulawayo,yes,FVJN,BUQ,FVJN,,,https://en.wikipedia.org/wiki/Joshua_Mqabuko_Nkomo_International_Airport,FVBU
 30828,FVCH,small_airport,Chipinge Airport,-20.206699,32.6283,3720,AF,ZW,ZW-MA,Chipinge,no,FVCH,CHJ,FVCH,,,https://en.wikipedia.org/wiki/Chipinge_Airport,
+3001,FVCN,small_airport,Centenary Airport,-16.7341,31.122,4058,AF,ZW,ZW-MC,,no,FVCN,,FVCN,,,https://en.wikipedia.org/wiki/Centenary_Airport,
+3002,FVCP,small_airport,Charles Prince Airport,-17.7516,30.9247,4845,AF,ZW,ZW-HA,Harare,no,FVCP,,FVCP,,,https://en.wikipedia.org/wiki/Charles_Prince_Airport,
 3003,FVCZ,medium_airport,Buffalo Range Airport,-21.008101,31.5786,1421,AF,ZW,ZW-MV,Chiredzi,no,FVCZ,BFO,FVCZ,,https://www.caaz.co.zw/buffalo-range-airport,https://en.wikipedia.org/wiki/Buffalo_Range_Airport,
 3004,FVFA,medium_airport,Victoria Falls International Airport,-18.09589958190918,25.839000701904297,3490,AF,ZW,ZW-MN,Victoria Falls,yes,FVFA,VFA,FVFA,,,https://en.wikipedia.org/wiki/Victoria_Falls_Airport,
+30176,FVGR,small_airport,Grand Reef Airport,-18.9775,32.450802,3333,AF,ZW,ZW-MA,Mutare,no,FVGR,,FVGR,,,https://en.wikipedia.org/wiki/Grand_Reef_Airport,
 3005,FVHA,large_airport,Robert Gabriel Mugabe International Airport,-17.931801,31.0928,4887,AF,ZW,ZW-HA,Harare,yes,,HRE,FVRG,,,https://en.wikipedia.org/wiki/Harare_International_Airport,"FVHA,Harare"
 3006,FVKB,medium_airport,Kariba International Airport,-16.5198,28.885,1706,AF,ZW,ZW-MW,Kariba,no,FVKB,KAB,FVKB,,https://www.caaz.co.zw/kariba-airport,https://en.wikipedia.org/wiki/Kariba_Airport,
+31241,FVKK,small_airport,Kwekwe Airport,-18.9333,29.8428,4000,AF,ZW,ZW-MI,Kwekwe,no,FVKK,,FVKK,,,https://en.wikipedia.org/wiki/Kwekwe_East_Airport,
+31247,FVMA,small_airport,Marondera Airport,-18.183001,31.466999,5370,AF,ZW,ZW-ME,Marondera,no,FVMA,,FVMA,,,https://en.wikipedia.org/wiki/Marondera_Airport,
+3007,FVMD,small_airport,Mount Darwin Airport,-16.769199,31.559799,3240,AF,ZW,ZW-MC,,no,FVMD,,FVMD,,,https://en.wikipedia.org/wiki/Mount_Darwin_Airport,
 314044,FVMH,small_airport,Mahenye Airport,-21.231,32.3336,930,AF,ZW,ZW-MA,Gonarezhou National Park,no,FVMH,MJW,FVMH,,,,
+3008,FVMT,medium_airport,Mutoko Airport,-17.4319,32.184502,3950,AF,ZW,ZW-ME,Mutoko,no,FVMT,,FVMT,,,https://en.wikipedia.org/wiki/Mutoko_Airport,Mtoko
 3009,FVMU,small_airport,Mutare Airport,-18.997499465942,32.627201080322,3410,AF,ZW,ZW-MA,Mutare,no,FVMU,UTA,FVMU,,,https://en.wikipedia.org/wiki/Mutare_Airport,
 3010,FVMV,medium_airport,Masvingo International Airport,-20.0553,30.8591,3595,AF,ZW,ZW-MV,Masvingo,no,FVMV,MVZ,FVMV,,,https://en.wikipedia.org/wiki/Masvingo_Airport,
+3011,FVOT,small_airport,Kotwa Airport,-16.9848,32.672699,2450,AF,ZW,ZW-ME,,no,FVOT,,FVOT,,,https://en.wikipedia.org/wiki/Kotwa_Airport,
+3012,FVSH,small_airport,Zvishavane Airport,-20.289499,30.0882,3012,AF,ZW,ZW-MI,Zvishavane,no,FVSH,,FVSH,,,https://en.wikipedia.org/wiki/Zvishavane_Airport,
 31266,FVTD,small_airport,Tinfields Airport,-19.941665,31.425944,3600,AF,ZW,ZW-MV,Tinfields,no,FVTD,,FVTD,,,,
 3013,FVTL,medium_airport,Gweru - Thornhill Air Base,-19.436718,29.861945,4680,AF,ZW,ZW-MI,Gweru,no,FVTL,GWE,FVTL,,,https://en.wikipedia.org/wiki/Gweru-Thornhill_Air_Base,
 3014,FVWN,medium_airport,Hwange National Park Airport,-18.6299,27.021,3543,AF,ZW,ZW-MN,Gwayi River Farms,no,FVWN,HWN,FVWN,,,https://en.wikipedia.org/wiki/Hwange_National_Park_Airport,
@@ -6554,6 +6613,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5487,PKMA,small_airport,Eniwetok Airport,11.340700149536133,162.3280029296875,13,OC,MH,MH-ENI,Eniwetok Atoll,yes,PKMA,ENT,PKMA,,,https://en.wikipedia.org/wiki/Enewetak_Airport,
 5488,PKMJ,medium_airport,Marshall Islands International Airport,7.06476,171.272003,6,OC,MH,MH-MAJ,Majuro Atoll,yes,PKMJ,MAJ,PKMJ,MAJ,,https://en.wikipedia.org/wiki/Marshall_Islands_International_Airport,
 5490,PKWA,medium_airport,Bucholz Army Air Field,8.720120429992676,167.73199462890625,9,OC,MH,MH-KWA,Kwajalein,yes,PKWA,KWA,PKWA,KWA,,https://en.wikipedia.org/wiki/Bucholz_Army_Airfield,
+44710,PL-0074,small_airport,Kakolewo (former military),52.235001,16.243,331,EU,PL,PL-WP,Kąkolewo,no,EPPG,,EPPG,,https://www.lotniskokakolewo.pl/en/aviation/for-pilots/,,Lotnisko Kąkolewo
 31011,PL-0274,small_airport,Bydgoszcz Aeroklub Airfield,53.105214,17.960376,230,EU,PL,PL-KP,Bydgoszcz,no,EPBD,,EPBD,,http://aeroklubbydgoski.pl/,https://pl.wikipedia.org/wiki/Aeroklub_Bydgoski,Biedaszkowo
 5493,PLCH,medium_airport,Cassidy International Airport,1.986278,-157.350011,5,OC,KI,KI-L,Kiritimati,yes,PLCH,CXI,PLCH,,,https://en.wikipedia.org/wiki/Cassidy_International_Airport,"Christmas Island, Banana"
 32466,PLFA,small_airport,Tabuaeran Island Airport,3.89944,-159.389008,,OC,KI,KI-L,Tabuaeran Island,no,,TNV,PLFA,,,https://de.wikipedia.org/wiki/Flugplatz_Tabuaeran,Fanning Island
@@ -9555,6 +9615,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41607,ZA-0098,small_airport,Tshipise Airport,-22.619300842285156,30.175600051879883,1786,AF,ZA,ZA-NP,Tshipise,no,,TSD,,,,,
 299614,ZA-0105,small_airport,Aviators Paradise Field,-25.692875,27.782657,3800,AF,ZA,ZA-NW,Primindia,no,FAAP,,FAAP,,http://www.aviatorsparadise.co.za/,,
 317620,ZA-0138,small_airport,Singita Safari Lodge Airport,-24.801985,31.42194,1365,AF,ZA,ZA-MP,Singita Safari Lodge,no,,SSX,FASP,,,,
+525707,ZA-0324,small_airport,Alkantpan Test Range Airport,-29.933201,22.265741,3530,AF,ZA,ZA-NC,,no,FACO,,FACO,,,,
+30453,ZA-0340,small_airport,Baragwanath Airfield,-26.348697,27.779546,5420,AF,ZA,ZA-GT,Hiltonia,no,FASY,,FASY,5407,,,"Sylerfontein, Lenasia, Westonaria"
 31753,ZA-KIG,small_airport,Koingnaas Airport,-30.187136,17.282706,228,AF,ZA,ZA-NC,Koingnaas,no,,KIG,,,,,
 27188,ZBAA,large_airport,Beijing Capital International Airport,40.080101013183594,116.58499908447266,116,AS,CN,CN-11,Beijing,yes,ZBAA,PEK,ZBAA,,http://en.bcia.com.cn/,https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport,"BJS, Bejing, Peking, Olympics"
 330820,ZBAD,large_airport,Beijing Daxing International Airport,39.509945,116.41092,98,AS,CN,CN-11,Beijing,yes,ZBAD,PKX,ZBAD,,,https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport,
