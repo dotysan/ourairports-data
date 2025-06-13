@@ -9785,7 +9785,7 @@
 301754,"AKM","small_airport","Zakuoma Airport",10.8902777778,19.8172222222,1370,"AF","TD","TD-SA","ZaKouma","no",,"AKM",,,,"https://en.wikipedia.org/wiki/Zakouma_Airport",
 35356,"AL-0001","heliport","Lapraka Heliport",41.330782,19.795152,297,"EU","AL","AL-11","Tirana","no",,,,,,"https://en.wikipedia.org/wiki/Lapraka_Airfield","Lapraka Airfield, Tirana Aerodrome, OOH, ZOOH"
 325353,"AL-0002","closed","Korroticës së Ulët Airport",42.605253,20.910351,1962,"EU","XK","XK-01","Korroticë e Poshtme","no",,,,,,,"Korroticës së Ulët, Lower Korotica"
-325354,"AL-0003","closed","Vlora International Airport (under construction)",40.601737,19.432712,3,"EU","AL","AL-12","Akerni","no",,,,,,"https://en.wikipedia.org/wiki/Vlora_International_Airport","LAVL, Mifoit Air Base"
+325354,"AL-0003","medium_airport","Vlora International Airport",40.605367,19.426095,8,"EU","AL","AL-12","Akerni","no","LAVL","VLO",,,,"https://en.wikipedia.org/wiki/Vlora_International_Airport","Mifoit Air Base"
 340588,"AL-0004","heliport","Mother Teresa Hospital Heliport",41.339303,19.830489,420,"EU","AL","AL-11","Tirana","no",,,,,,,
 340589,"AL-0005","heliport","University Trauma Hospital Heliport",41.342857,19.793764,295,"EU","AL","AL-11","Tirana","no",,,,,,,
 349286,"AL-0006","heliport","Pogradec Heliport",40.90539,20.65453,2277,"EU","AL","AL-06","Pogradec","no",,,,,,,
@@ -10219,7 +10219,7 @@
 38902,"AR-0227","small_airport","La Mezquita Airport",-31.400800705,-64.3003005981,1672,"SA","AR","AR-X","Cordoba/La Mezquita","no",,,,"MEZ",,,
 38903,"AR-0228","heliport","La Milagrosa Heliport",-32.4828,-58.2506,49,"SA","AR","AR-E","Concepcion Del Uruguay","no",,,,"HMI",,,
 38904,"AR-0229","small_airport","La Nueva Airport",-34.9464,-61.3042,246,"SA","AR","AR-B","Lincoln","no",,,,"LNV",,,
-38905,"AR-0230","small_airport","La Paz Aeroclub Airport",-30.7442,-59.5683,200,"SA","AR","AR-E","La Paz","no",,,,"LAZ",,"https://en.wikipedia.org/wiki/La_Paz_Aeroclub",
+38905,"AR-0230","small_airport","La Paz Aeroclub Airport",-30.7442,-59.5683,200,"SA","AR","AR-E","La Paz","no","SLAZ","LPZ",,"SALAZ",,"https://en.wikipedia.org/wiki/La_Paz_Aeroclub",
 38906,"AR-0231","small_airport","La Pelada Airport",-30.9556,-60.8858,144,"SA","AR","AR-S","La Pelada","no",,,,"PEL",,,
 38907,"AR-0232","small_airport","La Siesta Airport",-33.6939,-62.0625,367,"SA","AR","AR-S","Venado Tuerto","no",,,,"VTO",,,
 38908,"AR-0233","heliport","La Superba Heliport",-34.5008,-59.015,32,"SA","AR","AR-B","Open Door","no",,,,"HLS",,,
@@ -10480,7 +10480,7 @@
 45156,"AR-0490","heliport","Piero Vara Heliport",-34.433151,-58.972485,39,"SA","AR","AR-B","Pilar","no",,,,"HPI",,,
 45157,"AR-0491","heliport","Rio Cullen II Heliplatform",-52.8364,-68.1789,127,"SA","AR","AR-V","Santa Cruz","no",,,,"HCE",,,
 45162,"AR-0492","small_airport","La Argentina Airport",-35.996667,-62.705278,311,"SA","AR","AR-B","Trenque Lauquen","no",,,,"ATN",,,
-46644,"AR-0493","small_airport","La Paz Airport",-33.467,-67.55,,"SA","AR","AR-M","La Paz","no",,,"SAMP","PAZ",,"https://en.wikipedia.org/wiki/La_Paz_Aeroclub",
+46644,"AR-0493","small_airport","La Paz Airport",-33.467,-67.55,,"SA","AR","AR-M","La Paz","no",,,"SAMP","PAZ",,,
 46645,"AR-0494","small_airport","Colonia Sarmiento Airport",-45.582371,-68.999841,877,"SA","AR","AR-U","Sarmiento","no",,,,"STO",,,
 298878,"AR-0495","small_airport","Agroaire Airport",-27.476346,-61.624434,330,"SA","AR","AR-H","Gancedo","no",,,,,"http://guialocal.com.ar/agroaire.html",,
 313007,"AR-0496","small_airport","Aeroclub de El Chaltén Alf. G.N.A. Walter Omar D Anna",-49.53531,-72.51997,1279,"SA","AR","AR-Z","El Chaltén","no",,,,"ELX",,,
@@ -10742,7 +10742,6 @@
 41549,"AR-0752","closed","Monte Grande Airport",-34.805599,-58.492001,30,"SA","AR","AR-B","Monte Grande","no",,,,,,,"SADG, SADG, MGE"
 41550,"AR-0753","closed","Merlo Airport",-34.680283,-58.742658,49,"SA","AR","AR-B","Merlo","no",,,,,,,"SADR, SADR, MER"
 41556,"AR-0754","closed","Resistencia (City) Airport",-27.4657001495,-58.9790000916,175,"SA","AR","AR-H","Resistencia","no",,,,,,,"SARD, SARD"
-30062,"AR-0755","small_airport","La Paz Airport",-30.7833,-59.6,200,"SA","AR","AR-E","La Paz","no",,,,"LPZ",,,
 35411,"AR-0756","small_airport","San Pedro Airport",-33.704077,-59.725788,88,"SA","AR","AR-B","San Pedro","no",,,,"PED",,"https://es.wikipedia.org/wiki/Aeroclub_San_Pedro","SAVO, SA89"
 342657,"AR-0757","small_airport","Estancia San José Airstrip",-49.410757,-72.780266,903,"SA","AR","AR-Z","El Chaltén","no",,,,,,,"Lago Viedma, SCDV"
 594736,"AR-0758","small_airport","Lago Buenos Aires (Los Antiguos) Airfield",-46.55788,-71.61054,948,"SA","AR","AR-Z","Los Antiguos","no",,,,,,,
@@ -14060,7 +14059,7 @@
 337410,"BR-1239","heliport","Hospital Regional do Vale do Jaguaribe Heliport",-5.118611,-38.148333,112,"SA","BR","BR-CE","Limoeiro do Norte","no",,,"SIFH","CE0135",,,
 337458,"BR-1240","small_airport","Ninho das Águias Conquista Airport",-14.963339,-40.814563,2897,"SA","BR","BR-BA","Vitória da Conquista","no",,,,,,,"{SIIN}"
 337459,"BR-1241","heliport","Riserva Golf Heliport",-23.004273,-43.401908,16,"SA","BR","BR-RJ","Rio de Janeiro","no",,,,,,,"SIKU"
-337460,"BR-1242","heliport","Fabio Fernando Franciscate Heliport",-23.048661,-45.683851,1919,"SA","BR","BR-SP","Caçapava","no",,,,,,,"SIKY"
+337460,"BR-1242","heliport","Mineração Paraíba Heliport",-23.048695,-45.683858,1775,"SA","BR","BR-SP","Caçapava","no",,,"SNV7","SP1487",,,"SIKY, Fabio Fernando Franciscate"
 337461,"BR-1243","small_airport","Fazenda Ouro Verde",-18.082415,-55.311444,551,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SINF"
 337462,"BR-1244","small_airport","Monte das Oliveiras (Comandante Sérgio) Airport",-1.862148,-44.872664,125,"SA","BR","BR-MA","Cururupu","no",,,"SD8H","MA0129",,,"SISN"
 337463,"BR-1245","heliport","Vokkan Vivapark Heliport",-27.161389,-48.605,23,"SA","BR","BR-SC","Porto Belo","no",,,"SIVE","SC0185",,,
@@ -15433,7 +15432,7 @@
 36582,"BR-2623","small_airport","Fazenda Belluno Airport",-27.824879,-49.236475,3445,"SA","BR","BR-SC","Alfredo Wagner","no",,,,"SJHN",,,"SJHN"
 36584,"BR-2624","small_airport","Monte Belo Airport",-20.276388,-53.661667,1624,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,,"SJHP",,,"SJHP"
 36587,"BR-2625","small_airport","Fazenda ANB Airport",-19.831666946411,-54.829444885254,1194,"SA","BR","BR-MS","Corguinho","no",,,,"SJHT",,,"SJHT"
-36589,"BR-2626","heliport","FIEP Heliport",-25.4487,-49.2442,2920,"SA","BR","BR-PR","Curitiba","no",,,,"PR0250",,,"SJHV"
+36589,"BR-2626","heliport","FIEP Heliport",-25.448697,-49.244206,2918,"SA","BR","BR-PR","Curitiba","no",,,"SNR4","PR0250",,,"SJHV"
 36592,"BR-2627","heliport","Paiva Air Heliport",-23.559168,-47.199722,2730,"SA","BR","BR-SP","Mairinque","no",,,,"SP0717",,,"SJHY, SNNA, BR-2627"
 36593,"BR-2628","small_airport","Fazenda Dois Netos Airport",-13.245555877686,-54.033889770508,1165,"SA","BR","BR-MT","Paranatinga","no",,,,"SJHZ",,,"SJHZ"
 36598,"BR-2629","small_airport","Grupo Scheffer Airport",-13.547941,-58.858556,1739,"SA","BR","BR-MT","Sapezal","no",,,,"MT0182",,,"SJIE, Aero Agrícola Sapezal, SJIF, BR-2629"
@@ -42949,7 +42948,7 @@
 4232,"LFSI","medium_airport","Saint-Dizier – Robinson Air Base",48.636002,4.89942,458,"EU","FR","FR-GES","Saint-Dizier","no",,,"LFSI",,,"https://en.wikipedia.org/wiki/Saint-Dizier_%E2%80%93_Robinson_Air_Base","BA 113"
 28999,"LFSJ","small_airport","Sédan Douzy Airfield",49.659698,5.03778,512,"EU","FR","FR-GES","Douzy","no",,,"LFSJ",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Sedan_-_Douzy",
 29000,"LFSK","small_airport","Vitry-le-François Vauclerc Airfield",48.702367,4.683109,410,"EU","FR","FR-GES","Vauclerc","no",,,"LFSK",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Vitry-le-Fran%C3%A7ois_-_Vauclerc",
-29001,"LFSL","medium_airport","Brive-Souillac",45.039722,1.485556,1016,"EU","FR","FR-NAQ","Brive la Gaillarde","yes","LFSL","BVE","LFSL",,"http://www.aeroport-brive-vallee-dordogne.fr","https://fr.wikipedia.org/wiki/Aéroport_de_Brive-Souillac","LFSL"
+29001,"LFSL","medium_airport","Brive-Souillac Airport",45.039722,1.485556,1016,"EU","FR","FR-NAQ","Brive la Gaillarde","yes","LFSL","BVE","LFSL",,"http://www.aeroport-brive-vallee-dordogne.fr","https://fr.wikipedia.org/wiki/Aéroport_de_Brive-Souillac","LFSL"
 4233,"LFSM","medium_airport","Montbéliard-Courcelles Airfield",47.487,6.79054,1041,"EU","FR","FR-BFC","Courcelles-lès-Montbéliard","no",,,"LFSM",,,"https://en.wikipedia.org/wiki/Montb%C3%A9liard_%E2%80%93_Courcelles_Aerodrome",
 4234,"LFSN","medium_airport","Nancy-Essey Airport",48.692101,6.23046,751,"EU","FR","FR-GES","Tomblaine, Meurthe-et-Moselle","no","LFSN","ENC","LFSN",,"https://www.nancy.aeroport.fr/","https://en.wikipedia.org/wiki/Nancy-Essey_Airport",
 4235,"LFSO","medium_airport","Nancy-Ochey (BA 133) Air Base",48.583099,5.955,1106,"EU","FR","FR-GES","Thuilley-aux-Groseilles","no",,,"LFSO",,,"https://en.wikipedia.org/wiki/Nancy_%E2%80%93_Ochey_Air_Base",
@@ -61184,6 +61183,9 @@
 598070,"SNV2","small_airport","Fazenda Vó Luzia Airport",-11.495585,-57.888733,922,"SA","BR","BR-MT","Juara","no",,,"SNV2","MT1100",,,
 598072,"SNV3","heliport","Miguel Pereira Hospital Heliport",-22.450656,-43.456744,2034,"SA","BR","BR-RJ","Miguel Pereira","no",,,"SNV3","RJ0392",,,
 598073,"SNV4","small_airport","Fazenda Boa Vista Airstrip",-15.873589,-53.255914,1779,"SA","BR","BR-MT","Tesouro","no",,,"SNV4","MT1112",,,
+598188,"SNV6","small_airport","Fazenda Vitória Airport",-3.315799,-39.883598,200,"SA","BR","BR-CE","Amontada","no",,,"SNV6","CE0179",,,
+598189,"SNV8","heliport","Fazenda São Jorge Heliport",-13.564426,-49.537698,1234,"SA","BR","BR-GO","Porangatu","no",,,"SNV8","GO0399",,,
+598190,"SNV9","heliport","Itanhagá Heliport",-23.060922,-47.187574,2119,"SA","BR","BR-SP","Indaiatuba","no",,,"SNV9","SP0376",,,
 37290,"SNVA","small_airport","Fazenda Bela Vista Airport",-7.987500190734863,-50.63166809082031,1037,"SA","BR","BR-PA","Cumaru Do Norte","no",,,"SNVA",,,,
 412,"SNVB","small_airport","Valença Airport",-13.2965,-38.992401,21,"SA","BR","BR-BA","Valença","yes","SNVB","VAL","SNVB","SNVB",,"https://en.wikipedia.org/wiki/Valen%C3%A7a_Airport",
 37291,"SNVC","small_airport","Viçosa Airport",-20.744722,-42.841946,2162,"SA","BR","BR-MG","Viçosa","no",,,"SNVC",,,"https://pt.wikipedia.org/wiki/Aeroporto_de_Vi%C3%A7osa",
@@ -79705,13 +79707,13 @@
 41470,"WIPY","small_airport","Atung Bungsu Airport",-4.0225,103.379167,40,"AS","ID","ID-SS","Bentayan","no","WIPY","PXA","WIPY",,,"https://en.wikipedia.org/wiki/Atung_Bungsu_Airport","Pagar Alam, Lahat"
 526445,"WISA","small_airport","Smart Semelagi Airport",1.000556,109.046387,10,"AS","ID","ID-KB",,"no",,,"WISA",,,,
 41471,"WITA","small_airport","Teuku Cut Ali Airport",3.16904,97.288299,17,"AS","ID","ID-AC","Tapaktuan","no",,"TPK","WIMT",,,"http://id.wikipedia.org/wiki/Bandar_Udara_Teuku_Cut_Ali","WITA"
-31889,"WITC","medium_airport","Cut Nyak Dhien Airport",4.040631,96.253538,10,"AS","ID","ID-AC","Kuala Pesisir","yes","WITC","MEQ","WITC",,,"https://en.wikipedia.org/wiki/Cut_Nyak_Dhien_Airport",
-32655,"WITG","small_airport","Lasikin Airport",2.410916,96.326766,19,"AS","ID","ID-AC","Lubang","yes",,"LKI","WIML",,,,"WITG"
+31889,"WITC","medium_airport","Cut Nyak Dhien Airport",4.040998,96.253312,10,"AS","ID","ID-AC","Kuala Pesisir","yes","WITC","MEQ","WITC",,,"https://en.wikipedia.org/wiki/Cut_Nyak_Dhien_Airport",
+32655,"WITG","small_airport","Lasikin Airport",2.411328,96.327722,19,"AS","ID","ID-AC","Lubang","yes",,"LKI","WIML",,,,"WITG"
 333093,"WITK","medium_airport","Rembele Airport",4.72113,96.851943,4648,"AS","ID","ID-AC","Takengon","yes","WITK","TXE","WITK",,,"https://en.wikipedia.org/wiki/Rembele_Airport",
 26860,"WITL","medium_airport","Lhok Sukon Airport",5.06951,97.259201,28,"AS","ID","ID-AC","Lhok Sukon-Sumatra Island","no","WITL","LSX","WITL",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Lhok_Sukon",
 26859,"WITN","small_airport","Maimun Saleh Airport",5.874668,95.33967,393,"AS","ID","ID-AC","Sabang","no","WITN","SBG","WITN",,,"https://en.wikipedia.org/wiki/Maimun_Saleh_Airport","WIAA, WITB"
 41472,"WITS","small_airport","Seumayam Airport",3.75,96.63333129882812,53,"AS","ID","ID-AC","Seumayam-Sumatra Island","no",,,"WITS",,,,
-26862,"WITT","medium_airport","Sultan Iskandar Muda International Airport",5.522872024010001,95.42063713070002,65,"AS","ID","ID-AC","Banda Aceh","yes","WITT","BTJ","WITT",,,"https://en.wikipedia.org/wiki/Sultan_Iskandar_Muda_International_Airport","WIAB"
+26862,"WITT","medium_airport","Sultan Iskandar Muda International Airport",5.525087,95.41997,65,"AS","ID","ID-AC","Banda Aceh","yes","WITT","BTJ","WITT",,,"https://en.wikipedia.org/wiki/Sultan_Iskandar_Muda_International_Airport","WIAB"
 41323,"WMAB","small_airport","Batu Pahat Airport",1.74666,102.987976,30,"AS","MY","MY-01","Batu Pahat","no",,,"WMAB",,,,
 32660,"WMAC","small_airport","Benta Airport",4.048643,101.985569,250,"AS","MY","MY-06","Benta","no",,,"WMAC",,,,
 32662,"WMAE","small_airport","Bidor Airport",4.11638879776001,101.28199768066406,128,"AS","MY","MY-08","Bidor","no",,,"WMAE",,,,
@@ -79851,7 +79853,7 @@
 41483,"WRLA","small_airport","Sanggata/Sangkimah Airport",0.3847,117.543,60,"AS","ID","ID-KI","Sanggata/Sangkimah","no",,"SGQ","WALA",,,"http://id.wikipedia.org/wiki/Bandar_Udara_Sangkimah","WRLA, Pertamina"
 35279,"WRLB","small_airport","Yuvai Semaring Airport",3.900495,115.690089,2540,"AS","ID","ID-KU","Long Bawan","yes","WAQJ","LBW","WAQJ",,,"https://en.wikipedia.org/wiki/Juvai_Semaring_Airport","WRLB, Juvai Semaring Airport, Yuvai Semaring, Long Bawang"
 30806,"WRLC","small_airport","LNG Badak Airport",0.121656,117.476558,49,"AS","ID","ID-KI","Bontang-Borneo Island","yes","WALC","BXT","WALC",,,"https://en.wikipedia.org/wiki/PT_Badak_Bontang_Airport","WRLC"
-35281,"WRLF","small_airport","Nunukan Airport",4.134001,117.669546,59,"AS","ID","ID-KU","Nunukan-Nunukan Island","no","WAQU","NNX","WAQA",,,"https://en.wikipedia.org/wiki/Nunukan_Airport","WRLF, WALF"
+35281,"WRLF","small_airport","Nunukan Airport",4.134001,117.669546,59,"AS","ID","ID-KU","Nunukan-Nunukan Island","no","WAQA","NNX","WAQA",,,"https://en.wikipedia.org/wiki/Nunukan_Airport","WRLF, WALF"
 41484,"WRLH","small_airport","Tanah Grogot Airport",-1.885541,116.256809,17,"AS","ID","ID-KI","Tanah Grogot","no","WRLH","TNB","WRLH",,,,
 311283,"WRLJ","small_airport","Tanjung Bara Airport",0.5605,117.64435,48,"AS","ID","ID-KI","Sangata","no",,,"WALB",,,"http://id.wikipedia.org/wiki/Bandar_Udara_Tanjung_Bara",
 41487,"WRLN","small_airport","Long Mawang Airport",1.7992,114.9043,1976,"AS","ID","ID-KU","Long Mawang-Borneo Island","no",,,"WALN",,,,"WRLN, Long Nawang"
