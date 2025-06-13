@@ -134,6 +134,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 16174,AK81,seaplane_base,Amook Bay Seaplane Base,57.4715003967,-153.815002441,,NA,US,US-AK,Amook Bay,yes,,AOS,AK81,AK81,,https://en.wikipedia.org/wiki/Amook_Bay_Seaplane_Base,
 16188,AK97,small_airport,Boswell Bay Airport,60.4230995178,-146.145996094,230,NA,US,US-AK,Boswell Bay,no,,BSW,AK97,AK97,,https://en.wikipedia.org/wiki/Boswell_Bay_Airport,
 301754,AKM,small_airport,Zakuoma Airport,10.8902777778,19.8172222222,1370,AF,TD,TD-SA,ZaKouma,no,,AKM,,,,https://en.wikipedia.org/wiki/Zakouma_Airport,
+325354,AL-0003,medium_airport,Vlora International Airport,40.605367,19.426095,8,EU,AL,AL-12,Akerni,no,LAVL,VLO,,,,https://en.wikipedia.org/wiki/Vlora_International_Airport,Mifoit Air Base
 16289,ALZ,seaplane_base,Alitak Seaplane Base,56.897294,-154.249692,,NA,US,US-AK,Lazy Bay,yes,,ALZ,,ALZ,,https://en.wikipedia.org/wiki/Alitak_Seaplane_Base,
 301755,AME,small_airport,Alto Molocue Airport,-15.6102777778,37.6813888889,1950,AF,MZ,MZ-Q,Alto Molocue,no,,AME,,,,,
 301758,AMY,small_airport,Ambatomainty Airport,-17.686667,45.623889,1025,AF,MG,MG-M,,no,FMMB,AMY,FMMB,,,https://en.wikipedia.org/wiki/Ambatomainty_Airport,
@@ -155,6 +156,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 35404,AR-0010,small_airport,General Villegas Airport,-34.995728,-62.999725,383,SA,AR,AR-B,General Villegas,no,,VGS,,GAS,,https://en.wikipedia.org/wiki/General_Villegas_Airport,
 35405,AR-0011,small_airport,Los Menucos Airport,-40.817699,-68.074699,2571,SA,AR,AR-R,Los Menucos,no,,LMD,,MCO,,https://en.wikipedia.org/wiki/Los_Menucos_Airport,
 35412,AR-0017,small_airport,Valcheta Airport,-40.700001,-66.150002,629,SA,AR,AR-R,Valcheta,no,,VCF,,VAL,,https://en.wikipedia.org/wiki/Valcheta_Airport,
+38905,AR-0230,small_airport,La Paz Aeroclub Airport,-30.7442,-59.5683,200,SA,AR,AR-E,La Paz,no,SLAZ,LPZ,,SALAZ,,https://en.wikipedia.org/wiki/La_Paz_Aeroclub,
 42812,AR-0390,small_airport,Carmen de Patagones Airport,-40.7781,-62.9803,131,SA,AR,AR-B,Carmen de Patagones,no,,CPG,SA3R,PAT,,https://en.wikipedia.org/wiki/Carmen_de_Patagones_Airport,
 301707,ARP,small_airport,Aragip Airport,-9.88333333333,149.483333333,1750,OC,PG,PG-MBA,,no,,ARP,,AGP,,,
 301732,ASZ,small_airport,Asirim Airport,-6.009722222220001,150.368611111,1050,OC,PG,PG-WBK,,no,,ASZ,,ASM,,,
@@ -5157,7 +5159,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4226,LFSB,large_airport,EuroAirport Basel-Mulhouse-Freiburg,47.60068,7.521117,885,EU,FR,FR-GES,Saint-Louis,yes,LFSB,BSL,LFSB,,http://www.euroairport.com/,https://en.wikipedia.org/wiki/EuroAirport_Basel-Mulhouse-Freiburg,"MLH, EAP, LSZM, Bâle, Basle"
 4228,LFSD,medium_airport,Dijon-Bourgogne Airport,47.268902,5.09,726,EU,FR,FR-BFC,"Ouges, Côte-d'Or",yes,LFSD,DIJ,LFSD,,http://www.aeroport.dijon.cci.fr/,https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Dijon-Bourgogne,BA 102
 4230,LFSG,medium_airport,Épinal-Mirecourt Airport,48.325001,6.06998,1084,EU,FR,FR-GES,"Juvaincourt, Vosges",no,LFSG,EPL,LFSG,,http://www.epinal-mirecourt.aeroport.fr,https://en.wikipedia.org/wiki/%C3%89pinal_%E2%80%93_Mirecourt_Airport,
-29001,LFSL,medium_airport,Brive-Souillac,45.039722,1.485556,1016,EU,FR,FR-NAQ,Brive la Gaillarde,yes,LFSL,BVE,LFSL,,http://www.aeroport-brive-vallee-dordogne.fr,https://fr.wikipedia.org/wiki/Aéroport_de_Brive-Souillac,LFSL
+29001,LFSL,medium_airport,Brive-Souillac Airport,45.039722,1.485556,1016,EU,FR,FR-NAQ,Brive la Gaillarde,yes,LFSL,BVE,LFSL,,http://www.aeroport-brive-vallee-dordogne.fr,https://fr.wikipedia.org/wiki/Aéroport_de_Brive-Souillac,LFSL
 4234,LFSN,medium_airport,Nancy-Essey Airport,48.692101,6.23046,751,EU,FR,FR-GES,"Tomblaine, Meurthe-et-Moselle",no,LFSN,ENC,LFSN,,https://www.nancy.aeroport.fr/,https://en.wikipedia.org/wiki/Nancy-Essey_Airport,
 4238,LFST,medium_airport,Strasbourg Airport,48.538299560546875,7.628230094909668,505,EU,FR,FR-GES,Strasbourg,yes,LFST,SXB,LFST,,http://www.strasbourg.aeroport.fr/E/index.php,https://en.wikipedia.org/wiki/Strasbourg_Airport,BA 124
 4241,LFTH,medium_airport,Toulon-Hyères Airport,43.097301,6.14603,7,EU,FR,FR-PAC,"Hyères, Var",yes,LFTH,TLN,LFTH,,http://toulon-hyeres.aeroport.fr/,https://en.wikipedia.org/wiki/Toulon-Hy%C3%A8res_Airport,"La Palyvestre, Toulon"
@@ -9188,12 +9190,12 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26858,WIPT,medium_airport,Minangkabau International Airport,-0.786917,100.280998,18,AS,ID,ID-SB,Padang (Katapiang),yes,WIEE,PDG,WIEE,,http://minangkabau-airport.co.id/en/general/about-us,https://en.wikipedia.org/wiki/Minangkabau_International_Airport,
 41470,WIPY,small_airport,Atung Bungsu Airport,-4.0225,103.379167,40,AS,ID,ID-SS,Bentayan,no,WIPY,PXA,WIPY,,,https://en.wikipedia.org/wiki/Atung_Bungsu_Airport,"Pagar Alam, Lahat"
 41471,WITA,small_airport,Teuku Cut Ali Airport,3.16904,97.288299,17,AS,ID,ID-AC,Tapaktuan,no,,TPK,WIMT,,,http://id.wikipedia.org/wiki/Bandar_Udara_Teuku_Cut_Ali,WITA
-31889,WITC,medium_airport,Cut Nyak Dhien Airport,4.040631,96.253538,10,AS,ID,ID-AC,Kuala Pesisir,yes,WITC,MEQ,WITC,,,https://en.wikipedia.org/wiki/Cut_Nyak_Dhien_Airport,
-32655,WITG,small_airport,Lasikin Airport,2.410916,96.326766,19,AS,ID,ID-AC,Lubang,yes,,LKI,WIML,,,,WITG
+31889,WITC,medium_airport,Cut Nyak Dhien Airport,4.040998,96.253312,10,AS,ID,ID-AC,Kuala Pesisir,yes,WITC,MEQ,WITC,,,https://en.wikipedia.org/wiki/Cut_Nyak_Dhien_Airport,
+32655,WITG,small_airport,Lasikin Airport,2.411328,96.327722,19,AS,ID,ID-AC,Lubang,yes,,LKI,WIML,,,,WITG
 333093,WITK,medium_airport,Rembele Airport,4.72113,96.851943,4648,AS,ID,ID-AC,Takengon,yes,WITK,TXE,WITK,,,https://en.wikipedia.org/wiki/Rembele_Airport,
 26860,WITL,medium_airport,Lhok Sukon Airport,5.06951,97.259201,28,AS,ID,ID-AC,Lhok Sukon-Sumatra Island,no,WITL,LSX,WITL,,,https://id.wikipedia.org/wiki/Bandar_Udara_Lhok_Sukon,
 26859,WITN,small_airport,Maimun Saleh Airport,5.874668,95.33967,393,AS,ID,ID-AC,Sabang,no,WITN,SBG,WITN,,,https://en.wikipedia.org/wiki/Maimun_Saleh_Airport,"WIAA, WITB"
-26862,WITT,medium_airport,Sultan Iskandar Muda International Airport,5.522872024010001,95.42063713070002,65,AS,ID,ID-AC,Banda Aceh,yes,WITT,BTJ,WITT,,,https://en.wikipedia.org/wiki/Sultan_Iskandar_Muda_International_Airport,WIAB
+26862,WITT,medium_airport,Sultan Iskandar Muda International Airport,5.525087,95.41997,65,AS,ID,ID-AC,Banda Aceh,yes,WITT,BTJ,WITT,,,https://en.wikipedia.org/wiki/Sultan_Iskandar_Muda_International_Airport,WIAB
 41326,WMAN,small_airport,Sungai Tiang Airport,4.330277919769287,102.3949966430664,10,AS,MY,MY-06,Taman Negara,no,WMAN,SXT,WMAN,,,,
 31888,WMAU,small_airport,Mersing Airport,2.389148,103.874183,10,AS,MY,MY-01,Mersing,no,WMAU,MEP,WMAU,,,https://en.wikipedia.org/wiki/Mersing_Airport,
 32404,WMBA,small_airport,Sitiawan Airport,4.2222,100.6993,25,AS,MY,MY-08,Sitiawan,no,WMBA,SWY,WMBA,,,https://en.wikipedia.org/wiki/Sitiawan_Airport,
@@ -9226,7 +9228,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41483,WRLA,small_airport,Sanggata/Sangkimah Airport,0.3847,117.543,60,AS,ID,ID-KI,Sanggata/Sangkimah,no,,SGQ,WALA,,,http://id.wikipedia.org/wiki/Bandar_Udara_Sangkimah,"WRLA, Pertamina"
 35279,WRLB,small_airport,Yuvai Semaring Airport,3.900495,115.690089,2540,AS,ID,ID-KU,Long Bawan,yes,WAQJ,LBW,WAQJ,,,https://en.wikipedia.org/wiki/Juvai_Semaring_Airport,"WRLB, Juvai Semaring Airport, Yuvai Semaring, Long Bawang"
 30806,WRLC,small_airport,LNG Badak Airport,0.121656,117.476558,49,AS,ID,ID-KI,Bontang-Borneo Island,yes,WALC,BXT,WALC,,,https://en.wikipedia.org/wiki/PT_Badak_Bontang_Airport,WRLC
-35281,WRLF,small_airport,Nunukan Airport,4.134001,117.669546,59,AS,ID,ID-KU,Nunukan-Nunukan Island,no,WAQU,NNX,WAQA,,,https://en.wikipedia.org/wiki/Nunukan_Airport,"WRLF, WALF"
+35281,WRLF,small_airport,Nunukan Airport,4.134001,117.669546,59,AS,ID,ID-KU,Nunukan-Nunukan Island,no,WAQA,NNX,WAQA,,,https://en.wikipedia.org/wiki/Nunukan_Airport,"WRLF, WALF"
 41484,WRLH,small_airport,Tanah Grogot Airport,-1.885541,116.256809,17,AS,ID,ID-KI,Tanah Grogot,no,WRLH,TNB,WRLH,,,,
 35278,WRLP,small_airport,Long Apung Airport,1.704486,114.970297,2437,AS,ID,ID-KU,Long Apung-Borneo Island,yes,WAQL,LPU,WAQL,,,https://en.wikipedia.org/wiki/Long_Apung_Airport,
 41489,WRLW,small_airport,Muara Wahau Airport,1.193225,116.955886,205,AS,ID,ID-KI,Miau Baru,no,WALW,,WALW,,,,WRLW
