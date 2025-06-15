@@ -1,4 +1,9 @@
 "id", "threadRef", "airportRef", "airportIdent", "date", "memberNickname", "subject", "body"
+598219,82567,3980,"LCLK","2025-06-13 13:32:56","Leslie","CYPRUS is in the Wrong Continent","Not just this airport but since Cyprus is classed as Europe not Asia as the ICAo code are for the Europe region  L. as in  LC prefix
+The error is probably in the Countries file used  as it is listed as 
+302629,""CY"",""Cyprus"",""AS"",""
+
+With the AS meaning Asia it should be EU for Europe"
 598164,82272,315715,"ES-0024","2025-06-10 19:40:29","P_A_W","re: General Enquiry.","Reply to @QUIK-R-912S: 
 
 Hi Carl,
