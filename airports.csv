@@ -5324,6 +5324,7 @@
 11965,"53MI","heliport","Huron Valley Sinai Hospital Heliport",42.59389877319336,-83.49919891357422,980,"NA","US","US-MI","Commerce","no",,,"53MI","53MI",,,
 11966,"53MN","small_airport","Radloff's Cedar View Farms Airport",43.5458984375,-93.02660369873047,1240,"NA","US","US-MN","Lyle","no",,,"53MN","53MN",,,
 11967,"53MO","heliport","Help Heliport",37.152000427246094,-90.0708999633789,475,"NA","US","US-MO","Zalma","no",,,"53MO","53MO",,,
+598266,"53MT","small_airport","Pass Creek Airport",45.986548,-111.117296,5229,"NA","US","US-MT","Belgrade","no",,,"53MT","53MT",,,
 11968,"53NC","small_airport","Mynatt Field",34.378721,-79.079343,95,"NA","US","US-NC","Orrum","no",,,"53NC","53NC",,,
 11969,"53ND","small_airport","R. Leep Strip",47.548099517822266,-99.94709777832031,1894,"NA","US","US-ND","Hurdsfield","no",,,"53ND","53ND",,,
 11970,"53NE","small_airport","Starns Brothers Airport",41.08140182495117,-96.40339660644531,1090,"NA","US","US-NE","Ashland","no",,,"53NE","53NE",,,
@@ -5786,7 +5787,7 @@
 347159,"5KY1","heliport","Flaget Memorial Hospital Heliport",37.861082,-85.523157,722,"NA","US","US-KY","Bardstown","no",,,"5KY1","5KY1",,,
 18493,"5KY4","small_airport","Standard Field",36.801828,-87.176428,665,"NA","US","US-KY","Elkton","no",,,"5KY4","5KY4","http://kentuckybill.com/standardfield5ky4.html",,"1M6"
 12444,"5KY5","small_airport","Lowe Airport",36.86244,-87.790021,498,"NA","US","US-KY","Cadiz","no",,,"5KY5","5KY5",,,
-45430,"5KY6","small_airport","Jake's Field",38.420556,-85.257778,903,"NA","US","US-KY","Smithfield","no",,,"5KY6","5KY6",,,
+45430,"5KY6","closed","Jake's Field",38.420556,-85.257778,903,"NA","US","US-KY","Smithfield","no",,,,,,,"5KY6"
 18777,"5KY7","small_airport","Spring Creek Airpark",36.638832,-85.164271,991,"NA","US","US-KY","Albany","no",,,"7KY4","7KY4",,,"44I, 5KY7, Dale Hollow Regional, Petro Field"
 45425,"5KY8","small_airport","Harold Reynolds Airport",37.889722,-84.927778,860,"NA","US","US-KY","Harrodsburg","no",,,"5KY8","5KY8",,,
 12446,"5L6","seaplane_base","Wasilla Lake Seaplane Base",61.5863990784,-149.408004761,330,"NA","US","US-AK","Wasilla","no",,,"5L6","5L6",,,
@@ -9794,7 +9795,7 @@
 301754,"AKM","small_airport","Zakuoma Airport",10.8902777778,19.8172222222,1370,"AF","TD","TD-SA","ZaKouma","no",,"AKM",,,,"https://en.wikipedia.org/wiki/Zakouma_Airport",
 35356,"AL-0001","heliport","Lapraka Heliport",41.330782,19.795152,297,"EU","AL","AL-11","Tirana","no",,,,,,"https://en.wikipedia.org/wiki/Lapraka_Airfield","Lapraka Airfield, Tirana Aerodrome, OOH, ZOOH"
 325353,"AL-0002","closed","Korroticës së Ulët Airport",42.605253,20.910351,1962,"EU","XK","XK-01","Korroticë e Poshtme","no",,,,,,,"Korroticës së Ulët, Lower Korotica"
-325354,"AL-0003","medium_airport","Vlora International Airport",40.605367,19.426095,8,"EU","AL","AL-12","Akerni","no","LAVL","VLO",,,,"https://en.wikipedia.org/wiki/Vlora_International_Airport","Mifoit Air Base"
+325354,"AL-0003","closed","Vlora International Airport (construction)",40.605367,19.426095,8,"EU","AL","AL-12","Akerni","no",,,,,,"https://en.wikipedia.org/wiki/Vlora_International_Airport","Mifoit Air Base, LAVL, VLO"
 340588,"AL-0004","heliport","Mother Teresa Hospital Heliport",41.339303,19.830489,420,"EU","AL","AL-11","Tirana","no",,,,,,,
 340589,"AL-0005","heliport","University Trauma Hospital Heliport",41.342857,19.793764,295,"EU","AL","AL-11","Tirana","no",,,,,,,
 349286,"AL-0006","heliport","Pogradec Heliport",40.90539,20.65453,2277,"EU","AL","AL-06","Pogradec","no",,,,,,,
@@ -20580,6 +20581,7 @@
 355234,"CY-0085","heliport","Skyriders Aero Sport Club Helipad",34.747472,32.44662,20,"AS","CY","CY-06","Yeroskipou","no",,,,,,,
 35128,"CY-0087","closed","Nicosia International Airport",35.154952,33.272855,722,"AS","CY","CY-02","Nicosia","no",,,,,,"https://en.wikipedia.org/wiki/Nicosia_International_Airport","RAF Nicosia, Lefkosia, NIC.OLD, LCNC, NIC, CY-NIC"
 598084,"CY-0088","heliport","KEN Limassol Helipad",34.710048,33.016347,352,"AS","CY","CY-05","Limassol","no",,,,,,,"Λεμεσού"
+598276,"CY-0089","small_airport","Unmanned Systems Research Laboratory (USRL) Runway",35.095038,33.08165,,"AS","CY","CY-02","Orounta","no",,,,,,,
 46596,"CYAB","small_airport","Arctic Bay Airport",73.006101,-85.04616,72,"NA","CA","CA-NU","Arctic Bay","yes","CYAB","YAB","CYAB",,,"https://en.wikipedia.org/wiki/Arctic_Bay_Airport","CJX7"
 1652,"CYAC","small_airport","Cat Lake Airport",51.7272,-91.824402,1344,"NA","CA","CA-ON","Cat Lake","yes","CYAC","YAC","CYAC",,,"https://en.wikipedia.org/wiki/Cat_Lake_Airport",
 1653,"CYAD","small_airport","La Grande-3 Airport",53.5717010498,-76.19640350339999,775,"NA","CA","CA-QC","La Grande-3","no","CYAD","YAR","CYAD","YAD",,"https://en.wikipedia.org/wiki/La_Grande-3_Airport","YAD"
@@ -24051,7 +24053,7 @@
 2547,"EKLS","small_airport","Læsø Airport",57.277199,11.0001,25,"EU","DK","DK-81","Læsø","yes","EKLS","BYR","EKLS",,,"https://en.wikipedia.org/wiki/L%C3%A6s%C3%B8_Airport","Laeso, Laesoe"
 29240,"EKLV","small_airport","Lemvig Airfield",56.502998,8.31133,97,"EU","DK","DK-82","Lemvig","no",,,"EKLV",,"http://www.eklv.dk/","https://en.wikipedia.org/wiki/Lemvig_Airfield",
 2548,"EKMB","medium_airport","Lolland Falster Maribo Airport",54.699447,11.438163,16,"EU","DK","DK-85","Rødby","no","EKMB","MRW","EKMB",,"http://www.lollandfalsterairport.dk/","https://en.wikipedia.org/wiki/Lolland_Falster_Airport",
-505342,"EKML","small_airport","Måløv Ultralight Airfield",55.75179,12.279022,56,"EU","DK","DK-84","Måløv","no",,,"EKML",,,,"UL Flyveklubben Albatros"
+505342,"EKML","closed","Måløv Ultralight Airfield",55.75179,12.279022,56,"EU","DK","DK-84","Måløv","no",,,,,,,"UL Flyveklubben Albatros, EKML"
 30041,"EKMN","small_airport","Kostervig Mon Airfield",54.96545,12.196483,3,"EU","DK","DK-85","Stege","no",,,"EKMN",,"http://www.ekmn.dk/",,
 44041,"EKMS","heliport","Mykines Heliport",62.102169,-7.645934,110,"EU","FO","FO-U-A","Mykines","yes",,,"EKMS",,,,
 44018,"EKNI","heliport","Nini Helideck",56.640804290771484,5.32111120223999,,"EU","DK","DK-XX",,"no",,,"EKNI",,,,
@@ -29942,7 +29944,7 @@
 2383,"HEIS","medium_airport","Ismailia Air Base",30.597951,32.235689,43,"AF","EG","EG-IS","Ismailia","no",,,"HEIS",,,"https://en.wikipedia.org/wiki/Ismailia_Air_Base","RAF Ismailia, Al Ismailiya, Ismailia Airfield, القوات الجوية المصرية‎"
 3190,"HEKG","small_airport","El Kharja Airport",25.471483,30.588491,194,"AF","EG","EG-WAD","Kharja Oases","no","HEKG","UVL","HEKG",,,"https://en.wikipedia.org/wiki/El_Kharga_Airport",
 3191,"HELX","medium_airport","Luxor International Airport",25.671037,32.706451,276,"AF","EG","EG-LX","Luxor","yes","HELX","LXR","HELX",,,"https://en.wikipedia.org/wiki/Luxor_International_Airport",
-3192,"HEMA","medium_airport","Marsa Alam International Airport",25.555548,34.59245,213,"AF","EG","EG-BA","Marsa Alam","yes","HEMA","RMF","HEMA",,"http://www.marsa-alam-airport.com","https://en.wikipedia.org/wiki/Marsa_Alam_International_Airport",
+3192,"HEMA","medium_airport","Marsa Alam International Airport",25.555548,34.59245,213,"AF","EG","EG-BA","Marsa Alam","yes","HEMA","RMF","HEMA",,"https://www.marsaalam-airport.com","https://en.wikipedia.org/wiki/Marsa_Alam_International_Airport","marsa alam, marsa alam airport"
 3193,"HEMM","medium_airport","Marsa Matruh International Airport",31.325464,27.221716,75,"AF","EG","EG-MT","Marsa Matruh","yes","HEMM","MUH","HEMM",,,"https://en.wikipedia.org/wiki/Mersa_Matruh_Airport",
 307695,"HEO","small_airport","Haelogo Airport",-9.13658,147.598434,3217,"OC","PG","PG-CPM","Haelogo","no",,"HEO","AYHG","HLG",,"https://en.wikipedia.org/wiki/Haelogo_Airport","Haelago"
 3194,"HEOC","small_airport","October Airport",29.812707,30.823461,774,"AF","EG","EG-C","6th of October","no","HEOC",,"HEOC",,,,
@@ -29951,7 +29953,7 @@
 3197,"HESC","medium_airport","Saint Catherine International Airport",28.684601,34.062681,4402,"AS","EG","EG-JS","Saint Catherine","no","HESC","SKV","HESC",,,"https://en.wikipedia.org/wiki/St._Catherine_International_Airport",
 300893,"HESG","large_airport","Suhaj Mubarak International Airport",26.342515,31.743017,322,"AF","EG","EG-SHG","Suhaj","yes","HESG","HMB","HESG",,,"https://en.wikipedia.org/wiki/Sohag_International_Airport","HEMK, Mubarak International Airport"
 3198,"HESH","large_airport","Sharm El Sheikh International Airport",27.977272,34.394717,191,"AS","EG","EG-JS","Sharm El Sheikh","yes","HESH","SSH","HESH",,,"https://en.wikipedia.org/wiki/Sharm_el-Sheikh_International_Airport",
-3199,"HESN","medium_airport","Aswan International Airport",23.968137,32.824445,650,"AF","EG","EG-ASN","Aswan","yes","HESN","ASW","HESN",,,"https://en.wikipedia.org/wiki/Aswan_International_Airport",
+3199,"HESN","medium_airport","Aswan International Airport",23.968137,32.824445,650,"AF","EG","EG-ASN","Aswan","yes","HESN","ASW","HESN",,"https://aswan-airport.com","https://en.wikipedia.org/wiki/Aswan_International_Airport","aswan airport"
 32285,"HESW","small_airport","Siwa Oasis North Airport",29.346234,25.505624,289,"AF","EG","EG-MT","Siwa Oasis","yes",,"SEW","HESW",,,,"HE24"
 335334,"HESX","medium_airport","Sphinx International Airport",30.108078,30.889252,482,"AF","EG","EG-GZ","Al Jiza","yes","HESX","SPX","HESX",,,"https://en.wikipedia.org/wiki/Sphinx_International_Airport",
 3200,"HETB","medium_airport","Taba International Airport",29.594496,34.775752,2425,"AS","EG","EG-JS","Taba","yes","HETB","TCP","HETB",,,"https://en.wikipedia.org/wiki/Taba_International_Airport",
@@ -50356,7 +50358,7 @@
 5762,"OE55","small_airport","Aradah Airport",21.226999,55.2673,699,"AS","SA","SA-04","Ardah","no",,,"OEAD",,,,"OE55, Ghafah Airport"
 5763,"OE56","small_airport","Shubaytah Airport",22.709952,53.281131,305,"AS","SA","SA-04","Shubaytah","no",,,"OEST",,,,"OE56, Khalfan"
 5081,"OEAA","small_airport","Abu Ali Airport",27.319099,49.587101,69,"AS","SA","SA-04","Al Jubail","no",,,"OEAA",,,"https://en.wikipedia.org/wiki/Abu_Ali_Airport",
-5082,"OEAB","medium_airport","Abha International Airport",18.2404,42.656601,6858,"AS","SA","SA-14","Abha","yes","OEAB","AHB","OEAB",,,"https://en.wikipedia.org/wiki/Abha_International_Airport","Abha Regional Airport"
+5082,"OEAB","large_airport","Abha International Airport",18.2404,42.656601,6858,"AS","SA","SA-14","Abha","yes","OEAB","AHB","OEAB",,"https://abha-airport.com","https://en.wikipedia.org/wiki/Abha_International_Airport","Abha International Airport"
 5083,"OEAH","medium_airport","Al-Ahsa International Airport",25.285299,49.485199,588,"AS","SA","SA-04","Hofuf","yes","OEAH","HOF","OEAH",,,"https://en.wikipedia.org/wiki/Al-Ahsa_Domestic_Airport",
 300611,"OEAO","medium_airport","Majeed Bin Abdulaziz Airport",26.483333,38.116944,2050,"AS","SA","SA-03","Al Ula","yes","OEAO","ULH","OEAO",,,"https://en.wikipedia.org/wiki/Prince_Abdul_Majeed_bin_Abdulaziz_Domestic_Airport",
 5084,"OEBA","medium_airport","King Saud Bin Abdulaziz (Al Baha) Airport",20.298506,41.636153,5486,"AS","SA","SA-11","Al-Baha","yes","OEBA","ABT","OEBA",,,"https://en.wikipedia.org/wiki/Al-Baha_Domestic_Airport","Al-Aqiq"
