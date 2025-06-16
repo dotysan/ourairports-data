@@ -134,7 +134,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 16174,AK81,seaplane_base,Amook Bay Seaplane Base,57.4715003967,-153.815002441,,NA,US,US-AK,Amook Bay,yes,,AOS,AK81,AK81,,https://en.wikipedia.org/wiki/Amook_Bay_Seaplane_Base,
 16188,AK97,small_airport,Boswell Bay Airport,60.4230995178,-146.145996094,230,NA,US,US-AK,Boswell Bay,no,,BSW,AK97,AK97,,https://en.wikipedia.org/wiki/Boswell_Bay_Airport,
 301754,AKM,small_airport,Zakuoma Airport,10.8902777778,19.8172222222,1370,AF,TD,TD-SA,ZaKouma,no,,AKM,,,,https://en.wikipedia.org/wiki/Zakouma_Airport,
-325354,AL-0003,medium_airport,Vlora International Airport,40.605367,19.426095,8,EU,AL,AL-12,Akerni,no,LAVL,VLO,,,,https://en.wikipedia.org/wiki/Vlora_International_Airport,Mifoit Air Base
 16289,ALZ,seaplane_base,Alitak Seaplane Base,56.897294,-154.249692,,NA,US,US-AK,Lazy Bay,yes,,ALZ,,ALZ,,https://en.wikipedia.org/wiki/Alitak_Seaplane_Base,
 301755,AME,small_airport,Alto Molocue Airport,-15.6102777778,37.6813888889,1950,AF,MZ,MZ-Q,Alto Molocue,no,,AME,,,,,
 301758,AMY,small_airport,Ambatomainty Airport,-17.686667,45.623889,1025,AF,MG,MG-M,,no,FMMB,AMY,FMMB,,,https://en.wikipedia.org/wiki/Ambatomainty_Airport,
@@ -3021,7 +3020,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3188,HEGR,medium_airport,El Jora Airport,31.078138,34.153131,331,AS,EG,EG-SIN,El Jora,no,HEGR,EGH,HEGR,,,https://en.wikipedia.org/wiki/El_Gora_Airport,
 3190,HEKG,small_airport,El Kharja Airport,25.471483,30.588491,194,AF,EG,EG-WAD,Kharja Oases,no,HEKG,UVL,HEKG,,,https://en.wikipedia.org/wiki/El_Kharga_Airport,
 3191,HELX,medium_airport,Luxor International Airport,25.671037,32.706451,276,AF,EG,EG-LX,Luxor,yes,HELX,LXR,HELX,,,https://en.wikipedia.org/wiki/Luxor_International_Airport,
-3192,HEMA,medium_airport,Marsa Alam International Airport,25.555548,34.59245,213,AF,EG,EG-BA,Marsa Alam,yes,HEMA,RMF,HEMA,,http://www.marsa-alam-airport.com,https://en.wikipedia.org/wiki/Marsa_Alam_International_Airport,
+3192,HEMA,medium_airport,Marsa Alam International Airport,25.555548,34.59245,213,AF,EG,EG-BA,Marsa Alam,yes,HEMA,RMF,HEMA,,https://www.marsaalam-airport.com,https://en.wikipedia.org/wiki/Marsa_Alam_International_Airport,"marsa alam, marsa alam airport"
 3193,HEMM,medium_airport,Marsa Matruh International Airport,31.325464,27.221716,75,AF,EG,EG-MT,Marsa Matruh,yes,HEMM,MUH,HEMM,,,https://en.wikipedia.org/wiki/Mersa_Matruh_Airport,
 307695,HEO,small_airport,Haelogo Airport,-9.13658,147.598434,3217,OC,PG,PG-CPM,Haelogo,no,,HEO,AYHG,HLG,,https://en.wikipedia.org/wiki/Haelogo_Airport,Haelago
 3194,HEOC,small_airport,October Airport,29.812707,30.823461,774,AF,EG,EG-C,6th of October,no,HEOC,,HEOC,,,,
@@ -3030,7 +3029,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3197,HESC,medium_airport,Saint Catherine International Airport,28.684601,34.062681,4402,AS,EG,EG-JS,Saint Catherine,no,HESC,SKV,HESC,,,https://en.wikipedia.org/wiki/St._Catherine_International_Airport,
 300893,HESG,large_airport,Suhaj Mubarak International Airport,26.342515,31.743017,322,AF,EG,EG-SHG,Suhaj,yes,HESG,HMB,HESG,,,https://en.wikipedia.org/wiki/Sohag_International_Airport,"HEMK, Mubarak International Airport"
 3198,HESH,large_airport,Sharm El Sheikh International Airport,27.977272,34.394717,191,AS,EG,EG-JS,Sharm El Sheikh,yes,HESH,SSH,HESH,,,https://en.wikipedia.org/wiki/Sharm_el-Sheikh_International_Airport,
-3199,HESN,medium_airport,Aswan International Airport,23.968137,32.824445,650,AF,EG,EG-ASN,Aswan,yes,HESN,ASW,HESN,,,https://en.wikipedia.org/wiki/Aswan_International_Airport,
+3199,HESN,medium_airport,Aswan International Airport,23.968137,32.824445,650,AF,EG,EG-ASN,Aswan,yes,HESN,ASW,HESN,,https://aswan-airport.com,https://en.wikipedia.org/wiki/Aswan_International_Airport,aswan airport
 32285,HESW,small_airport,Siwa Oasis North Airport,29.346234,25.505624,289,AF,EG,EG-MT,Siwa Oasis,yes,,SEW,HESW,,,,HE24
 335334,HESX,medium_airport,Sphinx International Airport,30.108078,30.889252,482,AF,EG,EG-GZ,Al Jiza,yes,HESX,SPX,HESX,,,https://en.wikipedia.org/wiki/Sphinx_International_Airport,
 3200,HETB,medium_airport,Taba International Airport,29.594496,34.775752,2425,AS,EG,EG-JS,Taba,yes,HETB,TCP,HETB,,,https://en.wikipedia.org/wiki/Taba_International_Airport,
@@ -6332,7 +6331,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5080,OBBS,medium_airport,Sheik Isa Air Base,25.9184,50.590599,136,AS,BH,BH-14,Sitrah,no,OBBS,,OBBS,,,https://en.wikipedia.org/wiki/Shaikh_Isa_Air_Base,"Shakey's Pizza, Shaikh-Isa Air Base"
 319189,OBKH,small_airport,Sakhir Air Base,26.034533,50.524544,49,AS,BH,BH-14,Zallaq,no,OBKH,,OBKH,,,https://en.wikipedia.org/wiki/Sakhir_Air_Base,
 316826,OCS,small_airport,Corisco International Airport,0.9125,9.3304,55,AF,GQ,GQ-LI,Corisco Island,no,,OCS,FGCO,,,https://en.wikipedia.org/wiki/Corisco_International_Airport,
-5082,OEAB,medium_airport,Abha International Airport,18.2404,42.656601,6858,AS,SA,SA-14,Abha,yes,OEAB,AHB,OEAB,,,https://en.wikipedia.org/wiki/Abha_International_Airport,Abha Regional Airport
+5082,OEAB,large_airport,Abha International Airport,18.2404,42.656601,6858,AS,SA,SA-14,Abha,yes,OEAB,AHB,OEAB,,https://abha-airport.com,https://en.wikipedia.org/wiki/Abha_International_Airport,Abha International Airport
 5083,OEAH,medium_airport,Al-Ahsa International Airport,25.285299,49.485199,588,AS,SA,SA-04,Hofuf,yes,OEAH,HOF,OEAH,,,https://en.wikipedia.org/wiki/Al-Ahsa_Domestic_Airport,
 300611,OEAO,medium_airport,Majeed Bin Abdulaziz Airport,26.483333,38.116944,2050,AS,SA,SA-03,Al Ula,yes,OEAO,ULH,OEAO,,,https://en.wikipedia.org/wiki/Prince_Abdul_Majeed_bin_Abdulaziz_Domestic_Airport,
 5084,OEBA,medium_airport,King Saud Bin Abdulaziz (Al Baha) Airport,20.298506,41.636153,5486,AS,SA,SA-11,Al-Baha,yes,OEBA,ABT,OEBA,,,https://en.wikipedia.org/wiki/Al-Baha_Domestic_Airport,Al-Aqiq
