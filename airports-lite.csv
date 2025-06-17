@@ -2852,7 +2852,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3121,GMTT,large_airport,Tangier Ibn Battuta Airport,35.731741,-5.921459,62,AF,MA,MA-01,Tangier,yes,GMTT,TNG,GMTT,,,https://en.wikipedia.org/wiki/Tangier_Ibn_Battouta_Airport,"Tanger-Boukhalef Airport, Aéroport de Tanger-Ibn Battouta"
 17597,GNU,small_airport,Goodnews Airport,59.117561,-161.575241,15,NA,US,US-AK,Goodnews,yes,,GNU,GNU,GNU,,https://en.wikipedia.org/wiki/Goodnews_Airport,
 325736,GOBD,large_airport,Blaise Diagne International Airport,14.670878,-17.072829,290,AF,SN,SN-DK,Dakar,yes,GOBD,DSS,GOBD,,http://www.dakaraeroport.com/,https://en.wikipedia.org/wiki/Blaise_Diagne_International_Airport,diass airport
-6197,GODK,small_airport,Kolda/Sare Bidji Airport,12.8985,-14.9681,121,AF,SN,SN-KD,Kolda,no,,KDA,GOGK,,,https://en.wikipedia.org/wiki/Kolda_North_Airport,GODK
+6197,GODK,small_airport,Kolda Airport,12.8985,-14.9681,121,AF,SN,SN-KD,Kolda,no,GOGK,KDA,GOGK,,,https://en.wikipedia.org/wiki/Kolda_North_Airport,"GODK, Kolda/Sare, Kolda North"
 3122,GOGG,medium_airport,Ziguinchor Airport,12.5556,-16.281799,75,AF,SN,SN-ZG,Ziguinchor,no,GOGG,ZIG,GOGG,,,https://en.wikipedia.org/wiki/Ziguinchor_Airport,Basse Casamance
 3123,GOGS,medium_airport,Cap Skirring Airport,12.39533,-16.748,52,AF,SN,SN-ZG,Cap Skirring,yes,GOGS,CSK,GOGS,,,https://en.wikipedia.org/wiki/Cap_Skirring_Airport,
 525284,GOOG,small_airport,Linguère Airport,15.402134,-15.080629,66,AF,SN,SN-LG,Linguère,no,GOOG,,GOOG,,,https://en.wikipedia.org/wiki/Lingu%C3%A8re_Airport,
@@ -3209,6 +3209,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 301955,ID-0012,small_airport,Lasondre Airport,-0.01924,98.30097,30,AS,ID,ID-SU,Pulau-Pulau Batu,yes,WIMO,,WIMO,LSE,,https://en.wikipedia.org/wiki/Lasondre_Airport,Bandar Udara Lasondre
 310271,ID-0036,small_airport,Borme Airstrip,-4.394362,140.436348,3270,AS,ID,ID-PP,Borme,no,WAJY,,WAJY,BOR,,,WX51
 311154,ID-0139,small_airport,Syekh Hamzah Fansyuri Airport,2.269614,97.967863,17,AS,ID,ID-AC,Singkil,yes,WIMI,,WIMI,,,https://en.wikipedia.org/wiki/Syekh_Hamzah_Fansyuri_Airport,WT13
+311647,ID-0166,small_airport,Yigi Airstrip,-4.228468,138.393778,6100,AS,ID,ID-PP,Yigi,no,WRJV,,WRJV,YIG,,,WT74
 311871,ID-0172,small_airport,Enggano Airport,-5.305621,102.189546,36,AS,ID,ID-BE,Enggano,no,,ENG,WIGE,,,,
 352224,ID-0214,small_airport,Blangkejeren Airport,3.94548,97.35968,,AS,ID,ID-AC,Kabupaten Gayo Lues,no,,GYO,WIMG,,,,
 507227,ID-0277,large_airport,Dhoho International Airport,-7.750278,111.947222,380,AS,ID,ID-JI,Kediri,no,WARD,DHX,WARD,,https://www.kediri-airport.com/,https://en.wikipedia.org/wiki/Dhoho_International_Airport,Dhoho
@@ -7085,7 +7086,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5712,RPMZ,medium_airport,Zamboanga International Airport,6.92242,122.059998,33,AS,PH,PH-ZMC,Zamboanga,yes,RPMZ,ZAM,RPMZ,,http://www.zamboanga.net/airportinsert.htm,https://en.wikipedia.org/wiki/Zamboanga_International_Airport,
 5713,RPNS,small_airport,Siargao Airport,9.8591,126.014,10,AS,PH,PH-SUN,Del Carmen,yes,RPNS,IAO,RPNS,,,https://en.wikipedia.org/wiki/Siargao_Airport,Sayak Airport
 308149,RPSD,small_airport,Cesar Lim Rodriguez (Taytay-Sandoval) Airport,11.05065,119.519266,80,AS,PH,PH-PLW,Taytay,no,RPSD,RZP,RPSD,,,https://en.wikipedia.org/wiki/Taytay_Airport,
-336116,RPSP,medium_airport,Bohol-Panglao International Airport,9.573045,123.770143,42,AS,PH,PH-BOH,Panglao,yes,,TAG,RPSP,,,https://en.wikipedia.org/wiki/Bohol%E2%80%93Panglao_International_Airport,
+336116,RPSP,medium_airport,Bohol-Panglao International Airport,9.573045,123.770143,42,AS,PH,PH-BOH,Panglao,yes,RPSP,TAG,RPSP,,,https://en.wikipedia.org/wiki/Bohol%E2%80%93Panglao_International_Airport,
 333098,RPSV,small_airport,San Vicente Airport,10.524298,119.272899,24,AS,PH,PH-PLW,San Vicente,yes,RPSV,SWL,RPSV,,,https://en.wikipedia.org/wiki/San_Vicente_Airport,
 5715,RPUB,medium_airport,Loakan Airport,16.375034,120.619949,4251,AS,PH,PH-BAG,Baguio,yes,RPUB,BAG,RPUB,,,https://en.wikipedia.org/wiki/Loakan_Airport,Baguio Airport
 5716,RPUD,medium_airport,Daet Airport,14.1292,122.980003,10,AS,PH,PH-CAN,Daet,no,RPUD,DTE,RPUD,,,https://en.wikipedia.org/wiki/Bagasbas_Airport,
@@ -8975,7 +8976,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26752,WADS,small_airport,Sultan Muhammad Kaharuddin III Airport,-8.48904,117.412003,16,AS,ID,ID-NB,Sumbawa Besar,yes,WADS,SWQ,WADS,,,https://en.wikipedia.org/wiki/Sultan_Muhammad_Kaharuddin_III_Airport,"WRRS, Brang Bidji, Sumbawa"
 26753,WADT,small_airport,Tambolaka Airport,-9.409224,119.242558,161,AS,ID,ID-NT,Radamata,yes,WATK,TMC,WATK,,,https://en.wikipedia.org/wiki/Tambolaka_Airport,"WRRT, WADT"
 41383,WADU,small_airport,Lunyuk Airport,-8.989931,117.216018,44,AS,ID,ID-NB,Lunyuk,no,WADU,LYK,WADU,,,http://id.wikipedia.org/wiki/Bandar_Udara_Lunyuk,"WRRU, Sumbawa"
-26754,WADW,small_airport,Umbu Mehang Kunda Airport,-9.66922,120.302002,33,AS,ID,ID-NT,Waingapu-Sumba Island,yes,WATU,WGP,WATU,,,https://en.wikipedia.org/wiki/Mau_Hau_Airport,"WRRW, WADW, WATU, Mau Hau Airport, Waingapu Airport"
+26754,WADW,small_airport,Umbu Mehang Kunda Airport,-9.66922,120.302002,33,AS,ID,ID-NT,Waingapu-Sumba Island,yes,WATU,WGP,WATU,,,https://en.wikipedia.org/wiki/Mau_Hau_Airport,"WRRW, WADW, Mau Hau Airport, Waingapu Airport"
 46587,WADY,small_airport,Banyuwangi Airport,-8.31015,114.3401,112,AS,ID,ID-JI,"Rogojampi, Banyuwangi",yes,WADY,BWX,WADY,BWI,,https://en.wikipedia.org/wiki/Banyuwangi_Airport,"Banyuwangi International Airport, Blimbing Sari, Blimbingsari, Kabat, Rogojampi, Sukojati, WARB"
 26773,WAEE,medium_airport,Sultan Babullah Airport,0.831012,127.381611,49,AS,ID,ID-MU,Sango,yes,WAEE,TTE,WAEE,,,https://en.wikipedia.org/wiki/Sultan_Babullah_Airport,
 41445,WAES,small_airport,Emalamo Sanana Airport,-2.097833,125.963833,11,AS,ID,ID-MU,Sanana,no,WAES,SQN,WAES,,,https://en.wikipedia.org/wiki/Emalamo_Airport,
@@ -8992,7 +8993,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26774,WAFW,medium_airport,Syukuran Aminuddin Amir Airport,-1.035893,122.773934,56,AS,ID,ID-ST,Luwok,no,WAFW,LUW,WAFW,,,https://en.wikipedia.org/wiki/Syukuran_Aminuddin_Amir_Airport,"Bubung Airport, WAMW"
 344101,WAGB,small_airport,Haji Muhammad Sidik Airport,-1.02581,114.92881,145,AS,ID,ID-KT,Muara Teweh,yes,WAGB,HMS,WAGB,,,https://en.wikipedia.org/wiki/Haji_Muhammad_Sidik_Airport,Trinsing
 343797,WAGF,small_airport,Seruyan Kuala Pembuang Airport,-3.376062,112.536521,13,AS,ID,ID-KT,Seruyan,yes,WAGF,KLP,WAGF,,,https://en.wikipedia.org/wiki/Seruyan_Kuala_Pembuang_Airport,Kota Waringin Timur
-26780,WAGG,medium_airport,Tjilik Riwut Airport,-2.22513,113.943001,82,AS,ID,ID-KT,Palangkaraya,yes,WAGG,PKY,WAGG,,,https://en.wikipedia.org/wiki/Tjilik_Riwut_Airport,"WRBP, WAOP"
+26780,WAGG,medium_airport,Tjilik Riwut Airport,-2.227146,113.943388,82,AS,ID,ID-KT,Palangkaraya,yes,WAGG,PKY,WAGG,,,https://en.wikipedia.org/wiki/Tjilik_Riwut_Airport,"WRBP, WAOP"
 332202,WAHI,medium_airport,Yogyakarta International Airport,-7.905338,110.057264,24,AS,ID,ID-YO,Yogyakarta,yes,WAHI,YIA,WAHI,,,https://en.wikipedia.org/wiki/Yogyakarta_International_Airport,Kulon Progo
 26833,WAHL,medium_airport,Tunggul Wulung Airport,-7.64506,109.033997,69,AS,ID,ID-JT,Cilacap,yes,WAHL,CXP,WAHL,,,https://en.wikipedia.org/wiki/Tunggul_Wulung_Airport,"WIIL, WIHL"
 41395,WAHP,small_airport,Jenderal Besar Soedirman Airport,-7.461342,109.414612,225,AS,ID,ID-JT,Purwokerto-Java Island,no,WAHP,PWL,WAHP,,,https://en.wikipedia.org/wiki/Purwokerto_Airport,"WICP, WIAP, Wirasaba, Purbalingga"
@@ -9003,7 +9004,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41425,WAJI,small_airport,Mararena Sarmi Airport,-1.873077,138.753275,10,AS,ID,ID-PA,Sarmi,no,WAJI,ZRM,WAJI,,,http://id.wikipedia.org/wiki/Bandar_Udara_Mararena,"Mararena, Orai"
 26755,WAJJ,large_airport,Dortheys Hiyo Eluay International Airport,-2.579627,140.519857,289,AS,ID,ID-PA,Sentani,yes,WAJJ,DJJ,WAJJ,,https://sentani-airport.co.id/en,https://en.wikipedia.org/wiki/Dortheys_Hiyo_Eluay_International_Airport,"Bandar Udara Internasional Dortheys Hiyo Eluay, Sentani International Airport, Hollandia, Jayapura"
 41426,WAJL,small_airport,Lereh Airport,-3.0795,139.952,820,AS,ID,ID-PA,Lereh-Papua Island,no,WAJL,LHI,WAJL,,,,
-41427,WAJM,small_airport,Mulia Airport,-3.701938,137.957,5898,AS,ID,ID-PT,Mulia-Papua Island,no,,LII,WAVA,,,,WAJM
+41427,WAJM,small_airport,Mulia Airport,-3.701938,137.957,5898,AS,ID,ID-PT,Mulia-Papua Island,no,WAVA,LII,WAVA,,,https://ceb.wikipedia.org/wiki/Mulia_Airport,WAJM
 41428,WAJO,medium_airport,Oksibil Airport,-4.9071,140.6277,4315,AS,ID,ID-PP,Oksibil,yes,WAJO,OKL,WAJO,,,https://id.wikipedia.org/wiki/Bandar_Udara_Oksibil,Gunung Bintang
 41430,WAJS,small_airport,Senggeh Airport,-3.442448,140.778079,914,AS,ID,ID-PA,Senggeh,no,WAJS,SEH,WAJS,,,,Senggi
 41432,WAKD,small_airport,Mindiptana Airport,-5.876929,140.70946,121,AS,ID,ID-PS,Mindiptana-Papua Island,no,WAKD,MDP,WAKD,,,https://id.wikipedia.org/wiki/Bandar_Udara_Mindiptana,
@@ -9025,13 +9026,13 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26765,WALV,small_airport,Bunyu Airport,3.45572,117.866997,118,AS,ID,ID-KU,Bunju Island,no,,BYQ,WAQB,,,http://id.wikipedia.org/wiki/Bandar_Udara_Bunyu,"WALV, WRLV, WA1C"
 31540,WAMA,small_airport,Gamarmalamo Airport,1.83833,127.786003,157,AS,ID,ID-MU,Galela-Celebes Island,no,WAEG,GLX,WAEG,,,https://en.wikipedia.org/wiki/Gamar_Malamo_Airport,
 331796,WAME,small_airport,Buli Airport,0.917144,128.382116,7,AS,ID,ID-MU,Pekaulang,no,WAEM,PGQ,WAEM,,,https://en.wikipedia.org/wiki/Buli_Airport,
-26767,WAMG,small_airport,Jalaluddin Airport,0.63711899519,122.849998474,105,AS,ID,ID-GO,Gorontalo-Celebes Island,yes,WAMG,GTO,WAMG,,,https://en.wikipedia.org/wiki/Jalaluddin_Airport,
+26767,WAMG,small_airport,Jalaluddin Airport,0.637119,122.849998,105,AS,ID,ID-GO,Gorontalo-Celebes Island,yes,WAMG,GTO,WAMG,,,https://en.wikipedia.org/wiki/Jalaluddin_Airport,
 26768,WAMH,medium_airport,Naha Airport,3.68478,125.527162,16,AS,ID,ID-SA,"Tabukan Utara, Sangihe Islands",yes,WAMH,NAH,WAMH,,,https://en.wikipedia.org/wiki/Naha_Airport_(Indonesia),Tahuna
 526307,WAMI,small_airport,Bolaang Mongondow Airport,0.88855,124.033634,28,AS,ID,ID-SA,Lolak,yes,WAMI,LKM,WAMI,,,https://en.wikipedia.org/wiki/Raja_Loloda_Mokoagow_Airport,
 31523,WAMJ,small_airport,Gebe Airport,-0.078889,129.457993,125,AS,ID,ID-MU,Gebe Island,no,WAMJ,GEB,WAMJ,,,https://en.wikipedia.org/wiki/Gebe_Airport,
 31720,WAMK,small_airport,Kuabang Airport,1.18528,127.896004,40,AS,ID,ID-MU,Kao-Celebes Island,no,WAEK,KAZ,WAEK,,,https://en.wikipedia.org/wiki/Kuabang_Airport,WAEK
 26770,WAMM,medium_airport,Sam Ratulangi Airport,1.549266,124.926319,264,AS,ID,ID-SA,Manado,yes,WAMM,MDC,WAMM,,,https://en.wikipedia.org/wiki/Sam_Ratulangi_Airport,
-31924,WAMN,small_airport,Melangguane Airport,4.00694,126.672997,3,AS,ID,ID-SA,Karakelong Island,no,WAMN,MNA,WAMN,,,https://en.wikipedia.org/wiki/Melangguane_Airport,
+31924,WAMN,small_airport,Melangguane Airport,4.010334,126.673192,3,AS,ID,ID-SA,Karakelong Island,no,WAMN,MNA,WAMN,,,https://en.wikipedia.org/wiki/Melangguane_Airport,
 430172,WAMO,small_airport,Siau/Sitaro Airport,2.648591,125.423301,155,AS,ID,ID-SA,Balirangen,no,,BRG,WAMO,,,https://id.wikipedia.org/wiki/Bandar_Udara_Siau,
 525159,WAMP,small_airport,Indonesia Morowali Industrial Park (IMIP) Airport,-2.799322,122.141385,24,AS,ID,ID-ST,Morowali,no,WAMP,MWS,WAMP,,,,
 525279,WAMS,small_airport,Miangas Airport,5.560419,126.580095,9,AS,ID,ID-SA,Miangas,no,WAMS,IAX,WAMS,,,https://en.wikipedia.org/wiki/Miangas_Airport,
@@ -9174,7 +9175,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26835,WIII,large_airport,Soekarno-Hatta International Airport,-6.1255698204,106.65599823,34,AS,ID,ID-BT,Jakarta,yes,WIII,CGK,WIII,,http://www.jakartasoekarnohattaairport.com/,https://en.wikipedia.org/wiki/Soekarno-Hatta_International_Airport,"JKT, Cengkareng, Java"
 26827,WILL,medium_airport,Radin Inten II International Airport,-5.246803,105.182531,282,AS,ID,ID-LA,Bandar Lampung,yes,WILL,TKG,WILL,,,https://en.wikipedia.org/wiki/Radin_Inten_II_International_Airport,"WIIT, WICT"
 333624,WILP,small_airport,Muhammad Taufiq Kiemas Airport,-5.211562,103.936501,118,AS,ID,ID-LA,Krui,no,WILP,TFY,WILP,,,,
-26861,WIMA,small_airport,Malikus Saleh Airport,5.22668,96.950302,90,AS,ID,ID-AC,Lhok Seumawe-Sumatra Island,yes,,LSW,WIMA,,,https://en.wikipedia.org/wiki/Malikus_Saleh_Airport,WITM
+26861,WIMA,small_airport,Malikus Saleh Airport,5.22668,96.950302,90,AS,ID,ID-AC,Lhok Seumawe-Sumatra Island,yes,WIMA,LSW,WIMA,,,https://en.wikipedia.org/wiki/Malikus_Saleh_Airport,WITM
 26836,WIMB,medium_airport,Binaka Airport,1.16628,97.704327,20,AS,ID,ID-SU,Gunungsitoli,yes,WIMB,GNS,WIMB,,,https://en.wikipedia.org/wiki/Binaka_Airport,
 26837,WIME,medium_airport,Aek Godang Airport,1.4001,99.430496,922,AS,ID,ID-SU,Padang Sidempuan,no,WIME,AEG,WIME,,,https://en.wikipedia.org/wiki/Aek_Godang_Airport,
 526312,WIMF,small_airport,Jenderal Besar Abdul Haris Nasution Airport,0.948056,99.533333,,AS,ID,ID-SS,Mandailing,no,WIMF,JHN,WIMF,,,https://id.wikipedia.org/wiki/Bandar_Udara_Jenderal_Besar_Abdul_Haris_Nasution,
@@ -9184,7 +9185,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41462,WIMP,small_airport,Sibisa Airport,2.601967,98.962381,4234,AS,ID,ID-SU,Parapat-Sumatra Island,no,WIMP,SIW,WIMP,,,https://en.wikipedia.org/wiki/Sibisa_Airport,"Parapat Airport, Ajibata"
 26841,WIMS,medium_airport,Dr. Ferdinand Lumban Tobing Airport,1.557127,98.887145,33,AS,ID,ID-SU,Sibolga (Pinangsori),yes,WIMS,FLZ,WIMS,,,https://en.wikipedia.org/wiki/Ferdinand_Lumban_Tobing_Airport,Pinangsori Airport
 507992,WIMU,medium_airport,Alas Leuser Airport,3.391456,97.863726,419,AS,ID,ID-AC,Kutacane,yes,,LSR,WIMU,,,https://en.wikipedia.org/wiki/Alas_Leuser_Airport,
-26842,WIOD,small_airport,H A S Hanandjoeddin International Airport,-2.74572,107.754997,164,AS,ID,ID-BB,Tanjung Pandan,yes,WIKT,TJQ,WIKT,,,https://en.wikipedia.org/wiki/H.A.S._Hanandjoeddin_International_Airport,"Buluh Tumbang Airport, WIKD, WIOD"
+26842,WIOD,small_airport,H A S Hanandjoeddin International Airport,-2.744109,107.754535,164,AS,ID,ID-BB,Tanjung Pandan,yes,WIKT,TJQ,WIKT,,,https://en.wikipedia.org/wiki/H.A.S._Hanandjoeddin_International_Airport,"Buluh Tumbang Airport, WIKD, WIOD"
 26843,WIOG,medium_airport,Nanga Pinoh Airport,-0.34864,111.746155,123,AS,ID,ID-KB,Nanga Pinoh-Borneo Island,yes,WIOG,NPO,WIOG,,,https://en.wikipedia.org/wiki/Nanga_Pinoh_Airport,Nangapinoh
 595093,WIOH,small_airport,Liku Airport,1.737455,109.324002,25,AS,ID,ID-KB,Paloh,no,WIOH,,WIOH,,,,
 26844,WIOK,medium_airport,Rahadi Osman Airport,-1.817165,109.963469,46,AS,ID,ID-KB,Ketapang,yes,WIOK,KTG,WIOK,,,https://en.wikipedia.org/wiki/Rahadi_Osman_Airport,Rahadi Usman
@@ -9195,7 +9196,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26850,WIPA,small_airport,Sultan Thaha Airport,-1.638685,103.645063,82,AS,ID,ID-JA,Jambi,yes,WIJJ,DJB,WIJJ,,,https://en.wikipedia.org/wiki/Sultan_Thaha_Airport,"WIPA, Palmerah"
 41459,WIPB,small_airport,Silampari Airport,-3.288165,102.91449,371,AS,ID,ID-SS,Lubuk Linggau,no,WIPB,LLJ,WIPB,LLG,http://hubud.dephub.go.id/?en+info_bandara+detail+100,https://en.wikipedia.org/wiki/Silampari_Airport,
 310599,WIPI,small_airport,Muara Bungo Airport,-1.541635,102.181613,192,AS,ID,ID-JA,Muara Bungo,yes,,BUU,WIJB,,https://web.archive.org/web/20171021003712/http://www.infobungo.com:80/2012/12/jadwal-penerbangan-dari-bandara-muara.html,https://en.wikipedia.org/wiki/Muara_Bungo_Airport,Pasir Mayang
-26852,WIPK,medium_airport,Depati Amir Airport,-2.1622,106.139,109,AS,ID,ID-BB,Pangkal Pinang,yes,,PGK,WIKK,,,https://en.wikipedia.org/wiki/Pangkalpinang_Airport,WIPK
+26852,WIPK,medium_airport,Depati Amir Airport,-2.1622,106.139,109,AS,ID,ID-BB,Pangkal Pinang,yes,WIKK,PGK,WIKK,,,https://en.wikipedia.org/wiki/Pangkalpinang_Airport,WIPK
 26853,WIPL,medium_airport,Fatmawati Soekarno Airport,-3.8637,102.338997,50,AS,ID,ID-BE,Bengkulu,yes,WIGG,BKS,WIGG,,,https://en.wikipedia.org/wiki/Fatmawati_Soekarno_Airport,"WIPL, Padang Kemiling Airport"
 26855,WIPP,medium_airport,Sultan Mahmud Badaruddin II Airport,-2.897653,104.698147,49,AS,ID,ID-SS,Palembang,yes,WIPP,PLM,WIPP,,,https://en.wikipedia.org/wiki/Sultan_Mahmud_Badaruddin_II_Airport,
 26856,WIPQ,medium_airport,Pendopo Airport,-3.2860701084136963,103.87999725341797,184,AS,ID,ID-SS,Talang Gudang-Sumatra Island,yes,WIPQ,PDO,WIPQ,,,,
