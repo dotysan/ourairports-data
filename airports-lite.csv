@@ -6430,7 +6430,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5196,OISR,medium_airport,Lamerd Airport,27.3727,53.188801,1337,AS,IR,IR-07,Lamerd,yes,OISR,LFM,OISR,,,https://en.wikipedia.org/wiki/Lamerd_Airport,
 5197,OISS,large_airport,Shiraz Shahid Dastghaib International Airport,29.5392,52.589802,4927,AS,IR,IR-07,Shiraz,yes,OISS,SYZ,OISS,,http://shirazairport.ir/,https://en.wikipedia.org/wiki/Shiraz_International_Airport,
 5198,OISY,medium_airport,Yasuj Airport,30.702238,51.542988,5939,AS,IR,IR-17,Yasuj,no,OISY,YES,OISY,,,https://en.wikipedia.org/wiki/Yasuj_Airport,Yasouj
-42528,OITH,small_airport,Khaneh Airport,36.733341,45.150002,4804,AS,IR,IR-04,Khaneh,no,OITH,KHA,OITH,,,https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D9%BE%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1,
+42528,OITH,small_airport,Khaneh Airport,36.729096,45.158084,4804,AS,IR,IR-04,Khaneh,no,OITH,KHA,OITH,,,https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D9%BE%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1,
 5199,OITK,small_airport,Khoy Airport,38.4275016784668,44.97359848022461,3981,AS,IR,IR-04,Khoy,no,OITK,KHY,OITK,,,https://en.wikipedia.org/wiki/Khoy_Airport,
 5200,OITL,medium_airport,Ardabil Airport,38.3256988525,48.4244003296,4315,AS,IR,IR-24,Ardabil,yes,OITL,ADU,OITL,,,https://en.wikipedia.org/wiki/Ardabil_Airport,
 5201,OITM,small_airport,Sahand Airport,37.347999572753906,46.127899169921875,4396,AS,IR,IR-03,Maragheh,no,OITM,ACP,OITM,,,https://en.wikipedia.org/wiki/Sahand_Airport,Maragheh Highway Strip
