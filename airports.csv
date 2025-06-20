@@ -13944,7 +13944,7 @@
 336298,"BR-1109","heliport","Marcus Barbosa Empresarial Calhau Helipad",-2.493099,-44.27475,335,"SA","BR","BR-MA","São Luís","no",,,"SJEM","MA0060",,,
 336299,"BR-1110","heliport","Modelo II Heliport",-21.15237,-53.281482,1125,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,"SJEO","MS0406",,,
 336300,"BR-1111","heliport","Parque do Peão Heliport",-20.508822,-48.599911,1837,"SA","BR","BR-SP","Barretos","no",,,"SJEP","SP0614",,,
-336301,"BR-1112","small_airport","Fazenda Cristal Airport",-17.861478,-55.7076,477,"SA","BR","BR-MS","Corumbá","no",,,"SJT8","MS0160",,,"SJEQ"
+336301,"BR-1112","closed","Fazenda Cristal Airport",-17.861478,-55.7076,477,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SJEQ, SJT8, MS0160"
 336318,"BR-1113","heliport","Main Estate Helipad",-23.458089,-46.471653,2569,"SA","BR","BR-SP","Guarulhos","no",,,"SJES","SP0615",,,
 336319,"BR-1114","heliport","Baltt Heliport",-26.793036,-48.67108,66,"SA","BR","BR-SC","Penha","no",,,"SJET","SC0067",,,
 336320,"BR-1115","small_airport","Evanderto Almeida Airport",-6.989027,-39.844458,2228,"SA","BR","BR-CE","Assaré","no",,,"SJEV","CE0019",,,
@@ -15412,13 +15412,13 @@
 36490,"BR-2590","heliport","Diplomata Empresarial S/C Ltda Heliport",-23.91838,-46.215229,7,"SA","BR","BR-SP","Guarujá","no",,,,,,,"SJDR"
 36501,"BR-2591","small_airport","Fazenda Abath Airport",-18.680000305176,-57.224998474121,348,"SA","BR","BR-MS","Corumbá","no",,,,"SJED",,,"SJED"
 36507,"BR-2592","small_airport","Fazenda Bonanza Airport",-22.155000686646,-49.287776947021,1713,"SA","BR","BR-SP","Avaí","no",,,,"SJEJ",,,"SJEJ"
-36509,"BR-2593","small_airport","Eldorado Airport",-6.9555559158325,-56.471111297607,837,"SA","BR","BR-PA","Itaituba","no",,,,"SJEL",,,"SJEL"
-36514,"BR-2594","small_airport","Fazenda Bom Jesus Airport",-18.182777404785,-56.782501220703,404,"SA","BR","BR-MS","Corumbá","no",,,,"SJEQ",,,"SJEQ"
-36515,"BR-2595","small_airport","Fazenda Água Pê Airport",-18.117778778076,-56.641109466553,407,"SA","BR","BR-MS","Corumbá","no",,,,"SJES",,,"SJES"
-36516,"BR-2596","small_airport","Fazenda Recreio Airport",-17.564722061157,-56.786666870117,404,"SA","BR","BR-MS","Corumbá","no",,,,"SJET",,,"SJET"
-36517,"BR-2597","small_airport","Fazenda São Cristóvão Airport",-17.869167327881,-56.19388961792,404,"SA","BR","BR-MS","Corumbá","no",,,,"SJEU",,,"SJEU"
-36518,"BR-2598","small_airport","Fazenda São Francisco Airport",-17.648332595825,-56.886112213135,401,"SA","BR","BR-MS","Corumbá","no",,,,"SJEV",,,"SJEV"
-36519,"BR-2599","small_airport","Fazenda Horita Airport",-13.011111,-46.238056,3163,"SA","BR","BR-BA","São Desidério","no",,,,"BA0245",,,"SJEW, SJWH, BR-2599"
+36509,"BR-2593","small_airport","Eldorado Airport",-6.9663,-56.473868,837,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SJEL"
+36514,"BR-2594","small_airport","Fazenda Bom Jesus Airport",-18.182269,-56.785007,404,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SJEQ"
+36515,"BR-2595","small_airport","Fazenda Água Pê Airport",-18.114672,-56.639208,407,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SJES"
+36516,"BR-2596","small_airport","Fazenda Recreio Airport",-17.564722,-56.786667,404,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SJET"
+36517,"BR-2597","small_airport","Fazenda São Cristóvão Airport",-17.869167,-56.19389,404,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SJEU"
+36518,"BR-2598","small_airport","Fazenda São Francisco Airport",-17.64822,-56.899429,401,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SJEV"
+36519,"BR-2599","small_airport","Fazenda Horita Airport",-13.011111,-46.238056,3163,"SA","BR","BR-BA","São Desidério","no",,,,"BA0245",,,"SJEW, SJWH"
 36521,"BR-2600","small_airport","Fazenda Agronet Airport",-19.990556716919,-50.266109466553,1562,"SA","BR","BR-SP","Indiaporã","no",,,,"SJEY",,,"SJEY"
 36526,"BR-2601","small_airport","Fazenda Penedo Airport",-5.5211110115051,-57.107498168945,250,"SA","BR","BR-PA","Itaituba","no",,,,"SJFG",,,"SJFG"
 36534,"BR-2602","small_airport","Fazenda Califórnia Airport",-18.036666870117,-50.199443817139,1549,"SA","BR","BR-GO","Porteirão","no",,,,"SJFO",,,"SJFO"
@@ -24192,13 +24192,13 @@
 29271,"ENQB","heliport","Troll B FPU",60.773899,3.50139,,"EU","NO","NO-XX",,"no",,,"ENQB",,,,
 29272,"ENQC","heliport","Troll C FPU",60.885799,3.60972,,"EU","NO","NO-XX",,"no",,,"ENQC",,,,
 29273,"ENQD","heliport","Brage A Platform",60.541901,3.04583,,"EU","NO","NO-XX",,"no",,,"ENQD",,,,
-29274,"ENQE","heliport","Oseberg South Platform",60.389702,2.79556,,"EU","NO","NO-XX",,"no",,,"ENQE",,,,
+29274,"ENQE","heliport","Oseberg East Helideck",60.700001,2.933611,180,"EU","NO","NO-XX",,"no","ENQE",,"ENQE",,,,
 526552,"ENQG","heliport","Gullfaks B Helipad",61.202108,2.198832,,"EU","NO","NO-XX","Norwegian Sea","no",,,"ENQG",,,,
 526553,"ENQJ","heliport","Gjoa Helipad",61.33167,3.895,,"EU","NO","NO-XX","Norwegian Sea","no",,,"ENQJ",,,,
 526554,"ENQK","heliport","Kvitebjorn Helipad",61.08333,2.5,,"EU","NO","NO-XX","Norwegian Sea","no",,,"ENQK",,,,
 526555,"ENQL","heliport","Martin Linge B Helipad",60.49833,2.07333,,"EU","NO","NO-XX","North Sea","no",,,"ENQL",,,,
 526556,"ENQM","heliport","Martin Linge A Helipad",60.5075,2.01472,,"EU","NO","NO-XX","North Sea","no",,,"ENQM",,,,
-29275,"ENQO","heliport","Oseberg East Platform",60.700001,2.93361,,"EU","NO","NO-XX",,"no",,,"ENQO",,,,
+29275,"ENQO","heliport","Oseberg South Helideck",60.389702,2.795556,170,"EU","NO","NO-XX",,"no","ENQO",,"ENQO",,,"https://en.wikipedia.org/wiki/Oseberg_South",
 526559,"ENQR","heliport","Snorre B Helipad",61.51667,2.21667,,"EU","NO","NO-XX","Norwegian Sea","no",,,"ENQR",,,,
 526560,"ENQS","heliport","Statfjord C Helipad",61.2961,1.90083,,"EU","NO","NO-XX","Norwegian Sea","no",,,"ENQS",,,,
 526571,"ENQV","heliport","Visund A Helipad",61.36972,2.45722,,"EU","NO","NO-XX","Norwegian Sea","no",,,"ENQV",,,,
@@ -24240,6 +24240,8 @@
 526574,"ENUA","heliport","Kristin FPU Helieck",64.993956,6.551342,147,"EU","NO","NO-XX","Block 6406/2 - Kristin field","no",,,"ENUK","ENUK",,,"Oil&Gas"
 526575,"ENUB","heliport","Aasgard B FPU Helideck",65.110102,6.78943,141,"EU","NO","NO-XX","Block 6506/12 - Asgard field","no",,,"ENUB","ENUB",,,"Oil&Gas"
 526570,"ENUC","heliport","Åsgard C FSO Helideck (Jorunn Knutsen)",65.131101,6.864032,48,"EU","NO","NO-XX","Block 6506/12 - Asgard field","no",,,"ENUC","ENUC",,,"Aasgard, Oil&Gas"
+598380,"ENUD","heliport","Njord A Helideck",64.27067,7.20011,100,"EU","NO","NO-XX","Norwegian Sea","no",,,"ENUD",,"https://www.equinor.com/energy/njord","https://en.wikipedia.org/wiki/Njord_oil_field",
+598381,"ENUE","heliport","Njord B Helideck",64.271111,7.201389,90,"EU","NO","NO-XX","Norwegian Sea","no",,,"ENUE",,"https://www.equinor.com/energy/njord","https://en.wikipedia.org/wiki/Njord_oil_field",
 526441,"ENUG","heliport","Goliat",71.3,22.25,,"EU","NO","NO-XX",,"no",,,"ENUG",,,,
 319144,"ENUH","heliport","Oslo Heliport, Ullevaal",59.936215,10.736541,,"EU","NO","NO-03","Oslo","no",,,"ENUH",,,,
 526577,"ENUK","heliport","Aasgard A FPSO Helideck",65.064144,6.725689,111,"EU","NO","NO-XX","Block 6506/12 - Asgard field","no",,,"ENUA","ENUA",,,"Oil&Gas"
@@ -24264,6 +24266,7 @@
 29288,"ENXB","heliport","Eldfisk B Platform",56.41859817504883,3.216939926147461,,"EU","NO","NO-XX",,"no",,,"ENXB",,,,
 29290,"ENXD","heliport","Ekofisk D Platform",56.5625,3.08417010307312,,"EU","NO","NO-XX",,"no",,,"ENXD",,,,
 29294,"ENXH","heliport","Hod Platform",56.1758,3.45861,,"EU","NO","NO-XX",,"no",,,"ENXH",,,,
+598383,"ENXI","heliport","Valhall Flank North Helideck",56.323889,3.351111,141,"EU","NO","NO-XX","North Sea","no",,,"ENXI",,,,
 29295,"ENXJ","heliport","Valhall Flank South Platform",56.226898193359375,3.4358301162719727,,"EU","NO","NO-XX",,"no",,,"ENXJ",,,,
 29296,"ENXK","heliport","Ekofisk K Platform",56.56529998779297,3.2047200202941895,,"EU","NO","NO-XX",,"no",,,"ENXK",,,,
 29297,"ENXL","heliport","Eldfisk A Platform",56.3760986328125,3.2644400596618652,,"EU","NO","NO-XX",,"no",,,"ENXL",,,,
@@ -49565,7 +49568,7 @@
 314041,"NO-0034","closed","Longyearbyen Airport",78.214,15.78,20,"EU","NO","NO-21","Longyearbeyen","no",,,,,,,"Old Svalbard Airport"
 315190,"NO-0035","closed","Old Båtsfjord Airport",70.5996,29.6581,130,"EU","NO","NO-56","Båtsfjord","no",,,,,,"https://en.wikipedia.org/wiki/B%C3%A5tsfjord_Airport_(1973%E2%80%931999)",
 316410,"NO-0036","small_airport","Ljørdalen Flyplass",61.3561484,12.7570594,,"EU","NO","NO-34",,"no",,,,,,,
-316518,"NO-0037","heliport","Sandnessjøen Heliport, Hospital",66.01786,12.615999,,"EU","NO","NO-18","Sandnessjøen","no",,,,,,,
+316518,"NO-0037","heliport","Sandnessjøen Heliport, Hospital",66.01786,12.615999,86,"EU","NO","NO-18","Sandnessjøen","no",,,"ENSJ",,,,
 316639,"NO-0038","small_airport","Masjok Airstrip",70.264611,28.153839,,"EU","NO","NO-56","Masjok","no",,,,,,,"Maskjok"
 317759,"NO-0039","small_airport","Huseby Airstrip",59.26724,10.810754,125,"EU","NO","NO-31","Fredrikstad","no",,,,,,"https://no.wikipedia.org/wiki/Huseby_flyplass",
 317760,"NO-0040","small_airport","Veum Airstrip",59.260035,10.92897,75,"EU","NO","NO-31","Fredrikstad","no",,,,,,"https://no.wikipedia.org/wiki/Veum_flyplass",
@@ -49583,10 +49586,10 @@
 319108,"NO-0052","heliport","Kristiansund Heliport, Hospital",63.107631,7.723485,,"EU","NO","NO-15","Kristiansund","no",,,,,,,
 319111,"NO-0053","heliport","Molde Heliport, Hospital",62.737088,7.135475,,"EU","NO","NO-15","Molde","no",,,,,,,
 319133,"NO-0054","small_airport","Stryn Airstrip",61.910104,6.755442,,"EU","NO","NO-46","Stryn","no",,,,,,,
-319148,"NO-0055","heliport","Suldal Heliport",59.483614,6.272332,,"EU","NO","NO-11","Suldal","no",,,,,,,
-319149,"NO-0056","heliport","Stryn Heliport",61.898835,6.618564,,"EU","NO","NO-46","Stryn","no",,,,,,,
+319148,"NO-0055","heliport","Suldal Heliport",59.483614,6.272332,39,"EU","NO","NO-11","Suldal","no",,,"ENSC",,,,
+319149,"NO-0056","heliport","Stryn Heliport",61.899094,6.619118,,"EU","NO","NO-46","Stryn","no",,,"ENLG",,,,
 319150,"NO-0057","heliport","Tønsberg Heliport, Hospital",59.273235,10.41618,130,"EU","NO","NO-39","Tønsberg","no",,,"ENTH",,,,
-319151,"NO-0058","heliport","Northern Norway University Hospital Heliport",69.683925,18.984699,120,"EU","NO","NO-56","Tromsø","no",,,,,,"https://en.wikipedia.org/wiki/Troms%C3%B8_Heliport,_University_Hospital",
+319151,"NO-0058","heliport","Northern Norway University Hospital Heliport",69.683925,18.984699,120,"EU","NO","NO-56","Tromsø","no",,,"ENTU",,,"https://en.wikipedia.org/wiki/Troms%C3%B8_Heliport,_University_Hospital",
 319355,"NO-0059","small_airport","Setermoen Airstrip",68.856128,18.350973,271,"EU","NO","NO-55","Setermoen","no",,,,,,,
 319356,"NO-0060","small_airport","Overhalla Airstrip",64.528154,11.989258,,"EU","NO","NO-50","Overhalla","no",,,,,,,
 319357,"NO-0061","small_airport","Eidsberg Airstrip",59.535537,11.243937,252,"EU","NO","NO-31","Eidsberg","no",,,,,,,
@@ -49657,6 +49660,7 @@
 30517,"NO-0126","closed","Værøy STOLport",67.68920135498,12.680000305176,36,"EU","NO","NO-18","Værøy","no",,,,,,"https://en.wikipedia.org/wiki/V%C3%A6r%C3%B8y_Heliport","ENVY, ENVY"
 42222,"NO-0127","closed","Svea Airport",77.896944,16.725,32,"EU","NO","NO-21","Svea","no",,,,,,"https://en.wikipedia.org/wiki/Svea_Airport","ENSA"
 597398,"NO-0128","heliport","Jotun FPSO",59.241167,2.3945,,"EU","NO","NO-XX","Block 25/11 - Balder field","no",,,,"ENXN",,,"ENXN, Oil&Gas"
+598385,"NO-0129","closed","Petrojarl Knarr Helideck",61.781944,2.831944,116,"EU","NO","NO-XX","Norwegian Sea","no",,,,,"https://alterainfra.com/vessels/petrojarl-knarr",,"ENQP"
 306971,"NOM","small_airport","Nomad River Airport",-6.294,142.234167,305,"OC","PG","PG-WPD","Nomad River","no",,"NOM","AYNR","NDR",,,
 308248,"NOO","small_airport","Naoro Airport",-9.254455,147.621352,2372,"OC","PG","PG-CPM","Naoro Vilage","no",,"NOO","AYNL","NAO",,,
 308292,"NP-0001","small_airport","Kamal Bazar Airport",29.0531,81.34256,6440,"AS","NP","NP-P7","Kamal Bazar","no",,,,,,,
