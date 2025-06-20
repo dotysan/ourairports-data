@@ -1811,6 +1811,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2588,ENNO,medium_airport,Notodden Airport,59.565071,9.213152,63,EU,NO,NO-40,Notodden,no,ENNO,NTB,ENNO,,http://www.notodden-flyplass.no/,https://en.wikipedia.org/wiki/Notodden_Airport%2C_Tuven,
 2589,ENOL,medium_airport,Ørland Airport,63.69889831542969,9.604000091552734,28,EU,NO,NO-50,Ørland,yes,ENOL,OLA,ENOL,,,https://en.wikipedia.org/wiki/Brekstad_Airport%2C_%C3%98rland,Orland
 28114,ENOV,medium_airport,"Ørsta-Volda Airport, Hovden",62.180000305176,6.0741000175476,243,EU,NO,NO-15,Ørsta,yes,ENOV,HOV,ENOV,,https://avinor.no/en/airport/orsta-volda-airport/,https://en.wikipedia.org/wiki/%C3%98rsta-Volda_Airport%2C_Hovden,
+29274,ENQE,heliport,Oseberg East Helideck,60.700001,2.933611,180,EU,NO,NO-XX,,no,ENQE,,ENQE,,,,
+29275,ENQO,heliport,Oseberg South Helideck,60.389702,2.795556,170,EU,NO,NO-XX,,no,ENQO,,ENQO,,,https://en.wikipedia.org/wiki/Oseberg_South,
 29277,ENRA,medium_airport,"Mo i Rana Airport, Røssvoll",66.363899230957,14.301400184631,229,EU,NO,NO-18,Mo i Rana,yes,ENRA,MQN,ENRA,,https://avinor.no/en/airport/mo-i-rana-airport/,https://en.wikipedia.org/wiki/Mo_i_Rana_Airport%2C_R%C3%B8ssvoll,
 29278,ENRM,medium_airport,"Rørvik Airport, Ryum",64.838302612305,11.14610004425,14,EU,NO,NO-50,Rørvik,yes,ENRM,RVK,ENRM,,https://avinor.no/en/airport/rorvik-airport/,https://en.wikipedia.org/wiki/R%C3%B8rvik_Airport%2C_Ryum,
 2591,ENRO,medium_airport,Røros Airport,62.578399658203,11.342300415039,2054,EU,NO,NO-50,Røros,yes,ENRO,RRS,ENRO,,https://avinor.no/en/airport/roros-airport/,https://en.wikipedia.org/wiki/R%C3%B8ros_Airport,Roros
