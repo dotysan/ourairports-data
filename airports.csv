@@ -1970,7 +1970,7 @@
 8609,"1OR7","small_airport","Skyhill Airport",45.287899017333984,-122.45600128173828,735,"NA","US","US-OR","Oregon City","no",,,"1OR7","1OR7",,,
 8610,"1OR8","heliport","Clackamas County Redsoils Heliport",45.334800720214844,-122.59700012207031,470,"NA","US","US-OR","Oregon City","no",,,"1OR8","1OR8",,,
 8611,"1OR9","heliport","Willamette Falls Community Hospital Heliport",45.357601,-122.585999,275,"NA","US","US-OR","Oregon City","no",,,"1OR9","1OR9",,"https://en.wikipedia.org/wiki/Providence_Willamette_Falls_Medical_Center",
-8612,"1P1","small_airport","Plymouth Municipal Airport",43.778299,-71.753919,505,"NA","US","US-NH","Plymouth","no",,,"1P1","1P1",,"https://en.wikipedia.org/wiki/Plymouth_Municipal_Airport_(New_Hampshire)",
+8612,"1P1","small_airport","Plymouth Municipal Airport",43.778299,-71.753919,505,"NA","US","US-NH","Plymouth","no",,,"K1P1","1P1",,"https://en.wikipedia.org/wiki/Plymouth_Municipal_Airport_(New_Hampshire)",
 8613,"1PA0","small_airport","Hinaman Acres Airport",41.133399963378906,-77.19969940185547,800,"NA","US","US-PA","Jersey Shore","no",,,"1PA0","1PA0",,,
 8614,"1PA1","heliport","401 City Avenue Heliport",40.00960159301758,-75.21379852294922,234,"NA","US","US-PA","Philadelphia","no",,,"1PA1","1PA1",,,
 8615,"1PA2","heliport","St Christopher's Hospital For Children Heliport",40.006884,-75.12522,163,"NA","US","US-PA","Philadelphia","no",,,"1PA2","1PA2",,,
@@ -2100,7 +2100,7 @@
 45953,"1WT6","heliport","Overlake Hospital EMS Heliport",47.621667,-122.187778,165,"NA","US","US-WA","Bellevue","no",,,"1WT6","1WT6",,,
 322118,"1WV0","heliport","Potomac Valley Hospital Heliport",39.4104,-79.003233,878,"NA","US","US-WV","Keyser","no",,,"1WV0","1WV0",,,
 8752,"1XA1","small_airport","Sky Acres Airport",33.647701263427734,-97.8290023803711,1070,"NA","US","US-TX","Bowie","no",,,"1XA1","1XA1",,,
-8753,"1XA2","small_airport","Chase Field Industrial Airport",28.362444,-97.661917,190,"NA","US","US-TX","Beeville","no",,"NIR",,"TX2",,"https://en.wikipedia.org/wiki/Chase_Field_Industrial_Complex","1XA2, Naval Air Station Chase Field, Beeville Municipal Airport"
+8753,"1XA2","small_airport","Chase Field Industrial Airport",28.362444,-97.661917,190,"NA","US","US-TX","Beeville","no",,"NIR","KTX2","TX2",,"https://en.wikipedia.org/wiki/Chase_Field_Industrial_Complex","1XA2, Naval Air Station Chase Field, Beeville Municipal Airport"
 8754,"1XA3","heliport","Christus Spohn South Heliport",27.684799194335938,-97.377197265625,24,"NA","US","US-TX","Corpus Christi","no",,,"1XA3","1XA3",,,
 8755,"1XA4","small_airport","Mikeska Field",29.873666,-96.004753,161,"NA","US","US-TX","Brookshire","no",,,"1XA4","1XA4",,,"12R"
 8756,"1XA5","small_airport","Flying Armadillo Field",30.135069,-97.148581,410,"NA","US","US-TX","Paige","no",,,"1XA5","1XA5",,,
@@ -2706,7 +2706,7 @@
 9353,"2CL8","heliport","Inland Valley Medical Center Heliport",33.592553,-117.237204,1327,"NA","US","US-CA","Wildomar","no",,,"2CL8","2CL8",,,"Inland Valley Rgnl Med Ctr"
 9354,"2CL9","small_airport","Mustang Airport",38.33440017700195,-121.30400085449219,45,"NA","US","US-CA","Galt","no",,,"2CL9","2CL9",,,
 45306,"2CN2","heliport","Department of Water and Power Granada Hills Heliport",34.292348,-118.474713,1124,"NA","US","US-CA","Los Angeles","no",,,"2CN2","2CN2",,,
-45315,"2CN3","small_airport","Tenaja Valley Airport",33.511111,-117.328611,2350,"NA","US","US-CA","Murrieta","no",,,"2CN3","2CN3",,,
+45315,"2CN3","small_airport","Tenaja Valley Airport",33.512692,-117.330503,2350,"NA","US","US-CA","Murrieta","no",,,"2CN3","2CN3",,,
 14060,"2CN4","small_airport","Wonderful Pistachios & Almonds Airport",35.664623,-119.893518,617,"NA","US","US-CA","Lost Hills","no",,,"2CN4","2CN4",,,"7CA0, Paramount Farms"
 46084,"2CN5","heliport","Regional Medical Center Of San Jose H1 Heliport",37.3625,-121.850278,107,"NA","US","US-CA","San Jose","no",,,"2CN5","2CN5",,,
 45305,"2CN6","heliport","Department of Water & Power Los Angeles Heliport",34.058055,-118.24954,654,"NA","US","US-CA","Los Angeles","no",,,"2CN6","2CN6",,,
@@ -21914,9 +21914,9 @@
 507049,"DE-0507","heliport","Wasserburg District Hospital Heliport",48.063371,12.213101,1570,"EU","DE","DE-BY","Wasserburg am Inn","no",,,,,,,"Hubschrauberlandeplatz Wasserburg Kreisklinik"
 507050,"DE-0508","heliport","Lübbecke Hospital Heliport",52.29628,8.60262,338,"EU","DE","DE-NW","Lübbecke","no",,,,,,,
 507833,"DE-0509","heliport","Agaplesion Markus Hospital Heliport",50.13542,8.64781,420,"EU","DE","DE-HE","Frankfurt am Main","no",,,,,,,
-507834,"DE-0510","heliport","Frankfurt University Hospital Heliport",50.09566,8.66254,,"EU","DE","DE-HE","Frankfurt am Main","no",,,,,,,
+507834,"DE-0510","heliport","Frankfurt University Hospital Heliport",50.095651,8.662482,390,"EU","DE","DE-HE","Frankfurt am Main","no",,,,"UMF",,,
 507835,"DE-0511","heliport","Frankfurt University Hospital Neurology Clinic Heliport",50.09148,8.64743,325,"EU","DE","DE-HE","Frankfurt am Main","no",,,,,,,
-507836,"DE-0512","heliport","Northwest Hospital Heliport",50.15007,8.61876,387,"EU","DE","DE-HE","Frankfurt am Main","no",,,,,,,
+507836,"DE-0512","heliport","Northwest Hospital Heliport",50.150067,8.61875,375,"EU","DE","DE-HE","Frankfurt am Main","no",,,,,,,
 507837,"DE-0513","heliport","Hochtaunus Hospital Helipad",50.212395,8.619153,640,"EU","DE","DE-HE","Bad Homburg","no",,,,"HTK",,,"Oberursel"
 509620,"DE-0514","small_airport","Sassberg Glider Field",51.90246,10.70052,,"EU","DE","DE-ST","Veckenstedt","no",,,,,,,
 511376,"DE-0515","small_airport","Bibergau Ultralight Airfield",49.80707,10.11947,906,"EU","DE","DE-BY","Dettelbach","no",,,,,,,"UL-Flugplatz Bibergau"
@@ -22013,7 +22013,7 @@
 514689,"DE-0606","heliport","ADAC Air Rescue Station Leipzig/Schkeuditz-Dölzig Heliport (Christoph 61)",51.35124,12.19252,367,"EU","DE","DE-SN","Schkeuditz","no",,,,,,,
 514690,"DE-0607","heliport","Darmstadt Hospital Heliport",49.87451,8.64535,,"EU","DE","DE-HE","Darmstadt","no",,,,,,,
 514708,"DE-0608","heliport","Sana Clinic Pegnitz Heliport",49.75779,11.5265,1548,"EU","DE","DE-BY","Pegnitz","no",,,,,,,
-514736,"DE-0609","heliport","Sana Clinic Offenbach Heliport",50.09455,8.75702,,"EU","DE","DE-HE","Offenbach am Main","no",,,,,,,
+514736,"DE-0609","heliport","Sana Hospital Offenbach Helipad",50.094492,8.757021,410,"EU","DE","DE-HE","Offenbach am Main","no",,,,"SKO",,,
 514743,"DE-0610","heliport","Grafenwöhr South Heliport",49.62768,11.67311,1627,"EU","DE","DE-BY","Grafenwöhr","no",,,,,,,
 514744,"DE-0611","heliport","Grafenwöhr West Heliport",49.66886,11.65067,1549,"EU","DE","DE-BY","Grafenwöhr","no",,,,,,,
 514745,"DE-0612","heliport","Sankt Johannes Hospital Auerbach Heliport",49.69805,11.62001,1444,"EU","DE","DE-BY","Auerbach in der Oberpfalz","no",,,,,,,
@@ -22321,6 +22321,7 @@
 597934,"DE-0915","heliport","Borkum Riffgrund II Helideck",53.952,6.488,100,"EU","DE","DE-XX","North Sea","no",,,,"DE30","https://www.jandenul.com/our-projects/offshore-windfarm-borkum-riffgrund-2-germany",,
 598102,"DE-0916","closed","Cologne Butzweilerhof Airport",50.984,6.887222,158,"EU","DE","DE-NW","Colongne","no",,,,,,"https://en.wikipedia.org/wiki/Cologne_Butzweilerhof_Airport","Manfred von Richthofen"
 598257,"DE-0917","seaplane_base","Hubertushöhe Seaplane Base",52.23822,13.97379,,"EU","DE","DE-BR",,"no",,,,,,,
+598403,"DE-0918","closed","Sana Hospital Offenbach Heliport",50.093103,8.756274,350,"EU","DE","DE-HE","Offenbach am Main","no",,,,,,,
 17115,"DE00","small_airport","Doyle's Airport",39.02069854736328,-75.57710266113281,51,"NA","US","US-DE","Felton","no",,,"DE00","DE00",,,
 17117,"DE02","heliport","Delaware State Police Heliport",39.20009994506836,-75.53299713134766,50,"NA","US","US-DE","Dover","no",,,"DE02","DE02",,,
 17118,"DE03","heliport","Dover Downs Helistop",39.18339920043945,-75.52459716796875,28,"NA","US","US-DE","Dover","no",,,"DE03","DE03",,,
@@ -42130,6 +42131,7 @@
 575228,"KZ-0144","closed","Former Lepsy Airport",46.25687,78.90478,1339,"AS","KZ","KZ-ALM","Lepsy","no",,,,,,,
 34977,"KZ-6022","small_airport","Dolon Southwest Air Base",50.25,79.083298,830,"AS","KZ","KZ-ABA","Semey","no",,,"UASF",,,"https://en.wikipedia.org/wiki/Dolon_Southwest","Semipalatinsk"
 34976,"KZ-7470","medium_airport","Dolon Air Base",50.536891,79.194689,705,"AS","KZ","KZ-ABA","Semey","no",,,"UASD",,,"https://en.wikipedia.org/wiki/Dolon_(air_base)","Chagan-16, Semipalitinsk Dolon"
+598393,"KZ-7471","small_airport","Novaya Uzenka Airfield",49.873098,73.021033,1693,"AS","KZ","KZ-KAR","Uzenka","no",,,,"ZF8G",,,"ЗФ8Г, Узенка"
 30659,"KZ-ATX","small_airport","Atbasar Airport",51.852306,68.366892,1010,"AS","KZ","KZ-AKM","Atbasar","no",,"ATX",,,,"https://en.wikipedia.org/wiki/Atbasar_Airport","Аэропорт Атбасар"
 21436,"KZ01","small_airport","Eglin Auxiliary Field 6 Airport",30.6336994171,-86.7426986694,120,"NA","US","US-FL","Valparaiso","no",,,"KZ01","KZ01",,,
 21437,"KZ10","small_airport","Fort Lewis Road / Pacemaker Landing Zone Airport",47.021702,-122.445999,397,"NA","US","US-WA","Spanaway","no",,,,,,,"KZ10"
@@ -54731,7 +54733,7 @@
 337875,"RU-0535","heliport","Old Vladivostok Airfield Heliport",43.21047,131.94238,,"EU","RU","RU-PRI","Vladivostok","no",,,,,,,
 337876,"RU-0536","closed","Old Vladivostok Airfield",43.207285,131.938692,,"EU","RU","RU-PRI","Vladivostok","no",,,,,,,
 337877,"RU-0537","heliport","Ozyornye Klyuchi (Lake Springs) Airfield",43.36795,132.1448,,"AS","RU","RU-PRI","Artyom","no",,,,,,,
-337878,"RU-0538","small_airport","Nikolayevka Air Base",43.08586,133.19061,180,"AS","RU","RU-PRI","Nikolayevka","no",,,,,,,
+337878,"RU-0538","small_airport","Nikolayevka Air Base",43.085608,133.190505,180,"AS","RU","RU-PRI","Nikolayevka","no",,,,"XHWE",,,"ЬХВЕ, Николаевка"
 337879,"RU-0539","small_airport","Baranovskiy Airfield",43.751678,132.007553,147,"EU","RU","RU-PRI","Ussuriysk","no",,,,,,,
 337881,"RU-0540","small_airport","Sysoyevka Airfield",44.20964,133.36596,,"EU","RU","RU-PRI","Sysoyevka","no",,,,,,,
 337882,"RU-0541","closed","Sergeyevka Landing Strip",43.30879,133.34868,,"EU","RU","RU-PRI","Yuzhnaya Sergeyevka","no",,,,,,,
@@ -67266,7 +67268,7 @@
 16464,"US-11135","closed","Sunrise Ranch Airport",35.238546,-111.935708,6958,"NA","US","US-AZ","Williams","no",,,,,,,"AZ77"
 16471,"US-11136","closed","Pima County Sheriff's Heliport",32.172001,-110.946999,2500,"NA","US","US-AZ","Tucson","no",,,,,,,"AZ84, AZ84, AZ84"
 16493,"US-11137","closed","Harrold Airport",41.4762,-84.906546,925,"NA","US","US-IN","Butler","no",,,,,,"https://web.archive.org/web/20161208055109/https://en.wikipedia.org/wiki/Harrold_Airport","B25, IN16"
-16503,"US-11138","closed","Bolling Air Force Base",38.854049,-77.012046,20,"NA","US","US-DC","Washington","no",,,,,,"https://en.wikipedia.org/wiki/Joint_Base_Anacostia-Bolling","BOF, KBOF"
+16503,"US-11138","heliport","Anacostia USN Heliport",38.854049,-77.012046,20,"NA","US","US-DC","Washington","no","KNDV",,"KNDV","NDV",,"https://en.wikipedia.org/wiki/Joint_Base_Anacostia-Bolling","BOF, KBOF, Bolling AFB, Marine One"
 16533,"US-11139","closed","Patterson Airport",37.468488,-121.16927,168,"NA","US","US-CA","Patterson","no",,,,,,,"CA02"
 331126,"US-1114","small_airport","Stagecoach Airport",41.6052,-94.6161778,1395,"NA","US","US-IA","Adair","no",,,"IA43","IA43",,,
 16541,"US-11140","closed","Coonrod Ranch Airport",41.6171,-122.319,3010,"NA","US","US-CA","Montague","no",,,,,,,"CA10"
@@ -68755,7 +68757,7 @@
 29668,"US-12489","closed","Arlington Municipal Airport",35.283100128174,-89.672500610352,308,"NA","US","US-TN","Arlington","no",,,,,,,"KLHC, KLHC, LHC"
 334217,"US-1249","small_airport","Donner Airport",44.64617,-95.304916,1050,"NA","US","US-MN","Belview","no",,,"MN98","MN98",,,
 29727,"US-12490","closed","Former Broadus Airport",45.431889,-105.418797,3031,"NA","US","US-MT","Broadus","no",,,,,,,"KBDX, BDX"
-29730,"US-12491","closed","Bryan Airport",41.4739,-84.556702,771,"NA","US","US-OH","Bryan","no",,,,,,,"KHWC, KHWC, HWC"
+29730,"US-12491","heliport","Community Hospital of Williams County Heliport",41.47432,-84.557872,749,"NA","US","US-OH","Bryan","no",,,"82OH","82OH","https://www.parkview.com/locations/parkview-bryan-hospital",,"KHWC, HWC"
 29834,"US-12492","closed","Dunkirk Airport",42.47439956665,-79.347198486328,610,"NA","US","US-NY",,"no",,,,,,,"KOVK, KOVK, OVK"
 29838,"US-12493","closed","East Hartford Airport",41.754199981689,-72.624702453613,49,"NA","US","US-CT","Hartford","no",,,,,,,"KEHT, KEHT, EHT"
 29862,"US-12494","closed","Fall River Airport",41.75555,-71.10907,190,"NA","US","US-MA","Fall River","no",,,,,,,"KFLR, KFLR, FLR"
