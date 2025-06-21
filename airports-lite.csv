@@ -12,7 +12,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 8159,19P,seaplane_base,Port Protection Seaplane Base,56.328800201416,-133.61000061035,0,NA,US,US-AK,Port Protection,yes,,PPV,19P,19P,,https://en.wikipedia.org/wiki/Port_Protection_Seaplane_Base,
 8383,1KC,small_airport,Kalakaket Creek AS Airport,64.4166256967,-156.820392609,1598,NA,US,US-AK,Kalakaket Creek,no,,KKK,1KC,1KC,,,
 8566,1O6,small_airport,Dunsmuir Muni-Mott Airport,41.263199,-122.272003,3258,NA,US,US-CA,Dunsmuir,no,,MHS,K1O6,1O6,,https://en.wikipedia.org/wiki/Dunsmuir_Municipal-Mott_Airport,
-8753,1XA2,small_airport,Chase Field Industrial Airport,28.362444,-97.661917,190,NA,US,US-TX,Beeville,no,,NIR,,TX2,,https://en.wikipedia.org/wiki/Chase_Field_Industrial_Complex,"1XA2, Naval Air Station Chase Field, Beeville Municipal Airport"
+8753,1XA2,small_airport,Chase Field Industrial Airport,28.362444,-97.661917,190,NA,US,US-TX,Beeville,no,,NIR,KTX2,TX2,,https://en.wikipedia.org/wiki/Chase_Field_Industrial_Complex,"1XA2, Naval Air Station Chase Field, Beeville Municipal Airport"
 8774,1Z1,small_airport,Grand Canyon Bar Ten Airstrip,36.258614,-113.231159,4100,NA,US,US-AZ,Littlefield,no,,GCT,,1Z1,,https://en.wikipedia.org/wiki/Grand_Canyon_Bar_10_Airport,Webbs Ranch
 8775,1Z9,seaplane_base,Ellamar Seaplane Base,60.893818,-146.704038,0,NA,US,US-AK,Ellamar,no,,ELW,,1Z9,,,
 9287,2AK,small_airport,Lime Village Airport,61.3591003418,-155.440002441,552,NA,US,US-AK,Lime Village,no,,LVD,2AK,2AK,,,23AK
@@ -8423,6 +8423,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6522,URWW,medium_airport,Volgograd International Airport,48.782501220703125,44.34550094604492,482,EU,RU,RU-VGG,Volgograd,yes,URWW,VOG,URWW,,,https://en.wikipedia.org/wiki/Volgograd_International_Airport,"Gumrak Airport, Аэропорт Волгоград, Аэропорт Гумрак"
 321938,US-0370,seaplane_base,Cape Air Seaplanes on Boston Harbor Seaplane Base,42.352502,-71.025832,0,NA,US,US-MA,Boston,no,,BNH,MA87,MA87,,,
 18358,US-0F3,small_airport,Spirit Lake Municipal Airport,43.387501,-95.139198,1434,NA,US,US-IA,Okoboji,no,,RTL,,0F3,,https://en.wikipedia.org/wiki/Spirit_Lake_Municipal_Airport,Lake Okoboji
+16503,US-11138,heliport,Anacostia USN Heliport,38.854049,-77.012046,20,NA,US,US-DC,Washington,no,KNDV,,KNDV,NDV,,https://en.wikipedia.org/wiki/Joint_Base_Anacostia-Bolling,"BOF, KBOF, Bolling AFB, Marine One"
 17471,US-12647,small_airport,Farewell Airport,62.509327,-153.892279,1535,NA,US,US-AK,Farewell,no,,FWL,,0AA4,,,PAFW
 19551,US-12648,small_airport,Corcoran Airport,36.102661,-119.594815,197,NA,US,US-CA,Corcoran,no,,CRO,,43CN,,https://en.wikipedia.org/wiki/Corcoran_Airport,"KRCO, CRO"
 20062,US-12649,small_airport,Park Township Airport,42.795898,-86.162003,603,NA,US,US-MI,Holland,no,,HLM,,KHLM,https://web.archive.org/web/20160430210208/http://park-township-airport.com/,https://en.wikipedia.org/wiki/Park_Township_Airport,KHLM
