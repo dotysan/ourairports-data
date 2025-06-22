@@ -1982,6 +1982,7 @@
 8624,"1PN1","small_airport","Napodano Airport",41.33420181274414,-80.42060089111328,1060,"NA","US","US-PA","Transfer","no",,,"1PN1","1PN1",,,
 8625,"1PN2","heliport","Green Hills Corp Heliport",40.26390075683594,-75.92220306396484,440,"NA","US","US-PA","Reading","no",,,"1PN2","1PN2",,,
 345581,"1PN4","heliport","Fulton County Medical Center Heliport",39.938221,-78.006937,956,"NA","US","US-PA","McConnellsburg","no",,,"1PN4","1PN4",,,
+598406,"1PN5","heliport","Lehigh Valley Health Network Kutztown Heliport",40.506777,-75.787261,494,"NA","US","US-PA","Kutztown","no",,,"1PN5","1PN5",,,
 8626,"1PR3","heliport","San Patricio Heliport",18.406099319458008,-66.10600280761719,157,"NA","PR","PR-U-A","Guaynabo","no",,,"1PR3","1PR3",,,
 8627,"1PS0","small_airport","Ickes Airport",40.191898345947266,-78.564697265625,1320,"NA","US","US-PA","Osterburg","no",,,"1PS0","1PS0",,,
 8629,"1PS3","heliport","P J Valves Heliport",40.36119842529297,-76.32469940185547,495,"NA","US","US-PA","Myerstown","no",,,"1PS3","1PS3",,,
@@ -4552,7 +4553,7 @@
 11176,"46OI","small_airport","Kellers Strip",41.68339920043945,-83.7666015625,700,"NA","US","US-OH","Sylvania","no",,,"46OI","46OI",,,
 11178,"46OR","heliport","Delamarter Heliport",45.642601013183594,-118.80899810791016,1275,"NA","US","US-OR","Pendleton","no",,,"46OR","46OR",,,
 11179,"46PA","heliport","St Margaret Memorial Hospital Heliport",40.489498138427734,-79.89450073242188,761,"NA","US","US-PA","Pittsburgh","no",,,"46PA","46PA",,,
-45743,"46PN","heliport","D.R. Helicopters Heliport",40.9,-75.866667,361,"NA","US","US-PA","Allentown","no",,,"46PN","46PN",,,
+45743,"46PN","heliport","D.R. Helicopters Heliport",40.648692,-75.541961,458,"NA","US","US-PA","Allentown","no",,,"46PN","46PN",,,
 11181,"46TA","small_airport","Gould Strip",28.129929,-98.859289,287,"NA","US","US-TX","Cotulla","no",,,"46TA","46TA",,,
 45792,"46TN","heliport","Pleasantville Pentacostal Church Heliport",35.674444,-87.6725,582,"NA","US","US-TN","Pleasantville","no",,,"46TN","46TN",,,
 11184,"46TX","small_airport","Phillips Corporation Airport",29.150800704956055,-95.49520111083984,30,"NA","US","US-TX","Angleton","no",,,"46TX","46TX",,,
@@ -43195,7 +43196,7 @@
 4340,"LIMC","large_airport","Milan Malpensa International Airport",45.6306,8.72811,768,"EU","IT","IT-25","Ferno (VA)","yes","LIMC","MXP","LIMC","MI12","http://www.sea-aeroportimilano.it/en/malpensa/index.phtml","https://en.wikipedia.org/wiki/Malpensa_Airport","MIL, Silvio Berlusconi"
 4341,"LIME","large_airport","Milan Bergamo Airport / Antonio Locatelli Air Base",45.670725,9.709223,782,"EU","IT","IT-25","Orio al Serio (BG)","yes","LIME","BGY","LIME","BG01","http://www.sacbo.it/","https://en.wikipedia.org/wiki/Orio_al_Serio_International_Airport","Bergamo Orio al Serio Airport, Il Caravaggio International Airport"
 4342,"LIMF","large_airport","Turin Airport",45.200802,7.64963,989,"EU","IT","IT-21","Caselle Torinese (TO)","yes","LIMF","TRN","LIMF","TO11","http://www.aeroportoditorino.it/","https://en.wikipedia.org/wiki/Turin_International_Airport","Torino-Caselle Airport, Sandro Pertini Airport, Turin-Caselle Airport"
-4343,"LIMG","medium_airport","Riviera Villanova d'Albenga International Airport",44.050598,8.12743,148,"EU","IT","IT-42","Villanova d'Albenga (SV)","no","LIMG","ALL","LIMG","SV01","http://www.rivierairport.it/","https://en.wikipedia.org/wiki/Villanova_d'Albenga_International_Airport","C. Panero Airport"
+4343,"LIMG","medium_airport","Riviera Villanova d'Albenga International Airport",44.050598,8.12743,148,"EU","IT","IT-42","Villanova d'Albenga (SV)","no","LIMG",,"LIMG","SV01","http://www.rivierairport.it/","https://en.wikipedia.org/wiki/Villanova_d'Albenga_International_Airport","ALL, C. Panero Airport"
 333827,"LIMH","heliport","Pian Rosà Heliport",45.933422,7.709344,11443,"EU","IT","IT-23","Valtournenche","no",,,"LIMH",,,,"Testa Grigia, Theodul Glacier, Plateau Rosà"
 4344,"LIMJ","large_airport","Genoa Cristoforo Colombo Airport",44.412039,8.840732,13,"EU","IT","IT-42","Genova (GE)","yes","LIMJ","GOA","LIMJ","GE01","http://www.aeroportodigenova.com/en/home/index.php","https://en.wikipedia.org/wiki/Genoa_Cristoforo_Colombo_Airport","Genova Sestri, Sestri Cristoforo Colombo Airport, Cristoforo Colombo Airport"
 4345,"LIML","medium_airport","Milano Linate Airport",45.445099,9.27674,353,"EU","IT","IT-25","Segrate (MI)","yes","LIML","LIN","LIML","MI11","http://www.sea-aeroportimilano.it/en/","https://en.wikipedia.org/wiki/Linate_Airport","E Forlanini"
@@ -67373,7 +67374,7 @@
 17150,"US-11230","closed","Josephs Airport",38.636956,-75.356374,42,"NA","US","US-DE","Georgetown","no",,,,,,,"DE49"
 17158,"US-11231","closed","Elk Grove Airport",38.392399,-121.331001,54,"NA","US","US-CA","Elk Grove","no",,,,,,"https://en.wikipedia.org/wiki/Elk_Grove_Airport","E27"
 17185,"US-11232","closed","Saginaw Airport",32.862597,-97.378098,770,"NA","US","US-TX","Fort Worth","no",,,,,,,"F04"
-17190,"US-11233","closed","Lake Whitney State Park Airport",31.9252,-97.3647,564,"NA","US","US-TX","Whitney","no",,,,,,,"KF50, KF50, F50"
+17190,"US-11233","closed","Lake Whitney State Park Airport",31.92529,-97.364833,564,"NA","US","US-TX","Whitney","no",,,,,,,"F50"
 17193,"US-11234","closed","Okemah Flying Field",35.43108,-96.28284,867,"NA","US","US-OK","Okemah","no",,,,,,,"F81"
 17197,"US-11235","closed","Southfork Airport",27.603901,-82.192903,109,"NA","US","US-FL","Duette","no",,,,,,,"FA03"
 17203,"US-11236","closed","BSO Public Safety Helistop",26.124546,-80.176543,8,"NA","US","US-FL","Fort Lauderdale","no",,,,,,,"FA10"
@@ -69013,6 +69014,11 @@
 598341,"US-12722","heliport","Christus Mother Frances Athens Heliport",32.173182,-95.843474,489,"NA","US","US-TX","Athens","no",,,"TA49","TA49",,,
 598343,"US-12723","seaplane_base","Bobs Seaplane Base",46.62507,-90.81763,602,"NA","US","US-WI","Ashland","no",,,"WI98","WI98",,,
 598347,"US-12724","small_airport","Flying K Ranch Airport",30.068495,-96.81187,442,"NA","US","US-TX","Ledbetter","no",,,"XS16","XS16",,,
+598408,"US-12725","heliport","Lehigh Valley Hospital Cedar Crest Ground Level Heliport",40.563386,-75.51913,413,"NA","US","US-PA","Allentown","no",,,,,,,
+598411,"US-12726","heliport","ThedaCare Medical Center Heliport",44.759985,-88.605106,821,"NA","US","US-WI","Shawano","no",,,,,"https://directory.thedacare.org/location/thedacare-medical-center-shawano",,
+598426,"US-12727","heliport","US Border Patrol, Eire Station Heliport",42.011478,-80.225655,933,"NA","US","US-PA","Fairview","no",,,,,"https://www.cbp.gov/border-security/along-us-borders/border-patrol-sectors/buffalo-sector-new-york/erie-station",,
+598431,"US-12728","heliport","Stone Bay Marine Corps Station Heliport",34.584057,-77.453163,47,"NA","US","US-NC","Dixon","no",,,,,,,"Rifle range"
+598435,"US-12729","heliport","NSA Crane Heliport",38.869365,-86.83581,733,"NA","US","US-IN","Crane","no",,,,,"https://www.navfac.navy.mil/Divisions/Environmental/Products-and-Services/Environmental-Restoration/Mid-Atlantic/Crane-NSA/",,
 334283,"US-1273","heliport","St Lukes Monroe Heliport",40.997189,-75.26095,699,"NA","US","US-PA","Stroudsburg","no",,,"PA13","PA13",,,
 334309,"US-1274","small_airport","Ottertail Lake Airport",45.818929,-111.695886,4155,"NA","US","US-MT","Three Forks","no",,,"MT36","MT36",,,
 334311,"US-1275","seaplane_base","Mirror Lake Seaplane Base",43.621666,-71.263889,509,"NA","US","US-NH","Tuftonboro","no",,,"NH64","NH64",,,
@@ -70791,7 +70797,7 @@
 340874,"US-3046","heliport","Navarro Regional Hospital Heliport",32.083052,-96.503059,444,"NA","US","US-TX","Corsicana","no",,,"25TE","25TE",,,
 340876,"US-3047","small_airport","Socks Flyers Airport",38.883619,-84.257711,625,"NA","US","US-KY","California","no",,,"29KY","29KY",,,
 340919,"US-3048","closed","Guest Ranch Airport",29.25701,-98.46748,,"NA","US","US-TX","San Antonio","no",,,,,,,
-340920,"US-3049","closed","Hillsboro Municipal Airport (1966)",32.04684,-97.11627,,"NA","US","US-TX","Hillsboro","no",,,,,,,
+340920,"US-3049","closed","Hillsboro Municipal Airport (1966)",32.047873,-97.116655,,"NA","US","US-TX","Hillsboro","no",,,,,,,"F74"
 340921,"US-3050","closed","Belton Airport",31.04439,-97.48441,673,"NA","US","US-TX","Belton","no",,,,,,,
 340922,"US-3051","closed","Prairie Hill Air Force Auxiliary Field",31.63411,-96.7903,,"NA","US","US-TX","Mart","no",,,,,,,
 340923,"US-3052","small_airport","Wieser Angus Ranch Airport",30.2521,-98.824486,1643,"NA","US","US-TX","Fredericksburg","no",,,"35TE","35TE",,,
@@ -75238,7 +75244,7 @@
 505993,"US-7490","small_airport","Parcel Six Ranch Airport",46.62493,-113.9359,4450,"NA","US","US-MT","Florence","no",,,"MT66","MT66",,,
 505995,"US-7491","small_airport","Temperance Creek USFS Airport",45.534184,-116.535173,1330,"NA","US","US-OR","Imnaha","no",,,"OR01","OR01",,,
 506000,"US-7492","small_airport","Morrison Airport",41.073333,-104.410833,5570,"NA","US","US-WY","Carpenter,","no",,,"WY02","WY02",,,
-506003,"US-7493","closed","Anniston Air Force Base",33.566105,-86.064427,522,"NA","US","US-AL","Talladega","no",,,,,,"https://en.wikipedia.org/wiki/Anniston_Air_Force_Base",
+506003,"US-7493","closed","Anniston Air Force Base",33.566105,-86.064427,522,"NA","US","US-AL","Talladega","no",,,,,,"https://en.wikipedia.org/wiki/Anniston_Air_Force_Base","KANB, ANB"
 506004,"US-7494","heliport","Point Retreat CG Light Station Helipad",58.41066,-134.954772,26,"NA","US","US-AK","Admiralty Island","yes",,,,,,"https://en.wikipedia.org/wiki/Point_Retreat_Light","Lynn Canal"
 506011,"US-7495","small_airport","Sundance Ranch Airport",43.726993,-111.033553,4926,"NA","US","US-WY","Alta","no",,,"WY08","WY08",,,
 506032,"US-7496","heliport","La Porte Hospital Helipad",41.609793,-86.728,869,"NA","US","US-IN","La Porte","no",,,"98IN","98IN",,,
