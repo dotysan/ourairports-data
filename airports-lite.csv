@@ -480,7 +480,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 16403,AZ15,heliport,Lava Falls Heliport,36.191600799599996,-113.092002869,1720,NA,US,US-AZ,Supai Village,no,,HAE,AZ15,AZ15,,,Havasupai Airport
 301690,AZB,small_airport,Amazon Bay Airport,-10.2991666667,149.338333333,12,OC,PG,PG-CPM,,no,,AZB,,AZB,,,
 43884,BA-0001,small_airport,Ciljuge Sport Airfield,44.436094,18.686457,725,EU,BA,BA-BIH,Bašigovci,no,LQCG,,LQCG,,,,
-317425,BA-0002,small_airport,Banja Luka Zalužani Airfield,44.8482,17.222826,,EU,BA,BA-BIH,Zalužani,no,LQBZ,,LQBZ,,,,Sportski Aerodrom Zalužani
+317425,BA-0002,small_airport,Banja Luka Zalužani Airfield,44.8482,17.222826,,EU,BA,BA-SRP,Zalužani,no,LQBZ,,LQBZ,,,,Sportski Aerodrom Zalužani
 301840,BAJ,small_airport,Bali Airport,-4.8833333333299995,149.133333333,90,OC,PG,PG-WBK,Unea Island,no,,BAJ,,BALI,,,
 27301,BCW,medium_airport,Benguera Island Airport,-21.8533,35.438301,,AF,MZ,MZ-I,Benguera Island,no,,BCW,,,,https://en.wikipedia.org/wiki/Benguera_Island_Airport,
 301872,BCZ,small_airport,Milyakburra Airport,-13.780833333299999,136.201666667,85,OC,AU,AU-NT,Bickerton Island,no,,BCZ,,YBIC,,https://en.wikipedia.org/wiki/Bickerton_Island,
@@ -1693,7 +1693,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29173,EGPR,medium_airport,Barra Airport,57.0228,-7.44306,5,EU,GB,GB-SCT,Eoligarry,yes,EGPR,BRR,EGPR,,http://www.hial.co.uk/barra-airport.html,https://en.wikipedia.org/wiki/Barra_Airport_(Scotland),"Barra Eoligarry Airport, Barra Island"
 29175,EGPT,small_airport,Perth/Scone Airport,56.439201,-3.37222,397,EU,GB,GB-SCT,Perth,no,EGPT,PSL,EGPT,,https://www.perthairport.co.uk/,https://en.wikipedia.org/wiki/Perth_Airport_(Scotland),
 2469,EGPU,medium_airport,Tiree Airport,56.49919891357422,-6.869170188903809,38,EU,GB,GB-SCT,Balemartine,yes,EGPU,TRE,EGPU,,http://www.hial.co.uk/tiree-airport.html,https://en.wikipedia.org/wiki/Tiree_Airport,Inner Hebrides
-29176,EGPW,small_airport,Unst Airport,60.7472,-0.85385,,EU,GB,GB-SCT,"Baltasound, Shetland Islands",no,EGPW,UNT,EGPW,,,https://en.wikipedia.org/wiki/Unst_Airport,
+29176,EGPW,small_airport,Unst Airport,60.7472,-0.85385,,EU,GB,GB-SCT,"Baltasound, Shetland Islands",no,EGPW,,EGPW,,,https://en.wikipedia.org/wiki/Unst_Airport,
 2471,EGQL,medium_airport,Leuchars Station Airfield,56.37398,-2.868862,38,EU,GB,GB-SCT,"Leuchars, Fife",no,EGQL,ADX,EGQL,,,https://en.wikipedia.org/wiki/Leuchars_Station,
 2472,EGQS,medium_airport,RAF Lossiemouth,57.7052001953125,-3.339169979095459,42,EU,GB,GB-SCT,Lossiemouth,no,EGQS,LMO,EGQS,,http://www.raf.mod.uk/raflossiemouth/,https://en.wikipedia.org/wiki/RAF_Lossiemouth,
 2473,EGSC,medium_airport,Cambridge City Airport,52.205002,0.175,47,EU,GB,GB-ENG,"Cambridge, Cambridgeshire",no,EGSC,CBG,EGSC,,http://www.cambridgeairport.com/,https://en.wikipedia.org/wiki/Cambridge_City_Airport,Marshall Airport Cambridge UK
@@ -5271,7 +5271,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4367,LIPY,medium_airport,Marche Airport,43.616299,13.3623,49,EU,IT,IT-57,Falconara Marittima (AN),yes,LIPY,AOI,LIPY,AN01,http://www.aeroportomarche.com/index.php?lang=english,https://en.wikipedia.org/wiki/Marche_Airport,"Ancona, Ancona Falconara Airport, Falconara, Raffaello Sanzio Airport"
 4368,LIPZ,large_airport,Venice Marco Polo Airport,45.505299,12.3519,7,EU,IT,IT-34,Venezia (VE),yes,LIPZ,VCE,LIPZ,VE05,http://www.veniceairport.com/core/index.jsp?_requestid=37300&language=en,https://en.wikipedia.org/wiki/Venice_Marco_Polo_Airport,"Venezia-Tessera, Venice-Tessera"
 29440,LIQL,small_airport,Lucca-Tassignano Airport,43.825825,10.577928,39,EU,IT,IT-52,Capannori (LU),no,LIQL,LCV,LIQL,LU02,,http://it.wikipedia.org/wiki/Aeroporto_di_Lucca-Tassignano,Enrico Squaglia Airport
-4369,LIQS,medium_airport,Siena-Ampugnano Airport,43.256302,11.255,634,EU,IT,IT-52,Ampugnano (SI),no,LIQS,SAY,LIQS,SI01,,https://en.wikipedia.org/wiki/Siena-Ampugnano_Airport,Malignano Airfield
+4369,LIQS,medium_airport,Siena-Ampugnano Airport,43.256302,11.255,634,EU,IT,IT-52,Ampugnano (SI),no,LIQS,,LIQS,SI01,,https://en.wikipedia.org/wiki/Siena-Ampugnano_Airport,Malignano Airfield
 4370,LIRA,medium_airport,Ciampino–G. B. Pastine International Airport,41.7994,12.5949,427,EU,IT,IT-62,Rome,yes,LIRA,CIA,LIRA,RM12,,https://en.wikipedia.org/wiki/Ciampino%E2%80%93G._B._Pastine_International_Airport,"ROM, Giovan Battista Pastine Airport"
 4372,LIRF,large_airport,Rome–Fiumicino Leonardo da Vinci International Airport,41.804532,12.251998,13,EU,IT,IT-62,Rome,yes,LIRF,FCO,LIRF,RM11,http://www.adr.it/portal/portal/adr/Fiumicino/Leonardo_da_vinci/Header_Window?action=2,https://en.wikipedia.org/wiki/Rome_Fiumicino_Airport,"ROM, Rome Fiumicino Airport, Fiumicino Airport"
 4374,LIRI,medium_airport,Salerno Costa d'Amalfi Airport,40.620399,14.9113,123,EU,IT,IT-72,Salerno,yes,LIRI,QSR,LIRI,SA02,http://www.aeroportosalerno.it/,https://en.wikipedia.org/wiki/Salerno_Costa_d%27Amalfi_Airport,"Mario Martucci Airport, Aeroporto di Salerno Costa d'Amalfi, Salerno-Pontecagnano Airport"
@@ -8354,7 +8354,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6487,UKOO,medium_airport,Odessa International Airport,46.4268,30.6765,172,EU,UA,UA-51,Odessa,yes,UKOO,ODS,UKOO,,http://www.airport.od.ua/,https://en.wikipedia.org/wiki/Odessa_International_Airport,"Odesa Central, Міжнародний аеропорт Одеса"
 30535,UKWW,medium_airport,Vinnytsia/Gavyryshivka International Airport,49.242531,28.613778,961,EU,UA,UA-05,Vinnitsa,no,UKWW,VIN,UKWW,,,https://en.wikipedia.org/wiki/Havryshivka_Vinnytsia_International_Airport,"Gavrishevka Airport, Gavrishivka Airport, Аэропорт Гавришевка , Аэропорт Гавришiвка"
 6488,ULAA,medium_airport,Talagi Airport,64.60030364990234,40.71670150756836,62,EU,RU,RU-ARK,Archangelsk,yes,ULAA,ARH,ULAA,,,https://en.wikipedia.org/wiki/Talagi_Airport,"Арха́нгельск, Archangel"
-35124,ULAH,medium_airport,Vaskovo Airport,64.441704,40.4217,82,EU,RU,RU-ARK,Arkhangelsk,no,,VKV,ULAH,XLAH,,https://en.wikipedia.org/wiki/Vaskovo_Airport,"Аэропорт Архангельск Васьково, УЛАХ, ЬЛАХ, Vas'kovo"
+35124,ULAH,medium_airport,Vaskovo Airport,64.441704,40.4217,82,EU,RU,RU-ARK,Arkhangelsk,no,,VKV,ULAH,ULAH,,https://en.wikipedia.org/wiki/Vaskovo_Airport,"Аэропорт Архангельск Васьково, УЛАХ, ЬЛАХ, Vas'kovo"
 44768,ULAL,small_airport,Leshukonskoye Airport,64.8960037231,45.7229995728,220,EU,RU,RU-ARK,Leshukonskoye,yes,ULAL,LDG,ULAL,,,https://en.wikipedia.org/wiki/Leshukonskoye_Airport,"Leshukonskoe Airport, Аэропорт Лешуконское"
 32040,ULAM,medium_airport,Naryan Mar Airport,67.639999,53.121899,36,EU,RU,RU-NEN,Naryan Mar,yes,ULAM,NNM,ULAM,,,https://en.wikipedia.org/wiki/Naryan-Mar_Airport,Нарья́н-Мар
 42918,ULAS,small_airport,Solovki Airport,65.029999,35.733334,60,EU,RU,RU-ARK,Solovetsky Islands,yes,,CSH,ULAS,ULAS,,https://en.wikipedia.org/wiki/Solovki_Airport,"Аэропорт Соловки, УЛАС"
@@ -9025,7 +9025,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26760,WALL,large_airport,Sultan Aji Muhammad Sulaiman Sepinggan International Airport,-1.268342,116.89452,12,AS,ID,ID-KI,Balikpapan,yes,WALL,BPN,WALL,,http://sepinggan-airport.com/,https://en.wikipedia.org/wiki/Sultan_Aji_Muhamad_Sulaiman_Airport,"WRLL, Balikpapan Airport, Sepinggan Airport, Sepinggang Airfield"
 26762,WALR,medium_airport,Juwata International Airport / Suharnoko Harbani AFB,3.325145,117.564169,23,AS,ID,ID-KU,Tarakan,yes,WAQQ,TRK,WAQQ,TRK,http://www.tarakan-airport.com,https://en.wikipedia.org/wiki/Juwata_Airport,"WRLR, WALR, WAQQ, TRK, JUWATA, TARAKAN"
 26763,WALS,medium_airport,Aji Pangeran Tumenggung Pranoto International Airport,-0.374478,117.250128,82,AS,ID,ID-KI,Samarinda,yes,WALS,AAP,WALS,,,https://en.wikipedia.org/wiki/Aji_Pangeran_Tumenggung_Pranoto_International_Airport,Sungai Siring Airport
-26764,WALT,small_airport,Tanjung Santan Airport,-0.0929730013013,117.45300293,121,AS,ID,ID-KI,Santan-Borneo Island,no,WALT,TSX,WALT,,,,WRLT
+26764,WALT,small_airport,Tanjung Santan Airport,-0.092633,117.439109,121,AS,ID,ID-KI,Santan-Borneo Island,no,WALT,,WALT,TSX,,,WRLT
 26765,WALV,small_airport,Bunyu Airport,3.45572,117.866997,118,AS,ID,ID-KU,Bunju Island,no,,BYQ,WAQB,,,http://id.wikipedia.org/wiki/Bandar_Udara_Bunyu,"WALV, WRLV, WA1C"
 31540,WAMA,small_airport,Gamarmalamo Airport,1.83833,127.786003,157,AS,ID,ID-MU,Galela-Celebes Island,no,WAEG,GLX,WAEG,,,https://en.wikipedia.org/wiki/Gamar_Malamo_Airport,
 331796,WAME,small_airport,Buli Airport,0.917144,128.382116,7,AS,ID,ID-MU,Pekaulang,no,WAEM,PGQ,WAEM,,,https://en.wikipedia.org/wiki/Buli_Airport,
