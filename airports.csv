@@ -12709,6 +12709,14 @@
 340206,"BH-0006","heliport","Bahrain Defense Force Heliport",26.18973,50.586,17,"AS","BH","BH-13","Isa Town","no",,,,,,,
 340531,"BH-0007","heliport","Block 997 Heliport",25.865112,50.553293,,"AS","BH","BH-14","Block 997","no",,,,,,,
 340532,"BH-0008","heliport","Block 998 Heliport",25.861811,50.551195,,"AS","BH","BH-14","Block 998","no",,,,,,,
+598482,"BH-0009","medium_airport","vz99gift2",86,75,,"AS","BH","BH-16","hồ chí minh","no",,,,,"http://vz99.gift/",,
+598492,"BH-0010","heliport","Um al Nasaan Helipad",26.164161,50.412375,,"AS","BH","BH-17","Um al Basaan","no",,,,,,,
+598494,"BH-0011","heliport","Ritz-Carlton Helipad",26.248424,50.535839,,"AS","BH","BH-13","Manama","no",,,,,,,
+598495,"BH-0012","heliport","Bahrain Customs HQ Helipad",26.224268,50.675384,,"AS","BH","BH-15","Al Hidd","no",,,,,,,
+598496,"BH-0013","heliport","Alghurayfah Navy Base Helipad",26.200727,50.611342,,"AS","BH","BH-13","Alghurayfah","no",,,,,,,
+598497,"BH-0014","heliport","Amwaj Heliport",26.278596,50.666969,,"AS","BH","BH-15","Amwaj Island","no",,,,,,,
+598498,"BH-0015","heliport","Hawar Island Heliport",25.72041,50.795782,,"AS","BH","BH-14","Hawar Island","no",,,,,,,
+598499,"BH-0016","heliport","Hawar Island Police Helipad",25.721636,50.790086,,"AS","BH","BH-14","Hawar Island","no",,,,,,,
 30705,"BHL","small_airport","Bahía de los Ángeles Airport",28.9786,-113.560997,34,"NA","MX","MX-BCN","Ensenada","no",,"BHL",,"BAX",,"https://en.wikipedia.org/wiki/Bah%C3%ADa_de_los_%C3%81ngeles_Airport",
 302410,"BHT","small_airport","Brighton Downs Airport",-23.363333,141.562778,390,"OC","AU","AU-QLD","Brighton Downs","no",,"BHT","YBTD",,,,
 318985,"BI-0001","small_airport","Ruyigi Airport",-3.471371,30.231485,5194,"AF","BI","BI-RY","Ruyigi","no",,,,,,,
@@ -16077,6 +16085,12 @@
 595835,"BR-3254","small_airport","Fazenda Tosana Airstrip",-22.596944,-42.025,10,"SA","BR","BR-RJ","Cabo Frio","no",,,"SSTY","RJ0027",,,
 596592,"BR-3256","small_airport","Fazenda Santa Clara Castelli Airstrip",-9.736146,-46.63697,2480,"SA","BR","BR-MA","Alto Parnaíba","no",,,"SN65","MA0161",,,
 597046,"BR-3257","small_airport","Fazenda Camparino Airport",-16.240182,-58.387908,449,"SA","BR","BR-MT","Cáceres","no",,,"SNCM","MT0242",,,
+598487,"BR-3258","small_airport","Fazenda Água das Pedras Airport",-22.655804,-48.147575,1650,"SA","BR","BR-SP","Anhembi","no",,,"SSYQ","SP0265",,,
+598489,"BR-3259","small_airport","José Mendes Ribeiro Airport",-6.49999,-43.684519,1188,"SA","BR","BR-MA","São João dos Patos","no",,,"SSYR","MA0049",,,
+598490,"BR-3260","small_airport","Aerodinâmica Aviação Agrícola Airport",-24.305534,-47.503187,108,"SA","BR","BR-U-A","Miracatu","no",,,"SSYS","SP0266",,,
+598491,"BR-3261","heliport","Business Style Helipad",-16.697228,-49.255805,2959,"SA","BR","BR-GO","Goiânia","no",,,"SSYT","GO0173",,,
+598493,"BR-3262","heliport","José Antonio Andreetta Heliport",-28.303637,-52.324708,2313,"SA","BR","BR-RS","Passo Fundo","no",,,,,,,"SSYU"
+598500,"BR-3263","small_airport","Fazenda Angra dos Reis Airport",2.993511,-60.696901,276,"SA","BR","BR-RR","Boa Vista","no",,,"SSZA","RR0105",,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -29368,6 +29382,7 @@
 595235,"GB-1327","heliport","Penzance Heliport",50.130376,-5.513946,,"EU","GB","GB-ENG","Penzance, Cornwall","yes","EGHK","PZE",,,"https://penzanceheliport.co.uk/","https://en.wikipedia.org/wiki/Penzance_Heliport",
 597181,"GB-1328","closed","RNAS Inskip (HMS Nightjar)",53.827559,-2.836441,50,"EU","GB","GB-ENG",,"no",,,,,,"https://en.wikipedia.org/wiki/RNAS_Inskip_(HMS_Nightjar)","Military, RNAS, DHFCS"
 597967,"GB-1329","heliport","HMS Queen Elizabeth carrier",50.80275,-1.11194,45,"EU","GB","GB-U-A",,"no",,,,,,,
+598468,"GB-1330","small_airport","Lartington Moor Airstrip",54.53098,-2.10375,,"EU","GB","GB-ENG",,"no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,"DOC",,,"http://www.dornochairfield.com/",,"EG08, EGZJ"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO"
@@ -43125,7 +43140,7 @@
 317407,"LIAA","small_airport","Aviosuperficie ""Alvaro Leonardi""",42.573333,12.584444,374,"EU","IT","IT-55","Terni","no",,,"LIAA",,"http://www.avioleonarditerni.it","https://it.wikipedia.org/wiki/Aviosuperficie_Alvaro_Leonardi",
 29414,"LIAF","small_airport","Foligno Airfield",42.9328,12.7101,730,"EU","IT","IT-55","Foligno (PG)","no",,,"LIAF","PG02",,"https://en.wikipedia.org/wiki/Foligno_Airport",
 317856,"LIAL","small_airport","Aviosuperficie Sant'Illuminato",43.353667,12.216667,984,"EU","IT","IT-55","Città di Castello (PG)","no",,,"LIAL","PG07",,,
-4307,"LIAP","small_airport","L'Aquila–Preturo Airport",42.379902,13.3092,2211,"EU","IT","IT-65","L'Aquila","no","LIAP","QAQ","LIAP","AQ03","http://www.aeroportodeiparchi.it/","https://en.wikipedia.org/wiki/L%27Aquila%E2%80%93Preturo_Airport","Parchi Airport, Preturo Airport, Aeroporto dei Parchi di I'Aquila Preturo"
+4307,"LIAP","small_airport","L'Aquila–Preturo Airport",42.379902,13.3092,2211,"EU","IT","IT-65","L'Aquila","no","LIAP",,"LIAP","AQ03","http://www.aeroportodeiparchi.it/","https://en.wikipedia.org/wiki/L%27Aquila%E2%80%93Preturo_Airport","QAQ, Parchi Airport, Preturo Airport, Aeroporto dei Parchi di I'Aquila Preturo"
 29415,"LIAQ","small_airport","Aquino Airfield",41.493566,13.717942,361,"EU","IT","IT-62","Aquino","no",,,"LIAQ","FR01",,"https://it.wikipedia.org/wiki/Aeroporto_di_Aquino",
 317010,"LIAR","small_airport","Furbara Air Base",41.994532,12.0135,,"EU","IT","IT-62","Fubara","no",,,"LIAR",,,"https://it.wikipedia.org/wiki/Aeroporto_di_Furbara",
 316448,"LIAT","small_airport","Valdera Airfield",43.592164,10.696294,39,"EU","IT","IT-52","Capannoli (PI)","no",,,"LIAT","PI04","http://www.aeroclubdipisa.it",,"Valdera, Aeroclub Pisa"
@@ -43212,7 +43227,7 @@
 29443,"LIPA","medium_airport","Aviano Air Base",46.031898,12.596503,410,"EU","IT","IT-36","Aviano (PN)","no","LIPA","AVB","LIPA",,"http://www.aviano.af.mil/","https://en.wikipedia.org/wiki/Aviano_Air_Base","Pagliano e Gori Airport, LIYW"
 4352,"LIPB","medium_airport","Bolzano Airport",46.460201,11.3264,789,"EU","IT","IT-32","Bolzano (BZ)","yes","LIPB","BZO","LIPB","BZ01","http://www.abd-airport.it/en/home.htm","https://en.wikipedia.org/wiki/Bolzano_Airport","G Sabelli"
 4353,"LIPC","medium_airport","Cervia Air Base",44.224201,12.3072,18,"EU","IT","IT-45","Cervia (RA)","no",,,"LIPC","RA08",,"https://en.wikipedia.org/wiki/Cervia_Air_Base","G Cenni, Pisignano"
-29434,"LIPD","small_airport","Udine-Campoformido Air Base",46.0308,13.18225,305,"EU","IT","IT-36","Campoformido (UD)","no","LIPD","UDN","LIPD","UD07",,"https://it.wikipedia.org/wiki/Aeroporto_di_Udine-Campoformido",
+29434,"LIPD","small_airport","Udine-Campoformido Airfield",46.0308,13.18225,305,"EU","IT","IT-36","Campoformido (UD)","no","LIPD",,"LIPD","UD07","https://www.aeroclubfriulano.com/","https://it.wikipedia.org/wiki/Aeroporto_di_Udine-Campoformido","UDN, Udine-Campoformido Air Base"
 4354,"LIPE","large_airport","Bologna Guglielmo Marconi Airport",44.5354,11.2887,123,"EU","IT","IT-45","Bologna","yes","LIPE","BLQ","LIPE","BO08","http://www.bologna-airport.it/?LN=UK","https://en.wikipedia.org/wiki/Bologna_Airport","Guglielmo Marconi Airport, Borgo Panigale Airport"
 29435,"LIPF","small_airport","Ferrara-San Luca Airfield",44.812328,11.613884,20,"EU","IT","IT-45","Ferrara (FE)","no",,,"LIPF","FE05",,"https://it.wikipedia.org/wiki/Aeroporto_di_Ferrara",
 29436,"LIPG","small_airport","Gorizia Duca d'Aosta Airfield",45.906898,13.5993,207,"EU","IT","IT-36","Gorizia (GO)","no",,,"LIPG","GO01","https://aeroportogorizia.it/","https://it.wikipedia.org/wiki/Aeroporto_di_Gorizia",
@@ -62098,17 +62113,18 @@
 37745,"SSYJ","heliport","Igreja Messiânica Mundial do Brasil Heliport",-23.761943817138672,-46.75555419921875,2513,"SA","BR","BR-SP","São Paulo","no",,,"SSYJ",,,,
 37747,"SSYL","small_airport","Fazenda Tuju Puitan Airport",-23.341110229492188,-54.56888961791992,1142,"SA","BR","BR-MS","Iguatemi","no",,,"SSYL",,,,
 37750,"SSYO","small_airport","Cachoeira Rica Airport",-15.2625,-55.614723,1155,"SA","BR","BR-MT","Chapada dos Guimarães","no",,,,,,,
-37751,"SSYQ","small_airport","Agropecuária Monte Alverne Airport",-28.378889083862305,-52.87944412231445,1752,"SA","BR","BR-RS","Carazinho","no",,,"SSYQ",,,,
+598484,"SSYP","small_airport","Gessomar Airport",-4.521275,-43.919575,190,"SA","BR","BR-MA","Codó","no",,,"SSYP","MA0048",,,
+37751,"SSYQ","small_airport","Agropecuária Monte Alverne Airport",-28.378889,-52.879444,1752,"SA","BR","BR-RS","Carazinho","no",,,,,,,"SSYQ"
 37752,"SSYR","small_airport","Fazenda Santa Maria Airport",-20.346468,-52.319283,1306,"SA","BR","BR-MS","Três Lagoas","no",,,"SD3D","MS0542",,,"SSYR"
-37753,"SSYS","small_airport","Fazenda Imbaúba Airport",-19.908889770507812,-52.5363883972168,1552,"SA","BR","BR-MS","Três Lagoas","no",,,"SSYS",,,,
-37754,"SSYT","small_airport","Itapiranga Airport",-27.142499923706055,-53.68579864501953,1247,"SA","BR","BR-SC","Itapiranga","no",,,"SSYT","SSYT",,,
+37753,"SSYS","small_airport","Fazenda Imbaúba Airport",-19.90889,-52.536388,1552,"SA","BR","BR-MS","Três Lagoas","no",,,,,,,"SSYS"
+37754,"SSYT","small_airport","Itapiranga Airport",-27.1425,-53.685799,1247,"SA","BR","BR-SC","Itapiranga","no",,,,,,,"SSYT"
 37755,"SSYU","small_airport","Fazenda Três Pontes Airport",-19.830639,-52.585309,1440,"SA","BR","BR-MS","Três Lagoas","no",,,"SJGT","MS0166",,,"SSYU, Água Clara"
 37756,"SSYV","small_airport","Fazenda Progresso Airport",-19.726388931274414,-52.85139083862305,1650,"SA","BR","BR-MS","Água Clara","no",,,"SSYV",,,,
-37757,"SSYW","small_airport","Fazenda Terra Forte Airport",-18.268333435058594,-54.782501220703125,1460,"SA","BR","BR-MS","Coxim","no",,,"SSYW",,,,
+37757,"SSYW","closed","Fazenda Terra Forte Airport",-18.266569,-54.778775,1460,"SA","BR","BR-MS","Coxim","no",,,,,,,"SSYW, MS0354"
 37759,"SSYY","small_airport","Fazenda Fundãozinho Airport",-18.95111083984375,-53.149444580078125,1923,"SA","BR","BR-MS","Costa Rica","no",,,"SSYY",,,,
 37760,"SSYZ","small_airport","Fazenda Procomp II Airport",-22.851110458374023,-55.39611053466797,2080,"SA","BR","BR-MS","Aral Moreira","no",,,"SSYZ",,,,
-37761,"SSZA","small_airport","Fazenda São Sebastião da Formosa Airport",-17.72222137451172,-56.753334045410156,331,"SA","BR","BR-MS","Corumbá","no",,,"SSZA",,,,
-37763,"SSZC","small_airport","Fazenda Lambari Airport",-18.025275,-54.999262,564,"SA","BR","BR-MS","Coxim","no",,,"SI4E","MS0603",,,"SWLL, SSCZ"
+37761,"SSZA","small_airport","Fazenda São Sebastião da Formosa Airport",-17.722221,-56.753334,331,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SSZA"
+37763,"SSZC","small_airport","Fazenda Lambari Airport",-18.025275,-54.999262,564,"SA","BR","BR-MS","Coxim","no",,,"SI4E","MS0603",,,"SWLL, SSZC"
 37765,"SSZF","small_airport","Fazenda Santa Gertrudes Airport",-18.4777774810791,-56.02166748046875,150,"SA","BR","BR-MS","Corumbá","no",,,"SSZF",,,,
 37766,"SSZG","small_airport","Fazenda São João Airport",-19.257221221923828,-52.89638900756836,1575,"SA","BR","BR-MS","Água Clara","no",,,"SSZG",,,,
 37767,"SSZH","small_airport","Fazenda Corrientes Airport",-23.645969,-54.714375,1122,"SA","BR","BR-MS","Tacuru","no",,,"SSZH","MS0359",,,"Procomp I"
@@ -63821,6 +63837,7 @@
 32386,"TR-0300","closed","Samsun Samair Airport",41.278645,36.30518,521,"AS","TR","TR-55","Samsun","no",,,,,,,"LTAQ, LTAQ"
 44777,"TR-0301","closed","Kayseri Airport",38.406299591064,35.327800750732,,"AS","TR","TR-38","Develi","no",,,,,,,"LTAM, LTAM"
 44779,"TR-0302","closed","Alaşehir Airport",38.369999,28.5571,,"AS","TR","TR-45","Alaşehir","no",,,,,,,"LTBC"
+598475,"TR-0303","heliport","Serik Bus Station Helipad",36.913289,31.083723,90,"AS","TR","TR-07","Serik","no","XXXX","XXX",,,,,
 43074,"TRPG","medium_airport","John A. Osborne Airport",16.791401,-62.193298,550,"NA","MS","MS-SP","Gerald's Park","yes","TRPG","MNI","TRPG",,,"https://en.wikipedia.org/wiki/John_A._Osborne_Airport","Gerald's Airport, Brades"
 25017,"TS00","small_airport","Fuller Airport",32.787314,-97.180499,490,"NA","US","US-TX","Fort Worth","no",,,"TS00","TS00",,,
 25019,"TS02","small_airport","One Sixty Four Place Airport",33.119598388671875,-98.23059844970703,1200,"NA","US","US-TX","Jacksboro","no",,,"TS02","TS02",,,
