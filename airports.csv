@@ -22337,6 +22337,7 @@
 598102,"DE-0916","closed","Cologne Butzweilerhof Airport",50.984,6.887222,158,"EU","DE","DE-NW","Colongne","no",,,,,,"https://en.wikipedia.org/wiki/Cologne_Butzweilerhof_Airport","Manfred von Richthofen"
 598257,"DE-0917","seaplane_base","Hubertushöhe Seaplane Base",52.23822,13.97379,,"EU","DE","DE-BR",,"no",,,,,,,
 598403,"DE-0918","closed","Sana Hospital Offenbach Heliport",50.093103,8.756274,350,"EU","DE","DE-HE","Offenbach am Main","no",,,,,,,
+598516,"DE-0919","heliport","Kesselsdorf Heliport",51.033016,13.581533,,"EU","DE","DE-SN",,"no",,,,,,,
 17115,"DE00","small_airport","Doyle's Airport",39.02069854736328,-75.57710266113281,51,"NA","US","US-DE","Felton","no",,,"DE00","DE00",,,
 17117,"DE02","heliport","Delaware State Police Heliport",39.20009994506836,-75.53299713134766,50,"NA","US","US-DE","Dover","no",,,"DE02","DE02",,,
 17118,"DE03","heliport","Dover Downs Helistop",39.18339920043945,-75.52459716796875,28,"NA","US","US-DE","Dover","no",,,"DE03","DE03",,,
@@ -25650,7 +25651,7 @@
 30466,"FDTM","small_airport","Tambankulu Airport",-26.106429,31.919489,811,"AF","SZ","SZ-LU","Tambankulu","no","FDTM",,"FDTM",,,"https://en.wikipedia.org/wiki/Tambankulu_Airfield",
 30495,"FDTS","small_airport","Tshaneni Airport",-25.983334,31.200001,1020,"AF","SZ","SZ-HH","Tshaneni","no","FDTS",,"FDTS",,,"https://en.wikipedia.org/wiki/Tshaneni_Airfield",
 41312,"FDUB","small_airport","Ubombo Ranches Airport",-26.7708,31.936399,,"AF","SZ","SZ-LU","Big Bend","no","FDUB",,"FDUB",,,"https://en.wikipedia.org/wiki/Ubombo_Ranches_Airfield",
-300713,"FEA","small_airport","Fetlar Airstrip",60.603333,-0.872778,263,"EU","GB","GB-SCT","Fetlar Island","no",,"FEA",,,,"https://de.wikipedia.org/wiki/Flugplatz_Fetlar",
+300713,"FEA","small_airport","Fetlar Airstrip",60.603333,-0.872778,263,"EU","GB","GB-SCT","Fetlar Island","no",,,,,,"https://de.wikipedia.org/wiki/Flugplatz_Fetlar","FEA"
 31111,"FEFA","small_airport","Alindao Airport",5.022184,21.198635,1470,"AF","CF","CF-BK","Alindao","no","FEFA",,"FEFA",,,"https://en.wikipedia.org/wiki/Alindao_Airport",
 46207,"FEFB","small_airport","Poste Airport",5.403889,26.487222,2137,"AF","CF","CF-HM","Obo","no","FEFB",,"FEFB",,,"https://en.wikipedia.org/wiki/Poste_Airport",
 30850,"FEFC","small_airport","Carnot Airport",4.936999797821045,15.894000053405762,1985,"AF","CF","CF-HS","Carnot","no","FEFC","CRF","FEFC",,,"https://en.wikipedia.org/wiki/Carnot_Airport",
@@ -29383,10 +29384,10 @@
 597181,"GB-1328","closed","RNAS Inskip (HMS Nightjar)",53.827559,-2.836441,50,"EU","GB","GB-ENG",,"no",,,,,,"https://en.wikipedia.org/wiki/RNAS_Inskip_(HMS_Nightjar)","Military, RNAS, DHFCS"
 597967,"GB-1329","heliport","HMS Queen Elizabeth carrier",50.80275,-1.11194,45,"EU","GB","GB-U-A",,"no",,,,,,,
 598468,"GB-1330","small_airport","Lartington Moor Airstrip",54.53098,-2.10375,,"EU","GB","GB-ENG",,"no",,,,,,,
-30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,"DOC",,,"http://www.dornochairfield.com/",,"EG08, EGZJ"
+30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO"
-35156,"GB-OUK","small_airport","Out Skerries Airfield",60.4252,-0.75,76,"EU","GB","GB-SCT","Grunay Island","no",,"OUK",,,,,"Out Skerries, Housay, Bruray, Grunay, EGOU"
+35156,"GB-OUK","small_airport","Out Skerries Airfield",60.4252,-0.75,76,"EU","GB","GB-SCT","Grunay Island","no",,,,,,,"Out Skerries, Housay, Bruray, Grunay, EGOU, OUK"
 32175,"GB-PSV","small_airport","Papa Stour Airport",60.321701,-1.69306,75,"EU","GB","GB-SCT","Papa Stour Island","no",,"PSV",,,,"https://en.wikipedia.org/wiki/Papa_Stour_Airstrip","EGSZ, EGZT"
 29640,"GB-ULL","small_airport","Glenforsa Airfield",56.517202,-5.91401,15,"EU","GB","GB-SCT","Glenforsa","no",,"ULL",,,"https://www.glenforsa.com/airfield",,"Mull, EGZU"
 319712,"GBM","small_airport","Garbaharey Airport",3.32294,42.21309,755,"AF","SO","SO-GE","Garbaharey","no",,"GBM",,,,"https://en.wikipedia.org/wiki/Garbaharey_Airport","Garbahaareey, Garba Harre"
@@ -43165,7 +43166,7 @@
 4322,"LICP","medium_airport","Palermo-Boccadifalco Airport",38.110802,13.3133,345,"EU","IT","IT-82","Palermo","no",,,"LICP","PA04",,"https://en.wikipedia.org/wiki/Palermo%E2%80%93Boccadifalco_Airport","Emanuele Notarbartolo Airport"
 4323,"LICR","medium_airport","Reggio Calabria Airport",38.071201,15.6516,96,"EU","IT","IT-78","Reggio Calabria","yes","LICR","REG","LICR","RC01",,"https://en.wikipedia.org/wiki/Reggio_Calabria_Airport","Tito Minniti"
 4324,"LICT","medium_airport","Vincenzo Florio Airport Trapani-Birgi",37.9114,12.488,25,"EU","IT","IT-82","Trapani (TP)","yes","LICT","TPS","LICT","TP01",,"https://en.wikipedia.org/wiki/Vincenzo_Florio_Airport_Trapani%E2%80%93Birgi","Vincenzo Florio Airport, Trapani Airport, Aeroporto Vincenzo Florio di Trapani-Birgi"
-4325,"LICZ","medium_airport","Sigonella Navy Air Base",37.401699,14.9224,79,"EU","IT","IT-82","Sigonella (CT)","no","LICZ","NSY","LICZ","CT04",,"https://en.wikipedia.org/wiki/Naval_Air_Station_Sigonella","C Di Palma"
+4325,"LICZ","medium_airport","Sigonella Navy Air Base",37.401699,14.9224,79,"EU","IT","IT-82","Sigonella (CT)","no","LICZ",,"LICZ","CT04",,"https://en.wikipedia.org/wiki/Naval_Air_Station_Sigonella","C Di Palma, NSY"
 4326,"LIDA","small_airport","Asiago Romeo Sartori Airfield",45.886155,11.515861,3409,"EU","IT","IT-34","Asiago (VI)","no",,,"LIDA","VI06",,"https://it.wikipedia.org/wiki/Aeroporto_di_Asiago",
 29417,"LIDB","small_airport","Belluno Arturo dell'Oro Airport",46.166549,12.250389,1240,"EU","IT","IT-34","Belluno (BL)","no","LIDB","BLX","LIDB","BL05","http://www.aeroclubbelluno.org/","https://en.wikipedia.org/wiki/Belluno_Airport",
 31823,"LIDC","small_airport","Cà Negra Private Airstrip",45.08608,12.161455,1,"EU","IT","IT-34","Loreo (RO)","no",,,"LIDC","ROCAN",,"https://it.wikipedia.org/wiki/Aeroporto_di_Ca%27_Negra","Borletti"
@@ -43187,7 +43188,7 @@
 4332,"LIEE","large_airport","Cagliari Elmas Airport",39.251499,9.05428,13,"EU","IT","IT-88","Cagliari","yes","LIEE","CAG","LIEE","CA07","http://www.cagliariairport.it/en/","https://en.wikipedia.org/wiki/Cagliari_Elmas_Airport","Cagliari Airport,Elmas"
 4333,"LIEO","medium_airport","Olbia Costa Smeralda Airport",40.898701,9.51763,37,"EU","IT","IT-88","Olbia (SS)","yes","LIEO","OLB","LIEO","SS03",,"https://en.wikipedia.org/wiki/Olbia_Costa_Smeralda_Airport",
 29424,"LIER","small_airport","Oristano-Fenosu Airport",39.895308,8.642661,36,"EU","IT","IT-88","Oristano","no","LIER","FNU","LIER","OR01","http://www.sogeaor.it","http://it.wikipedia.org/wiki/Aeroporto_di_Oristano-Fenosu","QOS"
-4334,"LIET","medium_airport","Tortolì Airport",39.9188,9.68298,23,"EU","IT","IT-88","Arbatax","no","LIET","TTB","LIET","NU01",,"https://en.wikipedia.org/wiki/Tortol%C3%AC_Airport","Tortolì-Arbatax airport"
+4334,"LIET","medium_airport","Tortolì Airport",39.9188,9.68298,23,"EU","IT","IT-88","Arbatax","no","LIET",,"LIET","NU01",,"https://en.wikipedia.org/wiki/Tortol%C3%AC_Airport","Tortolì-Arbatax airport, TTB"
 518398,"LIGT","small_airport","San Genesio Airfield",46.572786,11.307635,4259,"EU","IT","IT-32","San Genesio","no",,,"LIGT","BZ05",,,
 529374,"LIKA","heliport","Arco Hospital Heliport",45.919539,10.874893,426,"EU","IT","IT-32","Arco (TN)","no",,,"LIKA",,,,
 529375,"LIKC","heliport","Cles Hospital Heliport",46.360608,11.033396,2138,"EU","IT","IT-32",,"no",,,"LIKC",,,,
@@ -43248,7 +43249,7 @@
 4368,"LIPZ","large_airport","Venice Marco Polo Airport",45.505299,12.3519,7,"EU","IT","IT-34","Venezia (VE)","yes","LIPZ","VCE","LIPZ","VE05","http://www.veniceairport.com/core/index.jsp?_requestid=37300&language=en","https://en.wikipedia.org/wiki/Venice_Marco_Polo_Airport","Venezia-Tessera, Venice-Tessera"
 29439,"LIQB","small_airport","Arezzo Molin Blanco Airfield",43.455248,11.847393,814,"EU","IT","IT-52","Arezzo (AR)","no",,,"LIQB","AR03",,"https://it.wikipedia.org/wiki/Aeroporto_di_Arezzo",
 316455,"LIQG","small_airport","Cecina Airfield",43.2856,10.521183,,"EU","IT","IT-52","Cecina (LI)","no",,,"LIQG","LI05",,,"Aviosuperficie Cecina, Porta della Maremma"
-29440,"LIQL","small_airport","Lucca-Tassignano Airport",43.825825,10.577928,39,"EU","IT","IT-52","Capannori (LU)","no","LIQL","LCV","LIQL","LU02",,"http://it.wikipedia.org/wiki/Aeroporto_di_Lucca-Tassignano","Enrico Squaglia Airport"
+29440,"LIQL","small_airport","Lucca-Tassignano Airport",43.825825,10.577928,39,"EU","IT","IT-52","Capannori (LU)","no","LIQL",,"LIQL","LU02",,"http://it.wikipedia.org/wiki/Aeroporto_di_Lucca-Tassignano","Enrico Squaglia Airport, LCV"
 30337,"LIQN","small_airport","Rieti Airfield",42.4272,12.8517,1278,"EU","IT","IT-62","Rieti","no",,,"LIQN","RI01",,"https://en.wikipedia.org/wiki/Rieti_Airport",
 4369,"LIQS","medium_airport","Siena-Ampugnano Airport",43.256302,11.255,634,"EU","IT","IT-52","Ampugnano (SI)","no","LIQS",,"LIQS","SI01",,"https://en.wikipedia.org/wiki/Siena-Ampugnano_Airport","Malignano Airfield"
 29441,"LIQW","medium_airport","Sarzana-Luni Air Base",44.088001,9.98795,45,"EU","IT","IT-42","Sarzana (SP)","no",,,"LIQW","SP01",,"http://it.wikipedia.org/wiki/Aeroporto_di_Sarzana-Luni","Bartolomeo Arrigoni"
@@ -53446,6 +53447,7 @@
 351744,"QA-0014","closed","Dukhan Airport",25.40051,50.826614,3,"AS","QA","QA-SH","Dukhan","no",,,,,,,
 354525,"QA-0015","heliport","Military Helipad",24.895392,51.030442,,"AS","QA","QA-RA",,"no",,,,,,,
 355422,"QA-0016","heliport","Military Helipad",25.005234,50.989609,,"AS","QA","QA-RA",,"no",,,,,,,
+598518,"QA-0017","heliport","Zekreet Cluster-2 Helipad",25.529985,50.82057,,"AS","QA","QA-SH",,"no",,,,,,,
 299106,"QFX","heliport","Igaliku Heliport",60.99229,-45.431428,,"NA","GL","GL-KU","Igaliku","yes",,"QFX","BGIO",,,"https://en.wikipedia.org/wiki/Igaliku_Heliport","Igaliko"
 5650,"QJP","small_airport","Pocheon (G-217) Airport",37.864555,127.176633,328,"AS","KR","KR-41","Pocheon","no",,"QJP","RKRO",,,"https://ko.wikipedia.org/wiki/%ED%8F%AC%EC%B2%9C%EB%B9%84%ED%96%89%EC%9E%A5","RKRO, QJP, G 217, G-217, Pocheon"
 24337,"R03","small_airport","Alkali Lake State Airport",43.087399,-119.975995,4312,"NA","US","US-OR","Alkali Lake","no",,,,"R03",,"https://en.wikipedia.org/wiki/Alkali_Lake_State_Airport",
