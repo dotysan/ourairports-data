@@ -2146,7 +2146,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30466,FDTM,small_airport,Tambankulu Airport,-26.106429,31.919489,811,AF,SZ,SZ-LU,Tambankulu,no,FDTM,,FDTM,,,https://en.wikipedia.org/wiki/Tambankulu_Airfield,
 30495,FDTS,small_airport,Tshaneni Airport,-25.983334,31.200001,1020,AF,SZ,SZ-HH,Tshaneni,no,FDTS,,FDTS,,,https://en.wikipedia.org/wiki/Tshaneni_Airfield,
 41312,FDUB,small_airport,Ubombo Ranches Airport,-26.7708,31.936399,,AF,SZ,SZ-LU,Big Bend,no,FDUB,,FDUB,,,https://en.wikipedia.org/wiki/Ubombo_Ranches_Airfield,
-300713,FEA,small_airport,Fetlar Airstrip,60.603333,-0.872778,263,EU,GB,GB-SCT,Fetlar Island,no,,FEA,,,,https://de.wikipedia.org/wiki/Flugplatz_Fetlar,
 31111,FEFA,small_airport,Alindao Airport,5.022184,21.198635,1470,AF,CF,CF-BK,Alindao,no,FEFA,,FEFA,,,https://en.wikipedia.org/wiki/Alindao_Airport,
 46207,FEFB,small_airport,Poste Airport,5.403889,26.487222,2137,AF,CF,CF-HM,Obo,no,FEFB,,FEFB,,,https://en.wikipedia.org/wiki/Poste_Airport,
 30850,FEFC,small_airport,Carnot Airport,4.936999797821045,15.894000053405762,1985,AF,CF,CF-HS,Carnot,no,FEFC,CRF,FEFC,,,https://en.wikipedia.org/wiki/Carnot_Airport,
@@ -2771,10 +2770,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3072,GATS,small_airport,Tessalit Airport,20.243,0.977308,1621,AF,ML,ML-7,,no,GATS,,GATS,,,https://en.wikipedia.org/wiki/Tessalit_Airport,
 31034,GAYE,small_airport,Yélimané Airport,15.123682,-10.571177,325,AF,ML,ML-1,Yélimané,no,GAYE,EYL,GAYE,,,https://en.wikipedia.org/wiki/Y%C3%A9liman%C3%A9_Airport,
 595235,GB-1327,heliport,Penzance Heliport,50.130376,-5.513946,,EU,GB,GB-ENG,"Penzance, Cornwall",yes,EGHK,PZE,,,https://penzanceheliport.co.uk/,https://en.wikipedia.org/wiki/Penzance_Heliport,
-30935,GB-DOC,small_airport,Dornoch Airfield,57.868999,-4.023,1,EU,GB,GB-SCT,"Dornoch, Sunderland",no,,DOC,,,http://www.dornochairfield.com/,,"EG08, EGZJ"
 31147,GB-FLH,small_airport,Flotta Isle Airstrip,58.825802,-3.14278,50,EU,GB,GB-SCT,Flotta Isle,no,,FLH,,,,https://en.wikipedia.org/wiki/Flotta_Isle_Airport,EGZR
 31199,GB-FOA,small_airport,Foula Airfield,60.121725,-2.053202,150,EU,GB,GB-SCT,Foula,yes,,FOA,,,,https://en.wikipedia.org/wiki/Foula_Airfield,EGFO
-35156,GB-OUK,small_airport,Out Skerries Airfield,60.4252,-0.75,76,EU,GB,GB-SCT,Grunay Island,no,,OUK,,,,,"Out Skerries, Housay, Bruray, Grunay, EGOU"
 32175,GB-PSV,small_airport,Papa Stour Airport,60.321701,-1.69306,75,EU,GB,GB-SCT,Papa Stour Island,no,,PSV,,,,https://en.wikipedia.org/wiki/Papa_Stour_Airstrip,"EGSZ, EGZT"
 29640,GB-ULL,small_airport,Glenforsa Airfield,56.517202,-5.91401,15,EU,GB,GB-SCT,Glenforsa,no,,ULL,,,https://www.glenforsa.com/airfield,,"Mull, EGZU"
 319712,GBM,small_airport,Garbaharey Airport,3.32294,42.21309,755,AF,SO,SO-GE,Garbaharey,no,,GBM,,,,https://en.wikipedia.org/wiki/Garbaharey_Airport,"Garbahaareey, Garba Harre"
@@ -5236,7 +5233,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4321,LICJ,large_airport,Falcone–Borsellino Airport,38.175999,13.091,65,EU,IT,IT-82,Palermo,yes,LICJ,PMO,LICJ,PA03,http://www.gesap.it/index.php,https://en.wikipedia.org/wiki/Falcone%E2%80%93Borsellino_Airport,"Palermo Airport, Punta Raisi Airport"
 4323,LICR,medium_airport,Reggio Calabria Airport,38.071201,15.6516,96,EU,IT,IT-78,Reggio Calabria,yes,LICR,REG,LICR,RC01,,https://en.wikipedia.org/wiki/Reggio_Calabria_Airport,Tito Minniti
 4324,LICT,medium_airport,Vincenzo Florio Airport Trapani-Birgi,37.9114,12.488,25,EU,IT,IT-82,Trapani (TP),yes,LICT,TPS,LICT,TP01,,https://en.wikipedia.org/wiki/Vincenzo_Florio_Airport_Trapani%E2%80%93Birgi,"Vincenzo Florio Airport, Trapani Airport, Aeroporto Vincenzo Florio di Trapani-Birgi"
-4325,LICZ,medium_airport,Sigonella Navy Air Base,37.401699,14.9224,79,EU,IT,IT-82,Sigonella (CT),no,LICZ,NSY,LICZ,CT04,,https://en.wikipedia.org/wiki/Naval_Air_Station_Sigonella,C Di Palma
+4325,LICZ,medium_airport,Sigonella Navy Air Base,37.401699,14.9224,79,EU,IT,IT-82,Sigonella (CT),no,LICZ,,LICZ,CT04,,https://en.wikipedia.org/wiki/Naval_Air_Station_Sigonella,"C Di Palma, NSY"
 29417,LIDB,small_airport,Belluno Arturo dell'Oro Airport,46.166549,12.250389,1240,EU,IT,IT-34,Belluno (BL),no,LIDB,BLX,LIDB,BL05,http://www.aeroclubbelluno.org/,https://en.wikipedia.org/wiki/Belluno_Airport,
 4328,LIDR,small_airport,Ravenna Airport,44.364291,12.224996,1,EU,IT,IT-45,Ravenna (RA),no,LIDR,RAN,LIDR,RA06,http://www.aeroclubravenna.com,https://en.wikipedia.org/wiki/Ravenna%20Airport,"Foligno, Gastone Novelli, Ravenna Aero Club"
 30298,LIDV,small_airport,Prati Vecchi d'Aguscello Airfield,44.790884,11.671901,20,EU,IT,IT-45,Ferrara (FE),no,LIDV,,LIDV,FE02,https://www.aeroportoaguscello.it/wp/,https://it.wikipedia.org/wiki/Aeroporto_di_Prati_Vecchi_d%27Aguscello,
@@ -5245,7 +5242,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4332,LIEE,large_airport,Cagliari Elmas Airport,39.251499,9.05428,13,EU,IT,IT-88,Cagliari,yes,LIEE,CAG,LIEE,CA07,http://www.cagliariairport.it/en/,https://en.wikipedia.org/wiki/Cagliari_Elmas_Airport,"Cagliari Airport,Elmas"
 4333,LIEO,medium_airport,Olbia Costa Smeralda Airport,40.898701,9.51763,37,EU,IT,IT-88,Olbia (SS),yes,LIEO,OLB,LIEO,SS03,,https://en.wikipedia.org/wiki/Olbia_Costa_Smeralda_Airport,
 29424,LIER,small_airport,Oristano-Fenosu Airport,39.895308,8.642661,36,EU,IT,IT-88,Oristano,no,LIER,FNU,LIER,OR01,http://www.sogeaor.it,http://it.wikipedia.org/wiki/Aeroporto_di_Oristano-Fenosu,QOS
-4334,LIET,medium_airport,Tortolì Airport,39.9188,9.68298,23,EU,IT,IT-88,Arbatax,no,LIET,TTB,LIET,NU01,,https://en.wikipedia.org/wiki/Tortol%C3%AC_Airport,Tortolì-Arbatax airport
+4334,LIET,medium_airport,Tortolì Airport,39.9188,9.68298,23,EU,IT,IT-88,Arbatax,no,LIET,,LIET,NU01,,https://en.wikipedia.org/wiki/Tortol%C3%AC_Airport,"Tortolì-Arbatax airport, TTB"
 46548,LIKD,small_airport,Torraccia Airfield,43.948895,12.511411,787,EU,SM,SM-04,Torraccia,no,LIKD,,LIKD,RSM01,,https://it.wikipedia.org/wiki/Aviosuperficie_ed_elisuperficie_di_Torraccia,Torraccia
 29428,LILI,small_airport,Vercelli Airport,45.309935,8.417931,417,EU,IT,IT-21,Vercelli (VC),no,LILI,,LILI,VC04,http://www.aeroclubvercelli.it/,https://it.wikipedia.org/wiki/Aeroporto_di_Vercelli,"Aeroporto ""Carlo del Prete"", Aeroclub Vercelli ""Marilla Rigazio"""
 4337,LILN,medium_airport,Varese-Venegono Airport,45.742199,8.888233,1100,EU,IT,IT-25,Venegono Superiore (VA),no,LILN,,LILN,VA02,http://www.aeroclubvarese.it/,https://en.wikipedia.org/wiki/Varese-Venegono_Airport,QVA
@@ -5270,7 +5267,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4366,LIPX,large_airport,Verona Villafranca Valerio Catullo Airport,45.394955,10.887303,239,EU,IT,IT-34,Caselle (VR),yes,LIPX,VRN,LIPX,VR10,http://www.aeroportoverona.it/,https://en.wikipedia.org/wiki/Verona_Airport,"Valerio Catullo, Villafranca International Airport, Valerio Catullo Airport, Villafranca Airport"
 4367,LIPY,medium_airport,Marche Airport,43.616299,13.3623,49,EU,IT,IT-57,Falconara Marittima (AN),yes,LIPY,AOI,LIPY,AN01,http://www.aeroportomarche.com/index.php?lang=english,https://en.wikipedia.org/wiki/Marche_Airport,"Ancona, Ancona Falconara Airport, Falconara, Raffaello Sanzio Airport"
 4368,LIPZ,large_airport,Venice Marco Polo Airport,45.505299,12.3519,7,EU,IT,IT-34,Venezia (VE),yes,LIPZ,VCE,LIPZ,VE05,http://www.veniceairport.com/core/index.jsp?_requestid=37300&language=en,https://en.wikipedia.org/wiki/Venice_Marco_Polo_Airport,"Venezia-Tessera, Venice-Tessera"
-29440,LIQL,small_airport,Lucca-Tassignano Airport,43.825825,10.577928,39,EU,IT,IT-52,Capannori (LU),no,LIQL,LCV,LIQL,LU02,,http://it.wikipedia.org/wiki/Aeroporto_di_Lucca-Tassignano,Enrico Squaglia Airport
+29440,LIQL,small_airport,Lucca-Tassignano Airport,43.825825,10.577928,39,EU,IT,IT-52,Capannori (LU),no,LIQL,,LIQL,LU02,,http://it.wikipedia.org/wiki/Aeroporto_di_Lucca-Tassignano,"Enrico Squaglia Airport, LCV"
 4369,LIQS,medium_airport,Siena-Ampugnano Airport,43.256302,11.255,634,EU,IT,IT-52,Ampugnano (SI),no,LIQS,,LIQS,SI01,,https://en.wikipedia.org/wiki/Siena-Ampugnano_Airport,Malignano Airfield
 4370,LIRA,medium_airport,Ciampino–G. B. Pastine International Airport,41.7994,12.5949,427,EU,IT,IT-62,Rome,yes,LIRA,CIA,LIRA,RM12,,https://en.wikipedia.org/wiki/Ciampino%E2%80%93G._B._Pastine_International_Airport,"ROM, Giovan Battista Pastine Airport"
 4372,LIRF,large_airport,Rome–Fiumicino Leonardo da Vinci International Airport,41.804532,12.251998,13,EU,IT,IT-62,Rome,yes,LIRF,FCO,LIRF,RM11,http://www.adr.it/portal/portal/adr/Fiumicino/Leonardo_da_vinci/Header_Window?action=2,https://en.wikipedia.org/wiki/Rome_Fiumicino_Airport,"ROM, Rome Fiumicino Airport, Fiumicino Airport"
