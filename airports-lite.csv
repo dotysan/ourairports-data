@@ -6200,7 +6200,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31209,NVVF,small_airport,Futuna Airport,-19.516399383499998,170.231994629,95,OC,VU,VU-TAE,Futuna Island,yes,NVVF,FTA,NVVF,,,https://en.wikipedia.org/wiki/Futuna_Airport,
 31682,NVVI,small_airport,Ipota Airport,-18.856389,169.283333,23,OC,VU,VU-TAE,Ipota,no,NVVI,IPA,NVVI,,,https://en.wikipedia.org/wiki/Ipota_Airport,
 5011,NVVV,large_airport,Bauerfield International Airport,-17.699301,168.320007,70,OC,VU,VU-SEE,Port Vila,yes,NVVV,VLI,NVVV,,,https://en.wikipedia.org/wiki/Bauerfield_International_Airport,"Efate Field, Vila Field, McDonald Field, Bauer Field"
-5012,NVVW,medium_airport,Tanna Airport,-19.45509910583496,169.2239990234375,19,OC,VU,VU-TAE,,yes,NVVW,TAH,NVVW,,,https://en.wikipedia.org/wiki/White_Grass_Airport,
+5012,NVVW,medium_airport,Whitegrass Airport,-19.455099,169.223999,19,OC,VU,VU-TAE,Tanna Island,yes,NVVW,TAH,NVVW,,,https://en.wikipedia.org/wiki/White_Grass_Airport,
 306972,NWT,small_airport,Nowata Airport,-9.984166666669998,149.729166667,2040,OC,PG,PG-MBA,Nowata,no,,NWT,AYNW,NTA,,,
 32439,NWWA,medium_airport,Tiga Airport,-21.096407,167.80379,128,OC,NC,NC-01,Tiga,yes,NWWA,TGJ,NWWA,,,https://en.wikipedia.org/wiki/Tiga_Airport,
 30778,NWWC,small_airport,Île Art - Waala Airport,-19.720521,163.661077,306,OC,NC,NC-02,Waala,yes,NWWC,BMY,NWWC,,,https://en.wikipedia.org/wiki/%C3%8Ele_Art_-_Waala_Airport,Belep Islands Airport
