@@ -12709,7 +12709,6 @@
 340206,"BH-0006","heliport","Bahrain Defense Force Heliport",26.18973,50.586,17,"AS","BH","BH-13","Isa Town","no",,,,,,,
 340531,"BH-0007","heliport","Block 997 Heliport",25.865112,50.553293,,"AS","BH","BH-14","Block 997","no",,,,,,,
 340532,"BH-0008","heliport","Block 998 Heliport",25.861811,50.551195,,"AS","BH","BH-14","Block 998","no",,,,,,,
-598482,"BH-0009","medium_airport","vz99gift2",86,75,,"AS","BH","BH-16","hồ chí minh","no",,,,,"http://vz99.gift/",,
 598492,"BH-0010","heliport","Um al Nasaan Helipad",26.164161,50.412375,,"AS","BH","BH-17","Um al Basaan","no",,,,,,,
 598494,"BH-0011","heliport","Ritz-Carlton Helipad",26.248424,50.535839,,"AS","BH","BH-13","Manama","no",,,,,,,
 598495,"BH-0012","heliport","Bahrain Customs HQ Helipad",26.224268,50.675384,,"AS","BH","BH-15","Al Hidd","no",,,,,,,
@@ -24159,7 +24158,7 @@
 29258,"ENFA","small_airport","Flatval Airfield",63.7006,8.76057,152,"EU","NO","NO-50","Frøya","no",,,"ENFA",,,"https://no.wikipedia.org/wiki/Fr%C3%B8ya_flyplass,_Flatval",
 526544,"ENFB","heliport","Statfjord B",61.20639,1.82889,,"EU","NO","NO-XX",,"no",,,"ENFB",,,,
 329176,"ENFD","heliport","Førde Central Hospital Heliport",61.456302,5.890432,19,"EU","NO","NO-46","Førde","no",,,"ENFD",,,"https://en.wikipedia.org/wiki/F%C3%B8rde_Heliport,_Central_Hospital",
-2576,"ENFG","medium_airport","Fagernes Airport, Leirin",61.015598,9.28806,2697,"EU","NO","NO-34","Fagernes","no","ENFG",,"ENFG",,"https://avinor.no/en/airport/fagernes-airport/","https://en.wikipedia.org/wiki/Fagernes_Airport%2C_Leirin","VDB"
+2576,"ENFG","closed","Fagernes Airport, Leirin",61.015598,9.28806,2697,"EU","NO","NO-34","Fagernes","no",,,,,"https://avinor.no/en/airport/fagernes-airport/","https://en.wikipedia.org/wiki/Fagernes_Airport%2C_Leirin","VDB, ENFG"
 319098,"ENFJ","heliport","Fedje Heliport, Høgden",60.765738,4.733014,,"EU","NO","NO-46","Fedje","no",,,"ENFJ",,,"https://en.wikipedia.org/wiki/Fedje_Heliport,_H%C3%B8gden",
 2577,"ENFL","medium_airport","Florø Airport",61.583599090576,5.0247201919556,37,"EU","NO","NO-46","Florø","yes","ENFL","FRO","ENFL",,"https://avinor.no/en/airport/floro-airport/","https://en.wikipedia.org/wiki/Flor%C3%B8_Airport","Floro"
 28474,"ENFY","small_airport","Fyresdal Airfield",59.202784,8.087625,986,"EU","NO","NO-40","Fyresdal","no",,,"ENFY",,"http://www.airparc.com/","https://en.wikipedia.org/wiki/Vest-Telemark_airport%2C_Fyresdal","Airparc Fyresdal"
@@ -29394,7 +29393,7 @@
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO"
 35156,"GB-OUK","small_airport","Out Skerries Airfield",60.4252,-0.75,76,"EU","GB","GB-SCT","Grunay Island","no",,,,,,,"Out Skerries, Housay, Bruray, Grunay, EGOU, OUK"
-32175,"GB-PSV","small_airport","Papa Stour Airport",60.321701,-1.69306,75,"EU","GB","GB-SCT","Papa Stour Island","no",,"PSV",,,,"https://en.wikipedia.org/wiki/Papa_Stour_Airstrip","EGSZ, EGZT"
+32175,"GB-PSV","small_airport","Papa Stour Airport",60.321701,-1.69306,75,"EU","GB","GB-SCT","Papa Stour Island","no",,,,,,"https://en.wikipedia.org/wiki/Papa_Stour_Airstrip","EGSZ, EGZT, PSV"
 29640,"GB-ULL","small_airport","Glenforsa Airfield",56.517202,-5.91401,15,"EU","GB","GB-SCT","Glenforsa","no",,"ULL",,,"https://www.glenforsa.com/airfield",,"Mull, EGZU"
 319712,"GBM","small_airport","Garbaharey Airport",3.32294,42.21309,755,"AF","SO","SO-GE","Garbaharey","no",,"GBM",,,,"https://en.wikipedia.org/wiki/Garbaharey_Airport","Garbahaareey, Garba Harre"
 3076,"GBYD","large_airport","Banjul International Airport",13.338,-16.652201,95,"AF","GM","GM-W","Yundum","yes","GBYD","BJL","GBYD",,,"https://en.wikipedia.org/wiki/Banjul_International_Airport","Yundum international Airport"
@@ -29636,7 +29635,7 @@
 3139,"GQPT","small_airport","Bir Moghrein Airport",25.183531,-11.609001,1148,"AF","MR","MR-11","Bir Moghrein","no","GQPT",,"GQPT",,,"https://en.wikipedia.org/wiki/Bir_Moghrein_Airport",
 32135,"GQPZ","small_airport","Tazadit Airport",22.757345,-12.482228,1119,"AF","MR","MR-11","Zouérate","yes","GQPZ","OUZ","GQPZ",,,"https://en.wikipedia.org/wiki/Tazadit_Airport",
 42451,"GR-0001","small_airport","Arnissa Airfield",40.840795,21.823633,2071,"EU","GR","GR-B","Edessa","no",,,,,,,
-42452,"GR-0002","small_airport","Dhokimion Airfield",38.613696,21.392955,154,"AS","GR","GR-G","Agrinion","no","LGAG",,"LGAG",,,,"AG1666"
+42452,"GR-0002","small_airport","Dhokimion Airfield",38.613696,21.392955,154,"EU","GR","GR-G","Agrinion","no","LGAG",,"LGAG",,,,
 42453,"GR-0003","small_airport","Florina Airfield",40.804194,21.433211,2109,"EU","GR","GR-C","Florina","no",,,,,,,
 42454,"GR-0004","closed","Nea Kavala Polykastro Airfield",40.985211,22.626629,76,"EU","GR","GR-B","Nea Kavala","no",,,,,,,"Asimakopoulou"
 42455,"GR-0005","closed","Spetsai Airport",37.3489,23.254,1,"EU","GR","GR-J","Spetsai","no",,,,,,,
@@ -29732,8 +29731,8 @@
 3140,"GR-0095","closed","Lamia Air Base",38.874599,22.434999,38,"EU","GR","GR-H","Lamia","no",,,,,,,"LG53"
 4249,"GR-0096","closed","Agrinion Air Base",38.602001,21.3512,154,"EU","GR","GR-G","Agrinion","no",,,,,,"https://en.wikipedia.org/wiki/Agrinion_Airport","Agrinio, LGAG, AGQ"
 4288,"GR-0097","closed","Stefanovikio Air Base",39.478521,22.769105,146,"EU","GR","GR-E","Rigas Feraios","no",,,,,,,"LGSV"
-29673,"GR-0098","closed","Athens Hellenikon International Airport",37.89162,23.730211,69,"AS","GR","GR-I","Athens","no",,,,,,"https://en.wikipedia.org/wiki/Ellinikon_International_Airport","HEW, LGAT"
-30114,"GR-0099","closed","Marathonas Airport",38.148671,24.013084,3,"AS","GR","GR-I","Marathonas","no",,,,,,,"LGMR, Marathon, Marathon Seaplane Base"
+29673,"GR-0098","closed","Athens Hellenikon International Airport",37.89162,23.730211,69,"EU","GR","GR-I","Athens","no",,,,,,"https://en.wikipedia.org/wiki/Ellinikon_International_Airport","HEW, LGAT"
+30114,"GR-0099","closed","Marathonas Airport",38.148671,24.013084,3,"EU","GR","GR-I","Marathonas","no",,,,,,,"LGMR, Marathon, Marathon Seaplane Base"
 30281,"GR-0100","closed","Porto Cheli Airport",37.29891,23.148923,69,"EU","GR","GR-J","Porto Cheli","no",,,,,,"https://en.wikipedia.org/wiki/Porto_Cheli_Airport","Kanaris Airport, Portokhelion, LGHL, PKH"
 42450,"GR-0101","closed","Volos Army Airport",39.3838996887,22.9174003601,112,"EU","GR","GR-E","Volos","no",,,,,,,"LGVO, LGVO"
 594413,"GR-0102","closed","Skiathos Heliport",39.14462,23.44039,10,"EU","GR","GR-E","Platanias","no",,,,,,,
@@ -43025,15 +43024,15 @@
 3141,"LG54","small_airport","Tympaki Air Base",35.063702,24.767401,7,"EU","GR","GR-M","Crete Island","no",,,"LGTY",,,"https://en.wikipedia.org/wiki/Tympaki_Airport",
 3142,"LG55","small_airport","Triodos Airfield",37.094387,21.990736,36,"EU","GR","GR-J","Triodos","no",,,,,,,"Triodhon"
 3143,"LG56","small_airport","Olimpoi Aerodrome",38.236208,25.938721,656,"EU","GR","GR-K","Chios","no",,,,,,,
-4248,"LGAD","medium_airport","Andravida Air Base",37.9207,21.292601,55,"AS","GR","GR-G","Andravida","no","LGAD","PYR","LGAD",,"https://www.haf.gr/en/structure/htaf/117-combat-wing/","https://en.wikipedia.org/wiki/Andravida_Air_Base","GVD, Βάση Ανδραβίδας"
+4248,"LGAD","medium_airport","Andravida Air Base",37.9207,21.292601,55,"EU","GR","GR-G","Andravida","no","LGAD","PYR","LGAD",,"https://www.haf.gr/en/structure/htaf/117-combat-wing/","https://en.wikipedia.org/wiki/Andravida_Air_Base","GVD, Βάση Ανδραβίδας"
 4250,"LGAL","medium_airport","Alexandroupoli Democritus Airport",40.8559,25.956301,24,"EU","GR","GR-A","Alexandroupolis","yes","LGAL","AXD","LGAL",,,"https://en.wikipedia.org/wiki/Alexandroupoli_Airport",
 42448,"LGAM","heliport","Amphiali Heliport",37.97159957885742,23.530399322509766,43,"EU","GR","GR-I","Salamis Island","no",,,"LGAM",,,,
 4251,"LGAV","large_airport","Athens Eleftherios Venizelos International Airport",37.936401,23.9445,308,"EU","GR","GR-I","Spata-Artemida","yes","LGAV","ATH","LGAV",,"http://www.aia.gr","https://en.wikipedia.org/wiki/Athens_International_Airport",
 4252,"LGAX","small_airport","Alexandria (Gidas) Airfield",40.6511,22.488701,27,"EU","GR","GR-B","Lianovergi","no",,,"LGAX",,,"https://en.wikipedia.org/wiki/Alexandreia_Airport","Alexandreia, Gidas"
 4253,"LGBL","medium_airport","Nea Anchialos National Airport",39.219601,22.7943,83,"EU","GR","GR-E","Nea Anchialos","yes","LGBL","VOL","LGBL",,,"https://en.wikipedia.org/wiki/Nea_Anchialos_National_Airport","Volos Central Greece Airport, Volos Nea Anchialos Airport of Central Greece"
 313896,"LGE","small_airport","Mulan Airport",-20.1089,127.619,978,"OC","AU","AU-WA","Lake Gregory","no",,"LGE",,"YUAN",,"https://en.wikipedia.org/wiki/Lake_Gregory_Airport","Paruku"
-4254,"LGEL","medium_airport","Elefsis Air Base",38.063801,23.556,143,"AS","GR","GR-I","Elefsina","no","LGEL",,"LGEL",,,"https://en.wikipedia.org/wiki/Elefsina_Air_Base",
-29852,"LGEP","small_airport","Epitalion Airfield",37.613347,21.496382,3,"AS","GR","GR-G","Pyrgos","no",,,"LGEP",,,,
+4254,"LGEL","medium_airport","Elefsis Air Base",38.063801,23.556,143,"EU","GR","GR-I","Elefsina","no","LGEL",,"LGEL",,,"https://en.wikipedia.org/wiki/Elefsina_Air_Base",
+29852,"LGEP","small_airport","Epitalion Airfield",37.613347,21.496382,3,"EU","GR","GR-G","Pyrgos","no",,,"LGEP",,,,
 4255,"LGHI","medium_airport","Chios Island National Airport",38.34320068359375,26.140600204467773,15,"EU","GR","GR-K","Chios Island","yes","LGHI","JKH","LGHI",,"http://www.hcaa-eleng.gr/chios.htm","https://en.wikipedia.org/wiki/Chios_Island_National_Airport",
 4256,"LGIK","small_airport","Ikaria Airport",37.6827011108,26.3470993042,79,"EU","GR","GR-K","Ikaria Island","yes","LGIK","JIK","LGIK",,,"https://en.wikipedia.org/wiki/Ikaria_Island_National_Airport",
 4257,"LGIO","medium_airport","Ioannina King Pyrrhus National Airport",39.6964,20.8225,1558,"EU","GR","GR-D","Ioannina","yes","LGIO","IOA","LGIO",,,"https://en.wikipedia.org/wiki/Ioannina_National_Airport",
@@ -43047,7 +43046,7 @@
 30120,"LGKN","heliport","Marathon Kotroni Navy Helicopter Base",38.137798,23.951099,682,"EU","GR","GR-I","Marathon","no",,,"LGKN",,,"https://en.wikipedia.org/wiki/Kotroni_Airport",
 4264,"LGKO","medium_airport","Kos Airport",36.794523,27.09115,412,"AS","GR","GR-L","Kos Island","yes","LGKO","KGS","LGKO",,"https://www.kgs-airport.gr/el/","https://en.wikipedia.org/wiki/Kos_Island_International_Airport",
 4265,"LGKP","medium_airport","Karpathos Airport",35.421398,27.146,66,"EU","GR","GR-L","Karpathos Island","yes","LGKP","AOK","LGKP",,,"https://en.wikipedia.org/wiki/Karpathos_Island_National_Airport",
-4266,"LGKR","medium_airport","Corfu Ioannis Kapodistrias International Airport",39.601898,19.911699,6,"AS","GR","GR-F","Kerkyra (Corfu)","yes","LGKR","CFU","LGKR",,"https://www.cfu-airport.gr/en","https://en.wikipedia.org/wiki/Corfu_International_Airport","Corfu"
+4266,"LGKR","medium_airport","Corfu Ioannis Kapodistrias International Airport",39.602024,19.912038,6,"EU","GR","GR-F","Kerkyra (Corfu)","yes","LGKR","CFU","LGKR",,"https://www.cfu-airport.gr/en","https://en.wikipedia.org/wiki/Corfu_International_Airport","Corfu"
 4267,"LGKS","small_airport","Kasos Airport",35.4213981628,26.909999847399998,35,"EU","GR","GR-L","Kasos Island","yes","LGKS","KSJ","LGKS",,,"https://en.wikipedia.org/wiki/Kassos_Island_Public_Airport",
 4268,"LGKV","medium_airport","Kavala Alexander the Great International Airport",40.9133,24.6192,18,"EU","GR","GR-A","Kavala","yes","LGKV","KVA","LGKV",,,"https://en.wikipedia.org/wiki/Kavala_International_Airport","Megas Alexandros"
 30004,"LGKY","small_airport","Kalymnos Airport",36.9632987976,26.9405994415,771,"EU","GR","GR-L","Kalymnos Island","yes","LGKY","JKL","LGKY",,,"https://en.wikipedia.org/wiki/Kalymnos_Island_National_Airport","Kalimnos, Κάλυμνος"
@@ -43073,7 +43072,7 @@
 4282,"LGSK","medium_airport","Skiathos Island National Airport",39.177101,23.5037,54,"EU","GR","GR-E","Skiathos","yes","LGSK","JSI","LGSK",,,"https://en.wikipedia.org/wiki/Skiathos_Island_National_Airport","Alexandros Papadiamantis Airport"
 4283,"LGSM","medium_airport","Samos Airport",37.689999,26.911699,19,"EU","GR","GR-K","Samos Island","yes","LGSM","SMI","LGSM",,,"https://en.wikipedia.org/wiki/Samos_International_Airport",
 4284,"LGSO","small_airport","Syros Airport",37.4227981567,24.950899124099998,236,"EU","GR","GR-L","Syros Island","yes","LGSO","JSY","LGSO",,,"https://en.wikipedia.org/wiki/Syros_Island_National_Airport",
-4285,"LGSP","small_airport","Sparti Airfield",36.9738,22.525708,500,"AS","GR","GR-J","Sparti","no",,"SPJ","LGSP",,,"https://en.wikipedia.org/wiki/Sparti_Airport",
+4285,"LGSP","small_airport","Sparti Airfield",36.9738,22.525708,500,"EU","GR","GR-J","Sparti","no",,"SPJ","LGSP",,,"https://en.wikipedia.org/wiki/Sparti_Airport",
 4286,"LGSR","medium_airport","Santorini Airport",36.399200439453125,25.479299545288086,127,"EU","GR","GR-L","Santorini Island","yes","LGSR","JTR","LGSR",,,"https://en.wikipedia.org/wiki/Santorini_(Thira)_National_Airport",
 4287,"LGST","medium_airport","Sitia Airport",35.21609878540039,26.101299285888672,376,"EU","GR","GR-M","Crete Island","yes","LGST","JSH","LGST",,,"https://en.wikipedia.org/wiki/Sitia_Public_Airport",
 4289,"LGSY","small_airport","Skiros Airport",38.9676017761,24.4871997833,44,"EU","GR","GR-H","Skiros Island","yes","LGSY","SKU","LGSY",,,"https://en.wikipedia.org/wiki/Skyros_Island_National_Airport",
@@ -43959,7 +43958,7 @@
 4525,"LTAW","medium_airport","Tokat Airport",40.32472,36.39056,1859,"AS","TR","TR-60","Tokat","yes","LTAW","TJK","LTAW",,,"https://en.wikipedia.org/wiki/Tokat_Airport",
 4526,"LTAY","medium_airport","Çardak Airport",37.7855987549,29.7012996674,2795,"AS","TR","TR-20","Denizli","yes","LTAY","DNZ","LTAY",,,"https://en.wikipedia.org/wiki/%C3%87ardak_Airport",
 4527,"LTAZ","small_airport","Nevşehir Kapadokya Airport",38.7719,34.5345,3100,"AS","TR","TR-50","Nevşehir","yes","LTAZ","NAV","LTAZ",,,"https://en.wikipedia.org/wiki/Nev%C5%9Fehir_Kapadokya_Airport",
-4528,"LTBA","medium_airport","İstanbul Atatürk Airport",40.971913,28.823714,163,"AS","TR","TR-34","Bakırköy, Istanbul","no","LTBA","ISL","LTBA",,"http://www.ataturkairport.com/eng/","https://en.wikipedia.org/wiki/Istanbul_Atat%C3%BCrk_Airport","Ataturk, Yeşilköy, Yesilkoy"
+4528,"LTBA","medium_airport","İstanbul Atatürk Airport",40.971913,28.823714,163,"EU","TR","TR-34","Bakırköy, Istanbul","no","LTBA","ISL","LTBA",,"http://www.ataturkairport.com/eng/","https://en.wikipedia.org/wiki/Istanbul_Atat%C3%BCrk_Airport","Ataturk, Yeşilköy, Yesilkoy"
 29675,"LTBD","small_airport","Aydın Çıldır Airport",37.815389,27.887566,102,"AS","TR","TR-09","Aydın","no","LTBD","CII","LTBD",,,"https://en.wikipedia.org/wiki/Ayd%C4%B1n_Airport",
 29743,"LTBE","small_airport","Bursa Yunuseli Airport",40.233243,29.005583,331,"AS","TR","TR-16","Bursa","no","LTBE",,"LTBE",,,"https://tr.wikipedia.org/wiki/Bursa_Yunuseli_Havaliman%C4%B1","BTZ"
 4529,"LTBF","medium_airport","Balıkesir Airport",39.619301,27.926001,340,"AS","TR","TR-10","Balıkesir","yes","LTBF","BZI","LTBF",,,"https://en.wikipedia.org/wiki/Bal%C4%B1kesir_Airport","Balıkesir Air Base, Balıkesir Central, Balıkesir Merkez"
@@ -55341,6 +55340,7 @@
 597133,"RU-10108","heliport","Gorka-3 Heliport",71.174838,66.874377,32,"EU","RU","RU-YAN","Kharasavey","no",,,,"HA1Q",,,"ХА1Я, Горка-3"
 597148,"RU-10109","closed","Polessk (ex. Labiau Eichwalde) (ZD6S)",54.83745,21.11748,16,"EU","RU","RU-KGD","Polessk (ex. Labiau)","no",,,,,,"https://en.wikipedia.org/wiki/Polessk_(air_base)","ZD6S"
 526851,"RU-1011","heliport","KS-3 Gagaratskaya",67.995908,65.177518,,"AS","RU","RU-KO","Khalmer-Yu","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
+598563,"RU-10110","heliport","Vostochny Kildin Heliport",69.325566,34.398896,3,"EU","RU","RU-MUR","Kildin Island","no",,,,"HFL8",,,"ХФЛ8, Восточный Кильдин"
 526852,"RU-1012","heliport","KS-4 Vorkutinskaya",67.225925,63.674161,,"AS","RU","RU-KO","Vorkuta","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526854,"RU-1013","heliport","KS-9 Maloperanskaya",64.258736,54.893339,,"EU","RU","RU-KO",,"no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526855,"RU-1014","heliport","KS-8 Chikshynskaya",64.906503,56.412424,,"EU","RU","RU-KO","Chikshino","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
@@ -61670,6 +61670,7 @@
 555226,"SS4O","small_airport","Fazenda Nossa Senhora Aparecida Airport",-13.204772,-53.647239,1138,"SA","BR","BR-MT","Gaúcha do Norte","no",,,"SS4O","MT1068",,,
 558160,"SS4P","small_airport","Fazenda Apunã Airport",-5.91233,-59.953219,314,"SA","BR","BR-AM","Novo Aripuanã","no",,,"SS4P","AM0117",,,
 553260,"SS4U","small_airport","Cajamar Airport",-5.639585,-45.230105,646,"SA","BR","BR-MA","Barra do Corda","no",,,"SS4U","MA0192",,,
+598551,"SS7Z","small_airport","Fazenda Paraiso Arpa Airport",-11.298736,-49.63974,650,"SA","BR","BR-TO","Dueré","no",,,"SS7Z","TO0154",,,
 598536,"SS82","small_airport","Carará Airport",-0.075011,-53.11976,529,"SA","BR","BR-PA","Almeirim","no",,,"SS82","PA0426",,,
 598535,"SS83","small_airport","Fazenda Cochilo Airport",-17.118721,-45.421015,1850,"SA","BR","BR-MG","Buritizeiro","no",,,"SS83","MG0633",,,
 598534,"SS84","heliport","Grupo Mil Heliport",-22.119925,-43.235546,978,"SA","BR","BR-RJ","Três Rios","no",,,"SS84","RJ0238",,,
@@ -63834,7 +63835,7 @@
 545699,"TR-0281","closed","Karamürselbey Airfield",40.701106,29.529638,,"AS","TR","TR-41",,"no",,,,,,,
 545700,"TR-0282","small_airport","Istanbul Aviation Pamukova Airfield",40.487089,30.169232,,"AS","TR","TR-54",,"no",,,,,"https://www.istanbulhavacilik.com.tr/",,
 545701,"TR-0283","small_airport","KTO Karatay University Airfield",38.095469,32.779033,1005,"AS","TR","TR-42",,"no",,,,,,,
-545703,"TR-0284","seaplane_base","Haliç Seaplane Base",41.058313,28.948058,,"AS","TR","TR-34",,"no",,,,,,,
+545703,"TR-0284","seaplane_base","Haliç Seaplane Base",41.058313,28.948058,,"EU","TR","TR-34",,"no",,,,,,,
 545704,"TR-0285","heliport","Zorlu Center Helipad",41.066611,29.017986,,"EU","TR","TR-34",,"no",,,,,,,
 545705,"TR-0286","heliport","Acıbadem Altunizade Hospital Helipad",41.018622,29.047339,,"AS","TR","TR-34",,"no",,,,,,,
 545707,"TR-0287","heliport","Bereket Aviation Helipad",37.79387,28.982782,,"AS","TR","TR-20",,"no",,,,,,,
