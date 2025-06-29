@@ -121,7 +121,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32211,AGRC,small_airport,Ringi Cove Airport,-8.12639045715332,157.14300537109375,,OC,SB,SB-WE,Ringi Cove,no,AGRC,RIN,AGRC,,,,
 35170,AGRM,small_airport,Ramata Airport,-8.168060302734375,157.64300537109375,,OC,SB,SB-WE,Ramata,yes,AGRM,RBV,AGRM,,,https://en.wikipedia.org/wiki/Ramata_Airport,
 306999,AGTI,heliport,Tulaghi Heliport,-9.108,160.149166667,3,OC,SB,SB-CE,Tulaghi Island,no,AGTI,TLG,AGTI,,,,Tulagi
-314491,AGY,small_airport,Argyle Downs Airport,-16.508604,128.922485,407,OC,AU,AU-WA,Argyle Downs,no,,AGY,,,,https://en.wikipedia.org/wiki/Argyle_Downs_Airport,AGY
 299324,AHY,small_airport,Ambatolhy Airport,-20.015833333299998,45.535,340,AF,MG,MG-U,Ambatolahy,no,,AHY,,,,,
 299328,AIP,small_airport,Ailinglaplap Airok Airport,7.279422,168.8257,16,OC,MH,MH-ALL,Bigatyelang Island,no,,AIC,,,,https://en.wikipedia.org/wiki/Ailinglaplap_Airok_Airport,
 16108,AK13,small_airport,Chena Hot Springs Airport,65.0518035889,-146.04699707,1195,NA,US,US-AK,Chena Hot Springs,no,,CEX,AK13,AK13,,,
@@ -774,6 +773,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 525774,CN-0422,small_airport,Lishui Airport,28.3727,119.839,,AS,CN,CN-33,Lishui (Liandu),no,ZSLI,LIJ,ZSLI,,,https://en.wikipedia.org/wiki/Lishui_Airport,ZSLR
 525775,CN-0423,small_airport,Nanchang Yaohu Airport,28.700972,116.107694,,AS,CN,CN-36,Nanchang,no,,YHJ,ZSYH,,,https://en.wikipedia.org/wiki/Nanchang_Yaohu_Airport,
 548188,CN-0427,small_airport,Otog Banner Wulan Airport,39.03139,107.98889,4423,AS,CN,CN-15,Wulan,no,,OTO,,,,,
+598595,CN-0476,medium_airport,Bengbu Tenghu Airport (U.C.),33.165808,117.057295,72,AS,CN,CN-34,Bengbu,no,,BFY,,,,https://en.wikipedia.org/wiki/Bengbu_Tenghu_Airport,蚌埠腾湖机场
 1299,CNE3,small_airport,Bearskin Lake Airport,53.965599060058594,-91.0271987915039,800,NA,CA,CA-ON,Bearskin Lake,yes,,XBE,CNE3,CNE3,,https://en.wikipedia.org/wiki/Bearskin_Lake_Airport,NE3
 1308,CNH2,small_airport,Natuashish Airport,55.913898,-61.184399,30,NA,CA,CA-NL,Natuashish,yes,,YNP,CNH2,CNH2,,https://en.wikipedia.org/wiki/Natuashish_Airport,NH2
 28467,CNJ8,seaplane_base,White River Seaplane Base,48.6269,-85.223297,1380,NA,CA,CA-ON,White River,no,,YWR,CNJ8,CNJ8,,https://en.wikipedia.org/wiki/White_River_Water_Aerodrome,
@@ -2771,7 +2771,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 595235,GB-1327,heliport,Penzance Heliport,50.130376,-5.513946,,EU,GB,GB-ENG,"Penzance, Cornwall",yes,EGHK,PZE,,,https://penzanceheliport.co.uk/,https://en.wikipedia.org/wiki/Penzance_Heliport,
 31147,GB-FLH,small_airport,Flotta Isle Airstrip,58.825802,-3.14278,50,EU,GB,GB-SCT,Flotta Isle,no,,FLH,,,,https://en.wikipedia.org/wiki/Flotta_Isle_Airport,EGZR
 31199,GB-FOA,small_airport,Foula Airfield,60.121725,-2.053202,150,EU,GB,GB-SCT,Foula,yes,,FOA,,,,https://en.wikipedia.org/wiki/Foula_Airfield,EGFO
-29640,GB-ULL,small_airport,Glenforsa Airfield,56.517202,-5.91401,15,EU,GB,GB-SCT,Glenforsa,no,,ULL,,,https://www.glenforsa.com/airfield,,"Mull, EGZU"
 319712,GBM,small_airport,Garbaharey Airport,3.32294,42.21309,755,AF,SO,SO-GE,Garbaharey,no,,GBM,,,,https://en.wikipedia.org/wiki/Garbaharey_Airport,"Garbahaareey, Garba Harre"
 3076,GBYD,large_airport,Banjul International Airport,13.338,-16.652201,95,AF,GM,GM-W,Yundum,yes,GBYD,BJL,GBYD,,,https://en.wikipedia.org/wiki/Banjul_International_Airport,Yundum international Airport
 524733,GCDC,heliport,Nuestra Señora de Candelaria University Hospital Helipad,28.448687,-16.28462,820,AF,ES,ES-CN,Santa Cruz de Tenerife,no,GCDC,,GCDC,,,,
@@ -3241,6 +3240,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 520373,IN-0376,small_airport,Utkela Airport,20.097778,83.183333,685,AS,IN,IN-OR,Bhawanipatna,yes,,UKE,,,,https://en.wikipedia.org/wiki/Utkela_Airport,
 26454,IN-0382,small_airport,Gandhinagar Airfield,19.963699,73.807602,1959,AS,IN,IN-MM,Nashik,no,VANR,,VANR,,,https://en.wikipedia.org/wiki/Gandhinagar_Airport,"ISK, Nashik Road Airport"
 597786,IN-0392,small_airport,Noida International Airport,28.175556,77.60611,,AS,IN,IN-UP,,no,VIND,,,,https://niairport.in/,https://en.wikipedia.org/wiki/Noida_International_Airport,
+598586,IN-0393,medium_airport,Maa Mahamaya Airport,22.98753,83.19612,1930,AS,IN,IN-CT,Ambikapur,yes,VEAP,AHA,,,https://www.aai.aero/en/node/71997,https://en.wikipedia.org/wiki/Maa_Mahamaya_Airport,"Ambikapur, Darima"
 31698,IN-JGB,small_airport,Jagdalpur Airport,19.074301,82.036797,1822,AS,IN,IN-CT,Jagdalpur,yes,VEJR,JGB,VEJR,VEJR,,https://en.wikipedia.org/wiki/Jagdalpur_Airport,
 32215,IN-RJI,small_airport,Rajouri Airport,33.377899,74.315201,3000,AS,IN,IN-JK,Rajouri,no,,RJI,,,,https://en.wikipedia.org/wiki/Rajouri_Airport,Rajauri
 311991,INE,small_airport,Chinde Airport,-18.59,36.4489,22,AF,MZ,MZ-Q,Chinde,no,,INE,,,,,
@@ -7508,7 +7508,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6087,SFAL,medium_airport,Port Stanley Airport,-51.685699462891,-57.777599334717,75,SA,FK,FK-U-A,Stanley,yes,SFAL,PSY,SFAL,,,https://en.wikipedia.org/wiki/Port_Stanley_Airport,
 6088,SGAS,large_airport,Aeropuerto Internacional Silvio Pettirossi,-25.240156,-57.519227,292,SA,PY,PY-11,Asunción,yes,SGAS,ASU,SGAS,,,https://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport,"Luque, Stroessner, Aeropuerto Internacional Silvio Pettirossi"
 6089,SGAY,medium_airport,Aeropuerto Nacional Juan de Ayolas,-27.378379,-56.856791,223,SA,PY,PY-8,Ayolas,no,SGAY,AYO,SGAY,,,https://en.wikipedia.org/wiki/Juan_de_Ayolas_Airport,Aeropuerto Nacional de Juan De Ayolas
-41566,SGBN,small_airport,Aeródromo de Bahía Negra,-20.2246,-58.179528,277,SA,PY,PY-16,Bahía Negra,no,SGBN,BFA,SGBN,,,,
+41566,SGBN,small_airport,Bahía Negra Airport,-20.230777,-58.170455,277,SA,PY,PY-16,Bahía Negra,no,SGBN,BFA,SGBN,,,,
 6090,SGCO,medium_airport,Aeropuerto Nacional Tte. Cnel. Carmelo Peralta,-23.440334,-57.429206,253,SA,PY,PY-1,Concepción,no,SGCO,CIO,SGCO,,,https://en.wikipedia.org/wiki/Teniente_Coronel_Carmelo_Peralta_Airport,Aeropuerto Nacional Tte. Cnel. Carmelo Peralta
 29851,SGEN,large_airport,Aeropuerto Internacional Tte. Amín Ayub González,-27.227537,-55.837584,659,SA,PY,PY-7,Encarnación,yes,SGEN,ENO,SGEN,,,https://en.wikipedia.org/wiki/Teniente_Amin_Ayub_Gonzalez_Airport,Aeropuerto Internacional Tte. Amin Ayub González
 6091,SGES,large_airport,Aeropuerto Internacional Guaraní,-25.457186,-54.839544,846,SA,PY,PY-10,Ciudad del Este,yes,SGES,AGT,SGES,,,https://en.wikipedia.org/wiki/Guarani_International_Airport,Aeropuerto Internacional Guaraní
