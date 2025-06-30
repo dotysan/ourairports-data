@@ -140,7 +140,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 312361,ANZ,small_airport,Angus Downs Airport,-25.0325,132.2748,1724,OC,AU,AU-NT,Angus Downs Station,no,,ANZ,YADN,,,,
 35325,AO-0001,small_airport,Catoca Airport,-9.431359,20.311557,3498,AF,AO,AO-LSU,Saurimo,no,,CTV,FNCO,,,https://en.wikipedia.org/wiki/Catoca_Airport,Saurimo North
 43971,AO-0005,small_airport,Andulo Airport,-11.4723,16.710899,,AF,AO,AO-BIE,Andulo,no,,ANL,,,,https://en.wikipedia.org/wiki/Andulo_Airport,
-598034,AO-0074,small_airport,Huambo Airport,-12.786306,15.774528,5443,AF,AO,AO-HUA,Huambo,no,FNNL,,,,,https://en.wikipedia.org/wiki/Huambo_Airport,
+598034,AO-0074,small_airport,Huambo Airport,-12.786306,15.774528,5443,AF,AO,AO-HUA,Huambo,no,FNNL,,FNNL,,,https://en.wikipedia.org/wiki/Huambo_Airport,
 30840,AO-CNZ,small_airport,Cangamba Airport,-13.7106,19.861099,3894,AF,AO,AO-MOX,Cangamba,no,,CNZ,,,,https://en.wikipedia.org/wiki/Cangamba_Airport,
 43323,AO-DRC,small_airport,Dirico Airport,-17.981924,20.768061,3504,AF,AO,AO-CCU,Dirico,no,,DRC,,,,https://en.wikipedia.org/wiki/Dirico_Airport,
 43326,AO-NDF,small_airport,N'dalatando Airport,-9.280378,14.982432,2684,AF,AO,AO-CNO,N'dalatando,no,,NDF,,,,https://en.wikipedia.org/wiki/N%27dalatando_Airport,
@@ -1247,11 +1247,12 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 315728,DE-0256,small_airport,Perleberg Glider Field,53.070464,11.818672,91,EU,DE,DE-MV,,no,EDUP,,,,http://www.aeroclub-perleberg.de/,https://de.wikipedia.org/wiki/Flugplatz_Perleberg,
 315950,DE-0295,small_airport,Müllheim Airfield,47.824316,7.639475,955,EU,DE,DE-BW,Müllheim,no,EDSM,,,,,https://de.wikipedia.org/wiki/Flugplatz_M%C3%BCllheim,"Flugplatz Müllheim, Segelflugplatz Müllheim"
 315960,DE-0298,small_airport,Deckenpfronn-Egelsee Airfield,48.6385,8.8175,1895,EU,DE,DE-BW,Sindelfingen,no,EDSD,,,,https://translate.google.com/translate?hl=en&sl=de&u=https://www.fsv-sindelfingen-ev.de/index.php%3Fid%3D84&prev=search,https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Deckenpfronn-Egelsee,
+315962,DE-0300,small_airport,Bohlhof Glider Field,47.6509,8.3867,1885,EU,DE,DE-BW,Wutöschingen,no,EDTA,,,,http://www.bohlhof.de/,https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Bohlhof,Segelfluggelände Bohlhof
 316014,DE-0310,small_airport,Hütten Glider Field,47.6333,7.9412,2885,EU,DE,DE-BW,Rickenbach,no,EDSF,,,,http://www.lg-hotzenwald.de/,https://de.wikipedia.org/wiki/Flugplatz_H%C3%BCtten-Hotzenwald,Sonderlandeplatz Hütten-Hotzenwald
 336115,DEQ,small_airport,Deqing Moganshan Airport,30.504264,120.107388,,AS,CN,CN-33,Huzhou,no,,DEQ,,,,https://en.wikipedia.org/wiki/Deqing_Moganshan_Airport,
 315622,DEX,small_airport,Nop Goliat Dekai Airport,-4.8557,139.482006,198,AS,ID,ID-PP,Dekai,yes,WAVD,DEX,WAVD,,,https://en.wikipedia.org/wiki/Nop_Goliat_Dekai_Airport,Nop Goliath
 32704,DFCA,small_airport,Kaya Airport,13.067,-1.1,984,AF,BF,BF-SMT,Kaya,no,DFCA,XKY,DFCA,,,https://en.wikipedia.org/wiki/Kaya_Airport,
-30887,DFCB,small_airport,Barsalogho Airport,13.4,-1.067,1083,AF,BF,BF-SMT,Barsalogho,no,DFCB,,DFCB,,,https://en.wikipedia.org/wiki/Barsalogho_Airport,
+30887,DFCB,small_airport,Barsalogho Airport,13.4,-1.067,1083,AF,BF,BF-SMT,Barsalogho,no,DFCB,,DFCB,,,https://en.wikipedia.org/wiki/Barsalogho_Airport,DFCB
 32132,DFCC,small_airport,Ouahigouya Airport,13.655287,-2.322067,1089,AF,BF,BF-YAT,Ouahigouya,no,DFCC,OUG,DFCC,,,https://en.wikipedia.org/wiki/Ouahigouya_Airport,
 30888,DFCD,small_airport,Didyr Airport,12.55,-2.617,958,AF,BF,BF-SNG,Didyr,no,DFCD,,DFCD,,,https://en.wikipedia.org/wiki/Didyr_Airport,
 30890,DFCG,small_airport,Kongoussi Airport,13.317,-1.533,1056,AF,BF,BF-BAM,Kongoussi,no,DFCG,,DFCG,,,https://en.wikipedia.org/wiki/Kongoussi_Airport,
@@ -1612,7 +1613,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 511740,EG-0059,heliport,Katameya Air Base,30.0503,31.841369,800,AF,EG,EG-C,New Cairo,no,,TFR,,,,,"HE13, Wadi Al Jandali, Ramadan City"
 30660,EG-AUE,small_airport,Abu Rudeis Airport,28.899694,33.202057,43,AS,EG,EG-JS,Ras Abu Rudeis,no,,AUE,,,,https://en.wikipedia.org/wiki/Abu_Rudeis_Airport,"Abordes, Abu Rudes"
 2385,EGAA,large_airport,Belfast International Airport,54.6575012207,-6.2158298492399995,268,EU,GB,GB-NIR,Belfast,yes,EGAA,BFS,EGAA,,http://www.belfastairport.com/,https://en.wikipedia.org/wiki/Belfast_International_Airport,"Aldergrove, RAF Aldergrove"
-2386,EGAB,medium_airport,Enniskillen/St Angelo Airport,54.398899,-7.65167,155,EU,GB,GB-NIR,Enniskillen,no,EGAB,ENK,EGAB,,,https://en.wikipedia.org/wiki/Enniskillen/St_Angelo_Airport,
+2386,EGAB,medium_airport,Enniskillen/St Angelo Airport,54.398274,-7.651179,155,EU,GB,GB-NIR,"Enniskillen, Fermanagh and Omagh",no,EGAB,ENK,EGAB,,,https://en.wikipedia.org/wiki/Enniskillen/St_Angelo_Airport,
 2387,EGAC,medium_airport,George Best Belfast City Airport,54.618099,-5.8725,15,EU,GB,GB-NIR,Belfast,yes,EGAC,BHD,EGAC,,http://www.belfastcityairport.com/,https://en.wikipedia.org/wiki/George_Best_Belfast_City_Airport,
 2388,EGAE,medium_airport,City of Derry Airport,55.04280090332031,-7.161109924316406,22,EU,GB,GB-NIR,Derry,yes,EGAE,LDY,EGAE,,http://www.cityofderryairport.com/,https://en.wikipedia.org/wiki/City_of_Derry_Airport,Londonderry Eglinton Airport
 2389,EGBB,large_airport,Birmingham Airport,52.453899,-1.74803,327,EU,GB,GB-ENG,"Birmingham, West Midlands",yes,EGBB,BHX,EGBB,,https://www.birminghamairport.co.uk/,https://en.wikipedia.org/wiki/Birmingham_Airport,Birmingham International Airport
@@ -2310,8 +2311,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 312665,FNBJ,medium_airport,Dr. Antonio Agostinho Neto International Airport,-9.050734,13.499078,550,AF,AO,AO-LUA,Luanda (Ícolo e Bengo),no,FNBJ,NBJ,FNBJ,,,https://en.wikipedia.org/wiki/Angola_International_Airport,Novo Aeroporto Internacional de Luanda
 318482,FNBL,small_airport,Lumbala Airport,-14.105106,21.45083,3700,AF,AO,AO-MOX,Lumbala N'guimbo,no,FNBL,GGC,FNBL,,,https://en.wikipedia.org/wiki/Lumbala_Airport,
 2936,FNCA,medium_airport,Cabinda Airport,-5.59699010848999,12.188400268554688,66,AF,AO,AO-CAB,Cabinda,yes,FNCA,CAB,FNCA,,,https://en.wikipedia.org/wiki/Cabinda_Airport,
+31189,FNCB,small_airport,Camembe Airport,-8.119819,14.498963,2264,AF,AO,AO-BGO,Camembe,no,FNCB,,FNCB,,,https://en.wikipedia.org/wiki/Camembe_Airport,
+31190,FNCC,small_airport,Cacolo Airport,-10.110278,19.287304,4400,AF,AO,AO-LSU,Cacolo,no,FNCC,,FNCC,,,https://en.wikipedia.org/wiki/Cacolo_Airport,
 30821,FNCF,small_airport,Cafunfo Airport,-8.78361,17.9897,,AF,AO,AO-LNO,Cafunfo,no,FNCF,CFF,FNCF,,,https://en.wikipedia.org/wiki/Cafunfo_Airport,
 32157,FNCH,small_airport,Chitato Airport,-7.35889,20.804701,2500,AF,AO,AO-LNO,Chitato,no,FNCH,PGI,FNCH,,,https://en.wikipedia.org/wiki/Chitato_Airport,
+31191,FNCM,small_airport,Camabatela Airport,-8.177847,15.383177,410,AF,AO,AO-CNO,Camabatela,no,FNCM,,FNCM,,,https://en.wikipedia.org/wiki/Camabatela_Airport,
 43322,FNCP,small_airport,Kapanda Airport,-9.76937,15.455319,3366,AF,AO,AO-MAL,Capanda,no,FNCP,KNP,FNCP,,,https://en.wikipedia.org/wiki/Kapanda_Airport,
 30813,FNCT,medium_airport,Catumbela Airport,-12.4792,13.4869,23,AF,AO,AO-BGU,Catumbela,yes,FNCT,CBT,FNCT,,,https://en.wikipedia.org/wiki/Catumbela_Airport,
 30857,FNCV,small_airport,Cuito Cuanavale Airport,-15.1603,19.156099,,AF,AO,AO-CCU,Cuito Cuanavale,no,FNCV,CTI,FNCV,,,https://en.wikipedia.org/wiki/Cuito_Cuanavale_Airport,
@@ -7025,6 +7029,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 314508,RLP,small_airport,Rosella Plains Airport,-18.4253,144.4587,1855,OC,AU,AU-QLD,Rosella Plains,no,,RLP,,,,,
 24363,RMP,small_airport,Rampart Airport,65.507896,-150.141007,302,NA,US,US-AK,Rampart,yes,,RMP,PFMP,RMP,,https://en.wikipedia.org/wiki/Rampart_Airport,
 354838,RO-0054,small_airport,Iaşi Sud,47.15778,27.6375,200,EU,RO,RO-IS,,no,LRIS,,,,,,
+598628,RO-0123,heliport,Emergency University Hospital Of Bucharest Heliport,44.436018,26.071093,,EU,RO,RO-B,,no,LRSU,,,,,,
 5671,ROAH,large_airport,Naha Airport / JASDF Naha Air Base,26.195801,127.646004,12,AS,JP,JP-47,Naha,yes,ROAH,OKA,ROAH,,http://www.naha-airport.co.jp/,https://en.wikipedia.org/wiki/Naha_Airport,"那覇空港, Naha Kūkō?, AHA, Naha AFB"
 5673,RODN,large_airport,Kadena Air Base,26.351667,127.769444,143,AS,JP,JP-47,Okinawa,no,RODN,DNA,RODN,,,https://en.wikipedia.org/wiki/Kadena_Air_Base,
 327608,ROIG,medium_airport,New Ishigaki Airport,24.396389,124.245,102,AS,JP,JP-47,Ishigaki,yes,ROIG,ISG,ROIG,,https://www.ishigaki-airport.co.jp/en/,https://en.wikipedia.org/wiki/New_Ishigaki_Airport,
@@ -7889,6 +7894,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6241,SPYL,medium_airport,Captain Victor Montes Arias International Airport,-4.57664,-81.254097,282,SA,PE,PE-PIU,Talara,yes,SPYL,TYL,SPYL,,,https://en.wikipedia.org/wiki/Cap._FAP_Victor_Montes_Arias_Airport,Capitan FAP Victor Montes Arias
 6242,SPZA,medium_airport,Maria Reiche Neuman Airport,-14.854,-74.961502,1860,SA,PE,PE-ICA,Nazca,yes,SPZA,NZC,SPZA,,https://www.aeronasca.com/como-llegar-al-aeropuerto-maria-reiche-en-nazca/,https://en.wikipedia.org/wiki/Maria_Reiche_Neuman_Airport,
 6243,SPZO,large_airport,Alejandro Velasco Astete International Airport,-13.535699844400002,-71.9387969971,10860,SA,PE,PE-CUS,Cusco,yes,SPZO,CUZ,SPZO,,http://www.corpac.gob.pe/,https://en.wikipedia.org/wiki/Alejandro_Velasco_Astete_International_Airport,
+598609,SR-0009,small_airport,Eduard Alexander Gummels Airport,5.8604,-55.192,49,SA,SR,SR-PM,Kwatta,yes,SMEG,EAX,,,https://eagairport.sr/,https://en.wikipedia.org/wiki/Eduard_Alexander_Gummels_Airport,
 314712,SRL,small_airport,Palo Verde Airport,27.0927,-112.0985,127,NA,MX,MX-BCS,Mulegé,yes,,SRL,,CIB,,https://en.wikipedia.org/wiki/Palo_Verde_Airport,"CIB, PVP, Chivato Bay, San Bruno"
 314728,SRM,small_airport,Sandringham Airport,-24.0568,139.0821,313,OC,AU,AU-QLD,Sandringham Station,no,,SRM,,,,,
 24676,SRV,small_airport,Stony River 2 Airport,61.7897,-156.589005,230,NA,US,US-AK,Stony River,yes,,SRV,SRV,SRV,,https://en.wikipedia.org/wiki/Stony_River_Airport,
