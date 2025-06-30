@@ -1,4 +1,7 @@
 "id", "threadRef", "airportRef", "airportIdent", "date", "memberNickname", "subject", "body"
+598626,82572,355259,"RO-0064","2025-06-29 18:41:25","i_love_cookies","ICAO","ICAO code should be: LRBH"
+598613,82571,5667,"LR79","2025-06-29 17:14:17","i_love_cookies","ICAO Code","ICAO code shouldn't be LR79, but rather LRIC.
+Source: aisro Romatsa LR_Amdt_A_2017_03_en.pdf"
 598548,82570,26924,"YBPN","2025-06-26 02:35:02","Mick0501","Live atc","Where can I listen to live at whitsunday Shute harbour 127.85 please"
 598326,82569,19469,"KCCR","2025-06-17 13:14:20","razorgg","June 17 closing runways","On June 17, 2025, Airport Operations will begin painting and will NOTAM close the following runways:
  
