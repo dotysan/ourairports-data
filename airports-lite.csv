@@ -134,12 +134,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 16188,AK97,small_airport,Boswell Bay Airport,60.4230995178,-146.145996094,230,NA,US,US-AK,Boswell Bay,no,,BSW,AK97,AK97,,https://en.wikipedia.org/wiki/Boswell_Bay_Airport,
 301754,AKM,small_airport,Zakuoma Airport,10.8902777778,19.8172222222,1370,AF,TD,TD-SA,ZaKouma,no,,AKM,,,,https://en.wikipedia.org/wiki/Zakouma_Airport,
 16289,ALZ,seaplane_base,Alitak Seaplane Base,56.897294,-154.249692,,NA,US,US-AK,Lazy Bay,yes,,ALZ,,ALZ,,https://en.wikipedia.org/wiki/Alitak_Seaplane_Base,
+44682,AM-0001,small_airport,Syunik Airport,39.202272,46.455204,2308,AS,AM,AM-SU,Kapan,no,UDCK,YUK,UDCK,,,https://en.wikipedia.org/wiki/Syunik_Airport,Սյունիքի օդանավակայան
 301755,AME,small_airport,Alto Molocue Airport,-15.6102777778,37.6813888889,1950,AF,MZ,MZ-Q,Alto Molocue,no,,AME,,,,,
 301758,AMY,small_airport,Ambatomainty Airport,-17.686667,45.623889,1025,AF,MG,MG-M,,no,FMMB,AMY,FMMB,,,https://en.wikipedia.org/wiki/Ambatomainty_Airport,
 8,ANYN,medium_airport,Nauru International Airport,-0.547458,166.919006,22,OC,NR,NR-14,Yaren District,yes,ANYN,INU,ANYN,,,https://en.wikipedia.org/wiki/Nauru_International_Airport,
 312361,ANZ,small_airport,Angus Downs Airport,-25.0325,132.2748,1724,OC,AU,AU-NT,Angus Downs Station,no,,ANZ,YADN,,,,
 35325,AO-0001,small_airport,Catoca Airport,-9.431359,20.311557,3498,AF,AO,AO-LSU,Saurimo,no,,CTV,FNCO,,,https://en.wikipedia.org/wiki/Catoca_Airport,Saurimo North
 43971,AO-0005,small_airport,Andulo Airport,-11.4723,16.710899,,AF,AO,AO-BIE,Andulo,no,,ANL,,,,https://en.wikipedia.org/wiki/Andulo_Airport,
+43325,AO-0067,small_airport,Lumbala Airstrip,-12.638947,22.589028,3510,AF,AO,AO-MOX,Lumbala,no,FNLM,,FNLM,,,,"Kaquengue, Caquengue"
 598034,AO-0074,small_airport,Huambo Airport,-12.786306,15.774528,5443,AF,AO,AO-HUA,Huambo,no,FNNL,,FNNL,,,https://en.wikipedia.org/wiki/Huambo_Airport,
 30840,AO-CNZ,small_airport,Cangamba Airport,-13.7106,19.861099,3894,AF,AO,AO-MOX,Cangamba,no,,CNZ,,,,https://en.wikipedia.org/wiki/Cangamba_Airport,
 43323,AO-DRC,small_airport,Dirico Airport,-17.981924,20.768061,3504,AF,AO,AO-CCU,Dirico,no,,DRC,,,,https://en.wikipedia.org/wiki/Dirico_Airport,
@@ -2318,6 +2320,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31191,FNCM,small_airport,Camabatela Airport,-8.177847,15.383177,410,AF,AO,AO-CNO,Camabatela,no,FNCM,,FNCM,,,https://en.wikipedia.org/wiki/Camabatela_Airport,
 43322,FNCP,small_airport,Kapanda Airport,-9.76937,15.455319,3366,AF,AO,AO-MAL,Capanda,no,FNCP,KNP,FNCP,,,https://en.wikipedia.org/wiki/Kapanda_Airport,
 30813,FNCT,medium_airport,Catumbela Airport,-12.4792,13.4869,23,AF,AO,AO-BGU,Catumbela,yes,FNCT,CBT,FNCT,,,https://en.wikipedia.org/wiki/Catumbela_Airport,
+598660,FNCU,small_airport,Calulo Airport,-9.976268,14.917932,2988,AF,AO,AO-CUS,Calulo,no,FNCU,,FNCU,,,,
 30857,FNCV,small_airport,Cuito Cuanavale Airport,-15.1603,19.156099,,AF,AO,AO-CCU,Cuito Cuanavale,no,FNCV,CTI,FNCV,,,https://en.wikipedia.org/wiki/Cuito_Cuanavale_Airport,
 30864,FNCX,small_airport,Camaxilo Airport,-8.37361,18.923599,3957,AF,AO,AO-LNO,Camaxilo,no,FNCX,CXM,FNCX,,,https://en.wikipedia.org/wiki/Camaxilo_Airport,
 30811,FNCZ,small_airport,Cazombo Airport,-11.8931,22.916239,3700,AF,AO,AO-MOX,Cazombo,no,FNCZ,CAV,FNCZ,,,https://en.wikipedia.org/wiki/Cazombo_Airport,
@@ -2328,7 +2331,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2939,FNHU,medium_airport,Albano Machado Airport,-12.8089,15.7605,5587,AF,AO,AO-HUA,Huambo,yes,FNHU,NOV,FNHU,,,https://en.wikipedia.org/wiki/Albano_Machado_Airport,Nova Lisboa Airport
 2940,FNKU,medium_airport,Kuito Airport,-12.404600143433,16.947399139404,5618,AF,AO,AO-BIE,Kuito,no,FNKU,SVP,FNKU,,,https://en.wikipedia.org/wiki/Kuito_Airport,
 2941,FNLB,small_airport,Lobito Airport,-12.3712,13.5366,10,AF,AO,AO-BGU,Lobito,no,FNLB,LLT,FNLB,,,https://en.wikipedia.org/wiki/Lobito_Airport,
-43321,FNLK,small_airport,Lucapa Airport,-8.445727348330001,20.7320861816,3029,AF,AO,AO-LNO,Lucapa,no,FNLK,LBZ,FNLK,,,https://en.wikipedia.org/wiki/Lucapa_Airport,
+43321,FNLK,small_airport,Lucapa Airport,-8.442339,20.732701,3029,AF,AO,AO-LNO,Lucapa,no,FNLK,LBZ,FNLK,,,https://en.wikipedia.org/wiki/Lucapa_Airport,Lukapa
 2942,FNLU,large_airport,Quatro de Fevereiro International Airport,-8.85837,13.2312,243,AF,AO,AO-LUA,Luanda,yes,FNLU,LAD,FNLU,,,https://en.wikipedia.org/wiki/Quatro_de_Fevereiro_Airport,4 de Fevereiro
 2943,FNLZ,small_airport,Luzamba Airport,-9.11596012115,18.049299240099998,2904,AF,AO,AO-LNO,Luzamba,no,FNLZ,LZM,FNLZ,,,https://en.wikipedia.org/wiki/Cuango-Luzamba_Airport,Cuango
 2944,FNMA,medium_airport,Malanje Airport,-9.525090217590332,16.312400817871094,3868,AF,AO,AO-MAL,Malanje,yes,FNMA,MEG,FNMA,,,https://en.wikipedia.org/wiki/Malanje_Airport,
@@ -2341,6 +2344,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2949,FNSA,medium_airport,Saurimo Airport,-9.68907,20.4319,3584,AF,AO,AO-LSU,Saurimo,no,FNSA,VHC,FNSA,,,https://en.wikipedia.org/wiki/Saurimo_Airport,
 2950,FNSO,medium_airport,Soyo Airport,-6.141089916229248,12.371800422668457,15,AF,AO,AO-ZAI,Soyo,yes,FNSO,SZA,FNSO,,,https://en.wikipedia.org/wiki/Soyo_Airport,
 2951,FNSU,medium_airport,Sumbe Airport,-11.1679,13.8475,36,AF,AO,AO-CUS,Sumbe,no,FNSU,NDD,FNSU,,,https://en.wikipedia.org/wiki/Sumbe_Airport,
+598665,FNTE,small_airport,Tchamutete Airport,-15.216387,16.054915,4241,AF,AO,AO-HUI,Techamutete,no,FNTE,,FNTE,,,,
 31198,FNTO,small_airport,Xamindele Airport,-7.14639,14.2486,1775,AF,AO,AO-UIG,Toto,no,FNTO,,FNTO,,,https://en.wikipedia.org/wiki/Xamindele_Airport,
 32498,FNUA,small_airport,Luau Airport,-10.7158,22.2311,3609,AF,AO,AO-MOX,Luau,no,FNUA,UAL,FNUA,,,https://en.wikipedia.org/wiki/Luau_Airport,
 2952,FNUB,medium_airport,Lubango Airport,-14.924699783325195,13.574999809265137,5778,AF,AO,AO-HUI,Lubango,yes,FNUB,SDD,FNUB,,,https://en.wikipedia.org/wiki/Lubango_Airport,
@@ -3256,7 +3260,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 316549,IVI,small_airport,Viveros Island Airport,8.4693,-79.0016,100,NA,PA,PA-8,Isla Viveros,no,,IVI,,,,,
 319816,JIO,small_airport,Jos Orno Imsula Airport,-8.140402,127.908758,43,AS,ID,ID-MA,Tiakur,yes,,JIO,WAPM,,,https://en.wikipedia.org/wiki/Jos_Orno_Imsula_Airport,"Moa Island, Leti Islands"
 18253,JLA,small_airport,Quartz Creek Airport,60.484235,-149.722909,450,NA,US,US-AK,Cooper Landing,no,,JLA,,JLA,,,
-43324,JMB,small_airport,Jamba Airport,-14.698193,16.070148,4912,AF,AO,AO-HUI,Jamba,no,FNJA,JMB,,,,https://en.wikipedia.org/wiki/Jamba_Airport,
+43324,JMB,small_airport,Jamba Airport,-14.698193,16.070148,4912,AF,AO,AO-HUI,Jamba,no,FNJM,JMB,FNJM,,,https://en.wikipedia.org/wiki/Jamba_Airport,
 18255,JPN,heliport,Pentagon Army Heliport,38.874908,-77.056682,40,NA,US,US-VA,Washington DC,no,,JPN,KJPN,JPN,,https://en.wikipedia.org/wiki/Pentagon_Army_Heliport,Arlington
 18256,JRA,heliport,West 30th Street Heliport,40.755107,-74.006896,7,NA,US,US-NY,New York,yes,,JRA,KJRA,JRA,,https://en.wikipedia.org/wiki/West_30th_Street_Heliport,
 18257,JRB,heliport,Downtown Manhattan Heliport,40.700711,-74.008573,7,NA,US,US-NY,New York,no,,JRB,KJRB,JRB,http://www.downtownmanhattanheliport.com/,https://en.wikipedia.org/wiki/Downtown_Manhattan_Heliport,Downtown-Manhattan/Wall Street Heliport
