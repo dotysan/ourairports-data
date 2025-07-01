@@ -9889,7 +9889,7 @@
 16286,"AL97","small_airport","Williamson Farm Airport",30.644927,-87.670512,162,"NA","US","US-AL","Loxley","no",,,"AL97","AL97",,,
 16287,"AL98","heliport","DCH Regional Medical Center Heliport",33.2061,-87.526398,284,"NA","US","US-AL","Tuscaloosa","no",,,,,,,"AL98"
 16289,"ALZ","seaplane_base","Alitak Seaplane Base",56.897294,-154.249692,,"NA","US","US-AK","Lazy Bay","yes",,"ALZ",,"ALZ",,"https://en.wikipedia.org/wiki/Alitak_Seaplane_Base",
-44682,"AM-0001","small_airport","Syunik Airport",39.202272,46.455204,,"AS","AM","AM-SU","Kapan","no",,,,,,"https://en.wikipedia.org/wiki/Syunik_Airport",
+44682,"AM-0001","small_airport","Syunik Airport",39.202272,46.455204,2308,"AS","AM","AM-SU","Kapan","no","UDCK","YUK","UDCK",,,"https://en.wikipedia.org/wiki/Syunik_Airport","Սյունիքի օդանավակայան"
 44847,"AM-0002","small_airport","Goris Airport",39.450989,46.34724,,"AS","AM","AM-SU","Shinuhayr","no",,,,,,"https://en.wikipedia.org/wiki/Goris_Airport","Goris, Shinuhayr, Shinuyar"
 44931,"AM-0003","small_airport","Hoktember Highway Strip",40.0809774791,43.8822698593,,"AS","AM","AM-AV","Hoktember","no",,,,,,,"Oktember, Հոկտեմբեր, Sardarapat"
 44944,"AM-0004","small_airport","Berd Airport",40.925405606300004,45.4614043236,,"AS","AM","AM-TV","Berd","no",,,,,,,"Բերդ, Berrdagyugh, Berrdgyugh, T’avuzghala, T’auzk’end, T’ovuz, T’ous, Taua Kale, T’auzkala, Taya-Kala, Tovuzkala, Bert, T’ous Gale, Volorut, Shlorut, Ghalak’yand, T’uzukala"
@@ -9899,7 +9899,7 @@
 341270,"AM-0008","small_airport","Sisian Airstrip",39.54694,46.05694,,"AS","AM","AM-SU","Sisian","no",,,,,,,
 341271,"AM-0009","small_airport","Sky Club Airstrip",40.07953,44.60577,,"AS","AM","AM-AR","Bardzrashen","no",,,,,,,
 341272,"AM-0010","heliport","Victory Park Helipad",40.19627,44.52476,,"AS","AM","AM-ER","Yerevan","no",,,,,,,
-44384,"AM-0011","closed","Jermuk Airport",39.823666,45.67327,,"AS","AM","AM-VD","Jermuk","no",,,,,,,"Аэропорт Джермук, UGEJ"
+44384,"AM-0011","closed","Jermuk Airport",39.823666,45.67327,6791,"AS","AM","AM-VD","Jermuk","no",,,,,"https://hetq.am/en/article/110205",,"Аэропорт Джермук, UGEJ, Dzhermuk"
 301755,"AME","small_airport","Alto Molocue Airport",-15.6102777778,37.6813888889,1950,"AF","MZ","MZ-Q","Alto Molocue","no",,"AME",,,,,
 301758,"AMY","small_airport","Ambatomainty Airport",-17.686667,45.623889,1025,"AF","MG","MG-M",,"no","FMMB","AMY","FMMB",,,"https://en.wikipedia.org/wiki/Ambatomainty_Airport",
 518193,"AN00","heliport","Racs Magazine Heliport",60.933911,-149.145993,40,"NA","US","US-AK","Girdwood","no",,,"AN00","AN00",,,
@@ -9976,7 +9976,7 @@
 351720,"AO-0064","small_airport","Ganda Airport",-12.99473,14.64698,4170,"AF","AO","AO-BGU","Ganda","no",,,,,,,
 351722,"AO-0065","small_airport","Caimbambo Airport",-13.04186,13.99673,2667,"AF","AO","AO-BGU","Caimbambo","no",,,,,,,
 351948,"AO-0066","heliport","Malongo Terminal Heliport",-5.395639,12.212859,,"AF","AO","AO-CAB","Malongo","no",,,,,,,"Offshore, private, CABOG"
-43325,"AO-0067","small_airport","Lumbala Airstrip",-12.639877,22.586821,3510,"AF","AO","AO-MOX","Lumbala","no",,,,,,,
+43325,"AO-0067","small_airport","Lumbala Airstrip",-12.638947,22.589028,3510,"AF","AO","AO-MOX","Lumbala","no","FNLM",,"FNLM",,,,"Kaquengue, Caquengue"
 595479,"AO-0068","small_airport","Espinheira Airfield",-16.78214,12.35133,1493,"AF","AO","AO-NAM","Espinheira","no",,,,,,,
 595481,"AO-0069","small_airport","Praia do Capim Airfield",-15.73555,11.92488,33,"AF","AO","AO-NAM","Praia do Capim","no",,,,,,,
 595575,"AO-0070","small_airport","Dombe Grande Airfield",-13.00966,13.10344,294,"AF","AO","AO-BGU","Dombe Grande","no",,,,,,,
@@ -12723,6 +12723,7 @@
 598543,"BH-0021","closed","Bahrain International Karting Circuit Helipad",26.024461,50.506666,,"AS","BH","BH-14","Sakhir","no",,,,,,,
 598544,"BH-0022","closed","Bahrain International Circuit South Helipad",26.027766,50.511129,,"AS","BH","BH-14","Sakhir","no",,,,,,,
 598579,"BH-0023","heliport","Sheik Isa Air Base Helipad",25.946174,50.608078,,"AS","BH","BH-14","Al Dur","no",,,,,,,
+598667,"BH-0024","medium_airport","58winfarm",26,30,,"AS","BH","BH-13","Hà Nội,","yes",,,,,"https://58win.farm/",,
 30705,"BHL","small_airport","Bahía de los Ángeles Airport",28.9786,-113.560997,34,"NA","MX","MX-BCN","Ensenada","no",,"BHL",,"BAX",,"https://en.wikipedia.org/wiki/Bah%C3%ADa_de_los_%C3%81ngeles_Airport",
 302410,"BHT","small_airport","Brighton Downs Airport",-23.363333,141.562778,390,"OC","AU","AU-QLD","Brighton Downs","no",,"BHT","YBTD",,,,
 318985,"BI-0001","small_airport","Ruyigi Airport",-3.471371,30.231485,5194,"AF","BI","BI-RY","Ruyigi","no",,,,,,,
@@ -26052,6 +26053,7 @@
 31191,"FNCM","small_airport","Camabatela Airport",-8.177847,15.383177,410,"AF","AO","AO-CNO","Camabatela","no","FNCM",,"FNCM",,,"https://en.wikipedia.org/wiki/Camabatela_Airport",
 43322,"FNCP","small_airport","Kapanda Airport",-9.76937,15.455319,3366,"AF","AO","AO-MAL","Capanda","no","FNCP","KNP","FNCP",,,"https://en.wikipedia.org/wiki/Kapanda_Airport",
 30813,"FNCT","medium_airport","Catumbela Airport",-12.4792,13.4869,23,"AF","AO","AO-BGU","Catumbela","yes","FNCT","CBT","FNCT",,,"https://en.wikipedia.org/wiki/Catumbela_Airport",
+598660,"FNCU","small_airport","Calulo Airport",-9.976268,14.917932,2988,"AF","AO","AO-CUS","Calulo","no","FNCU",,"FNCU",,,,
 30857,"FNCV","small_airport","Cuito Cuanavale Airport",-15.1603,19.156099,,"AF","AO","AO-CCU","Cuito Cuanavale","no","FNCV","CTI","FNCV",,,"https://en.wikipedia.org/wiki/Cuito_Cuanavale_Airport",
 30864,"FNCX","small_airport","Camaxilo Airport",-8.37361,18.923599,3957,"AF","AO","AO-LNO","Camaxilo","no","FNCX","CXM","FNCX",,,"https://en.wikipedia.org/wiki/Camaxilo_Airport",
 30811,"FNCZ","small_airport","Cazombo Airport",-11.8931,22.916239,3700,"AF","AO","AO-MOX","Cazombo","no","FNCZ","CAV","FNCZ",,,"https://en.wikipedia.org/wiki/Cazombo_Airport",
@@ -26062,7 +26064,7 @@
 2939,"FNHU","medium_airport","Albano Machado Airport",-12.8089,15.7605,5587,"AF","AO","AO-HUA","Huambo","yes","FNHU","NOV","FNHU",,,"https://en.wikipedia.org/wiki/Albano_Machado_Airport","Nova Lisboa Airport"
 2940,"FNKU","medium_airport","Kuito Airport",-12.404600143433,16.947399139404,5618,"AF","AO","AO-BIE","Kuito","no","FNKU","SVP","FNKU",,,"https://en.wikipedia.org/wiki/Kuito_Airport",
 2941,"FNLB","small_airport","Lobito Airport",-12.3712,13.5366,10,"AF","AO","AO-BGU","Lobito","no","FNLB","LLT","FNLB",,,"https://en.wikipedia.org/wiki/Lobito_Airport",
-43321,"FNLK","small_airport","Lucapa Airport",-8.445727348330001,20.7320861816,3029,"AF","AO","AO-LNO","Lucapa","no","FNLK","LBZ","FNLK",,,"https://en.wikipedia.org/wiki/Lucapa_Airport",
+43321,"FNLK","small_airport","Lucapa Airport",-8.442339,20.732701,3029,"AF","AO","AO-LNO","Lucapa","no","FNLK","LBZ","FNLK",,,"https://en.wikipedia.org/wiki/Lucapa_Airport","Lukapa"
 2942,"FNLU","large_airport","Quatro de Fevereiro International Airport",-8.85837,13.2312,243,"AF","AO","AO-LUA","Luanda","yes","FNLU","LAD","FNLU",,,"https://en.wikipedia.org/wiki/Quatro_de_Fevereiro_Airport","4 de Fevereiro"
 2943,"FNLZ","small_airport","Luzamba Airport",-9.11596012115,18.049299240099998,2904,"AF","AO","AO-LNO","Luzamba","no","FNLZ","LZM","FNLZ",,,"https://en.wikipedia.org/wiki/Cuango-Luzamba_Airport","Cuango"
 2944,"FNMA","medium_airport","Malanje Airport",-9.525090217590332,16.312400817871094,3868,"AF","AO","AO-MAL","Malanje","yes","FNMA","MEG","FNMA",,,"https://en.wikipedia.org/wiki/Malanje_Airport",
@@ -26075,6 +26077,7 @@
 2949,"FNSA","medium_airport","Saurimo Airport",-9.68907,20.4319,3584,"AF","AO","AO-LSU","Saurimo","no","FNSA","VHC","FNSA",,,"https://en.wikipedia.org/wiki/Saurimo_Airport",
 2950,"FNSO","medium_airport","Soyo Airport",-6.141089916229248,12.371800422668457,15,"AF","AO","AO-ZAI","Soyo","yes","FNSO","SZA","FNSO",,,"https://en.wikipedia.org/wiki/Soyo_Airport",
 2951,"FNSU","medium_airport","Sumbe Airport",-11.1679,13.8475,36,"AF","AO","AO-CUS","Sumbe","no","FNSU","NDD","FNSU",,,"https://en.wikipedia.org/wiki/Sumbe_Airport",
+598665,"FNTE","small_airport","Tchamutete Airport",-15.216387,16.054915,4241,"AF","AO","AO-HUI","Techamutete","no","FNTE",,"FNTE",,,,
 31198,"FNTO","small_airport","Xamindele Airport",-7.14639,14.2486,1775,"AF","AO","AO-UIG","Toto","no","FNTO",,"FNTO",,,"https://en.wikipedia.org/wiki/Xamindele_Airport",
 32498,"FNUA","small_airport","Luau Airport",-10.7158,22.2311,3609,"AF","AO","AO-MOX","Luau","no","FNUA","UAL","FNUA",,,"https://en.wikipedia.org/wiki/Luau_Airport",
 2952,"FNUB","medium_airport","Lubango Airport",-14.924699783325195,13.574999809265137,5778,"AF","AO","AO-HUI","Lubango","yes","FNUB","SDD","FNUB",,,"https://en.wikipedia.org/wiki/Lubango_Airport",
@@ -33056,7 +33059,7 @@
 338038,"JM-0019","closed","Caymanas Airfield",18.01444,-76.92416,,"NA","JM","JM-14","Spanish Town","no",,,,,,,
 351933,"JM-0020","heliport","Silent Waters Villa Heliport",18.43997,-77.98411,571,"NA","JM","JM-08","Unity Hall","no",,,,,,,
 314181,"JM-0021","closed","Marlboro Airport",18.019,-77.495001,2080,"NA","JM","JM-12","Mandeville","no",,,,,,,"MVJ"
-43324,"JMB","small_airport","Jamba Airport",-14.698193,16.070148,4912,"AF","AO","AO-HUI","Jamba","no","FNJA","JMB",,,,"https://en.wikipedia.org/wiki/Jamba_Airport",
+43324,"JMB","small_airport","Jamba Airport",-14.698193,16.070148,4912,"AF","AO","AO-HUI","Jamba","no","FNJM","JMB","FNJM",,,"https://en.wikipedia.org/wiki/Jamba_Airport",
 18254,"JMC","heliport","Commodore Center Heliport",37.87852,-122.51297,7,"NA","US","US-CA","Mill Valley","no",,,"KJMC","JMC",,,
 30598,"JO-0001","heliport","King Abdullah II Air Base",31.997999,36.219501,,"AS","JO","JO-AZ",,"no",,,"OJKA",,,"https://en.wikipedia.org/wiki/King_Abdullah_II_Air_Base",
 30599,"JO-0002","medium_airport","King Feisal Air Base",30.3435,36.147701,,"AS","JO","JO-MN","Al-Jafr","no",,,,,,,
@@ -39002,6 +39005,7 @@
 26476,"KH-0003","closed","Siem Reap International Airport",13.41155,103.813044,60,"AS","KH","KH-17","Siem Reap","yes",,,,,"http://www.cambodia-airports.com/siemreap/en","https://en.wikipedia.org/wiki/Siem_Reap_International_Airport","Angkor International Airport, REP, VDSR"
 31781,"KH-0004","closed","Kratie Airport",12.489017,106.05469,102,"AS","KH","KH-10","Kratie","no",,,,,,"https://en.wikipedia.org/wiki/Krati%C3%A9_Airport","KTI, VDKT"
 313437,"KH-0005","closed","Kampot Airport",10.6343,104.1617,44,"AS","KH","KH-7","Kampot","no",,,,,,,"KMT, KMT"
+598669,"KH-0006","closed","Siem Reap International Airport",13.410556,103.812778,,"AS","KH","KH-17",,"no",,,,,,"https://en.wikipedia.org/wiki/Siem_Reap_International_Airport","VDSR, REP"
 20003,"KH04","small_airport","Vinita Municipal Airport",36.632999420166016,-95.15139770507812,696,"NA","US","US-OK","Vinita","no",,,"KH04","H04",,,
 20004,"KH05","small_airport","Wilburton Municipal Airport",34.91999816894531,-95.39399719238281,670,"NA","US","US-OK","Wilburton","no",,,"KH05","H05",,,
 596699,"KH14","heliport","Corning Heliport",36.419269,-90.58825,287,"NA","US","US-AR","Corning","no",,,"KH14","H14",,,
@@ -64448,7 +64452,7 @@
 320475,"UA-0087","closed","Krasni Okny Airfield",47.549189,29.428682,,"EU","UA","UA-51","Okny","no",,,,,,,
 320485,"UA-0088","small_airport","Chervonobirka Airstrip",50.588009,29.264402,,"EU","UA","UA-18","Krasnobirka","no",,,,,,,
 320486,"UA-0089","small_airport","Shevchenkove Airstrip",50.876703,29.071036,,"EU","UA","UA-18","Shevchenkove","no",,,,,,,
-320502,"UA-0090","small_airport","Korostelivka Airstrip",50.557511,28.781421,,"EU","UA","UA-18","Korostelivka","no",,,,,,,
+320502,"UA-0090","small_airport","Korostelivka Airstrip",50.557536,28.779839,673,"EU","UA","UA-18","Korostelivka","no",,,"UKXK",,,,"ZB68, ЗБ68, Коростелівка"
 320590,"UA-0091","small_airport","Lidavo Airstrip",50.4681472,26.2177308,,"EU","UA","UA-19","Lidavo","no",,,,,,,
 320731,"UA-0092","small_airport","Kryzhopil Airstrip",48.35874,28.860397,,"EU","UA","UA-05","Holubeche","no",,,,,,,
 320732,"UA-0093","closed","Pishchanka Airstrip",48.200516,28.863063,,"EU","UA","UA-05","Pishchanka","no",,,,,,,
