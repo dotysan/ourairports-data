@@ -3256,6 +3256,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 313299,IOP,small_airport,Ioma Airport,-8.3614,147.84,95,OC,PG,PG-NPP,Ioma,no,,IOP,,IOMA,,,
 317284,IRU,seaplane_base,Iranamadu Seaplane Base,9.299746,80.448627,102,AS,LK,LK-4,Iranamadu,no,,IRU,,,,,
 298700,IT-0010,small_airport,Calatabiano (Aviosuperficie Angelo D'Arrigo),37.799561,15.22775,197,EU,IT,IT-82,Calatabiano (CT),no,LICN,,LICN,CTFFD,http://www.triavio.eu,,"CT05, Etnavolo, Fiumefreddo di Sicilia"
+319508,IT-0307,small_airport,Dominio di Bagnoli Airfield,45.183946,11.857326,3,EU,IT,IT-34,Bagnoli di Sopra (PD),no,LION,,,PD19,,,Aviosuperficie Dominio di Bagnoli
 308235,ITK,small_airport,Itokama Airport,-9.201527,148.264261,2563,OC,PG,PG-NPP,Itokama,no,,ITK,AYIK,ITK,,,
 316549,IVI,small_airport,Viveros Island Airport,8.4693,-79.0016,100,NA,PA,PA-8,Isla Viveros,no,,IVI,,,,,
 319816,JIO,small_airport,Jos Orno Imsula Airport,-8.140402,127.908758,43,AS,ID,ID-MA,Tiakur,yes,,JIO,WAPM,,,https://en.wikipedia.org/wiki/Jos_Orno_Imsula_Airport,"Moa Island, Leti Islands"
@@ -8280,7 +8281,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 506946,UGAM,medium_airport,Ambrolauri Airport,42.52687,43.13538,1784,AS,GE,GE-RL,Ambrolauri,yes,UGAM,,UGAM,,,https://en.wikipedia.org/wiki/Ambrolauri_Airport,
 25240,UGB,small_airport,Ugashik Bay Airport,57.424052,-157.74479,132,NA,US,US-AK,Pilot Point,no,,UGB,,,,https://en.wikipedia.org/wiki/Ugashik_Bay_Airport,
 6451,UGKO,medium_airport,David the Builder Kutaisi International Airport,42.176768,42.482393,223,AS,GE,GE-IM,Kopitnari,yes,UGKO,KUT,UGKO,,https://kutaisi.aero,https://en.wikipedia.org/wiki/David_the_Builder_Kutaisi_International_Airport,Kopitnari
-45186,UGSA,small_airport,Natakhtari Airfield,41.921737,44.712166,,AS,GE,GE-MM,Natakhtari,yes,UGSA,,UGSA,,,https://en.wikipedia.org/wiki/Natakhtari_Airfield,ნატახტარი
+45186,UGSA,small_airport,Natakhtari Airfield,41.921198,44.714186,1674,AS,GE,GE-MM,Natakhtari,yes,UGSA,,UGSA,,,https://en.wikipedia.org/wiki/Natakhtari_Airfield,"НТЬ, УГЫГ, ნატახტარი"
 6452,UGSB,medium_airport,Batumi International Airport,41.610298,41.599701,105,AS,GE,GE-AJ,Batumi,yes,UGSB,BUS,UGSB,,https://batumiairport.com/,https://en.wikipedia.org/wiki/Batumi_International_Airport,"Batumi, batumi, Black Sea"
 3092,UGSS,medium_airport,Sukhumi Babushara /  Vladislav Ardzinba International Airport,42.8582,41.128101,53,AS,GE,GE-AB,Sukhumi,yes,UGSS,SUI,UGSS,,,https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport,"Babushara Airport, Sukhumi Dranda, UG29, URAS"
 6453,UGTB,large_airport,Tbilisi International Airport,41.669201,44.9547,1624,AS,GE,GE-TB,Tbilisi,yes,UGTB,TBS,UGTB,,http://www.tbilisiairport.com/,https://en.wikipedia.org/wiki/Tbilisi_International_Airport,თბილისის საერთაშორისო აეროპორტი
