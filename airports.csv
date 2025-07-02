@@ -12723,7 +12723,6 @@
 598543,"BH-0021","closed","Bahrain International Karting Circuit Helipad",26.024461,50.506666,,"AS","BH","BH-14","Sakhir","no",,,,,,,
 598544,"BH-0022","closed","Bahrain International Circuit South Helipad",26.027766,50.511129,,"AS","BH","BH-14","Sakhir","no",,,,,,,
 598579,"BH-0023","heliport","Sheik Isa Air Base Helipad",25.946174,50.608078,,"AS","BH","BH-14","Al Dur","no",,,,,,,
-598667,"BH-0024","medium_airport","58winfarm",26,30,,"AS","BH","BH-13","Hà Nội,","yes",,,,,"https://58win.farm/",,
 30705,"BHL","small_airport","Bahía de los Ángeles Airport",28.9786,-113.560997,34,"NA","MX","MX-BCN","Ensenada","no",,"BHL",,"BAX",,"https://en.wikipedia.org/wiki/Bah%C3%ADa_de_los_%C3%81ngeles_Airport",
 302410,"BHT","small_airport","Brighton Downs Airport",-23.363333,141.562778,390,"OC","AU","AU-QLD","Brighton Downs","no",,"BHT","YBTD",,,,
 318985,"BI-0001","small_airport","Ruyigi Airport",-3.471371,30.231485,5194,"AF","BI","BI-RY","Ruyigi","no",,,,,,,
@@ -16964,7 +16963,7 @@
 320586,"CA-0634","closed","Ethelda Bay Water Aerodrome",53.057,-129.677008,0,"NA","CA","CA-BC","Ethelda Bay","no",,,,,,,"AT6, AT6"
 320587,"CA-0635","small_airport","Stouffville Airport",43.9931,-79.2674,972,"NA","CA","CA-ON","Whitchurch–Stouffville","no",,,"CBB2","CBB2",,"https://en.wikipedia.org/wiki/Stouffville_Aerodrome",
 320594,"CA-0636","heliport","Active Pass Lighthouse Heliport",48.8734,-123.2914,24,"NA","CA","CA-BC","Mayne Island","no",,,,"AB2",,,
-320596,"CA-0637","closed","Stornoway Airport",45.739983,-71.21865,1154,"NA","CA","CA-QC","Stornoway","no",,,,,,,"SM7, SM7"
+320596,"CA-0637","closed","Stornoway Airport",45.736665,-71.202918,1154,"NA","CA","CA-QC","Stornoway","no",,,,,,,"SM7"
 320597,"CA-0638","closed","Louisville/Cascades Heliport",46.259103,-72.9511,36,"NA","CA","CA-QC","Louisville","no",,,,,,,"CSM7"
 320601,"CA-0639","small_airport","Alexis Creek Ranch Private Airport",52.063197,-123.258464,2300,"NA","CA","CA-BC","Alexis Creek","no",,,,,,,"AL5"
 320604,"CA-0640","closed","Stuart Lake Water Aerodrome",54.450003,-124.31,2240,"NA","CA","CA-BC","Fort St. James","no",,,,,,,"AV6, AV6"
@@ -17559,6 +17558,9 @@
 597544,"CA-1229","closed","Beachburg Airport",45.697577,-76.837821,,"NA","CA","CA-ON","Beachburg","no",,,,,,,
 597567,"CA-1230","closed","Northbrook (West) Airstrip",44.735302,-77.171187,,"NA","CA","CA-ON","Northbrook","no",,,,,,,
 598607,"CA-1231","small_airport","Eton Rugby Airport",49.874338,-92.956953,,"NA","CA","CA-ON","Dryden","no",,,,,,,
+598687,"CA-1232","closed","La Guadeloupe Airport",45.981128,-70.942798,,"NA","CA","CA-QC","La Guadeloupe","no",,,,,,,
+598689,"CA-1233","closed","Frampton Aerodrome",46.509277,-70.821927,,"NA","CA","CA-QC","Frampton","no",,,,,,,
+598690,"CA-1234","closed","Ste Therese Airport",45.698964,-73.806517,,"NA","CA","CA-QC","Montreal","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -29463,6 +29465,10 @@
 595562,"GE-0035","heliport","Camp Balaani Heliport",42.34201,44.47185,3976,"AS","GE","GE-SO","Balaani","no",,,,,,,
 595563,"GE-0036","heliport","Akhalgori Heliport",42.11628,44.48053,2638,"AS","GE","GE-SO","Akhalgori","no",,,,,,,
 595564,"GE-0037","heliport","Zemo Tsubeni Heliport",42.16369,44.39625,4035,"AS","GE","GE-SO","Zemo Tsubeni","no",,,,,,,
+598671,"GE-0038","heliport","Leviy Gentsvish Heliport",43.102991,41.820693,2451,"AS","GE","GE-AB","Gentsvish","no",,,,"HFY2",,,"ХФЫ2, Гентсвиш, გენწვიში"
+598672,"GE-0039","heliport","Saberio Heliport",42.63606,41.914624,607,"AS","GE","GE-AB","Nadzhikhuri","no",,,,"HGS8",,,"ХГС8, Нажихури, ნაჯიხური"
+598682,"GE-0040","heliport","Tskhinvali Heliport",42.232158,43.936895,3182,"AS","GE","GE-SO","Tskhinvali","no",,,,"HEN2",,,"ХЕН2, Цхинвал"
+598683,"GE-0041","heliport","Vaziani Barracks Heliport",41.67794,45.056194,1887,"AS","GE","GE-KK","Vaziani","no",,,,,,,
 17578,"GE00","seaplane_base","Morris Seaplane Base",33.60969924926758,-82.13580322265625,102,"NA","US","US-GA","Evans","no",,,"GE00","GE00",,,
 17579,"GE01","small_airport","Christians Folly Airport",30.930423,-83.079386,208,"NA","US","US-GA","Naylor","no",,,"GE01","GE01",,,
 17580,"GE02","heliport","Adventhealth Gordon Heliport",34.51035,-84.927729,711,"NA","US","US-GA","Calhoun","no",,,"GE02","GE02",,,"Gordon Hospital"
@@ -32532,7 +32538,7 @@
 319502,"IT-0304","small_airport","Base Bravo Airfield",45.392864,11.692645,45,"EU","IT","IT-34","Cervarese Santa Croce (PD)","no",,,,"PD13",,,"Aviosuperficie Base Bravo"
 319504,"IT-0305","small_airport","Da Domenico Airfield",45.233379,11.797942,13,"EU","IT","IT-34","San Cosma (PD)","no",,,,"PD14",,,"Campo di Volo ""Da Domenico"""
 319506,"IT-0306","small_airport","Padova Sud Airfield",45.325086,11.872916,21,"EU","IT","IT-34","Maserà di Padova (PD)","no",,,,"PDMAS",,,"Padova Sud, Campo di Volo Padova Sud, Aviosuperficie Padova Sud, Padua South"
-319508,"IT-0307","small_airport","Dominio di Bagnoli Airfield",45.183946,11.857326,3,"EU","IT","IT-34","Bagnoli di Sopra (PD)","no",,,,"PD19",,,"Aviosuperficie Dominio di Bagnoli"
+319508,"IT-0307","small_airport","Dominio di Bagnoli Airfield",45.183946,11.857326,3,"EU","IT","IT-34","Bagnoli di Sopra (PD)","no","LION",,,"PD19",,,"Aviosuperficie Dominio di Bagnoli"
 319509,"IT-0308","closed","Campo di Volo ""Le Risare""",45.574906,11.84464,78,"EU","IT","IT-34","Campo San Martino (PD)","no",,,,,,,"Le Risare, PDCSM"
 319511,"IT-0309","small_airport","Aviosuperficie ""Avioclub Alanno""",42.31458,14.000913,383,"EU","IT","IT-65","Alanno (PE)","no",,,,"PE04",,,"La porta delle Aquile,Avioclub Alanno"
 319513,"IT-0310","small_airport","Campo di Volo ""Avioclub Elice""",42.49048,13.995545,262,"EU","IT","IT-65","Elice (PE)","no",,,,"PEELI",,,"PE05, Avioclub Elice"
@@ -54750,7 +54756,7 @@
 329766,"RU-0492","small_airport","Taldom airstrip",56.7397979,37.6042247,,"EU","RU","RU-MOS","Taldom","no",,,,,,,
 330384,"RU-0493","small_airport","Bichevaya Airport",47.75029,135.64066,361,"EU","RU","RU-KHA","Bichevaya","yes",,,,"ZC2P",,,
 330837,"RU-0494","closed","Korpiya Airstrip",59.530483,29.331986,510,"EU","RU","RU-LEN","Korpiya","no",,,,,,,
-330838,"RU-0495","closed","Kotly Airfield",59.592083,28.762037,300,"AS","RU","RU-LEN","Kotly","no",,,,,,,"XLLT, ЬЛЛТ, Котлы"
+330838,"RU-0495","closed","Kotly Airfield",59.592083,28.762037,300,"EU","RU","RU-LEN","Kotly","no",,,,,,,"XLLT, ЬЛЛТ, Котлы"
 330839,"RU-0496","closed","Begunitsy Northwest Airfield",59.605536,29.27302,489,"EU","RU","RU-LEN","Begunitsy","no",,,,,,,
 330840,"RU-0497","closed","Golubkovo Airfield",58.558887,29.935358,223,"EU","RU","RU-LEN","Golubkovo","no",,,,,,,
 330841,"RU-0498","closed","Luga Bereg Airstrip",58.672416,29.961654,150,"EU","RU","RU-LEN",,"no",,,,,,,
@@ -59630,7 +59636,7 @@
 321486,"SK-0028","small_airport","Prša Airstrip",48.295864,19.784368,,"EU","SK","SK-BC","Prša","no",,,,,,,
 321487,"SK-0029","small_airport","Sklabiná Airstrip",48.151621,19.363439,525,"EU","SK","SK-BC","Sklabiná","no",,,,,,,
 41016,"SK-003","small_airport","Miriti Parana Airport",-0.886017,-70.983446,409,"SA","CO","CO-AMA","Mirití-Paraná","no",,"MIX",,"MIX",,,
-321488,"SK-0030","small_airport","Letisko Horný Jatov",48.163221,17.957382,,"EU","SK","SK-NJ","Horný Jatov","no",,,,,,,
+321488,"SK-0030","small_airport","Horný Jatov Airport",48.163221,17.957382,,"EU","SK","SK-NJ","Horný Jatov","no",,,,,,,
 321527,"SK-0031","small_airport","Šalgovce-Orešany Airstrip",48.50853,17.922363,,"EU","SK","SK-NJ","Orešany","no",,,,,,,
 321528,"SK-0032","small_airport","Pohronský Ruskov Airstrip",47.996312,18.672981,,"EU","SK","SK-NJ","Pohronský Ruskov","no",,,,,,,"Letisko Pohronský Ruskov"
 321667,"SK-0033","closed","Bystričany Airstrip",48.658592,18.544089,,"EU","SK","SK-TC","Bystričany","no",,,,,,,
@@ -64768,13 +64774,13 @@
 3087,"UG24","medium_airport","Tbilisi Soganlug Air Base",41.649200439453125,44.9364013671875,1250,"AS","GE","GE-TB","Tbilisi","no",,,,,,,"UG24"
 3088,"UG25","small_airport","Telavi Kurdgelauri Airport",41.9534,45.507999,1496,"AS","GE","GE-KA","Telavi","no","UGGT",,"UGGT",,,,"UG25"
 3089,"UG26","small_airport","Kutaisi West Airport",42.248600006103516,42.624698638916016,384,"AS","GE","GE-IM","Kutaisi","no",,,,,,,"UG26"
-3090,"UG27","medium_airport","Vaziani Air Base",41.627998,45.0308,1460,"AS","GE","GE-TB","Gamarjveba 1","no",,,,,,,"UG27"
+3090,"UG27","medium_airport","Vaziani Air Base",41.627998,45.0308,1460,"AS","GE","GE-KK","Gamarjveba 1","no",,,,,,,"UG27"
 3091,"UG28","medium_airport","Bolshiye Shiraki Air Base",41.37950134277344,46.3672981262207,1795,"AS","GE","GE-KA","Bolshiye Shiraki","no",,,,,,,"UG28"
 506946,"UGAM","medium_airport","Ambrolauri Airport",42.52687,43.13538,1784,"AS","GE","GE-RL","Ambrolauri","yes","UGAM",,"UGAM",,,"https://en.wikipedia.org/wiki/Ambrolauri_Airport",
 25240,"UGB","small_airport","Ugashik Bay Airport",57.424052,-157.74479,132,"NA","US","US-AK","Pilot Point","no",,"UGB",,,,"https://en.wikipedia.org/wiki/Ugashik_Bay_Airport",
 6451,"UGKO","medium_airport","David the Builder Kutaisi International Airport",42.176768,42.482393,223,"AS","GE","GE-IM","Kopitnari","yes","UGKO","KUT","UGKO",,"https://kutaisi.aero","https://en.wikipedia.org/wiki/David_the_Builder_Kutaisi_International_Airport","Kopitnari"
 315702,"UGMS","small_airport","Mestia Queen Tamar Airport",43.053597,42.749012,4778,"EU","GE","GE-SZ","Mestia","yes",,,"UGMS",,,"https://en.wikipedia.org/wiki/Queen_Tamar_Airport",
-45186,"UGSA","small_airport","Natakhtari Airfield",41.921737,44.712166,,"AS","GE","GE-MM","Natakhtari","yes","UGSA",,"UGSA",,,"https://en.wikipedia.org/wiki/Natakhtari_Airfield","ნატახტარი"
+45186,"UGSA","small_airport","Natakhtari Airfield",41.921198,44.714186,1674,"AS","GE","GE-MM","Natakhtari","yes","UGSA",,"UGSA",,,"https://en.wikipedia.org/wiki/Natakhtari_Airfield","НТЬ, УГЫГ, ნატახტარი"
 6452,"UGSB","medium_airport","Batumi International Airport",41.610298,41.599701,105,"AS","GE","GE-AJ","Batumi","yes","UGSB","BUS","UGSB",,"https://batumiairport.com/","https://en.wikipedia.org/wiki/Batumi_International_Airport","Batumi, batumi, Black Sea"
 3092,"UGSS","medium_airport","Sukhumi Babushara /  Vladislav Ardzinba International Airport",42.8582,41.128101,53,"AS","GE","GE-AB","Sukhumi","yes","UGSS","SUI","UGSS",,,"https://en.wikipedia.org/wiki/Sukhumi_Babushara_Airport","Babushara Airport, Sukhumi Dranda, UG29, URAS"
 6453,"UGTB","large_airport","Tbilisi International Airport",41.669201,44.9547,1624,"AS","GE","GE-TB","Tbilisi","yes","UGTB","TBS","UGTB",,"http://www.tbilisiairport.com/","https://en.wikipedia.org/wiki/Tbilisi_International_Airport","თბილისის საერთაშორისო აეროპორტი"
