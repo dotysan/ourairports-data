@@ -17560,7 +17560,8 @@
 598607,"CA-1231","small_airport","Eton Rugby Airport",49.874338,-92.956953,,"NA","CA","CA-ON","Dryden","no",,,,,,,
 598687,"CA-1232","closed","La Guadeloupe Airport",45.981128,-70.942798,,"NA","CA","CA-QC","La Guadeloupe","no",,,,,,,
 598689,"CA-1233","closed","Frampton Aerodrome",46.509277,-70.821927,,"NA","CA","CA-QC","Frampton","no",,,,,,,
-598690,"CA-1234","closed","Ste Therese Airport",45.698964,-73.806517,,"NA","CA","CA-QC","Montreal","no",,,,,,,
+598690,"CA-1234","closed","Ste Therese Airport",45.698964,-73.806517,,"NA","CA","CA-QC","Montreal","no",,,,,,,"SP3"
+598718,"CA-1235","small_airport","Cedar Hill Aerodrome",45.276683,-76.327021,,"NA","CA","CA-ON","Almonte","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -20152,7 +20153,7 @@
 335909,"CSN4","heliport","Woodstock/Snokist Heliport",46.202784,-67.659436,481,"NA","CA","CA-NB","Woodstock","no",,,"CSN4","CSN4",,"https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#98",
 1544,"CSN6","heliport","Saint John (Saint John Regional Hospital) Heliport",45.302264,-66.087919,246,"NA","CA","CA-NB","Saint John","no",,,"CSN6","CSN6",,"https://en.wikipedia.org/wiki/Saint_John_Regional_Hospital",
 1545,"CSN7","small_airport","Farnham Airport",45.28559875488281,-73.00779724121094,180,"NA","CA","CA-QC","Farnham","no",,,"CSN7","CSN7",,"https://en.wikipedia.org/wiki/Farnham_Airport","SN7"
-28388,"CSN8","seaplane_base","Québec/Lac St-Augustin Seaplane Base",46.7514,-71.394203,133,"NA","CA","CA-QC",,"no",,,"CSN8","CSN8",,"https://en.wikipedia.org/wiki/Qu%C3%A9bec/Lac_Saint-Augustin_Water_Airport","Quebec City"
+28388,"CSN8","seaplane_base","Québec/Lac St-Augustin Seaplane Base",46.7514,-71.394203,133,"NA","CA","CA-QC","Quebec City","no",,,"CSN8","CSN8",,"https://en.wikipedia.org/wiki/Qu%C3%A9bec/Lac_Saint-Augustin_Water_Airport","SN8"
 1546,"CSN9","heliport","Baie-Comeau / Héli-Manicouagan Heliport",49.1989559539,-68.28541785479999,76,"NA","CA","CA-QC","Baie-Comeau","no",,,"CSN9","CSN9",,,"SN9"
 16956,"CSP","heliport","Cape Spencer C.G. Heliport",58.19910049439999,-136.639007568,84,"NA","US","US-AK","Cape Spencer","no",,,"PACA","CSP",,,
 1547,"CSP2","heliport","Stony Plain (Westview Health Centre) Heliport",53.5373346229,-113.97831291,2311,"NA","CA","CA-AB","Stony Plain","no",,,"CSP2","CSP2",,,"SP2"
@@ -24788,6 +24789,7 @@
 43280,"ES-0365","small_airport","Aeródromo de Linares",38.133211,-3.642554,1033,"EU","ES","ES-AN","Linares","no",,,,,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Linares",
 331423,"ES-0366","small_airport","El Rinconcillo de Guadalupe",39.594127,-6.206276,,"EU","ES","ES-EX",,"no","LEGP",,"LEGP",,,,"LEGP"
 598090,"ES-0367","heliport","Doctor Negrín Hospital Heliport",28.122167,-15.443469,190,"AF","ES","ES-CN","Las Palmas de Gran Canaria","no",,,,,,,
+598704,"ES-0368","small_airport","(??Duplicate??)LEVS AIRPORT",12.862546,-13.818091,2269,"AF","ES","ES-MD",,"no","LEVS",,,,,,
 2643,"ESCF","medium_airport","Malmen Air Base",58.402302,15.5257,308,"EU","SE","SE-E","Linköping","no",,,"ESCF",,,"https://en.wikipedia.org/wiki/Malmen_Airbase",
 2645,"ESCM","small_airport","Ärna Air Base",59.897301,17.5886,68,"EU","SE","SE-C","Uppsala","no",,,"ESCM",,,"https://en.wikipedia.org/wiki/%C3%84rna",
 2646,"ESDF","medium_airport","Ronneby Airport",56.266701,15.265,191,"EU","SE","SE-K","Ronneby","yes","ESDF","RNB","ESDF",,"https://www.swedavia.com/ronneby/","https://en.wikipedia.org/wiki/Ronneby_Airport",
@@ -43533,6 +43535,7 @@
 43811,"LOAP","heliport","Waidhofen an der Ybbs Hospital Helipad",47.952692,14.788011,1279,"EU","AT","AT-3","Waidhofen an der Ybbs","no","LOAP",,"LOAP",,,,
 28137,"LOAR","small_airport","Altlichtenwarth Gliderfield",48.6661,16.825,604,"EU","AT","AT-3","Altlichtenwarth","no",,,"LOAR",,"http://www.loar.at/","https://de.wikipedia.org/wiki/Flugplatz_Altlichtenwarth","Flugplatz Altlichtenwarth, Segelflugfeld Altlichtenwarth"
 29447,"LOAS","small_airport","Spitzerberg Airfield",48.099157,16.933527,623,"EU","AT","AT-3","Hundsheim","no","LOAS",,"LOAS",,,"https://en.wikipedia.org/wiki/Spitzerberg_Airport","Flugsportzentrum Spitzerberg"
+598719,"LOAT","heliport","Wiener Neustadt Air Police Base",47.835453,16.208776,927,"EU","AT","AT-3","Wiener Neustadt","no",,,"LOAT",,"https://noe.orf.at/stories/3272377/",,
 29448,"LOAU","small_airport","Stockerau Airfield",48.409121,16.191015,686,"EU","AT","AT-3","Stockerau","no","LOAU",,"LOAU",,,"https://en.wikipedia.org/wiki/Stockerau_Airfield",
 28136,"LOAV","small_airport","Vöslau-Kottingbrunn Airfield",47.965,16.26,765,"EU","AT","AT-3","Bad Vöslau","no","LOAV",,"LOAV",,"http://www.loav.at/","https://en.wikipedia.org/wiki/V%C3%B6slau_Airfield",
 514802,"LOBD","heliport","Donaustadt Hospital Heliport",48.21892,16.46347,,"EU","AT","AT-9","Wien","no",,,"LOBD","LOBD",,,
@@ -55444,7 +55447,7 @@
 571741,"RU-1070","heliport","Port Valek Heliport",69.413519,88.288028,134,"EU","RU","RU-KYA","Valek","no",,,,"HJ2G",,,"ХЙ2Г, Валек"
 34995,"RU-1071","medium_airport","Kamensk-Uralskiy Air Base",56.436699,61.986698,560,"AS","RU","RU-SVE","Kamensk Uralskiy","no",,,,,,"https://en.wikipedia.org/wiki/Kamensk_Uralskiy","Kamensk Uralskiy Air Base, Travyanka Air Base, Аэродром Каменск-Уральский, Аэродром Травянка, ЬССУ"
 575256,"RU-1072","small_airport","Marinskoye Airfield",51.72496,140.229401,108,"AS","RU","RU-KHA","Marinskoye","no",,,,,,,
-575257,"RU-1073","heliport","Rybnovsk Heliport",53.27741,141.78912,20,"EU","RU","RU-SAK","Rybnovsk","no",,,,,,,
+575257,"RU-1073","heliport","Rybnovsk Heliport",53.27741,141.78912,20,"AS","RU","RU-SAK","Rybnovsk","no",,,,,,,
 35037,"RU-1110","small_airport","Monchegorsk Air Base",67.986702,33.018299,548,"EU","RU","RU-MUR","Monchegorsk","no",,,,"XLMG",,"https://en.wikipedia.org/wiki/Monchegorsk_(air_base)","Аэродром Мончегорск, ЬЛМГ"
 35117,"RU-1221","small_airport","Vozzhayevka Air Base",50.77,128.776993,738,"AS","RU","RU-AMU","Vozzhayevka","no",,,,"XHBW",,"https://en.wikipedia.org/wiki/Vozzhayevka","ЬХБВ, Возжаевка"
 34973,"RU-1241","closed","Dno Air Base",57.78329849243164,29.966699600219727,253,"EU","RU","RU-PSK","Dno","no",,,,,,"https://en.wikipedia.org/wiki/Dno_(air_base)",
@@ -63897,6 +63900,7 @@
 44777,"TR-0301","closed","Kayseri Airport",38.406299591064,35.327800750732,,"AS","TR","TR-38","Develi","no",,,,,,,"LTAM, LTAM"
 44779,"TR-0302","closed","Alaşehir Airport",38.369999,28.5571,,"AS","TR","TR-45","Alaşehir","no",,,,,,,"LTBC"
 598475,"TR-0303","heliport","Serik Bus Station Helipad",36.913289,31.083723,90,"AS","TR","TR-07","Serik","no","XXXX","XXX",,,,,
+598713,"TR-0304","closed","Yenisehir Airfield",40.243117,29.510874,,"AS","TR","TR-16",,"no",,,,,,,
 43074,"TRPG","medium_airport","John A. Osborne Airport",16.791401,-62.193298,550,"NA","MS","MS-SP","Gerald's Park","yes","TRPG","MNI","TRPG",,,"https://en.wikipedia.org/wiki/John_A._Osborne_Airport","Gerald's Airport, Brades"
 25017,"TS00","small_airport","Fuller Airport",32.787314,-97.180499,490,"NA","US","US-TX","Fort Worth","no",,,"TS00","TS00",,,
 25019,"TS02","small_airport","One Sixty Four Place Airport",33.119598388671875,-98.23059844970703,1200,"NA","US","US-TX","Jacksboro","no",,,"TS02","TS02",,,
@@ -64002,6 +64006,7 @@
 596143,"TT47","small_airport","Adams Field",33.386098,-96.499209,673,"NA","US","US-TX","Anna","no",,,"TT47","TT47",,,
 516663,"TT48","small_airport","Wingman Aerodrome",35.993441,-83.299907,1080,"NA","US","US-TN","Dandridge","no",,,"TT48","TT48",,,
 353922,"TT50","small_airport","Daniel HQ/Pease Valley Airstrip",34.051014,-99.588683,1370,"NA","US","US-TX","Crowell","no",,,"TT50","TT50",,,
+598716,"TT53","small_airport","Aeromigos Airfield",29.320577,-103.539248,2547,"NA","US","US-TX","Terlingua","no",,,"TT53","TT53",,,
 531585,"TT57","small_airport","Mangham Airport",31.645625,-98.644726,1550,"NA","US","US-TX","Mullin","no",,,"TT57","TT57",,,
 531588,"TT60","heliport","Tow Heliport",30.855525,-98.45418,1073,"NA","US","US-TX","Tow","no",,,"TT60","TT60",,,
 353096,"TT62","heliport","The Bluff Heliport",28.583981,-96.947511,62,"NA","US","US-TX","McFaddin","no",,,"TT62","TT62",,,
