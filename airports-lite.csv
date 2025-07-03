@@ -1860,6 +1860,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 321529,ES-0190,small_airport,El Molinillo Airfield,38.739954,-6.391888,1034,EU,ES,ES-EX,Almendralejo,no,LELI,,,,https://aeroclubalavi.es/,,
 429793,ES-0324,heliport,Melilla Heliport,35.3021,-2.94448,225,AF,ES,ES-ML,Melilla,no,GEHM,,GEHM,,,,
 331423,ES-0366,small_airport,El Rinconcillo de Guadalupe,39.594127,-6.206276,,EU,ES,ES-EX,,no,LEGP,,LEGP,,,,LEGP
+598704,ES-0368,small_airport,(??Duplicate??)LEVS AIRPORT,12.862546,-13.818091,2269,AF,ES,ES-MD,,no,LEVS,,,,,,
 2646,ESDF,medium_airport,Ronneby Airport,56.266701,15.265,191,EU,SE,SE-K,Ronneby,yes,ESDF,RNB,ESDF,,https://www.swedavia.com/ronneby/,https://en.wikipedia.org/wiki/Ronneby_Airport,
 2648,ESGG,large_airport,Göteborg Landvetter Airport,57.6628,12.2798,506,EU,SE,SE-Q,Göteborg,yes,ESGG,GOT,ESGG,,https://www.swedavia.com/landvetter/,https://en.wikipedia.org/wiki/G%C3%B6teborg_Landvetter_Airport,"Göteborg-Landvetter, Gothenburg"
 2649,ESGJ,medium_airport,Jönköping Airport,57.757598876953125,14.068699836730957,741,EU,SE,SE-F,Jönköping,yes,ESGJ,JKG,ESGJ,,http://www.lfv.se/templates/LFV_AirportStartPage____1672.aspx,https://en.wikipedia.org/wiki/J%C3%B6nk%C3%B6ping_Airport,
