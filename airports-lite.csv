@@ -8212,8 +8212,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32495,UACP,medium_airport,Petropavl Airport,54.774702,69.183273,453,AS,KZ,KZ-SEV,Petropavl,yes,UACP,PPK,UACP,,,https://en.wikipedia.org/wiki/Petropavl_Airport_(Kazakhstan),
 6424,UADD,medium_airport,Taraz Airport,42.853599548339844,71.30359649658203,2184,AS,KZ,KZ-ZHA,Taraz,yes,UADD,DMB,UADD,,,https://en.wikipedia.org/wiki/Taraz_Airport,Aulie Ata
 46646,UAFI,small_airport,Razzakov Airport,39.824737,69.56882,4840,AS,KG,KG-B,Isfana,yes,UCFR,,UCFR,,http://www.airport.kg/index.php?option=com_content&view=article&id=4&Itemid=6,https://en.wikipedia.org/wiki/Isfana_Airport,Isfana Airport
-6426,UAFM,large_airport,Manas International Airport,43.0612983704,74.4776000977,2058,AS,KG,KG-C,Bishkek,yes,,FRU,UCFM,,,https://en.wikipedia.org/wiki/Manas_International_Airport,"UAFM, Manas Air Force Base"
-6427,UAFO,medium_airport,Osh Airport,40.609001,72.793297,2927,AS,KG,KG-O,Osh,yes,,OSS,UCFO,,http://www.airport.kg/eng/branches.htm,https://en.wikipedia.org/wiki/Osh_Airport,UAFO
+6426,UAFM,large_airport,Manas International Airport,43.061298,74.4776,2058,AS,KG,KG-C,Bishkek,yes,UCFM,FRU,UCFM,,,https://en.wikipedia.org/wiki/Manas_International_Airport,"UAFM, Manas Air Force Base"
+6427,UAFO,medium_airport,Osh Airport,40.609001,72.793297,2927,AS,KG,KG-O,Osh,yes,UCFO,OSS,UCFO,,http://www.airport.kg/eng/branches.htm,https://en.wikipedia.org/wiki/Osh_Airport,UAFO
 32496,UAFP,small_airport,Karakol Airport,42.508099,78.407799,5590,AS,KG,KG-Y,Karakol,yes,UCFK,IKG,UCFK,,,https://en.wikipedia.org/wiki/Karakol_International_Airport,"UAFP, Przhevalsk Airport"
 6429,UAII,medium_airport,Shymkent Airport,42.364200592041016,69.47889709472656,1385,AS,KZ,KZ-YUZ,Shymkent,yes,UAII,CIT,UAII,,,https://en.wikipedia.org/wiki/Shymkent_Airport,"Chimkent Airport, Аэропорт Шымкент, Аэропорт Чимкент"
 337747,UAIT,medium_airport,Hazrat Sultan International Airport,43.313126,68.549881,951,AS,KZ,KZ-YUZ,Turkıstan,yes,UAIT,HSA,UAIT,,,https://en.wikipedia.org/wiki/Hazret_Sultan_International_Airport,
