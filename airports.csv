@@ -4684,6 +4684,7 @@
 11295,"49MO","heliport","Hermann Ii Heliport",38.621700286865234,-90.38899993896484,590,"NA","US","US-MO","St Louis","no",,,"49MO","49MO",,,
 513298,"49MS","small_airport","Gray Field",32.804477,-88.937962,532,"NA","US","US-MS","Philadelphia","no",,,"49MS","49MS",,,
 344846,"49MT","small_airport","Firebuster Airport",45.605715,-109.121281,3901,"NA","US","US-MT","Columbus","no",,,"49MT","49MT",,,
+598735,"49MY","seaplane_base","Delong Seaplane/Skiplane Base",45.284082,-92.962672,900,"NA","US","US-MN","Forest Lake","no",,,"49MY","49MY",,,
 11296,"49N","small_airport","Lufker Airport",40.824799,-72.7509,57,"NA","US","US-NY","East Moriches","no",,,"K49N","49N",,"https://en.wikipedia.org/wiki/Lufker_Airport","O00"
 11297,"49NC","heliport","Wilkes Regional Medical Center Heliport",36.15919876098633,-81.15779876708984,985,"NA","US","US-NC","North Wilkesboro","no",,,"49NC","49NC",,,
 11299,"49NJ","heliport","Bertino Heliport",39.63570022583008,-74.7490005493164,70,"NA","US","US-NJ","Hammonton","no",,,"49NJ","49NJ",,,
@@ -15452,9 +15453,9 @@
 36563,"BR-2615","heliport","São José de Dentro Heliport",-22.282223,-42.495277,3298,"SA","BR","BR-RJ","Nova Friburgo","no",,,,,,,"SJGS"
 36564,"BR-2616","small_airport","Salto Augusto Airport",-8.895776,-58.550081,1559,"SA","BR","BR-MT","Apiacás","no",,,,,,,"SJGT"
 36565,"BR-2617","heliport","Bons Ventos Heliport",-25.657717,-49.137672,2963,"SA","BR","BR-PR","São José dos Pinhais","no",,,,,,,"SJGV"
-36567,"BR-2618","small_airport","Da Praia Velha Airport",-31.126667022705,-51.575832366943,30,"SA","BR","BR-RS","Camaquã","no",,,,"SJGX",,,"SJGX"
-36570,"BR-2619","small_airport","Fazenda Janaína Airport",-22.983055114746,-55.020000457764,1296,"SA","BR","BR-MS","Amambaí","no",,,,"SJHA",,,"SJHA"
-36573,"BR-2620","small_airport","Fazenda Modelo Airport",-21.382221221924,-52.198890686035,1375,"SA","BR","BR-MS","Brasilândia","no",,,,"SJHD",,,"SJHD"
+36567,"BR-2618","small_airport","Da Praia Velha Airport",-31.127221,-51.576338,30,"SA","BR","BR-RS","Camaquã","no",,,,,,,"SJGX"
+36570,"BR-2619","small_airport","Fazenda Janaína Airport",-22.983055,-55.02,1296,"SA","BR","BR-MS","Amambaí","no",,,,,,,"SJHA"
+36573,"BR-2620","small_airport","Fazenda Modelo Airport",-21.371529,-52.203076,1375,"SA","BR","BR-MS","Brasilândia","no",,,,,,,"SJHD"
 36575,"BR-2621","small_airport","Bunge Airport",-7.372222,-44.396111,1837,"SA","BR","BR-PI","Uruçui","no",,,,,,,"SJHF"
 36579,"BR-2622","small_airport","Música Airport",-30.934636,-55.081844,394,"SA","BR","BR-RS","Dom Pedrito","no",,,,,,,"SJHK"
 36582,"BR-2623","small_airport","Fazenda Belluno Airport",-27.824879,-49.236475,3445,"SA","BR","BR-SC","Alfredo Wagner","no",,,,,,,"SJHN"
@@ -18020,7 +18021,6 @@
 505671,"CD-0035","small_airport","Lubondaie Airport",-6.570868,22.647285,,"AF","CD","CD-KC","Lubondaie","no",,,,,,,
 505672,"CD-0036","closed","Mbulungu Airport",-6.039547,21.888542,,"AF","CD","CD-KC","Mbulungu","no",,,,,,,
 511665,"CD-0037","small_airport","Kasongo-Lunda Airport",-6.468027,16.805012,1699,"AF","CD","CD-KG","Kasongo-Lunda","no",,"KGN",,,,"https://en.wikipedia.org/wiki/Kasongo_Lunda_Airport",
-515626,"CD-0038","medium_airport","BNB - BOENDE",-0.2875,20.883056,1214,"AF","CD","CD-TU","Boende","no",,,,"BNB",,,
 523155,"CD-0039","small_airport","Ipope Airstrip",-2.575372,20.364485,1250,"AF","CD","CD-MN","Ipope","no",,,,,,,
 32182,"CD-0041","closed","Former Pweto Airport",-8.466956,28.889451,3425,"AF","CD","CD-HK","Pweto","no",,,,,,"https://en.wikipedia.org/w/index.php?title=Pweto_Airport&oldid=801109963","PWO, FZQC"
 3043,"CD-0042","closed","Kitona Air Base",-5.918629,12.446136,394,"AF","CD","CD-BC","Kitona","no",,,,,,,"FZAI, FZAI"
@@ -26914,7 +26914,7 @@
 528834,"FR-0756","small_airport","Servon-Melzicourt Airfield",49.205,4.830833,410,"EU","FR","FR-GES","Servon-Melzicourt, Marne","no",,,,"LF5122",,,
 528835,"FR-0757","small_airport","Courtisols les Houches Airfield",48.995278,4.496667,492,"EU","FR","FR-GES","Courtisols, Marne","no",,,,"LF5123","https://www.ulm-courtisols.com/",,
 528836,"FR-0758","small_airport","Reims Concept Ultralight Airfield",49.204332,3.733799,557,"EU","FR","FR-GES","Lagery, Marne","no",,,,"LF5124",,,
-528837,"FR-0759","small_airport","Bouzy Airfield",49.082222,4.136667,360,"EU","FR","FR-GES","Bouzy, Marne","no",,,,"LF5152",,,
+528837,"FR-0759","closed","Bouzy Airfield",49.082222,4.136667,360,"EU","FR","FR-GES","Bouzy, Marne","no",,,,,,,"LF5152"
 528838,"FR-0760","seaplane_base","Lac du Der Seaplane Base",48.566667,4.73,436,"EU","FR","FR-GES","Giffaumont-Champaubert","no",,,,"LF5154",,,
 528839,"FR-0761","closed","Champagne Vol Libre Airfield",48.936111,4.061667,335,"EU","FR","FR-GES","Villeneuve-Renneville-Chevigny, Marne","no",,,,,,,"LF5155"
 528840,"FR-0762","small_airport","Harricourt la Gonio Airfield",48.280383,4.913463,1214,"EU","FR","FR-GES","Colombey-les-Deux-Églises","no",,,,"LF5224",,,
@@ -27442,6 +27442,7 @@
 598057,"FR-1284","heliport","Brissay-Choigny",49.721622,3.380656,,"EU","FR","FR-HDF","Brissay-Choigny","no",,,,,,,
 598588,"FR-1285","heliport","Le canotier",50.25081,3.285288,,"EU","FR","FR-HDF","Estrun","no",,,,,,,
 598589,"FR-1286","heliport","Domaine de Vadancourt",49.900343,3.183224,,"EU","FR","FR-HDF","Vadancourt","no",,,,,,,
+598730,"FR-1287","heliport","ARTRES DZ",50.294767,3.542619,,"EU","FR","FR-HDF","Artres","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assumption Island Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assumption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -55670,7 +55671,7 @@
 505432,"SA-0086","small_airport","Tiran Island Airfield",27.94323,34.59492,20,"AS","SA","SA-07","Jazirat Tiran","no",,,,,,,
 523457,"SA-0087","closed","Abbas Ibn Firnas Airport",21.509148,39.206085,,"AS","SA","SA-02","Jeddah","no",,,,,,"https://en.wikipedia.org/wiki/Kandara_Airport","OEJD, XZF"
 535964,"SA-0088","heliport","GSAC Jeddah",21.52329,39.214239,,"AS","SA","SA-02",,"no",,,,,,,
-574315,"SA-0090","heliport","Ras Alsheikh Hamid",28.145526,34.662163,,"AS","SA","SA-07",,"no",,,,,,,
+574315,"SA-0090","heliport","Ras Alsheikh Hamid Heliport",28.145526,34.662163,,"AS","SA","SA-07",,"no",,,,,,,
 30952,"SA-0091","closed","Dawadmi Domestic Airport",24.5,44.400002,3429,"AS","SA","SA-01","Dawadmi","no",,,,,,,"DWD, Prinz Salman bin Abdulaziz Airport, Dwadmi, OEDW"
 326441,"SA-0092","closed","Al Ghat Airport",26.026479,44.959166,2509,"AS","SA","SA-01","Al Ghat","no",,,,,,,"OEGH, OEGH"
 595937,"SA-0093","heliport","Al Runah Army Heliport",18.23069,42.823044,6725,"AS","SA","SA-14","Al Runah","no",,,,,,,
@@ -64626,8 +64627,8 @@
 6424,"UADD","medium_airport","Taraz Airport",42.853599548339844,71.30359649658203,2184,"AS","KZ","KZ-ZHA","Taraz","yes","UADD","DMB","UADD",,,"https://en.wikipedia.org/wiki/Taraz_Airport","Aulie Ata"
 41661,"UAFG","small_airport","Cholpon-Ata Airport",42.64948,77.058381,5420,"AS","KG","KG-Y","Cholpon-Ata","no",,,"UAFG",,,"https://en.wikipedia.org/wiki/Cholpon-Ata_Airport","Cholpon-Ata Airport"
 46646,"UAFI","small_airport","Razzakov Airport",39.824737,69.56882,4840,"AS","KG","KG-B","Isfana","yes","UCFR",,"UCFR",,"http://www.airport.kg/index.php?option=com_content&view=article&id=4&Itemid=6","https://en.wikipedia.org/wiki/Isfana_Airport","Isfana Airport"
-6426,"UAFM","large_airport","Manas International Airport",43.0612983704,74.4776000977,2058,"AS","KG","KG-C","Bishkek","yes",,"FRU","UCFM",,,"https://en.wikipedia.org/wiki/Manas_International_Airport","UAFM, Manas Air Force Base"
-6427,"UAFO","medium_airport","Osh Airport",40.609001,72.793297,2927,"AS","KG","KG-O","Osh","yes",,"OSS","UCFO",,"http://www.airport.kg/eng/branches.htm","https://en.wikipedia.org/wiki/Osh_Airport","UAFO"
+6426,"UAFM","large_airport","Manas International Airport",43.061298,74.4776,2058,"AS","KG","KG-C","Bishkek","yes","UCFM","FRU","UCFM",,,"https://en.wikipedia.org/wiki/Manas_International_Airport","UAFM, Manas Air Force Base"
+6427,"UAFO","medium_airport","Osh Airport",40.609001,72.793297,2927,"AS","KG","KG-O","Osh","yes","UCFO","OSS","UCFO",,"http://www.airport.kg/eng/branches.htm","https://en.wikipedia.org/wiki/Osh_Airport","UAFO"
 32496,"UAFP","small_airport","Karakol Airport",42.508099,78.407799,5590,"AS","KG","KG-Y","Karakol","yes","UCFK","IKG","UCFK",,,"https://en.wikipedia.org/wiki/Karakol_International_Airport","UAFP, Przhevalsk Airport"
 6428,"UAFW","medium_airport","Kant Air Base",42.85319900512695,74.84649658203125,2549,"AS","KG","KG-C","Kant","no",,,"UAFW",,,"https://en.wikipedia.org/wiki/Kant_Air_Base",
 46647,"UAFZ","small_airport","Kazarman Airport",41.410291,74.044418,4298,"AS","KG","KG-J","Kazarman","yes",,,"UAFZ",,,"https://en.wikipedia.org/wiki/Kazarman_Airport","Kazarman Airport"
