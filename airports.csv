@@ -23605,6 +23605,7 @@
 2363,"EG-0077","closed","Baloza Airport",30.999518,32.551396,30,"AS","EG","EG-SIN","Remanah","no",,,,,,,"Baluza, Ramana, HE22"
 3178,"EG-0078","closed","El Nuzha Airport",31.181681,29.94629,-6,"AF","EG","EG-ALX","Alexandria","no",,,,,,"https://en.wikipedia.org/wiki/El_Nouzha_Airport","Alexandria International Airport, HEAX, ALY"
 29895,"EG-0079","closed","Giza Embaba Airport",30.074699,31.191401,98,"AF","EG","EG-GZ","Al Jiza","no",,,,,,,"HEEM, HEEM"
+598808,"EG-0080","heliport","El Alamein Heliport",30.842918,28.944109,48,"AF","EG","EG-MT","El Alamein","no",,,,,,,"العلمين, El-Alamein World War II Military Museum"
 30660,"EG-AUE","small_airport","Abu Rudeis Airport",28.899694,33.202057,43,"AS","EG","EG-JS","Ras Abu Rudeis","no",,"AUE",,,,"https://en.wikipedia.org/wiki/Abu_Rudeis_Airport","Abordes, Abu Rudes"
 35134,"EG34","small_airport","Ledbury Airfield",52.0019,-2.47416,250,"EU","GB","GB-ENG","Dymock, Gloucestershire","no",,,,,,,"Velcourt"
 308207,"EG3L","small_airport","Milfield Glider Field",55.591636,-2.087231,,"EU","GB","GB-ENG",,"no",,,,,,,"EGEX"
@@ -29982,7 +29983,7 @@
 3182,"HEBS","medium_airport","Bani Sweif Air Base",29.20224,31.013471,102,"AF","EG","EG-BNS","Bani Sweif","no",,,"HEBS",,,,
 3183,"HECA","large_airport","Cairo International Airport",30.111534,31.396694,322,"AF","EG","EG-C","Cairo","yes","HECA","CAI","HECA",,,"https://en.wikipedia.org/wiki/Cairo_International_Airport",
 2356,"HECP","medium_airport","Capital International Airport",30.074293,31.84296,761,"AF","EG","EG-C","New Cairo","no",,"CCE","HECP",,"http://www.avit.com.eg/index.php/projects/item/138-katameya-airport","https://en.wikipedia.org/wiki/Capital_International_Airport_(Egypt)","HECP"
-3184,"HECW","medium_airport","Cairo West Air Base",30.107943,30.915222,535,"AF","EG","EG-GZ","Cairo","no","HECW",,"HECW",,,"https://en.wikipedia.org/wiki/Cairo_West_Air_Base","CWE"
+3184,"HECW","medium_airport","Cairo West Air Base",30.116431,30.915535,557,"AF","EG","EG-GZ","Cairo","no","HECW",,"HECW",,,"https://en.wikipedia.org/wiki/Cairo_West_Air_Base","CWE"
 3185,"HEDK","small_airport","Ad Dakhla Airport",25.41116,29.003273,551,"AF","EG","EG-WAD","Dakhla Oases","no","HEDK","DAK","HEDK",,,"https://en.wikipedia.org/wiki/Dakhla_Oasis_Airport",
 3186,"HEGN","large_airport","Hurghada International Airport",27.176776,33.796692,32,"AF","EG","EG-BA","Hurghada","yes","HEGN","HRG","HEGN",,,"https://en.wikipedia.org/wiki/Hurghada_International_Airport","Al Ghardaqah, الغردقة"
 3187,"HEGO","small_airport","El Gouna Private Airport",27.365594,33.668461,39,"AF","EG","EG-BA","El Gouna","no","HEGO",,"HEGO",,,"https://en.wikipedia.org/wiki/El_Gouna_Airport","El Jona"
@@ -30002,7 +30003,7 @@
 3198,"HESH","large_airport","Sharm El Sheikh International Airport",27.977272,34.394717,191,"AS","EG","EG-JS","Sharm El Sheikh","yes","HESH","SSH","HESH",,,"https://en.wikipedia.org/wiki/Sharm_el-Sheikh_International_Airport",
 3199,"HESN","medium_airport","Aswan International Airport",23.968137,32.824445,650,"AF","EG","EG-ASN","Aswan","yes","HESN","ASW","HESN",,"https://aswan-airport.com","https://en.wikipedia.org/wiki/Aswan_International_Airport","aswan airport"
 32285,"HESW","small_airport","Siwa Oasis North Airport",29.346234,25.505624,289,"AF","EG","EG-MT","Siwa Oasis","yes",,"SEW","HESW",,,,"HE24"
-335334,"HESX","medium_airport","Sphinx International Airport",30.108078,30.889252,482,"AF","EG","EG-GZ","Al Jiza","yes","HESX","SPX","HESX",,,"https://en.wikipedia.org/wiki/Sphinx_International_Airport",
+335334,"HESX","medium_airport","Sphinx International Airport",30.108179,30.895728,510,"AF","EG","EG-GZ","Al Jiza","yes","HESX","SPX","HESX",,"https://airportsphinx.com/","https://en.wikipedia.org/wiki/Sphinx_International_Airport","الجيزة"
 3200,"HETB","medium_airport","Taba International Airport",29.594496,34.775752,2425,"AS","EG","EG-JS","Taba","yes","HETB","TCP","HETB",,,"https://en.wikipedia.org/wiki/Taba_International_Airport",
 3201,"HETR","small_airport","At Tur Airport",28.208964,33.645483,52,"AS","EG","EG-JS","At Tur","no","HETR","ELT","HETR",,,"https://en.wikipedia.org/wiki/El_Tor_Airport","El Tor"
 17620,"HEY","heliport","Hanchey Army (Fort Rucker) Heliport",31.34600067,-85.65429688,317,"NA","US","US-AL","Fort Rucker Ozark","no",,"HEY","KHEY","HEY",,"https://en.wikipedia.org/wiki/Hanchey_Army_Heliport",
@@ -32495,7 +32496,7 @@
 319219,"IT-0257","small_airport","Colli Euganei Airfield",45.202641,11.793715,13,"EU","IT","IT-34","Pozzonovo (PD)","no",,,,"PDPOZ",,,"Aviosuperficie Colli Euganei"
 319288,"IT-0258","small_airport","Settecrociari Airfield",44.13595,12.18976,147,"EU","IT","IT-45","Cesena (FC)","no",,,,"FCCES",,,
 319291,"IT-0259","small_airport","Campogalliano Airfield",44.70355,10.85416,118,"EU","IT","IT-45","Campogalliano (MO)","no",,,,"MOCGL",,,"Campo di Volo Campogalliano"
-319296,"IT-0260","small_airport","Obiettivo Volare Aeroclub",44.888828,10.15991,141,"EU","IT","IT-45","Fontanellato (PR)","no",,,,"PRCAN","http://www.obiettivovolare.it",,"Aeroparco Pomì,Obiettivo Volare"
+319296,"IT-0260","small_airport","Obiettivo Volare Aeroclub",44.889329,10.160223,141,"EU","IT","IT-45","Fontanellato (PR)","no",,,,"PRCAN","http://www.obiettivovolare.it",,"PR11, Aeroparco Pomì"
 319310,"IT-0261","small_airport","Achille Private Ultralight Airfield",43.99883,12.10792,,"EU","IT","IT-45","Linaro (FC)","no",,,,"FC02",,,
 319312,"IT-0262","small_airport","Empoli Airstrip",43.725153,10.982175,82,"EU","IT","IT-52","Empoli (FI)","no",,,,"FI01",,,"Aviosuperficie Empoli"
 319316,"IT-0263","small_airport","Tignes Airfield",46.15401,12.34751,1676,"EU","IT","IT-34","Alpago (BL)","no",,,,"BL09",,,"Campo di Volo Tignes"
@@ -55002,7 +55003,7 @@
 346942,"RU-0733","closed","Nikolayevka-1 Airfield",53.043741,158.303831,,"AS","RU","RU-KAM","Nikolayevka","no",,,,,,,"UPAB"
 346943,"RU-0734","small_airport","Nikolayevka Airport",53.048854,158.312513,,"AS","RU","RU-KAM","Nikolayevka","no",,,,,,,"UPAK"
 346944,"RU-0735","closed","Karymay Airport",53.02156,156.71421,224,"AS","RU","RU-KAM","Kavalerskoye","no",,,,,,,"ZCM1"
-346946,"RU-0736","heliport","Krutogorovskiy Heliport",55.018358,155.592028,,"EU","RU","RU-KAM","Krutogorovskiy","no",,,,,,,
+346946,"RU-0736","heliport","Krutogorovskiy Heliport",55.018358,155.592028,21,"AS","RU","RU-KAM","Krutogorovskiy","no",,,,,,,
 346947,"RU-0737","heliport","Talovka Heliport",62.049441,166.700885,,"EU","RU","RU-KAM","Talovka","no",,,,,,,
 346948,"RU-0738","small_airport","Garmanda Airport",62.18334,159.08894,,"EU","RU","RU-MAG","Garmanda","no",,,,,,,"UEVE"
 346994,"RU-0739","closed","Kremovo-1 Air Base",44.01545,132.21401,344,"AS","RU","RU-PRI","Novoshakhtinsky","no",,,,,,,
@@ -55388,6 +55389,8 @@
 526851,"RU-1011","heliport","KS-3 Gagaratskaya",67.995908,65.177518,,"AS","RU","RU-KO","Khalmer-Yu","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 598563,"RU-10110","heliport","Vostochny Kildin Heliport",69.325566,34.398896,3,"EU","RU","RU-MUR","Kildin Island","no",,,,"HFL8",,,"ХФЛ8, Восточный Кильдин"
 598641,"RU-10111","heliport","Kharlov Island Heliport",68.8152,37.331746,257,"EU","RU","RU-MUR","Ostrov Kharlov","no",,,,"HFM1",,,"ХФМ1, Остров Харлов"
+598811,"RU-10112","heliport","Ostrovnoy Heliport",68.076371,39.45939,3,"EU","RU","RU-MUR","Ostrovnoy","no",,,,"HFM3",,,"ХФМ3, Островной"
+598812,"RU-10113","heliport","Pivan-1 Heliport",50.345048,137.190895,178,"AS","RU","RU-KHA","Pivan","no",,,,"HG34",,,"ХГ34, Пивань"
 526852,"RU-1012","heliport","KS-4 Vorkutinskaya",67.225925,63.674161,,"AS","RU","RU-KO","Vorkuta","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526854,"RU-1013","heliport","KS-9 Maloperanskaya",64.258736,54.893339,,"EU","RU","RU-KO",,"no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526855,"RU-1014","heliport","KS-8 Chikshynskaya",64.906503,56.412424,,"EU","RU","RU-KO","Chikshino","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
