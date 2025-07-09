@@ -29826,7 +29826,7 @@
 3150,"GVAC","large_airport","Amílcar Cabral International Airport",16.7414,-22.9494,177,"AF","CV","CV-B","Espargos","yes","GVAC","SID","GVAC",,,"https://en.wikipedia.org/wiki/Am%C3%ADlcar_Cabral_International_Airport","Sal Island"
 31560,"GVAN","small_airport","Agostinho Neto Airport",17.202800750732422,-25.090599060058594,32,"AF","CV","CV-B","Ponta do Sol","no","GVAN","NTO","GVAN",,,"https://en.wikipedia.org/wiki/Agostinho_Neto_Airport","Santo Antao Island"
 3151,"GVBA","medium_airport","Rabil Airport",16.136499404907227,-22.888900756835938,69,"AF","CV","CV-B","Rabil","yes","GVBA","BVC","GVBA",,,"https://en.wikipedia.org/wiki/Rabil_Airport","Boa Vista Island"
-302436,"GVBR","small_airport","Esperadinha Airport",14.864306,-24.746,64,"AF","CV","CV-S","Brava Island","no","GVBR","BVR","GVBR",,,"https://en.wikipedia.org/wiki/Esperadinha_Airport",
+302436,"GVBR","closed","Esperadinha Airport",14.864306,-24.746,64,"AF","CV","CV-S","Brava Island","no",,,,,,"https://en.wikipedia.org/wiki/Esperadinha_Airport","GVBR, BVR"
 3152,"GVMA","medium_airport","Maio Airport",15.155900001525879,-23.213699340820312,36,"AF","CV","CV-S","Vila do Maio","yes","GVMA","MMO","GVMA",,,"https://en.wikipedia.org/wiki/Maio_Airport","Maio Island"
 31961,"GVMT","small_airport","Mosteiros Airport",15.045,-24.339199,66,"AF","CV","CV-S","Vila do Mosteiros","no","GVMT","MTI","GVMT",,,"https://en.wikipedia.org/wiki/Mosteiros_Airport","Fogo Island"
 3153,"GVNP","large_airport","Nelson Mandela International Airport",14.941126,-23.484728,230,"AF","CV","CV-S","Praia","yes","GVNP","RAI","GVNP",,"https://www.vinci-airports.cv/aeroporto_asa/aeroporto-internacional-nelson-mandela/","https://en.wikipedia.org/wiki/Francisco_Mendes_International_Airport","Santiago Island"
@@ -61046,7 +61046,7 @@
 37138,"SNKC","small_airport","Cocos Airport",-14.17277778,-44.54666667,2018,"SA","BR","BR-BA","Cocos","no",,,"SNKC",,,,
 339,"SNKD","small_airport","Conceição do Mato Dentro Airport",-19.020299911499023,-43.43389892578125,2196,"SA","BR","BR-MG","Conceição Do Mato Dentro","no",,,"SNKD","SNKD",,,
 354972,"SNKE","small_airport","Fazenda São Francisco Airstrip",-18.581944,-45.321389,1955,"SA","BR","BR-MG","Morada Nova de Minas","no","SNKE",,"SNKE","MG0318",,,
-32186,"SNKF","small_airport","Das Bandeirinhas Airport",-20.738585,-43.797444,3478,"SA","BR","BR-MG","Conselheiro Lafaiete","no",,,"SNKF",,,"https://pt.wikipedia.org/wiki/Aeroporto_de_Conselheiro_Lafaiete","QDF"
+32186,"SNKF","small_airport","Das Bandeirinhas Airport",-20.738585,-43.797444,3478,"SA","BR","BR-MG","Conselheiro Lafaiete","no",,,"SNKF","MG0071",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Conselheiro_Lafaiete","QDF"
 37140,"SNKH","small_airport","Creputiá Airport",-8.116944,-57.117222,984,"SA","BR","BR-PA","Creputiá","no",,,"SNKH","PA0093",,,
 341,"SNKI","small_airport","Cachoeiro do Itapemirim - Raimundo de Andrade Airport",-20.834299,-41.1856,256,"SA","BR","BR-ES","Cachoeiro do Itapemirim","no","SNKI","CDI","SNKI","ES0006",,"https://en.wikipedia.org/wiki/Cachoeiro_de_Itapemirim_Airport","QXD"
 37141,"SNKJ","small_airport","Fazenda Rio Dourado Airport",-8.34416675567627,-51.45138931274414,814,"SA","BR","BR-PA","Cumaru Do Norte","no",,,"SNKJ",,,,
@@ -64672,7 +64672,7 @@
 35339,"UBBA","small_airport","Akstafa Airport",41.123616,45.420793,1085,"AS","AZ","AZ-AGA","Akstafa","no",,,"UBBA",,,"https://en.wikipedia.org/wiki/Akstafa_Airport","Aghstafa Airport, Agstafa Airport, UB17"
 6440,"UBBB","large_airport","Heydar Aliyev International Airport",40.467498779296875,50.04669952392578,10,"AS","AZ","AZ-BA","Baku","yes","UBBB","GYD","UBBB",,"http://www.airport-baku.com/","https://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport","BAK, Bina International Airport, Heydər Əliyev adına beynəlxalq hava limanı"
 44952,"UBBF","small_airport","Fuzuli International Airport",39.594578,47.196128,1247,"AS","AZ","AZ-FUZ","Fuzuli","no","UBBF","FZL","UBBF",,,"https://en.wikipedia.org/wiki/Fuzuli_International_Airport",
-6441,"UBBG","medium_airport","Ganja International Airport",40.737701,46.3176,1083,"AS","AZ","AZ-GA","Ganja","yes","UBBG","GNJ","UBBG",,,"https://en.wikipedia.org/wiki/Ganja_International_Airport","Gyandzha Airport, Аэропорт Гянджа"
+6441,"UBBG","medium_airport","Ganja International Airport",40.738935,46.320067,1083,"AS","AZ","AZ-GA","Ganja","yes","UBBG","GNJ","UBBG",,,"https://en.wikipedia.org/wiki/Ganja_International_Airport","KVD, Kirovabad, Gyandzha Airport, Аэропорт Гянджа, Ganca, Gəncə"
 72,"UBBL","small_airport","Lankaran International Airport",38.757919,48.807042,30,"AS","AZ","AZ-LA","Lankaran","yes","UBBL","LLK","UBBL",,,"https://en.wikipedia.org/wiki/Lankaran_International_Airport","UB10, Lenkoran"
 6442,"UBBN","medium_airport","Nakhchivan Airport",39.18880081176758,45.45840072631836,2863,"AS","AZ","AZ-NX","Nakhchivan","yes","UBBN","NAJ","UBBN",,,"https://en.wikipedia.org/wiki/Nakhichevan_Airport","Nakhichevan Airport, Аэропорт Нахичевань, UB15"
 300740,"UBBQ","medium_airport","Gabala International Airport",40.808617,47.725389,935,"AS","AZ","AZ-QAB","Gabala","yes","UBBQ","GBB","UBBQ",,,"https://en.wikipedia.org/wiki/Gabala_Airport","Qəbələ, Qabala"
