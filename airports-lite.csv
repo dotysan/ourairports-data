@@ -2919,7 +2919,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3151,GVBA,medium_airport,Rabil Airport,16.136499404907227,-22.888900756835938,69,AF,CV,CV-B,Rabil,yes,GVBA,BVC,GVBA,,,https://en.wikipedia.org/wiki/Rabil_Airport,Boa Vista Island
 3152,GVMA,medium_airport,Maio Airport,15.155900001525879,-23.213699340820312,36,AF,CV,CV-S,Vila do Maio,yes,GVMA,MMO,GVMA,,,https://en.wikipedia.org/wiki/Maio_Airport,Maio Island
 31961,GVMT,small_airport,Mosteiros Airport,15.045,-24.339199,66,AF,CV,CV-S,Vila do Mosteiros,no,GVMT,MTI,GVMT,,,https://en.wikipedia.org/wiki/Mosteiros_Airport,Fogo Island
-3153,GVNP,large_airport,Nelson Mandela International Airport,14.941126,-23.484728,230,AF,CV,CV-S,Praia,yes,GVNP,RAI,GVNP,,https://www.vinci-airports.cv/aeroporto_asa/aeroporto-internacional-nelson-mandela/,https://en.wikipedia.org/wiki/Francisco_Mendes_International_Airport,Santiago Island
+3153,GVNP,large_airport,Nelson Mandela International Airport,14.941126,-23.484728,230,AF,CV,CV-S,Praia,yes,GVNP,RAI,GVNP,,https://www.vinci-airports.cv/aeroporto_asa/aeroporto-internacional-nelson-mandela/,https://en.wikipedia.org/wiki/Nelson_Mandela_International_Airport,Santiago Island
 32287,GVSF,small_airport,São Filipe Airport,14.8850002289,-24.4799995422,617,AF,CV,CV-S,São Filipe,yes,GVSF,SFL,GVSF,,,https://en.wikipedia.org/wiki/S%C3%A3o_Filipe_Airport,Fogo Island
 3154,GVSN,medium_airport,Preguiça Airport,16.588852,-24.284132,669,AF,CV,CV-B,Preguiça,yes,GVSN,SNE,GVSN,,,https://en.wikipedia.org/wiki/Pregui%C3%A7a_Airport,Sao Nicolau Island
 3155,GVSV,medium_airport,São Pedro Airport,16.8332,-25.0553,66,AF,CV,CV-B,São Pedro,yes,GVSV,VXE,GVSV,,,https://en.wikipedia.org/wiki/S%C3%A3o_Pedro_Airport,São Vicente Island
