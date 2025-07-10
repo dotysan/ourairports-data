@@ -18557,6 +18557,7 @@
 341665,"CI-0004","heliport","Alassane Ouattara Helipad",5.32812,-3.97654,,"AF","CI","CI-AB","Abidjan","no",,,,,,,
 355241,"CI-0005","small_airport","Zagné Airport",6.215391,-7.500315,732,"AF","CI","CI-MG","Zagné","no",,,,,,,
 31125,"CI-0006","closed","Ferkessédougou Airport",9.592774,-5.23344,1102,"AF","CI","CI-SV","Ferkessédougou","no",,,,,,"https://en.wikipedia.org/wiki/Ferkess%C3%A9dougou_Airport","DIFK, DIFK, FEK"
+598859,"CI-0007","closed","Bongouanou Airport",6.648528,-4.20703,705,"AF","CI","CI-LC","Bongouanou","no",,,,,,,"BGG"
 576227,"CIO2","heliport","Îles aux Oies Heliport",47.1375,-70.478333,3,"NA","CA","CA-QC","Îles aux Oies","no",,,"CIO2","CIO2",,,
 312506,"CIV","seaplane_base","Chomley Seaplane Base",55.217,-132.21,0,"NA","US","US-AK","Chomley","no",,"CIV",,,,,
 1043,"CIV2","heliport","Invermere (Hospital) Heliport",50.507211,-116.032813,2900,"NA","CA","CA-BC","Invermere","no",,,"CIV2","CIV2",,,"IV2"
@@ -20479,6 +20480,7 @@
 42301,"CU-0114","closed","Matanzas Airport",23.01,-81.510002,9,"NA","CU","CU-04","Matanzas","no",,,,,,,"MUMT"
 527980,"CUB2","seaplane_base","Buckhorn Water Aerodrome",44.53,-78.355,806,"NA","CA","CA-ON","Upper Buckhorn Lake","no",,,"CUB2","CUB2",,,
 316499,"CUJ","small_airport","Culion Airport",11.8553,119.9378,155,"AS","PH","PH-PLW","Culion","no",,"CUJ",,,,,"Patag Airstrip"
+598853,"CV-0001","closed","Francisco Mendes International Airport",14.9261,-23.4948,229,"AF","CV","CV-S","Praia","no",,,,,,"https://en.wikipedia.org/wiki/Francisco_Mendes_International_Airport","RAI, GVFM"
 508894,"CVA3","heliport","Valhalla Heliport",49.867697,-119.560701,1539,"NA","CA","CA-BC","Kelowna","no",,,"CVA3","CVA3",,,
 44471,"CVB2","small_airport","Voisey's Bay Airport",56.344722,-62.088056,,"NA","CA","CA-NL","Natuashish","no",,,"CVB2","CVB2",,"https://en.wikipedia.org/wiki/Voisey%27s_Bay_Aerodrome",
 508471,"CVC2","seaplane_base","Voyageur Channel Water Aerodrome",45.950415,-81.031109,570,"NA","CA","CA-ON","Round Lake","no",,,"CVC2","CVC2",,"https://en.wikipedia.org/wiki/Voyageur_Channel_Water_Aerodrome",
@@ -29829,7 +29831,7 @@
 302436,"GVBR","closed","Esperadinha Airport",14.864306,-24.746,64,"AF","CV","CV-S","Brava Island","no",,,,,,"https://en.wikipedia.org/wiki/Esperadinha_Airport","GVBR, BVR"
 3152,"GVMA","medium_airport","Maio Airport",15.155900001525879,-23.213699340820312,36,"AF","CV","CV-S","Vila do Maio","yes","GVMA","MMO","GVMA",,,"https://en.wikipedia.org/wiki/Maio_Airport","Maio Island"
 31961,"GVMT","small_airport","Mosteiros Airport",15.045,-24.339199,66,"AF","CV","CV-S","Vila do Mosteiros","no","GVMT","MTI","GVMT",,,"https://en.wikipedia.org/wiki/Mosteiros_Airport","Fogo Island"
-3153,"GVNP","large_airport","Nelson Mandela International Airport",14.941126,-23.484728,230,"AF","CV","CV-S","Praia","yes","GVNP","RAI","GVNP",,"https://www.vinci-airports.cv/aeroporto_asa/aeroporto-internacional-nelson-mandela/","https://en.wikipedia.org/wiki/Francisco_Mendes_International_Airport","Santiago Island"
+3153,"GVNP","large_airport","Nelson Mandela International Airport",14.941126,-23.484728,230,"AF","CV","CV-S","Praia","yes","GVNP","RAI","GVNP",,"https://www.vinci-airports.cv/aeroporto_asa/aeroporto-internacional-nelson-mandela/","https://en.wikipedia.org/wiki/Nelson_Mandela_International_Airport","Santiago Island"
 32287,"GVSF","small_airport","São Filipe Airport",14.8850002289,-24.4799995422,617,"AF","CV","CV-S","São Filipe","yes","GVSF","SFL","GVSF",,,"https://en.wikipedia.org/wiki/S%C3%A3o_Filipe_Airport","Fogo Island"
 3154,"GVSN","medium_airport","Preguiça Airport",16.588852,-24.284132,669,"AF","CV","CV-B","Preguiça","yes","GVSN","SNE","GVSN",,,"https://en.wikipedia.org/wiki/Pregui%C3%A7a_Airport","Sao Nicolau Island"
 3155,"GVSV","medium_airport","São Pedro Airport",16.8332,-25.0553,66,"AF","CV","CV-B","São Pedro","yes","GVSV","VXE","GVSV",,,"https://en.wikipedia.org/wiki/S%C3%A3o_Pedro_Airport","São Vicente Island"
@@ -41317,7 +41319,6 @@
 5635,"KR-1080","closed","Sokcho (Mulchi Airfield) (G-407/K-50) Airport",38.142117,128.598318,92,"AS","KR","KR-42","Jangsan-ri, Ganghyeon-myeon","no",,,,,,"https://en.wikipedia.org/wiki/Sokcho_Airport; https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea","RKND, SHO"
 570327,"KR-1081","heliport","Geoa-do Heliport",36.599006,126.241224,,"AS","KR","KR-44","Taean-gun","no",,,,,,"https://www.tandfonline.com/doi/full/10.1080/10736700.2019.1659541 (note 82)",
 570330,"KR-1082","heliport","Geoa-do South Helipad",36.592826,126.242258,,"AS","KR","KR-44","Taean-gun","no",,,,,,,
-570331,"KR-1083","heliport","Geoa-do South Helipad",36.592826,126.242258,,"AS","KR","KR-44","Taean-gun","no",,,,,,,
 570372,"KR-1084","heliport","Mungap-ro Helipad",37.17228,126.107618,,"AS","KR","KR-U-A","Mungam-ri","no",,,,,,,
 3805,"KR-1085","closed","G-500 Airport",36.111099,127.103996,66,"AS","KR","KR-44","Nonsan","no",,,,,,,"RK20, RK20, RK20"
 3808,"KR-1086","closed","G-522 Airport",36.179211,127.83582,546,"AS","KR","KR-43","Yeongdong","no",,,,,,,"RK24, RK24, RK24"
@@ -67775,7 +67776,7 @@
 19117,"US-11511","closed","Wilgrove Air Park",35.21385,-80.668284,799,"NA","US","US-NC","Charlotte","no",,,,,"https://web.archive.org/web/20200910142246/http://www.wilgroveairport.net/","https://en.wikipedia.org/wiki/Wilgrove_Air_Park","8A6, QWG, K8A6"
 19211,"US-11512","closed","North Houston Airport",30.1534,-95.321999,122,"NA","US","US-TX","Porter","no",,,,,"https://www.northhoustonairport.net/",,"Williams Airport, K9X1, 9X1"
 19265,"US-11513","closed","Atlantic City Municipal Bader Field",39.360001,-74.4561,8,"NA","US","US-NJ","Atlantic City","no",,,,,,"https://en.wikipedia.org/wiki/Bader_Field","KAIY, AIY"
-19369,"US-11514","closed","Silver Bay Municipal Airport",47.249001,-91.415604,1089,"NA","US","US-MN","Silver Bay","no",,,,,,,"KBFW, BFW, Wayne Johnson Silver Bay Municipal Airport"
+19369,"US-11514","closed","Silver Bay Municipal Airport",47.249001,-91.415604,1089,"NA","US","US-MN","Silver Bay","no",,,,,,"https://en.wikipedia.org/wiki/Silver_Bay_Municipal_Airport","KBFW, BFW, Wayne Johnson"
 19403,"US-11515","closed","Bowman Municipal Airport",46.187,-103.428001,2958,"NA","US","US-ND","Bowman","no",,,,,,"https://en.wikipedia.org/wiki/Bowman_Municipal_Airport","KBPP, BWM, BPP"
 19441,"US-11516","closed","Centre Municipal Airport",34.159901,-85.635101,619,"NA","US","US-AL","Centre","no",,,,,,"https://en.wikipedia.org/wiki/Centre_Municipal_Airport","KC22, KC22, C22"
 19574,"US-11517","closed","Dennis F Cantrell Field",35.080799,-92.425003,316,"NA","US","US-AR","Conway","no",,,,,,"https://en.wikipedia.org/wiki/Dennis_F._Cantrell_Field","KCWS, CWS, M03"
