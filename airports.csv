@@ -19519,6 +19519,7 @@
 597737,"CN-0474","heliport","Houma Army Heliport",35.663868,111.407621,1432,"AS","CN","CN-14","Houma","no",,,,,,,
 597937,"CN-0475","closed","Xi'an Xiguan Airport",34.249,108.894999,,"AS","CN","CN-61",,"no",,,,,,"https://en.wikipedia.org/wiki/Xi%27an_Xiguan_Airport",
 598595,"CN-0476","medium_airport","Bengbu Tenghu Airport (U.C.)",33.165808,117.057295,72,"AS","CN","CN-34","Bengbu","no",,"BFY",,,,"https://en.wikipedia.org/wiki/Bengbu_Tenghu_Airport","蚌埠腾湖机场"
+598863,"CN-0477","small_airport","Baoquanling General Airport",47.41079,130.61054,,"AS","CN","CN-23",,"no",,,,,,,
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -22351,6 +22352,7 @@
 598257,"DE-0917","seaplane_base","Hubertushöhe Seaplane Base",52.23822,13.97379,,"EU","DE","DE-BR",,"no",,,,,,,
 598403,"DE-0918","closed","Sana Hospital Offenbach Heliport",50.093103,8.756274,350,"EU","DE","DE-HE","Offenbach am Main","no",,,,,,,
 598516,"DE-0919","heliport","Kesselsdorf Heliport",51.033016,13.581533,,"EU","DE","DE-SN",,"no",,,,,,,
+598868,"DE-0920","small_airport","Waldmössingen Paramotor Field",48.26658,8.51458,,"EU","DE","DE-BW",,"no",,,,,,,
 17115,"DE00","small_airport","Doyle's Airport",39.02069854736328,-75.57710266113281,51,"NA","US","US-DE","Felton","no",,,"DE00","DE00",,,
 17117,"DE02","heliport","Delaware State Police Heliport",39.20009994506836,-75.53299713134766,50,"NA","US","US-DE","Dover","no",,,"DE02","DE02",,,
 17118,"DE03","heliport","Dover Downs Helistop",39.18339920043945,-75.52459716796875,28,"NA","US","US-DE","Dover","no",,,"DE03","DE03",,,
@@ -49778,7 +49780,7 @@
 4982,"NTAV","small_airport","Raivavae Airport",-23.885201,-147.662003,7,"OC","PF","PF-U-A",,"yes","NTAV","RVV","NTAV",,,"https://en.wikipedia.org/wiki/Raivavae_Airport",
 4983,"NTGA","medium_airport","Anaa Airport",-17.3526,-145.509995,10,"OC","PF","PF-U-A","Anaa","yes","NTGA","AAA","NTGA",,,"https://en.wikipedia.org/wiki/Anaa_Airport",
 4984,"NTGB","medium_airport","Fangatau Airport",-15.820044,-140.888071,9,"OC","PF","PF-U-A","Fangatau","yes","NTGB","FGU","NTGB",,,"https://en.wikipedia.org/wiki/Fangatau_Airport",
-4985,"NTGC","medium_airport","Tikehau Airport",-15.119600296020508,-148.2310028076172,6,"OC","PF","PF-U-A",,"yes","NTGC","TIH","NTGC",,,"https://en.wikipedia.org/wiki/Tikehau_Airport",
+4985,"NTGC","medium_airport","Tikehau Airport",-15.1196,-148.231003,6,"OC","PF","PF-U-A","Tuherahera","yes","NTGC","TIH","NTGC",,,"https://en.wikipedia.org/wiki/Tikehau_Airport","Palliser Islands"
 30648,"NTGD","small_airport","Apataki Airport",-15.5736,-146.414993,8,"OC","PF","PF-U-A","Apataki","yes","NTGD","APK","NTGD",,,"https://en.wikipedia.org/wiki/Apataki_Airport",
 4986,"NTGE","medium_airport","Reao Airport",-18.46652,-136.43855,12,"OC","PF","PF-U-A","Reao","no","NTGE","REA","NTGE",,,"https://en.wikipedia.org/wiki/Reao_Airport",
 4987,"NTGF","medium_airport","Fakarava Airport",-16.054100036621094,-145.65699768066406,13,"OC","PF","PF-U-A",,"yes","NTGF","FAV","NTGF",,,"https://en.wikipedia.org/wiki/Fakarava_Airport",
@@ -73490,7 +73492,7 @@
 349466,"US-5644","small_airport","Haven Center Airport",41.113,-84.90356,753,"NA","US","US-IN","Fort Wayne","no",,,"26IN","26IN",,,
 349468,"US-5645","small_airport","Sands Hill Airport",30.119444,-96.712222,403,"NA","US","US-TX","Carmine","no",,,"27TX","27TX",,,
 349474,"US-5646","heliport","Freedom Heliport",41.109776,-85.222116,860,"NA","US","US-IN","Fort Wayne","no",,,"28IN","28IN",,,
-349475,"US-5647","small_airport","Cherry Field",43.072603,-86.029628,629,"NA","US","US-MI","Nunica","no",,,"2MI0","2MI0",,,
+349475,"US-5647","small_airport","Cherry Field",43.072603,-86.029628,629,"NA","US","US-MI","Nunica","no",,,"K73G","73G",,,"2MI0"
 349483,"US-5648","small_airport","Kauffman Airfield Ultralight Flightpark",44.71394,-84.067251,1137,"NA","US","US-MI","Fairview","no",,,"2MI4","2MI4",,,
 349485,"US-5649","small_airport","Scudder Field",38.918164,-84.974235,905,"NA","US","US-IN","Rising Sun","no",,,"32IN","32IN",,,
 349494,"US-5650","heliport","Swan Lake Heliport",42.459958,-85.971292,700,"NA","US","US-MI","Allegan","no",,,"4MI3","4MI3",,,
