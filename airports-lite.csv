@@ -6131,7 +6131,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4982,NTAV,small_airport,Raivavae Airport,-23.885201,-147.662003,7,OC,PF,PF-U-A,,yes,NTAV,RVV,NTAV,,,https://en.wikipedia.org/wiki/Raivavae_Airport,
 4983,NTGA,medium_airport,Anaa Airport,-17.3526,-145.509995,10,OC,PF,PF-U-A,Anaa,yes,NTGA,AAA,NTGA,,,https://en.wikipedia.org/wiki/Anaa_Airport,
 4984,NTGB,medium_airport,Fangatau Airport,-15.820044,-140.888071,9,OC,PF,PF-U-A,Fangatau,yes,NTGB,FGU,NTGB,,,https://en.wikipedia.org/wiki/Fangatau_Airport,
-4985,NTGC,medium_airport,Tikehau Airport,-15.119600296020508,-148.2310028076172,6,OC,PF,PF-U-A,,yes,NTGC,TIH,NTGC,,,https://en.wikipedia.org/wiki/Tikehau_Airport,
+4985,NTGC,medium_airport,Tikehau Airport,-15.1196,-148.231003,6,OC,PF,PF-U-A,Tuherahera,yes,NTGC,TIH,NTGC,,,https://en.wikipedia.org/wiki/Tikehau_Airport,Palliser Islands
 30648,NTGD,small_airport,Apataki Airport,-15.5736,-146.414993,8,OC,PF,PF-U-A,Apataki,yes,NTGD,APK,NTGD,,,https://en.wikipedia.org/wiki/Apataki_Airport,
 4986,NTGE,medium_airport,Reao Airport,-18.46652,-136.43855,12,OC,PF,PF-U-A,Reao,no,NTGE,REA,NTGE,,,https://en.wikipedia.org/wiki/Reao_Airport,
 4987,NTGF,medium_airport,Fakarava Airport,-16.054100036621094,-145.65699768066406,13,OC,PF,PF-U-A,,yes,NTGF,FAV,NTGF,,,https://en.wikipedia.org/wiki/Fakarava_Airport,
