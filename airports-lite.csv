@@ -989,6 +989,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 1845,CYPE,medium_airport,Peace River Airport,56.226898,-117.446999,1873,NA,CA,CA-AB,Peace River,yes,CYPE,YPE,CYPE,,,https://en.wikipedia.org/wiki/Peace_River_Airport,
 1846,CYPG,medium_airport,Portage-la-Prairie / Southport Airport,49.903099,-98.273817,885,NA,CA,CA-MB,Portage la Prairie,no,CYPG,YPG,CYPG,,http://southport.ca/,https://en.wikipedia.org/wiki/Portage_La_Prairie/Southport_Airport,
 1847,CYPH,small_airport,Inukjuak Airport,58.471901,-78.076897,83,NA,CA,CA-QC,Inukjuak,yes,CYPH,YPH,CYPH,,,https://en.wikipedia.org/wiki/Inukjuak_Airport,
+1848,CYPK,medium_airport,Pitt Meadows Airport,49.216099,-122.709999,11,NA,CA,CA-BC,Pitt Meadows,yes,CYPK,,CYPK,,,https://en.wikipedia.org/wiki/Pitt_Meadows_Airport,YPK
 1849,CYPL,medium_airport,Pickle Lake Airport,51.4463996887207,-90.21420288085938,1267,NA,CA,CA-ON,Pickle Lake,yes,CYPL,YPL,CYPL,,,https://en.wikipedia.org/wiki/Pickle_Lake_Airport,
 1850,CYPM,small_airport,Pikangikum Airport,51.819698,-93.973297,1114,NA,CA,CA-ON,Pikangikum,yes,CYPM,YPM,CYPM,,,https://en.wikipedia.org/wiki/Pikangikum_Airport,
 1851,CYPN,medium_airport,Port-Menier Airport,49.836399,-64.288597,167,NA,CA,CA-QC,Port-Menier,yes,CYPN,YPN,CYPN,,,https://en.wikipedia.org/wiki/Port-Menier_Airport,Anticosti
@@ -3031,7 +3032,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3195,HEOW,small_airport,El Owainat East International Airport,22.584256,28.721609,843,AF,EG,EG-WAD,Sharq El Owainat,no,HEOW,GSQ,HEOW,,,https://en.wikipedia.org/wiki/Sharq_El_Owainat_Airport,
 3196,HEPS,medium_airport,Port Said International Airport,31.279285,32.240582,10,AF,EG,EG-PTS,Port Said,no,HEPS,PSD,HEPS,,http://en.wikipedia.org/wiki/Port_Said_Airport,https://en.wikipedia.org/wiki/Port_Said_Airport,El Gamil
 3197,HESC,medium_airport,Saint Catherine International Airport,28.684601,34.062681,4402,AS,EG,EG-JS,Saint Catherine,no,HESC,SKV,HESC,,,https://en.wikipedia.org/wiki/St._Catherine_International_Airport,
-300893,HESG,large_airport,Suhaj Mubarak International Airport,26.342515,31.743017,322,AF,EG,EG-SHG,Suhaj,yes,HESG,HMB,HESG,,,https://en.wikipedia.org/wiki/Sohag_International_Airport,"HEMK, Mubarak International Airport"
+300893,HESG,large_airport,Sohag International Airport,26.342515,31.743017,322,AF,EG,EG-SHG,Suhaj,yes,HESG,HMB,HESG,,,https://en.wikipedia.org/wiki/Sohag_International_Airport,"HEMK, Suhaj Mubarak International Airport"
 3198,HESH,large_airport,Sharm El Sheikh International Airport,27.977272,34.394717,191,AS,EG,EG-JS,Sharm El Sheikh,yes,HESH,SSH,HESH,,,https://en.wikipedia.org/wiki/Sharm_el-Sheikh_International_Airport,
 3199,HESN,medium_airport,Aswan International Airport,23.968137,32.824445,650,AF,EG,EG-ASN,Aswan,yes,HESN,ASW,HESN,,https://aswan-airport.com,https://en.wikipedia.org/wiki/Aswan_International_Airport,aswan airport
 32285,HESW,small_airport,Siwa Oasis North Airport,29.346234,25.505624,289,AF,EG,EG-MT,Siwa Oasis,yes,,SEW,HESW,,,,HE24
