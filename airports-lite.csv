@@ -1955,7 +1955,15 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2758,EVRA,large_airport,Riga International Airport,56.923599,23.9711,36,EU,LV,LV-062,Riga,yes,EVRA,RIX,EVRA,,http://www.riga-airport.com/,https://en.wikipedia.org/wiki/Riga_International_Airport,
 2759,EVVA,small_airport,Ventspils International Airport,57.3578,21.544201,19,EU,LV,LV-VEN,Ventspils,no,EVVA,VNT,EVVA,,https://www.airport.ventspils.lv/,https://en.wikipedia.org/wiki/Ventspils_International_Airport,
 17184,EXI,seaplane_base,Excursion Inlet Seaplane Base,58.420502,-135.449005,0,NA,US,US-AK,Excursion Inlet,yes,,EXI,,EXI,,https://en.wikipedia.org/wiki/Excursion_Inlet_Seaplane_Base,
+29708,EYBI,small_airport,Biržai Airfield,56.1758,24.7603,190,EU,LT,LT-PN,Biržai,no,EYBI,,EYBI,,,https://lt.wikipedia.org/wiki/Bir%C5%BE%C5%B3_aerodromas,
+29829,EYDR,small_airport,Druskininkai Airfield,54.015793,23.944797,302,EU,LT,LT-AL,Druskininkai,no,EYDR,,EYDR,,,https://lt.wikipedia.org/wiki/Druskinink%C5%B3_aerodromas,
+315602,EYIG,small_airport,Ignalina,55.244167,26.172222,,EU,LT,LT-UT,,no,EYIG,,EYIG,,,,
 2760,EYKA,medium_airport,Kaunas International Airport,54.96390151977539,24.084800720214844,256,EU,LT,LT-KU,Kaunas,yes,EYKA,KUN,EYKA,,http://www.kaunasair.lt/index.php?lang=2&m=2&p=210,https://en.wikipedia.org/wiki/Kaunas_Airport,Kauno tarptautinis Oro Uostas
+30031,EYKL,small_airport,Klaipėda Airfield,55.712021,21.242892,59,EU,LT,LT-KL,Klaipėda,no,EYKL,,EYKL,,http://www.airportklaipeda.lt/,https://en.wikipedia.org/wiki/Klaip%C4%97da_Airport,"KLJ, Klaipėdos oro uostas"
+2761,EYKS,small_airport,S. Darius and S. Girėnas Airfield,54.879799,23.8815,246,EU,LT,LT-KU,Kaunas,no,EYKS,,EYKS,,,https://en.wikipedia.org/wiki/S._Darius_and_S._Gir%C4%97nas_Airport,
+30011,EYKT,small_airport,Kartena Airfield,55.921791,21.566704,259,EU,LT,LT-KL,Kartena,no,EYKT,,EYKT,,,,
+30486,EYMA,small_airport,Mazeikiai / J.Kumpikeviciaus Airfield,56.230598,22.259399,259,EU,LT,LT-TE,Tirkšliai / Mažeikiai,no,EYMA,,EYMA,,,,
+30397,EYMM,small_airport,Sasnava Airfield,54.66433,23.455279,240,EU,LT,LT-MR,Sasnava,no,EYMM,,EYMM,,,,
 2762,EYPA,medium_airport,Palanga International Airport,55.973201751708984,21.093900680541992,33,EU,LT,LT-KL,Palanga,yes,EYPA,PLQ,EYPA,,http://www.palanga-airport.lt/,https://en.wikipedia.org/wiki/Palanga_International_Airport,
 2763,EYPP,medium_airport,Panevėžys Air Base,55.729400634765625,24.460800170898438,197,EU,LT,LT-PN,Panevėžys,no,EYPP,PNV,EYPP,,,https://en.wikipedia.org/wiki/Panev%C4%97%C5%BEys_Air_Base,"Pajuostis, Tulpė"
 2764,EYSA,medium_airport,Šiauliai International Airport,55.89390182495117,23.395000457763672,443,EU,LT,LT-SA,Šiauliai,no,EYSA,SQQ,EYSA,,http://www.airport.siauliai.lt/,https://en.wikipedia.org/wiki/%C5%A0iauliai_International_Airport,"Zokniai Airport, Zoknių oro uostas"
@@ -5484,6 +5492,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4450,LPHR,medium_airport,Horta Airport,38.519901275634766,-28.715900421142578,118,EU,PT,PT-20,Horta,yes,LPHR,HOR,LPHR,,,https://en.wikipedia.org/wiki/Horta_Airport,
 4451,LPLA,medium_airport,Lajes Airport,38.761799,-27.090799,180,EU,PT,PT-20,Praia da Vitória,yes,LPLA,TER,LPLA,,http://aerogarelajes.azores.gov.pt,https://en.wikipedia.org/wiki/Lajes_Field,Terceira Island
 4452,LPMA,large_airport,Madeira International Airport Cristiano Ronaldo,32.697899,-16.7745,192,EU,PT,PT-30,Funchal,yes,LPMA,FNC,LPMA,,http://www.ana.pt/en-US/Aeroportos/Madeira/Funchal/Pages/default.aspx,https://en.wikipedia.org/wiki/Madeira_Airport,"Madeira, Funchal"
+30160,LPMO,small_airport,Morargil Airfield,38.993532,-8.14201,380,EU,PT,PT-07,Mora,no,LPMO,,LPMO,,,https://en.wikipedia.org/wiki/Morargil_Airport,
 4453,LPMR,medium_airport,Monte Real Air Base,39.828335,-8.8875,187,EU,PT,PT-10,,no,LPMR,,LPMR,,,https://en.wikipedia.org/wiki/Monte_Real_Air_Base,QLR
 4456,LPPD,large_airport,João Paulo II Airport,37.7411994934,-25.6979007721,259,EU,PT,PT-20,Ponta Delgada,yes,LPPD,PDL,LPPD,,http://www.ana.pt/en-US/Aeroportos/acores/PontaDelgada/Pages/Homepage-PontaDelgada.aspx,https://en.wikipedia.org/wiki/Jo%C3%A3o_Paulo_II_Airport,
 4457,LPPI,medium_airport,Pico Airport,38.554298,-28.441299,109,EU,PT,PT-20,Pico Island,yes,LPPI,PIX,LPPI,,,https://en.wikipedia.org/wiki/Pico_Airport,
@@ -5645,6 +5654,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6408,LTFK,small_airport,Gökçeada Airport,40.204498,25.883302,73,AS,TR,TR-17,Gökçeada,no,LTFK,GKD,LTFK,,,https://en.wikipedia.org/wiki/G%C3%B6k%C3%A7eada_Airport,"Imbros, İmroz"
 317457,LTFM,large_airport,İstanbul Airport,41.261297,28.741951,325,EU,TR,TR-34,"Arnavutköy, Istanbul",yes,LTFM,IST,LTFM,,http://www.igairport.com/en,https://en.wikipedia.org/wiki/Istanbul_Airport,
 316329,LTFO,medium_airport,Rize–Artvin Airport,41.179766,40.848802,16,AS,TR,TR-53,Rize,yes,LTFO,RZV,LTFO,,,https://en.wikipedia.org/wiki/Rize–Artvin_Airport,
+43767,LU-0005,heliport,Robert Schuman Hospital Helipad,49.603429,6.128129,1029,EU,LU,LU-L,Luxembourg,no,ELLZ,,ELLZ,,https://www.hopitauxschuman.lu/fr/,,Zithaklinik
 4570,LUBL,medium_airport,Bălți International Airport,47.837666,27.781108,758,EU,MD,MD-RS,Bălți,no,LUBL,BZY,LUBL,,,https://en.wikipedia.org/wiki/Bălți_International_Airport,"Beltsy International Airport, Lyadoveny Airport, Leadoveny Airport, Lyadoveni Airport, Leadoveni Airport, Аэропорт Бельцы"
 4571,LUKK,medium_airport,Chişinău International Airport,46.9277,28.931,399,EU,MD,MD-CU,Chişinău,yes,LUKK,RMO,LUKK,,http://www.airport.md/,https://en.wikipedia.org/wiki/Chi%C5%9Fin%C4%83u_International_Airport,KIV
 313843,LWA,small_airport,Lebak Rural Airport,6.6739,124.0581,16,AS,PH,PH-SUK,Lebak,no,,LWA,,,,,"Doña Annie Sabala Vallite Alabastro Memorial Private, Lorenzo Palileo"
