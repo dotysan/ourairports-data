@@ -26597,7 +26597,7 @@
 335586,"FR-0422","heliport","Helisudcorse",41.5799,9.27696,,"EU","FR","FR-COR","Porto Vecchio","no",,,,,,,
 336355,"FR-0423","small_airport","Le Burgaud Ultralight Airfield",43.816327,1.13966,600,"EU","FR","FR-OCC","Le Burgaud, Haute-Garonne","no",,,,"LF3157",,,"Base ULM du Burgaud"
 337340,"FR-0424","small_airport","Bazas Cazats Airfield",44.462263,-0.187844,300,"EU","FR","FR-NAQ","Bazas","no",,,,"LF3321","https://basulm.ffplum.fr/bases/liste-des-terrains/details/59/9187.html",,"bazas, cazats, lf3321"
-337341,"FR-0425","small_airport","La Tranche-sur-Mer ULM",46.363534,-1.427364,16,"EU","FR","FR-PDL","La Tranche-sur-Mer","no",,,,"LF8522","http://www.aclatranchesurmer.fr/","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_La_Tranche-sur-Mer","tranche, sur, mer, lf8522"
+337341,"FR-0425","small_airport","La Tranche-sur-Mer ULM",46.363534,-1.427364,16,"EU","FR","FR-PDL","La Tranche-sur-Mer","no","LFTA",,,,"http://www.aclatranchesurmer.fr/","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_La_Tranche-sur-Mer","tranche, sur, mer, LF8522"
 337372,"FR-0426","small_airport","Aérodrome du Girouard",46.578838,-1.606048,150,"EU","FR","FR-PDL","Le Girouard","no",,,,"LF8524",,,
 337374,"FR-0427","small_airport","Talmont Vendée Air Park",46.493761,-1.576506,150,"EU","FR","FR-PDL","Talmont-Saint-Hilaire","no",,,,"LF8521",,,
 337375,"FR-0428","small_airport","Base ULM Thollon les Mémises",46.396667,6.716667,2996,"EU","FR","FR-ARA","Thollon-les-Mémises","no",,,,"LF7431",,,
@@ -27463,6 +27463,8 @@
 598783,"FR-1288","heliport","Wavrans-sur-ternoise DZ",50.422601,2.289426,,"EU","FR","FR-HDF","Wavrans-sur-ternoise","no",,,,,,,
 598784,"FR-1289","heliport","Embry DZ",50.497677,1.968613,,"EU","FR","FR-GES","Embry","no",,,,,,,
 598884,"FR-1290","heliport","(Duplicate)HMP DZ",50.912623,1.764706,,"EU","FR","FR-HDF","Peuplingues","no",,,,,,,
+599006,"FR-1291","heliport","St FOLQUIN DZ",50.946302,2.126691,,"EU","FR","FR-HDF","Saint-Folquin","no",,,,,,,
+599007,"FR-1292","heliport","St Vaast DZ",50.19355,3.429451,,"EU","FR","FR-HDF","St Vaast-en-cis","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assumption Island Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assumption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -29422,6 +29424,7 @@
 597181,"GB-1328","closed","RNAS Inskip (HMS Nightjar)",53.827559,-2.836441,50,"EU","GB","GB-ENG",,"no",,,,,,"https://en.wikipedia.org/wiki/RNAS_Inskip_(HMS_Nightjar)","Military, RNAS, DHFCS"
 597967,"GB-1329","heliport","HMS Queen Elizabeth carrier",50.80275,-1.11194,45,"EU","GB","GB-U-A",,"no",,,,,,,
 598468,"GB-1330","small_airport","Lartington Moor Airstrip",54.53098,-2.10375,,"EU","GB","GB-ENG",,"no",,,,,,,
+599012,"GB-1331","heliport","Tarbert",57.890626,-6.796712,,"EU","GB","GB-SCT",,"no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO"
@@ -43650,25 +43653,26 @@
 29484,"LOXT","small_airport","Brumowski  Air Base",48.319247,16.114016,574,"EU","AT","AT-3","Tulln an der Donau","no","LOXT",,"LOXT",,,"https://en.wikipedia.org/wiki/Brumowski_Air_Base","Langenlebarn Military Airport, Air Force Station Tulln, Fliegerhorst Brumowski"
 4436,"LOXZ","medium_airport","Hinterstoisser Air Base",47.202801,14.7442,2264,"EU","AT","AT-6","Zeltweg","no","LOXZ",,"LOXZ",,,"https://en.wikipedia.org/wiki/Zeltweg_Air_Base","RAF Station Zeltweg, Zeltweg Air Base, Zeltweg Airport, Fliegerhorst Hinterstoisser"
 5498,"LP77","small_airport","Military Airfield of Santa Margarida",39.402401,-8.28906,541,"EU","PT","PT-14","Constância","no",,,,,,,
-321238,"LPAG","heliport","Albergaria-a-Velha Heliport",40.707119,-8.4914,460,"EU","PT","PT-01","Albergaria-a-Velha","no",,,"LPAG",,,,
+321238,"LPAG","heliport","Albergaria-a-Velha Heliport",40.707119,-8.4914,460,"EU","PT","PT-01","Albergaria-a-Velha","no","LPAG",,"LPAG",,,,
 4437,"LPAR","medium_airport","Alverca Air Base",38.883301,-9.0301,11,"EU","PT","PT-11","Vila Franca de Xira","no","LPAR",,"LPAR",,,"https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Alverca","Alverca Airbase, AVR"
-4438,"LPAV","small_airport","São Jacinto Airfield",40.656741,-8.741544,26,"EU","PT","PT-01","Aveiro","no",,,"LPAV",,,"https://en.wikipedia.org/wiki/S%C3%A3o_Jacinto_Airport","ZAV, Aveiro Airbase"
+4438,"LPAV","small_airport","São Jacinto Airfield",40.656741,-8.741544,26,"EU","PT","PT-01","Aveiro","no","LPAV",,"LPAV",,,"https://en.wikipedia.org/wiki/S%C3%A3o_Jacinto_Airport","ZAV, Aveiro Airbase"
 4439,"LPAZ","medium_airport","Santa Maria Airport",36.97140121459961,-25.17060089111328,308,"EU","PT","PT-20","Vila do Porto","yes","LPAZ","SMA","LPAZ",,,"https://en.wikipedia.org/wiki/Santa_Maria_Airport",
 4440,"LPBG","medium_airport","Bragança Airport",41.8578,-6.70713,2241,"EU","PT","PT-04","Bragança","yes","LPBG","BGC","LPBG",,,"https://en.wikipedia.org/wiki/Bragan%C3%A7a_Airport",
-323767,"LPBH","heliport","Braga Hospital Heliport",41.56855,-8.399884,865,"EU","PT","PT-03","Braga","no",,,"LPBH",,,,
+323767,"LPBH","heliport","Braga Hospital Heliport",41.56855,-8.399884,865,"EU","PT","PT-03","Braga","no","LPBH",,"LPBH",,,,
 4441,"LPBJ","medium_airport","Beja Airport / Airbase",38.078899,-7.9324,636,"EU","PT","PT-02","Beja","no","LPBJ","BYJ","LPBJ",,"http://www.ana.pt/en-US/Aeroportos/alentejo/Beja/Pages/BejaHomepage.aspx","https://en.wikipedia.org/wiki/Beja_Airbase","Beja Air Base, Base Aérea de Beja, Base Aérea Nº 11, BA11"
 4442,"LPBR","medium_airport","Braga Municipal Aerodrome",41.587,-8.445189,247,"EU","PT","PT-03","Braga","no","LPBR",,"LPBR",,"http://www.pelicano.com.pt/zp_braga.html","http://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_Braga","BGZ, Aeródromo Municipal de Braga"
-315898,"LPCB","medium_airport","Aerodromo de Castelo Branco",39.847022,-7.44111,1300,"EU","PT","PT-05","Castelo Branco","no",,,"LPCB",,,"https://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_Castelo_Branco",
-321239,"LPCC","heliport","Dr. Nélio Mendonça Hospital Heliport",32.647638,-16.92371,367,"EU","PT","PT-30","Funchal","no",,,"LPCC",,,"https://pt.wikipedia.org/wiki/Hospital_Dr._N%C3%A9lio_Mendon%C3%A7a","Cruz de Carvalho Hospital"
-321240,"LPCD","heliport","Santa Comba Dão Heliport",40.398473,-8.134162,596,"EU","PT","PT-18","Santa Comba Dão","no",,,"LPCD",,,,
+315898,"LPCB","medium_airport","Aerodromo de Castelo Branco",39.844528,-7.439875,1300,"EU","PT","PT-05","Castelo Branco","no","LPCB",,"LPCB",,,"https://pt.wikipedia.org/wiki/Aer%C3%B3dromo_de_Castelo_Branco",
+321239,"LPCC","heliport","Dr. Nélio Mendonça Hospital Heliport",32.647638,-16.92371,367,"EU","PT","PT-30","Funchal","no","LPCC",,"LPCC",,,"https://pt.wikipedia.org/wiki/Hospital_Dr._N%C3%A9lio_Mendon%C3%A7a","Cruz de Carvalho Hospital"
+321240,"LPCD","heliport","Santa Comba Dão Heliport",40.398473,-8.134162,596,"EU","PT","PT-18","Santa Comba Dão","no","LPCD",,"LPCD",,,,
 29486,"LPCH","small_airport","Aerodromo de Chaves",41.722356,-7.463064,1181,"EU","PT","PT-17","Chaves","no","LPCH",,"LPCH",,,"https://en.wikipedia.org/wiki/Chaves_Airport","CHV"
-321241,"LPCI","heliport","Coimbra University Hospital Helipad",40.219877,-8.413009,331,"EU","PT","PT-06","Coimbra","no",,,"LPCI",,,"https://en.wikipedia.org/wiki/Hospitais_da_Universidade_de_Coimbra",
-321242,"LPCL","heliport","Covilhã Hospital Helipad",40.267597,-7.491298,1585,"EU","PT","PT-05","Covilhã","no",,,"LPCL",,,,
+321241,"LPCI","heliport","Coimbra University Hospital Helipad",40.219877,-8.413009,331,"EU","PT","PT-06","Coimbra","no","LPCI",,"LPCI",,,"https://en.wikipedia.org/wiki/Hospitais_da_Universidade_de_Coimbra",
+321242,"LPCL","heliport","Covilhã Hospital Helipad",40.267597,-7.491298,1585,"EU","PT","PT-05","Covilhã","no","LPCL",,"LPCL",,,,
 4443,"LPCO","medium_airport","Aerodromo Municipal de Coimbra",40.158758,-8.470815,587,"EU","PT","PT-06","Coimbra","no","LPCO",,"LPCO",,,"https://en.wikipedia.org/wiki/Coimbra_Airport","CBP"
 29487,"LPCR","small_airport","Corvo Airport",39.671501,-31.1136,,"EU","PT","PT-20","Corvo","yes","LPCR","CVU","LPCR",,,"https://en.wikipedia.org/wiki/Corvo_Airport",
 4444,"LPCS","medium_airport","Cascais Airport",38.724998,-9.35523,325,"EU","PT","PT-11","Cascais","yes","LPCS","CAT","LPCS",,"http://aerodromo-cascais.pt/?lang=en","https://en.wikipedia.org/wiki/Cascais_Aerodrome","Tires"
-317145,"LPDA","heliport","Porto Heliport",41.146597,-8.632665,13,"EU","PT","PT-13","Porto","no",,,"LPDA",,,,
-321243,"LPER","heliport","Évora Hospital Helipad",38.567973,-7.902436,909,"EU","PT","PT-07","Évora","no",,,"LPER",,,,
+317145,"LPDA","heliport","Massarelos Helipad",41.146597,-8.632665,13,"EU","PT","PT-13","Porto","no","LPDA",,"LPDA",,,,
+599011,"LPEM","heliport","EMFA Heliport",38.738453,-9.21507,464,"EU","PT","PT-11","Alfragida","no","LPEM",,"LPEM",,,,
+321243,"LPER","heliport","Évora Hospital Helipad",38.567973,-7.902436,909,"EU","PT","PT-07","Évora","no","LPER",,"LPER",,,,
 4446,"LPEV","medium_airport","Évora Airfield",38.533501,-7.88964,807,"EU","PT","PT-07","Évora","no",,,"LPEV",,,"https://en.wikipedia.org/wiki/%C3%89vora_Airport",
 4447,"LPFL","medium_airport","Flores Airport",39.455299377441406,-31.131399154663086,112,"EU","PT","PT-20","Santa Cruz das Flores","yes","LPFL","FLW","LPFL",,,"https://en.wikipedia.org/wiki/Flores_Airport",
 4448,"LPFR","large_airport","Faro Airport",37.0144004822,-7.96590995789,24,"EU","PT","PT-08","Faro","yes","LPFR","FAO","LPFR",,"http://www.ana.pt/en-US/Aeroportos/algarve/Faro/Pages/HomeFaro.aspx","https://en.wikipedia.org/wiki/Faro_Airport_(Portugal)",
@@ -43679,7 +43683,7 @@
 4450,"LPHR","medium_airport","Horta Airport",38.519901275634766,-28.715900421142578,118,"EU","PT","PT-20","Horta","yes","LPHR","HOR","LPHR",,,"https://en.wikipedia.org/wiki/Horta_Airport",
 29858,"LPIN","small_airport","Espinho Airfield",40.974201,-8.64444,10,"EU","PT","PT-01",,"no",,,"LPIN",,,"https://en.wikipedia.org/wiki/Espinho_Airfield",
 317089,"LPJB","heliport","Algés Heliport",38.695741,-9.235799,30,"EU","PT","PT-11","Algés","no",,,"LPJB",,,,
-30066,"LPJF","small_airport","Aerodromo de Leiria",39.779907,-8.820238,151,"EU","PT","PT-10","Leiria","no",,,"LPJF",,"https://www.aeroclubeleiria.pt/",,
+30066,"LPJF","small_airport","Aerodromo de Leiria",39.779907,-8.820238,151,"EU","PT","PT-10","Leiria","no","LPJF",,"LPJF",,"https://www.aeroclubeleiria.pt/",,"QLR"
 4451,"LPLA","medium_airport","Lajes Airport",38.761799,-27.090799,180,"EU","PT","PT-20","Praia da Vitória","yes","LPLA","TER","LPLA",,"http://aerogarelajes.azores.gov.pt","https://en.wikipedia.org/wiki/Lajes_Field","Terceira Island"
 30086,"LPLZ","small_airport","Aerodromo da Lousã",40.143042,-8.240987,654,"EU","PT","PT-06","Lousã","no",,,"LPLZ",,,,
 4452,"LPMA","large_airport","Madeira International Airport Cristiano Ronaldo",32.697899,-16.7745,192,"EU","PT","PT-30","Funchal","yes","LPMA","FNC","LPMA",,"http://www.ana.pt/en-US/Aeroportos/Madeira/Funchal/Pages/default.aspx","https://en.wikipedia.org/wiki/Madeira_Airport","Madeira, Funchal"
@@ -43706,20 +43710,20 @@
 4460,"LPPS","medium_airport","Porto Santo Airport",33.0733985901,-16.3500003815,341,"EU","PT","PT-30","Vila Baleira","yes","LPPS","PXO","LPPS",,"http://www.anam.pt/Porto-Santo-411.aspx","https://en.wikipedia.org/wiki/Porto_Santo_Airport",
 4461,"LPPT","large_airport","Lisbon Humberto Delgado Airport",38.7813,-9.13592,374,"EU","PT","PT-11","Lisbon","yes","LPPT","LIS","LPPT",,"http://www.ana.pt/en-US/Aeroportos/lisboa/Lisboa/Pages/HomeLisboa.aspx","https://en.wikipedia.org/wiki/Lisbon_Airport","Lisboa, Portela"
 529396,"LPSA","heliport","Salemas Heliport",38.875,-9.195,984,"EU","PT","PT-11",,"no",,,"LPSA",,,,
-29490,"LPSC","small_airport","Santa Cruz Airfield",39.124233,-9.379821,157,"EU","PT","PT-11","Torres Vedras","no",,,"LPSC",,,"https://en.wikipedia.org/wiki/Santa_Cruz_Airport_(Portugal)",
+29490,"LPSC","small_airport","Santa Cruz Airfield",39.12392,-9.380091,157,"EU","PT","PT-11","Torres Vedras","no","LPSC",,"LPSC",,,"https://en.wikipedia.org/wiki/Santa_Cruz_Airport_(Portugal)",
 4462,"LPSJ","medium_airport","São Jorge Airport",38.665501,-28.1758,311,"EU","PT","PT-20","Velas","yes","LPSJ","SJZ","LPSJ",,,"https://en.wikipedia.org/wiki/S%C3%A3o_Jorge_Airport",
-321269,"LPSM","heliport","Santa Maria Hospital Helipad",38.749372,-9.160627,330,"EU","PT","PT-11","Lisbon","no",,,"LPSM",,,,
-317032,"LPSO","medium_airport","Aeródromo Municipal de Ponte de Sor",39.211559,-8.056542,390,"EU","PT","PT-12","Ponte de Sor","no",,,"LPSO",,"https://aerodromo.cm-pontedesor.pt",,
-29492,"LPSR","small_airport","Santarém Airfield",39.209499,-8.6883,30,"EU","PT","PT-14","Santarém","no",,,"LPSR",,,"https://de.wikipedia.org/wiki/Flugplatz_Santar%C3%A9m",
+321269,"LPSM","heliport","Santa Maria Hospital Helipad",38.749372,-9.160627,330,"EU","PT","PT-11","Lisbon","no","LPSM",,"LPSM",,,,
+317032,"LPSO","medium_airport","Aeródromo Municipal de Ponte de Sor",39.211545,-8.057787,390,"EU","PT","PT-12","Ponte de Sor","no","LPSO",,"LPSO",,"https://aerodromo.cm-pontedesor.pt",,
+29492,"LPSR","small_airport","Santarém Airfield",39.209495,-8.68728,30,"EU","PT","PT-14","Santarém","no","LPSR",,"LPSR",,,"https://de.wikipedia.org/wiki/Flugplatz_Santar%C3%A9m",
 4463,"LPST","medium_airport","Sintra Air Base",38.8311,-9.33955,440,"EU","PT","PT-11","Sintra","no",,,"LPST",,,"https://en.wikipedia.org/wiki/Sintra_Air_Base",
 321268,"LPTH","heliport","Tomar Hospital Helipad",39.610553,-8.395223,306,"EU","PT","PT-14","Tomar","no",,,"LPTH",,,,
 321267,"LPTM","heliport","Bragança Hospital Helipad",41.80265,-6.768767,2401,"EU","PT","PT-04","Bragança","no",,,"LPTM",,,,
 4464,"LPTN","medium_airport","Tancos Airbase",39.475101,-8.36458,266,"EU","PT","PT-14","Tancos","no",,,"LPTN",,,"https://pt.wikipedia.org/wiki/Aer%C3%B3dromo_Militar_de_Tancos",
-321254,"LPVC","heliport","Viana do Castelo Hospital Helipad",41.697716,-8.8314976,135,"EU","PT","PT-16","Viana do Castelo","no",,,"LPVC",,,,
-29493,"LPVL","medium_airport","Vilar de Luz Airfield",41.27729,-8.516209,762,"EU","PT","PT-13","Maia","no",,,"LPVL",,,"https://en.wikipedia.org/wiki/Maia_Airport",
+321254,"LPVC","heliport","Viana do Castelo Hospital Helipad",41.697716,-8.831498,135,"EU","PT","PT-16","Viana do Castelo","no","LPVC",,"LPVC",,,,
+29493,"LPVL","medium_airport","Vilar de Luz Airfield",41.27729,-8.516209,762,"EU","PT","PT-13","Maia","no","LPVL",,"LPVL",,,"https://en.wikipedia.org/wiki/Maia_Airport",
 4465,"LPVR","medium_airport","Vila Real Airport",41.2743,-7.72047,1805,"EU","PT","PT-17","Vila Real","yes","LPVR","VRL","LPVR",,,"https://en.wikipedia.org/wiki/Vila_Real_Airport",
 4466,"LPVZ","medium_airport","Aerodromo Goncalves Lobato (Viseu Airport)",40.725498,-7.88899,2060,"EU","PT","PT-18","Viseu","yes","LPVZ","VSE","LPVZ",,,"https://en.wikipedia.org/wiki/Viseu_Airport",
-321253,"LPXR","heliport","Vila Franca de Xira Hospital Helipad",38.977696,-8.985177,299,"EU","PT","PT-11","Vila Franca de Xira","no",,,"LPXR",,,,
+321253,"LPXR","heliport","Vila Franca de Xira Hospital Helipad",38.977696,-8.985177,299,"EU","PT","PT-11","Vila Franca de Xira","no","LPXR",,"LPXR",,,,
 29705,"LQBI","small_airport","Bihać Golubić Airfield",44.797061,15.904474,761,"EU","BA","BA-BIH","Bihać","no","LQBI",,"LQBI",,,"https://en.wikipedia.org/wiki/Biha%C4%87_Golubi%C4%87_Airport","Bihać sportski aerodrom"
 4467,"LQBK","medium_airport","Banja Luka International Airport",44.941399,17.297501,400,"EU","BA","BA-SRP","Mahovljani","yes","LQBK","BNX","LQBK",,"http://www.banjaluka-airport.com/","https://en.wikipedia.org/wiki/Banja_Luka_International_Airport","Mahovljani Airport"
 30500,"LQJL","small_airport","Tuzla Jegin Lug Sport Airfield",44.4578,18.808122,869,"EU","BA","BA-BIH","Rainci Gornji","no","LQJL",,"LQJL",,,"https://en.wikipedia.org/wiki/Tuzla_Jegen_Lug_Airport",
@@ -44078,8 +44082,8 @@
 513849,"LU-0011","heliport","Remich-Schmierberg Heliport",49.53441,6.34378,860,"EU","LU","LU-RM","Bech-Kleinmacher","no",,,,,,,
 513850,"LU-0012","heliport","Remerschen Heliport",49.49102,6.34507,866,"EU","LU","LU-RM","Schengen","no",,,,,,,
 4570,"LUBL","medium_airport","Bălți International Airport",47.837666,27.781108,758,"EU","MD","MD-RS","Bălți","no","LUBL","BZY","LUBL",,,"https://en.wikipedia.org/wiki/Bălți_International_Airport","Beltsy International Airport, Lyadoveny Airport, Leadoveny Airport, Lyadoveni Airport, Leadoveni Airport, Аэропорт Бельцы"
-4630,"LUBM","medium_airport","Mărculești Air Base",47.862701,28.212799,312,"EU","MD","MD-FR","Mărculeşti","no",,,"LUBM",,,"https://en.wikipedia.org/wiki/Mărculești_Air_Force_Base","Markuleshty Airport"
-44412,"LUCH","medium_airport","Cahul International Airport",45.8438,28.2637,652,"EU","MD","MD-CH","Cahul","no",,,"LUCH",,,"https://en.wikipedia.org/wiki/Cahul_International_Airport",
+4630,"LUBM","medium_airport","Mărculești Air Base",47.862701,28.212799,312,"EU","MD","MD-FR","Mărculeşti","no","LUBM",,"LUBM",,,"https://en.wikipedia.org/wiki/Mărculești_Air_Force_Base","Markuleshty Airport"
+44412,"LUCH","medium_airport","Cahul International Airport",45.8438,28.2637,652,"EU","MD","MD-CH","Cahul","no","LUCH",,"LUCH",,,"https://en.wikipedia.org/wiki/Cahul_International_Airport",
 4571,"LUKK","medium_airport","Chişinău International Airport",46.9277,28.931,399,"EU","MD","MD-CU","Chişinău","yes","LUKK","RMO","LUKK",,"http://www.airport.md/","https://en.wikipedia.org/wiki/Chi%C5%9Fin%C4%83u_International_Airport","KIV"
 31864,"LUTR","medium_airport","Tiraspol Airport",46.868099,29.590599,141,"EU","MD","MD-SN","Tiraspol","no",,,"LUTR",,,"https://en.wikipedia.org/wiki/Tiraspol_Airport","Transnistria"
 44605,"LV-0001","small_airport","Gančauski Airfield",56.043395,26.369549,,"EU","LV","LV-111","Gančauski","no",,,,,,,"Gancauski Airfield, Ķirupe Airport, EVIL"
@@ -44185,7 +44189,7 @@
 4610,"LYBE","large_airport","Belgrade Nikola Tesla Airport",44.818401,20.309099,335,"EU","RS","RS-00","Belgrade","yes","LYBE","BEG","LYBE",,"http://www.beg.aero/","https://en.wikipedia.org/wiki/Belgrade_Nikola_Tesla_Airport","Beograd, Surčin Airport"
 301358,"LYBJ","small_airport","Lisičji Jarak Airfield",44.939858,20.445828,233,"EU","RS","RS-00","Palilula","no",,,"LYBJ",,,"https://en.wikipedia.org/wiki/Lisi%C4%8Dji_Jarak_Airfield","Лисичји Јарак, Beograd-Lisičji Jarak"
 42777,"LYBR","small_airport","Berane Airport",42.8390007019043,19.86199951171875,2287,"EU","ME","ME-03","Berane","no","LYBR","IVG","LYBR",,,"https://en.wikipedia.org/wiki/Berane_Airport","Dolac Airport, Аеродром Беране, Aerodrom Berane"
-308218,"LYBS","heliport","Camp Bondsteel Army Heliport",42.36632,21.24234,1900,"EU","XK","XK-05","Sojevë / Camp Bondsteel","no",,,"LYBS",,,"https://en.wikipedia.org/wiki/Camp_Bondsteel",
+308218,"LYBS","heliport","Camp Bondsteel Army Heliport",42.36632,21.24234,1900,"EU","XK","XK-05","Sojevë / Camp Bondsteel","no",,,,"BK12",,"https://en.wikipedia.org/wiki/Camp_Bondsteel",
 4611,"LYBT","medium_airport","Batajnica Air Base",44.935299,20.2575,265,"EU","RS","RS-00","Zemun","no","LYBT","BJY","LYBT",,,"https://en.wikipedia.org/wiki/Batajnica_Air_Base","Batajnica Colonel Milenko Pavlović Air Base"
 309974,"LYCA","small_airport","Čačak-Preljina Airfield",43.8981,20.435,776,"EU","RS","RS-17","Čačak","no",,,"LYCA",,,"https://en.wikipedia.org/wiki/%C4%8Ca%C4%8Dak-Preljina_Airport","Ravan Airport, Аеродром Чачак-Прељина, Раван"
 333323,"LYJA","small_airport","Jagodina-Barutana Airfield",43.976613,21.229756,,"EU","RS","RS-12","Jagodina","no",,,"LYJA",,,"https://en.wikipedia.org/wiki/Jagodina_Airport",
@@ -44490,6 +44494,7 @@
 42780,"ME-0001","closed","Ulcinj Airport",41.88909,19.34169,14,"EU","ME","ME-20","Gornji Štoj","no",,,,,,"https://en.wikipedia.org/wiki/Ulcinj_Airport","Аеродром Улцињ, Aerodrom Ulcinj"
 515756,"ME-0002","heliport","Berane General Hospital Heliport",42.85081,19.87042,2203,"EU","ME","ME-03","Berane","no",,,,,,,
 42781,"ME-0003","closed","Žabljak Airport",43.116669,19.233334,4252,"EU","ME","ME-21","Zminica","no",,,,,,"https://en.wikipedia.org/wiki/%C5%BDabljak_Airport","Аеродром Жабљак, Aerodrom Žabljak, ZBK"
+599013,"ME-0004","heliport","Splendid Hotel Helipad",42.282278,18.865537,141,"EU","ME","ME-05","Budva","no","LYBS",,"LYBS",,,,"Bečići,"
 45446,"ME00","small_airport","Fort Fairfield Municipal Airport",46.764354,-67.847421,471,"NA","US","US-ME","Fort Fairfield","no",,,"ME00","ME00",,,
 21937,"ME01","seaplane_base","Crescent Lake Seaplane Base",43.957000732421875,-70.46260070800781,278,"NA","US","US-ME","East Raymond","no",,,"ME01","ME01",,,
 21938,"ME02","heliport","Northern Light Eastern Maine Medical Center Heliport",44.808275,-68.752233,60,"NA","US","US-ME","Bangor","no",,,"ME02","ME02",,,
@@ -53212,25 +53217,25 @@
 24322,"PS95","heliport","Mazzuca Heliport",40.68619918823242,-76.21019744873047,810,"NA","US","US-PA","Pottsville","no",,,"PS95","PS95",,,
 24323,"PS98","closed","Travis Airport",40.883766,-79.192457,1320,"NA","US","US-PA","Smicksburg","no",,,,,,,"PS98"
 24324,"PS99","small_airport","West Penn Township Airport",40.74625,-75.932608,1200,"NA","US","US-PA","Tamaqua","no",,,"PS99","PS99",,,
-43769,"PT-0001","heliport","Alfragide Heliport",38.738392,-9.215061,433,"EU","PT","PT-11","Alfragide","no",,,"LPAF",,,,
-43770,"PT-0002","heliport","Barlavento Algarvio Hospital Heliport",37.156737,-8.540811,161,"EU","PT","PT-08","Portimão","no",,,"LPBA",,,,
+43769,"PT-0001","heliport","Alfragide Helipad",38.734316,-9.224445,545,"EU","PT","PT-11","Alfragide","no","LPAF",,"LPAF",,,,
+43770,"PT-0002","heliport","Barlavento Algarvio Hospital Heliport",37.156737,-8.540811,161,"EU","PT","PT-08","Portimão","no","LPBA",,"LPBA",,,,
 43771,"PT-0003","heliport","Fafe heliport",41.456435,-8.138046,1407,"EU","PT","PT-03","Fafe","no",,,"LPFE",,,,
-43772,"PT-0004","heliport","Hospital Amadora Heliport",38.742144,-9.245749,443,"EU","PT","PT-11","Amadora","no",,,"LPAS",,,,
+43772,"PT-0004","heliport","Hospital Amadora Heliport",38.742144,-9.245749,443,"EU","PT","PT-11","Amadora","no","LPAS",,"LPAS",,,,
 43773,"PT-0005","heliport","Hospital de Santa Cruz heliport",38.726135,-9.234083,329,"EU","PT","PT-11","Carnaxide","no",,,"LPFX",,,,
-43774,"PT-0006","heliport","Hospital de Sao Teotonio heliport",40.649082,-7.905788,1500,"EU","PT","PT-18","Viseu","no",,,"LPTT",,,,
-43775,"PT-0007","heliport","Hospital Distrital de Abrantes heliport",39.456142,-8.199821,110,"EU","PT","PT-14","Abrantes","no",,,"LPAB",,,,
+43774,"PT-0006","heliport","Hospital de Sao Teotonio heliport",40.649082,-7.905788,1500,"EU","PT","PT-18","Viseu","no","LPTT",,"LPTT",,,,
+43775,"PT-0007","heliport","Hospital Distrital de Abrantes heliport",39.456142,-8.199821,362,"EU","PT","PT-14","Abrantes","no",,,"LPAB",,,,
 43776,"PT-0008","heliport","Hospital Distrital de Faro Heliport",37.02532,-7.929432,149,"EU","PT","PT-08","Faro","no",,,"LPFO",,,,
 43777,"PT-0009","heliport","Hospital Distrital de Guarda Heliport",40.529842,-7.278002,3278,"EU","PT","PT-09","Guarda","no",,,"LPGA",,,,
 43778,"PT-0010","heliport","Hospital Distrital Leiria heliport",39.744537,-8.793105,200,"EU","PT","PT-10","Leiria","no",,,"LPLE",,,,
 43779,"PT-0011","heliport","Hospital do Divino Espirito Santo Heliport",37.75285,-25.676204,305,"EU","PT","PT-20","Ponta Delgada","no",,,"LPES",,,,
 43780,"PT-0012","heliport","Hospital José Joaquim Fernandes heliport",38.013336181640625,-7.869441986083984,839,"EU","PT","PT-02","Beja","no",,,,,,,
 43781,"PT-0013","heliport","Hospital Pedro Hispano heliport",41.181018,-8.66258,200,"EU","PT","PT-13","Matosinhos","no",,,"LPPH",,,,
-43782,"PT-0014","heliport","São Sebastião Hospital Helipad",40.929417,-8.548319,521,"EU","PT","PT-01","Santa Maria da Feira","no",,,"LPSS",,,,
+43782,"PT-0014","heliport","São Sebastião Hospital Helipad",40.929417,-8.548319,521,"EU","PT","PT-01","Santa Maria da Feira","no","LPSS",,"LPSS",,,,
 43783,"PT-0015","heliport","Loule heliport",37.131523,-8.033168,404,"EU","PT","PT-08","Loule","no",,,"LPLO",,,,
 43784,"PT-0016","heliport","Nisa heliport",39.505353,-7.644253,984,"EU","PT","PT-12","Nisa","no",,,,,,,
 317209,"PT-0017","closed","Alentejo Air Park",37.465556,-8.737222,422,"EU","PT","PT-02",,"no",,,,,,,"LP78"
 43786,"PT-0018","heliport","Santa Maria Da Feira heliport",40.93014907836914,-8.542390823364258,485,"EU","PT","PT-01","Santa Maria Da Feira","no",,,,,,,
-43787,"PT-0019","heliport","Sines heliport",37.95500946044922,-8.879358291625977,104,"EU","PT","PT-15","Sines","no",,,,,,,
+43787,"PT-0019","heliport","Sines Heliport",37.954969,-8.879527,104,"EU","PT","PT-15","Sines","no","LPSI",,"LPSI",,,,
 314015,"PT-0020","small_airport","Aerodromo de Cabeceiras de Basto UL",41.556444,-7.985086,2410,"EU","PT","PT-03","Cabeceiras de Basto","no",,,,"LP53",,,
 298559,"PT-0021","small_airport","Benavente UL",38.914227,-8.786981,130,"EU","PT","PT-14","Benavente","no",,,,"LP52","https://www.aerolazer.pt",,"Campo de Vôo de Benavente, VLS, Microlight"
 314017,"PT-0022","small_airport","Aerodromo do Cerval UL",41.972958,-8.673806,110,"EU","PT","PT-16","Vila Nova de Cerveira","no",,,,"LP55",,,
@@ -53246,7 +53251,7 @@
 317216,"PT-0032","small_airport","Amendoeira Aerodrome",38.709167,-8.275277,614,"EU","PT","PT-07","Montemor-o-Novo","no",,,"LPMN",,"http://www.centrovoolivre.com/",,"Aerodromo da Amendoeira, Montemor o Novo"
 320147,"PT-0033","small_airport","Aeródromo de Pombal UL",39.885631,-8.649693,,"EU","PT","PT-10","Pombal","no",,,,"LP69",,,"Casalinho"
 320150,"PT-0034","closed","Aeródromo da Lourinhã",39.260908,-9.335606,,"EU","PT","PT-11","Lourinhã","no",,,,,,,
-320152,"PT-0035","small_airport","Aeródromo de Seia",40.453186,-7.692059,1445,"EU","PT","PT-09","Seia","no",,,"LPSE",,,,"Serra da Estrela, Seia Airfield"
+320152,"PT-0035","small_airport","Aeródromo de Seia",40.453186,-7.692059,1445,"EU","PT","PT-09","Seia","no","LPSE",,"LPSE",,,,"Serra da Estrela, Seia Airfield"
 320211,"PT-0036","small_airport","Aeródromo Municipal de Ferreira do Zezere UL",39.682059,-8.253189,,"EU","PT","PT-14","Ferreira do Zêzere","no",,,,"LP71",,,"Ferreira do Zêzere"
 320264,"PT-0037","small_airport","Aeródromo da Pampilhosa da Serra",40.026869,-7.955008,,"EU","PT","PT-06","Pampilhosa da Serra","no",,,,,,,
 320273,"PT-0038","closed","Aerodromo Fátima Giesteira",39.58067,-8.663004,,"EU","PT","PT-14","Fátima","no",,,,,,,
@@ -53259,8 +53264,8 @@
 321246,"PT-0045","heliport","Santarém Hospital Heliport",39.24183,-8.697563,122,"EU","PT","PT-14","Santarém","no",,,,"LP35",,,
 321247,"PT-0046","heliport","Pernes Heliport",39.376207,-8.661629,95,"EU","PT","PT-14","Pernes","no",,,,,,,
 321248,"PT-0047","heliport","Monchique Heliport",37.32013,-8.552329,1437,"EU","PT","PT-08","Monchique","no",,,,"LP40",,,
-321270,"PT-0048","heliport","Sardoal Heliport",39.54254,-8.160328,712,"EU","PT","PT-14","Sardoal","no",,,"LPSD",,,,"Tapada da Torre"
-323769,"PT-0049","heliport","Coimbra Hospital Covões Heliport",40.194812,-8.460207,265,"EU","PT","PT-06","Coimba","no",,,"LPCV",,,,
+321270,"PT-0048","heliport","Sardoal Heliport",39.54254,-8.160328,712,"EU","PT","PT-14","Sardoal","no","LPSD",,"LPSD",,,,"Tapada da Torre"
+323769,"PT-0049","heliport","Coimbra Hospital Covões Heliport",40.194812,-8.460207,265,"EU","PT","PT-06","Coimba","no","LPCV",,"LPCV",,,,
 322431,"PT-0050","small_airport","Martim Longo Airstrip",37.433582,-7.763626,,"EU","PT","PT-08","Alcoutim","no",,,,,,,
 323772,"PT-0051","heliport","Lamego Hospital Heliport",41.082095,-7.796558,1840,"EU","PT","PT-18","Lamego","no",,,,,,,
 324800,"PT-0052","small_airport","Pista da Herdade da Zambujeira UL",37.67084,-8.123743,,"EU","PT","PT-02","Castro Verde","no",,,,"LP58",,,
