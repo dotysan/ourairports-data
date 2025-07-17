@@ -2219,7 +2219,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30978,FKKW,small_airport,Ebolowa Airport,2.875999927520752,11.1850004196167,1975,AF,CM,CM-SU,Ebolowa,no,FKKW,EBW,FKKW,,,https://en.wikipedia.org/wiki/Ebolowa_Airport,
 2889,FKKY,medium_airport,Yaoundé Airport,3.83604,11.5235,2464,AF,CM,CM-CE,Yaoundé,no,FKKY,YAO,FKKY,,,https://en.wikipedia.org/wiki/Yaound%C3%A9_Airport,Yaoundé Ville Airport
 2890,FKYS,medium_airport,Yaoundé Nsimalen International Airport,3.72256,11.5533,2278,AF,CM,CM-CE,Yaoundé,yes,FKYS,NSI,FKYS,,,https://en.wikipedia.org/wiki/Yaoundé_Nsimalen_International_Airport,
+354502,FLAA,small_airport,Kawa Airport,-13.704573,29.510608,4364,AF,ZM,ZM-02,,no,FLAA,,FLAA,,,,
+599037,FLAB,small_airport,Kakumbi Airstrip,-13.067913,31.763252,1738,AF,ZM,ZM-U-A,Kakumbi,no,FLAB,,FLAB,,,,Mfuwe
+354501,FLAI,small_airport,Amelia Airport,-13.755705,29.338077,4206,AF,ZM,ZM-02,Mkushi,no,FLAI,,FLAI,,,,
 31922,FLBA,small_airport,Mbala Airport,-8.85917,31.336399,5454,AF,ZM,ZM-05,Mbala,no,FLBA,MMQ,FLBA,,,https://en.wikipedia.org/wiki/Mbala_Airport,
+599039,FLBW,small_airport,Nabwalya Airstrip,-12.428904,31.977439,1885,AF,ZM,ZM-10,Nabwalya,no,FLBW,,FLBW,,,,
 29781,FLCP,small_airport,Chipata Airport,-13.5583,32.5872,3360,AF,ZM,ZM-03,Chipata,no,FLCP,CIP,FLCP,,,https://en.wikipedia.org/wiki/Chipata_Airport,
 318932,FLCU,small_airport,Chunga Airstrip,-15.053957,25.985673,3632,AF,ZM,ZM-02,Chunga,no,,CGX,FLCU,,,,
 316480,FLJK,small_airport,Jeki Airport,-15.6334,29.6036,1165,AF,ZM,ZM-09,Jeki,no,,JEK,FLJK,,,https://en.wikipedia.org/wiki/Jeki_Airstrip,
@@ -2229,6 +2233,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30012,FLKS,small_airport,Kasama Airport,-10.210169,31.123045,4541,AF,ZM,ZM-05,Kasama,yes,FLKS,KAA,FLKS,,,https://en.wikipedia.org/wiki/Kasama_Airport,
 31153,FLKW,small_airport,Milliken Airport,-14.4506,28.3792,3920,AF,ZM,ZM-02,Kabwe,no,FLKW,,FLKW,,,https://en.wikipedia.org/wiki/Milliken_Airport,QKE
 32746,FLKY,small_airport,Kasaba Bay Airport,-8.525,30.663,2780,AF,ZM,ZM-05,Kasaba Bay,no,FLKY,ZKB,FLKY,,,https://en.wikipedia.org/wiki/Kasaba_Bay_Airport,
+30090,FLKZ,small_airport,Lukuzi Airport,-12.847881,32.035818,1801,AF,ZM,ZM-03,Nansolo,no,FLKZ,,FLKZ,,,,Mwanya
 30087,FLLA,small_airport,Luanshya Zambia Airport,-13.143052,28.426517,4101,AF,ZM,ZM-08,Luanshya,no,FLLA,,FLLA,,,https://en.wikipedia.org/wiki/Luanshya_Airport,
 2892,FLLC,medium_airport,Lusaka City Airport,-15.4138,28.3307,4200,AF,ZM,ZM-09,Lusaka,no,FLLC,,FLLC,,,https://en.wikipedia.org/wiki/Lusaka_City_Airport,
 2893,FLLI,medium_airport,Harry Mwanga Nkumbula International Airport,-17.8218,25.822701,3302,AF,ZM,ZM-07,Livingstone,yes,FLHN,LVI,FLHN,,,https://en.wikipedia.org/wiki/Harry_Mwanga_Nkumbula_International_Airport,FLLI
@@ -2695,7 +2700,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3059,FZQA,medium_airport,Lubumbashi International Airport,-11.5913000107,27.5308990479,4295,AF,CD,CD-HK,Lubumbashi,yes,FZQA,FBM,FZQA,,,https://en.wikipedia.org/wiki/Lubumbashi_International_Airport,
 525974,FZQC,small_airport,Pweto Airport,-8.400768,28.926285,3625,AF,CD,CD-HK,Pweto,no,FZQC,PWO,FZQC,,,https://en.wikipedia.org/wiki/Pweto_Airport,
 31438,FZQF,small_airport,Fungurume Airport,-10.530346,26.325903,3855,AF,CD,CD-LU,Fungurume,no,FZQF,,FZQF,,,https://en.wikipedia.org/wiki/Fungurume_Airport,
-31739,FZQG,small_airport,Kasenga Airport,-10.35,28.632999,3146,AF,CD,CD-HK,Kasenga,no,FZQG,KEC,FZQG,,,https://en.wikipedia.org/wiki/Kasenga_Airport,
+31739,FZQG,small_airport,Kasenga Airport,-10.355228,28.617243,3146,AF,CD,CD-HK,Kasenga,no,FZQG,KEC,FZQG,,,https://en.wikipedia.org/wiki/Kasenga_Airport,
 31439,FZQH,small_airport,Katwe Airport,-10.55,27.85,5577,AF,CD,CD-HK,Katwe,no,FZQH,,FZQH,,,https://en.wikipedia.org/wiki/Katwe_Airport,
 31441,FZQJ,small_airport,Mwadingusha Airport,-10.756564,27.215524,3707,AF,CD,CD-HK,Mwadingusha,no,FZQJ,,FZQJ,,,https://en.wikipedia.org/wiki/Mwadingusha_Airport,
 3060,FZQM,medium_airport,Kolwezi Airport,-10.7659,25.505699,5007,AF,CD,CD-LU,Kolwezi,yes,FZQM,KWZ,FZQM,,,https://en.wikipedia.org/wiki/Kolwezi_Airport,
@@ -5691,7 +5696,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4611,LYBT,medium_airport,Batajnica Air Base,44.935299,20.2575,265,EU,RS,RS-00,Zemun,no,LYBT,BJY,LYBT,,,https://en.wikipedia.org/wiki/Batajnica_Air_Base,Batajnica Colonel Milenko Pavlović Air Base
 31872,LYKV,medium_airport,Morava Airport,43.817519,20.586662,686,EU,RS,RS-18,Kraljevo,yes,LYKV,KVO,LYKV,,,https://en.wikipedia.org/wiki/Morava_Airport,Lađevci Airport
 4612,LYNI,medium_airport,Niš Constantine the Great Airport,43.337009,21.85451,648,EU,RS,RS-20,Niš,yes,LYNI,INI,LYNI,,,https://en.wikipedia.org/wiki/Ni%C5%A1_Constantine_the_Great_Airport,Aerodrom Konstantin Veliki Niš
+42779,LYNK,small_airport,Nikšić Airfield,42.773039,18.916311,2008,EU,ME,ME-12,Nikšić,no,LYNK,,LYNK,,,https://en.wikipedia.org/wiki/Nik%C5%A1i%C4%87_Airport,"Аеродром Никшић, Aerodrom Nikšić, Kapino Polje Airport"
 4613,LYPG,large_airport,Podgorica Airport / Podgorica Golubovci Airbase,42.359402,19.2519,141,EU,ME,ME-16,Podgorica,yes,LYPG,TGD,LYPG,,https://montenegroairports.com/en/podgorica-airport/,https://en.wikipedia.org/wiki/Podgorica_Airport,"Podgorica Airbase, Golubovci Airbase, Аеродром Подгорица, Aerodrom Podgorica"
+42778,LYPO,small_airport,Ćemovsko Polje / Špiro Mugoša Airfield,42.422306,19.291018,197,EU,ME,ME-16,Podgorica,no,LYPO,,LYPO,,,https://en.wikipedia.org/wiki/%C5%A0piro_Mugo%C5%A1a_Airport,
 4615,LYTV,medium_airport,Tivat Airport,42.404701232910156,18.72330093383789,20,EU,ME,ME-19,Tivat,yes,LYTV,TIV,LYTV,,http://www.montenegroairports.com/?menu=3,https://en.wikipedia.org/wiki/Tivat_Airport,"Аеродром Тиват, Aerodrom Tivat, Zračna luka Tivat"
 1649,LYUZ,medium_airport,Ponikve Airport,43.898899,19.697701,2966,EU,RS,RS-16,Stapari,no,LYUZ,UZC,LYUZ,,http://aerodromponikve.rs,https://en.wikipedia.org/wiki/U%C5%BEice-Ponikve_Airport,"Аеродром Ужице-Поникве, Lepa Glava, Užice"
 316252,LZBD,small_airport,Bidovce Airfield,48.743192,21.448285,984,EU,SK,SK-KI,Bidovce,no,LZBD,,,,,,
@@ -5704,6 +5711,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4620,LZPP,medium_airport,Piešťany Airport,48.62519836425781,17.828399658203125,545,EU,SK,SK-TA,Piešťany,no,LZPP,PZY,LZPP,,http://www.ba.psg.sk/prezenta/airport-piestany/,https://en.wikipedia.org/wiki/Pie%C5%A1%C5%A5any_Airport,
 30288,LZPW,small_airport,Prešov Air Base,49.02970123291,21.315599441528,1060,EU,SK,SK-PV,Prešov,no,LZPW,POV,LZPW,,,https://en.wikipedia.org/wiki/Pre%C5%A1ov_Air_Base,
 4621,LZSL,medium_airport,Sliač Airport,48.63779830932617,19.13409996032715,1043,EU,SK,SK-BC,Sliač,yes,LZSL,SLD,LZSL,,http://www.airportsliac.sk/home-engle.html,https://en.wikipedia.org/wiki/Slia%C4%8D_Airport,
+29716,LZTR,small_airport,Trnava Airfield,48.451959,17.531818,656,EU,SK,SK-TA,Boleráz,no,LZTR,,LZTR,,http://www.aktrnava.sk,,"Aeroklub Trnava, Letisko Boleráz, Letisko Trnava"
 4623,LZTT,medium_airport,Poprad-Tatry Airport,49.073601,20.2411,2356,EU,SK,SK-PV,Poprad,yes,LZTT,TAT,LZTT,,https://www.popradtatry.aero/,https://en.wikipedia.org/wiki/Poprad-Tatry_Airport,
 4624,LZZI,medium_airport,Žilina-Dolný Hričov Airport,49.233292,18.613386,1020,EU,SK,SK-ZI,Dolný Hričov,no,LZZI,ILZ,LZZI,,,https://en.wikipedia.org/wiki/%C5%BDilina_Airport,
 21739,M26,small_airport,Drummond Airport,46.621599,-113.201751,4245,NA,US,US-MT,Drummond,no,,DRU,,M26,,,
@@ -5734,7 +5742,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 21948,ME16,small_airport,Loring International Airport,46.950401,-67.885902,746,NA,US,US-ME,Limestone,no,,LIZ,ME16,ME16,,https://en.wikipedia.org/wiki/Loring_International_Airport,Loring AFB
 319207,MEF,small_airport,Melfi Airport,11.060192,17.944495,1293,AF,TD,TD-GR,Melfi,no,,MEF,,,,https://en.wikipedia.org/wiki/Melfi_Airport,
 508323,MG-0020,small_airport,Ankokoambo Airport,-16.594919,44.453654,29,AF,MG,MG-M,Ankokoambo,no,,NKO,,,,,
-525175,MG-0021,small_airport,Relais de la Reine Airport,-22.645343,45.323914,,AF,MG,MG-U-A,Isalo,no,,RLR,,,,,
+525175,MG-0021,small_airport,Relais de la Reine Airport,-22.645343,45.323914,2713,AF,MG,MG-U,Isalo,no,,RLR,,,https://lerelaisdelareine.com/hotel-madagascar-isalo-aerodrome/?lang=en,,
 30933,MG-DOA,small_airport,Doany Airport,-14.3681001663208,49.510799407958984,,AF,MG,MG-D,Doany,no,,DOA,,,,,
 4643,MGCB,medium_airport,Coban Airport,15.469,-90.4067,4339,NA,GT,GT-AV,Coban,no,MGCB,CBV,MGCB,,,https://en.wikipedia.org/wiki/Cob%C3%A1n_Airport,
 42223,MGCR,small_airport,Carmelita Airport,17.461201,-90.053703,753,NA,GT,GT-PE,Carmelita,no,MGCR,CMM,MGCR,,,https://en.wikipedia.org/wiki/Carmelita_Airport,
@@ -10060,6 +10068,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 308462,ZLZW,medium_airport,Zhongwei Shapotou Airport,37.573125,105.154454,4088,AS,CN,CN-64,Zhongwei (Shapotou),yes,ZLZW,ZHY,ZLZW,,,https://en.wikipedia.org/wiki/Zhongwei_Shapotou_Airport,
 44221,ZLZY,small_airport,Zhangye Ganzhou Airport,38.801899,100.675003,5280,AS,CN,CN-62,Zhangye (Ganzhou),yes,ZLZY,YZY,ZLZY,,,https://en.wikipedia.org/wiki/Zhangye_Ganzhou_Airport,"Zhangye Southeast Air Base, 张掖甘州机场"
 508595,ZM-0045,medium_airport,Kalumbila Airport,-12.25358,25.44432,4354,AF,ZM,ZM-06,Kalumbila,no,,UMB,,,,,
+599038,ZM-0047,small_airport,Chama Airstrip,-11.238236,33.160724,2560,AF,ZM,ZM-10,Chama,no,FLAM,,,FLAM,,,
 29670,ZMAH,medium_airport,Arvaikheer Airport,46.250301361083984,102.802001953125,5932,AS,MN,MN-055,Arvaikheer,yes,ZMAH,AVK,ZMAH,,,https://en.wikipedia.org/wiki/Arvaikheer_Airport,
 29654,ZMAT,medium_airport,Altai Airport,46.376399993896484,96.22109985351562,7260,AS,MN,MN-065,Altai,yes,ZMAT,LTI,ZMAT,,,https://en.wikipedia.org/wiki/Altai_Airport,
 27206,ZMBH,medium_airport,Bayankhongor Airport,46.163299560546875,100.7040023803711,6085,AS,MN,MN-069,Bayankhongor,yes,ZMBH,BYN,ZMBH,,,https://en.wikipedia.org/wiki/Bayankhongor_Airport,
