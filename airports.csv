@@ -25903,10 +25903,12 @@
 17464,"FL97","small_airport","Tangerine Airport",28.760299682617188,-81.60590362548828,125,"NA","US","US-FL","Zellwood","no",,,"FL97","FL97",,,
 17465,"FL98","heliport","Kelly Tractor Company Heliport",25.826578,-80.333485,8,"NA","US","US-FL","Miami","no",,,"FL98","FL98",,,
 17466,"FL99","small_airport","Flying-H Airport",28.876100540161133,-81.88899993896484,80,"NA","US","US-FL","Fruitland Park","no",,,"FL99","FL99",,,
-354502,"FLAA","small_airport","Kawa Airport",-13.704573,29.510608,4364,"AF","ZM","ZM-02",,"no",,,"FLAA",,,,
-354501,"FLAI","small_airport","Amelia Airport",-13.755705,29.338077,4206,"AF","ZM","ZM-02","Mkushi","no",,,"FLAI",,,,
-31136,"FLAT","small_airport","Katete Airport",-14.12030029296875,32.06439971923828,3520,"AF","ZM","ZM-03","Katete","no",,,"FLAT",,,,
+354502,"FLAA","small_airport","Kawa Airport",-13.704573,29.510608,4364,"AF","ZM","ZM-02",,"no","FLAA",,"FLAA",,,,
+599037,"FLAB","small_airport","Kakumbi Airstrip",-13.067913,31.763252,1738,"AF","ZM","ZM-U-A","Kakumbi","no","FLAB",,"FLAB",,,,"Mfuwe"
+354501,"FLAI","small_airport","Amelia Airport",-13.755705,29.338077,4206,"AF","ZM","ZM-02","Mkushi","no","FLAI",,"FLAI",,,,
+31136,"FLAT","small_airport","Katete Airport",-14.118694,32.060995,3520,"AF","ZM","ZM-03","Katete","no",,,"FLAT",,,,
 31922,"FLBA","small_airport","Mbala Airport",-8.85917,31.336399,5454,"AF","ZM","ZM-05","Mbala","no","FLBA","MMQ","FLBA",,,"https://en.wikipedia.org/wiki/Mbala_Airport",
+599039,"FLBW","small_airport","Nabwalya Airstrip",-12.428904,31.977439,1885,"AF","ZM","ZM-10","Nabwalya","no","FLBW",,"FLBW",,,,
 31137,"FLCC","small_airport","Chocha Airport",-8.428730010986328,29.80590057373047,3270,"AF","ZM","ZM-05","Chocha","no",,,"FLCC",,,,
 29781,"FLCP","small_airport","Chipata Airport",-13.5583,32.5872,3360,"AF","ZM","ZM-03","Chipata","no","FLCP","CIP","FLCP",,,"https://en.wikipedia.org/wiki/Chipata_Airport",
 31139,"FLCS","small_airport","Chinsali Airport",-10.582491,32.079678,4350,"AF","ZM","ZM-10","Chinsali","no",,,"FLCS",,,,
@@ -25933,7 +25935,7 @@
 31152,"FLKU","small_airport","Kanyau Airport",-16.5,22.41699981689453,3448,"AF","ZM","ZM-01","Kanyau","no",,,"FLKU",,,,
 31153,"FLKW","small_airport","Milliken Airport",-14.4506,28.3792,3920,"AF","ZM","ZM-02","Kabwe","no","FLKW",,"FLKW",,,"https://en.wikipedia.org/wiki/Milliken_Airport","QKE"
 32746,"FLKY","small_airport","Kasaba Bay Airport",-8.525,30.663,2780,"AF","ZM","ZM-05","Kasaba Bay","no","FLKY","ZKB","FLKY",,,"https://en.wikipedia.org/wiki/Kasaba_Bay_Airport",
-30090,"FLKZ","small_airport","Lukuzi Airport",-12.81190013885498,32.06489944458008,1801,"AF","ZM","ZM-03","Nansolo","no",,,"FLKZ",,,,
+30090,"FLKZ","small_airport","Lukuzi Airport",-12.847881,32.035818,1801,"AF","ZM","ZM-03","Nansolo","no","FLKZ",,"FLKZ",,,,"Mwanya"
 30087,"FLLA","small_airport","Luanshya Zambia Airport",-13.143052,28.426517,4101,"AF","ZM","ZM-08","Luanshya","no","FLLA",,"FLLA",,,"https://en.wikipedia.org/wiki/Luanshya_Airport",
 2892,"FLLC","medium_airport","Lusaka City Airport",-15.4138,28.3307,4200,"AF","ZM","ZM-09","Lusaka","no","FLLC",,"FLLC",,,"https://en.wikipedia.org/wiki/Lusaka_City_Airport",
 31154,"FLLD","small_airport","Lundazi Airport",-12.28600025177002,33.18600082397461,3750,"AF","ZM","ZM-03","Lundazi","no",,,"FLLD",,,,
@@ -27465,6 +27467,7 @@
 598884,"FR-1290","heliport","(Duplicate)HMP DZ",50.912623,1.764706,,"EU","FR","FR-HDF","Peuplingues","no",,,,,,,
 599006,"FR-1291","heliport","St FOLQUIN DZ",50.946302,2.126691,,"EU","FR","FR-HDF","Saint-Folquin","no",,,,,,,
 599007,"FR-1292","heliport","St Vaast DZ",50.19355,3.429451,,"EU","FR","FR-HDF","St Vaast-en-cis","no",,,,,,,
+599028,"FR-1293","heliport","LONGUEUIL SAINTE MARIE DZ",49.34388,2.716616,,"EU","FR","FR-HDF","Longueuil-sainte-marie","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assumption Island Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assumption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -27781,7 +27784,7 @@
 31327,"FZCD","small_airport","Vanga Airport",-4.4,18.466999,1312,"AF","CD","CD-KL","Vanga","no","FZCD",,"FZCD",,,"https://en.wikipedia.org/wiki/Vanga_Airport",
 31863,"FZCE","closed","Lusanga Airport",-4.8,18.716999,1365,"AF","CD","CD-KL","Lusanga","no",,,,,,"https://en.wikipedia.org/wiki/Lusanga_Airport","FZCE, LUS"
 31328,"FZCF","small_airport","Kahemba Airport",-7.341012,18.989182,3425,"AF","CD","CD-KG","Kahemba","no","FZCF",,"FZCF",,,,
-525297,"FZCG","small_airport","Tembo Airport",-7.699422,17.342288,2116,"AF","CD","CD-U-A",,"no",,,"FZCG",,,,
+525297,"FZCG","small_airport","Tembo Airport",-7.699422,17.342288,2116,"AF","CD","CD-KG",,"no",,,"FZCG",,,,
 31329,"FZCI","small_airport","Banga Airport",-5.458965,20.462208,2493,"AF","CD","CD-KS","Banga","no","FZCI",,"FZCI",,,"https://en.wikipedia.org/wiki/Banga_Airport",
 31330,"FZCK","small_airport","Kajiji Airport",-7.647706,18.49617,3510,"AF","CD","CD-KG","Kajiji","no","FZCK",,"FZCK",,,,
 31331,"FZCL","small_airport","Banza Lute Airport",-4.199999809265137,17.83300018310547,1476,"AF","CD","CD-KL","Banza Lute","no",,,"FZCL",,,,
@@ -27906,7 +27909,7 @@
 525974,"FZQC","small_airport","Pweto Airport",-8.400768,28.926285,3625,"AF","CD","CD-HK","Pweto","no","FZQC","PWO","FZQC",,,"https://en.wikipedia.org/wiki/Pweto_Airport",
 31437,"FZQD","small_airport","Mulungwishi Airport",-10.75,26.632999420166016,3500,"AF","CD","CD-HK","Mulungwishi","no",,,"FZQD",,,,
 31438,"FZQF","small_airport","Fungurume Airport",-10.530346,26.325903,3855,"AF","CD","CD-LU","Fungurume","no","FZQF",,"FZQF",,,"https://en.wikipedia.org/wiki/Fungurume_Airport",
-31739,"FZQG","small_airport","Kasenga Airport",-10.35,28.632999,3146,"AF","CD","CD-HK","Kasenga","no","FZQG","KEC","FZQG",,,"https://en.wikipedia.org/wiki/Kasenga_Airport",
+31739,"FZQG","small_airport","Kasenga Airport",-10.355228,28.617243,3146,"AF","CD","CD-HK","Kasenga","no","FZQG","KEC","FZQG",,,"https://en.wikipedia.org/wiki/Kasenga_Airport",
 31439,"FZQH","small_airport","Katwe Airport",-10.55,27.85,5577,"AF","CD","CD-HK","Katwe","no","FZQH",,"FZQH",,,"https://en.wikipedia.org/wiki/Katwe_Airport",
 31440,"FZQI","closed","Kamatanda Airport",-10.833,26.75,4261,"AF","CD","CD-HK","Kamatanda","no",,,,,,"https://en.wikipedia.org/wiki/Kamatanda_Airport","FZQI"
 31441,"FZQJ","small_airport","Mwadingusha Airport",-10.756564,27.215524,3707,"AF","CD","CD-HK","Mwadingusha","no","FZQJ",,"FZQJ",,,"https://en.wikipedia.org/wiki/Mwadingusha_Airport",
@@ -27985,7 +27988,7 @@
 513662,"GA-0007","small_airport","Achouka Airport",-0.099464,11.777114,552,"AF","GA","GA-6","Achouka","no",,,,,,,
 513663,"GA-0008","small_airport","Tsengué Leledi Airstrip",-0.144131,12.187929,726,"AF","GA","GA-6","Tsengué Leledi Falls","no",,,,,,,
 513665,"GA-0009","small_airport","Milolé Airstrip",-0.539352,12.633707,938,"AF","GA","GA-7","Milolé","no",,,,,,,
-513668,"GA-0010","small_airport","Mboungou Airstrip",-1.311,13.2722,1116,"AF","GA","GA-U-A","Mboungou","no",,,,,,,
+513668,"GA-0010","small_airport","Mboungou Airstrip",-1.311,13.2722,1116,"AF","GA","GA-2","Mboungou","no",,,,,,,
 550255,"GA-0011","small_airport","Petit Bambam Airport",-0.483557,9.592044,299,"AF","GA","GA-1","Petit Bam-Bam","no",,,,,,"https://en.wikipedia.org/wiki/Petit_Bambam_Airport",
 31201,"GA-0012","closed","Cocobeach Airport",0.980448,9.571932,69,"AF","GA","GA-1","Cocobeach","no",,,,,,,"FOOC, FOOC"
 312228,"GA-0013","closed","Bongo Airport",-2.1713,10.2088,120,"AF","GA","GA-8","Bongo","no",,,,,,,"BGP, BGP"
@@ -30315,7 +30318,7 @@
 526529,"HLRG","small_airport","Raguba Airport",29.099444,19.042222,220,"AF","LY","LY-WA","Adjabiya","no",,,"HLRG",,,,
 31604,"HLSA","small_airport","Sarir (C-4) Airport",27.662399291992188,22.50860023498535,400,"AF","LY","LY-WA","Sarir","no",,,"HLSA",,,,
 526533,"HLSB","small_airport","Sabah Airport",28.2225,18.109444,949,"AF","LY","LY-JU",,"no",,,"HLSB",,,,
-525139,"HLSH","small_airport","Sahil Airport",29.54,20.17,105,"AF","LY","LY-U-A",,"no",,,"HLSH",,,,
+525139,"HLSH","small_airport","Sahil Airport",29.542447,20.17107,105,"AF","LY","LY-WA",,"no",,,"HLSH",,,,
 3232,"HLTD","medium_airport","Ghadames East Airport",30.151699,9.71531,1122,"AF","LY","LY-NL","Ghadames","no","HLTD","LTD","HLTD",,,"https://en.wikipedia.org/wiki/Ghadames_Airport",
 32467,"HLTQ","small_airport","Tobruk International Airport",31.861,23.907,519,"AF","LY","LY-BU","Adam","yes",,"TOB","HLTQ",,,"https://en.wikipedia.org/wiki/Tobruk_Airport","Gamal Abdel Nasser"
 32195,"HLUB","small_airport","Ubari Airport",26.567499,12.8231,1528,"AF","LY","LY-WD","Ubari","no","HLUB","QUB","HLUB",,,"https://en.wikipedia.org/wiki/Ubari_Airport",
@@ -44200,12 +44203,12 @@
 31872,"LYKV","medium_airport","Morava Airport",43.817519,20.586662,686,"EU","RS","RS-18","Kraljevo","yes","LYKV","KVO","LYKV",,,"https://en.wikipedia.org/wiki/Morava_Airport","Lađevci Airport"
 320389,"LYLE","small_airport","Leskovac / Mira Sport Airfield",43.019665,21.931963,738,"EU","RS","RS-23","Leskovac","no",,,"LYLE",,,"https://en.wikipedia.org/wiki/Mira_Airfield","Аеродром Мира, Sasha Mitrovic Aero Club"
 4612,"LYNI","medium_airport","Niš Constantine the Great Airport",43.337009,21.85451,648,"EU","RS","RS-20","Niš","yes","LYNI","INI","LYNI",,,"https://en.wikipedia.org/wiki/Ni%C5%A1_Constantine_the_Great_Airport","Aerodrom Konstantin Veliki Niš"
-42779,"LYNK","small_airport","Nikšić Airfield",42.773039,18.916311,2008,"EU","ME","ME-12","Nikšić","no",,,"LYNK",,,"https://en.wikipedia.org/wiki/Nik%C5%A1i%C4%87_Airport","Аеродром Никшић, Aerodrom Nikšić, Kapino Polje Airport"
+42779,"LYNK","small_airport","Nikšić Airfield",42.773039,18.916311,2008,"EU","ME","ME-12","Nikšić","no","LYNK",,"LYNK",,,"https://en.wikipedia.org/wiki/Nik%C5%A1i%C4%87_Airport","Аеродром Никшић, Aerodrom Nikšić, Kapino Polje Airport"
 32190,"LYNS","small_airport","Novi Sad / Čenej Airfield",45.38531,19.833326,266,"EU","RS","RS-06","Čenej","no",,,"LYNS",,,"https://en.wikipedia.org/wiki/Novi_Sad_Airfield",
 313480,"LYPA","small_airport","Pančevo Airfield",44.9,20.641002,245,"EU","RS","RS-04","Pančevo","no",,,"LYPA",,,"https://en.wikipedia.org/wiki/Pan%C4%8Devo_Airport","QBG"
 4613,"LYPG","large_airport","Podgorica Airport / Podgorica Golubovci Airbase",42.359402,19.2519,141,"EU","ME","ME-16","Podgorica","yes","LYPG","TGD","LYPG",,"https://montenegroairports.com/en/podgorica-airport/","https://en.wikipedia.org/wiki/Podgorica_Airport","Podgorica Airbase, Golubovci Airbase, Аеродром Подгорица, Aerodrom Podgorica"
 320360,"LYPN","small_airport","Paracín / Davidovac Airfield",43.866389,21.486944,144,"EU","RS","RS-12","Paraćin","no",,,"LYPN",,,"https://en.wikipedia.org/wiki/Para%C4%87in_Airfield","Davidovic"
-42778,"LYPO","small_airport","Ćemovsko Polje / Špiro Mugoša Airfield",42.422318,19.290777,197,"EU","ME","ME-16","Podgorica","no",,,"LYPO",,,"https://en.wikipedia.org/wiki/%C5%A0piro_Mugo%C5%A1a_Airport",
+42778,"LYPO","small_airport","Ćemovsko Polje / Špiro Mugoša Airfield",42.422306,19.291018,197,"EU","ME","ME-16","Podgorica","no","LYPO",,"LYPO",,,"https://en.wikipedia.org/wiki/%C5%A0piro_Mugo%C5%A1a_Airport",
 308327,"LYSM","small_airport","Sremska Mitrovica / Veliki Radinci Airfield",45.037414,19.660184,310,"EU","RS","RS-07","Veliki Radinci","no",,,"LYSM",,"https://www.facebook.com/Sportski-aerodrom-Veliki-Radinci-308066089346099/","https://en.wikipedia.org/wiki/Sremska_Mitrovica_Airport","Uncontrolled, small, grass"
 46639,"LYSP","small_airport","Smederevska Palanka / Rudine Airfield",44.351474,20.959996,344,"EU","RS","RS-10","Smederevska Palanka","no",,,"LYSP",,,"https://en.wikipedia.org/wiki/Smederevska_Palanka_Airfield",
 308323,"LYSU","small_airport","Subotica / Bikovo Sport Aerodrome",46.022837,19.706454,340,"EU","RS","RS-01","Bikovo","no",,,"LYSU",,"http://aeroklubivansaric.rs","https://en.wikipedia.org/wiki/Subotica_Airport","Bikovo Airport, Aerodrom Subotica, Aeroklub Ivan Sarić, Skydive Subotica, Суботица, Биково"
@@ -44242,7 +44245,7 @@
 30432,"LZSV","small_airport","Spišská Nová Ves Airfield",48.940833,20.533889,,"EU","SK","SK-KI","Spišská Nová Ves","no",,,"LZSV",,"http://www.lzsv.sk","https://sk.wikipedia.org/wiki/Letisko_Spi%C5%A1sk%C3%A1_Nov%C3%A1_Ves","Spišská Nová Ves"
 315500,"LZSY","small_airport","Šurany Airfield",48.075971,18.114002,394,"EU","SK","SK-NJ","Šurany","no",,,"LZSY",,,"https://sk.wikipedia.org/wiki/Letisko_%C5%A0urany",
 4622,"LZTN","small_airport","Trenčín Airfield",48.865002,17.9923,676,"EU","SK","SK-TC","Trenčín","no",,,"LZTN",,,"https://en.wikipedia.org/wiki/Tren%C4%8D%C3%ADn_Airfield",
-29716,"LZTR","small_airport","Trnava Airfield",48.451959,17.531818,656,"EU","SK","SK-TA","Boleráz","no",,,"LZTR",,"http://www.aktrnava.sk",,"Aeroklub Trnava, Letisko Boleráz, Letisko Trnava"
+29716,"LZTR","small_airport","Trnava Airfield",48.451959,17.531818,656,"EU","SK","SK-TA","Boleráz","no","LZTR",,"LZTR",,"http://www.aktrnava.sk",,"Aeroklub Trnava, Letisko Boleráz, Letisko Trnava"
 4623,"LZTT","medium_airport","Poprad-Tatry Airport",49.073601,20.2411,2356,"EU","SK","SK-PV","Poprad","yes","LZTT","TAT","LZTT",,"https://www.popradtatry.aero/","https://en.wikipedia.org/wiki/Poprad-Tatry_Airport",
 4624,"LZZI","medium_airport","Žilina-Dolný Hričov Airport",49.233292,18.613386,1020,"EU","SK","SK-ZI","Dolný Hričov","no","LZZI","ILZ","LZZI",,,"https://en.wikipedia.org/wiki/%C5%BDilina_Airport",
 21735,"M00","seaplane_base","Augusta Seaplane Base",44.267601013183594,-69.78170013427734,23,"NA","US","US-ME","Augusta","no",,,"M00","M00",,,
@@ -44601,7 +44604,7 @@
 356089,"MG-0018","small_airport","Lodge des Terre Blanches Airport",-15.14858,47.07741,87,"AF","MG","MG-M","Ambovolavo","no",,,,,,,
 356090,"MG-0019","small_airport","Antetikireja Airport",-14.71884,47.47426,52,"AF","MG","MG-M","Antetikireja","no",,,,,,,
 508323,"MG-0020","small_airport","Ankokoambo Airport",-16.594919,44.453654,29,"AF","MG","MG-M","Ankokoambo","no",,"NKO",,,,,
-525175,"MG-0021","small_airport","Relais de la Reine Airport",-22.645343,45.323914,,"AF","MG","MG-U-A","Isalo","no",,"RLR",,,,,
+525175,"MG-0021","small_airport","Relais de la Reine Airport",-22.645343,45.323914,2713,"AF","MG","MG-U","Isalo","no",,"RLR",,,"https://lerelaisdelareine.com/hotel-madagascar-isalo-aerodrome/?lang=en",,
 525780,"MG-0022","small_airport","Fihaonana Aerodrome",-18.574666,47.238588,4511,"AF","MG","MG-T","Analamanga","no",,,,,,,
 31688,"MG-0023","closed","Ambanja Airport",-13.644528,48.456595,36,"AF","MG","MG-D","Ambanja","yes",,,,,,,"FMNJ"
 30933,"MG-DOA","small_airport","Doany Airport",-14.3681001663208,49.510799407958984,,"AF","MG","MG-D","Doany","no",,"DOA",,,,,
@@ -44886,7 +44889,7 @@
 351858,"ML-0004","heliport","Léré Heliport",15.73166,-4.90416,883,"AF","ML","ML-6","Léré","no",,,,,,,
 353595,"ML-0005","heliport","Ansongo Heliport",15.705131,0.489117,833,"AF","ML","ML-7","Ansongo","no",,,,,,,
 430164,"ML-0006","heliport","Aguelhok Heliport",19.46321,0.86547,,"AF","ML","ML-8","Aguelhok","no",,,,,,,
-528458,"ML-0007","heliport","MANAKA",15.930603,2.376193,,"AF","ML","ML-U-A",,"no",,,,,,,
+528458,"ML-0007","heliport","Ménaka Heliport",15.930603,2.376193,947,"AF","ML","ML-7","Ménaka","no",,,,,,,
 31508,"ML-0008","closed","Ke-Macina Airport",13.966876,-5.382999,902,"AF","ML","ML-4","Ke-Macina","no",,,,,,,"GAKM, GAKM"
 31511,"ML-0009","closed","Markala Airport",13.7,-6.067,1251,"AF","ML","ML-4","Markala","no",,,,,,"https://en.wikipedia.org/wiki/Markala_Airport","GAMA"
 31910,"MLIP","small_airport","Mili Island Airport",6.084754,171.731419,4,"OC","MH","MH-MIL","Mili Island","yes",,"MIJ","1Q9","1Q9",,"https://en.wikipedia.org/wiki/Mili_Airport",
@@ -53546,7 +53549,7 @@
 505688,"RE-0006","small_airport","Saint-Leu Paraglider Field",-21.15235,55.27887,,"AF","RE","RE-SP","Saint-Leu","no",,,,,,,
 505689,"RE-0007","heliport","Cilaos Heliport",-21.139823,55.475512,,"AF","RE","RE-SR","Cilaos","no",,,,,,,
 530121,"RE-0008","small_airport","Cambaie Airfield",-20.963333,55.281667,45,"AF","RE","RE-SP",,"no",,,,"LF9742",,"https://fr.wikipedia.org/wiki/Base_ULM_de_Cambaie",
-530233,"RE-0009","small_airport","Grand Coude Altisurface",-21.288889,55.623611,3250,"AF","RE","RE-U-A","Grand Coude","no",,,,"LF9743",,,
+530233,"RE-0009","small_airport","Grand Coude Altisurface",-21.288889,55.623611,3250,"AF","RE","RE-SR","Grand Coude","no",,,,"LF9743",,,
 301586,"RH8H","heliport","N 210 Helipad",37.754574,126.595346,415,"AS","KR","KR-41",,"no",,,"RK8H","RK8H",,,
 314557,"RHT","small_airport","Alxa Right Banner Badanjilin Airport",39.225,101.546,4659,"AS","CN","CN-15","Badanjilin","yes","ZBAR","RHT","ZBAR",,,"https://en.wikipedia.org/wiki/Alxa_Right_Banner_Badanjilin_Airport",
 24341,"RI01","heliport","Kent County Memorial Hospital Heliport",41.70539855957031,-71.47699737548828,104,"NA","US","US-RI","Warwick","no",,,"RI01","RI01",,,
@@ -63861,7 +63864,7 @@
 510076,"TR-0222","heliport","Yenidoğan South Border Post Helipad",39.677538,44.474185,,"AS","TR","TR-76","Yenidoğan","no",,,,,,,
 510077,"TR-0223","heliport","4th Battalion (Frontier Guard) Heliport",39.644556,44.472939,,"AS","TR","TR-04","Güngören","no",,,,,,,
 516468,"TR-0224","small_airport","Assos Aviation Village Airport",39.49862,26.35856,407,"AS","TR","TR-17","Ayvacık","no",,,,,,,"Assos Havacılık Köyü"
-517155,"TR-0225","heliport","Dicle University Kalp Hospital Heliport",37.924953,40.256214,1967,"AS","TR","TR-U-A","Diyarbakir","no",,,,,,,
+517155,"TR-0225","heliport","Dicle University Kalp Hospital Heliport",37.924953,40.256214,1967,"AS","TR","TR-21","Diyarbakir","no",,,,,,,
 517549,"TR-0226","heliport","Darıca Farabi State Hospital Heliport",40.769994,29.405651,369,"AS","TR","TR-41","Darıca","no",,,,,"https://daricafarabieah.saglik.gov.tr/EN-390168/history.html",,
 517892,"TR-0227","heliport","Tarlabaşı Border Post Helipad",39.755485,44.545165,,"AS","TR","TR-76","Gödekli","no",,,,,,,
 517893,"TR-0228","heliport","Yenidoğan North Border Post Helipad",39.722134,44.502979,,"AS","TR","TR-76","Yenidoğan","no",,,,,,,
@@ -63940,6 +63943,7 @@
 44779,"TR-0302","closed","Alaşehir Airport",38.369999,28.5571,,"AS","TR","TR-45","Alaşehir","no",,,,,,,"LTBC"
 598475,"TR-0303","heliport","Serik Bus Station Helipad",36.913289,31.083723,90,"AS","TR","TR-07","Serik","no","XXXX","XXX",,,,,
 598713,"TR-0304","closed","Yenisehir Airfield",40.243117,29.510874,,"AS","TR","TR-16",,"no",,,,,,,
+599026,"TR-0305","heliport","Newant Olympos Health Resort Helipad",36.369341,30.423544,,"AS","TR","TR-07","Kumluca","no",,,,,,,
 43074,"TRPG","medium_airport","John A. Osborne Airport",16.791401,-62.193298,550,"NA","MS","MS-SP","Gerald's Park","yes","TRPG","MNI","TRPG",,,"https://en.wikipedia.org/wiki/John_A._Osborne_Airport","Gerald's Airport, Brades"
 25017,"TS00","small_airport","Fuller Airport",32.787314,-97.180499,490,"NA","US","US-TX","Fort Worth","no",,,"TS00","TS00",,,
 25019,"TS02","small_airport","One Sixty Four Place Airport",33.119598388671875,-98.23059844970703,1200,"NA","US","US-TX","Jacksboro","no",,,"TS02","TS02",,,
@@ -82831,9 +82835,9 @@
 505038,"ZA-0313","heliport","Kinkelbos Heliport",-33.64509,25.87882,384,"AF","ZA","ZA-EC","Kinkelbos","no",,,,,,,
 505119,"ZA-0314","small_airport","Dorchester Farm Airport",-25.47443,23.74773,,"AF","ZA","ZA-NW","Bray","no",,,,,,,
 505120,"ZA-0315","small_airport","Bray East Airport",-25.47992,23.73199,,"AF","ZA","ZA-NW","Bray","no",,,,,,,
-505523,"ZA-0316","small_airport","Himeville Airfield",-29.74906,29.50408,5349,"AF","ZA","ZA-U-A","Himeville","no",,,,,"https://za.geoview.info/himeville_airfield,95975029w",,
+505523,"ZA-0316","small_airport","Himeville Airfield",-29.74906,29.50408,5349,"AF","ZA","ZA-NL","Himeville","no",,,,,"https://za.geoview.info/himeville_airfield,95975029w",,
 505708,"ZA-0317","small_airport","Eagles Creek Aviation Estate Airport",-25.907632,28.035825,4841,"AF","ZA","ZA-GT","Pretoria","no",,,,,"https://eaglescreek.net/",,
-516865,"ZA-0318","heliport","Highveld Hospital Heliport",-26.491786,29.231989,5331,"AF","ZA","ZA-U-A","Trichardt","no",,,,,"https://www.mediclinic.co.za/en/highveld/home.html",,"Secunda"
+516865,"ZA-0318","heliport","Highveld Hospital Heliport",-26.491786,29.231989,5331,"AF","ZA","ZA-MP","Trichardt","no",,,,,"https://www.mediclinic.co.za/en/highveld/home.html",,"Secunda"
 516866,"ZA-0319","balloonport","Anglo Coal Highveld Hospital Heliport",-25.917384,29.199981,5193,"AF","ZA","ZA-MP","eMalahleni","no",,,,,,,"New entry."
 517183,"ZA-0320","small_airport","Grasslands Airfield",-25.828611,28.092778,4559,"AF","ZA","ZA-GT","Centurion","no",,,,,"https://grasslandsflyingclub.co.za",,"Grasslands flying club, microlight, drone, school, centurion"
 518727,"ZA-0321","small_airport","Black Oystercatcher",-34.631111,19.8275,45,"AF","ZA","ZA-WC","Bredasdrop","no",,,,,,,
@@ -83030,6 +83034,7 @@
 353214,"ZM-0044","small_airport","Siame Gardens Airport",-12.90538,28.30679,3960,"AF","ZM","ZM-08","Kitwe","no",,,,,,,
 508595,"ZM-0045","medium_airport","Kalumbila Airport",-12.25358,25.44432,4354,"AF","ZM","ZM-06","Kalumbila","no",,"UMB",,,,,
 31138,"ZM-0046","closed","Choma Airport",-16.783001,27,4300,"AF","ZM","ZM-07","Choma","no",,,,,,,"FLCH, FLCH"
+599038,"ZM-0047","small_airport","Chama Airstrip",-11.238236,33.160724,2560,"AF","ZM","ZM-10","Chama","no","FLAM",,,"FLAM",,,
 29670,"ZMAH","medium_airport","Arvaikheer Airport",46.250301361083984,102.802001953125,5932,"AS","MN","MN-055","Arvaikheer","yes","ZMAH","AVK","ZMAH",,,"https://en.wikipedia.org/wiki/Arvaikheer_Airport",
 29654,"ZMAT","medium_airport","Altai Airport",46.376399993896484,96.22109985351562,7260,"AS","MN","MN-065","Altai","yes","ZMAT","LTI","ZMAT",,,"https://en.wikipedia.org/wiki/Altai_Airport",
 354382,"ZMAZ","small_airport","Mazongshan Airport",42.308371,97.077148,5462,"AS","CN","CN-62","Mazongshan","no",,,"ZMAZ",,,,
