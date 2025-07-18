@@ -2224,8 +2224,17 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 354501,FLAI,small_airport,Amelia Airport,-13.755705,29.338077,4206,AF,ZM,ZM-02,Mkushi,no,FLAI,,FLAI,,,,
 31922,FLBA,small_airport,Mbala Airport,-8.85917,31.336399,5454,AF,ZM,ZM-05,Mbala,no,FLBA,MMQ,FLBA,,,https://en.wikipedia.org/wiki/Mbala_Airport,
 599039,FLBW,small_airport,Nabwalya Airstrip,-12.428904,31.977439,1885,AF,ZM,ZM-10,Nabwalya,no,FLBW,,FLBW,,,,
+31137,FLCC,small_airport,Chocha Airport,-8.43184,29.805057,3270,AF,ZM,ZM-05,Chocha,no,FLCC,,FLCC,,,,
+599040,FLCF,small_airport,Chifunda Airstrip,-11.884965,32.568551,2078,AF,ZM,ZM-10,Chifunda,no,FLCF,,FLCF,,,,
+599041,FLCG,small_airport,Chilongolo Airport,-15.496356,28.172259,4055,AF,ZM,ZM-09,Chilongolo,no,FLCG,,FLCG,,,,
 29781,FLCP,small_airport,Chipata Airport,-13.5583,32.5872,3360,AF,ZM,ZM-03,Chipata,no,FLCP,CIP,FLCP,,,https://en.wikipedia.org/wiki/Chipata_Airport,
-318932,FLCU,small_airport,Chunga Airstrip,-15.053957,25.985673,3632,AF,ZM,ZM-02,Chunga,no,,CGX,FLCU,,,,
+318932,FLCU,small_airport,Chunga Airstrip,-15.053957,25.985673,3632,AF,ZM,ZM-02,Chunga,no,FLCU,CGX,FLCU,,,,
+31141,FLEB,small_airport,East Two Airport,-11.108281,30.359645,3900,AF,ZM,ZM-05,Mofu,no,FLEB,,FLEB,,,,
+31142,FLEC,small_airport,East Three Airport,-14.116653,30.129175,2300,AF,ZM,ZM-02,Luano,no,FLEC,,FLEC,,,,
+30605,FLEE,small_airport,East Five Airport,-10.539075,33.406194,4200,AF,ZM,ZM-10,Chidulka,no,FLEE,,FLEE,,,,
+31144,FLEF,small_airport,East Six Airport,-11.135792,30.015396,3800,AF,ZM,ZM-05,Chiwanangala,no,FLEF,,FLEF,,,,
+31145,FLEG,small_airport,East Seven Airport,-12.41734,29.483342,4000,AF,ZM,ZM-04,Kanshela,no,FLEG,,FLEG,,,,
+31146,FLEH,small_airport,East Eight Airport,-12.150273,29.437594,4000,AF,ZM,ZM-04,Kapu,no,FLEH,,FLEH,,,,
 316480,FLJK,small_airport,Jeki Airport,-15.6334,29.6036,1165,AF,ZM,ZM-09,Jeki,no,,JEK,FLJK,,,https://en.wikipedia.org/wiki/Jeki_Airstrip,
 2891,FLKE,medium_airport,Kasompe Airport,-12.5728,27.8939,4636,AF,ZM,ZM-08,Chingola,no,FLKE,CGJ,FLKE,,,https://en.wikipedia.org/wiki/Kasompe_Airport,
 31756,FLKL,small_airport,Kalabo Airport,-14.998818,22.648372,3450,AF,ZM,ZM-01,Kalabo,no,FLKL,KLB,FLKL,,,https://en.wikipedia.org/wiki/Kalabo_Airport,
@@ -2240,6 +2249,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31869,FLLK,small_airport,Lukulu Airport,-14.375891,23.248648,3480,AF,ZM,ZM-01,Lukulu,no,FLLK,LXU,FLLK,,,https://en.wikipedia.org/wiki/Lukulu_Airport,
 2894,FLLS,large_airport,Kenneth Kaunda International Airport,-15.330833,28.452722,3779,AF,ZM,ZM-09,Lusaka,yes,FLKK,LUN,FLKK,,http://www.nacl.co.zm/?page_id=336,https://en.wikipedia.org/wiki/Kenneth_Kaunda_International_Airport,
 30110,FLMA,small_airport,Mansa Airport,-11.137,28.872601,4101,AF,ZM,ZM-04,Mansa,no,FLMA,MNS,FLMA,,,https://en.wikipedia.org/wiki/Mansa_Airport,
+31158,FLMB,small_airport,Maamba Airport,-17.367401,27.185162,2050,AF,ZM,ZM-07,Maamba,no,FLMB,,FLMB,,,,
 2895,FLMF,medium_airport,Mfuwe Airport,-13.258899688720703,31.936599731445312,1853,AF,ZM,ZM-03,Mfuwe,yes,FLMF,MFU,FLMF,,,https://en.wikipedia.org/wiki/Mfuwe_Airport,
 2896,FLMG,medium_airport,Mongu Airport,-15.2545,23.1623,3488,AF,ZM,ZM-01,Mongu,no,FLMG,MNR,FLMG,,,https://en.wikipedia.org/wiki/Mongu_Airport,
 32742,FLNA,small_airport,Ngoma Airport,-15.9658,25.9333,3400,AF,ZM,ZM-07,Ngoma,no,FLNA,ZGM,FLNA,,,https://en.wikipedia.org/wiki/Ngoma_Airport,
@@ -2462,11 +2472,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 312835,FUB,small_airport,Fulleborn Airport,-6.1518,150.6264,36,OC,PG,PG-WBK,Fulleborn,no,,FUB,,FUL,,,
 31220,FVBM,small_airport,Bumi Hills Airport,-16.816485,28.344786,1650,AF,ZW,ZW-MW,Bumi,no,,BZH,FVBM,,,,
 3000,FVBU,medium_airport,Joshua Mqabuko Nkomo International Airport,-20.021254,28.626296,4359,AF,ZW,ZW-BU,Bulawayo,yes,FVJN,BUQ,FVJN,,,https://en.wikipedia.org/wiki/Joshua_Mqabuko_Nkomo_International_Airport,FVBU
+31223,FVCD,small_airport,Chirundu Airport,-15.998082,28.899056,1310,AF,ZW,ZW-MW,Chirundu,no,FVCD,,FVCD,,,,
 30828,FVCH,small_airport,Chipinge Airport,-20.206699,32.6283,3720,AF,ZW,ZW-MA,Chipinge,no,FVCH,CHJ,FVCH,,,https://en.wikipedia.org/wiki/Chipinge_Airport,
 3001,FVCN,small_airport,Centenary Airport,-16.7341,31.122,4058,AF,ZW,ZW-MC,,no,FVCN,,FVCN,,,https://en.wikipedia.org/wiki/Centenary_Airport,
 3002,FVCP,small_airport,Charles Prince Airport,-17.7516,30.9247,4845,AF,ZW,ZW-HA,Harare,no,FVCP,,FVCP,,,https://en.wikipedia.org/wiki/Charles_Prince_Airport,
 3003,FVCZ,medium_airport,Buffalo Range Airport,-21.008101,31.5786,1421,AF,ZW,ZW-MV,Chiredzi,no,FVCZ,BFO,FVCZ,,https://www.caaz.co.zw/buffalo-range-airport,https://en.wikipedia.org/wiki/Buffalo_Range_Airport,
 3004,FVFA,medium_airport,Victoria Falls International Airport,-18.09589958190918,25.839000701904297,3490,AF,ZW,ZW-MN,Victoria Falls,yes,FVFA,VFA,FVFA,,,https://en.wikipedia.org/wiki/Victoria_Falls_Airport,
+31232,FVFG,small_airport,Fothergill Airport,-16.704523,28.660112,1630,AF,ZW,ZW-MW,Fothergill Island,no,FVFG,,FVFG,,,,
+329803,FVGG,small_airport,Gachegache Airport,-16.748077,28.930312,1665,AF,ZW,ZW-MW,Gache Gache,no,FVGG,,FVGG,,,,
 30176,FVGR,small_airport,Grand Reef Airport,-18.9775,32.450802,3333,AF,ZW,ZW-MA,Mutare,no,FVGR,,FVGR,,,https://en.wikipedia.org/wiki/Grand_Reef_Airport,
 3005,FVHA,large_airport,Robert Gabriel Mugabe International Airport,-17.931801,31.0928,4887,AF,ZW,ZW-HA,Harare,yes,,HRE,FVRG,,,https://en.wikipedia.org/wiki/Harare_International_Airport,"FVHA,Harare"
 3006,FVKB,medium_airport,Kariba International Airport,-16.5198,28.885,1706,AF,ZW,ZW-MW,Kariba,no,FVKB,KAB,FVKB,,https://www.caaz.co.zw/kariba-airport,https://en.wikipedia.org/wiki/Kariba_Airport,
@@ -2474,10 +2487,13 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31247,FVMA,small_airport,Marondera Airport,-18.183001,31.466999,5370,AF,ZW,ZW-ME,Marondera,no,FVMA,,FVMA,,,https://en.wikipedia.org/wiki/Marondera_Airport,
 3007,FVMD,small_airport,Mount Darwin Airport,-16.769199,31.559799,3240,AF,ZW,ZW-MC,,no,FVMD,,FVMD,,,https://en.wikipedia.org/wiki/Mount_Darwin_Airport,
 314044,FVMH,small_airport,Mahenye Airport,-21.231,32.3336,930,AF,ZW,ZW-MA,Gonarezhou National Park,no,FVMH,MJW,FVMH,,,,
+599048,FVMI,small_airport,Mubayira Airport,-18.316966,30.586681,4102,AF,ZW,ZW-MW,Mubayira,no,FVMI,,FVMI,,,,Mubaira
+317598,FVML,small_airport,Mlibizi Airstrip,-17.9604,27.1184,1980,AF,ZW,ZW-MN,Mlibizi,no,FVML,,FVML,,,,Mibizi
 3008,FVMT,medium_airport,Mutoko Airport,-17.4319,32.184502,3950,AF,ZW,ZW-ME,Mutoko,no,FVMT,,FVMT,,,https://en.wikipedia.org/wiki/Mutoko_Airport,Mtoko
 3009,FVMU,small_airport,Mutare Airport,-18.997499465942,32.627201080322,3410,AF,ZW,ZW-MA,Mutare,no,FVMU,UTA,FVMU,,,https://en.wikipedia.org/wiki/Mutare_Airport,
 3010,FVMV,medium_airport,Masvingo International Airport,-20.0553,30.8591,3595,AF,ZW,ZW-MV,Masvingo,no,FVMV,MVZ,FVMV,,,https://en.wikipedia.org/wiki/Masvingo_Airport,
 3011,FVOT,small_airport,Kotwa Airport,-16.9848,32.672699,2450,AF,ZW,ZW-ME,,no,FVOT,,FVOT,,,https://en.wikipedia.org/wiki/Kotwa_Airport,
+325151,FVRF,small_airport,Rifa Airstrip,-16.31318,28.898235,1350,AF,ZW,ZW-MW,Hurungwe,no,FVRF,,FVRF,,,,"A Camp, Sharu"
 3012,FVSH,small_airport,Zvishavane Airport,-20.289499,30.0882,3012,AF,ZW,ZW-MI,Zvishavane,no,FVSH,,FVSH,,,https://en.wikipedia.org/wiki/Zvishavane_Airport,
 31266,FVTD,small_airport,Tinfields Airport,-19.941665,31.425944,3600,AF,ZW,ZW-MV,Tinfields,no,FVTD,,FVTD,,,,
 3013,FVTL,medium_airport,Gweru - Thornhill Air Base,-19.436718,29.861945,4680,AF,ZW,ZW-MI,Gweru,no,FVTL,GWE,FVTL,,,https://en.wikipedia.org/wiki/Gweru-Thornhill_Air_Base,
@@ -10067,6 +10083,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 300516,ZLYS,medium_airport,Yushu Batang Airport,32.836389,97.036389,12816,AS,CN,CN-63,Yushu (Batang),yes,ZLYS,YUS,ZLYS,,,https://en.wikipedia.org/wiki/Yushu_Batang_Airport,
 308462,ZLZW,medium_airport,Zhongwei Shapotou Airport,37.573125,105.154454,4088,AS,CN,CN-64,Zhongwei (Shapotou),yes,ZLZW,ZHY,ZLZW,,,https://en.wikipedia.org/wiki/Zhongwei_Shapotou_Airport,
 44221,ZLZY,small_airport,Zhangye Ganzhou Airport,38.801899,100.675003,5280,AS,CN,CN-62,Zhangye (Ganzhou),yes,ZLZY,YZY,ZLZY,,,https://en.wikipedia.org/wiki/Zhangye_Ganzhou_Airport,"Zhangye Southeast Air Base, 张掖甘州机场"
+319045,ZM-0021,small_airport,Lochinvar Airport,-16.009561,27.249314,3280,AF,ZM,ZM-07,Bwanda,no,FLLV,,FLLV,,,,
 508595,ZM-0045,medium_airport,Kalumbila Airport,-12.25358,25.44432,4354,AF,ZM,ZM-06,Kalumbila,no,,UMB,,,,,
 599038,ZM-0047,small_airport,Chama Airstrip,-11.238236,33.160724,2560,AF,ZM,ZM-10,Chama,no,FLAM,,,FLAM,,,
 29670,ZMAH,medium_airport,Arvaikheer Airport,46.250301361083984,102.802001953125,5932,AS,MN,MN-055,Arvaikheer,yes,ZMAH,AVK,ZMAH,,,https://en.wikipedia.org/wiki/Arvaikheer_Airport,
@@ -10202,6 +10219,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 301647,ZUYI,medium_airport,Xingyi Wanfenglin Airport,25.083423,104.960804,4150,AS,CN,CN-52,Xingyi,yes,ZUYI,ACX,ZUYI,,,https://en.wikipedia.org/wiki/Xingyi_Wanfenglin_Airport,
 44126,ZUZH,medium_airport,Panzhihua Bao'anying Airport,26.54,101.79852,1620,AS,CN,CN-51,Panzhihua (Renhe),yes,ZUZH,PZI,ZUZH,,,https://en.wikipedia.org/wiki/Panzhihua_Bao'anying_Airport,"Xining Air Base, 攀枝花保安营机场"
 308403,ZUZY,medium_airport,Zunyi Xinzhou Airport,27.810723,107.247189,2723,AS,CN,CN-52,Zunyi,yes,ZUZY,ZYI,ZUZY,,,https://en.wikipedia.org/wiki/Zunyi_Xinzhou_Airport,
+351679,ZW-0057,heliport,Masuwe Heliport,-17.96588,25.81055,3005,AF,ZW,ZW-MN,Masuwe,no,FVME,,FVME,,,,
 30635,ZWAK,medium_airport,Aksu Hongqipo Airport,41.262501,80.291702,3816,AS,CN,CN-65,Aksu (Onsu),yes,ZWAK,AKU,ZWAK,,,https://en.wikipedia.org/wiki/Aksu_Hongqipo_Airport,"Ak-su, Akshu, Aqsu, Bharuka, Po-lu-chia, Aksu Wensu Air Base, Onsu"
 354654,ZWAL,small_airport,Aral Tarim Airport,40.434748,81.26206,,AS,CN,CN-65,Aral,yes,ZWAL,ACF,ZWAL,,,https://en.wikipedia.org/wiki/Aral_Talim_Airport,
 44191,ZWAT,medium_airport,Altay Xuedu Airport,47.749886,88.085808,2460,AS,CN,CN-65,Altay,yes,ZWAT,AAT,ZWAT,,,https://en.wikipedia.org/wiki/Altay_Xuedu_Airport,Altay Air Base
