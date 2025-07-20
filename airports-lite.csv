@@ -5553,24 +5553,34 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4469,LQSA,large_airport,Sarajevo International Airport,43.8246,18.331499,1708,EU,BA,BA-BIH,Sarajevo,yes,LQSA,SJJ,LQSA,,http://www.sarajevo-airport.ba/,https://en.wikipedia.org/wiki/Sarajevo_International_Airport,
 4470,LQTZ,medium_airport,Tuzla International Airport,44.458698,18.7248,784,EU,BA,BA-BIH,Dubrave Gornje,yes,LQTZ,TZL,LQTZ,,http://www.tuzla-airport.ba/,https://en.wikipedia.org/wiki/Tuzla_International_Airport,
 30536,LQVI,small_airport,Visoko Kenan Jusufbasic Airfield,44.025059,18.097114,1470,EU,BA,BA-BIH,Visoko,no,LQVI,,LQVI,,,https://en.wikipedia.org/wiki/Visoko_Sport_Airfield,
+5667,LR79,small_airport,Ianca Airfield,45.158655,27.43093,131,EU,RO,RO-BR,Ianca,no,LRIC,,LRIC,,,https://en.wikipedia.org/wiki/Ianca_Air_Base,LR79
+5668,LR80,medium_airport,Feteşti Borcea Air Base,44.3923,27.7267,180,EU,RO,RO-CL,Borcea,no,LRFT,,LRFT,,http://www.roaf.ro/en/unitati/bz86_en.php,https://en.wikipedia.org/wiki/RoAF_86th_Air_Base,"Fetesti, Cocargeaua Airport, RoAF 86th Air Base"
+5670,LR82,medium_airport,Boboc Air Base,45.2164,26.9786,344,EU,RO,RO-BZ,Boboc,no,LRBO,,LRBO,,,https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Boboc,RoAF Aurel Vlaicu Flight School
 4471,LRAR,medium_airport,Arad International Airport,46.176601,21.261999,352,EU,RO,RO-AR,Arad,yes,LRAR,ARW,LRAR,,,https://en.wikipedia.org/wiki/Arad_International_Airport,
 4472,LRBC,medium_airport,Bacău George Enescu International  Airport,46.5219,26.910299,607,EU,RO,RO-BC,Bacău,yes,LRBC,BCM,LRBC,,http://www.bacauairport.ro/,https://en.wikipedia.org/wiki/Bac%C4%83u_International_Airport,"Bacau, RoAF 95th Air Base"
 4473,LRBM,medium_airport,Maramureș International Airport,47.658444,23.464445,605,EU,RO,RO-MM,Tăuții-Măgherăuș,yes,LRBM,BAY,LRBM,,https://aimm.eu/,https://en.wikipedia.org/wiki/Maramureș_Airport,Baia Mare
 4474,LRBS,medium_airport,Bucharest Băneasa Aurel Vlaicu International Airport,44.503201,26.1021,297,EU,RO,RO-B,Bucharest,yes,LRBS,BBU,LRBS,,http://www.baneasa-airport.ro/,https://en.wikipedia.org/wiki/Aurel_Vlaicu_International_Airport,"BUH, Băneasa, Aurel Vlaicu International, Bucharest City"
 333670,LRBV,medium_airport,Brașov-Ghimbav International Airport,45.70558,25.522871,1740,EU,RO,RO-BV,Brașov (Ghimbav),yes,LRBV,GHV,LRBV,,https://brasovairport.ro/,https://en.wikipedia.org/wiki/Brașov-Ghimbav_International_Airport,Aeroportul Internațional Brașov-Ghimbav
+354769,LRCC,heliport,Oituz (PA&CO) Heliport,46.210684,26.603018,1094,EU,RO,RO-BC,Oituz,no,LRCC,,LRCC,,,,"Helipad Privat Domeniul Casuneanu, Domaine Casuneanu Private Heliport"
+315901,LRCD,small_airport,Măgura Airfield,45.737222,24.165278,1524,EU,RO,RO-SB,Cisnădie,no,LRCD,,LRCD,,https://www.facebook.com/pages/category/Airport/AERODROMUL-MAGURA-219224911475626/,,"magura, romania, avgas, skydiving"
 4475,LRCK,medium_airport,Mihail Kogălniceanu International Airport,44.362202,28.4883,353,EU,RO,RO-CT,Mihail Kogălniceanu,yes,LRCK,CND,LRCK,,,https://en.wikipedia.org/wiki/Mihail_Kog%C4%83lniceanu_International_Airport,"Constanța, Mihail Kogalniceanu, RoAF 57th Air Base"
 4476,LRCL,medium_airport,Cluj Avram Iancu International Airport,46.787425,23.684292,1039,EU,RO,RO-CJ,Cluj-Napoca,yes,LRCL,CLJ,LRCL,,http://www.airportcluj.ro/,https://en.wikipedia.org/wiki/Cluj_International_Airport,Someşeni Airport
 4477,LRCS,medium_airport,Caransebeş Airport,45.420142,22.252507,866,EU,RO,RO-CS,Caransebeş,no,LRCS,CSB,LRCS,,,https://en.wikipedia.org/wiki/Caransebe%C5%9F_Airport,"Caransebes, Reşiţa"
+4478,LRCT,medium_airport,Câmpia Turzii Air Base,46.5023,23.8859,1083,EU,RO,RO-CJ,Câmpia Turzii,no,LRCT,,LRCT,,http://www.roaf.ro/en/unitati/bz71_en.php,https://en.wikipedia.org/wiki/RoAF_71st_Air_Base,"Campia Turzii, Luna Airport, RoAF 71st Air Base"
 4479,LRCV,medium_airport,Craiova International Airport,44.3181,23.888599,626,EU,RO,RO-DJ,Craiova,yes,LRCV,CRA,LRCV,,http://www.aeroportcraiova.ro/,https://en.wikipedia.org/wiki/Craiova_International_Airport,
 4480,LRIA,medium_airport,Iaşi Airport,47.180278,27.620833,411,EU,RO,RO-IS,Iaşi,yes,LRIA,IAS,LRIA,,http://www.aeroport.ro/,https://en.wikipedia.org/wiki/Ia%C5%9Fi_International_Airport,"Iasi, Jassy"
 4481,LROD,medium_airport,Oradea International Airport,47.025299072265625,21.90250015258789,465,EU,RO,RO-BH,Oradea,yes,LROD,OMR,LROD,,,https://en.wikipedia.org/wiki/Oradea_International_Airport,
 4482,LROP,large_airport,Bucharest Henri Coandă International Airport,44.572127,26.103396,314,EU,RO,RO-IF,Otopeni,yes,LROP,OTP,LROP,,http://www.bucharestairports.ro/en/,https://en.wikipedia.org/wiki/Henri_Coand%C4%83_International_Airport,"BUH, Otopeni Airport, RoAF 90th Airlift Base"
+315660,LRPT,small_airport,Geamăna Airfield,44.817504,24.897822,1001,EU,RO,RO-AG,Pitești,no,LRPT,,LRPT,,,,Aerodromul Geamăna
+309711,LRPV,small_airport,Ploiești-Strejnicu Airfield,44.92367,25.963418,240,EU,RO,RO-PH,Strejnicu,no,LRPW,,LRPW,,https://web.archive.org/web/20160507200158/http://ploiesti.aeroclubulromaniei.ro/aerodromul.html,,Gheorghe Valentin Bibescu
 4483,LRSB,medium_airport,Sibiu International Airport,45.785841,24.086666,1496,EU,RO,RO-SB,Sibiu,yes,LRSB,SBZ,LRSB,,http://www.sibiuairport.ro/,https://en.wikipedia.org/wiki/Sibiu_International_Airport,
 4484,LRSM,medium_airport,Satu Mare International Airport,47.7033,22.8857,405,EU,RO,RO-SM,Satu Mare,yes,LRSM,SUJ,LRSM,,,https://en.wikipedia.org/wiki/Satu_Mare_International_Airport,
 4485,LRSV,medium_airport,Suceava Stefan cel Mare Airport,47.6875,26.35409927368164,1375,EU,RO,RO-SV,Suceava,yes,LRSV,SCV,LRSV,,http://www.aeroportsuceava.ro/index_en.html,https://en.wikipedia.org/wiki/Suceava_Airport,
 4486,LRTC,medium_airport,Tulcea Danube Delta Airport,45.0625,28.7143,200,EU,RO,RO-TL,Mihail Kogălniceanu,no,LRTC,TCE,LRTC,,,https://en.wikipedia.org/wiki/Tulcea_Airport,"Cataloi Airport, Aeroportul Delta Dunării Tulcea"
 4487,LRTM,medium_airport,Târgu Mureş Transilvania International Airport,46.467701,24.4125,963,EU,RO,RO-MS,Recea,yes,LRTM,TGM,LRTM,,https://www.aeroportultransilvania.ro/en/,https://en.wikipedia.org/wiki/T%C3%A2rgu_Mure%C5%9F_International_Airport,"Vidrasau, Vidrasău"
 4488,LRTR,medium_airport,Timişoara Traian Vuia Airport,45.809898,21.3379,348,EU,RO,RO-TM,Timişoara,yes,LRTR,TSR,LRTR,,http://www.aerotim.ro/,https://en.wikipedia.org/wiki/Traian_Vuia_International_Airport,"RoAF 93rd Air Base, Giarmata Airport, Temesvár, Temeschburg, Temeswar, Temeschwar, Тимишоара, Темишвар, Temišvar, Banat"
+30501,LRTZ,small_airport,Tuzla Airport,43.984493,28.606225,161,EU,RO,RO-CT,Tuzla,no,LRTZ,,LRTZ,,,https://ro.wikipedia.org/wiki/Aeroportul_Utilitar_Tuzla,"Aerodrom Regional Tuzla, Aeroportul Utilitar Tuzla, Aeroportul Internațional Alexandru Podgoreanu Tuzla, Tuzla Regional Airport"
+599104,LRWG,heliport,West Gate Helipad,44.43341,25.986056,,EU,RO,RO-B,Bucharest,no,LRWG,,LRWG,,https://liviu-tudor.com/west-gate-business-district/,,
 29494,LSGB,small_airport,Bex Airfield,46.258301,6.98639,1312,EU,CH,CH-VD,Bex,no,LSGB,,LSGB,,https://www.aerobex.ch/,https://de.wikipedia.org/wiki/Flugplatz_Bex,Aérodrome de Bex
 4489,LSGC,medium_airport,Les Eplatures Airport,47.083900451699996,6.792840003970001,3368,EU,CH,CH-NE,La Chaux-de-Fonds,no,LSGC,,LSGC,,http://www.leseplaturesairport.ch,https://en.wikipedia.org/wiki/Les_Eplatures_Airport,
 29495,LSGE,small_airport,Ecuvillens Airfield,46.755279,7.075746,2293,EU,CH,CH-FR,Ecuvillens,no,LSGE,,LSGE,,http://www.aerodrome-ecuvillens.ch/,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Fribourg-Ecuvillens,
@@ -7100,8 +7110,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 314489,RKY,small_airport,Rokeby Airport,-13.6434,142.641,362,OC,AU,AU-QLD,Rokeby,no,,RKY,,,,,
 314508,RLP,small_airport,Rosella Plains Airport,-18.4253,144.4587,1855,OC,AU,AU-QLD,Rosella Plains,no,,RLP,,,,,
 24363,RMP,small_airport,Rampart Airport,65.507896,-150.141007,302,NA,US,US-AK,Rampart,yes,,RMP,PFMP,RMP,,https://en.wikipedia.org/wiki/Rampart_Airport,
+315482,RO-0006,small_airport,Sânpetru-Brașov Aerodrome,45.721036,25.633707,1716,EU,RO,RO-BV,Sânpetru,no,LRSP,,LRSP,,,,Aerodromul Sânpetru-Brașov
+315486,RO-0008,small_airport,Elie Carafoli Sport Airfield,46.533241,24.529298,,EU,RO,RO-MS,Târgu Mureș,no,LRMS,,LRMS,,,,"Aeroportul Sportiv Elie Carafoli, Mureșeni"
+320684,RO-0018,heliport,Cobrex Heliport,45.657735,25.55701,1778,EU,RO,RO-BV,Brașov,no,LRCX,,LRCX,,http://cobrexhelicopters.ro,,
+351103,RO-0040,heliport,Năvodari Heliport,44.328998,28.656954,1,EU,RO,RO-CT,Năvodari,no,LRMC,,LRMC,,,,"Midia Harbour, Constanța"
 354838,RO-0054,small_airport,Iaşi Sud,47.15778,27.6375,200,EU,RO,RO-IS,,no,LRIS,,,,,,
+355259,RO-0064,heliport,Crystal Tower Bucharest Helipad,44.452433,26.095448,505,EU,RO,RO-B,Bucharest,no,LRBH,,LRBH,,,https://en.wikipedia.org/wiki/Crystal_Tower_Bucharest,
 598628,RO-0123,heliport,Emergency University Hospital Of Bucharest Heliport,44.436018,26.071093,,EU,RO,RO-B,,no,LRSU,,,,,,
+599109,RO-0135,heliport,Ploiesti Aero Taxi Heliport,44.964956,25.901118,735,EU,RO,RO-PH,Ploiești,no,LRPH,,LRPH,,,,
 5671,ROAH,large_airport,Naha Airport / JASDF Naha Air Base,26.195801,127.646004,12,AS,JP,JP-47,Naha,yes,ROAH,OKA,ROAH,,http://www.naha-airport.co.jp/,https://en.wikipedia.org/wiki/Naha_Airport,"那覇空港, Naha Kūkō?, AHA, Naha AFB"
 5673,RODN,large_airport,Kadena Air Base,26.351667,127.769444,143,AS,JP,JP-47,Okinawa,no,RODN,DNA,RODN,,,https://en.wikipedia.org/wiki/Kadena_Air_Base,
 327608,ROIG,medium_airport,New Ishigaki Airport,24.396389,124.245,102,AS,JP,JP-47,Ishigaki,yes,ROIG,ISG,ROIG,,https://www.ishigaki-airport.co.jp/en/,https://en.wikipedia.org/wiki/New_Ishigaki_Airport,
