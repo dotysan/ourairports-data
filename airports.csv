@@ -43747,9 +43747,9 @@
 356243,"LR-0003","small_airport","Gozohn Camp Airport",6.098453,-9.770522,430,"AF","LR","LR-GB","Gozohn Camp","no",,,,,,,
 429811,"LR-0004","small_airport","Gbarnga Airfield",7.04268,-9.48564,,"AF","LR","LR-BG","Gbarnga","no",,,,,,,
 31535,"LR-0005","closed","Robertsport/Cape Mount Airport",6.755241,-11.3554,10,"AF","LR","LR-CM","Robertsport/Cape Mount","no",,,,,,,"GLCM, GLCM"
-5667,"LR79","small_airport","Aerodrom Ianca",45.152422,27.426604,131,"EU","RO","RO-BR","Ianca","no",,,,,,,
-5668,"LR80","medium_airport","Feteşti Borcea Air Base",44.3923,27.7267,180,"EU","RO","RO-CL","Borcea","no",,,"LRFT",,"http://www.roaf.ro/en/unitati/bz86_en.php","https://en.wikipedia.org/wiki/RoAF_86th_Air_Base","Fetesti, Cocargeaua Airport, RoAF 86th Air Base"
-5670,"LR82","medium_airport","Boboc Air Base",45.2164,26.9786,344,"EU","RO","RO-BZ","Boboc","no",,,"LRBO",,,"https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Boboc","RoAF Aurel Vlaicu Flight School"
+5667,"LR79","small_airport","Ianca Airfield",45.158655,27.43093,131,"EU","RO","RO-BR","Ianca","no","LRIC",,"LRIC",,,"https://en.wikipedia.org/wiki/Ianca_Air_Base","LR79"
+5668,"LR80","medium_airport","Feteşti Borcea Air Base",44.3923,27.7267,180,"EU","RO","RO-CL","Borcea","no","LRFT",,"LRFT",,"http://www.roaf.ro/en/unitati/bz86_en.php","https://en.wikipedia.org/wiki/RoAF_86th_Air_Base","Fetesti, Cocargeaua Airport, RoAF 86th Air Base"
+5670,"LR82","medium_airport","Boboc Air Base",45.2164,26.9786,344,"EU","RO","RO-BZ","Boboc","no","LRBO",,"LRBO",,,"https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Boboc","RoAF Aurel Vlaicu Flight School"
 4471,"LRAR","medium_airport","Arad International Airport",46.176601,21.261999,352,"EU","RO","RO-AR","Arad","yes","LRAR","ARW","LRAR",,,"https://en.wikipedia.org/wiki/Arad_International_Airport",
 4472,"LRBC","medium_airport","Bacău George Enescu International  Airport",46.5219,26.910299,607,"EU","RO","RO-BC","Bacău","yes","LRBC","BCM","LRBC",,"http://www.bacauairport.ro/","https://en.wikipedia.org/wiki/Bac%C4%83u_International_Airport","Bacau, RoAF 95th Air Base"
 324127,"LRBG","heliport","IAR Ghimbav Heliport",45.6873,25.527073,1762,"EU","RO","RO-BV","Brașov (Ghimbav)","no",,,"LRBG",,,,"Mir Aero"
@@ -43758,30 +43758,31 @@
 333337,"LRBN","small_airport","Bistrița Airfield",47.158575,24.552311,,"EU","RO","RO-BN","Bistrița","no",,,"LRBN",,,,
 4474,"LRBS","medium_airport","Bucharest Băneasa Aurel Vlaicu International Airport",44.503201,26.1021,297,"EU","RO","RO-B","Bucharest","yes","LRBS","BBU","LRBS",,"http://www.baneasa-airport.ro/","https://en.wikipedia.org/wiki/Aurel_Vlaicu_International_Airport","BUH, Băneasa, Aurel Vlaicu International, Bucharest City"
 333670,"LRBV","medium_airport","Brașov-Ghimbav International Airport",45.70558,25.522871,1740,"EU","RO","RO-BV","Brașov (Ghimbav)","yes","LRBV","GHV","LRBV",,"https://brasovairport.ro/","https://en.wikipedia.org/wiki/Brașov-Ghimbav_International_Airport","Aeroportul Internațional Brașov-Ghimbav"
-354769,"LRCC","heliport","Oituz (PA&CO) Heliport",46.210684,26.603018,1094,"EU","RO","RO-BC","Oituz","no",,,"LRCC",,,,"Helipad Privat Domeniul Casuneanu, Domaine Casuneanu Private Heliport"
-315901,"LRCD","small_airport","Măgura Airfield",45.737222,24.165278,1524,"EU","RO","RO-SB","Cisnădie","no",,,"LRCD",,"https://www.facebook.com/pages/category/Airport/AERODROMUL-MAGURA-219224911475626/",,"magura, romania, avgas, skydiving"
+354769,"LRCC","heliport","Oituz (PA&CO) Heliport",46.210684,26.603018,1094,"EU","RO","RO-BC","Oituz","no","LRCC",,"LRCC",,,,"Helipad Privat Domeniul Casuneanu, Domaine Casuneanu Private Heliport"
+315901,"LRCD","small_airport","Măgura Airfield",45.737222,24.165278,1524,"EU","RO","RO-SB","Cisnădie","no","LRCD",,"LRCD",,"https://www.facebook.com/pages/category/Airport/AERODROMUL-MAGURA-219224911475626/",,"magura, romania, avgas, skydiving"
 4475,"LRCK","medium_airport","Mihail Kogălniceanu International Airport",44.362202,28.4883,353,"EU","RO","RO-CT","Mihail Kogălniceanu","yes","LRCK","CND","LRCK",,,"https://en.wikipedia.org/wiki/Mihail_Kog%C4%83lniceanu_International_Airport","Constanța, Mihail Kogalniceanu, RoAF 57th Air Base"
 4476,"LRCL","medium_airport","Cluj Avram Iancu International Airport",46.787425,23.684292,1039,"EU","RO","RO-CJ","Cluj-Napoca","yes","LRCL","CLJ","LRCL",,"http://www.airportcluj.ro/","https://en.wikipedia.org/wiki/Cluj_International_Airport","Someşeni Airport"
 300163,"LRCN","small_airport","Clinceni Airfield",44.35902,25.93196,,"EU","RO","RO-IF","Clinceni","no",,,"LRCN",,,,
 4477,"LRCS","medium_airport","Caransebeş Airport",45.420142,22.252507,866,"EU","RO","RO-CS","Caransebeş","no","LRCS","CSB","LRCS",,,"https://en.wikipedia.org/wiki/Caransebe%C5%9F_Airport","Caransebes, Reşiţa"
-4478,"LRCT","medium_airport","Câmpia Turzii Air Base",46.50230026245117,23.885900497436523,1083,"EU","RO","RO-CJ","Câmpia Turzii","no",,,"LRCT",,"http://www.roaf.ro/en/unitati/bz71_en.php","https://en.wikipedia.org/wiki/RoAF_71st_Air_Base","Campia Turzii, Luna Airport, RoAF 71st Air Base"
+4478,"LRCT","medium_airport","Câmpia Turzii Air Base",46.5023,23.8859,1083,"EU","RO","RO-CJ","Câmpia Turzii","no","LRCT",,"LRCT",,"http://www.roaf.ro/en/unitati/bz71_en.php","https://en.wikipedia.org/wiki/RoAF_71st_Air_Base","Campia Turzii, Luna Airport, RoAF 71st Air Base"
 4479,"LRCV","medium_airport","Craiova International Airport",44.3181,23.888599,626,"EU","RO","RO-DJ","Craiova","yes","LRCV","CRA","LRCV",,"http://www.aeroportcraiova.ro/","https://en.wikipedia.org/wiki/Craiova_International_Airport",
 354944,"LRFB","heliport","Fagu Balc Heliport",47.3425,22.575,599,"EU","RO","RO-BH","Almasu Mare","no",,,"LRFB",,,,
-324128,"LRFL","small_airport","Floreni Airfield",47.363094,25.210346,,"EU","RO","RO-SV","Floreni","no",,,"LRFL",,,,
+324128,"LRFL","small_airport","Floreni Airfield",47.362846,25.21191,2908,"EU","RO","RO-SV","Vatra Dornei","no",,,"LRFL",,,,
 529399,"LRHO","heliport","Oradea / Smurd Bh 2 Heliport",47.064167,21.954167,538,"EU","RO","RO-BH",,"no",,,"LRHO",,,,
 4480,"LRIA","medium_airport","Iaşi Airport",47.180278,27.620833,411,"EU","RO","RO-IS","Iaşi","yes","LRIA","IAS","LRIA",,"http://www.aeroport.ro/","https://en.wikipedia.org/wiki/Ia%C5%9Fi_International_Airport","Iasi, Jassy"
 4481,"LROD","medium_airport","Oradea International Airport",47.025299072265625,21.90250015258789,465,"EU","RO","RO-BH","Oradea","yes","LROD","OMR","LROD",,,"https://en.wikipedia.org/wiki/Oradea_International_Airport",
 4482,"LROP","large_airport","Bucharest Henri Coandă International Airport",44.572127,26.103396,314,"EU","RO","RO-IF","Otopeni","yes","LROP","OTP","LROP",,"http://www.bucharestairports.ro/en/","https://en.wikipedia.org/wiki/Henri_Coand%C4%83_International_Airport","BUH, Otopeni Airport, RoAF 90th Airlift Base"
-315986,"LRPH","small_airport","Şirna Tăriceni Airfield",44.783792,25.983205,,"EU","RO","RO-PH","Tăriceni","no",,,"LRPH",,,,
-315660,"LRPT","small_airport","Geamăna Airfield",44.817504,24.897822,1001,"EU","RO","RO-AG","Geamăna","no",,,"LRPT",,,,"Aerodromul Geamăna"
-309711,"LRPV","small_airport","Ploiești-Strejnicu Airfield",44.92367,25.963418,240,"EU","RO","RO-PH","Strejnicu","no",,,"LRPW",,"https://web.archive.org/web/20160507200158/http://ploiesti.aeroclubulromaniei.ro/aerodromul.html",,"Gheorghe Valentin Bibescu"
+315986,"LRPH","small_airport","Şirna Tăriceni Airfield",44.783792,25.983205,,"EU","RO","RO-PH","Tăriceni","no",,,,,,,
+315660,"LRPT","small_airport","Geamăna Airfield",44.817504,24.897822,1001,"EU","RO","RO-AG","Pitești","no","LRPT",,"LRPT",,,,"Aerodromul Geamăna"
+309711,"LRPV","small_airport","Ploiești-Strejnicu Airfield",44.92367,25.963418,240,"EU","RO","RO-PH","Strejnicu","no","LRPW",,"LRPW",,"https://web.archive.org/web/20160507200158/http://ploiesti.aeroclubulromaniei.ro/aerodromul.html",,"Gheorghe Valentin Bibescu"
 4483,"LRSB","medium_airport","Sibiu International Airport",45.785841,24.086666,1496,"EU","RO","RO-SB","Sibiu","yes","LRSB","SBZ","LRSB",,"http://www.sibiuairport.ro/","https://en.wikipedia.org/wiki/Sibiu_International_Airport",
 4484,"LRSM","medium_airport","Satu Mare International Airport",47.7033,22.8857,405,"EU","RO","RO-SM","Satu Mare","yes","LRSM","SUJ","LRSM",,,"https://en.wikipedia.org/wiki/Satu_Mare_International_Airport",
 4485,"LRSV","medium_airport","Suceava Stefan cel Mare Airport",47.6875,26.35409927368164,1375,"EU","RO","RO-SV","Suceava","yes","LRSV","SCV","LRSV",,"http://www.aeroportsuceava.ro/index_en.html","https://en.wikipedia.org/wiki/Suceava_Airport",
 4486,"LRTC","medium_airport","Tulcea Danube Delta Airport",45.0625,28.7143,200,"EU","RO","RO-TL","Mihail Kogălniceanu","no","LRTC","TCE","LRTC",,,"https://en.wikipedia.org/wiki/Tulcea_Airport","Cataloi Airport, Aeroportul Delta Dunării Tulcea"
 4487,"LRTM","medium_airport","Târgu Mureş Transilvania International Airport",46.467701,24.4125,963,"EU","RO","RO-MS","Recea","yes","LRTM","TGM","LRTM",,"https://www.aeroportultransilvania.ro/en/","https://en.wikipedia.org/wiki/T%C3%A2rgu_Mure%C5%9F_International_Airport","Vidrasau, Vidrasău"
 4488,"LRTR","medium_airport","Timişoara Traian Vuia Airport",45.809898,21.3379,348,"EU","RO","RO-TM","Timişoara","yes","LRTR","TSR","LRTR",,"http://www.aerotim.ro/","https://en.wikipedia.org/wiki/Traian_Vuia_International_Airport","RoAF 93rd Air Base, Giarmata Airport, Temesvár, Temeschburg, Temeswar, Temeschwar, Тимишоара, Темишвар, Temišvar, Banat"
-30501,"LRTZ","small_airport","Tuzla Airport",43.984493,28.606225,161,"EU","RO","RO-CT","Tuzla","no",,,"LRTZ",,,"https://ro.wikipedia.org/wiki/Aeroportul_Utilitar_Tuzla","Aerodrom Regional Tuzla, Aeroportul Utilitar Tuzla, Aeroportul Internațional Alexandru Podgoreanu Tuzla, Tuzla Regional Airport"
+30501,"LRTZ","small_airport","Tuzla Airport",43.984493,28.606225,161,"EU","RO","RO-CT","Tuzla","no","LRTZ",,"LRTZ",,,"https://ro.wikipedia.org/wiki/Aeroportul_Utilitar_Tuzla","Aerodrom Regional Tuzla, Aeroportul Utilitar Tuzla, Aeroportul Internațional Alexandru Podgoreanu Tuzla, Tuzla Regional Airport"
+599104,"LRWG","heliport","West Gate Helipad",44.43341,25.986056,,"EU","RO","RO-B","Bucharest","no","LRWG",,"LRWG",,"https://liviu-tudor.com/west-gate-business-district/",,
 21634,"LS00","small_airport","Whitehead Ultralightport",30.675500869750977,-91.11430358886719,105,"NA","US","US-LA","Zachary","no",,,"LS00","LS00",,,
 21635,"LS01","heliport","Shell Pipe Line Gibson Heliport",29.62859,-90.93357,5,"NA","US","US-LA","Gibson","no",,,"LS01","LS01",,,
 21636,"LS02","heliport","North Oaks Medical Center Heliport",30.465981,-90.462588,38,"NA","US","US-LA","Hammond","no",,,"LS02","LS02",,,
@@ -54004,9 +54005,9 @@
 313613,"RO-0003","small_airport","Aerodrom Fratauti",47.885278,25.899167,1380,"EU","RO","RO-SV","Rădăuți","no",,,,,"http://bucovinaflyclub.ro/",,"Aerodrom Fratauti"
 313619,"RO-0004","small_airport","Ineu King's Land Airfield",47.079167,22.100278,498,"EU","RO","RO-BH","Ineu","no",,,,,"http://www.fly2romania.com/",,
 315478,"RO-0005","small_airport","Sălicea Airfield",46.683817,23.507843,2483,"EU","RO","RO-CJ","Ciurila","no",,,,,,,
-315482,"RO-0006","small_airport","Sânpetru-Brașov Aerodrome",45.721036,25.633707,1716,"EU","RO","RO-BV","Sânpetru","no",,,"LRSP",,,,"Aerodromul Sânpetru-Brașov"
+315482,"RO-0006","small_airport","Sânpetru-Brașov Aerodrome",45.721036,25.633707,1716,"EU","RO","RO-BV","Sânpetru","no","LRSP",,"LRSP",,,,"Aerodromul Sânpetru-Brașov"
 315483,"RO-0007","small_airport","Săulești Airfield",45.864871,22.970165,640,"EU","RO","RO-HD","Deva","no",,,"LRDV",,,,"Aerodromul Săulești"
-315486,"RO-0008","small_airport","Elie Carafoli Sport Airfield",46.533241,24.529298,,"EU","RO","RO-MS","Târgu Mureș","no",,,"LRMS",,,,"Aeroportul Sportiv Elie Carafoli, Mureșeni"
+315486,"RO-0008","small_airport","Elie Carafoli Sport Airfield",46.533241,24.529298,,"EU","RO","RO-MS","Târgu Mureș","no","LRMS",,"LRMS",,,,"Aeroportul Sportiv Elie Carafoli, Mureșeni"
 315658,"RO-0009","small_airport","Charlie Bravo Șiria Airfield",46.26902,21.605301,,"EU","RO","RO-AR","Șiria","no",,,"LRCB",,,,
 315893,"RO-0010","small_airport","Ghimbav Aerodrome",45.699386,25.528414,1736,"EU","RO","RO-BV","Brașov (Ghimbav)","no",,,,,,,"Aeroclub Iosif Șilimon Ghimbav, Aeroclub Mircea Zonleanu, Transylvania Wings Flight School"
 315897,"RO-0011","small_airport","Prejmer Aerodrome",45.697383,25.783453,1762,"EU","RO","RO-BV","Prejmer","no",,,,,"http://www.aerodromprejmer.ro/",,
@@ -54016,7 +54017,7 @@
 320252,"RO-0015","closed","Siliștea Gumești Air Base",44.37297,24.985914,513,"EU","RO","RO-TR","Siliștea Gumești","no",,,,,,,
 320577,"RO-0016","small_airport","Aerial Club Vădeni",45.364129,27.938835,,"EU","RO","RO-BR","Vădeni","no",,,,,"http://aerial.ro",,
 320578,"RO-0017","small_airport","Cioca Airfield",45.78567,21.188104,292,"EU","RO","RO-TM","Timișoara","no",,,,,,,
-320684,"RO-0018","heliport","Cobrex Heliport",45.657735,25.55701,1778,"EU","RO","RO-BV","Brașov","no",,,,,"http://cobrexhelicopters.ro",,
+320684,"RO-0018","heliport","Cobrex Heliport",45.657735,25.55701,1778,"EU","RO","RO-BV","Brașov","no","LRCX",,"LRCX",,"http://cobrexhelicopters.ro",,
 320903,"RO-0019","small_airport","Comana Airstrip",44.200367,26.139661,168,"EU","RO","RO-GR","Comana","no",,,,,,,
 321507,"RO-0020","small_airport","Buziaş Airfield",45.654129,21.578748,404,"EU","RO","RO-TM","Buziaş","no",,,,,,,
 321739,"RO-0021","small_airport","Fazi Airstrip",46.347099,25.873769,2958,"EU","RO","RO-HR","Leliceni","no",,,,,,,"LRLE"
@@ -54038,7 +54039,7 @@
 351100,"RO-0037","heliport","King Carol I Lighthouse Heliport",44.15982,28.65775,3,"EU","RO","RO-CT","Constanța","no",,,,,,,
 351101,"RO-0038","heliport","Constanța Naval Heliport",44.15778,28.66116,3,"EU","RO","RO-CT","Constanța","no",,,,,,,
 351102,"RO-0039","heliport","Mamaia Heliport",44.23659,28.62099,3,"EU","RO","RO-CT","Constanța","no",,,,,,,
-351103,"RO-0040","heliport","Năvodari Heliport",44.328998,28.656954,1,"EU","RO","RO-CT","Năvodari","no",,,"LRMC",,,,
+351103,"RO-0040","heliport","Năvodari Heliport",44.328998,28.656954,1,"EU","RO","RO-CT","Năvodari","no","LRMC",,"LRMC",,,,"Midia Harbour, Constanța"
 351104,"RO-0041","small_airport","Dunavățu de Jos Aerodrome",44.985719,29.213128,43,"EU","RO","RO-TL","Dunavățu de Jos","no",,,,,,,
 351105,"RO-0042","closed","Chilia Veche Aerodrome",45.41911,29.31393,6,"EU","RO","RO-TL","Chilia Veche","no",,,,,,,
 351107,"RO-0043","heliport","Damen Shipyard Heliport",45.44382,28.0831,23,"EU","RO","RO-GL","Galați","no",,,,,,,
@@ -54062,7 +54063,7 @@
 354911,"RO-0061","small_airport","Mugeni Airfield",46.249281,25.222732,1475,"EU","RO","RO-HR","Mugeni","no",,,,,,,
 354933,"RO-0062","small_airport","Aripi  Ramnicene Airstrip",45.380489,27.074475,335,"EU","RO","RO-BZ","Ramnicu Sarat","no",,,,,,,
 355028,"RO-0063","heliport","Râmnicu Vâlcea Heliport",45.05704,24.342635,,"EU","RO","RO-VL",,"no",,,,,,,
-355259,"RO-0064","heliport","Crystal Tower Bucharest Helipad",44.45222,26.09506,314,"EU","RO","RO-B","Bucharest","no",,,,,,,
+355259,"RO-0064","heliport","Crystal Tower Bucharest Helipad",44.452433,26.095448,505,"EU","RO","RO-B","Bucharest","no","LRBH",,"LRBH",,,"https://en.wikipedia.org/wiki/Crystal_Tower_Bucharest",
 430040,"RO-0065","small_airport","Letca Nouă Airfield",44.22531,25.75088,282,"EU","RO","RO-GR","Letca Nouă","no",,,,,,,
 430342,"RO-0066","small_airport","Fibiș Airstrip",45.96196,21.45735,413,"EU","RO","RO-TM","Fibiș","no",,,,,,,"Remetea Mică"
 507344,"RO-0067","small_airport","Remetea Airifeld",46.819232,25.412293,,"EU","RO","RO-HR","Remetea","no",,,"LRHR",,,,
@@ -54133,6 +54134,7 @@
 598638,"RO-0132","heliport","Mamaia Villa Helipad",44.230537,28.624513,,"EU","RO","RO-CT",,"no",,,,,,,
 598639,"RO-0133","heliport","Petromar Naval Helipad",44.22053,28.623247,,"EU","RO","RO-CT",,"no",,,,,,,
 598640,"RO-0134","heliport","Petromidia Refinery Emergency Helipad",44.343863,28.642366,,"EU","RO","RO-CT",,"no",,,,,,,
+599109,"RO-0135","heliport","Ploiesti Aero Taxi Heliport",44.964956,25.901118,735,"EU","RO","RO-PH","Ploiești","no","LRPH",,"LRPH",,,,
 300121,"RO02","heliport","Lester Helo Pad Nº 2",26.3172222222,127.764444444,26,"AS","JP","JP-47",,"no",,,"RO02",,,,
 300122,"RO04","heliport","White Beach Helipad CFAO",26.301666666699997,127.910277778,31,"AS","JP","JP-47",,"no",,,"RO04",,,,
 5671,"ROAH","large_airport","Naha Airport / JASDF Naha Air Base",26.195801,127.646004,12,"AS","JP","JP-47","Naha","yes","ROAH","OKA","ROAH",,"http://www.naha-airport.co.jp/","https://en.wikipedia.org/wiki/Naha_Airport","那覇空港, Naha Kūkō?, AHA, Naha AFB"
@@ -61222,7 +61224,7 @@
 384,"SNRE","small_airport","Fazenda Rebeca Airport",-12.6827,-43.871498,1575,"SA","BR","BR-BA","Serra Dourada","no",,,"SJCR","BA0353",,,"SNRE"
 327419,"SNRF","heliport","Ecofabril Heliport",-23.175832,-46.938558,2375,"SA","BR","BR-SP","Jundiaí","no",,,"SNRF",,,,
 37240,"SNRG","heliport","Furnas Centrais Elétricas S/A Heliport",-22.955278396606445,-43.19111251831055,262,"SA","BR","BR-RJ","Rio De Janeiro","no",,,"SNRG",,,,
-37241,"SNRI","heliport","Riviera de São Lourenço Heliport",-23.79777717590332,-46.05583190917969,23,"SA","BR","BR-SP","Bertioga","no",,,"SNRI",,,,
+37241,"SNRI","heliport","Riviera de São Lourenço Heliport",-23.798053,-46.056224,23,"SA","BR","BR-SP","Bertioga","no",,,"SS92","SP0727",,,"SNRI"
 327417,"SNRL","heliport","Folhamatic Heliport",-22.759016,-47.324642,1886,"SA","BR","BR-SP","Americana","no",,,"SNRL",,,,
 386,"SNRM","small_airport","Remanso Airport",-9.579994,-42.115917,1332,"SA","BR","BR-BA","Remanso","no",,,"SNRM","BA0022",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Remanso",
 30343,"SNRN","small_airport","Fazenda Vinte de Maio Airport",-21.808889389038086,-49.97111129760742,1509,"SA","BR","BR-SP","Getulina","no",,,"SNRN",,,,
@@ -61777,7 +61779,22 @@
 593567,"SS8R","small_airport","Fazenda Passo do Lobo Airport",-13.775646,-56.145022,1387,"SA","BR","BR-MT","Nova Mutum","no",,,"SS8R","MT1079",,,
 593571,"SS8S","small_airport","Agropecuária BIM - Fazenda Cristalina Airport",-16.263142,-53.397239,2520,"SA","BR","BR-MT","Guiratinga","no",,,"SS8S","MT1093",,,
 593574,"SS8T","small_airport","Fazenda Paiabanha Airstrip",-10.350053,-47.958014,1436,"SA","BR","BR-TO","Monte do Carmo","no",,,"SS8T","TO0141",,,
+599113,"SS8Y","small_airport","Rancho Leoncini Airstrip",-14.675165,-52.384888,889,"SA","BR","BR-MT","Nova Xavantina","no",,,"SS8Y","MT1135",,,
+599112,"SS8Z","small_airport","Grupo Carreira Airport",-17.24745,-51.35928,2819,"SA","BR","BR-GO","Caiapônia","no",,,"SS8Z","GO0403",,,
+599114,"SS93","small_airport","Rio Formoso Airport",-12.013642,-49.684296,686,"SA","BR","BR-TO","Formoso do Araguaia","no",,,"SS93","TO0155",,,
+599093,"SS9A","small_airport","Fazenda Horizontina Leste Auxiliary Airstrip",-7.869755,-45.736574,1545,"SA","BR","BR-MA","Tasso Fragoso","no",,,"SS9A","MA0209",,,
+599090,"SS9C","small_airport","Brejo do Caipira Airport",-21.550775,-47.977305,1677,"SA","BR","BR-SP","Guatapará","no",,,"SS9C","SP1454",,,
+599089,"SS9F","heliport","Pré-Fabricar Heliport",-27.104847,-49.52455,1253,"SA","BR","BR-SC","Ibirama","no",,,"SS9F","SC0254",,,
+599087,"SS9G","heliport","Tereza Ramos General & Maternity Hospital Helipad",-27.819099,-50.334427,3123,"SA","BR","BR-SC","Lages","no",,,"SS9G","SC0167",,,
+599086,"SS9L","heliport","MHL Heliport",-26.41163,-49.109674,144,"SA","BR","BR-SC","Jaraguá do Sul","no",,,"SS9L","SC0255",,,
 598530,"SS9P","small_airport","Grupo Golin Agro Airport",-8.116992,-43.139831,1575,"SA","BR","BR-PI","Canto do Buriti","no",,,"SS9P","PI0056",,,
+599083,"SS9R","small_airport","Fazenda Triangulo Formoso Airstrip",-17.425672,-44.989472,1749,"SA","BR","BR-MG","Buritizeiro","no",,,"SS9R","MG0583",,,
+599080,"SS9S","small_airport","Fazenda São Francisco Airport",-11.103033,-48.033319,945,"SA","BR","BR-TO","Monte do Carmo","no",,,"SS9S","TO0159",,,
+599078,"SS9T","small_airport","Teboa  Airstrip",-21.484444,-54.963056,1358,"SA","BR","BR-MS","Rio Brilhante","no",,,"SS9T","MS0785",,,
+599074,"SS9X","heliport","Grupo 3T Heliport",-20.330189,-43.4527,2897,"SA","BR","BR-MG","Mariana","no",,,"SS9X","MG0647",,,
+599076,"SSA4","small_airport","Fazenda Angelim Airport",-8.981254,-45.424206,1714,"SA","BR","BR-PI","Baixa Grande do Ribeiro","no",,,"SSA4","PI0124",,,
+599072,"SSA6","small_airport","Rincão Porã Airport",-13.743406,-57.347983,1739,"SA","BR","BR-MT","Diamantino","no",,,"SSA6","MT1141",,,
+599070,"SSA7","small_airport","Fazenda Sete Airport",-14.134705,-45.420552,2667,"SA","BR","BR-BA","Jaborandi","no",,,"SSA7","BA0503",,,
 331825,"SSAA","heliport","Hospital da Unimed Heliport",-19.921843,-43.919601,2871,"SA","BR","BR-MG","Belo Horizonte","no",,,"SSAA","MG0267",,,
 429,"SSAB","small_airport","Moisés Lupion Airport",-23.762199,-50.263,1968,"SA","BR","BR-PR","Ibaiti","no",,,"SSAB","PR0024",,,
 430,"SSAD","small_airport","Fazenda Ribeirão Airport",-18.764,-52.917599,2736,"SA","BR","BR-MS","Chapadão do Sul","no",,,"SSAD","MS0243",,,
@@ -62665,6 +62682,7 @@
 40347,"SVYI","small_airport","El Yavi Airport",5.4583330154418945,-65.89833068847656,557,"SA","VE","VE-Z",,"no",,,"SVYI",,,,
 40348,"SVYP","small_airport","Yopita Airport",7.199999809265137,-69.31666564941406,360,"SA","VE","VE-C",,"no",,,"SVYP",,,,
 40349,"SVYT","small_airport","Yutaje Airport",5.60978,-66.110397,722,"SA","VE","VE-Z",,"no",,,"SVYU",,,,
+599069,"SW1W","small_airport","São Pedro Airport",-12.580049,-46.022057,2726,"SA","BR","BR-BA","São Desidério","no",,,"SW1W","BA0504",,,
 598790,"SW1Y","small_airport","Fazenda Amanda e Carolina - ACM Agronegócios Airstrip",-13.211542,-57.831792,1604,"SA","BR","BR-MT","Brasnorte","no",,,"SW1Y","MT1142",,,
 598789,"SW1Z","heliport","HELIBH II Heliport",-20.047264,-43.961467,4373,"SA","BR","BR-MG","Nova Lima","no",,,"SW1Z","MG0645",,,
 598791,"SW20","small_airport","Fazenda Colorado Airstrip",-2.452028,-49.355763,82,"SA","BR","BR-PA","Cametá","no",,,"SW20","PA0433",,,
