@@ -7112,6 +7112,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 24363,RMP,small_airport,Rampart Airport,65.507896,-150.141007,302,NA,US,US-AK,Rampart,yes,,RMP,PFMP,RMP,,https://en.wikipedia.org/wiki/Rampart_Airport,
 315482,RO-0006,small_airport,Sânpetru-Brașov Aerodrome,45.721036,25.633707,1716,EU,RO,RO-BV,Sânpetru,no,LRSP,,LRSP,,,,Aerodromul Sânpetru-Brașov
 315486,RO-0008,small_airport,Elie Carafoli Sport Airfield,46.533241,24.529298,,EU,RO,RO-MS,Târgu Mureș,no,LRMS,,LRMS,,,,"Aeroportul Sportiv Elie Carafoli, Mureșeni"
+315658,RO-0009,small_airport,Charlie Bravo Șiria Airfield,46.26902,21.605301,361,EU,RO,RO-AR,Șiria,no,LRCB,,LRCB,,,,
 320684,RO-0018,heliport,Cobrex Heliport,45.657735,25.55701,1778,EU,RO,RO-BV,Brașov,no,LRCX,,LRCX,,http://cobrexhelicopters.ro,,
 351103,RO-0040,heliport,Năvodari Heliport,44.328998,28.656954,1,EU,RO,RO-CT,Năvodari,no,LRMC,,LRMC,,,,"Midia Harbour, Constanța"
 354838,RO-0054,small_airport,Iaşi Sud,47.15778,27.6375,200,EU,RO,RO-IS,,no,LRIS,,,,,,
