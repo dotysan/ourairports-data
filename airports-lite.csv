@@ -1129,6 +1129,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2001,CYZV,medium_airport,Sept-Îles Airport,50.22330093383789,-66.2656021118164,180,NA,CA,CA-QC,Sept-Îles,yes,CYZV,YZV,CYZV,,,https://en.wikipedia.org/wiki/Sept-%C3%8Eles_Airport,
 2002,CYZW,medium_airport,Teslin Airport,60.17279815673828,-132.7429962158203,2313,NA,CA,CA-YT,Teslin,no,CYZW,YZW,CYZW,,,https://en.wikipedia.org/wiki/Teslin_Airport,
 2003,CYZX,medium_airport,CFB Greenwood,44.98440170288086,-64.91690063476562,92,NA,CA,CA-NS,Greenwood,no,CYZX,YZX,CYZX,,,https://en.wikipedia.org/wiki/CFB_Greenwood,Greenwood Airport
+43955,CZ-0038,heliport,Chomutov Hospital Heliport,50.453617,13.411807,1099,EU,CZ,CZ-US,Chomutov,no,LKCU,,LKCU,,,,
 324117,CZ-0161,small_airport,Luhačovice Airfield,49.088188,17.718769,,EU,CZ,CZ-ZL,Luhačovice,no,LKLU,,LKLU,,https://www.aeroklubluhacovice.cz/?,,Letiště Luhačovice
 2005,CZAC,small_airport,York Landing Airport,56.089401,-96.089203,621,NA,CA,CA-MB,York Landing,no,CZAC,ZAC,CZAC,,,https://en.wikipedia.org/wiki/York_Landing_Airport,
 2006,CZAM,medium_airport,Shuswap Regional Airport,50.682802,-119.228996,1751,NA,CA,CA-BC,Salmon Arm,no,CZAM,YSN,CZAM,,http://www.salmonarm.ca/index.aspx?nid=228,https://en.wikipedia.org/wiki/Salmon_Arm_Airport,"AM4, Shuswap Regional Airport, Salmon Arm Airport"
@@ -5352,7 +5353,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29994,LKJI,small_airport,Jihlava Airfield,49.419399,15.6353,1821,EU,CZ,CZ-VY,Jihlava,no,LKJI,,LKJI,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Jihlava,
 30046,LKKA,small_airport,Křižanov Airfield,49.368301,16.1161,1831,EU,CZ,CZ-VY,Křižanov,no,LKKA,,LKKA,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_K%C5%99i%C5%BEanov,
 4397,LKKB,medium_airport,Prague–Kbely Air Base,50.121399,14.5436,939,EU,CZ,CZ-PR,Prague,no,LKKB,,LKKB,,,https://en.wikipedia.org/wiki/Prague%E2%80%93Kbely_Airport,
-30047,LKKC,small_airport,Kříženec Planá Airfield,49.870602,12.7725,2080,EU,CZ,CZ-PL,Planá,no,LKKC,,LKKC,,,,
 30030,LKKL,small_airport,Kladno Airfield,50.112801,14.0897,1421,EU,CZ,CZ-ST,Kladno,no,LKKL,,LKKL,,http://letiste-kladno.cz,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Kladno,
 30049,LKKM,small_airport,Kroměříž Airfield,49.285599,17.4158,620,EU,CZ,CZ-ZL,Kroměříž,no,LKKM,,LKKM,,http://www.lkkm.cz/,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Krom%C4%9B%C5%99%C3%AD%C5%BE,
 30035,LKKO,small_airport,Kolín Airfield,50.0019,15.1733,932,EU,CZ,CZ-ST,Kolín,no,LKKO,,LKKO,,,,
@@ -5361,7 +5361,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4398,LKKU,medium_airport,Kunovice Airport,49.0294,17.439699,581,EU,CZ,CZ-ZL,Uherské Hradiště,no,LKKU,UHE,LKKU,,,https://en.wikipedia.org/wiki/Kunovice_Airport,Letiště Kunovice
 4399,LKKV,medium_airport,Karlovy Vary Airport,50.202999,12.915,1989,EU,CZ,CZ-KA,Karlovy Vary,yes,LKKV,KLV,LKKV,,http://www.airport-k-vary.cz/indexEN.php,https://en.wikipedia.org/wiki/Karlovy_Vary_Airport,Karlovy Vary International
 30052,LKKY,small_airport,Kyjov Airfield,48.98,17.124701,689,EU,CZ,CZ-JM,Svatobořice,no,LKKY,,LKKY,,http://www.letistekyjov.cz,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Kyjov,
+30076,LKLB,small_airport,Liberec Airfield,50.767053,15.023071,1329,EU,CZ,CZ-LI,Liberec,no,LKLB,,LKLB,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Liberec,
 4400,LKLN,medium_airport,Plzeň-Líně Airport,49.675201,13.2746,1188,EU,CZ,CZ-PL,Plzen,no,LKLN,,LKLN,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Plze%C5%88-L%C3%ADn%C4%9B,
+30074,LKLT,small_airport,Letňany Airfield,50.131401,14.5256,909,EU,CZ,CZ-PR,Letňany,no,LKLT,,LKLT,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Let%C5%88any,
 30145,LKMB,small_airport,Mladá Boleslav Airfield,50.3983,14.8983,781,EU,CZ,CZ-ST,Mladá Boleslav,no,LKMB,,LKMB,,http://www.lkmb.cz,,
 4401,LKMH,small_airport,Mnichovo Hradiště Airport,50.540199,15.0066,800,EU,CZ,CZ-ST,Mnichovo Hradiště,no,LKMH,HRA,LKMH,,https://www.lkmh.cz/en/,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Mnichovo_Hradi%C5%A1t%C4%9B,
 30137,LKMI,small_airport,Mikulovice Airfield,50.301701,17.297501,1381,EU,CZ,CZ-OL,Mikulovice,no,LKMI,,LKMI,,,,
@@ -5380,6 +5382,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4406,LKPM,small_airport,Příbram Airfield,49.7201,14.1006,1529,EU,CZ,CZ-ST,Drásov,no,LKPM,,LKPM,,https://www.lkpm.cz,,lkpm
 4407,LKPO,medium_airport,Přerov Air Base,49.4258,17.404699,676,EU,CZ,CZ-OL,Přerov,no,LKPO,PRV,LKPO,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_P%C5%99erov,
 4408,LKPR,large_airport,Václav Havel Airport Prague,50.100874,14.259911,1247,EU,CZ,CZ-PR,Prague,yes,LKPR,PRG,LKPR,,http://www.prg.aero,https://en.wikipedia.org/wiki/Václav_Havel_Airport_Prague,"Letiště Praha-Ruzyně, Ruzyně International Airport, Letiště Václava Havla Praha"
+30270,LKPS,small_airport,Plasy Rybnice Airfield,49.9203,13.3769,1430,EU,CZ,CZ-PL,Plasy,no,LKPS,,LKPS,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Plasy,
 30319,LKRA,small_airport,Rana Loumy Airfield,50.4039,13.7519,879,EU,CZ,CZ-US,Raná,no,LKRA,,LKRA,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Ran%C3%A1,
 30318,LKRK,small_airport,Rakovnik Airfield,50.0942,13.6889,1270,EU,CZ,CZ-ST,Rakovnik,no,LKRK,,LKRK,,http://www.lkrk.cz/,,
 30350,LKRO,small_airport,Roudnice nad Labem Airfield,50.410186,14.22708,732,EU,CZ,CZ-US,Roudnice nad Labem,no,LKRO,,LKRO,,,https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Roudnice,
