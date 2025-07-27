@@ -8028,7 +8028,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30393,SSRU,small_airport,São Lourenço do Sul Airport,-31.38330078125,-52.032798767089844,28,SA,BR,BR-RS,São Lourenço Do Sul,no,SSRU,SQY,SSRU,,,,
 314920,SSS,small_airport,Siassi Airport,-5.5965,147.8106,1250,OC,PG,PG-MPL,Siassi,no,,SSS,,SSI,,,"Sema, Semo"
 503,SSSB,small_airport,São Borja Airport,-28.6549,-56.034599,262,SA,BR,BR-RS,São Borja,no,,JBS,SSSB,RS0014,,https://en.wikipedia.org/wiki/S%C3%A3o_Borja_Airport,"João Manoel, QOJ"
-504,SSSC,small_airport,Santa Cruz do Sul Airport,-29.684099,-52.412201,646,SA,BR,BR-RS,Santa Cruz Do Sul,no,SSSC,CSU,SSSC,SSSC,,https://en.wikipedia.org/wiki/Santa_Cruz_do_Sul_Airport,
+504,SSSC,small_airport,Santa Cruz do Sul Airport,-29.684099,-52.412201,653,SA,BR,BR-RS,Santa Cruz do Sul,no,SSSC,CSU,SSSC,RS0029,,https://en.wikipedia.org/wiki/Santa_Cruz_do_Sul_Airport,
 509,SSUM,small_airport,Orlando de Carvalho Airport,-23.7987,-53.313801,1552,SA,BR,BR-PR,Umuarama,yes,SSUM,UMU,SSUM,PR0019,,https://en.wikipedia.org/wiki/Umuarama_Airport,
 37682,SSUO,heliport,Unifly Heliport,-23.4086112976,-46.330554962200004,2641,SA,BR,BR-SP,Arujá,no,,ZFU,SSUO,,,,
 510,SSUV,small_airport,José Cleto Airport,-26.233224,-51.066754,2467,SA,BR,BR-PR,União da Vitória,yes,SSUV,UVI,SSUV,PR0034,,https://en.wikipedia.org/wiki/Uni%C3%A3o_da_Vit%C3%B3ria_Airport,"José Cleto, QVB"
