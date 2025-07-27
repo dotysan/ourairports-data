@@ -11736,6 +11736,7 @@
 595779,"AU-0777","small_airport","Nocoleche Airfield",-29.84436,144.11974,348,"OC","AU","AU-NSW","Wanaaring","no",,,,,,,
 595780,"AU-0778","small_airport","Tilterweira Airfield",-30.00809,144.11175,338,"OC","AU","AU-NSW","Wanaaring","no",,,,,,,
 597087,"AU-0779","small_airport","Walcha Farm Airstrip",-31.002219,151.678906,3432,"OC","AU","AU-NSW","Walcha","no",,,,,,,
+599311,"AU-0780","small_airport","Wilson's Creek Farm Airstrip",-30.661522,151.42745,3425,"OC","AU","AU-NSW","Uralla","no",,,,,,,
 30622,"AU-AGW","small_airport","Agnew Airport",-12.1456,142.149369,160,"OC","AU","AU-QLD","Agnew","no",,"AGW","YAGN",,,"https://en.wikipedia.org/wiki/Agnew_Airport",
 30666,"AU-AYD","small_airport","Alroy Downs Airport",-19.2908,136.078995,711,"OC","AU","AU-NT","Alroy Downs","no",,"AYD","YALD",,,,
 30808,"AU-BYX","small_airport","Baniyala Airport",-13.1981,136.227005,20,"OC","AU","AU-NT","Baniyala","no",,"BYX","YBNI",,,,
@@ -19537,6 +19538,7 @@
 597937,"CN-0475","closed","Xi'an Xiguan Airport",34.249,108.894999,,"AS","CN","CN-61",,"no",,,,,,"https://en.wikipedia.org/wiki/Xi%27an_Xiguan_Airport",
 598595,"CN-0476","medium_airport","Bengbu Tenghu Airport (U.C.)",33.165808,117.057295,72,"AS","CN","CN-34","Bengbu","no",,"BFY",,,,"https://en.wikipedia.org/wiki/Bengbu_Tenghu_Airport","蚌埠腾湖机场"
 598863,"CN-0477","small_airport","Baoquanling General Airport",47.41079,130.61054,,"AS","CN","CN-23",,"no",,,,,,,
+599310,"CN-0478","small_airport","Urumqi Xishan Airport",43.772537,87.372819,3389,"AS","CN","CN-65","Xishan Nongchang","no",,,,,,,"西山农场"
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -29455,6 +29457,8 @@
 599012,"GB-1331","heliport","Tarbert",57.890626,-6.796712,,"EU","GB","GB-SCT",,"no",,,,,,,
 599132,"GB-1332","closed","RAF Hemswell",53.408278,-0.590458,220,"EU","GB","GB-ENG","Hemswell, Lincolnshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Hemswell",
 599256,"GB-1333","heliport","Clifton Dykes",54.644211,-2.69254,,"EU","GB","GB-U-A",,"no",,,,,,,
+599308,"GB-1334","closed","RAF Long Kesh",54.490669,-6.103835,115,"EU","GB","GB-NIR","Maze, County Down","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Long_Kesh",
+599309,"GB-1335","heliport","Lisburn Heliport",54.49328,-6.097745,118,"EU","GB","GB-NIR","Lisburn, County Down","no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO"
@@ -44182,6 +44186,7 @@
 324016,"LV-8041","closed","Augstkalne Airfield",56.41318,23.319409,,"EU","LV","LV-026","Augstkalne","no",,,,,,,"EVMA, EVMA"
 324017,"LV-8042","closed","Rēzekne Airfield",56.556389,27.212778,,"EU","LV","LV-077","Rēzekne","no",,,,,,"https://en.wikipedia.org/wiki/Rezekne_Airport","EVNA"
 44005,"LV-8043","small_airport","Cesis ""old"" airfield",57.32379,25.323229,367,"EU","LV","LV-022","Cesis","no",,,,,,,
+599301,"LV-8044","small_airport","Saraiķi lidlauks",56.698941,21.062459,,"EU","LV","LV-U-A","Saraiķi","no",,,,,,,
 4668,"LW66","small_airport","Malo Konjari Sport Airfield",41.333099,21.4491,2034,"EU","MK","MK-005","Malo Konjari","no",,,,,,,"LW66, Prilep"
 4669,"LW67","small_airport","Kumanovo Airfield",42.154242,21.699328,1217,"EU","MK","MK-007","Kumanovo","no",,,,,,,"LW67, Adzi Tepe, Kumanovo Airbase"
 4672,"LW70","small_airport","Veles Airfield",41.758796,21.842451,1112,"EU","MK","MK-001","Karatmanovo","no",,,,,,,"Titov Veles, LW70, Велес"
@@ -61775,6 +61780,8 @@
 594964,"SS4I","small_airport","Fazenda Reunidas Airport",-9.414807,-46.694607,1698,"SA","BR","BR-TO","Lizarda","no",,,"SS4I","TO0148",,,
 594966,"SS4J","heliport","ALPS Heliport",-19.550156,-42.606153,2116,"SA","BR","BR-MG","Timóteo","no",,,"SS4J","MG0566",,,
 595012,"SS4K","small_airport","Fazenda 3 Rios Airstrip",-9.029508,-46.78543,1637,"SA","BR","BR-MA","Balsas","no",,,"SS4K","MA0196",,,
+599303,"SS4L","small_airport","Major Brigadeiro Pedro Frazão de Medeiros Lima Airport",-7.716682,-37.925991,2543,"SA","BR","BR-PE","Princesa Isabel","no",,,"SS4L","PB0042",,,
+599305,"SS4M","heliport","DMA Heliport",-19.914004,-44.0427,3018,"SA","BR","BR-MG","Contagem","no",,,"SS4M","MG0618",,,
 553954,"SS4N","small_airport","Fazenda Agropecuária São Benedito Airport",-12.419051,-57.596519,960,"SA","BR","BR-MT","Brasnorte","no",,,"SS4N","MT1073",,,
 555226,"SS4O","small_airport","Fazenda Nossa Senhora Aparecida Airport",-13.204772,-53.647239,1138,"SA","BR","BR-MT","Gaúcha do Norte","no",,,"SS4O","MT1068",,,
 558160,"SS4P","small_airport","Fazenda Apunã Airport",-5.91233,-59.953219,314,"SA","BR","BR-AM","Novo Aripuanã","no",,,"SS4P","AM0117",,,
@@ -62145,8 +62152,8 @@
 314920,"SSS","small_airport","Siassi Airport",-5.5965,147.8106,1250,"OC","PG","PG-MPL","Siassi","no",,"SSS",,"SSI",,,"Sema, Semo"
 37649,"SSSA","small_airport","Fazenda Sant`Anna do Apa Airport",-21.996186,-56.240001,1047,"SA","BR","BR-MS","Bela Vista","no",,,"SSSA","MS0329",,,
 503,"SSSB","small_airport","São Borja Airport",-28.6549,-56.034599,262,"SA","BR","BR-RS","São Borja","no",,"JBS","SSSB","RS0014",,"https://en.wikipedia.org/wiki/S%C3%A3o_Borja_Airport","João Manoel, QOJ"
-504,"SSSC","small_airport","Santa Cruz do Sul Airport",-29.684099,-52.412201,646,"SA","BR","BR-RS","Santa Cruz Do Sul","no","SSSC","CSU","SSSC","SSSC",,"https://en.wikipedia.org/wiki/Santa_Cruz_do_Sul_Airport",
-30426,"SSSD","small_airport","Soledade Airport",-28.863100051879883,-52.54059982299805,2165,"SA","BR","BR-RS","Soledade","no",,,"SSSD",,,,
+504,"SSSC","small_airport","Santa Cruz do Sul Airport",-29.684099,-52.412201,653,"SA","BR","BR-RS","Santa Cruz do Sul","no","SSSC","CSU","SSSC","RS0029",,"https://en.wikipedia.org/wiki/Santa_Cruz_do_Sul_Airport",
+30426,"SSSD","small_airport","Soledade Airport",-28.863762,-52.540569,2208,"SA","BR","BR-RS","Soledade","no",,,"SSSD","RS0017",,,
 37650,"SSSE","heliport","Jihad Dehaini Heliport",-25.57666778564453,-49.393611907958984,2972,"SA","BR","BR-PR","Araucária","no",,,"SSSE",,,,
 30391,"SSSG","small_airport","São Gabriel Airport",-30.344999313354492,-54.267799377441406,472,"SA","BR","BR-RS","São Gabriel","no",,,"SSSG",,,,
 37651,"SSSH","small_airport","Fazenda Santo Inácio Airport",-19.199167251586914,-57.011112213134766,275,"SA","BR","BR-MS","Corumbá","no",,,"SSSH",,,,
