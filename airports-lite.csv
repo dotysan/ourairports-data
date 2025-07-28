@@ -7124,6 +7124,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 355259,RO-0064,heliport,Crystal Tower Bucharest Helipad,44.452433,26.095448,505,EU,RO,RO-B,Bucharest,no,LRBH,,LRBH,,,https://en.wikipedia.org/wiki/Crystal_Tower_Bucharest,
 598628,RO-0123,heliport,Emergency University Hospital Of Bucharest Heliport,44.436018,26.071093,,EU,RO,RO-B,,no,LRSU,,,,,,
 599109,RO-0135,heliport,Ploiesti Aero Taxi Heliport,44.964956,25.901118,735,EU,RO,RO-PH,Ploiești,no,LRPH,,LRPH,,,,
+599328,RO-0138,small_airport,Aerodrom Baia Mare,47.659081,23.474513,,EU,RO,RO-MM,Baia Mare,no,LRMM,,,,https://aeroclubulromaniei.ro/page/aerodrom-baia-mare,,
 5671,ROAH,large_airport,Naha Airport / JASDF Naha Air Base,26.195801,127.646004,12,AS,JP,JP-47,Naha,yes,ROAH,OKA,ROAH,,http://www.naha-airport.co.jp/,https://en.wikipedia.org/wiki/Naha_Airport,"那覇空港, Naha Kūkō?, AHA, Naha AFB"
 5673,RODN,large_airport,Kadena Air Base,26.351667,127.769444,143,AS,JP,JP-47,Okinawa,no,RODN,DNA,RODN,,,https://en.wikipedia.org/wiki/Kadena_Air_Base,
 327608,ROIG,medium_airport,New Ishigaki Airport,24.396389,124.245,102,AS,JP,JP-47,Ishigaki,yes,ROIG,ISG,ROIG,,https://www.ishigaki-airport.co.jp/en/,https://en.wikipedia.org/wiki/New_Ishigaki_Airport,
