@@ -27494,6 +27494,8 @@
 599139,"FR-1300","small_airport","Bouttemy DZ",50.305887,2.699794,,"EU","FR","FR-HDF",,"no",,,,,,,
 599140,"FR-1301","heliport","domaine de la marliere DZ",50.153407,3.190193,,"EU","FR","FR-HDF",,"no",,,,,,,
 599247,"FR-1302","heliport","Raismes DZ",50.410159,3.458333,,"EU","FR","FR-HDF","Raismes","no",,,,,,,
+599319,"FR-1303","heliport","GUEUTTEVILLE DZ",49.843715,0.752564,,"EU","FR","FR-HDF","Gueutteville les grès","no",,,,,,,
+599320,"FR-1304","heliport","GUEUTTEVILLE DZ 2",49.844387,0.758754,,"EU","FR","FR-HDF","Gueutteville les grès","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assumption Island Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assumption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -54167,6 +54169,9 @@
 598640,"RO-0134","heliport","Petromidia Refinery Emergency Helipad",44.343863,28.642366,,"EU","RO","RO-CT",,"no",,,,,,,
 599109,"RO-0135","heliport","Ploiesti Aero Taxi Heliport",44.964956,25.901118,735,"EU","RO","RO-PH","Ploiești","no","LRPH",,"LRPH",,,,
 599226,"RO-0136","heliport","Emergency Clinical Hospital for Children ""Maria Skłodowska Curie"" Helipad",44.389904,26.109164,,"EU","RO","RO-B",,"no",,,,,,,
+599327,"RO-0137","small_airport","Timișești Airfield",47.221111,26.451111,938,"EU","RO","RO-NT","Timișești","no",,,,,"https://www.facebook.com/aerodromtimisesti",,
+599328,"RO-0138","small_airport","Aerodrom Baia Mare",47.659081,23.474513,,"EU","RO","RO-MM","Baia Mare","no","LRMM",,,,"https://aeroclubulromaniei.ro/page/aerodrom-baia-mare",,
+599330,"RO-0139","small_airport","Sarata Airfield",46.531054,26.892739,,"EU","RO","RO-BC",,"no",,,,,,,
 300121,"RO02","heliport","Lester Helo Pad Nº 2",26.3172222222,127.764444444,26,"AS","JP","JP-47",,"no",,,"RO02",,,,
 300122,"RO04","heliport","White Beach Helipad CFAO",26.301666666699997,127.910277778,31,"AS","JP","JP-47",,"no",,,"RO04",,,,
 5671,"ROAH","large_airport","Naha Airport / JASDF Naha Air Base",26.195801,127.646004,12,"AS","JP","JP-47","Naha","yes","ROAH","OKA","ROAH",,"http://www.naha-airport.co.jp/","https://en.wikipedia.org/wiki/Naha_Airport","那覇空港, Naha Kūkō?, AHA, Naha AFB"
@@ -60664,7 +60669,7 @@
 24598,"SN20","small_airport","Brady-Pippin Airport",37.71950149536133,-97.04889678955078,1300,"NA","US","US-KS","Augusta","no",,,"SN20","SN20",,,
 24599,"SN21","small_airport","Flory Private Airport",38.822691,-95.288372,1100,"NA","US","US-KS","Baldwin City","no",,,"SN21","SN21",,,
 24600,"SN22","small_airport","Hoelting Airport",39.112202,-94.9561,960,"NA","US","US-KS","Basehor","no",,,,"SN22",,,
-507267,"SN24","heliport","Águia Trancoso Heliport",-16.574444,-39.091667,102,"SA","BR","BR-BA","Porto Seguro","no",,,"SN24","BA0433",,,
+507267,"SN24","heliport","Águia Trancoso Heliport",-16.574983,-39.092226,102,"SA","BR","BR-BA","Porto Seguro","no",,,"SN24","BA0433",,,"Villa Aiyana"
 24606,"SN29","small_airport","Rucker Airport",38.185477,-99.536105,2151,"NA","US","US-KS","Burdett","no",,,,"SN29",,,"Rucker Burdett Airport"
 510644,"SN2A","small_airport","Coppersteel Airstrip",-6.258333,-45.6525,863,"SA","BR","BR-MA","Fernando Falcão","no",,,"SN2A","MA0160",,,
 510646,"SN2B","heliport","Heli Brasília Heliport",-15.838154,-47.74609,3376,"SA","BR","BR-DF","Brasília","no",,,"SN2B","DF0022",,,
@@ -61785,12 +61790,24 @@
 553954,"SS4N","small_airport","Fazenda Agropecuária São Benedito Airport",-12.419051,-57.596519,960,"SA","BR","BR-MT","Brasnorte","no",,,"SS4N","MT1073",,,
 555226,"SS4O","small_airport","Fazenda Nossa Senhora Aparecida Airport",-13.204772,-53.647239,1138,"SA","BR","BR-MT","Gaúcha do Norte","no",,,"SS4O","MT1068",,,
 558160,"SS4P","small_airport","Fazenda Apunã Airport",-5.91233,-59.953219,314,"SA","BR","BR-AM","Novo Aripuanã","no",,,"SS4P","AM0117",,,
+599333,"SS4Q","heliport","CISS Helistop",-25.742186,-53.050457,1808,"SA","BR","BR-PB","Dois Vizinhos","no",,,"SS4Q","PR0243",,,
+599335,"SS4R","small_airport","Fazenda Campo Limpo Airport",-16.51968,-57.973828,384,"SA","BR","BR-MT","Cáceres","no",,,"SS4R","MT0893",,,
+599336,"SS4S","small_airport","Fazenda Cordilheira Airport",-16.060955,-58.029025,437,"SA","BR","BR-MT","Cáceres","no",,,"SS4S","MT0892",,,
+599339,"SS4T","small_airport","Fazenda União Airport",-9.731261,-51.713205,1386,"SA","BR","BR-PA","São Félix do Xingu","no",,,"SS4T","PA0414",,,
 553260,"SS4U","small_airport","Cajamar Airport",-5.639585,-45.230105,646,"SA","BR","BR-MA","Barra do Corda","no",,,"SS4U","MA0192",,,
+599341,"SS4W","small_airport","Fazenda Bororó Airport",-20.769713,-53.061975,1385,"SA","BR","BR-MS","Santa Rita do Pardo","no",,,"SS4W","MS0775",,,
+599342,"SS4X","small_airport","Fazenda Santo Antônio Airport",-17.679541,-55.908343,436,"SA","BR","BR-MS","Corumbá","no",,,"SS4X","MS0777",,,
+599344,"SS4Y","heliport","Fazenda São João Helipad",-24.820753,-50.126991,3855,"SA","BR","BR-PR","Carambe","no",,,"SS4Y","PR0251",,,
+599345,"SS4Z","small_airport","Fazenda Capão Redondo Airstrip",-13.311463,-45.829628,2727,"SA","BR","BR-BA","Correntina","no",,,"SS4Z","BA0483",,,
+599346,"SS62","small_airport","Angelina Airstrip",-9.360494,-45.334419,2001,"SA","BR","BR-PI","Gilbués","no",,,"SS62","PI0117",,,
 598990,"SS68","small_airport","Fazenda União Airport",-11.630948,-52.021672,1142,"SA","BR","BR-MT","São Félix do Araguaia","no",,,"SS68","MT1108",,,
 598989,"SS69","small_airport","Eldorado dos Gerais Airport",-11.031722,-46.357139,2707,"SA","BR","BR-BA","Formosa do Rio Preto","no",,,"SS69","BA0491",,,
 598987,"SS6A","small_airport","Fazenda Novale Airport",-11.380416,-44.81754,1595,"SA","BR","BR-BA","Santa Rita de Cássia","no",,,"SS6A","BA0490",,,
 598985,"SS6B","small_airport","Fazenda Americana Airport",-11.796623,-49.107027,1020,"SA","BR","BR-TO","Cariri do Tocantins","no",,,"SS6B","TO0153",,,
 598984,"SS6C","small_airport","Fazenda Mafisa Airstrip",-8.081043,-44.954583,1637,"SA","BR","BR-PI","Baixa Grande do Ribeiro","no",,,"SS6C","PI0118",,,
+599347,"SS6E","small_airport","Aerosítio Airport",-3.84334,-38.445139,59,"SA","BR","BR-CE","Eusébio","no",,,"SS6E","CE0117",,,
+599348,"SS6G","heliport","Uberlândia Federal Hospital Helipad",-18.881432,-48.260474,3186,"SA","BR","BR-MG","Uberlândia","no",,,"SS6G","MG0457",,,"UFU-8DJU"
+599349,"SS6H","small_airport","Fazenda São Judas Tadeu Airport",-20.928857,-52.683081,1151,"SA","BR","BR-MS","Brasilândia","no",,,"SS6H","MS0780",,,
 598551,"SS7Z","small_airport","Fazenda Paraiso Arpa Airport",-11.298736,-49.63974,650,"SA","BR","BR-TO","Dueré","no",,,"SS7Z","TO0154",,,
 598536,"SS82","small_airport","Carará Airport",-0.075011,-53.11976,529,"SA","BR","BR-PA","Almeirim","no",,,"SS82","PA0426",,,
 598535,"SS83","small_airport","Fazenda Cochilo Airport",-17.118721,-45.421015,1850,"SA","BR","BR-MG","Buritizeiro","no",,,"SS83","MG0633",,,
@@ -62044,7 +62061,7 @@
 45642,"SSLY","heliport","Norte Sul Heliport",-22.901944,-47.046944,2356,"SA","BR","BR-SP","Campinas","no",,,"SSLY",,,,
 335047,"SSMB","small_airport","Fazenda Oriente Airport",-22.282949,-43.628157,1877,"SA","BR","BR-RJ","Valença","no",,,"SSMB","RJ0187",,,
 37568,"SSMC","small_airport","Fazenda São Miguel da Catequese Airport",-22.087778091430664,-53.52000045776367,1209,"SA","BR","BR-MS","Nova Andradina","no",,,"SSMC",,,,
-37569,"SSME","small_airport","Fazenda Ipiranga Airport",-20.98055648803711,-55.565834045410156,804,"SA","BR","BR-MS","Anastácio","no",,,"SSME",,,,
+37569,"SSME","small_airport","Fazenda Ipiranga Airport",-20.976584,-55.565663,899,"SA","BR","BR-MS","Anastácio","no",,,"SS4V","MS0306",,,"SSME"
 45644,"SSMG","heliport","Uno Heliport",-23.956667,-46.331389,226,"SA","BR","BR-SP","Santos","no",,,"SSMG",,,,
 37570,"SSMH","small_airport","Fazenda Santa Maria Airport",-31.929443359375,-52.4636116027832,66,"SA","BR","BR-RS","Capão Do Leão","no",,,"SSMH",,,,
 37572,"SSMJ","small_airport","Maracaju Airport",-21.633888,-55.144906,1280,"SA","BR","BR-MS","Maracaju","no",,,"SSMJ","MS0020",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Maracaju",
