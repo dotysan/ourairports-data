@@ -1248,6 +1248,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 17113,DCK,small_airport,Dahl Creek Airport,66.943298,-156.904999,260,NA,US,US-AK,Dahl Creek,no,,DCK,PODC,DCK,,https://en.wikipedia.org/wiki/Dahl_Creek_Airport,
 302106,DDM,small_airport,Dodoima Airport,-8.17736111111,147.809444444,75,OC,PG,PG-NPP,,no,,DDM,,DDM,,,
 28576,DE-0004,small_airport,Gransee Airfield,53.00628,13.202177,164,EU,DE,DE-BR,Gransee,no,EDUG,,,,http://www.gojump.de/,https://de.wikipedia.org/wiki/Flugplatz_Gransee,
+308187,DE-0043,small_airport,Wilsche Glider Field,52.524677,10.462597,191,EU,DE,DE-NI,Gifhorn,no,EDVQ,,EDVQ,,,https://de.wikipedia.org/wiki/Flugplatz_Wilsche,
 315728,DE-0256,small_airport,Perleberg Glider Field,53.070464,11.818672,91,EU,DE,DE-MV,,no,EDUP,,,,http://www.aeroclub-perleberg.de/,https://de.wikipedia.org/wiki/Flugplatz_Perleberg,
 315950,DE-0295,small_airport,Müllheim Airfield,47.824316,7.639475,955,EU,DE,DE-BW,Müllheim,no,EDSM,,,,,https://de.wikipedia.org/wiki/Flugplatz_M%C3%BCllheim,"Flugplatz Müllheim, Segelflugplatz Müllheim"
 315960,DE-0298,small_airport,Deckenpfronn-Egelsee Airfield,48.6385,8.8175,1895,EU,DE,DE-BW,Sindelfingen,no,EDSD,,,,https://translate.google.com/translate?hl=en&sl=de&u=https://www.fsv-sindelfingen-ev.de/index.php%3Fid%3D84&prev=search,https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Deckenpfronn-Egelsee,
@@ -1479,7 +1480,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 28631,EDEL,small_airport,Langenlonsheim Airfield,49.908333,7.907778,295,EU,DE,DE-RP,Langenlonsheim,no,EDEL,,EDEL,,,https://en.wikipedia.org/wiki/Langenlonsheim_Airfield,
 29946,EDEP,small_airport,Heppenheim Glider Field,49.621944,8.624444,361,EU,DE,DE-HE,Heppenheim,no,EDEP,,,,,https://de.wikipedia.org/wiki/Flugplatz_Heppenheim,
 28500,EDFA,small_airport,Anspach-Taunus Airfield,50.288334,8.533889,1102,EU,DE,DE-HE,Wehrheim,no,EDFA,,,,,https://de.wikipedia.org/wiki/Flugplatz_Anspach/Taunus,Flugplatz Anspach/Taunus
-2226,EDFE,medium_airport,Frankfurt-Egelsbach Airport,49.96,8.643043,384,EU,DE,DE-HE,Egelsbach,no,EDFE,,EDFE,,http://www.egelsbach-airport.com/,https://en.wikipedia.org/wiki/Frankfurt_Egelsbach_Airport,
+2226,EDFE,medium_airport,Frankfurt-Egelsbach Airport,49.96,8.643043,384,EU,DE,DE-HE,Egelsbach,no,EDFE,,EDFE,,https://egelsbach-airport.com/,https://en.wikipedia.org/wiki/Frankfurt_Egelsbach_Airport,
 2227,EDFH,medium_airport,Frankfurt-Hahn Airport,49.9487,7.26389,1649,EU,DE,DE-RP,Frankfurt am Main (Lautzenhausen),yes,EDFH,HHN,EDFH,,https://www.hahn-airport.de/en/home,https://en.wikipedia.org/wiki/Frankfurt-Hahn_Airport,
 28512,EDFK,small_airport,Bad Kissingen Airfield,50.210556,10.068889,653,EU,DE,DE-BY,Bad Kissingen,no,EDFK,,EDFK,,,https://en.wikipedia.org/wiki/Bad_Kissingen_Airfield,
 2228,EDFM,medium_airport,Mannheim-City Airport,49.473057,8.514167,308,EU,DE,DE-BW,Mannheim,yes,EDFM,MHG,EDFM,,http://www.flugplatz-mannheim.de/,https://en.wikipedia.org/wiki/Mannheim_City_Airport,Mannheim
@@ -1500,6 +1501,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 28492,EDHO,small_airport,Ahrenlohe Airfield,53.70031,9.742119,33,EU,DE,DE-SH,Tornesch,no,EDHO,,,,,https://de.wikipedia.org/wiki/Flugplatz_Ahrenlohe,Flugplatz Ahrenlohe
 2237,EDJA,medium_airport,Memmingen Allgau Airport,47.988800048799995,10.2395000458,2077,EU,DE,DE-BY,Memmingen,yes,EDJA,FMM,EDJA,,,https://en.wikipedia.org/wiki/Memmingen_Airport,
 28490,EDKA,small_airport,Aachen-Merzbrück Airport,50.823055,6.186389,623,EU,DE,DE-NW,Aachen,no,EDKA,AAH,EDKA,,https://www.flugplatz-aachen.de,https://en.wikipedia.org/wiki/Aachen_Merzbr%C3%BCck_Airfield,"EDCM, ETBA, Flugplatz Aachen Merzbrück, Segelflug Aachen, Motorflug Aachen"
+2238,EDKV,small_airport,Dahlemer Binz Airfield,50.40611,6.530256,1896,EU,DE,DE-NW,Dahlhem,no,EDKV,,EDKV,,https://www.dahlemer-binz.de/,https://en.wikipedia.org/wiki/Dahlemer_Binz_Airfield,Flugplatz Dahlemer Binz
 28553,EDLD,small_airport,Dinslaken-Schwarze Heide Airfield,51.616018,6.861262,217,EU,DE,DE-NW,Hünxe,no,EDLD,,EDLD,,http://schwarze-heide.com,https://de.wikipedia.org/wiki/Flugplatz_Schwarze_Heide,
 2241,EDLE,small_airport,Essen-Mülheim Airport,51.402302,6.93733,424,EU,DE,DE-NW,Essen,no,EDLE,ESS,EDLE,,https://www.flughafen-essen-muelheim.de/,https://en.wikipedia.org/wiki/Essen/M%C3%BClheim_Airport,
 2242,EDLI,small_airport,Bielefeld Airport,51.964722,8.544444,454,EU,DE,DE-NW,Bielefeld,no,EDLI,BFE,EDLI,,http://www.flugplatz-bielefeld.de/,http://de.wikipedia.org/wiki/Flugplatz_Bielefeld,Flugplatz-Windelsbleiche
@@ -1946,7 +1948,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2741,ETNS,medium_airport,Schleswig Air Base,54.459301,9.51633,70,EU,DE,DE-SH,Jagel,no,ETNS,WBG,ETNS,,,https://en.wikipedia.org/wiki/Schleswig_Air_Base,
 2742,ETNT,medium_airport,Wittmundhafen Air Base,53.547798,7.66733,26,EU,DE,DE-NI,Wittmund,no,ETNT,,ETNT,,,https://en.wikipedia.org/wiki/Wittmundhafen_Air_Base,
 2744,ETNW,medium_airport,Wunstorf Air Base,52.457298,9.42717,187,EU,DE,DE-NI,,no,ETNW,,ETNW,,,https://en.wikipedia.org/wiki/Wunstorf_Air_Base,
-2746,ETOR,small_airport,Coleman Army Air Field,49.563599,8.46339,309,EU,DE,DE-BW,,no,ETOR,,ETOR,,,https://en.wikipedia.org/wiki/Coleman_Army_Airfield,
 2747,ETOU,medium_airport,Wiesbaden Army Airfield,50.049800872802734,8.325400352478027,461,EU,DE,DE-HE,Wiesbaden,no,ETOU,WIE,ETOU,,,https://en.wikipedia.org/wiki/Wiesbaden_Army_Airfield,
 2749,ETSB,medium_airport,Büchel Air Base,50.173801,7.06333,1568,EU,DE,DE-RP,Alflen,no,ETSB,,ETSB,,,https://en.wikipedia.org/wiki/B%C3%BCchel_Air_Base,
 2752,ETSH,medium_airport,Holzdorf Air Base,51.767799,13.1677,265,EU,DE,DE-BR,Holzdorf,no,ETSH,,ETSH,,,https://en.wikipedia.org/wiki/Holzdorf_Air_Base,
@@ -9176,7 +9177,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41448,WASB,small_airport,Stenkol Airport,-2.1033,133.5164,51,AS,ID,ID-PB,Bintuni,no,,NTI,WAUB,,,https://en.wikipedia.org/wiki/Bintuni_Airport,"ZKL, Steenkool"
 41449,WASC,small_airport,Abresso Airport,-1.496771,134.175,52,AS,ID,ID-PB,Ransiki-Papua Island,no,WASC,RSK,WASC,,,,
 41450,WASE,small_airport,Kebar Airport,-0.810418,133.054937,1360,AS,ID,ID-PB,Kebar,no,,KEQ,WAUK,,,https://id.wikipedia.org/wiki/Bandar_Udara_Kebar,
-26791,WASF,medium_airport,Fakfak Airport,-2.920508,132.267011,462,AS,ID,ID-PB,Fakfak,yes,WASF,FKQ,WASF,,,https://en.wikipedia.org/wiki/Fakfak_Airport,
+26791,WASF,medium_airport,Fakfak Airport,-2.920508,132.267011,462,AS,ID,ID-PB,Fakfak,yes,WASF,FKQ,WASF,,,https://en.wikipedia.org/wiki/Fakfak_Airport,"Iboru, Torea, Fak Fak"
 41451,WASI,small_airport,Inanwatan Airport,-2.127447,132.160056,9,AS,ID,ID-PB,Inanwatan,no,WASI,INX,WASI,,,https://id.wikipedia.org/wiki/Bandar_Udara_Inanwatan,
 26792,WASK,medium_airport,Kaimana Airport,-3.6446,133.695116,19,AS,ID,ID-PB,Kaimana,yes,WASK,KNG,WASK,,,https://en.wikipedia.org/wiki/Kaimana_Airport,
 41452,WASM,small_airport,Merdey Airport,-1.591154,133.295867,385,AS,ID,ID-PB,Merdei-Papua Island,no,,RDE,WAUM,,,,
@@ -9186,7 +9187,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32634,WASS,medium_airport,Domine Eduard Osok Airport,-0.894,131.287,10,AS,ID,ID-PB,Sorong,yes,WASS,SOQ,WASS,,,https://en.wikipedia.org/wiki/Domine_Eduard_Osok_Airport,WAXX
 32488,WAST,small_airport,Teminabuan Airport,-1.44545,132.021139,141,AS,ID,ID-PB,Atinjoe,no,WAST,TXM,WAST,,,,
 41373,WASU,small_airport,Kambuaya Airport,-1.316815,132.286987,1422,AS,ID,ID-PD,Kambuaya-Papua Island,no,WASU,KBX,WASU,,,https://id.wikipedia.org/wiki/Bandar_Udara_Kambuaya,Ayamaru
-41453,WASW,small_airport,Wasior Airport,-2.720434,134.505902,49,OC,ID,ID-PB,Wasior,no,WASW,WSR,WASW,,,https://id.wikipedia.org/wiki/Bandar_Udara_Wasior,
+41453,WASW,small_airport,Wasior Airport,-2.720434,134.505902,49,AS,ID,ID-PB,Wasior,no,,WSR,WAUW,,,https://id.wikipedia.org/wiki/Bandar_Udara_Wasior,WASW
 41475,WATA,small_airport,AA Bere Tallo (Haliwen) Airport,-9.074841,124.903285,1027,AS,ID,ID-NT,Atambua,yes,WATA,ABU,WATA,,,https://en.wikipedia.org/wiki/Haliwen_Airport,WRKA
 42249,WATB,small_airport,Bajawa Soa (Turelelo) Airport,-8.70777,121.058243,4326,AS,ID,ID-NT,"Soa, Ngada",no,,BJW,WATB,,,https://en.wikipedia.org/wiki/Bajawa_Soa_Airport,Turelelo
 26796,WATC,small_airport,Frans Xavier Seda Airport,-8.639514,122.238135,115,AS,ID,ID-NT,Waioti,yes,WATC,MOF,WATC,,,https://en.wikipedia.org/wiki/Frans_Xavier_Seda_Airport,"WRKC, Fransiskus Xavierius Seda, Maumere, Wai Oti"
@@ -9306,7 +9307,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31889,WITC,medium_airport,Cut Nyak Dhien Airport,4.040998,96.253312,10,AS,ID,ID-AC,Kuala Pesisir,yes,WITC,MEQ,WITC,,,https://en.wikipedia.org/wiki/Cut_Nyak_Dhien_Airport,
 32655,WITG,small_airport,Lasikin Airport,2.411328,96.327722,19,AS,ID,ID-AC,Lubang,yes,,LKI,WIML,,,,WITG
 333093,WITK,medium_airport,Rembele Airport,4.72113,96.851943,4648,AS,ID,ID-AC,Takengon,yes,WITK,TXE,WITK,,,https://en.wikipedia.org/wiki/Rembele_Airport,
-26860,WITL,medium_airport,Lhok Sukon Airport,5.06951,97.259201,28,AS,ID,ID-AC,Lhok Sukon-Sumatra Island,no,WITL,LSX,WITL,,,https://id.wikipedia.org/wiki/Bandar_Udara_Lhok_Sukon,
+26860,WITL,medium_airport,Lhok Sukon Airport,5.06951,97.259201,28,AS,ID,ID-AC,Lhok Sukon-Sumatra Island,no,WITL,LSX,WITL,,,https://id.wikipedia.org/wiki/Bandar_Udara_Lhok_Sukon,Lhoksukon
 26859,WITN,small_airport,Maimun Saleh Airport,5.874668,95.33967,393,AS,ID,ID-AC,Sabang,no,WITN,SBG,WITN,,,https://en.wikipedia.org/wiki/Maimun_Saleh_Airport,"WIAA, WITB"
 26862,WITT,medium_airport,Sultan Iskandar Muda International Airport,5.525087,95.41997,65,AS,ID,ID-AC,Banda Aceh,yes,WITT,BTJ,WITT,,,https://en.wikipedia.org/wiki/Sultan_Iskandar_Muda_International_Airport,WIAB
 41326,WMAN,small_airport,Sungai Tiang Airport,4.330277919769287,102.3949966430664,10,AS,MY,MY-06,Taman Negara,no,WMAN,SXT,WMAN,,,,
