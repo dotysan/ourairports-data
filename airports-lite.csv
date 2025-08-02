@@ -1254,6 +1254,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 315960,DE-0298,small_airport,Deckenpfronn-Egelsee Airfield,48.6385,8.8175,1895,EU,DE,DE-BW,Sindelfingen,no,EDSD,,,,https://translate.google.com/translate?hl=en&sl=de&u=https://www.fsv-sindelfingen-ev.de/index.php%3Fid%3D84&prev=search,https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Deckenpfronn-Egelsee,
 315962,DE-0300,small_airport,Bohlhof Glider Field,47.6509,8.3867,1885,EU,DE,DE-BW,Wutöschingen,no,EDTA,,,,http://www.bohlhof.de/,https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Bohlhof,Segelfluggelände Bohlhof
 316014,DE-0310,small_airport,Hütten Glider Field,47.6333,7.9412,2885,EU,DE,DE-BW,Rickenbach,no,EDSF,,,,http://www.lg-hotzenwald.de/,https://de.wikipedia.org/wiki/Flugplatz_H%C3%BCtten-Hotzenwald,Sonderlandeplatz Hütten-Hotzenwald
+320789,DE-0367,small_airport,Iserlohn-Sümmern Glider Field,51.436389,7.699722,591,EU,DE,DE-NW,Iserlohn,no,EDKS,,,,https://www.flugplatz-suemmern.de/,https://de.wikipedia.org/wiki/Flugplatz_Iserlohn-S%C3%BCmmern,
 336115,DEQ,small_airport,Deqing Moganshan Airport,30.504264,120.107388,,AS,CN,CN-33,Huzhou,no,,DEQ,,,,https://en.wikipedia.org/wiki/Deqing_Moganshan_Airport,
 315622,DEX,small_airport,Nop Goliat Dekai Airport,-4.8557,139.482006,198,AS,ID,ID-PP,Dekai,yes,WAVD,DEX,WAVD,,,https://en.wikipedia.org/wiki/Nop_Goliat_Dekai_Airport,Nop Goliath
 32704,DFCA,small_airport,Kaya Airport,13.067,-1.1,984,AF,BF,BF-SMT,Kaya,no,DFCA,XKY,DFCA,,,https://en.wikipedia.org/wiki/Kaya_Airport,
@@ -9260,7 +9261,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 333068,WICA,medium_airport,Kertajati International Airport,-6.648924,108.166692,134,AS,ID,ID-JB,Kertajati,yes,WICA,KJT,WICA,,,https://en.wikipedia.org/wiki/Kertajati_International_Airport,
 26823,WICB,small_airport,Budiarto Airport,-6.293171,106.57,151,AS,ID,ID-BT,Tangerang-Java Island,no,WIRR,RTO,WIRR,,,https://id.wikipedia.org/wiki/Bandar_Udara_Budiarto,"WIIA, WICB, Curug"
 26824,WICC,medium_airport,Husein Sastranegara International Airport,-6.90063,107.575996,2436,AS,ID,ID-JB,Bandung,yes,WICC,BDO,WICC,,,https://en.wikipedia.org/wiki/Husein_Sastranegara_International_Airport,WIIB
-26825,WICD,small_airport,Penggung Airport,-6.757,108.538849,89,AS,ID,ID-JB,Cirebon-Java Island,no,WICD,CBN,WICD,,,https://en.wikipedia.org/wiki/Penggung_Airport,"cakrabhuwana, cakrabuana, WIIC"
+26825,WICD,small_airport,Cakrabhuwana  Airport,-6.757,108.538849,89,AS,ID,ID-JB,Cirebon-Java Island,no,WICD,CBN,WICD,,,https://en.wikipedia.org/wiki/Penggung_Airport,"Cakrabuana, WIIC, Penggung Airport, Harjamukti"
 26826,WICM,small_airport,Cibeureum Airport,-7.3466,108.246002,1148,AS,ID,ID-JB,Tasikmalaya-Java Island,no,WICM,TSY,WICM,,,https://en.wikipedia.org/wiki/Tasikmalaya_Airport,"WIAM, wiriadinata"
 3272,WICN,small_airport,Nusawiru Airport,-7.719895,108.488995,16,AS,ID,ID-JB,Cijulang,yes,WICN,CJN,WICN,,,https://en.wikipedia.org/wiki/Cijulang_Nusawiru_Airport,WI1A
 525167,WIDB,small_airport,Tambelan Airport,0.979922,107.564658,19,AS,ID,ID-KR,Tambelan,no,,TBX,WIDB,,,https://id.wikipedia.org/wiki/Bandar_Udara_Tambelan,
@@ -9295,7 +9296,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26848,WIOP,medium_airport,Pangsuma Airport,0.834579,112.940217,297,AS,ID,ID-KB,Putussibau-Borneo Island,yes,WIOP,PSU,WIOP,,,https://en.wikipedia.org/wiki/Pangsuma_Airport,
 525696,WIOS,medium_airport,Tebelian Airport,-0.045214,111.458049,97,AS,ID,ID-KB,Sintang,yes,WIOS,SQG,WIOS,,,https://en.wikipedia.org/wiki/Tebelian_Airport,
 26850,WIPA,small_airport,Sultan Thaha Airport,-1.638685,103.645063,82,AS,ID,ID-JA,Jambi,yes,WIJJ,DJB,WIJJ,,,https://en.wikipedia.org/wiki/Sultan_Thaha_Airport,"WIPA, Palmerah"
-41459,WIPB,small_airport,Silampari Airport,-3.288165,102.91449,371,AS,ID,ID-SS,Lubuk Linggau,no,WIPB,LLJ,WIPB,LLG,http://hubud.dephub.go.id/?en+info_bandara+detail+100,https://en.wikipedia.org/wiki/Silampari_Airport,
+41459,WIPB,small_airport,Silampari Airport,-3.288165,102.91449,371,AS,ID,ID-SS,Lubuk Linggau,no,WIPB,LLJ,WIPB,LLG,,https://en.wikipedia.org/wiki/Silampari_Airport,
 310599,WIPI,small_airport,Muara Bungo Airport,-1.541635,102.181613,192,AS,ID,ID-JA,Muara Bungo,yes,,BUU,WIJB,,https://web.archive.org/web/20171021003712/http://www.infobungo.com:80/2012/12/jadwal-penerbangan-dari-bandara-muara.html,https://en.wikipedia.org/wiki/Muara_Bungo_Airport,Pasir Mayang
 26852,WIPK,medium_airport,Depati Amir Airport,-2.1622,106.139,109,AS,ID,ID-BB,Pangkal Pinang,yes,WIKK,PGK,WIKK,,,https://en.wikipedia.org/wiki/Pangkalpinang_Airport,WIPK
 26853,WIPL,medium_airport,Fatmawati Soekarno Airport,-3.8637,102.338997,50,AS,ID,ID-BE,Bengkulu,yes,WIGG,BKS,WIGG,,,https://en.wikipedia.org/wiki/Fatmawati_Soekarno_Airport,"WIPL, Padang Kemiling Airport"
