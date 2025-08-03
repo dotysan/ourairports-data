@@ -15549,24 +15549,24 @@
 36861,"BR-2700","heliport","Resgate Região Oceânica Heliport",-22.938889,-43.060833,56,"SA","BR","BR-RJ","Niterói","no",,,,,,,"SJSY"
 36862,"BR-2701","heliport","Usina Mundial Heliport",-21.195278,-51.218334,1214,"SA","BR","BR-SP","Mirandópolis","no",,,,,,,"SJSZ"
 36863,"BR-2702","small_airport","Cristal Airport",-22.181961,-50.493064,1355,"SA","BR","BR-SP","Borá","no",,,,,,,"SJTA"
-36866,"BR-2703","heliport","Praia do Algodão Heliport",-22.991111755371,-44.422779083252,69,"SA","BR","BR-RJ","Angra Dos Reis","no",,,,"SJTE",,,"SJTE"
-36868,"BR-2704","small_airport","Fazenda Calcário Tangará Airport",-14.450278282166,-57.800556182861,1831,"SA","BR","BR-MT","Tangará Da Serra","no",,,,"SJTG",,,"SJTG"
-36869,"BR-2705","small_airport","Fazenda Iapó Airport",-24.527778625488,-50.365833282471,2700,"SA","BR","BR-PR","Tibagi","no",,,,"SJTI",,,"SJTI"
-36871,"BR-2706","small_airport","Ecofly Airport",-22.296943664551,-48.120277404785,2129,"SA","BR","BR-SP","Brotas","no",,,,"SJTK",,,"SJTK"
+36866,"BR-2703","heliport","Praia do Algodão Heliport",-22.991112,-44.422779,69,"SA","BR","BR-RJ","Angra dos Reis","no",,,,,,,"SJTE"
+36868,"BR-2704","small_airport","Fazenda Calcário Tangará Airport",-14.450278,-57.800556,1831,"SA","BR","BR-MT","Tangará da Serra","no",,,,,,,"SJTG"
+36869,"BR-2705","small_airport","Fazenda Iapó Airport",-24.527779,-50.365833,2700,"SA","BR","BR-PR","Tibagi","no",,,,,,,"SJTI"
+36871,"BR-2706","small_airport","Ecofly Airport",-22.297202,-48.118883,2129,"SA","BR","BR-SP","Brotas","no",,,,,,,"SJTK"
 36874,"BR-2707","small_airport","Fazenda Alvorada do Caxingó Airport",-13.374544,-46.899301,1742,"SA","BR","BR-GO","Monte Alegre de Goiás","no",,,,,,,"SJTN"
 36875,"BR-2708","small_airport","São José Airport",-14.151931,-57.786648,2083,"SA","BR","BR-MT","Campo Novo do Parecis","no",,,,,,,"SJTO"
 36877,"BR-2709","small_airport","Fazenda Santa Tereza Airport",-22.371655,-43.249449,2087,"SA","BR","BR-RJ","Petrópolis","no",,,,,,,"SJTQ"
 36878,"BR-2710","heliport","Angélica IV Heliport",-23.5539,-46.662776,2933,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SJTR"
 36882,"BR-2711","small_airport","Fazenda Guerra Airport",-11.474167,-57.921112,984,"SA","BR","BR-MT","Juara","no",,,,,,,"SJTV"
 36883,"BR-2712","heliport","Centauro Heliport",-7.818467,-34.918277,66,"SA","BR","BR-PE","Igarassu","no",,,,"SJTW",,,"SJTW"
-36889,"BR-2713","small_airport","Jardim Paraíso Airport",-12.108332633972,-45.777500152588,2395,"SA","BR","BR-BA","Luís Eduardo Magalhães","no",,,,"SJUC",,,"SJUC"
+36889,"BR-2713","closed","Jardim Paraíso Airport",-12.108333,-45.7775,2395,"SA","BR","BR-BA","Luís Eduardo Magalhães","no",,,,,,,"SJUC"
 36890,"BR-2714","small_airport","Usina Dourados Airport",-21.990278244019,-55.113056182861,1420,"SA","BR","BR-MS","Dourados","no",,,,"SJUD",,,"SJUD"
 36900,"BR-2715","heliport","Forest Trade Heliport",-23.579444885254,-46.661666870117,2526,"SA","BR","BR-SP","São Paulo","no",,,,"SJUO",,,"SJUO"
 36901,"BR-2716","heliport","Braskem Heliport",-12.679444313049,-38.321109771729,223,"SA","BR","BR-BA","Camaçari","no",,,,"SJUP",,,"SJUP"
 36906,"BR-2717","heliport","A Universal Heliport",-23.517221450806,-46.627220153809,2507,"SA","BR","BR-SP","São Paulo","no",,,,"SJUV",,,"SJUV"
 36912,"BR-2718","small_airport","Fazenda Sagrado Coração de Jesus Airport",-15.089966,-60.116555,499,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,,"SJVB",,,"SJVB"
 36913,"BR-2719","small_airport","Ibiporanga da Felicidade Airport",-20.459167480469,-49.533611297607,1779,"SA","BR","BR-SP","Tanabi","no",,,,"SJVC",,,"SJVC"
-36916,"BR-2720","small_airport","Fazenda Colorado Airport",-18.817778,-53.865002,1785,"SA","BR","BR-MS","Figueirão","no",,,,"SJVF",,,"SJVF"
+36916,"BR-2720","small_airport","Fazenda Colorado Airport",-18.817778,-53.865002,1785,"SA","BR","BR-MS","Figueirão","no",,,,,,,"SJVF"
 36917,"BR-2721","heliport","Jacarecica Heliport",-9.6047220230103,-35.679721832275,1,"SA","BR","BR-AL","Maceió","no",,,,"SJVG",,,"SJVG"
 36923,"BR-2722","small_airport","Fazenda do Limão Airport",0.28916698694229,-53.869998931885,984,"SA","BR","BR-PA","Almeirim","no",,,,"SJVN",,,"SJVN"
 36926,"BR-2723","small_airport","Triálcool Airport",-18.889444351196,-49.286109924316,2231,"SA","BR","BR-MG","Canápolis","no",,,,"SJVQ",,,"SJVQ"
@@ -15693,7 +15693,7 @@
 37256,"BR-2844","heliport","Moinho II Heliport",-21.944721221924,-45.620277404785,2958,"SA","BR","BR-MG","São Gonçalo Do Sapucaí","no",,,,"SNSP",,,"SNSP"
 37258,"BR-2845","small_airport","Fazenda São Pedro Airport",-23.663821,-54.079044,1001,"SA","BR","BR-MS","Eldorado","no",,,,"MS0279",,,"SNSV, SSGS, BR-2845"
 37261,"BR-2846","small_airport","Fazenda Itaguassu Airport",-21.355556488037,-55.619720458984,1401,"SA","BR","BR-MS","Maracaju","no",,,,"SNSZ",,,"SNSZ"
-37263,"BR-2847","small_airport","Afogados da Ingazeira Airport",-7.7236108779907,-37.61888885498,1844,"SA","BR","BR-PE","Afogados Da Ingazeira","no",,,,"SNTB",,,"SNTB"
+37263,"BR-2847","small_airport","Afogados da Ingazeira Airport",-7.723611,-37.618889,1844,"SA","BR","BR-PE","Afogados da Ingazeira","no",,,,,,,"SNTB"
 37264,"BR-2848","small_airport","Tambori Airport",-5.160819,-42.72031,66,"SA","BR","BR-PI","Teresina","no",,,,"PI0032",,,"SNWQ, SNTC, BR-2848"
 37265,"BR-2849","small_airport","Afrânio Airport",-8.6105556488037,-41.0002784729,1703,"SA","BR","BR-PE","Afrânio","no",,,,"SNTG",,,"SNTG"
 37266,"BR-2850","small_airport","Santa Teresa Airport",-4.2913889884949,-56.087501525879,98,"SA","BR","BR-PA","Itaituba","no",,,,"SNTJ",,,"SNTJ"
@@ -15843,7 +15843,7 @@
 37704,"BR-2994","small_airport","Fazenda Manduri Airport",-18.508231,-56.424667,394,"SA","BR","BR-MS","Corumbá","no",,,,"MS0041",,,"SSVX, SDNV, BR-2994"
 37706,"BR-2995","small_airport","Fazenda Campo Verde Airport",-18.92212,-53.062763,2608,"SA","BR","BR-MS","Costa Rica","no",,,,"SSWC",,,"SSWC"
 37707,"BR-2996","small_airport","Fazenda Califórnia Airport",-21.74388885498,-50.947498321533,1450,"SA","BR","BR-SP","Inúbia Paulista","no",,,,"SSWE",,,"SSWE"
-37708,"BR-2997","small_airport","Frederico Westphalen Airport",-27.347778,-53.4025,1857,"SA","BR","BR-RS","Frederico Westphalen","no",,,,"SSWF","https://www.facebook.com/aeroclubeFW","https://pt.wikipedia.org/wiki/Aeroporto_de_Frederico_Westphalen","SSWF, SSOW"
+37708,"BR-2997","small_airport","Aeroclube de Frederico Westphalen",-27.347778,-53.4025,1857,"SA","BR","BR-RS","Frederico Westphalen","no",,,"SSOW",,"https://www.facebook.com/aeroclubeFW","https://pt.wikipedia.org/wiki/Aeroporto_de_Frederico_Westphalen","SSWF"
 37709,"BR-2998","small_airport","Guaiacuruzinho Airport",-23.029883,-50.493068,1148,"SA","BR","BR-PR","Santa Mariana","no",,,,"SSWK",,,"SSWK"
 37710,"BR-2999","small_airport","Haras Fazenda Reunidas Sobral Airport",-1.284956,-48.214081,115,"SA","BR","BR-PA","Santa Isabel do Pará","no",,,,"SSWL",,,"SSWL"
 37712,"BR-3000","small_airport","Fazenda Figueira Branca Airport",-16.228332519531,-57.592220306396,820,"SA","BR","BR-MT","Cáceres","no",,,,"SSWN",,,"SSWN"
@@ -32726,7 +32726,7 @@
 320158,"IT-0410","small_airport","SCUV Aero Club Valdarno Airfield",43.528658,11.474759,1131,"EU","IT","IT-52","Cavriglia (AR)","no",,,,"ARCVP",,,"SCUV, Valle al Pero, Aviosuperficie Aero Club Valdarno S.C.U.V."
 320159,"IT-0411","small_airport","Massimo Costa Airfield",43.092657,10.556215,111,"EU","IT","IT-52","San Vincenzo (LI)","no",,,,"LISVN",,,"Campo di Volo Massimo Costa, Sky Sports Europe"
 320165,"IT-0412","closed","Condor Airfield",42.969167,10.619722,10,"EU","IT","IT-52","Piombino (LI)","no",,,,,,,"Condor, LI08"
-320166,"IT-0413","small_airport","Aviosuperficie del Parteolla",39.400471,9.139151,433,"EU","IT","IT-88","Serdiana","no",,,,"CASER","http://skydivesardegna.it",,"Skydive Sardegna,Parteolla"
+320166,"IT-0413","small_airport","Aviosuperficie del Parteolla",39.400471,9.139151,433,"EU","IT","IT-88","Serdiana","no","CAOT",,,"CASER","http://skydivesardegna.it",,"Skydive Sardegna, Parteolla"
 320167,"IT-0414","small_airport","Aviosuperficie ""La Tana del Volo""",39.269133,8.771811,272,"EU","IT","IT-88","Siliqua (CA)","no",,,,"CASIL","http://www.latanadelvolo.it/",,"La Tana del Volo"
 320176,"IT-0415","small_airport","Valeggio sul Mincio Airfield",45.317432,10.708423,,"EU","IT","IT-34","Valeggio sul Mincio (VR)","no",,,,"VRVAL",,,"Campo di Volo Scaligero, Campo Volo di Valeggio Sul Mincio, Scaligero"
 320177,"IT-0416","small_airport","Arcadia Airfield",45.500837,10.789056,,"EU","IT","IT-34","Pastrengo (VR)","no",,,,"VR15",,,"Arcadia, Aviosuperficie Arcadia"
@@ -51119,7 +51119,7 @@
 41613,"OPCT","small_airport","Chirat Airport",33.968101501464844,71.96749877929688,1192,"AS","PK","PK-KP","Nowshera","no",,,"OPCT",,,,
 30878,"OPDB","small_airport","Dalbandin Airport",28.878299713100002,64.3998031616,2800,"AS","PK","PK-BA","Dalbandin","yes","OPDB","DBA","OPDB",,,"https://en.wikipedia.org/wiki/Dalbandin_Airport","OPXX"
 5249,"OPDG","medium_airport","Dera Ghazi Khan Airport",29.961000442504883,70.48590087890625,492,"AS","PK","PK-PB","Dera Ghazi Khan","yes","OPDG","DEA","OPDG",,,"https://en.wikipedia.org/wiki/Dera_Ghazi_Khan_Airport",
-5250,"OPDI","medium_airport","Dera Ismael Khan Airport",31.909401,70.896599,594,"AS","PK","PK-KP","Dera Ismael Khan","no","OPDI","DSK","OPDI",,,"https://en.wikipedia.org/wiki/Dera_Ismail_Khan_Airport",
+5250,"OPDI","medium_airport","Dera Ismael Khan Airport [IN-ACTIVE]",31.909401,70.896599,594,"AS","PK","PK-KP","Dera Ismael Khan","no","OPDI","DSK","OPDI",,,"https://en.wikipedia.org/wiki/Dera_Ismail_Khan_Airport",
 41615,"OPDK","small_airport","Daharki Airport",28.5,69.69999694824219,274,"AS","PK","PK-PB","Daharki","no",,,"OPDK",,,,
 5251,"OPFA","medium_airport","Faisalabad International Airport",31.364999771118164,72.99479675292969,591,"AS","PK","PK-PB","Faisalabad","yes","OPFA","LYP","OPFA",,,"https://en.wikipedia.org/wiki/Faisalabad_International_Airport","OPLF"
 342092,"OPGD","medium_airport","New Gwadar International Airport",25.296733,62.498822,61,"AS","PK","PK-BA","Gurandani","yes","OPGD","GWD","OPGD",,"https://aviation.gov.pk/ProjectDetail/M2QzOWJmMjUtZTU3MC00NmFkLWE4YmMtZDFhMmRlOGU2NGRh","https://en.wikipedia.org/wiki/New_Gwadar_International_Airport","Feroz Khan Noon"
@@ -82996,6 +82996,7 @@
 595536,"ZA-0347","small_airport","Wild Rivers Airfield",-24.27446,30.8896,1637,"AF","ZA","ZA-NP","Hoedspruit","no",,,,,,,
 597938,"ZA-0348","closed","Rietfontein Airfield",-26.031639,27.881164,5038,"AF","ZA","ZA-GT","Rietfontein","no",,,,,,,"FARF"
 598260,"ZA-0349","small_airport","Silver Creek Gorge Estate Airfield",-25.801109,27.515409,4354,"AF","ZA","ZA-NW","Mooinooi","no",,,,,"https://silvercreekgorge.com/estate/our-aviation-lifestyle/",,
+599533,"ZA-0350","small_airport","Ingwelala",-24.16212,31.39501,1109,"AF","ZA","ZA-MP","Ingwelala","no",,,,"R429","https://www.ingwelala.co.za",,
 31753,"ZA-KIG","small_airport","Koingnaas Airport",-30.187136,17.282706,228,"AF","ZA","ZA-NC","Koingnaas","no",,"KIG",,,,,
 27188,"ZBAA","large_airport","Beijing Capital International Airport",40.080101013183594,116.58499908447266,116,"AS","CN","CN-11","Beijing","yes","ZBAA","PEK","ZBAA",,"http://en.bcia.com.cn/","https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport","BJS, Bejing, Peking, Olympics"
 330820,"ZBAD","large_airport","Beijing Daxing International Airport",39.509945,116.41092,98,"AS","CN","CN-11","Beijing","yes","ZBAD","PKX","ZBAD",,,"https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport",
