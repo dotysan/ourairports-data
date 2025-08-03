@@ -3293,6 +3293,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 317284,IRU,seaplane_base,Iranamadu Seaplane Base,9.299746,80.448627,102,AS,LK,LK-4,Iranamadu,no,,IRU,,,,,
 298700,IT-0010,small_airport,Calatabiano (Aviosuperficie Angelo D'Arrigo),37.799561,15.22775,197,EU,IT,IT-82,Calatabiano (CT),no,LICN,,LICN,CTFFD,http://www.triavio.eu,,"CT05, Etnavolo, Fiumefreddo di Sicilia"
 319508,IT-0307,small_airport,Dominio di Bagnoli Airfield,45.183946,11.857326,3,EU,IT,IT-34,Bagnoli di Sopra (PD),no,LION,,,PD19,,,Aviosuperficie Dominio di Bagnoli
+320166,IT-0413,small_airport,Aviosuperficie del Parteolla,39.400471,9.139151,433,EU,IT,IT-88,Serdiana,no,CAOT,,,CASER,http://skydivesardegna.it,,"Skydive Sardegna, Parteolla"
 308235,ITK,small_airport,Itokama Airport,-9.201527,148.264261,2563,OC,PG,PG-NPP,Itokama,no,,ITK,AYIK,ITK,,,
 316549,IVI,small_airport,Viveros Island Airport,8.4693,-79.0016,100,NA,PA,PA-8,Isla Viveros,no,,IVI,,,,,
 319816,JIO,small_airport,Jos Orno Imsula Airport,-8.140402,127.908758,43,AS,ID,ID-MA,Tiakur,yes,,JIO,WAPM,,,https://en.wikipedia.org/wiki/Jos_Orno_Imsula_Airport,"Moa Island, Leti Islands"
@@ -6583,7 +6584,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30826,OPCL,small_airport,Chilas Airport,35.426700592,74.081703186,4146,AS,PK,PK-GB,Chilas,no,OPCL,CHB,OPCL,,,https://en.wikipedia.org/wiki/Chilas_Airport,
 30878,OPDB,small_airport,Dalbandin Airport,28.878299713100002,64.3998031616,2800,AS,PK,PK-BA,Dalbandin,yes,OPDB,DBA,OPDB,,,https://en.wikipedia.org/wiki/Dalbandin_Airport,OPXX
 5249,OPDG,medium_airport,Dera Ghazi Khan Airport,29.961000442504883,70.48590087890625,492,AS,PK,PK-PB,Dera Ghazi Khan,yes,OPDG,DEA,OPDG,,,https://en.wikipedia.org/wiki/Dera_Ghazi_Khan_Airport,
-5250,OPDI,medium_airport,Dera Ismael Khan Airport,31.909401,70.896599,594,AS,PK,PK-KP,Dera Ismael Khan,no,OPDI,DSK,OPDI,,,https://en.wikipedia.org/wiki/Dera_Ismail_Khan_Airport,
+5250,OPDI,medium_airport,Dera Ismael Khan Airport [IN-ACTIVE],31.909401,70.896599,594,AS,PK,PK-KP,Dera Ismael Khan,no,OPDI,DSK,OPDI,,,https://en.wikipedia.org/wiki/Dera_Ismail_Khan_Airport,
 5251,OPFA,medium_airport,Faisalabad International Airport,31.364999771118164,72.99479675292969,591,AS,PK,PK-PB,Faisalabad,yes,OPFA,LYP,OPFA,,,https://en.wikipedia.org/wiki/Faisalabad_International_Airport,OPLF
 342092,OPGD,medium_airport,New Gwadar International Airport,25.296733,62.498822,61,AS,PK,PK-BA,Gurandani,yes,OPGD,GWD,OPGD,,https://aviation.gov.pk/ProjectDetail/M2QzOWJmMjUtZTU3MC00NmFkLWE4YmMtZDFhMmRlOGU2NGRh,https://en.wikipedia.org/wiki/New_Gwadar_International_Airport,Feroz Khan Noon
 5253,OPGT,medium_airport,Gilgit Airport,35.918800354003906,74.33360290527344,4796,AS,PK,PK-GB,Gilgit,yes,OPGT,GIL,OPGT,,,https://en.wikipedia.org/wiki/Gilgit_Airport,
