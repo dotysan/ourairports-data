@@ -1868,24 +1868,36 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 429793,ES-0324,heliport,Melilla Heliport,35.3021,-2.94448,225,AF,ES,ES-ML,Melilla,no,GEHM,,GEHM,,,,
 331423,ES-0366,small_airport,El Rinconcillo de Guadalupe,39.594127,-6.206276,,EU,ES,ES-EX,,no,LEGP,,LEGP,,,,LEGP
 598704,ES-0368,small_airport,(??Duplicate??)LEVS AIRPORT,12.862546,-13.818091,2269,AF,ES,ES-MD,,no,LEVS,,,,,,
+599574,ESAN,heliport,Norra Alvsborgs County Hospital Heliport,58.319006,12.26819,312,EU,SE,SE-Q,Trollhättan,no,ESEN,,ESAN,NAL,,,
+2643,ESCF,medium_airport,Malmen Air Base,58.397666,15.522422,308,EU,SE,SE-E,Linköping,no,ESCF,,ESCF,,,https://en.wikipedia.org/wiki/Malmen_Airbase,
+2645,ESCM,small_airport,Ärna Air Base,59.897301,17.5886,68,EU,SE,SE-C,Uppsala,no,ESCM,,ESCM,,,https://en.wikipedia.org/wiki/%C3%84rna,
 2646,ESDF,medium_airport,Ronneby Airport,56.266701,15.265,191,EU,SE,SE-K,Ronneby,yes,ESDF,RNB,ESDF,,https://www.swedavia.com/ronneby/,https://en.wikipedia.org/wiki/Ronneby_Airport,
+300955,ESEM,heliport,Lund Hospital Helipad,55.711762,13.198793,352,EU,SE,SE-M,Lund,no,ESEM,,ESEM,,,,
+599575,ESES,heliport,Sunderby Hospital Heliport,65.669523,21.935366,35,EU,SE,SE-BD,Luleå,no,ESES,,ESES,,,,
 2648,ESGG,large_airport,Göteborg Landvetter Airport,57.6628,12.2798,506,EU,SE,SE-Q,Göteborg,yes,ESGG,GOT,ESGG,,https://www.swedavia.com/landvetter/,https://en.wikipedia.org/wiki/G%C3%B6teborg_Landvetter_Airport,"Göteborg-Landvetter, Gothenburg"
 2649,ESGJ,medium_airport,Jönköping Airport,57.757598876953125,14.068699836730957,741,EU,SE,SE-F,Jönköping,yes,ESGJ,JKG,ESGJ,,http://www.lfv.se/templates/LFV_AirportStartPage____1672.aspx,https://en.wikipedia.org/wiki/J%C3%B6nk%C3%B6ping_Airport,
 2651,ESGL,small_airport,Lidköping-Hovby Airport,58.4655,13.1744,200,EU,SE,SE-Q,Lidköping,no,ESGL,LDK,ESGL,,http://www.lidkopingairport.com/,https://en.wikipedia.org/wiki/Lidk%C3%B6ping-Hovby_Airport,
 2652,ESGP,medium_airport,Säve Airport,57.7747,11.8704,59,EU,SE,SE-Q,Göteborg,no,ESGP,GSE,ESGP,,https://www.saveflygplats.com/,https://en.wikipedia.org/wiki/S%C3%A4ve_Airport,"Göteborg City Airport, Gothenburg City Airport"
 2653,ESGR,medium_airport,Skövde Airport,58.456402,13.9727,324,EU,SE,SE-Q,Skövde,no,ESGR,KVB,ESGR,,,https://en.wikipedia.org/wiki/Sk%C3%B6vde_Airport,
 2654,ESGT,medium_airport,Trollhättan-Vänersborg Airport,58.31809997558594,12.345000267028809,137,EU,SE,SE-Q,Trollhättan,yes,ESGT,THN,ESGT,,,https://en.wikipedia.org/wiki/Trollh%C3%A4ttan-V%C3%A4nersborg_Airport,
+599571,ESHC,heliport,Södersjukhuset Hospital Heliport,59.308529,18.054789,136,EU,SE,SE-AB,Stockholm,no,ESHC,,ESHC,,https://www.sodersjukhuset.se/,,
 2658,ESKK,medium_airport,Karlskoga Airport,59.345901,14.4959,407,EU,SE,SE-T,Karlskoga,no,ESKK,KSK,ESKK,,https://karlskoga-airport.se/,https://en.wikipedia.org/wiki/Karlskoga_Airport,
 2659,ESKM,medium_airport,Mora Airport,60.957901,14.5114,634,EU,SE,SE-W,Mora,yes,ESKM,MXX,ESKM,,,https://en.wikipedia.org/wiki/Mora-Siljan_Airport,
 2660,ESKN,medium_airport,Stockholm Skavsta Airport,58.788601,16.912201,140,EU,SE,SE-D,Nyköping,yes,ESKN,NYO,ESKN,,,https://en.wikipedia.org/wiki/Stockholm-Skavsta_Airport,
 316498,ESKS,medium_airport,Scandinavian Mountains Airport,61.158393,12.842503,1608,EU,SE,SE-W,Malung-Sälen,yes,,SCR,ESKS,,https://scandinavianmountains.se/en/home/,https://en.wikipedia.org/wiki/Scandinavian_Mountains_Airport,"Sälens Flygplats, Trysil"
 29344,ESME,small_airport,Eslöv Airfield,55.848923,13.329935,296,EU,SE,SE-M,Eslöv,no,ESME,,ESME,,https://eslovsflygplats.se/information-for-piloter/,http://sv.wikipedia.org/wiki/Esl%C3%B6vs_flygplats,
 2664,ESMK,medium_airport,Kristianstad Airport,55.9217,14.0855,76,EU,SE,SE-M,Kristianstad,no,ESMK,KID,ESMK,,https://kidairport.com,https://en.wikipedia.org/wiki/Kristianstad_Airport,
+2665,ESML,small_airport,Landskrona Enoch Thulins Airfield,55.946124,12.870001,194,EU,SE,SE-M,Härslöv,no,ESML,,ESML,,http://landskronaflygklubb.se,https://de.wikipedia.org/wiki/Flugplatz_Landskrona,JLD
 2666,ESMO,small_airport,Oskarshamn Airport,57.350498,16.497999,96,EU,SE,SE-H,Oskarshamn,no,ESMO,OSK,ESMO,,,https://en.wikipedia.org/wiki/Oskarshamn_Airport,
 2668,ESMQ,medium_airport,Kalmar Airport,56.685501,16.2876,17,EU,SE,SE-H,Kalmar,yes,ESMQ,KLR,ESMQ,,,https://en.wikipedia.org/wiki/Kalmar_Airport,
 2669,ESMS,medium_airport,Malmö Sturup Airport,55.535564,13.376327,236,EU,SE,SE-M,Malmö,yes,ESMS,MMX,ESMS,,http://www.swedavia.com/malmo/,https://en.wikipedia.org/wiki/Malm%C3%B6_Airport,
 2670,ESMT,medium_airport,Halmstad Airport,56.69110107421875,12.820199966430664,101,EU,SE,SE-N,Halmstad,yes,ESMT,HAD,ESMT,,,https://en.wikipedia.org/wiki/Halmstad_Airport,
+29350,ESMU,small_airport,Möckeln Airfield,56.572514,14.16885,480,EU,SE,SE-G,Älmhult,no,ESMU,,ESMU,,,https://en.wikipedia.org/wiki/M%C3%B6ckeln_Airport,
+2671,ESMV,small_airport,Hagshult Air Base,57.292194,14.136792,556,EU,SE,SE-F,,no,ESMV,,ESMV,,http://www.flygklubb.se/medlem/index.cfm?klubb=001&user=999&password=demo,https://sv.wikipedia.org/wiki/Hagshult_flygbas,
 2672,ESMX,medium_airport,Växjö Kronoberg Airport,56.929100036621094,14.727999687194824,610,EU,SE,SE-G,Växjö,yes,ESMX,VXO,ESMX,,,https://en.wikipedia.org/wiki/V%C3%A4xj%C3%B6_Airport,
+29352,ESMY,small_airport,Smålandsstenar Smålanda Airfield,57.168598,13.4402,540,EU,SE,SE-F,Smålandsstenar,no,ESMY,,ESMY,,,,
+29353,ESMZ,small_airport,Ölanda Airfield,57.328236,17.050524,27,EU,SE,SE-H,Ölanda,no,ESMZ,,ESMZ,,http://www.ölanda.se/,,Öland
+2673,ESNA,small_airport,Hallviken Airfield,63.7383,15.4583,1119,EU,SE,SE-Z,Hallviken,no,ESNA,,ESNA,,,https://sv.wikipedia.org/wiki/Hallvikens_flygf%C3%A4lt,
 2675,ESND,small_airport,Sveg Airport,62.047798,14.4229,1178,EU,SE,SE-Z,Sveg,yes,ESND,EVG,ESND,,,https://en.wikipedia.org/wiki/Sveg_Airport,
 2676,ESNG,medium_airport,Gällivare Airport,67.13240051269531,20.814599990844727,1027,EU,SE,SE-BD,Gällivare,yes,ESNG,GEV,ESNG,,,https://en.wikipedia.org/wiki/G%C3%A4llivare_Airport,
 2679,ESNK,medium_airport,Kramfors-Sollefteå Höga Kusten Airport,63.048599,17.7689,34,EU,SE,SE-Y,Nyland,yes,ESNK,KRF,ESNK,,,https://en.wikipedia.org/wiki/Kramfors_Airport,
@@ -5045,7 +5057,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 308328,LEDA,medium_airport,Lleida-Alguaire Airport,41.728185,0.535023,1152,EU,ES,ES-CT,Lleida,yes,LEDA,ILD,LEDA,,http://www.aeroportlleida.cat/?L=2,https://en.wikipedia.org/wiki/Lleida-Alguaire_Airport,
 4010,LEGE,medium_airport,Girona-Costa Brava Airport,41.904639,2.761774,468,EU,ES,ES-CT,Girona,yes,LEGE,GRO,LEGE,,https://www.aena.es/en/girona-costa-brava.html,https://en.wikipedia.org/wiki/Girona-Costa_Brava_Airport,"Girona, Costa Brava, Girona-Costa Brava"
 4011,LEGR,medium_airport,F.G.L. Airport Granada-Jaén Airport,37.188702,-3.77736,1860,EU,ES,ES-AN,Granada,yes,LEGR,GRX,LEGR,,https://www.aena.es/en/f.g.l.-granada-jaen.html,https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca_Airport,
-4012,LEGT,medium_airport,Getafe Air Base,40.294102,-3.72383,2034,AF,ES,ES-MD,Getafe,no,LEGT,,LEGT,,,https://en.wikipedia.org/wiki/Getafe_Air_Base,
+4012,LEGT,medium_airport,Getafe Air Base,40.294102,-3.72383,2034,EU,ES,ES-MD,Getafe,no,LEGT,,LEGT,,,https://en.wikipedia.org/wiki/Getafe_Air_Base,
 29967,LEHC,small_airport,Huesca-Pirineos Airport,42.076099,-0.316667,1769,EU,ES,ES-AR,Monflorite/Alcalá del Obispo,no,LEHC,HSK,LEHC,,https://www.aena.es/en/huesca-pirineos.html,https://en.wikipedia.org/wiki/Huesca%E2%80%93Pirineos_Airport,"Huesca-Pirineos, Huesca-Pyrenees"
 4013,LEIB,large_airport,Ibiza Airport,38.872898,1.37312,24,EU,ES,ES-IB,Ibiza (Eivissa),yes,LEIB,IBZ,LEIB,,https://www.aena.es/en/ibiza.html,https://en.wikipedia.org/wiki/Ibiza_Airport,
 4015,LEJR,medium_airport,Jerez Airport,36.744598,-6.06011,93,EU,ES,ES-AN,Jerez de la Frontera,yes,LEJR,XRY,LEJR,,https://www.aena.es/en/jerez.html,https://en.wikipedia.org/wiki/Jerez_Airport,
