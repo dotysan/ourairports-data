@@ -11657,7 +11657,7 @@
 354093,"AU-0699","closed","Ashburton Downs Homestead Airstrip",-23.406506,117.084174,,"OC","AU","AU-WA","Ashburton Downs Homestead","no",,,,,,,"YADH, YADH"
 354821,"AU-0700","closed","Bellata Airstrip",-29.918567,149.781183,729,"OC","AU","AU-NSW","Bellata","no",,,,,,,"YBET, YBET"
 430064,"AU-0701","closed","FPSO Challis Venture Helideck",-12.133333,125.016667,50,"OC","AU","AU-XX","Timor Sea","no",,,,,"https://web.archive.org/web/20160808181608/https://www.ihi.co.jp/offshore/challisventure_e.htm",,"Offshore, Oil & Gas, Barge, FPSO, REMOVED, YCVN"
-27421,"AU-0702","small_airport","Bulloo Downs Station Airport",-24.013905,119.555805,1899,"OC","AU","AU-WA",,"no",,,,,,,
+27421,"AU-0702","small_airport","Bulloo Downs Station Airport",-24.013905,119.555805,1899,"OC","AU","AU-WA",,"no",,,,"Y04A",,,
 38526,"AU-0703","small_airport","Navarra Airport",-24.854178,143.669538,670,"OC","AU","AU-QLD","Isisford","no",,,,"YNVRA",,,"YNVR, AU-0703"
 309190,"AU-0704","heliport","Batemans Bay Helipad",-35.71301,150.1872,3,"OC","AU","AU-NSW","Batemans Bay","no",,,,"YXBM",,,"YXBM"
 309196,"AU-0705","heliport","Copmanhurst Oval Helipad",-29.5892,152.77316,63,"OC","AU","AU-NSW","Copmanhurst","no",,,,"OZHIF",,,"YCOP, AU-0705"
@@ -11736,6 +11736,7 @@
 595780,"AU-0778","small_airport","Tilterweira Airfield",-30.00809,144.11175,338,"OC","AU","AU-NSW","Wanaaring","no",,,,,,,
 597087,"AU-0779","small_airport","Walcha Farm Airstrip",-31.002219,151.678906,3432,"OC","AU","AU-NSW","Walcha","no",,,,,,,
 599311,"AU-0780","small_airport","Wilson's Creek Farm Airstrip",-30.661522,151.42745,3425,"OC","AU","AU-NSW","Uralla","no",,,,,,,
+599573,"AU-0781","small_airport","Karalundi Airport",-26.128817,118.676205,,"OC","AU","AU-WA",,"no",,,,"Y0C6",,,
 30622,"AU-AGW","small_airport","Agnew Airport",-12.1456,142.149369,160,"OC","AU","AU-QLD","Agnew","no",,"AGW","YAGN",,,"https://en.wikipedia.org/wiki/Agnew_Airport",
 30666,"AU-AYD","small_airport","Alroy Downs Airport",-19.2908,136.078995,711,"OC","AU","AU-NT","Alroy Downs","no",,"AYD","YALD",,,,
 30808,"AU-BYX","small_airport","Baniyala Airport",-13.1981,136.227005,20,"OC","AU","AU-NT","Baniyala","no",,"BYX","YBNI",,,,
@@ -15580,9 +15581,9 @@
 36938,"BR-2731","small_airport","Fazenda Nossa Senhora da Muxima Airport",-19.587221,-52.951942,1532,"SA","BR","BR-MS","Água Clara","no",,,,"SJWC",,,"SJWC"
 36939,"BR-2732","small_airport","Usina Passa Tempo Airport",-21.507221221924,-54.715831756592,984,"SA","BR","BR-MS","Rio Brilhante","no",,,,"SJWD",,,"SJWD"
 36943,"BR-2733","small_airport","Fazenda Santa Inês Airport",-14.651110649109,-55.383888244629,1330,"SA","BR","BR-MT","Nova Brasilândia","no",,,,"SJWH",,,"SJWH"
-36948,"BR-2734","small_airport","Fazenda Sanga Funda Airport",-13.066666603088,-58.705833435059,1949,"SA","BR","BR-MT","Sapezal","no",,,,"SJWM",,,"SJWM"
-36950,"BR-2735","small_airport","Terra Santa Airport",-14.806943893433,-57.973609924316,699,"SA","BR","BR-MT","Barra Do Bugres","no",,,,"SJWO",,,"SJWO"
-36955,"BR-2736","small_airport","Fazenda Sucuri Airport",-17.395832061768,-54.75972366333,1788,"SA","BR","BR-MT","Itiquira","no",,,,"SJWT",,,"SJWT"
+36948,"BR-2734","small_airport","Fazenda Sanga Funda Airport",-13.07048,-58.707823,1949,"SA","BR","BR-MT","Sapezal","no",,,,,,,"SJWM"
+36950,"BR-2735","small_airport","Terra Santa Airport",-14.800646,-57.973151,699,"SA","BR","BR-MT","Barra do Bugres","no",,,,,,,"SJWO"
+36955,"BR-2736","small_airport","Fazenda Sucuri Airport",-17.395832,-54.759724,1788,"SA","BR","BR-MT","Itiquira","no",,,,,,,"SJWT"
 36956,"BR-2737","heliport","Dimensão Indústria",-2.658607,-44.301211,92,"SA","BR","BR-MA","São Luís","no",,,,"MA0066",,,"SJWU, BR-2737"
 36962,"BR-2738","small_airport","Aeromis Airport",-31.29268,-54.156822,886,"SA","BR","BR-RS","Bagé","no",,,,,,,"SJXA"
 36965,"BR-2739","heliport","Sinal Construtora Heliport",-22.683785,-42.369787,68,"SA","BR","BR-RJ","Silva Jardim","no",,,,"SJXE",,,"SJXE"
@@ -24828,10 +24829,12 @@
 598090,"ES-0367","heliport","Doctor Negrín Hospital Heliport",28.122167,-15.443469,190,"AF","ES","ES-CN","Las Palmas de Gran Canaria","no",,,,,,,
 598704,"ES-0368","small_airport","(??Duplicate??)LEVS AIRPORT",12.862546,-13.818091,2269,"AF","ES","ES-MD",,"no","LEVS",,,,,,
 599541,"ES-0369","small_airport","Eivissa private Airstrip",38.96978,1.43786,,"EU","ES","ES-IB",,"no",,,,,,,
-2643,"ESCF","medium_airport","Malmen Air Base",58.402302,15.5257,308,"EU","SE","SE-E","Linköping","no",,,"ESCF",,,"https://en.wikipedia.org/wiki/Malmen_Airbase",
-2645,"ESCM","small_airport","Ärna Air Base",59.897301,17.5886,68,"EU","SE","SE-C","Uppsala","no",,,"ESCM",,,"https://en.wikipedia.org/wiki/%C3%84rna",
+599574,"ESAN","heliport","Norra Alvsborgs County Hospital Heliport",58.319006,12.26819,312,"EU","SE","SE-Q","Trollhättan","no","ESEN",,"ESAN","NAL",,,
+2643,"ESCF","medium_airport","Malmen Air Base",58.397666,15.522422,308,"EU","SE","SE-E","Linköping","no","ESCF",,"ESCF",,,"https://en.wikipedia.org/wiki/Malmen_Airbase",
+2645,"ESCM","small_airport","Ärna Air Base",59.897301,17.5886,68,"EU","SE","SE-C","Uppsala","no","ESCM",,"ESCM",,,"https://en.wikipedia.org/wiki/%C3%84rna",
 2646,"ESDF","medium_airport","Ronneby Airport",56.266701,15.265,191,"EU","SE","SE-K","Ronneby","yes","ESDF","RNB","ESDF",,"https://www.swedavia.com/ronneby/","https://en.wikipedia.org/wiki/Ronneby_Airport",
-300955,"ESEM","heliport","Lund Hospital Heliport",55.711812312300005,13.1986892223,352,"EU","SE","SE-M","Lund","no",,,"ESEM",,,,
+300955,"ESEM","heliport","Lund Hospital Helipad",55.711762,13.198793,352,"EU","SE","SE-M","Lund","no","ESEM",,"ESEM",,,,
+599575,"ESES","heliport","Sunderby Hospital Heliport",65.669523,21.935366,35,"EU","SE","SE-BD","Luleå","no","ESES",,"ESES",,,,
 29311,"ESFA","small_airport","Hässleholm Bokeberg Airfield",56.134407,13.875647,105,"EU","SE","SE-M","Hässleholm","no",,,"ESFA",,"http://www.hlmfk.se","https://sv.wikipedia.org/wiki/H%C3%A4ssleholms_flygplats",
 2647,"ESFR","medium_airport","Råda Air Base",58.4981,13.0532,230,"EU","SE","SE-Q","Råda","no",,,"ESFR",,,"https://sv.wikipedia.org/wiki/R%C3%A5da_flygbas",
 29317,"ESFS","small_airport","Sandvik Airfield",57.0681,16.8613,30,"EU","SE","SE-H","Sandvik","no",,,"ESFS",,,,"Öland"
@@ -24857,6 +24860,7 @@
 29330,"ESGV","small_airport","Varberg Getterön airfield",57.124599,12.2283,5,"EU","SE","SE-N","Varberg","no",,,"ESGV",,,"https://sv.wikipedia.org/wiki/Varbergs_flygplats",
 29331,"ESGY","small_airport","Säffle Airfield",59.085512,12.949705,,"EU","SE","SE-S","Säffle","no",,,"ESGY",,,"https://sv.wikipedia.org/wiki/S%C3%A4ffle_flygplats",
 355418,"ESHB","heliport","Sahlgrenska University East Hospital Helipad",57.72097,12.04779,134,"EU","SE","SE-Q","Göteborg","no",,,"ESHB",,,,"Gothenburg, SU Östra"
+599571,"ESHC","heliport","Södersjukhuset Hospital Heliport",59.308529,18.054789,136,"EU","SE","SE-AB","Stockholm","no","ESHC",,"ESHC",,"https://www.sodersjukhuset.se/",,
 2655,"ESIA","small_airport","Karlsborg Air Base",58.513802,14.5071,308,"EU","SE","SE-Q","Karlsborg","no",,,"ESIA",,,"https://sv.wikipedia.org/wiki/Karlsborgs_flygplats",
 2656,"ESIB","medium_airport","Såtenäs Air Base",58.426399,12.7144,181,"EU","SE","SE-Q","Såtenäs","no",,,"ESIB",,,"https://sv.wikipedia.org/wiki/Lidk%C3%B6ping-S%C3%A5ten%C3%A4s_flygplats",
 29332,"ESKA","small_airport","Lunda Airfield",60.132801,18.1049,75,"EU","SE","SE-C","Gimo","no",,,"ESKA",,,"https://en.wikipedia.org/wiki/Gimo_Air_Base","Gimo AB"
@@ -24881,18 +24885,18 @@
 29347,"ESMI","small_airport","Sjöbo Sövde Airfield",55.598202,13.6747,118,"EU","SE","SE-M","Sjöbo","no",,,"ESMI",,"http://www.sjoboflyg.se/om-oss/esmi-flygplats/",,
 29348,"ESMJ","small_airport","Kågeröd Simmelsberga Airfield",55.994701,13.0509,276,"EU","SE","SE-M","Kågeröd","no",,,"ESMJ",,,,
 2664,"ESMK","medium_airport","Kristianstad Airport",55.9217,14.0855,76,"EU","SE","SE-M","Kristianstad","no","ESMK","KID","ESMK",,"https://kidairport.com","https://en.wikipedia.org/wiki/Kristianstad_Airport",
-2665,"ESML","small_airport","Landskrona Enoch Thulins Airfield",55.945999,12.87,194,"EU","SE","SE-M","Härslöv","no",,,"ESML",,"http://landskronaflygklubb.se","https://de.wikipedia.org/wiki/Flugplatz_Landskrona",
+2665,"ESML","small_airport","Landskrona Enoch Thulins Airfield",55.946124,12.870001,194,"EU","SE","SE-M","Härslöv","no","ESML",,"ESML",,"http://landskronaflygklubb.se","https://de.wikipedia.org/wiki/Flugplatz_Landskrona","JLD"
 2666,"ESMO","small_airport","Oskarshamn Airport",57.350498,16.497999,96,"EU","SE","SE-H","Oskarshamn","no","ESMO","OSK","ESMO",,,"https://en.wikipedia.org/wiki/Oskarshamn_Airport",
 2667,"ESMP","small_airport","Anderstorp Airfield",57.264198,13.5994,507,"EU","SE","SE-F","Anderstorp","no",,,"ESMP",,,,
 2668,"ESMQ","medium_airport","Kalmar Airport",56.685501,16.2876,17,"EU","SE","SE-H","Kalmar","yes","ESMQ","KLR","ESMQ",,,"https://en.wikipedia.org/wiki/Kalmar_Airport",
 2669,"ESMS","medium_airport","Malmö Sturup Airport",55.535564,13.376327,236,"EU","SE","SE-M","Malmö","yes","ESMS","MMX","ESMS",,"http://www.swedavia.com/malmo/","https://en.wikipedia.org/wiki/Malm%C3%B6_Airport",
 2670,"ESMT","medium_airport","Halmstad Airport",56.69110107421875,12.820199966430664,101,"EU","SE","SE-N","Halmstad","yes","ESMT","HAD","ESMT",,,"https://en.wikipedia.org/wiki/Halmstad_Airport",
-29350,"ESMU","small_airport","Möckeln Airfield",56.572016,14.168415,480,"EU","SE","SE-G","Älmhult","no",,,"ESMU",,,"https://en.wikipedia.org/wiki/M%C3%B6ckeln_Airport",
-2671,"ESMV","small_airport","Hagshult Air Base",57.292198,14.1372,556,"EU","SE","SE-F",,"no",,,"ESMV",,"http://www.flygklubb.se/medlem/index.cfm?klubb=001&user=999&password=demo","https://sv.wikipedia.org/wiki/Hagshult_flygbas",
+29350,"ESMU","small_airport","Möckeln Airfield",56.572514,14.16885,480,"EU","SE","SE-G","Älmhult","no","ESMU",,"ESMU",,,"https://en.wikipedia.org/wiki/M%C3%B6ckeln_Airport",
+2671,"ESMV","small_airport","Hagshult Air Base",57.292194,14.136792,556,"EU","SE","SE-F",,"no","ESMV",,"ESMV",,"http://www.flygklubb.se/medlem/index.cfm?klubb=001&user=999&password=demo","https://sv.wikipedia.org/wiki/Hagshult_flygbas",
 2672,"ESMX","medium_airport","Växjö Kronoberg Airport",56.929100036621094,14.727999687194824,610,"EU","SE","SE-G","Växjö","yes","ESMX","VXO","ESMX",,,"https://en.wikipedia.org/wiki/V%C3%A4xj%C3%B6_Airport",
-29352,"ESMY","small_airport","Smålandsstenar Smålanda Airfield",57.168598,13.4402,540,"EU","SE","SE-F","Smålandsstenar","no",,,"ESMY",,,,
-29353,"ESMZ","small_airport","Ölanda Airfield",57.328236,17.050524,27,"EU","SE","SE-H","Ölanda","no",,,"ESMZ",,"http://www.ölanda.se/",,"Öland"
-2673,"ESNA","small_airport","Hallviken Airfield",63.7383,15.4583,1119,"EU","SE","SE-Z","Hallviken","no",,,"ESNA",,,"https://sv.wikipedia.org/wiki/Hallvikens_flygf%C3%A4lt",
+29352,"ESMY","small_airport","Smålandsstenar Smålanda Airfield",57.168598,13.4402,540,"EU","SE","SE-F","Smålandsstenar","no","ESMY",,"ESMY",,,,
+29353,"ESMZ","small_airport","Ölanda Airfield",57.328236,17.050524,27,"EU","SE","SE-H","Ölanda","no","ESMZ",,"ESMZ",,"http://www.ölanda.se/",,"Öland"
+2673,"ESNA","small_airport","Hallviken Airfield",63.7383,15.4583,1119,"EU","SE","SE-Z","Hallviken","no","ESNA",,"ESNA",,,"https://sv.wikipedia.org/wiki/Hallvikens_flygf%C3%A4lt",
 29354,"ESNB","small_airport","Sollefteå/Långsele Airfield",63.1712,16.985201,423,"EU","SE","SE-Y","Långsele","no",,,"ESNB",,,,
 2674,"ESNC","small_airport","Hedlanda Airfield",62.410631,13.745699,1460,"EU","SE","SE-Z","Hede","no",,,"ESNC",,,"http://sv.wikipedia.org/wiki/Hedlanda_flygplats",
 2675,"ESND","small_airport","Sveg Airport",62.047798,14.4229,1178,"EU","SE","SE-Z","Sveg","yes","ESND","EVG","ESND",,,"https://en.wikipedia.org/wiki/Sveg_Airport",
@@ -42561,7 +42565,7 @@
 4010,"LEGE","medium_airport","Girona-Costa Brava Airport",41.904639,2.761774,468,"EU","ES","ES-CT","Girona","yes","LEGE","GRO","LEGE",,"https://www.aena.es/en/girona-costa-brava.html","https://en.wikipedia.org/wiki/Girona-Costa_Brava_Airport","Girona, Costa Brava, Girona-Costa Brava"
 4011,"LEGR","medium_airport","F.G.L. Airport Granada-Jaén Airport",37.188702,-3.77736,1860,"EU","ES","ES-AN","Granada","yes","LEGR","GRX","LEGR",,"https://www.aena.es/en/f.g.l.-granada-jaen.html","https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca_Airport",
 43292,"LEGS","heliport","Parque De Garraf-Sitges Heliport",41.27389907836914,1.914720058441162,1100,"EU","ES","ES-CT",,"no",,,"LEGS",,,,
-4012,"LEGT","medium_airport","Getafe Air Base",40.294102,-3.72383,2034,"AF","ES","ES-MD","Getafe","no","LEGT",,"LEGT",,,"https://en.wikipedia.org/wiki/Getafe_Air_Base",
+4012,"LEGT","medium_airport","Getafe Air Base",40.294102,-3.72383,2034,"EU","ES","ES-MD","Getafe","no","LEGT",,"LEGT",,,"https://en.wikipedia.org/wiki/Getafe_Air_Base",
 43262,"LEGU","small_airport","Aeródromo de Guadalupe",39.345699,-5.19735,1408,"EU","ES","ES-EX","Guadalupe","no",,,"LEGU",,,,
 43242,"LEGV","heliport","Campo Gaviota Heliport",43.44169998168945,-2.7536098957061768,630,"EU","ES","ES-PV",,"no",,,"LEGV",,,,
 38693,"LEGY","small_airport","Garray Airfield",41.820004,-2.476387,3360,"EU","ES","ES-CL","Soria","no",,,"LEGY",,,"http://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Garray-Soria",
@@ -55512,6 +55516,8 @@
 598812,"RU-10113","heliport","Pivan-1 Heliport",50.345048,137.190895,178,"AS","RU","RU-KHA","Pivan","no",,,,"HG34",,,"ХГ34, Пивань"
 599547,"RU-10114","heliport","Yamnoye Heliport",51.792439,39.141417,436,"EU","RU","RU-VOR","Yamnoye","no",,,,"HA6H",,,"ХА6Х, Ямное"
 599548,"RU-10115","small_airport","Vency Zarya Airfield",45.322497,40.811273,417,"EU","RU","RU-KDA","Vency-Zarya","no",,,,"ZB33",,,"ЗБ33, Венцы-Заря"
+599586,"RU-10116","heliport","Nota River Heliport",67.990438,29.687294,388,"EU","RU","RU-MUR","Kolsky","no",,,,"HFK4",,,"ХФК4, Река Нота"
+599587,"RU-10117","heliport","Tepsi River Heliport",67.672106,30.070658,632,"EU","RU","RU-MUR","Kovdorsky","no",,,,"HFK6",,,"ХФК6, Река Тепси"
 526852,"RU-1012","heliport","KS-4 Vorkutinskaya",67.225925,63.674161,,"AS","RU","RU-KO","Vorkuta","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526854,"RU-1013","heliport","KS-9 Maloperanskaya",64.258736,54.893339,,"EU","RU","RU-KO",,"no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526855,"RU-1014","heliport","KS-8 Chikshynskaya",64.906503,56.412424,,"EU","RU","RU-KO","Chikshino","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
