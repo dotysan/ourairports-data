@@ -1702,7 +1702,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29173,EGPR,medium_airport,Barra Airport,57.0228,-7.44306,5,EU,GB,GB-SCT,Eoligarry,yes,EGPR,BRR,EGPR,,http://www.hial.co.uk/barra-airport.html,https://en.wikipedia.org/wiki/Barra_Airport_(Scotland),"Barra Eoligarry Airport, Barra Island"
 29175,EGPT,small_airport,Perth/Scone Airport,56.439201,-3.37222,397,EU,GB,GB-SCT,Perth,no,EGPT,PSL,EGPT,,https://www.perthairport.co.uk/,https://en.wikipedia.org/wiki/Perth_Airport_(Scotland),
 2469,EGPU,medium_airport,Tiree Airport,56.49919891357422,-6.869170188903809,38,EU,GB,GB-SCT,Balemartine,yes,EGPU,TRE,EGPU,,http://www.hial.co.uk/tiree-airport.html,https://en.wikipedia.org/wiki/Tiree_Airport,Inner Hebrides
-29176,EGPW,small_airport,Unst Airport,60.7472,-0.85385,,EU,GB,GB-SCT,"Baltasound, Shetland Islands",no,EGPW,,EGPW,,,https://en.wikipedia.org/wiki/Unst_Airport,
+29176,EGPW,small_airport,Unst Airfield,60.7472,-0.85385,,EU,GB,GB-SCT,"Baltasound, Shetland Islands",no,EGPW,,EGPW,,,https://en.wikipedia.org/wiki/Unst_Airport,
 2471,EGQL,medium_airport,Leuchars Station Airfield,56.37398,-2.868862,38,EU,GB,GB-SCT,"Leuchars, Fife",no,EGQL,ADX,EGQL,,,https://en.wikipedia.org/wiki/Leuchars_Station,
 2472,EGQS,medium_airport,RAF Lossiemouth,57.7052001953125,-3.339169979095459,42,EU,GB,GB-SCT,Lossiemouth,no,EGQS,LMO,EGQS,,http://www.raf.mod.uk/raflossiemouth/,https://en.wikipedia.org/wiki/RAF_Lossiemouth,
 2473,EGSC,medium_airport,Cambridge City Airport,52.205002,0.175,47,EU,GB,GB-ENG,"Cambridge, Cambridgeshire",no,EGSC,CBG,EGSC,,http://www.cambridgeairport.com/,https://en.wikipedia.org/wiki/Cambridge_City_Airport,"Marshall, RAF Cambridge"
@@ -10069,7 +10069,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 27198,ZGSZ,large_airport,Shenzhen Bao'an International Airport,22.639299,113.810997,13,AS,CN,CN-44,Shenzhen (Bao'an),yes,ZGSZ,SZX,ZGSZ,,http://eng.szairport.com/,https://en.wikipedia.org/wiki/Shenzhen_Bao'an_International_Airport,"Baoan, Huangtian Airport"
 336110,ZGWZ,medium_airport,Wuzhou Xijiang Airport,23.40316,111.09331,357,AS,CN,CN-45,Tangbu,yes,ZGWZ,WUZ,ZGWZ,WUZ,,https://en.wikipedia.org/wiki/Wuzhou_Xijiang_Airport,
 32701,ZGXN,small_airport,Xingning Air Base,24.1492,115.758003,,AS,CN,CN-44,Meizhou (Xingning),no,ZGXN,XIN,ZGXN,,,https://en.wikipedia.org/wiki/Xingning_Air_Base,
-514411,ZGXX,small_airport,Xiangxi Biancheng Airport,28.4972,109.5218,,AS,CN,CN-43,Xiangxi,yes,,DXJ,ZGXX,,,https://en.wikipedia.org/wiki/Xiangxi_Biancheng_Airport,
+514411,ZGXX,small_airport,Xiangxi Biancheng Airport,28.4972,109.5218,,AS,CN,CN-43,Xiangxi,yes,ZGXX,DXJ,ZGXX,,,https://en.wikipedia.org/wiki/Xiangxi_Biancheng_Airport,
 344100,ZGYL,medium_airport,Yulin Fumian Airport,22.438056,110.120833,328,AS,CN,CN-45,Yùlín,yes,ZGYL,YLX,ZGYL,,,https://en.wikipedia.org/wiki/Yulin_Fumian_Airport,
 325171,ZGYY,medium_airport,Yueyang Sanhe Airport,29.311699,113.281574,230,AS,CN,CN-43,Yueyang (Yueyanglou),yes,ZGYY,YYA,ZGYY,YYA,,https://en.wikipedia.org/wiki/Yueyang_Sanhe_Airport,
 31874,ZGZH,medium_airport,Liuzhou Bailian Airport / Bailian Air Base,24.2075,109.390999,295,AS,CN,CN-45,Liuzhou (Liujiang),yes,ZGZH,LZH,ZGZH,,,https://en.wikipedia.org/wiki/Liuzhou_Bailian_Airport,Liujiang-Liuzhou Air Base
