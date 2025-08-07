@@ -15577,10 +15577,10 @@
 36934,"BR-2727","small_airport","Haras Bela Vista Airport",-5.541667,-47.502499,335,"SA","BR","BR-TO","São Miguel do Tocantins","no",,,,,,,"SJVY"
 36935,"BR-2728","small_airport","Fazenda São Paulo Airport",-13.61527,-58.570966,2012,"SA","BR","BR-MT","Sapezal","no",,,,,,,"SJVZ"
 36936,"BR-2729","small_airport","Usina Maracaju Airport",-21.345303,-55.435739,1509,"SA","BR","BR-MS","Maracaju","no",,,,,,,"SJWA"
-36937,"BR-2730","small_airport","Pouso Alto Airport",-17.457778930664,-48.983055114746,2428,"SA","BR","BR-GO","Piracanjuba","no",,,,"SJWB",,,"SJWB"
-36938,"BR-2731","small_airport","Fazenda Nossa Senhora da Muxima Airport",-19.587221,-52.951942,1532,"SA","BR","BR-MS","Água Clara","no",,,,"SJWC",,,"SJWC"
-36939,"BR-2732","small_airport","Usina Passa Tempo Airport",-21.507221221924,-54.715831756592,984,"SA","BR","BR-MS","Rio Brilhante","no",,,,"SJWD",,,"SJWD"
-36943,"BR-2733","small_airport","Fazenda Santa Inês Airport",-14.651110649109,-55.383888244629,1330,"SA","BR","BR-MT","Nova Brasilândia","no",,,,"SJWH",,,"SJWH"
+36937,"BR-2730","small_airport","Pouso Alto Airport",-17.457779,-48.983055,2428,"SA","BR","BR-GO","Piracanjuba","no",,,,,,,"SJWB"
+36938,"BR-2731","small_airport","Fazenda Nossa Senhora da Muxima Airport",-19.585548,-52.95148,1532,"SA","BR","BR-MS","Água Clara","no",,,,,,,"SJWC"
+36939,"BR-2732","small_airport","Usina Passa Tempo Airport",-21.504479,-54.711469,984,"SA","BR","BR-MS","Rio Brilhante","no",,,,,,,"SJWD"
+36943,"BR-2733","small_airport","Fazenda Santa Inês Airport",-14.661772,-55.384305,1330,"SA","BR","BR-MT","Nova Brasilândia","no",,,,,,,"SJWH"
 36948,"BR-2734","small_airport","Fazenda Sanga Funda Airport",-13.07048,-58.707823,1949,"SA","BR","BR-MT","Sapezal","no",,,,,,,"SJWM"
 36950,"BR-2735","small_airport","Terra Santa Airport",-14.800646,-57.973151,699,"SA","BR","BR-MT","Barra do Bugres","no",,,,,,,"SJWO"
 36955,"BR-2736","small_airport","Fazenda Sucuri Airport",-17.395832,-54.759724,1788,"SA","BR","BR-MT","Itiquira","no",,,,,,,"SJWT"
@@ -15593,8 +15593,8 @@
 36978,"BR-2743","small_airport","Fazenda 3M Airport",-21.673610687256,-54.035831451416,1155,"SA","BR","BR-MS","Nova Alvorada Do Sul","no",,,,"SJXW",,,"SJXW"
 36981,"BR-2744","heliport","Namour Heliport",-23.572779,-46.641109,2900,"SA","BR","BR-SP","São Paulo","no",,,,"SJXZ",,,"SJXZ"
 36982,"BR-2745","heliport","Caraguatá Heliport",-22.920833587646,-42.477500915527,162,"SA","BR","BR-RJ","Saquarema","no",,,,"SJYA",,,"SJYA"
-36983,"BR-2746","heliport","Edifício Plaza I Heliport",-23.610277175903,-46.695556640625,2648,"SA","BR","BR-SP","São Paulo","no",,,,"SJYB",,,"SJYB"
-37002,"BR-2747","small_airport","Rio do Sangue Airport",-11.522221565247,-58.177223205566,935,"SA","BR","BR-MT","Brasnorte","no",,,,"SJYY",,,"SJYY"
+36983,"BR-2746","heliport","Edifício Plaza I Heliport",-23.61084,-46.695912,2648,"SA","BR","BR-SP","São Paulo","no",,,,,"https://spcorporate.com.br/imoveis/plaza-i",,"SJYB"
+37002,"BR-2747","small_airport","Rio do Sangue Airport",-11.522222,-58.172978,935,"SA","BR","BR-MT","Brasnorte","no",,,,,,,"SJYY"
 37003,"BR-2748","small_airport","Fazenda Lagoa Encantada Airport",-15.273504,-54.262292,1968,"SA","BR","BR-MT","Primavera do Leste","no",,,,"SJYZ",,,"SJYZ"
 37008,"BR-2749","small_airport","Fazenda Brioso Airport",-20.237858,-52.380688,1270,"SA","BR","BR-MS","Três Lagoas","no",,,,"SJZE",,,"SJZE"
 37010,"BR-2750","small_airport","Leonel de Moura Brizola Airport",-10.658332824707,-51.436111450195,843,"SA","BR","BR-MT","Confresa","no",,,,"SJZG",,,"SJZG"
@@ -16018,7 +16018,7 @@
 38166,"BR-3168","small_airport","Barragem Manoel Alves Airport",-11.557041,-46.985109,2067,"SA","BR","BR-TO","Dianópolis","no",,,,"SWYI",,,"SWYI"
 38167,"BR-3169","small_airport","Fazenda Agropecuária FR Ltda. Airport",-7.622604,-56.071694,860,"SA","BR","BR-PA","Novo Progresso","no",,,,"SWYJ",,,"SWYJ"
 38172,"BR-3170","small_airport","Fazenda Formosa Airport",-10.013056,-47.681667,1132,"SA","BR","BR-TO","Novo Acordo","no",,,,"SWYT",,,"SWYT"
-38182,"BR-3171","small_airport","Fazenda Araguari Airport",-15.494722,-58.399445,902,"SA","BR","BR-MT","Araputanga","no",,,,"SWZF",,,"SWZF"
+38182,"BR-3171","small_airport","Fazenda e Haras Terra Boa Airport",-15.491465,-58.398168,787,"SA","BR","BR-MT","Araputanga","no",,,"SW1V","MT1123",,,"SWZF, Araguari"
 38184,"BR-3172","small_airport","Fazenda Caçapava Airport",-17.575001,-50.174997,1918,"SA","BR","BR-GO","Acreúna","no",,,,"SWZH",,,"SWZH"
 38185,"BR-3173","small_airport","Fazenda São João Airport",-14.54722,-50.6536,1033,"SA","BR","BR-GO","Crixás","no",,,,"SWZJ",,,"SWZJ"
 38196,"BR-3174","small_airport","Fazenda Santa Fé do Xingu Airport",-10.321111,-52.210556,1036,"SA","BR","BR-MT","São José do Xingu","no",,,,"SWZW",,,"SWZW"
@@ -23813,7 +23813,7 @@
 29174,"EGPS","small_airport","Longside Airfield",57.516836,-1.864586,150,"EU","GB","GB-SCT","Peterhead","no",,,"EGPS",,,,
 29175,"EGPT","small_airport","Perth/Scone Airport",56.439201,-3.37222,397,"EU","GB","GB-SCT","Perth","no","EGPT","PSL","EGPT",,"https://www.perthairport.co.uk/","https://en.wikipedia.org/wiki/Perth_Airport_(Scotland)",
 2469,"EGPU","medium_airport","Tiree Airport",56.49919891357422,-6.869170188903809,38,"EU","GB","GB-SCT","Balemartine","yes","EGPU","TRE","EGPU",,"http://www.hial.co.uk/tiree-airport.html","https://en.wikipedia.org/wiki/Tiree_Airport","Inner Hebrides"
-29176,"EGPW","small_airport","Unst Airport",60.7472,-0.85385,,"EU","GB","GB-SCT","Baltasound, Shetland Islands","no","EGPW",,"EGPW",,,"https://en.wikipedia.org/wiki/Unst_Airport",
+29176,"EGPW","small_airport","Unst Airfield",60.7472,-0.85385,,"EU","GB","GB-SCT","Baltasound, Shetland Islands","no","EGPW",,"EGPW",,,"https://en.wikipedia.org/wiki/Unst_Airport",
 2471,"EGQL","medium_airport","Leuchars Station Airfield",56.37398,-2.868862,38,"EU","GB","GB-SCT","Leuchars, Fife","no","EGQL","ADX","EGQL",,,"https://en.wikipedia.org/wiki/Leuchars_Station",
 2472,"EGQS","medium_airport","RAF Lossiemouth",57.7052001953125,-3.339169979095459,42,"EU","GB","GB-SCT","Lossiemouth","no","EGQS","LMO","EGQS",,"http://www.raf.mod.uk/raflossiemouth/","https://en.wikipedia.org/wiki/RAF_Lossiemouth",
 29179,"EGSA","small_airport","Shipdham Airfield",52.629398,0.928056,210,"EU","GB","GB-ENG","Thetford, Norfolk","no",,,"EGSA",,"http://www.shipdhamaeroclub.co.uk/","https://en.wikipedia.org/wiki/RAF_Shipdham","RAF Shipdham"
@@ -29476,7 +29476,7 @@
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO"
 35156,"GB-OUK","small_airport","Out Skerries Airfield",60.4252,-0.75,76,"EU","GB","GB-SCT","Grunay Island","no",,,,,,,"Out Skerries, Housay, Bruray, Grunay, EGOU, OUK"
-32175,"GB-PSV","small_airport","Papa Stour Airport",60.321701,-1.69306,75,"EU","GB","GB-SCT","Papa Stour Island","no",,,,,,"https://en.wikipedia.org/wiki/Papa_Stour_Airstrip","EGSZ, EGZT, PSV"
+32175,"GB-PSV","small_airport","Papa Stour Airstrip",60.321701,-1.69306,75,"EU","GB","GB-SCT","Papa Stour Island","no",,,,,,"https://en.wikipedia.org/wiki/Papa_Stour_Airstrip","EGSZ, EGZT, PSV"
 29640,"GB-ULL","small_airport","Glenforsa Airfield",56.517202,-5.91401,15,"EU","GB","GB-SCT","Glenforsa, Argyll and Bute","no",,,,,"https://www.glenforsa.com/airfield","https://sv.wikipedia.org/wiki/Glenforsa_Airfield","Mull, EGZU, ULL, Hebrides"
 319712,"GBM","small_airport","Garbaharey Airport",3.32294,42.21309,755,"AF","SO","SO-GE","Garbaharey","no",,"GBM",,,,"https://en.wikipedia.org/wiki/Garbaharey_Airport","Garbahaareey, Garba Harre"
 3076,"GBYD","large_airport","Banjul International Airport",13.338,-16.652201,95,"AF","GM","GM-W","Yundum","yes","GBYD","BJL","GBYD",,,"https://en.wikipedia.org/wiki/Banjul_International_Airport","Yundum international Airport"
@@ -41893,7 +41893,7 @@
 21263,"KU52","small_airport","Beaver Municipal Airport",38.230701,-112.675003,5863,"NA","US","US-UT","Beaver","no",,,"KU52","U52",,"https://en.wikipedia.org/wiki/Beaver_Municipal_Airport_(Utah)",
 21264,"KU55","small_airport","Panguitch Municipal Airport",37.84519958,-112.3919983,6763,"NA","US","US-UT","Panguitch","no",,"PNU","U55","U55","http://panguitch.com/business-directory/1300/panguitch-municipal-airport/","https://en.wikipedia.org/wiki/Panguitch_Municipal_Airport",
 21265,"KU56","small_airport","Rigby Jefferson County Airport",43.642039,-111.929526,4845,"NA","US","US-ID","Rigby","no",,,"KU56","U56",,,
-21266,"KU58","small_airport","Downey/Hyde Memorial Airport",42.42630005,-112.1090012,4906,"NA","US","US-ID","Downey","no",,,"KU58","U58",,,
+21266,"KU58","small_airport","Downey/Hyde Memorial Airport",42.423905,-112.10957,4906,"NA","US","US-ID","Downey","no",,,"KU58","U58",,,
 21267,"KU62","small_airport","Mackay Airport",43.90409851,-113.6009979,5892,"NA","US","US-ID","Mackay","no",,,"KU62","U62",,,
 21268,"KU63","small_airport","Bruce Meadows Airport",44.41550064086914,-115.31700134277344,6370,"NA","US","US-ID","Stanley","no",,,"KU63","U63",,,
 21269,"KU68","small_airport","North Big Horn County Airport",44.912021,-108.443498,4090,"NA","US","US-WY","Cowley","no",,,,"U68",,,
@@ -54628,7 +54628,7 @@
 44978,"RU-0235","small_airport","Akhty Airfield",41.4744544227,47.7015209198,,"EU","RU","RU-DA",,"no",,,,,,,
 44993,"RU-0236","small_airport","Vyazma Zapadny Airstrip",55.203561416899994,34.2527103424,,"EU","RU","RU-SMO","Vyazma","no",,,,,,,"Vyazma Zapadnaya Airstrip, Vyazma West Airstrip, ВПП Вязьма Западная"
 44994,"RU-0237","closed","Kozelsk Heliport",54.054,35.757,551,"EU","RU","RU-KLU","Kozelsk","no",,,,,,,"Вертодром Козельск, XUBI, ЬУБИ"
-44995,"RU-0238","small_airport","Medyn Airfield",54.946,35.861,,"EU","RU","RU-KLU","Medyn","no",,,,,,,"Аэродром Медынь"
+44995,"RU-0238","closed","Medyn Airfield",54.946,35.861,,"EU","RU","RU-KLU","Medyn","no",,,,,,,"Аэродром Медынь, XUBE"
 44996,"RU-0239","small_airport","Starodub Airfield",52.571,32.797,,"EU","RU","RU-BRY","Starodub","no",,,,"UUFS",,,"Аэропорт Стародуб, УУФС"
 44998,"RU-0240","medium_airport","Seshcha Air Base",53.715,33.34,692,"EU","RU","RU-BRY","Dubrovka","no",,,,"XUWD",,,"Sescha Air Base, Аэродром Сеща"
 44999,"RU-0241","small_airport","Rybinsk Yuzhny Airfield",58,38.84,,"EU","RU","RU-YAR","Rybinsk","no",,,,,,,"Rybinsk South Airfield, Kstovo Airfield, Аэродром Рыбинск Южный, Аэродром Кстово"
@@ -62793,6 +62793,9 @@
 40347,"SVYI","small_airport","El Yavi Airport",5.4583330154418945,-65.89833068847656,557,"SA","VE","VE-Z",,"no",,,"SVYI",,,,
 40348,"SVYP","small_airport","Yopita Airport",7.199999809265137,-69.31666564941406,360,"SA","VE","VE-C",,"no",,,"SVYP",,,,
 40349,"SVYT","small_airport","Yutaje Airport",5.60978,-66.110397,722,"SA","VE","VE-Z",,"no",,,"SVYU",,,,
+599610,"SW1S","small_airport","Fazenda Aldeia Velha Airport",-12.091782,-50.812392,670,"SA","BR","BR-MT","Novo Santo Antônio","no",,,"SW1S","MT1143",,,
+599611,"SW1T","heliport","Madero Industria Heliport",-25.184028,-50.094812,2740,"SA","BR","BR-PR","Ponta Grossa","no",,,"SW1T","PR0253",,,
+599612,"SW1U","heliport","JMX Heliport",-22.937336,-42.895333,17,"SA","BR","BR-RJ","Maricá","no",,,"SW1U","RJ0394",,,
 599069,"SW1W","small_airport","São Pedro Airport",-12.580049,-46.022057,2726,"SA","BR","BR-BA","São Desidério","no",,,"SW1W","BA0504",,,
 598790,"SW1Y","small_airport","Fazenda Amanda e Carolina - ACM Agronegócios Airstrip",-13.211542,-57.831792,1604,"SA","BR","BR-MT","Brasnorte","no",,,"SW1Y","MT1142",,,
 598789,"SW1Z","heliport","HELIBH II Heliport",-20.047264,-43.961467,4373,"SA","BR","BR-MG","Nova Lima","no",,,"SW1Z","MG0645",,,
@@ -83076,7 +83079,7 @@
 27198,"ZGSZ","large_airport","Shenzhen Bao'an International Airport",22.639299,113.810997,13,"AS","CN","CN-44","Shenzhen (Bao'an)","yes","ZGSZ","SZX","ZGSZ",,"http://eng.szairport.com/","https://en.wikipedia.org/wiki/Shenzhen_Bao'an_International_Airport","Baoan, Huangtian Airport"
 336110,"ZGWZ","medium_airport","Wuzhou Xijiang Airport",23.40316,111.09331,357,"AS","CN","CN-45","Tangbu","yes","ZGWZ","WUZ","ZGWZ","WUZ",,"https://en.wikipedia.org/wiki/Wuzhou_Xijiang_Airport",
 32701,"ZGXN","small_airport","Xingning Air Base",24.1492,115.758003,,"AS","CN","CN-44","Meizhou (Xingning)","no","ZGXN","XIN","ZGXN",,,"https://en.wikipedia.org/wiki/Xingning_Air_Base",
-514411,"ZGXX","small_airport","Xiangxi Biancheng Airport",28.4972,109.5218,,"AS","CN","CN-43","Xiangxi","yes",,"DXJ","ZGXX",,,"https://en.wikipedia.org/wiki/Xiangxi_Biancheng_Airport",
+514411,"ZGXX","small_airport","Xiangxi Biancheng Airport",28.4972,109.5218,,"AS","CN","CN-43","Xiangxi","yes","ZGXX","DXJ","ZGXX",,,"https://en.wikipedia.org/wiki/Xiangxi_Biancheng_Airport",
 351135,"ZGYJ","small_airport","Yangjiang Heshan Airport",21.961895,112.102408,33,"AS","CN","CN-44","Yangjiang","no",,,"ZGYJ",,,,
 344100,"ZGYL","medium_airport","Yulin Fumian Airport",22.438056,110.120833,328,"AS","CN","CN-45","Yùlín","yes","ZGYL","YLX","ZGYL",,,"https://en.wikipedia.org/wiki/Yulin_Fumian_Airport",
 325171,"ZGYY","medium_airport","Yueyang Sanhe Airport",29.311699,113.281574,230,"AS","CN","CN-43","Yueyang (Yueyanglou)","yes","ZGYY","YYA","ZGYY","YYA",,"https://en.wikipedia.org/wiki/Yueyang_Sanhe_Airport",
