@@ -15586,13 +15586,13 @@
 36955,"BR-2736","small_airport","Fazenda Sucuri Airport",-17.395832,-54.759724,1788,"SA","BR","BR-MT","Itiquira","no",,,,,,,"SJWT"
 36956,"BR-2737","heliport","Dimensão Indústria",-2.658607,-44.301211,92,"SA","BR","BR-MA","São Luís","no",,,,"MA0066",,,"SJWU, BR-2737"
 36962,"BR-2738","small_airport","Aeromis Airport",-31.29268,-54.156822,886,"SA","BR","BR-RS","Bagé","no",,,,,,,"SJXA"
-36965,"BR-2739","heliport","Sinal Construtora Heliport",-22.683785,-42.369787,68,"SA","BR","BR-RJ","Silva Jardim","no",,,,"SJXE",,,"SJXE"
-36968,"BR-2740","small_airport","Águas Frias Airport",-27.217627,-53.27253,1135,"SA","BR","BR-RS","Iraí","no",,,,"SJXH",,,"SJXH"
-36970,"BR-2741","small_airport","Parque Fazenda Bom Futuro Airport",-17.191389083862,-57.033889770508,361,"SA","BR","BR-MT","Poconé","no",,,,"SJXN",,,"SJXN"
-36971,"BR-2742","heliport","HP Padilha Heliport",-23.038610458374,-44.153331756592,16,"SA","BR","BR-RJ","Mangaratiba","no",,,,"SJXO",,,"SJXO"
-36978,"BR-2743","small_airport","Fazenda 3M Airport",-21.673610687256,-54.035831451416,1155,"SA","BR","BR-MS","Nova Alvorada Do Sul","no",,,,"SJXW",,,"SJXW"
-36981,"BR-2744","heliport","Namour Heliport",-23.572779,-46.641109,2900,"SA","BR","BR-SP","São Paulo","no",,,,"SJXZ",,,"SJXZ"
-36982,"BR-2745","heliport","Caraguatá Heliport",-22.920833587646,-42.477500915527,162,"SA","BR","BR-RJ","Saquarema","no",,,,"SJYA",,,"SJYA"
+36965,"BR-2739","heliport","Sinal Construtora Heliport",-22.683785,-42.369787,68,"SA","BR","BR-RJ","Silva Jardim","no",,,,,,,"SJXE"
+36968,"BR-2740","small_airport","Águas Frias Airport",-27.217627,-53.27253,1135,"SA","BR","BR-RS","Iraí","no",,,,,,,"SJXH"
+36970,"BR-2741","small_airport","Parque Fazenda Bom Futuro Airport",-17.191785,-57.03402,361,"SA","BR","BR-MT","Poconé","no",,,,,,,"SJXN"
+36971,"BR-2742","heliport","HP Padilha Heliport",-23.038612,-44.15328,17,"SA","BR","BR-RJ","Mangaratiba","no",,,,,,,"SJXO"
+36978,"BR-2743","small_airport","Fazenda 3M Airport",-21.674202,-54.03658,1155,"SA","BR","BR-MS","Nova Alvorada do Sul","no",,,,,,,"SJXW"
+36981,"BR-2744","heliport","Namour Heliport",-23.572779,-46.641109,2900,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SJXZ"
+36982,"BR-2745","heliport","Caraguatá Heliport",-22.920834,-42.477501,162,"SA","BR","BR-RJ","Saquarema","no",,,,,,,"SJYA"
 36983,"BR-2746","heliport","Edifício Plaza I Heliport",-23.61084,-46.695912,2648,"SA","BR","BR-SP","São Paulo","no",,,,,"https://spcorporate.com.br/imoveis/plaza-i",,"SJYB"
 37002,"BR-2747","small_airport","Rio do Sangue Airport",-11.522222,-58.172978,935,"SA","BR","BR-MT","Brasnorte","no",,,,,,,"SJYY"
 37003,"BR-2748","small_airport","Fazenda Lagoa Encantada Airport",-15.273504,-54.262292,1968,"SA","BR","BR-MT","Primavera do Leste","no",,,,"SJYZ",,,"SJYZ"
@@ -15603,7 +15603,7 @@
 37020,"BR-2753","small_airport","Fazenda Monte Alegre Airport",-10.564167022705,-44.94694519043,1444,"SA","BR","BR-PI","Corrente","no",,,,"SJZQ",,,"SJZQ"
 37021,"BR-2754","small_airport","Fazenda Itália Airport",-7.4447221755981,-44.353332519531,1280,"SA","BR","BR-PI","Uruçui","no",,,,"SJZR",,,"SJZR"
 37027,"BR-2755","small_airport","Fazenda Rebojo Airport",-20.026388168335,-57.918888092041,397,"SA","BR","BR-MS","Corumbá","no",,,,"SJZX",,,"SJZX"
-37031,"BR-2756","small_airport","Fazenda Água Comprida Airport",-19.947849,-48.035496,2211,"SA","BR","BR-MG","Água Comprida","no",,,,"SNAF",,,"SNAF"
+37031,"BR-2756","small_airport","Fazenda Água Comprida Airport",-19.947849,-48.035496,2211,"SA","BR","BR-MG","Água Comprida","no",,,,,,,"SNAF"
 37032,"BR-2757","small_airport","Alto Parnaíba Airport",-9.083611,-45.950558,968,"SA","BR","BR-MA","Alto Parnaíba","no",,"APY",,"SNAI",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Alto_Parna%C3%ADba","SNAI"
 37036,"BR-2758","small_airport","Fazenda Boa Fé Airport",-19.886871,-47.675345,2461,"SA","BR","BR-MG","Conquista","no",,,,"SNAW",,,"SNAW"
 37037,"BR-2759","small_airport","Fazenda Rio Lages Airport",-6.281542,-51.746123,853,"SA","BR","BR-PA","São Félix do Xingu","no",,,,,,,"SNAY"
@@ -16139,6 +16139,7 @@
 35304,"BS-0020","closed","Nassau Paradise Island Airport",25.078138,-77.298689,,"NA","BS","BS-NP","Nassau","no",,,,,,,"MYPI, MYPI, PID"
 35343,"BS-0021","closed","Cistern Field",25.7787,-77.885201,18,"NA","BS","BS-BY","Cistern Cay","no",,,,,,"https://en.wikipedia.org/wiki/Cistern_Field","MYBT, MYX5"
 35349,"BS-0022","closed","Cape Eleuthera Airport",24.7861,-76.2962,9,"NA","BS","BS-SE","Cape Eleuthera","no",,,,,,"https://en.wikipedia.org/wiki/Cape_Eleuthera_Airport","CEL, MYEC, MYZ2"
+599649,"BS-0023","large_airport","dom88casino",86,89,,"NA","BS","BS-LI","Hà Nội, Vietnam","no",,,,,"https://dom88.casino/",,
 35303,"BS-NSB","seaplane_base","Bimini North Seaplane Base",25.767,-79.25,,"NA","BS","BS-BI","Bimini","yes",,"NSB",,,,"https://en.wikipedia.org/wiki/North_Bimini_Airport",
 302396,"BSV","small_airport","Besakoa Airport",-15.6725,47.061667,40,"AF","MG","MG-M","Besakoa","no",,"BSV",,,,,
 340533,"BT-0001","heliport","Royal Bhutan Police Heliport",27.464609,89.639314,,"AS","BT","BT-15","Thimphu","no",,,,,,,
@@ -24835,10 +24836,15 @@
 2646,"ESDF","medium_airport","Ronneby Airport",56.266701,15.265,191,"EU","SE","SE-K","Ronneby","yes","ESDF","RNB","ESDF",,"https://www.swedavia.com/ronneby/","https://en.wikipedia.org/wiki/Ronneby_Airport",
 300955,"ESEM","heliport","Lund Hospital Helipad",55.711762,13.198793,352,"EU","SE","SE-M","Lund","no","ESEM",,"ESEM",,,,
 599575,"ESES","heliport","Sunderby Hospital Heliport",65.669523,21.935366,35,"EU","SE","SE-BD","Luleå","no","ESES",,"ESES",,,,
-29311,"ESFA","small_airport","Hässleholm Bokeberg Airfield",56.134407,13.875647,105,"EU","SE","SE-M","Hässleholm","no",,,"ESFA",,"http://www.hlmfk.se","https://sv.wikipedia.org/wiki/H%C3%A4ssleholms_flygplats",
-2647,"ESFR","medium_airport","Råda Air Base",58.4981,13.0532,230,"EU","SE","SE-Q","Råda","no",,,"ESFR",,,"https://sv.wikipedia.org/wiki/R%C3%A5da_flygbas",
-29317,"ESFS","small_airport","Sandvik Airfield",57.0681,16.8613,30,"EU","SE","SE-H","Sandvik","no",,,"ESFS",,,,"Öland"
-29320,"ESGA","small_airport","Backamo Airfield",58.1772,11.9735,415,"EU","SE","SE-Q","Uddevalla","no",,,"ESGA",,,"https://sv.wikipedia.org/wiki/Backamo_flygf%C3%A4lt",
+599653,"ESET","heliport","Torsby Hospital Heliport",60.136687,12.997441,335,"EU","SE","SE-S","Torsby","no","ESET",,"ESET",,,,
+599654,"ESEU","heliport","Uddevalla Hospital Heliport",58.357325,11.928763,66,"EU","SE","SE-Q","Uddevalla","no","ESEU",,"ESEU",,,,
+599655,"ESEV","heliport","Visby Hospital Heliport",57.649906,18.300889,26,"EU","SE","SE-I","Visby","no","ESEV",,"ESEV",,,,
+599656,"ESEW","heliport","Västmanland's Hospital Heliport",59.615741,16.582017,103,"EU","SE","SE-U",,"no","ESEW",,"ESEW",,,,
+599657,"ESEY","heliport","Lycksele Hospital Heliport",64.585356,18.681019,742,"EU","SE","SE-AC","Lycksele","no","ESEY",,"ESEY",,,,
+29311,"ESFA","small_airport","Hässleholm Bokeberg Airfield",56.134407,13.875647,105,"EU","SE","SE-M","Hässleholm","no","ESFA",,"ESFA",,"http://www.hlmfk.se","https://sv.wikipedia.org/wiki/H%C3%A4ssleholms_flygplats",
+2647,"ESFR","medium_airport","Råda Air Base",58.4981,13.0532,230,"EU","SE","SE-Q","Råda","no","ESFR",,"ESFR",,,"https://sv.wikipedia.org/wiki/R%C3%A5da_flygbas",
+29317,"ESFS","small_airport","Sandvik Airfield",57.064935,16.861854,30,"EU","SE","SE-H","Sandvik","no","ESFS",,"ESFS",,,,"Öland"
+29320,"ESGA","small_airport","Backamo Airfield",58.1772,11.9735,415,"EU","SE","SE-Q","Uddevalla","no","ESGA",,"ESGA",,,"https://sv.wikipedia.org/wiki/Backamo_flygf%C3%A4lt",
 29321,"ESGC","small_airport","Ålleberg Airfield",58.134499,13.6026,,"EU","SE","SE-Q","Ålleberg","no",,,"ESGC",,,,
 29322,"ESGD","small_airport","Bämmelshed Airfield",58.191799,13.9957,,"EU","SE","SE-Q","Tidaholm","no",,,"ESGD",,,,
 29323,"ESGE","small_airport","Borås Airfield",57.695935,12.845002,588,"EU","SE","SE-Q","Borås","no",,,"ESGE",,"http://www.borasflygplats.se","https://sv.wikipedia.org/wiki/Bor%C3%A5s_flygplats","Viared"
@@ -57691,6 +57697,7 @@
 595592,"SE-0113","heliport","Kallax Flyg Heliport",68.34579,18.83074,1332,"EU","SE","SE-BD","Abisko","no",,,,,,,
 596437,"SE-0114","small_airport","Esgrene Field",58.132092,11.775177,20,"EU","SE","SE-Q","Svanesund, Ourst","no",,,,,"http://orustfly.com/",,"Burås/Grenegård"
 597819,"SE-0115","closed","Göteborg Torslanda",57.70761,11.77764,,"EU","SE","SE-Q",,"no",,,,,,"https://en.wikipedia.org/wiki/Torslanda_Airport","ESGB, GOT"
+599651,"SE-0116","heliport","Gotska Sandön Heliport",58.391302,19.191707,,"EU","SE","SE-U-A","Gotska Sandön","no",,,,,,,
 2170,"SE01","small_airport","Alba Elena Airport",-2.173581,-79.280763,150,"SA","EC","EC-G","Bucay","no",,,"SEAE",,,,"SE01, Coronel Marcelino Mariduena"
 2171,"SE02","small_airport","Guabital Airport",-2.773399,-79.702411,45,"SA","EC","EC-G","Soledad","no",,,"SEGB",,,,"SE02"
 2172,"SE03","small_airport","Las Peñas Airport",-2.94716,-80.1007,3,"SA","EC","EC-G","Puerto Grande","no",,,"SEEN",,,,"SE03"
@@ -59690,7 +59697,7 @@
 36975,"SJXT","heliport","Iguassú Heliport",-23.121110916099997,-44.192779541,16,"SA","BR","BR-RJ","Angra Dos Reis","no",,,"SJXT",,,,
 36977,"SJXV","small_airport","Fazenda Bela Vista Airport",-22.931110382080078,-55.054443359375,1256,"SA","BR","BR-MS","Amambaí","no",,,"SJXV",,,,
 36979,"SJXX","small_airport","Recreio Airport",-22.679443359375,-55.540557861328125,1968,"SA","BR","BR-MS","Ponta Porã","no",,,"SJXX",,,,
-36980,"SJXY","heliport","Piratas Mall Heliport",-23.003610610961914,-44.29916763305664,6,"SA","BR","BR-RJ","Angra Dos Reis","no",,,"SJXY",,,,
+36980,"SJXY","heliport","Piratas Mall Helistop",-23.003974,-44.301862,7,"SA","BR","BR-RJ","Angra dos Reis","no",,,"SJXY","RJ0122",,,
 527137,"SJY2","small_airport","Fazenda Aguão Airport",-11.503738,-54.202544,1220,"SA","BR","BR-MT","União do Sul","no",,,"SJY2","MT0945",,,
 527138,"SJY3","small_airport","Fazenda Vaca Preta Airport",-13.427778,-46.580278,1627,"SA","BR","BR-GO","São Domingos","no",,,"SJY3","GO0356",,,
 527141,"SJY4","small_airport","Fazenda Vereda Grande Airport",-18.220741,-46.497605,3310,"SA","BR","BR-MG","Presidente Olegário","no",,,"SJY4","MG0592",,,
@@ -59713,12 +59720,12 @@
 36995,"SJYP","small_airport","Bananeira Airport",4.321109771728516,-60.19390106201172,892,"SA","BR","BR-RR","Uiramutã","no",,,"SJYP",,,,
 323621,"SJYQ","small_airport","Barreirinha Airport",4.330405,-60.28783,1194,"SA","BR","BR-RR","Uiramutã","no",,,"SJYQ","RR0099",,,
 36996,"SJYR","small_airport","Caju Airport",4.709441,-60.510851,794,"SA","BR","BR-RR","Pacaraima","no",,,"SJYR","RR0100",,,
-36997,"SJYS","small_airport","Camará Airport",3.9908299446105957,-60.18170166015625,594,"SA","BR","BR-RR","Normândia","no",,,"SJYS",,,,
-36998,"SJYT","small_airport","Campo Formoso Airport",4.71999979019165,-60.76969909667969,1194,"SA","BR","BR-RR","Pacaraima","no",,,"SJYT",,,,
-36999,"SJYU","small_airport","Campo Grande Airport",4.68556022644043,-60.802799224853516,1194,"SA","BR","BR-RR","Pacaraima","no",,,"SJYU",,,,
-37000,"SJYV","heliport","Cauê-Apiaí Heliport",-24.516666412353516,-48.84972381591797,2959,"SA","BR","BR-SP","Apiaí","no",,,"SJYV",,,,
-37001,"SJYW","small_airport","Fazenda Santa Terezinha Airport",-10.331389427185059,-50.940277099609375,748,"SA","BR","BR-MT","Santa Terezinha","no",,,"SJYW",,,,
-323620,"SJYX","heliport","Foz do Chopim Heliport",-25.571833,-53.123084,1240,"SA","BR","BR-PR","Cruzeiro do Iguaçu","no",,,"SJYX",,,,
+36997,"SJYS","small_airport","Camará Airstrip",3.990654,-60.182043,594,"SA","BR","BR-RR","Normândia","no",,,"SJYS","RR0101",,,
+36998,"SJYT","small_airport","Campo Formoso Airport",4.717904,-60.771013,1194,"SA","BR","BR-RR","Pacaraima","no",,,"SJYT","RR0102",,,
+36999,"SJYU","small_airport","Campo Grande Airstrip",4.685556,-60.800278,1194,"SA","BR","BR-RR","Pacaraima","no",,,"SJYU","RR0103",,,
+37000,"SJYV","heliport","Cauê-Apiaí Heliport",-24.517239,-48.850213,2963,"SA","BR","BR-SP","Apiaí","no",,,"SJYV","SP0682",,,
+37001,"SJYW","small_airport","Fazenda Santa Terezinha Airport",-10.319167,-50.949444,751,"SA","BR","BR-MT","Santa Terezinha","no",,,"SJYW","MT0234",,,
+323620,"SJYX","heliport","Foz do Chopim Heliport",-25.571932,-53.12309,1240,"SA","BR","BR-PR","Cruzeiro do Iguaçu","no",,,"SJYX","PR0127",,,
 527132,"SJZ2","small_airport","Fazenda Vale do Paraíso Airport",-7.709144,-50.656204,1398,"SA","BR","BR-PA","Bannach","no",,,"SJZ2","PA0367",,,
 511897,"SJZ4","small_airport","Fazenda Baru Airstrip",-15.270556,-48.403056,2333,"SA","BR","BR-GO","Padre Bernardo","no",,,"SJZ4","GO0365",,,
 527129,"SJZ6","small_airport","Fazenda Gavazzoni Airport",-12.252515,-45.159485,2408,"SA","BR","BR-BA","Barreiras","no",,,"SJZ6","BA0445",,,
