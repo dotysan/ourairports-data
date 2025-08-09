@@ -1874,6 +1874,15 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2646,ESDF,medium_airport,Ronneby Airport,56.266701,15.265,191,EU,SE,SE-K,Ronneby,yes,ESDF,RNB,ESDF,,https://www.swedavia.com/ronneby/,https://en.wikipedia.org/wiki/Ronneby_Airport,
 300955,ESEM,heliport,Lund Hospital Helipad,55.711762,13.198793,352,EU,SE,SE-M,Lund,no,ESEM,,ESEM,,,,
 599575,ESES,heliport,Sunderby Hospital Heliport,65.669523,21.935366,35,EU,SE,SE-BD,Luleå,no,ESES,,ESES,,,,
+599653,ESET,heliport,Torsby Hospital Heliport,60.136687,12.997441,335,EU,SE,SE-S,Torsby,no,ESET,,ESET,,,,
+599654,ESEU,heliport,Uddevalla Hospital Heliport,58.357325,11.928763,66,EU,SE,SE-Q,Uddevalla,no,ESEU,,ESEU,,,,
+599655,ESEV,heliport,Visby Hospital Heliport,57.649906,18.300889,26,EU,SE,SE-I,Visby,no,ESEV,,ESEV,,,,
+599656,ESEW,heliport,Västmanland's Hospital Heliport,59.615741,16.582017,103,EU,SE,SE-U,,no,ESEW,,ESEW,,,,
+599657,ESEY,heliport,Lycksele Hospital Heliport,64.585356,18.681019,742,EU,SE,SE-AC,Lycksele,no,ESEY,,ESEY,,,,
+29311,ESFA,small_airport,Hässleholm Bokeberg Airfield,56.134407,13.875647,105,EU,SE,SE-M,Hässleholm,no,ESFA,,ESFA,,http://www.hlmfk.se,https://sv.wikipedia.org/wiki/H%C3%A4ssleholms_flygplats,
+2647,ESFR,medium_airport,Råda Air Base,58.4981,13.0532,230,EU,SE,SE-Q,Råda,no,ESFR,,ESFR,,,https://sv.wikipedia.org/wiki/R%C3%A5da_flygbas,
+29317,ESFS,small_airport,Sandvik Airfield,57.064935,16.861854,30,EU,SE,SE-H,Sandvik,no,ESFS,,ESFS,,,,Öland
+29320,ESGA,small_airport,Backamo Airfield,58.1772,11.9735,415,EU,SE,SE-Q,Uddevalla,no,ESGA,,ESGA,,,https://sv.wikipedia.org/wiki/Backamo_flygf%C3%A4lt,
 2648,ESGG,large_airport,Göteborg Landvetter Airport,57.6628,12.2798,506,EU,SE,SE-Q,Göteborg,yes,ESGG,GOT,ESGG,,https://www.swedavia.com/landvetter/,https://en.wikipedia.org/wiki/G%C3%B6teborg_Landvetter_Airport,"Göteborg-Landvetter, Gothenburg"
 2649,ESGJ,medium_airport,Jönköping Airport,57.757598876953125,14.068699836730957,741,EU,SE,SE-F,Jönköping,yes,ESGJ,JKG,ESGJ,,http://www.lfv.se/templates/LFV_AirportStartPage____1672.aspx,https://en.wikipedia.org/wiki/J%C3%B6nk%C3%B6ping_Airport,
 2651,ESGL,small_airport,Lidköping-Hovby Airport,58.4655,13.1744,200,EU,SE,SE-Q,Lidköping,no,ESGL,LDK,ESGL,,http://www.lidkopingairport.com/,https://en.wikipedia.org/wiki/Lidk%C3%B6ping-Hovby_Airport,
