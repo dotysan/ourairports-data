@@ -606,7 +606,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 297,BR-2171,small_airport,Leopoldina Airport,-21.468226,-42.727076,919,SA,BR,BR-MG,Leopoldina,no,,LEP,,,,https://pt.wikipedia.org/wiki/Aeroporto_de_Leopoldina,SNDN
 30848,BR-2235,small_airport,Cururupu Airport,-1.820006,-44.864065,39,SA,BR,BR-MA,Cururupu,no,,CPU,,MA0012,,https://pt.wikipedia.org/wiki/Aeroporto_de_Cururupu,SNCU
 30858,BR-2236,small_airport,Santa Vitória do Palmar Airport,-33.502038,-53.344911,82,SA,BR,BR-RS,Santa Vitória do Palmar,no,,CTQ,,RS0047,,https://sv.wikipedia.org/wiki/Santa_Vit%C3%B3ria_do_Palmar_Airport,SSVP
-37032,BR-2757,small_airport,Alto Parnaíba Airport,-9.083611,-45.950558,968,SA,BR,BR-MA,Alto Parnaíba,no,,APY,,SNAI,,https://pt.wikipedia.org/wiki/Aeroporto_de_Alto_Parna%C3%ADba,SNAI
+37032,BR-2757,small_airport,Alto Parnaíba Airport,-9.08533,-45.955603,968,SA,BR,BR-MA,Alto Parnaíba,no,,APY,,,,https://pt.wikipedia.org/wiki/Aeroporto_de_Alto_Parna%C3%ADba,SNAI
 37933,BR-3086,small_airport,Juruena Airport,-10.305833,-58.489445,525,SA,BR,BR-MT,Juruena,no,,JRN,,SWJU,,https://en.wikipedia.org/wiki/Juruena_Airport,SWJU
 38073,BR-3133,small_airport,Santa Terezinha Airport,-10.464722,-50.518612,663,SA,BR,BR-MT,Santa Terezinha,no,,STZ,,SWST,,https://en.wikipedia.org/wiki/Santa_Terezinha_Airport,SWST
 38113,BR-3150,small_airport,Vila Bela da Santíssima Trindade Airport,-14.995499,-59.945662,660,SA,BR,BR-MT,Vila Bela Da Santíssima Trindade,no,,MTG,,MT0020,,https://web.archive.org/web/20220524202626/https://pt.wikipedia.org/wiki/Aeroporto_de_Vila_Bela_da_Sant%C3%ADssima_Trindade,"Mato Grosso Airport, BR-3150"
@@ -1957,7 +1957,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29375,ESUE,small_airport,Idre Airport,61.869701,12.6894,1480,EU,SE,SE-W,Idre,no,ESUE,IDB,ESUE,,https://www.idrefjallensairport.se/,,
 2715,ESUP,small_airport,Pajala Airport,67.244569,23.074894,542,EU,SE,SE-BD,Pajala,yes,ESUP,PJA,ESUP,,https://www.pajala.se/pajala-airport/,https://en.wikipedia.org/wiki/Pajala_Airport,
 2716,ESUT,small_airport,Hemavan Airport,65.806099,15.0828,1503,EU,SE,SE-AC,Hemavan,yes,ESUT,HMV,ESUT,,,https://en.wikipedia.org/wiki/Hemavan_Airport,
-29389,ESVK,small_airport,Katrineholm Airfield,59.017988,16.221775,148,EU,SE,SE-D,Katrineholm,no,ESVK,ESV,ESVK,,,,
+29389,ESVK,small_airport,Katrineholm Airfield,59.017988,16.221775,148,EU,SE,SE-D,Katrineholm,no,ESVK,,ESVK,,,,
 29390,ESVM,small_airport,Skinnlanda Airfield,60.658798,13.7266,,EU,SE,SE-W,Malung,no,ESVM,,ESVM,,,,
 29391,ESVQ,small_airport,Köping/Gålby Airfield,59.528083,15.970064,23,EU,SE,SE-U,Köping,no,ESVQ,,ESVQ,,,https://sv.wikipedia.org/wiki/K%C3%B6ping/G%C3%A5lby_flygf%C3%A4lt,
 29392,ESVS,small_airport,Siljansnäs Air Park,60.785099,14.8272,611,EU,SE,SE-W,Siljansnäs,no,ESVS,,ESVS,,http://www.siljansnasfk.com,http://sv.wikipedia.org/wiki/Siljan_airpark,
