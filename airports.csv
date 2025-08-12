@@ -14625,7 +14625,6 @@
 505348,"BR-1766","small_airport","Ivaí Aeroagrícola Airport",-23.710653,-52.166173,971,"SA","BR","BR-PR","Engenheiro Beltrão","no",,,"SSOC","PR0087",,,
 505367,"BR-1767","heliport","Home Hospital Helipad",-15.835304,-47.910188,3409,"SA","BR","BR-DF","Brasilia","no",,,"SSOH","DF0018",,,
 505377,"BR-1768","small_airport","Fazenda Pontal da Cachoeira",-19.430629,-54.294934,1263,"SA","BR","BR-MS","Camapuã","no",,,"SSOO","MS0316",,,
-505378,"BR-1769","small_airport","Pista Porquinho",-5.179355,-57.621519,495,"SA","BR","BR-PA","Itaituba","no",,,"SSOP","PA0128",,,
 505384,"BR-1770","heliport","Ages Jacobina Heliport",-11.156709,-40.574743,1857,"SA","BR","BR-BA","Jacobina","no",,,"SSOR","BA0246",,,
 505386,"BR-1771","heliport","Icon Alphaville Helipad",-23.492708,-46.84822,2776,"SA","BR","BR-SP","Barueri","no",,,"SSOV","SP0766",,,
 505435,"BR-1772","small_airport","Fazenda Olho d'Água Airport",-18.269167,-54.593056,833,"SA","BR","BR-MS","Pedro Gomes","no",,,"SSOX","MS0318",,,
@@ -15622,12 +15621,12 @@
 37061,"BR-2766","small_airport","Santana dos Brejos Airport",-12.976111412048,-44.039165496826,1759,"SA","BR","BR-BA","Santana Dos Brejos","no",,,,"SNDJ",,,"SNDJ"
 37063,"BR-2767","small_airport","Palmares Airport",-2.2602779865265,-48.598331451416,218,"SA","BR","BR-PA","Acará","no",,,,"SNDP",,,"SNDP"
 37067,"BR-2768","small_airport","Piçarrão Airport",-18.721389770508,-47.86555480957,3166,"SA","BR","BR-MG","Estrela Do Sul","no",,,,"SNEA",,,"SNEA"
-37071,"BR-2769","small_airport","Mineração Porquinho Airport",-5.1672220230103,-57.625831604004,298,"SA","BR","BR-PA","Itaituba","no",,,,"SNEH",,,"SNEH"
-37072,"BR-2770","small_airport","Monte Verde Airport",-22.859722137451,-46.037498474121,5102,"SA","BR","BR-MG","Camanducaia","no",,,,"SNEJ",,,"SNEJ"
-37073,"BR-2771","small_airport","Moria Airport",-16.879745,-46.233015,1201,"SA","BR","BR-MG","Dom Bosco","no",,,,"SNEK",,,"SNEK"
-37074,"BR-2772","small_airport","Belterra Airport",-2.668108,-54.89566,541,"SA","BR","BR-PA","Belterra","no",,,,"SNEL",,,"SNEL"
-37075,"BR-2773","small_airport","Fazenda Calumbi Airport",-5.815404,-44.133625,689,"SA","BR","BR-MA","Fortuna","no",,,,"SNEN",,,"SNEN"
-37076,"BR-2774","small_airport","Esplanada Airport",-11.773209,-37.951097,164,"SA","BR","BR-BA","Esplanada","no",,,,"SNES",,,"SNES"
+37071,"BR-2769","small_airport","Porquinho Airstrip",-5.179351,-57.621524,495,"SA","BR","BR-PA","Itaituba","no",,,"SSOP","PA0128",,,"SNEH, Mineração Porquinho, Porquinho Mine"
+37072,"BR-2770","small_airport","Monte Verde Airport",-22.860002,-46.037478,5102,"SA","BR","BR-MG","Camanducaia","no",,,,,,,"SNEJ"
+37073,"BR-2771","small_airport","Moria Airport",-16.879745,-46.233015,1201,"SA","BR","BR-MG","Dom Bosco","no",,,,,,,"SNEK"
+37074,"BR-2772","small_airport","Belterra Airport",-2.668108,-54.89566,541,"SA","BR","BR-PA","Belterra","no",,,,,,,"SNEL"
+37075,"BR-2773","small_airport","Fazenda Calumbi Airport",-5.815404,-44.133625,689,"SA","BR","BR-MA","Fortuna","no",,,,,,,"SNEN"
+37076,"BR-2774","small_airport","Esplanada Airport",-11.773209,-37.951097,164,"SA","BR","BR-BA","Esplanada","no",,,,,,,"SNES"
 37077,"BR-2775","small_airport","Fazenda Lagoa do Morro Airport",-13.103262,-39.89528,2666,"SA","BR","BR-BA","Brejões","no",,,,"SNEY",,,"SNEY"
 37079,"BR-2776","small_airport","Fazenda Santo Antônio Airport",-17.069171,-45.447511,1791,"SA","BR","BR-MG","Buritizeiro","no",,,,"SNFD",,,"SNFD"
 37084,"BR-2777","small_airport","Garimpo Tocantinzinho Airport",-6.062265,-56.302897,590,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SNFL, Garimbo"
@@ -48381,6 +48380,8 @@
 594805,"MX-2522","closed","Teotitlán de Flores Magón Airport",18.11551,-97.09013,3003,"NA","MX","MX-OAX","Teotitlán de Flores Magón","no",,,,,,,
 594807,"MX-2523","closed","San Lucas el Viejo Airstrip",18.68389,-97.73086,6287,"NA","MX","MX-PUE","Xochitlán Todos Santos","no",,,,,,,
 594808,"MX-2524","heliport","Zongozotla Heliport",19.98426,-97.72634,3694,"NA","MX","MX-PUE","Zongozotla","no",,,,,,,
+599715,"MX-2525","heliport","Helipuerto de Tres Cielos",18.612703,-99.279887,,"NA","MX","MX-MOR","Tequesquitengo","no",,,,,,,
+599730,"MX-2526","closed","Pista de aterrizaje Casasano",18.862569,-98.955006,,"NA","MX","MX-MOR","Cuautla","no",,,,,,,
 30631,"MX-AJS","small_airport","Punta Abreojos Airport",26.7272,-113.558998,26,"NA","MX","MX-BCS","Mulegé","no",,"AJS",,"AJS",,"https://en.wikipedia.org/wiki/Punta_Abreojos_Airstrip","MX86"
 30671,"MX-AZG","small_airport","Apatzingán - Pablo L. Sidar Airport",19.093399,-102.393997,1033,"NA","MX","MX-MIC","Apatzingán","no",,"AZG","MMAG","AZG",,"https://es.wikipedia.org/wiki/Aeropuerto_Nacional_Pablo_L._Sidar","MM16"
 43044,"MX-CEO","small_airport","El Crucero Airport",27.407301,-109.928001,114,"NA","MX","MX-SON","Cajeme","no",,,,"CEO",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_El_Crucero_(Sonora)",
@@ -54245,6 +54246,7 @@
 599448,"RO-0162","heliport","Pașcani Emergency Hospital Helipad",47.243202,26.724592,,"EU","RO","RO-IS",,"no",,,,,,,
 599449,"RO-0163","heliport","2nd Detachment of Firefighters Iaşi Helipad",47.142274,27.638056,,"EU","RO","RO-IS",,"no",,,,,,,
 599450,"RO-0164","heliport","National Centre Of Professional Firefighting and Rescue Training Iași Helipad",47.19035,27.573672,,"EU","RO","RO-IS",,"no",,,,,,,
+599720,"RO-0165","heliport","Jibou Ambulance Heliport",47.271021,23.257294,,"EU","RO","RO-SJ","Jibou","no",,,,,,,
 300121,"RO02","heliport","Lester Helo Pad Nº 2",26.3172222222,127.764444444,26,"AS","JP","JP-47",,"no",,,"RO02",,,,
 300122,"RO04","heliport","White Beach Helipad CFAO",26.301666666699997,127.910277778,31,"AS","JP","JP-47",,"no",,,"RO04",,,,
 5671,"ROAH","large_airport","Naha Airport / JASDF Naha Air Base",26.195801,127.646004,12,"AS","JP","JP-47","Naha","yes","ROAH","OKA","ROAH",,"http://www.naha-airport.co.jp/","https://en.wikipedia.org/wiki/Naha_Airport","那覇空港, Naha Kūkō?, AHA, Naha AFB"
@@ -58005,7 +58007,7 @@
 312925,"SG-0003","small_airport","Lim Chu Kang Road (Tengah Highway Strip)",1.390671,103.698435,,"AS","SG","SG-03","Western Water Catchment","no",,,,,"https://www.youtube.com/watch?v=CBMD4QTSyqM",,
 339980,"SG-0004","closed","Kallang Airport",1.307411,103.873378,,"AS","SG","SG-01","Kallang","no",,,,,,"https://en.wikipedia.org/wiki/Kallang_Airport",
 351987,"SG-0005","small_airport","Murai Airfield",1.39203,103.69951,72,"AS","SG","SG-03","Western Water Catchment","no",,,,,,,
-5508,"SG67","small_airport","Aeródromo de la Estancia Pai Quara",-23.229702,-55.948455,712,"SA","PY","PY-13","Estancia Pai Quara","no",,,"SG67","SG67",,,
+5508,"SG67","small_airport","Estancia Pai Quara Airport",-23.223334,-55.946254,712,"SA","PY","PY-13","Estancia Pai Quara","no",,,,"SG67",,,
 6088,"SGAS","large_airport","Aeropuerto Internacional Silvio Pettirossi",-25.240156,-57.519227,292,"SA","PY","PY-11","Asunción","yes","SGAS","ASU","SGAS",,,"https://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport","Luque, Stroessner, Aeropuerto Internacional Silvio Pettirossi"
 6089,"SGAY","medium_airport","Aeropuerto Nacional Juan de Ayolas",-27.378379,-56.856791,223,"SA","PY","PY-8","Ayolas","no","SGAY","AYO","SGAY",,,"https://en.wikipedia.org/wiki/Juan_de_Ayolas_Airport","Aeropuerto Nacional de Juan De Ayolas"
 308256,"SGBA","small_airport","Aeródromo de Bella Vista Sur",-27.052393,-55.578026,650,"SA","PY","PY-7","Colonia Doctor Pastor Obligado","no",,,"SGBA",,,,
@@ -58095,7 +58097,7 @@
 39372,"SHIQ","heliport","Cuartel Gral. VI División de Ejercito Heliport",-20.229999542236328,-70.1449966430664,26,"SA","CL","CL-TA","Iquique","no",,,"SHIQ",,,,
 45090,"SHIS","heliport","Isidora 3000 Heliport",-33.414011,-70.598112,2510,"SA","CL","CL-RM","Las Condes","no",,,"SHIS",,,,
 596076,"SHJN","heliport","Dr. Juan Noé Crevani, Arica Regional Hospital Helipad",-18.482836,-70.31314,187,"SA","CL","CL-AP","Arica","no","SHJN",,"SHJN",,,,
-39373,"SHJO","heliport","Hospital San José Heliport",-33.40861129760742,-70.6522216796875,1868,"SA","CL","CL-RM","Santiago","no",,,"SHJO",,,,
+39373,"SHJO","heliport","San José Hospital Helipad",-33.416071,-70.653094,1868,"SA","CL","CL-RM","Santiago","no","SHJO",,"SHJO",,"https://complejohospitalariosanjose.cl/",,
 39374,"SHKI","heliport","Kipreos Heliport",-33.56027603149414,-70.74444580078125,1575,"SA","CL","CL-RM","Santiago","no",,,"SHKI",,,,
 39375,"SHLA","heliport","Las Americas Heliport",-33.43583297729492,-70.6433334350586,2126,"SA","CL","CL-RM","Santiago","no",,,"SHLA",,,,
 39376,"SHLC","heliport","Lan Courier Heliport",-33.38389,-70.750556,1565,"SA","CL","CL-RM","Santiago","no",,,"SHLC",,,,
