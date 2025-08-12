@@ -7665,6 +7665,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6094,SGPI,medium_airport,Aeródromo Don Carlos Miguel Gimenez,-26.881981,-58.319067,249,SA,PY,PY-12,Pilar,no,SGPI,PIL,SGPI,,,https://en.wikipedia.org/wiki/Carlos_Miguel_Jim%C3%A9nez_Airport,
 6095,SGPJ,medium_airport,Aeropuerto Nacional Dr. Augusto Roberto Fuster,-22.641427,-55.829993,1873,SA,PY,PY-13,Pedro Juan Caballero,no,SGPJ,PJC,SGPJ,,,https://en.wikipedia.org/wiki/Dr._Augusto_Roberto_Fuster_International_Airport,Aeropuerto Internacional Dr. Augusto Roberto Fuster
 596076,SHJN,heliport,"Dr. Juan Noé Crevani, Arica Regional Hospital Helipad",-18.482836,-70.31314,187,SA,CL,CL-AP,Arica,no,SHJN,,SHJN,,,,
+39373,SHJO,heliport,San José Hospital Helipad,-33.416071,-70.653094,1868,SA,CL,CL-RM,Santiago,no,SHJO,,SHJO,,https://complejohospitalariosanjose.cl/,,
 316552,SIC,small_airport,San José Island Airport,8.2622,-79.078,150,NA,PA,PA-8,Las Perlas,no,,SIC,,,,https://en.wikipedia.org/wiki/San_José_Airport_(Las_Perlas),
 329420,SIJY,small_airport,Campo Comandantes Airport,-26.983055,-48.816387,33,SA,BR,BR-SC,Itajaí,no,,ITJ,SIJY,SC0027,,,"ITJ, Itajaí/Campo Comandantes"
 36081,SILC,small_airport,Municipal Bom Futuro Airport,-13.037861,-55.95025,1358,SA,BR,BR-MT,Lucas do Rio Verde,no,SILC,LVR,SILC,MT0025,,https://en.wikipedia.org/wiki/Lucas_do_Rio_Verde_Airport,
