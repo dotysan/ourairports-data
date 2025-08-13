@@ -7664,6 +7664,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41565,SGOL,small_airport,Aeródromo de Fuerte,-21.045724,-57.882935,270,SA,PY,PY-16,Fuerte Olimpo,no,SGOL,OLK,SGOL,,,https://en.wikipedia.org/wiki/Fuerte_Olimpo_Airport,1st Lt. Inocencio Herebia
 6094,SGPI,medium_airport,Aeródromo Don Carlos Miguel Gimenez,-26.881981,-58.319067,249,SA,PY,PY-12,Pilar,no,SGPI,PIL,SGPI,,,https://en.wikipedia.org/wiki/Carlos_Miguel_Jim%C3%A9nez_Airport,
 6095,SGPJ,medium_airport,Aeropuerto Nacional Dr. Augusto Roberto Fuster,-22.641427,-55.829993,1873,SA,PY,PY-13,Pedro Juan Caballero,no,SGPJ,PJC,SGPJ,,,https://en.wikipedia.org/wiki/Dr._Augusto_Roberto_Fuster_International_Airport,Aeropuerto Internacional Dr. Augusto Roberto Fuster
+39329,SHAC,heliport,ACHS Worker's Hospital Helipad,-33.443667,-70.632125,1969,SA,CL,CL-RM,Santiago,no,SHAC,,SHAC,,,https://es.wikipedia.org/wiki/Hospital_del_Trabajador_ACHS,
 596076,SHJN,heliport,"Dr. Juan Noé Crevani, Arica Regional Hospital Helipad",-18.482836,-70.31314,187,SA,CL,CL-AP,Arica,no,SHJN,,SHJN,,,,
 39373,SHJO,heliport,San José Hospital Helipad,-33.416071,-70.653094,1868,SA,CL,CL-RM,Santiago,no,SHJO,,SHJO,,https://complejohospitalariosanjose.cl/,,
 316552,SIC,small_airport,San José Island Airport,8.2622,-79.078,150,NA,PA,PA-8,Las Perlas,no,,SIC,,,,https://en.wikipedia.org/wiki/San_José_Airport_(Las_Perlas),
@@ -9402,7 +9403,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26887,WSSS,large_airport,Singapore Changi Airport,1.35019,103.994003,22,AS,SG,SG-04,Singapore,yes,WSSS,SIN,WSSS,,http://www.changiairport.com/,https://en.wikipedia.org/wiki/Singapore_Changi_Airport,RAF Changi
 26048,WV66,small_airport,Glendale Fokker Field,39.948699951200005,-80.7594985962,648,NA,US,US-WV,Glendale,no,,GWV,WV66,WV66,,,
 328940,WZQ,small_airport,Urad Middle Banner Airport,41.460289,108.539085,3996,AS,CN,CN-15,Urad Middle Banner,no,,WZQ,,,,https://ceb.wikipedia.org/wiki/Urad_Middle_Banner_Airport,
-26128,X44,seaplane_base,Miami Seaplane Base,25.778299331665,-80.170303344727,0,NA,US,US-FL,Miami,no,,MPB,X44,X44,,https://en.wikipedia.org/wiki/Miami_Seaplane_Base,
+26128,X44,seaplane_base,Miami Seaplane Base,25.783075,-80.177545,0,NA,US,US-FL,Miami,no,,MPB,KX44,X44,,https://en.wikipedia.org/wiki/Miami_Seaplane_Base,
 317272,XBB,seaplane_base,Blubber Bay Seaplane Base,49.793958,-124.621064,0,NA,CA,CA-BC,Blubber Bay,no,,XBB,,,,,
 596510,XCBA,medium_airport,Ok365comdev,10,12,12,AS,VN,VN-NC,Hồ Chí Minh,yes,CCAA,,XCBA,CA12,https://ok365com.dev/nap-tien-ok365/,,
 317829,XIG,small_airport,Xinguara Municipal Airport,-7.0906,-49.9765,810,SA,BR,BR-PA,Xinguara,no,,XIG,SWSX,PA0150,,https://en.wikipedia.org/wiki/Xinguara_Municipal_Airport,
