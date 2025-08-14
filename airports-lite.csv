@@ -1673,8 +1673,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2431,EGLF,medium_airport,Farnborough Airport,51.275799,-0.776333,238,EU,GB,GB-ENG,"Farnborough, Hampshire",no,EGLF,FAB,EGLF,,https://www.farnboroughairport.com/,https://en.wikipedia.org/wiki/Farnborough_Airfield,"TAG London Farnborough Airport, RAE Farnborough, EGUF"
 2433,EGLK,medium_airport,Blackbushe Airport,51.323898,-0.8475,325,EU,GB,GB-ENG,"Camberley, Surrey",no,EGLK,BBS,EGLK,,http://www.blackbusheairport.co.uk/,https://en.wikipedia.org/wiki/Blackbushe_Airport,RAF Hartford Bridge
 2434,EGLL,large_airport,London Heathrow Airport,51.4706,-0.461941,83,EU,GB,GB-ENG,London,yes,EGLL,LHR,EGLL,,http://www.heathrowairport.com/,https://en.wikipedia.org/wiki/Heathrow_Airport,"LON, Londres"
+43211,EGLW,heliport,London Heliport,51.46992,-0.179538,18,EU,GB,GB-ENG,London,no,EGLW,,EGLW,,http://www.londonheliport.co.uk/,https://en.wikipedia.org/wiki/London_Heliport,
 2435,EGMC,medium_airport,London Southend Airport,51.570562,0.693627,49,EU,GB,GB-ENG,"Southend-on-Sea, Essex",yes,EGMC,SEN,EGMC,,http://www.southendairport.com/,https://en.wikipedia.org/wiki/London_Southend_Airport,RAF Rochford
 2436,EGMD,medium_airport,Lydd London Ashford Airport,50.956246,0.939074,13,EU,GB,GB-ENG,"Romney Marsh, Kent",no,EGMD,LYX,EGMD,,http://www.lydd-airport.co.uk/,https://en.wikipedia.org/wiki/Lydd_Airport,London Ashford
+29163,EGMF,small_airport,Farthing Corner / Stoneacre Farm Airfield,51.332788,0.601058,420,EU,GB,GB-ENG,"Sittingbourne, Kent",no,EGMF,,EGMF,,,,
 2439,EGNC,medium_airport,Carlisle Lake District Airport,54.9375,-2.80917,190,EU,GB,GB-ENG,"Carlisle, Cumbria",no,EGNC,CAX,EGNC,,https://www.carlisleairport.co.uk/,https://en.wikipedia.org/wiki/Carlisle_Lake_District_Airport,
 2441,EGNH,medium_airport,Blackpool Airport,53.771702,-3.02861,34,EU,GB,GB-ENG,Blackpool,no,EGNH,BLK,EGNH,,http://www.blackpoolinternational.com/,https://en.wikipedia.org/wiki/Blackpool_International_Airport,
 2442,EGNJ,medium_airport,Humberside Airport,53.576152,-0.34954,121,EU,GB,GB-ENG,"Grimsby, Lincolnshire",yes,EGNJ,HUY,EGNJ,,http://www.humbersideairport.com/,https://en.wikipedia.org/wiki/Humberside_Airport,RAF Kirmington
@@ -5675,7 +5677,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4504,LSZG,medium_airport,Grenchen Airfield,47.181599,7.41719,1411,EU,CH,CH-SO,Grenchen,no,LSZG,,LSZG,,http://www.airport-grenchen.ch/,https://en.wikipedia.org/wiki/Grenchen_Airport,
 4505,LSZH,large_airport,Zürich Airport,47.458056,8.548056,1417,EU,CH,CH-ZH,Zurich,yes,LSZH,ZRH,LSZH,,http://www.zurich-airport.com/,https://en.wikipedia.org/wiki/Zurich_Airport,
 29520,LSZI,small_airport,Fricktal-Schupfart Airfield,47.5089,7.95,1788,EU,CH,CH-AG,Schupfart,no,LSZI,,LSZI,,,https://de.wikipedia.org/wiki/Flugplatz_Fricktal-Schupfart,
-29522,LSZK,small_airport,Speck-Fehraltorf Airfield,47.3764,8.7575,1748,EU,CH,CH-ZH,Fehraltorf,no,LSZK,,LSZK,,,https://de.wikipedia.org/wiki/Flugplatz_Speck-Fehraltorf,Flugplatz Speck-Fehraltorf
+29522,LSZK,small_airport,Speck-Fehraltorf Airfield,47.3764,8.7575,1748,EU,CH,CH-ZH,Fehraltorf,no,LSZK,,LSZK,,https://www.fgzo.ch/,https://de.wikipedia.org/wiki/Flugplatz_Speck-Fehraltorf,Flugplatz Speck-Fehraltorf
 29523,LSZL,small_airport,Locarno Airport,46.160801,8.87861,650,EU,CH,CH-TI,Locarno,no,LSZL,,LSZL,,,https://en.wikipedia.org/wiki/Locarno_Airport,
 4496,LSZM,small_airport,Mollis Airfield,47.078353,9.064662,1485,EU,CH,CH-GL,Mollis,no,LSZM,,LSZM,,http://www.flugplatz-mollis.ch/,http://de.wikipedia.org/wiki/Mollis#Milit.C3.A4rflugplatz,"LSMF, Flugplatz Mollis, Militärflugplatz Mollis, Mollis Air Base"
 29524,LSZN,small_airport,Hausen am Albis Airfield,47.238602,8.51556,1928,EU,CH,CH-ZH,Hausen am Albis,no,LSZN,,LSZN,,https://www.fgho.ch/,https://de.wikipedia.org/wiki/Flugplatz_Hausen_am_Albis,"Flugfeld Hausen am Albis, Flugplatz Hausen am Albis"
@@ -5778,15 +5780,32 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4615,LYTV,medium_airport,Tivat Airport,42.404701232910156,18.72330093383789,20,EU,ME,ME-19,Tivat,yes,LYTV,TIV,LYTV,,http://www.montenegroairports.com/?menu=3,https://en.wikipedia.org/wiki/Tivat_Airport,"Аеродром Тиват, Aerodrom Tivat, Zračna luka Tivat"
 1649,LYUZ,medium_airport,Ponikve Airport,43.898899,19.697701,2966,EU,RS,RS-16,Stapari,no,LYUZ,UZC,LYUZ,,http://aerodromponikve.rs,https://en.wikipedia.org/wiki/U%C5%BEice-Ponikve_Airport,"Аеродром Ужице-Поникве, Lepa Glava, Užice"
 316252,LZBD,small_airport,Bidovce Airfield,48.743192,21.448285,984,EU,SK,SK-KI,Bidovce,no,LZBD,,,,,,
+29830,LZDB,small_airport,Slávnica-Dubnica nad Váhom Airfield,48.996899,18.1922,771,EU,SK,SK-TC,Dubnica nad Váhom,no,LZDB,,LZDB,,http://www.akdubnica.sk,https://sk.wikipedia.org/wiki/Letisko_Slavnica-Dubnica_nad_V%C3%A1hom,Slávnica
+316258,LZDV,small_airport,Dubová Airstrip,48.347019,17.356583,634,EU,SK,SK-BL,Dubová,no,LZDV,,LZDV,,http://www.letiskodubova.sk,https://sk.wikipedia.org/wiki/Letisko_Dubov%C3%A1,
 354840,LZG,medium_airport,Langzhong Gucheng Airport,31.50191,106.034417,1444,AS,CN,CN-51,Nanchong (Langzhong),yes,ZULA,LZG,ZULA,,,https://en.wikipedia.org/wiki/Langzhong_Gucheng_Airport,
+308331,LZHL,small_airport,Holič Airfield,48.8103,17.1338,520,EU,SK,SK-TA,Holič,no,LZHL,,LZHL,,https://www.letiskoholic.sk/,https://sk.wikipedia.org/wiki/Letisko_Hol%C3%AD%C4%8D,
 4617,LZIB,large_airport,M. R. Štefánik Airport,48.1702,17.2127,436,EU,SK,SK-BL,Bratislava,yes,LZIB,BTS,LZIB,,,https://en.wikipedia.org/wiki/M._R._%C5%A0tef%C3%A1nik_Airport,
+317756,LZJS,small_airport,Jasná Airfield,49.047939,19.506791,2103,EU,SK,SK-ZI,Dúbrava,no,LZJS,,LZJS,,http://www.letisko-jasna.sk,https://sk.wikipedia.org/wiki/Aerodrome_Jasna,
+308332,LZKC,small_airport,Kamenica nad Cirochou Airfield,48.936242,21.994196,560,EU,SK,SK-PV,Kamenica nad Cirochou,no,LZKC,,LZKC,,,https://sk.wikipedia.org/wiki/Letisko_Kamenica_nad_Cirochou,
 4618,LZKZ,medium_airport,Košice International Airport,48.663101,21.2411,755,EU,SK,SK-KI,Košice,yes,LZKZ,KSC,LZKZ,,,https://en.wikipedia.org/wiki/Ko%C5%A1ice_International_Airport,
 31861,LZLU,small_airport,Lučenec Airfield,48.339401,19.7358,,EU,SK,SK-BC,Lučenec,no,LZLU,LUE,LZLU,,,https://sk.wikipedia.org/wiki/Letisko_Bo%C4%BEkovce,
-30119,LZMA,small_airport,Martin Airfield,49.0653,18.9508,1381,EU,SK,SK-ZI,Martin,no,LZMA,,,,http://www.aeroklubmartin.sk,https://en.wikipedia.org/wiki/Martin_Airfield_(Slovakia),Tomčany
+30119,LZMA,small_airport,Martin Airfield,49.0653,18.9508,1381,EU,SK,SK-ZI,Martin,no,LZMA,,LZMA,,http://www.aeroklubmartin.sk,https://en.wikipedia.org/wiki/Martin_Airfield_(Slovakia),Tomčany
 4619,LZMC,medium_airport,Malacky/Kuchyňa Air Base,48.402,17.118401,679,EU,SK,SK-BL,Kuchyňa,no,LZMC,,,,,https://en.wikipedia.org/wiki/Malacky_Air_Base,Letecká základňa Malacky/Kuchyňa
+30187,LZNI,small_airport,Nitra Airfield,48.2794,18.132799,440,EU,SK,SK-NJ,Nitra,no,LZNI,,LZNI,,,https://sk.wikipedia.org/wiki/Letisko_Nitra,
+316354,LZNZ,small_airport,Nové Zámky Airfield,47.961944,18.184444,377,EU,SK,SK-NJ,Nové Zámky,no,LZNZ,,LZNZ,,,https://sk.wikipedia.org/wiki/Letisko_Nov%C3%A9_Z%C3%A1mky,
+314805,LZOC,small_airport,Očová Airfield,48.595333,19.265806,1191,EU,SK,SK-BC,Očová,no,LZOC,,LZOC,,,https://sk.wikipedia.org/wiki/Letisko_O%C4%8Dov%C3%A1,
+30292,LZPE,small_airport,Prievidza Airfield,48.766102,18.5867,850,EU,SK,SK-TC,Prievidza,no,LZPE,,LZPE,,,https://sk.wikipedia.org/wiki/Letisko_Prievidza,
 4620,LZPP,medium_airport,Piešťany Airport,48.62519836425781,17.828399658203125,545,EU,SK,SK-TA,Piešťany,no,LZPP,PZY,LZPP,,http://www.ba.psg.sk/prezenta/airport-piestany/,https://en.wikipedia.org/wiki/Pie%C5%A1%C5%A5any_Airport,
+30103,LZPT,small_airport,Male Bielice-Partizánske Airfield,48.619202,18.3297,600,EU,SK,SK-TC,Partizánske,no,LZPT,,LZPT,,http://www.lzpt.sk/,https://sk.wikipedia.org/wiki/Letisko_Partiz%C3%A1nske,
 30288,LZPW,small_airport,Prešov Air Base,49.02970123291,21.315599441528,1060,EU,SK,SK-PV,Prešov,no,LZPW,POV,LZPW,,,https://en.wikipedia.org/wiki/Pre%C5%A1ov_Air_Base,
+317682,LZRU,small_airport,Ružomberok Airfield,49.085485,19.368584,1617,EU,SK,SK-ZI,Ružomberok,no,LZRU,,LZRU,,http://letisko.zssos.sk,https://sk.wikipedia.org/wiki/Letisko_Ru%C5%BEomberok,
+317685,LZRY,small_airport,Ražňany Airfield,49.078056,21.099722,1050,EU,SK,SK-PV,Ražňany,no,LZRY,,LZRY,,http://aeroklub-sabinov.com,https://sk.wikipedia.org/wiki/Letisko_Ra%C5%BE%C5%88any,
+30408,LZSE,small_airport,Senica Airfield,48.657927,17.329459,610,EU,SK,SK-TA,Hlboké,no,LZSE,,LZSE,,,https://en.wikipedia.org/wiki/Senica_Airport,
+30450,LZSK,small_airport,Svidník Airfield,49.3339,21.570299,1161,EU,SK,SK-PV,Svidník,no,LZSK,,LZSK,,,https://sk.wikipedia.org/wiki/Letisko_Svidn%C3%ADk,
 4621,LZSL,medium_airport,Sliač Airport,48.63779830932617,19.13409996032715,1043,EU,SK,SK-BC,Sliač,yes,LZSL,SLD,LZSL,,http://www.airportsliac.sk/home-engle.html,https://en.wikipedia.org/wiki/Slia%C4%8D_Airport,
+30432,LZSV,small_airport,Spišská Nová Ves Airfield,48.940833,20.533889,1624,EU,SK,SK-KI,Spišská Nová Ves,no,LZSV,,LZSV,,http://www.lzsv.sk,https://sk.wikipedia.org/wiki/Letisko_Spi%C5%A1sk%C3%A1_Nov%C3%A1_Ves,Spišská Nová Ves
+315500,LZSY,small_airport,Šurany Airfield,48.075971,18.114002,394,EU,SK,SK-NJ,Šurany,no,LZSY,,LZSY,,,https://sk.wikipedia.org/wiki/Letisko_%C5%A0urany,
+4622,LZTN,small_airport,Trenčín Airfield,48.865171,18.000147,676,EU,SK,SK-TC,Trenčín,no,LZTN,,LZTN,,,https://en.wikipedia.org/wiki/Tren%C4%8D%C3%ADn_Airfield,
 29716,LZTR,small_airport,Trnava Airfield,48.451959,17.531818,656,EU,SK,SK-TA,Boleráz,no,LZTR,,LZTR,,http://www.aktrnava.sk,,"Aeroklub Trnava, Letisko Boleráz, Letisko Trnava"
 4623,LZTT,medium_airport,Poprad-Tatry Airport,49.073601,20.2411,2356,EU,SK,SK-PV,Poprad,yes,LZTT,TAT,LZTT,,https://www.popradtatry.aero/,https://en.wikipedia.org/wiki/Poprad-Tatry_Airport,
 4624,LZZI,medium_airport,Žilina-Dolný Hričov Airport,49.233292,18.613386,1020,EU,SK,SK-ZI,Dolný Hričov,no,LZZI,ILZ,LZZI,,,https://en.wikipedia.org/wiki/%C5%BDilina_Airport,
@@ -6045,6 +6064,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 314139,MSB,seaplane_base,Marigot Seaplane Base,18.0696,-63.087,0,NA,MF,MF-U-A,Saint Martin,no,,MSB,,,,,
 4820,MSLP,large_airport,Monseñor Óscar Arnulfo Romero International Airport,13.4409,-89.055702,101,NA,SV,SV-PA,San Salvador (San Luis Talpa),yes,MSLP,SAL,MSLP,,,https://en.wikipedia.org/wiki/Monse%C3%B1or_%C3%93scar_Arnulfo_Romero_International_Airport,
 4821,MSSS,medium_airport,Ilopango International Airport,13.6995,-89.119904,2027,NA,SV,SV-SS,San Salvador,yes,MSSS,ILS,MSSS,,,https://en.wikipedia.org/wiki/Ilopango_International_Airport,
+513861,MT-0007,heliport,Comino Heliport,36.01007,14.347306,213,EU,MT,MT-13,Comino,no,,JCO,,,,https://fr.wikipedia.org/wiki/H%C3%A9liport_de_Comino,Kemmuna
 4822,MTCA,medium_airport,Antoine-Simon International Airport,18.271099,-73.7883,203,NA,HT,HT-SD,Les Cayes,yes,MTCA,CYA,MTCA,,,https://en.wikipedia.org/wiki/Antoine-Simon_Airport,
 4823,MTCH,medium_airport,Cap Haitien International Airport,19.726734,-72.199576,10,NA,HT,HT-ND,Cap Haitien,yes,MTCH,CAP,MTCH,,,https://en.wikipedia.org/wiki/Cap-Ha%C3%AFtien_International_Airport,
 22495,MTF,small_airport,Metro Field,64.80680084229999,-147.761993408,432,NA,US,US-AK,Fairbanks,no,,MTX,MTF,MTF,,,
@@ -8234,7 +8254,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41512,SYBT,small_airport,Bartica A Airport,6.358864,-58.655207,3,SA,GY,GY-CU,Bartica,no,SYBT,GFO,SYBT,,,https://en.wikipedia.org/wiki/Bartica_Airport,
 6356,SYCJ,medium_airport,Cheddi Jagan International Airport,6.49855,-58.254101,95,SA,GY,GY-DE,Georgetown,yes,SYCJ,GEO,SYCJ,SYGT,http://www.cjairport-gy.com/,https://en.wikipedia.org/wiki/Cheddi_Jagan_International_Airport,
 315125,SYF,seaplane_base,Silva Bay Seaplane Base,49.151,-123.698,,NA,CA,CA-BC,Gabriola Island,yes,,SYF,,,,,
-41513,SYGO,medium_airport,Eugene F. Correira International Airport,6.80628,-58.1059,10,SA,GY,GY-DE,Ogle,yes,,OGL,SYEC,,,https://en.wikipedia.org/wiki/Ogle_Airport,
+41513,SYGO,medium_airport,Eugene F. Correia International Airport,6.80628,-58.1059,10,SA,GY,GY-DE,Ogle,yes,,OGL,SYEC,,,https://en.wikipedia.org/wiki/Ogle_Airport,
 31674,SYIB,small_airport,Imbaimadai Airport,5.70811,-60.294201,1646,SA,GY,GY-CU,Imbaimadai,no,SYIB,IMB,SYIB,,,https://en.wikipedia.org/wiki/Imbaimadai_Airport,
 43226,SYKA,medium_airport,Kaieteur International Airport,5.17275476456,-59.491481781,1520,SA,GY,GY-PT,Kaieteur Falls,yes,SYKA,KAI,SYKA,,,https://en.wikipedia.org/wiki/Kaieteur_International_Airport,
 31717,SYKM,small_airport,Kamarang Airport,5.86534,-60.614201,1601,SA,GY,GY-CU,Kamarang,no,SYKM,KAR,SYKM,,,https://en.wikipedia.org/wiki/Kamarang_Airport,
