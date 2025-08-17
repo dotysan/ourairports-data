@@ -1780,6 +1780,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2547,EKLS,small_airport,Læsø Airport,57.277199,11.0001,25,EU,DK,DK-81,Læsø,yes,EKLS,BYR,EKLS,,,https://en.wikipedia.org/wiki/L%C3%A6s%C3%B8_Airport,"Laeso, Laesoe"
 2548,EKMB,medium_airport,Lolland Falster Maribo Airport,54.699447,11.438163,16,EU,DK,DK-85,Rødby,no,EKMB,MRW,EKMB,,http://www.lollandfalsterairport.dk/,https://en.wikipedia.org/wiki/Lolland_Falster_Airport,
 2549,EKOD,medium_airport,Odense Hans Christian Andersen Airport,55.475307,10.327206,56,EU,DK,DK-83,Odense,yes,EKOD,ODE,EKOD,,,https://en.wikipedia.org/wiki/Hans_Christian_Andersen_Airport,Beldringe
+529369,EKRB,heliport,Bornholm Hospital Heliport,55.090753,14.70809,62,EU,DK,DK-84,Rønne,no,EKRB,,EKRB,,,,
 2551,EKRK,medium_airport,Copenhagen Roskilde Airport,55.585602,12.1314,146,EU,DK,DK-85,Roskilde,yes,EKRK,RKE,EKRK,,,https://en.wikipedia.org/wiki/Roskilde_Airport,"København, Copenhagen"
 2552,EKRN,medium_airport,Bornholm Airport,55.063301,14.7596,52,EU,DK,DK-84,Rønne,yes,EKRN,RNN,EKRN,,http://www.bornholms-lufthavn.dk/en/,https://en.wikipedia.org/wiki/Bornholm_Airport,Roenne
 2553,EKSB,medium_airport,Sønderborg Airport,54.96440124511719,9.791729927062988,24,EU,DK,DK-83,Sønderborg,yes,EKSB,SGD,EKSB,,,https://en.wikipedia.org/wiki/S%C3%B8nderborg_Airport,"Sonderborg, Soenderborg"
@@ -5210,7 +5211,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4180,LFOU,small_airport,Cholet Le Pontreau Airfield,47.0821,-0.877064,443,EU,FR,FR-PDL,Cholet/Le Pontreau,no,LFOU,CET,LFOU,,,https://en.wikipedia.org/wiki/Cholet_Le_Pontreau_Airport,
 4181,LFOV,medium_airport,Laval-Entrammes Airport,48.032208,-0.743999,330,EU,FR,FR-PDL,"Laval, Mayenne",no,LFOV,LVA,LFOV,,https://www.aeroport-laval.com/en/home/,https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Laval_-_La_Mayenne,
 4182,LFOZ,small_airport,Orléans–Saint-Denis-de-l'Hôtel Airport,47.897758,2.164478,396,EU,FR,FR-CVL,"Saint-Denis-de-l'Hôtel, Loiret",no,LFOZ,ORE,LFOZ,,https://orleans.aeroport.fr/,https://en.wikipedia.org/wiki/Orl%C3%A9ans_%E2%80%93_Saint-Denis-de-l%27H%C3%B4tel_Airport,"Aéroport du Loiret, Loiret, Loire Valley, Loire-Vallée"
-4183,LFPB,medium_airport,Paris-Le Bourget Airport,48.969398,2.44139,218,EU,FR,FR-IDF,"Paris (Le Bourget, Seine-Saint-Denis)",no,LFPB,LBG,LFPB,,http://www.aeroportsdeparis.fr/,https://en.wikipedia.org/wiki/Le_Bourget_Airport,PAR
+4183,LFPB,medium_airport,Paris-Le Bourget Airport,48.969398,2.44139,218,EU,FR,FR-IDF,Paris,no,LFPB,LBG,LFPB,,http://www.aeroportsdeparis.fr/,https://en.wikipedia.org/wiki/Le_Bourget_Airport,PAR
 4184,LFPC,medium_airport,Creil Air Base,49.253502,2.51914,291,EU,FR,FR-HDF,Creil,no,LFPC,CSF,LFPC,,,https://fr.wikipedia.org/wiki/Base_a%C3%A9rienne_110_Creil,BA 110
 28973,LFPF,small_airport,Beynes Thiverval Airfield,48.843165,1.906279,371,EU,FR,FR-IDF,"Beynes, Yvelines",no,LFPF,,LFPF,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Beynes_-_Thiverval,Aérodrome de Beynes - Thiverval
 4185,LFPG,large_airport,Charles de Gaulle International Airport,49.012798,2.55,392,EU,FR,FR-IDF,"Paris (Roissy-en-France, Val-d'Oise)",yes,LFPG,CDG,LFPG,,http://www.aeroportsdeparis.fr/,https://en.wikipedia.org/wiki/Charles_de_Gaulle_Airport,"PAR, Aéroport Roissy-Charles de Gaulle, Roissy Airport"
@@ -8378,7 +8379,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32495,UACP,medium_airport,Petropavl Airport,54.774702,69.183273,453,AS,KZ,KZ-SEV,Petropavl,yes,UACP,PPK,UACP,,,https://en.wikipedia.org/wiki/Petropavl_Airport_(Kazakhstan),
 6424,UADD,medium_airport,Taraz Airport,42.853599548339844,71.30359649658203,2184,AS,KZ,KZ-ZHA,Taraz,yes,UADD,DMB,UADD,,,https://en.wikipedia.org/wiki/Taraz_Airport,Aulie Ata
 46646,UAFI,small_airport,Razzakov Airport,39.824737,69.56882,4840,AS,KG,KG-B,Isfana,yes,UCFR,,UCFR,,http://www.airport.kg/index.php?option=com_content&view=article&id=4&Itemid=6,https://en.wikipedia.org/wiki/Isfana_Airport,Isfana Airport
-6426,UAFM,large_airport,Manas International Airport,43.061298,74.4776,2058,AS,KG,KG-C,Bishkek,yes,UCFM,FRU,UCFM,,,https://en.wikipedia.org/wiki/Manas_International_Airport,"UAFM, Manas Air Force Base"
+6426,UAFM,large_airport,Manas International Airport,43.061298,74.4776,2058,AS,KG,KG-C,Bishkek,yes,UCFM,BSZ,UCFM,,,https://en.wikipedia.org/wiki/Manas_International_Airport,"FRU, UAFM, Manas Air Force Base"
 6427,UAFO,medium_airport,Osh Airport,40.609001,72.793297,2927,AS,KG,KG-O,Osh,yes,UCFO,OSS,UCFO,,http://www.airport.kg/eng/branches.htm,https://en.wikipedia.org/wiki/Osh_Airport,UAFO
 32496,UAFP,small_airport,Karakol Airport,42.508099,78.407799,5590,AS,KG,KG-Y,Karakol,yes,UCFK,IKG,UCFK,,,https://en.wikipedia.org/wiki/Karakol_International_Airport,"UAFP, Przhevalsk Airport"
 6429,UAII,medium_airport,Shymkent Airport,42.364200592041016,69.47889709472656,1385,AS,KZ,KZ-YUZ,Shymkent,yes,UAII,CIT,UAII,,,https://en.wikipedia.org/wiki/Shymkent_Airport,"Chimkent Airport, Аэропорт Шымкент, Аэропорт Чимкент"
@@ -9355,7 +9356,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26861,WIMA,small_airport,Malikus Saleh Airport,5.22668,96.950302,90,AS,ID,ID-AC,Lhok Seumawe-Sumatra Island,yes,WIMA,LSW,WIMA,,,https://en.wikipedia.org/wiki/Malikus_Saleh_Airport,WITM
 26836,WIMB,medium_airport,Binaka Airport,1.16628,97.704327,20,AS,ID,ID-SU,Gunungsitoli,yes,WIMB,GNS,WIMB,,,https://en.wikipedia.org/wiki/Binaka_Airport,
 26837,WIME,medium_airport,Aek Godang Airport,1.4001,99.430496,922,AS,ID,ID-SU,Padang Sidempuan,no,WIME,AEG,WIME,,,https://en.wikipedia.org/wiki/Aek_Godang_Airport,
-526312,WIMF,small_airport,Jenderal Besar Abdul Haris Nasution Airport,0.948056,99.533333,,AS,ID,ID-SS,Mandailing,no,WIMF,JHN,WIMF,,,https://id.wikipedia.org/wiki/Bandar_Udara_Jenderal_Besar_Abdul_Haris_Nasution,
+526312,WIMF,small_airport,Jenderal Besar Abdul Haris Nasution Airport,0.943995,99.534093,1051,AS,ID,ID-SS,Mandailing,no,WIMF,JHN,WIMF,,,https://id.wikipedia.org/wiki/Bandar_Udara_Jenderal_Besar_Abdul_Haris_Nasution,
 26839,WIMK,medium_airport,Soewondo Air Force Base,3.558425,98.672275,114,AS,ID,ID-SU,Medan,no,WIMK,MES,WIMK,,,https://en.wikipedia.org/wiki/Soewondo_Air_Force_Base,"Polonia International Airport, WIMM"
 309577,WIMM,large_airport,Kualanamu International Airport,3.637847,98.870566,23,AS,ID,ID-SU,Beringin,yes,WIMM,KNO,WIMM,,http://www.kualanamu-airport.co.id/,https://en.wikipedia.org/wiki/Kualanamu_International_Airport,Medan
 26840,WIMN,small_airport,Silangit Airport,2.25973,98.991898,4700,AS,ID,ID-SU,Siborong-Borong,yes,WIMN,DTB,WIMN,,http://silangit-airport.co.id/,https://en.wikipedia.org/wiki/Silangit_Airport,"Lake Toba, North Tapanuli"
