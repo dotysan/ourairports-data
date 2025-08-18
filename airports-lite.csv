@@ -1880,7 +1880,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 599672,ESED,heliport,Sundsvalls County Hospital Heliport,62.407936,17.302258,312,EU,SE,SE-Y,Sundsvall,no,ESED,,ESED,,,,
 599673,ESEG,heliport,Vassara River Heliport,67.136563,20.633655,1160,EU,SE,SE-BD,Gällivare,no,ESEG,,ESEG,,,,
 599674,ESEK,heliport,Lake Luossajärvi Heliport,67.859903,20.207155,1550,EU,SE,SE-BD,Kiruna,no,ESEK,,ESEK,,,,
-599675,ESEL,heliport,US Linköping Hospital Helipad.,58.401555,15.619415,257,EU,SE,SE-E,Linköping,no,ESEL,,ESEL,,,https://en.wikipedia.org/wiki/Link%C3%B6ping_University_Hospital,
+599675,ESEL,heliport,US Linköping Hospital Helipad,58.401555,15.619415,257,EU,SE,SE-E,Linköping,no,ESEL,,ESEL,,,https://en.wikipedia.org/wiki/Link%C3%B6ping_University_Hospital,
 300955,ESEM,heliport,Lund Hospital Helipad,55.711762,13.198793,352,EU,SE,SE-M,Lund,no,ESEM,,ESEM,,,,
 599575,ESES,heliport,Sunderby Hospital Heliport,65.669523,21.935366,35,EU,SE,SE-BD,Luleå,no,ESES,,ESES,,,,
 599653,ESET,heliport,Torsby Hospital Heliport,60.136687,12.997441,335,EU,SE,SE-S,Torsby,no,ESET,,ESET,,,,
@@ -3337,6 +3337,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 313299,IOP,small_airport,Ioma Airport,-8.3614,147.84,95,OC,PG,PG-NPP,Ioma,no,,IOP,,IOMA,,,
 317284,IRU,seaplane_base,Iranamadu Seaplane Base,9.299746,80.448627,102,AS,LK,LK-4,Iranamadu,no,,IRU,,,,,
 298700,IT-0010,small_airport,Calatabiano (Aviosuperficie Angelo D'Arrigo),37.799561,15.22775,197,EU,IT,IT-82,Calatabiano (CT),no,LICN,,LICN,CTFFD,http://www.triavio.eu,,"CT05, Etnavolo, Fiumefreddo di Sicilia"
+314853,IT-0061,heliport,Capitalia Heliport,41.824691,12.381729,116,EU,IT,IT-62,Rome,no,LIAD,,LIAD,,,,
 319508,IT-0307,small_airport,Dominio di Bagnoli Airfield,45.183946,11.857326,3,EU,IT,IT-34,Bagnoli di Sopra (PD),no,LION,,,PD19,,,Aviosuperficie Dominio di Bagnoli
 308235,ITK,small_airport,Itokama Airport,-9.201527,148.264261,2563,OC,PG,PG-NPP,Itokama,no,,ITK,AYIK,ITK,,,
 316549,IVI,small_airport,Viveros Island Airport,8.4693,-79.0016,100,NA,PA,PA-8,Isla Viveros,no,,IVI,,,,,
@@ -5307,7 +5308,19 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4305,LHSM,medium_airport,Hévíz–Balaton Airport,46.686391,17.159084,408,EU,HU,HU-ZA,Sármellék,yes,LHSM,SOB,LHSM,,http://www.flybalaton.com/?null&lang=en,https://en.wikipedia.org/wiki/S%C3%A1rmell%C3%A9k_International_Airport,"Sármellék International, FlyBatalon Airport, Batalon Airport, Sármellék Nemzetközi Repülőtér"
 30575,LHZA,small_airport,Zalaegerszeg Andráshida Airfield,46.884701,16.7889,617,EU,HU,HU-ZA,Zalaegerszeg,no,LHZA,,LHZA,,https://lhza.hu,,"Zalaegerszeg, Andráshida"
 309480,LHZK,small_airport,Zalakaros Airfield,46.5539,17.15118,370,EU,HU,HU-ZA,Zalakaros,no,LHZK,,LHZK,,https://lhzk.hu,,
+317407,LIAA,small_airport,"Aviosuperficie ""Alvaro Leonardi""",42.573333,12.584444,374,EU,IT,IT-55,Terni,no,LIAA,,LIAA,,https://www.avioterni.it/en/home_eng/,https://it.wikipedia.org/wiki/Aviosuperficie_Alvaro_Leonardi,"Aviosuperficie ""Alvaro Leonardi"""
+29414,LIAF,small_airport,Foligno Airfield,42.9328,12.71237,730,EU,IT,IT-55,Foligno (PG),no,LIAF,,LIAF,PG02,,https://en.wikipedia.org/wiki/Foligno_Airport,
+599892,LIAG,heliport,Colacem Heliport,43.341513,12.576869,1532,EU,IT,IT-55,Gubbio (PG),no,LIAG,,LIAG,,,,
+599893,LIAJ,heliport,Macchiarella Heliport,41.782953,12.306502,4,EU,IT,IT-62,Ostia Antica (RM),no,LIAJ,,LIAJ,,,,
+317856,LIAL,small_airport,Sant'Illuminato Airfield,43.354901,12.21807,984,EU,IT,IT-55,Città di Castello (PG),no,LIAL,,LIAL,PG07,,,Aviosuperficie Sant'Illuminato
+599895,LIAO,heliport,Il Ciocco Heliport,44.088304,10.467169,1351,EU,IT,IT-52,Castelvecchio Pascoli (LU),no,LIAO,,LIAO,,,,
 4307,LIAP,small_airport,L'Aquila–Preturo Airport,42.379902,13.3092,2211,EU,IT,IT-65,L'Aquila,no,LIAP,,LIAP,AQ03,http://www.aeroportodeiparchi.it/,https://en.wikipedia.org/wiki/L%27Aquila%E2%80%93Preturo_Airport,"QAQ, Parchi Airport, Preturo Airport, Aeroporto dei Parchi di I'Aquila Preturo"
+29415,LIAQ,small_airport,Aquino Airfield,41.491983,13.719342,361,EU,IT,IT-62,Aquino,no,LIAQ,,LIAQ,FR01,,https://it.wikipedia.org/wiki/Aeroporto_di_Aquino,
+317010,LIAR,small_airport,Furbara Air Base,41.994141,12.013544,21,EU,IT,IT-62,Fubara,no,LIAR,,LIAR,,,https://it.wikipedia.org/wiki/Aeroporto_di_Furbara,
+316448,LIAT,small_airport,Valdera Airfield,43.592164,10.696294,39,EU,IT,IT-52,Capannoli (PI),no,LIAT,,LIAT,PI04,http://www.aeroclubdipisa.it,,"Valdera, Aeroclub Pisa"
+29416,LIAU,small_airport,Capua Airport,41.116001,14.178,64,EU,IT,IT-72,Capua,no,LIAU,,LIAU,CE03,,http://it.wikipedia.org/wiki/Aeroporto_di_Capua,Oreste Salomone Airport
+599899,LIAY,heliport,La Bagnara Heliport,41.687128,13.499367,1501,EU,IT,IT-62,Monte San Giovanni Campano (FR),no,LIAY,,LIAY,,,,
+4308,LIBA,medium_airport,Amendola Air Base,41.538443,15.717181,183,EU,IT,IT-75,San Giovanni Rotondo (FG),no,LIBA,,LIBA,FG06,,https://en.wikipedia.org/wiki/Amendola_Air_Base,Luigi Rovelli
 4309,LIBC,medium_airport,Crotone Sant'Anna Pythagoras Airport,38.9972,17.0802,522,EU,IT,IT-78,Isola di Capo Rizzuto (KR),yes,LIBC,CRV,LIBC,KR01,http://www.aeroporto.kr.it/cartaservizi_eng.asp,https://en.wikipedia.org/wiki/Crotone_Airport,Sant'Anna Airport
 4310,LIBD,large_airport,Bari Karol Wojtyła International Airport,41.138901,16.760599,193,EU,IT,IT-75,Bari,yes,LIBD,BRI,LIBD,BA02,http://www.seap-puglia.it/default.asp?idlingua=2&idcontenuto=25,https://en.wikipedia.org/wiki/Bari_Karol_Wojty%C5%82a_Airport,"Bari ""Karol Wojtyla"" International Airport, Palese Macchie Airport, Palese Airport"
 4311,LIBF,medium_airport,Foggia Gino Lisa Airport,41.433596,15.534566,265,EU,IT,IT-75,Foggia (FG),yes,LIBF,FOG,LIBF,FG05,,https://en.wikipedia.org/wiki/Foggia_%22Gino_Lisa%22_Airport,Foggia Airport
@@ -5361,6 +5374,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4369,LIQS,medium_airport,Siena-Ampugnano Airport,43.256302,11.255,634,EU,IT,IT-52,Ampugnano (SI),no,LIQS,,LIQS,SI01,,https://en.wikipedia.org/wiki/Siena-Ampugnano_Airport,Malignano Airfield
 4370,LIRA,medium_airport,Ciampino–G. B. Pastine International Airport,41.7994,12.5949,427,EU,IT,IT-62,Rome,yes,LIRA,CIA,LIRA,RM12,,https://en.wikipedia.org/wiki/Ciampino%E2%80%93G._B._Pastine_International_Airport,"ROM, Giovan Battista Pastine Airport"
 4372,LIRF,large_airport,Rome–Fiumicino Leonardo da Vinci International Airport,41.804532,12.251998,13,EU,IT,IT-62,Rome,yes,LIRF,FCO,LIRF,RM11,http://www.adr.it/portal/portal/adr/Fiumicino/Leonardo_da_vinci/Header_Window?action=2,https://en.wikipedia.org/wiki/Rome_Fiumicino_Airport,"ROM, Rome Fiumicino Airport, Fiumicino Airport"
+29442,LIRH,small_airport,Frosinone Air Base,41.648537,13.294573,,EU,IT,IT-62,Frosinone,no,LIRH,,LIRH,FR04,,https://it.wikipedia.org/wiki/Aeroporto_di_Frosinone,QFR
 4374,LIRI,medium_airport,Salerno Costa d'Amalfi Airport,40.620399,14.9113,123,EU,IT,IT-72,Salerno,yes,LIRI,QSR,LIRI,SA02,http://www.aeroportosalerno.it/,https://en.wikipedia.org/wiki/Salerno_Costa_d%27Amalfi_Airport,"Mario Martucci Airport, Aeroporto di Salerno Costa d'Amalfi, Salerno-Pontecagnano Airport"
 4375,LIRJ,medium_airport,Marina di Campo Airport,42.760871,10.239811,31,EU,IT,IT-52,Campo nell'Elba (LI),yes,LIRJ,EBA,LIRJ,LI04,,https://en.wikipedia.org/wiki/Marina_di_Campo_Airport,Elba
 4378,LIRN,large_airport,Naples International Airport,40.886002,14.2908,294,EU,IT,IT-72,Napoli,yes,LIRN,NAP,LIRN,NA01,http://www.portal.gesac.it/,https://en.wikipedia.org/wiki/Naples_International_Airport,"Capodichino Airport, Aeroporto Internazionale di Napoli-Capodichino Ugo Niutta, Ariopuorto 'nternazziunale 'e Napule-Capodichino Ugo Niutta"
