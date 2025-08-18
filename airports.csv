@@ -24848,7 +24848,7 @@
 599672,"ESED","heliport","Sundsvalls County Hospital Heliport",62.407936,17.302258,312,"EU","SE","SE-Y","Sundsvall","no","ESED",,"ESED",,,,
 599673,"ESEG","heliport","Vassara River Heliport",67.136563,20.633655,1160,"EU","SE","SE-BD","Gällivare","no","ESEG",,"ESEG",,,,
 599674,"ESEK","heliport","Lake Luossajärvi Heliport",67.859903,20.207155,1550,"EU","SE","SE-BD","Kiruna","no","ESEK",,"ESEK",,,,
-599675,"ESEL","heliport","US Linköping Hospital Helipad.",58.401555,15.619415,257,"EU","SE","SE-E","Linköping","no","ESEL",,"ESEL",,,"https://en.wikipedia.org/wiki/Link%C3%B6ping_University_Hospital",
+599675,"ESEL","heliport","US Linköping Hospital Helipad",58.401555,15.619415,257,"EU","SE","SE-E","Linköping","no","ESEL",,"ESEL",,,"https://en.wikipedia.org/wiki/Link%C3%B6ping_University_Hospital",
 300955,"ESEM","heliport","Lund Hospital Helipad",55.711762,13.198793,352,"EU","SE","SE-M","Lund","no","ESEM",,"ESEM",,,,
 599575,"ESES","heliport","Sunderby Hospital Heliport",65.669523,21.935366,35,"EU","SE","SE-BD","Luleå","no","ESES",,"ESES",,,,
 599653,"ESET","heliport","Torsby Hospital Heliport",60.136687,12.997441,335,"EU","SE","SE-S","Torsby","no","ESET",,"ESET",,,,
@@ -32346,7 +32346,7 @@
 46181,"IT-0001","small_airport","Il Falco Airfield",45.269254,7.950733,768,"EU","IT","IT-21","Mazzè (TO)","no",,,,"TOMAZ","http://www.aviosuperficieilfalco.it/",,"Aviosuperficie Il Falco, Aviosuperficie Prati Nuovi, Prati Nuovi"
 46546,"IT-0002","closed","Senigallia Nord Airfield",43.738267,13.183208,39,"EU","IT","IT-57","Senigallia (AN)","no",,,,,,,"ANSEN"
 46547,"IT-0003","small_airport","San Sepolcro Airfield",43.55916,12.155903,1050,"EU","IT","IT-52","San Sepolcro (AR)","no",,,"LIQF","AR01",,"https://it.wikipedia.org/wiki/Aviosuperficie_San_Sepolcro","Aviosuperficie Palazzolo Avio, Aviosuperficie San Sepolcro, Palazzolo Avio"
-298337,"IT-0004","small_airport","Aviosuperficie Eremo della Giubiliana",36.861287,14.627008,1401,"EU","IT","IT-82","Ragusa","no",,,,"RGGIU","http://www.eremodellagiubiliana.it/eng/air_service.htm","http://it.wikipedia.org/wiki/Aviosuperficie_Giubiliana","Eremo,Giubiliana"
+298337,"IT-0004","small_airport","Eremo della Giubiliana Airfield",36.861287,14.627008,1401,"EU","IT","IT-82","Ragusa","no",,,,"RGGIU","https://www.eremodellagiubiliana.it/ragusa-hotel-5-stelle-lusso/avio-superficie","http://it.wikipedia.org/wiki/Aviosuperficie_Giubiliana","RG03, Aviosuperficie Eremo della Giubiliana"
 298689,"IT-0005","small_airport","Aviosuperficie Bovarella",37.792694,12.845078,656,"EU","IT","IT-82","Salemi","no",,,,"TPBOV","http://www.avioclubsalemi.it/","http://it.wikipedia.org/wiki/Aviosuperficie_Bovarella",
 298691,"IT-0006","small_airport","Valbelice Airfield",37.674242,12.774611,541,"EU","IT","IT-82","Castelvetrano (TP)","no",,,,"TPCVE",,,"Campo di Volo Valbelice"
 298693,"IT-0007","closed","Campo di Volo Assoro",37.56181,14.496374,237,"EU","IT","IT-82","Assoro","no",,,,,,,
@@ -32354,7 +32354,7 @@
 298698,"IT-0009","small_airport","Avioclub Ereo Airfield",37.19222,14.613297,1483,"EU","IT","IT-82","Grammichele (CT)","no",,,,"CT07",,,"CTGMM, Campo di Volo Avioclub Ereo"
 298700,"IT-0010","small_airport","Calatabiano (Aviosuperficie Angelo D'Arrigo)",37.799561,15.22775,197,"EU","IT","IT-82","Calatabiano (CT)","no","LICN",,"LICN","CTFFD","http://www.triavio.eu",,"CT05, Etnavolo, Fiumefreddo di Sicilia"
 298702,"IT-0011","closed","Aviosuperficie Avioclub Paternò",37.553356,14.884435,377,"EU","IT","IT-82","Paternò","no",,,,,,,"Paterno'"
-298704,"IT-0012","small_airport","Aviosuperficie Rinaura",37.028647,15.243509,40,"EU","IT","IT-82","Rinaura (SR)","no",,,,"SRSIR","http://www.avioclubsiracusa.it",,"Avio Club Siracusa.SIR0"
+298704,"IT-0012","small_airport","Rinaura Airfield",37.028647,15.243509,40,"EU","IT","IT-82","Rinaura (SR)","no",,,,"SRSIR","https://avioclubsiracusa.com/",,"SR01, Aviosuperficie Rinaura, Avio Club Siracusa.SIR0"
 298706,"IT-0013","small_airport","Aviosuperficie Minotaurus e Medusa",38.049105,14.541306,13,"EU","IT","IT-82","Caronia","no",,,,"MECAR",,"http://it.wikipedia.org/wiki/Aviosuperficie_Minotaurus_e_Medusa",
 298708,"IT-0014","small_airport","Oasi dei Re Airfield",36.722558,14.774708,128,"EU","IT","IT-82","Marina di Modica (RG)","no",,,,"RGMDM","http://www.flymodica.it/",,"Aviosuperficie Oasi dei Re, Marina di Modica"
 298711,"IT-0015","small_airport","Aviosuperficie Ramacca",37.390652,14.620249,524,"EU","IT","IT-82","Ramacca","no",,,,"CTRAM",,,"Ramacca Margherito"
@@ -32403,8 +32403,8 @@
 308694,"IT-0058","small_airport","Prealpi-Musinè Airfield",45.124499,7.521442,1106,"EU","IT","IT-21","Pianezza (TO)","no",,,,"TOPIA","http://www.scuolavolopegasus.com/dove-siamo",,"GAP, Aviosuperficie Prealpi-Musinè"
 308695,"IT-0059","small_airport","Città di Tortona Airfield",44.938436,8.865881,315,"EU","IT","IT-21","Tortona (AL)","no",,,,"ALTRT",,,"Aviosuperficie Città di Tortona"
 308696,"IT-0060","closed","Aviosuperficie Valentino",44.437222,7.660556,1457,"EU","IT","IT-21","Castelletto Stura (CN)","no",,,,,,,"Valentino"
-314853,"IT-0061","heliport","Capitalia Heliport",41.824691,12.381729,116,"EU","IT","IT-62","Rome","no",,,"LIAD",,,,
-308698,"IT-0062","small_airport","Bosio Guido Airfield",44.434194,7.632258,1499,"EU","IT","IT-21","Castelletto Stura (CN)","no",,,,"CNCST",,,"Aviosuperficie Bosio Guido, Campo di Volo Bosio Guido, Campo Volo Castelletto Stura"
+314853,"IT-0061","heliport","Capitalia Heliport",41.824691,12.381729,116,"EU","IT","IT-62","Rome","no","LIAD",,"LIAD",,,,
+308698,"IT-0062","small_airport","Aviosuperficie Bosio Guido",44.434208,7.632153,1500,"EU","IT","IT-21","Castelletto Stura (CN)","no",,,,"CN05","https://sites.google.com/view/aviosuperficiebosioguido",,"Aviosuperficie Bosio Guido, Campo di Volo Bosio Guido, Aviosuperficie Castelletto Stura, Campo Volo Castelletto Stura, CN05"
 308699,"IT-0063","small_airport","Country Fly Airfield",44.503056,7.821667,1350,"EU","IT","IT-21","Bene Vagienna (CN)","no",,,,"CN06",,,"Avio Langhe, Campo di Volo Country Fly"
 308700,"IT-0064","small_airport","Campo di volo Ploia",44.884167,8.780833,420,"EU","IT","IT-21","San Giuliano Vecchio (AL)","no",,,,"ALTOR",,,
 308701,"IT-0065","small_airport","Il Laghetto Airfield",44.777885,8.13034,450,"EU","IT","IT-21","Castagnole delle Lanze (AT)","no",,,,"ATCAL","http://www.trattorialaghetto.it/campo_volo.htm",,"Campo volo Il Laghetto"
@@ -32468,7 +32468,7 @@
 315975,"IT-0123","small_airport","Il Volo Airfield",40.421944,8.686667,,"EU","IT","IT-88","Pozzomaggiore (SS)","no",,,,"SS01",,,"Putumajore, Il Volo, Campo di Volo ""Il Volo"
 315977,"IT-0124","small_airport","La Quercia Airfield",40.963053,16.633016,1181,"EU","IT","IT-75","Toritto (BA)","no",,,,"BATDQ",,,"BA04"
 315978,"IT-0125","small_airport","Campo di Volo Platamona",40.813333,8.470278,26,"EU","IT","IT-88","Porto Torres (SS)","no",,,,"SSPLA",,,"Platamona"
-315979,"IT-0126","small_airport","Aviosuperficie ""Delta Club Napoli""",41.065278,13.9625,,"EU","IT","IT-72","Castelvolturno","no",,,,"CECVO",,,"Il Ranch"
+315979,"IT-0126","small_airport","""Delta Club Napoli"" Airfield",41.065757,13.962901,10,"EU","IT","IT-72","Castelvolturno","no",,,,"CECVO","https://www.deltaclubnapoli.com/",,"CE01, Aviosuperficie ""Delta Club Napoli"", Il Ranch"
 315985,"IT-0128","small_airport","Fiorano Wings Airfield",45.11933,9.705951,,"EU","IT","IT-25","San Fiorano (LO)","no",,,,"LOSFI",,,"Campo di Volo Fiorano Wings"
 315987,"IT-0129","small_airport","Caposile Airfield",45.56529,12.576835,,"EU","IT","IT-34","San Donà di Piave","no",,,"LIKI","VECAP","http://www.aviosuperficiecaposile.it","https://de.wikipedia.org/wiki/Aviosuperficie_Caposile","Aviosuperficie Caposile, Papere Vagabonde, Club di Volo Papere Vagabonde"
 315988,"IT-0130","small_airport","Aquile Randagie Airfield",45.165629,11.03503,66,"EU","IT","IT-34","Gazzo Veronese (VR)","no",,,,"VRNOG",,,"Aviosuperficie Aquile Randagie, Campo di volo Aquile Randagie"
@@ -32495,7 +32495,7 @@
 316747,"IT-0151","small_airport","Bibione Airfield",45.669654,13.039451,1,"EU","IT","IT-34","San Michele al Tagliamento (VE)","no",,,,,,,"Pegasus Flying Club Lignano"
 316750,"IT-0152","small_airport","Aviosuperficie Olivola",41.17751,14.74734,,"EU","IT","IT-72","Benevento (BN)","no",,,"LIRO","BNBEN","http://www.aeroclubbenevento.it","https://it.wikipedia.org/wiki/Aeroporto_di_Benevento-Olivola","Gen. Nicola COLLARILE"
 316751,"IT-0153","small_airport","Volturno Fly Aviosuperficie",41.1575,14.3669444,63,"EU","IT","IT-72","Limatolo","no",,,,,"http://www.volturnofly.it",,
-316752,"IT-0154","small_airport","Aviosuperficie Alituscia",42.229167,12.120833,1270,"EU","IT","IT-62","Vejano (VT)","no",,,,"VTVEJ","http://www.alituscia.it",,
+316752,"IT-0154","small_airport","Alituscia Airfield",42.226894,12.119422,1270,"EU","IT","IT-62","Vejano (VT)","no",,,,"VTVEJ","http://www.alituscia.it",,"VT13, Aviosuperficie Alituscia"
 316753,"IT-0155","small_airport","Acquasparta Airfield",42.684167,12.552778,,"EU","IT","IT-55","Acquasparta (TR)","no",,,,,,,"Campo di Volo Acquasparta"
 316798,"IT-0156","small_airport","Terra del Sole Airfield",42.774774,11.15547,50,"EU","IT","IT-52","Grosseto (GR)","no",,,,"GRGRO",,,
 316802,"IT-0157","small_airport","Ali del Po Private Airfield",44.971119,10.294275,92,"EU","IT","IT-45","Strada Nuova (PR)","no",,,,"PRSIS",,,"Prati di Sissa, Agroturismo, Al Cason, Campo di Volo Ali del Po"
@@ -32793,7 +32793,7 @@
 320417,"IT-0449","small_airport","Campo di Volo Club Aeronautico Gela",37.11314,14.18929,,"EU","IT","IT-82","Gela (CL)","no",,,,,,,"Club Aeronautico Gela"
 320438,"IT-0450","small_airport","Campo di Volo ""Palazzone di Narni""",42.536609,12.553635,360,"EU","IT","IT-55","Narni (TR)","no",,,,"TR02",,,
 320439,"IT-0451","small_airport","Campo di Volo Calledro",42.464848,12.428715,190,"EU","IT","IT-55","Narni (TR)","no",,,,"TR06",,,"Calledro"
-320441,"IT-0452","small_airport","Aviosuperficie ARMA",41.464661,12.746693,59,"EU","IT","IT-62","Nettuno (RM)","no",,,,"RMNET",,,"ARMA"
+320441,"IT-0452","small_airport","ARMA Airfield",41.464419,12.746515,59,"EU","IT","IT-62","Nettuno (RM)","no",,,,"RMNET",,,"RM03, Aviosuperficie ARMA"
 320451,"IT-0453","small_airport","Aviosuperficie Roma-Nord",42.119945,12.604453,78,"EU","IT","IT-62","Capena (RM)","no",,,,,,,"Roma-Nord, RMCAP"
 320452,"IT-0454","small_airport","Fly Roma Airfield",41.884894,12.718286,190,"EU","IT","IT-62","Montecompatri (RM)","no",,,,"RMOSA","http://www.flyromaschool.it",,"Aviosuperficie Fly Roma, Paracentro Roma"
 320461,"IT-0455","small_airport","Campo di Volo Sangermano",41.991555,12.13791,337,"EU","IT","IT-62","Cerveteri (RM)","no",,,,"RMCER",,,"Sangermano,ACLI"
@@ -42282,6 +42282,26 @@
 34977,"KZ-6022","small_airport","Dolon Southwest Air Base",50.25,79.083298,830,"AS","KZ","KZ-ABA","Semey","no",,,"UASF",,,"https://en.wikipedia.org/wiki/Dolon_Southwest","Semipalatinsk"
 34976,"KZ-7470","medium_airport","Dolon Air Base",50.536891,79.194689,705,"AS","KZ","KZ-ABA","Semey","no",,,"UASD",,,"https://en.wikipedia.org/wiki/Dolon_(air_base)","Chagan-16, Semipalitinsk Dolon"
 598393,"KZ-7471","small_airport","Novaya Uzenka Airfield",49.873098,73.021033,1693,"AS","KZ","KZ-KAR","Uzenka","no",,,,"ZF8G",,,"ЗФ8Г, Узенка"
+599856,"KZ-7472","heliport","Akshatau Heliport",47.947583,74.016881,1640,"AS","KZ","KZ-KAR",,"no",,,,,,,
+599857,"KZ-7473","heliport","Anar Heliport",50.673825,72.388061,1444,"AS","KZ","KZ-AKM","Anar","no",,,,,,,
+599858,"KZ-7474","heliport","Balkhash Heliport",46.863189,74.877467,1148,"AS","KZ","KZ-KAR","Balkhash","no",,,,,,,
+599859,"KZ-7475","heliport","Beyneu Heliport",45.340539,55.172858,7,"AS","KZ","KZ-MAN","Beyneu","no",,,,,,,
+599860,"KZ-7476","heliport","Hospital of the Medical Center of the Presidential Administration of the Republic of Kazakhstan Heliport",51.077336,71.423828,1148,"AS","KZ","KZ-AST","Astana","no",,,,,,,
+599861,"KZ-7477","heliport","Dossor Heliport",47.534342,52.956575,-82,"AS","KZ","KZ-ATY","Dossor","no",,,,,,,
+599862,"KZ-7478","heliport","Zhana-Arna Heliport",43.737642,77.026169,1542,"AS","KZ","KZ-ALM",,"no",,,,,,,
+599863,"KZ-7479","heliport","Kazaly Heliport",45.792917,62.110194,,"AS","KZ","KZ-KZY","Kazaly","no",,,,,,,
+599864,"KZ-7480","heliport","Kurty Heliport",43.881319,76.344294,2198,"AS","KZ","KZ-ALA","Kurty","no",,,,,,,
+599865,"KZ-7481","heliport","Makinsk Heliport",52.650783,70.3828,1204,"AS","KZ","KZ-AKM","Makinsk","no",,,,"HG59",,,"ХГ59, Макинск"
+599866,"KZ-7482","heliport","Medeo Heliport",43.152756,77.0635,5968,"AS","KZ","KZ-ALA","Almaty","no",,,,,,,
+599867,"KZ-7483","heliport","Airbus Helicopters Kazakhstan Engineering",51.042315,71.479777,,"AS","KZ","KZ-AST","Astana","no",,,,,,,
+599868,"KZ-7484","heliport","National Scientific Cardiac Surgery Center Heliport",51.118722,71.405417,1148,"AS","KZ","KZ-AST","Astana","no",,,,,,,
+599869,"KZ-7485","heliport","Saryshaghan Heliport",46.137506,73.607444,1125,"AS","KZ","KZ-KAR","Saryshaghan","no",,,,,,,
+599870,"KZ-7486","heliport","Semyonovka Heliport",51.055886,79.11415,,"AS","KZ","KZ-ABA","Qarabas","no",,,,,,,
+599871,"KZ-7487","heliport","Standart-Cement Heliport",42.347222,69.728611,2008,"AS","KZ","KZ-U-A","Shymkent","no",,,,,,,
+599872,"KZ-7488","heliport","Targap Heliport",43.349061,75.47135,2375,"AS","KZ","KZ-ALM",,"no",,,,,,,
+599874,"KZ-7489","heliport","Usharal Heliport",46.200036,80.870528,1476,"AS","KZ","KZ-JET","Usharal","no",,,,,,,
+599878,"KZ-7490","heliport","Borankul Heliport",46.197782,54.491655,-23,"AS","KZ","KZ-MAN","Borankul","no",,,,"HGR8",,,"ХГР8, Боранқұл"
+599880,"KZ-7491","heliport","Usharal-2 Heliport",46.151565,80.95243,1332,"AS","KZ","KZ-JET","Usharal","no",,,,"ZF9H",,,"ЗФ9Х, Үшарал"
 30659,"KZ-ATX","small_airport","Atbasar Airport",51.852306,68.366892,1010,"AS","KZ","KZ-AKM","Atbasar","no",,"ATX",,,,"https://en.wikipedia.org/wiki/Atbasar_Airport","Аэропорт Атбасар"
 21436,"KZ01","small_airport","Eglin Auxiliary Field 6 Airport",30.6336994171,-86.7426986694,120,"NA","US","US-FL","Valparaiso","no",,,"KZ01","KZ01",,,
 21437,"KZ10","small_airport","Fort Lewis Road / Pacemaker Landing Zone Airport",47.021702,-122.445999,397,"NA","US","US-WA","Spanaway","no",,,,,,,"KZ10"
@@ -43270,15 +43290,19 @@
 30575,"LHZA","small_airport","Zalaegerszeg Andráshida Airfield",46.884701,16.7889,617,"EU","HU","HU-ZA","Zalaegerszeg","no","LHZA",,"LHZA",,"https://lhza.hu",,"Zalaegerszeg, Andráshida"
 309480,"LHZK","small_airport","Zalakaros Airfield",46.5539,17.15118,370,"EU","HU","HU-ZA","Zalakaros","no","LHZK",,"LHZK",,"https://lhzk.hu",,
 340540,"LI-0001","heliport","Liechtenstein Hospital Helipad",47.134773,9.522753,1580,"EU","LI","LI-11","Vaduz","no",,,,,"https://www.landesspital.li/","https://de.wikipedia.org/wiki/Liechtensteinisches_Landesspital",
-317407,"LIAA","small_airport","Aviosuperficie ""Alvaro Leonardi""",42.573333,12.584444,374,"EU","IT","IT-55","Terni","no",,,"LIAA",,"http://www.avioleonarditerni.it","https://it.wikipedia.org/wiki/Aviosuperficie_Alvaro_Leonardi",
-29414,"LIAF","small_airport","Foligno Airfield",42.9328,12.7101,730,"EU","IT","IT-55","Foligno (PG)","no",,,"LIAF","PG02",,"https://en.wikipedia.org/wiki/Foligno_Airport",
-317856,"LIAL","small_airport","Aviosuperficie Sant'Illuminato",43.353667,12.216667,984,"EU","IT","IT-55","Città di Castello (PG)","no",,,"LIAL","PG07",,,
+317407,"LIAA","small_airport","Aviosuperficie ""Alvaro Leonardi""",42.573333,12.584444,374,"EU","IT","IT-55","Terni","no","LIAA",,"LIAA",,"https://www.avioterni.it/en/home_eng/","https://it.wikipedia.org/wiki/Aviosuperficie_Alvaro_Leonardi","Aviosuperficie ""Alvaro Leonardi"""
+29414,"LIAF","small_airport","Foligno Airfield",42.9328,12.71237,730,"EU","IT","IT-55","Foligno (PG)","no","LIAF",,"LIAF","PG02",,"https://en.wikipedia.org/wiki/Foligno_Airport",
+599892,"LIAG","heliport","Colacem Heliport",43.341513,12.576869,1532,"EU","IT","IT-55","Gubbio (PG)","no","LIAG",,"LIAG",,,,
+599893,"LIAJ","heliport","Macchiarella Heliport",41.782953,12.306502,4,"EU","IT","IT-62","Ostia Antica (RM)","no","LIAJ",,"LIAJ",,,,
+317856,"LIAL","small_airport","Sant'Illuminato Airfield",43.354901,12.21807,984,"EU","IT","IT-55","Città di Castello (PG)","no","LIAL",,"LIAL","PG07",,,"Aviosuperficie Sant'Illuminato"
+599895,"LIAO","heliport","Il Ciocco Heliport",44.088304,10.467169,1351,"EU","IT","IT-52","Castelvecchio Pascoli (LU)","no","LIAO",,"LIAO",,,,
 4307,"LIAP","small_airport","L'Aquila–Preturo Airport",42.379902,13.3092,2211,"EU","IT","IT-65","L'Aquila","no","LIAP",,"LIAP","AQ03","http://www.aeroportodeiparchi.it/","https://en.wikipedia.org/wiki/L%27Aquila%E2%80%93Preturo_Airport","QAQ, Parchi Airport, Preturo Airport, Aeroporto dei Parchi di I'Aquila Preturo"
-29415,"LIAQ","small_airport","Aquino Airfield",41.493566,13.717942,361,"EU","IT","IT-62","Aquino","no",,,"LIAQ","FR01",,"https://it.wikipedia.org/wiki/Aeroporto_di_Aquino",
-317010,"LIAR","small_airport","Furbara Air Base",41.994532,12.0135,,"EU","IT","IT-62","Fubara","no",,,"LIAR",,,"https://it.wikipedia.org/wiki/Aeroporto_di_Furbara",
-316448,"LIAT","small_airport","Valdera Airfield",43.592164,10.696294,39,"EU","IT","IT-52","Capannoli (PI)","no",,,"LIAT","PI04","http://www.aeroclubdipisa.it",,"Valdera, Aeroclub Pisa"
-29416,"LIAU","small_airport","Capua Airport",41.116001,14.178,64,"EU","IT","IT-72","Capua","no",,,"LIAU","CE03",,"http://it.wikipedia.org/wiki/Aeroporto_di_Capua","Oreste Salomone Airport"
-4308,"LIBA","medium_airport","Amendola Air Base",41.541401,15.7181,183,"EU","IT","IT-75","San Giovanni Rotondo (FG)","no",,,"LIBA","FG06",,"https://en.wikipedia.org/wiki/Amendola_Air_Base","Luigi Rovelli"
+29415,"LIAQ","small_airport","Aquino Airfield",41.491983,13.719342,361,"EU","IT","IT-62","Aquino","no","LIAQ",,"LIAQ","FR01",,"https://it.wikipedia.org/wiki/Aeroporto_di_Aquino",
+317010,"LIAR","small_airport","Furbara Air Base",41.994141,12.013544,21,"EU","IT","IT-62","Fubara","no","LIAR",,"LIAR",,,"https://it.wikipedia.org/wiki/Aeroporto_di_Furbara",
+316448,"LIAT","small_airport","Valdera Airfield",43.592164,10.696294,39,"EU","IT","IT-52","Capannoli (PI)","no","LIAT",,"LIAT","PI04","http://www.aeroclubdipisa.it",,"Valdera, Aeroclub Pisa"
+29416,"LIAU","small_airport","Capua Airport",41.116001,14.178,64,"EU","IT","IT-72","Capua","no","LIAU",,"LIAU","CE03",,"http://it.wikipedia.org/wiki/Aeroporto_di_Capua","Oreste Salomone Airport"
+599899,"LIAY","heliport","La Bagnara Heliport",41.687128,13.499367,1501,"EU","IT","IT-62","Monte San Giovanni Campano (FR)","no","LIAY",,"LIAY",,,,
+4308,"LIBA","medium_airport","Amendola Air Base",41.538443,15.717181,183,"EU","IT","IT-75","San Giovanni Rotondo (FG)","no","LIBA",,"LIBA","FG06",,"https://en.wikipedia.org/wiki/Amendola_Air_Base","Luigi Rovelli"
 4309,"LIBC","medium_airport","Crotone Sant'Anna Pythagoras Airport",38.9972,17.0802,522,"EU","IT","IT-78","Isola di Capo Rizzuto (KR)","yes","LIBC","CRV","LIBC","KR01","http://www.aeroporto.kr.it/cartaservizi_eng.asp","https://en.wikipedia.org/wiki/Crotone_Airport","Sant'Anna Airport"
 4310,"LIBD","large_airport","Bari Karol Wojtyła International Airport",41.138901,16.760599,193,"EU","IT","IT-75","Bari","yes","LIBD","BRI","LIBD","BA02","http://www.seap-puglia.it/default.asp?idlingua=2&idcontenuto=25","https://en.wikipedia.org/wiki/Bari_Karol_Wojty%C5%82a_Airport","Bari ""Karol Wojtyla"" International Airport, Palese Macchie Airport, Palese Airport"
 4311,"LIBF","medium_airport","Foggia Gino Lisa Airport",41.433596,15.534566,265,"EU","IT","IT-75","Foggia (FG)","yes","LIBF","FOG","LIBF","FG05",,"https://en.wikipedia.org/wiki/Foggia_%22Gino_Lisa%22_Airport","Foggia Airport"
@@ -43390,7 +43414,7 @@
 4371,"LIRE","medium_airport","Pratica Di Mare Air Base",41.654499,12.4452,41,"EU","IT","IT-62","Pomezia","no",,,"LIRE","RM22",,"https://en.wikipedia.org/wiki/Pratica_di_Mare_Air_Base","M de Bernardi"
 4372,"LIRF","large_airport","Rome–Fiumicino Leonardo da Vinci International Airport",41.804532,12.251998,13,"EU","IT","IT-62","Rome","yes","LIRF","FCO","LIRF","RM11","http://www.adr.it/portal/portal/adr/Fiumicino/Leonardo_da_vinci/Header_Window?action=2","https://en.wikipedia.org/wiki/Rome_Fiumicino_Airport","ROM, Rome Fiumicino Airport, Fiumicino Airport"
 4373,"LIRG","medium_airport","Guidonia Air Base",41.990299,12.7408,289,"EU","IT","IT-62","Guidonia","no",,,"LIRG","RM13",,"https://it.wikipedia.org/wiki/Aeroporto_di_Guidonia","Alfredo Barbieri"
-29442,"LIRH","small_airport","Frosinone Air Base",41.6464,13.2998,,"EU","IT","IT-62","Frosinone","no",,,"LIRH","FR04",,"https://it.wikipedia.org/wiki/Aeroporto_di_Frosinone",
+29442,"LIRH","small_airport","Frosinone Air Base",41.648537,13.294573,,"EU","IT","IT-62","Frosinone","no","LIRH",,"LIRH","FR04",,"https://it.wikipedia.org/wiki/Aeroporto_di_Frosinone","QFR"
 4374,"LIRI","medium_airport","Salerno Costa d'Amalfi Airport",40.620399,14.9113,123,"EU","IT","IT-72","Salerno","yes","LIRI","QSR","LIRI","SA02","http://www.aeroportosalerno.it/","https://en.wikipedia.org/wiki/Salerno_Costa_d%27Amalfi_Airport","Mario Martucci Airport, Aeroporto di Salerno Costa d'Amalfi, Salerno-Pontecagnano Airport"
 4375,"LIRJ","medium_airport","Marina di Campo Airport",42.760871,10.239811,31,"EU","IT","IT-52","Campo nell'Elba (LI)","yes","LIRJ","EBA","LIRJ","LI04",,"https://en.wikipedia.org/wiki/Marina_di_Campo_Airport","Elba"
 4376,"LIRL","medium_airport","Latina Air Base",41.5424,12.909,94,"EU","IT","IT-62","Latina","no",,,"LIRL","LT02",,"https://it.wikipedia.org/wiki/Aeroporto_di_Latina","E Comani"
@@ -48385,7 +48409,7 @@
 594805,"MX-2522","closed","Teotitlán de Flores Magón Airport",18.11551,-97.09013,3003,"NA","MX","MX-OAX","Teotitlán de Flores Magón","no",,,,,,,
 594807,"MX-2523","closed","San Lucas el Viejo Airstrip",18.68389,-97.73086,6287,"NA","MX","MX-PUE","Xochitlán Todos Santos","no",,,,,,,
 594808,"MX-2524","heliport","Zongozotla Heliport",19.98426,-97.72634,3694,"NA","MX","MX-PUE","Zongozotla","no",,,,,,,
-599715,"MX-2525","heliport","Helipuerto de Tres Cielos",18.612703,-99.279887,,"NA","MX","MX-MOR","Tequesquitengo","no",,,,,,,
+599715,"MX-2525","heliport","Tres Cielos Heliport",18.612703,-99.279887,,"NA","MX","MX-MOR","Tequesquitengo","no",,,,,,,
 599730,"MX-2526","closed","Pista de aterrizaje Casasano",18.862569,-98.955006,,"NA","MX","MX-MOR","Cuautla","no",,,,,,,
 30631,"MX-AJS","small_airport","Punta Abreojos Airport",26.7272,-113.558998,26,"NA","MX","MX-BCS","Mulegé","no",,"AJS",,"AJS",,"https://en.wikipedia.org/wiki/Punta_Abreojos_Airstrip","MX86"
 30671,"MX-AZG","small_airport","Apatzingán - Pablo L. Sidar Airport",19.093399,-102.393997,1033,"NA","MX","MX-MIC","Apatzingán","no",,"AZG","MMAG","AZG",,"https://es.wikipedia.org/wiki/Aeropuerto_Nacional_Pablo_L._Sidar","MM16"
