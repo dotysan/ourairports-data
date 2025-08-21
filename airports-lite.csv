@@ -5125,6 +5125,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4049,LEZL,medium_airport,Sevilla Airport,37.417999,-5.89311,112,EU,ES,ES-AN,Sevilla,yes,LEZL,SVQ,LEZL,,https://www.aena.es/en/seville.html,https://en.wikipedia.org/wiki/San_Pablo_Airport,
 28770,LFAB,small_airport,Dieppe-Saint-Aubin Airport,49.884662,1.08101,344,EU,FR,FR-NOR,Saint-Aubin-sur-Scie,no,LFAB,DPE,LFAB,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Dieppe_-_Saint-Aubin,
 4050,LFAC,medium_airport,Calais Marck Airport,50.962101,1.95476,12,EU,FR,FR-HDF,Calais,no,LFAC,CQF,LFAC,,https://calais.aeroport.fr/en/homepage/,https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Calais_-_Dunkerque,"Dunkirk, Grand Calais"
+28771,LFAD,small_airport,Compiègne Margny Airfield,49.431242,2.801514,315,EU,FR,FR-HDF,Margny-lès-Compiègne,no,LFAD,,LFAD,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Compi%C3%A8gne_-_Margny,XCP
+28772,LFAE,small_airport,Eu Mers-Le Tréport Airfield,50.068168,1.424748,328,EU,FR,FR-NOR,Eu,no,LFAE,,LFAE,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Eu_-_Mers_-_Le_Tr%C3%A9port,
 4054,LFAQ,small_airport,Albert Bray airport,49.970049,2.693939,364,EU,FR,FR-HDF,Albert,no,LFAQ,BYF,LFAQ,,https://www.aeroportalbertpicardie.com/en/home/,https://en.wikipedia.org/wiki/Albert_%E2%80%93_Picardie_Airport,"Albert-Bray, Amiens-Henry Potez"
 4055,LFAT,medium_airport,Le Touquet-Côte d'Opale Airport,50.518284,1.621656,36,EU,FR,FR-HDF,Le Touquet-Paris-Plage,no,LFAT,LTQ,LFAT,,https://www.aeroport-letouquet.com/,https://en.wikipedia.org/wiki/Le_Touquet_%E2%80%93_C%C3%B4te_d%27Opale_Airport,Paris-Plage
 4058,LFBA,medium_airport,Agen La Garenne airport,44.174171,0.59309,204,EU,FR,FR-NAQ,Agen,no,LFBA,AGF,LFBA,,http://www.aeroport-agen.com/,https://en.wikipedia.org/wiki/Agen_-_La_Garenne_Aerodrome,
@@ -5161,6 +5163,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4111,LFHP,small_airport,Le Puy-Loudes Airfield,45.0807,3.76289,2731,EU,FR,FR-ARA,"Chaspuzac, Haute-Loire",yes,LFHP,LPY,LFHP,,,https://en.wikipedia.org/wiki/Le_Puy_-_Loudes_Airport,
 4113,LFHS,small_airport,Bourg-Ceyzériat Airfield,46.200901,5.29203,857,EU,FR,FR-ARA,Bourg/Ceyzériat,no,LFHS,,LFHS,,,https://en.wikipedia.org/wiki/Bourg_-_Ceyz%C3%A9riat_Airport,
 28891,LFHU,small_airport,L'Alpe d'Huez - Henri Giraud Altiport,45.087399,6.083604,6102,EU,FR,FR-ARA,"Huez, Isère",no,LFHU,AHZ,LFHU,,,https://fr.wikipedia.org/wiki/Altiport_de_l'Alpe_d'Huez,
+4114,LFHV,small_airport,Villefranche-Tarare Airfield,45.918314,4.635184,1076,EU,FR,FR-ARA,"Frontenas, Rhône",no,LFHV,,LFHV,,,https://en.wikipedia.org/wiki/Villefranche_-_Tarare_Airport,
 4115,LFHY,small_airport,Moulins-Montbeugny Airfield,46.534599,3.42372,915,EU,FR,FR-ARA,Toulon-sur-Allier,no,LFHY,,LFHY,,,https://en.wikipedia.org/wiki/Moulins_-_Montbeugny_Airport,"XMU, Aérodrome de Moulins-Montbeugny"
 4120,LFJL,medium_airport,Metz-Nancy-Lorraine Airport,48.982101,6.25132,870,EU,FR,FR-GES,Goin,yes,LFJL,ETZ,LFJL,,https://lorraineaeroport.com/,https://en.wikipedia.org/wiki/Metz-Nancy-Lorraine_Airport,
 4121,LFJR,medium_airport,Angers Marcé airport,47.560299,-0.312222,194,EU,FR,FR-PDL,Angers,no,LFJR,ANE,LFJR,,https://www.angers.aeroport.fr/en,https://en.wikipedia.org/wiki/Angers_–_Loire_Airport,Marcé Airport.
@@ -9897,7 +9900,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 27091,YNYN,small_airport,Nyngan Airport,-31.550645,147.202973,569,OC,AU,AU-NSW,,no,YNYN,NYN,YNYN,,,https://en.wikipedia.org/wiki/Nyngan_Airport,
 27092,YOEN,small_airport,Oenpelli Airport,-12.325,133.005997,30,OC,AU,AU-NT,,no,YOEN,OPI,YOEN,,,https://en.wikipedia.org/wiki/Oenpelli_Airport,
 301307,YOI,small_airport,Opinaca Aerodrome,52.221944,-76.611944,692,NA,CA,CA-QC,Éléonore Mine,no,,YOI,,,,https://en.wikipedia.org/wiki/Opinaca_Aerodrome,"Eastmain River, Les Mélèzes, CPN8"
-27865,YOLA,small_airport,Colac Airport,-38.286701,143.679993,450,OC,AU,AU-VIC,Colac Otway Shire,no,YOLA,XCO,YOLA,,,,
+27865,YOLA,small_airport,Colac Airport,-38.286701,143.679993,450,OC,AU,AU-VIC,Colac Otway Shire,no,YOLA,XCO,YOLA,,,https://www.wikidata.org/wiki/Q21923979,
 27093,YOLD,small_airport,Olympic Dam Airport,-30.483861,136.876699,344,OC,AU,AU-SA,Olympic Dam,yes,YOLD,OLP,YOLD,,,https://en.wikipedia.org/wiki/Olympic_Dam_Airport,
 27866,YOLW,small_airport,Onslow Airport,-21.670161,115.114902,7,OC,AU,AU-WA,,no,YOLW,ONS,YOLW,,,https://en.wikipedia.org/wiki/Onslow_Airport,
 27869,YOOD,small_airport,Oodnadatta Airport,-27.562473,135.442946,118,OC,AU,AU-SA,,no,YOOD,ODD,YOOD,,,https://en.wikipedia.org/wiki/Oodnadatta_Airport,
