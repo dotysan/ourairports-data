@@ -29497,6 +29497,7 @@
 599256,"GB-1333","heliport","Clifton Dykes",54.644211,-2.69254,,"EU","GB","GB-U-A",,"no",,,,,,,
 599308,"GB-1334","closed","RAF Long Kesh",54.490669,-6.103835,115,"EU","GB","GB-NIR","Maze, County Down","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Long_Kesh",
 599309,"GB-1335","heliport","Lisburn Heliport",54.49328,-6.097745,118,"EU","GB","GB-NIR","Lisburn, County Down","no",,,,,,,
+599921,"GB-1336","small_airport","(Duplicete)East Kirkby Airfield",53.13889,-0.00056,39,"EU","GB","GB-ENG","East Kirkby","no",,,,,"https://lincsaviation.co.uk","https://en.m.wikipedia.org/wiki/Lincolnshire_Aviation_Heritage_Centre?utm_source=chatgpt.com","RAF East Kirkby; Lincolnshire Aviation Heritage Centre; Bomber Command; Avro Lancaster NX611 “Just Jane”; Mosquito HJ711; East Lindsey; WW2 airfield; museum; heritage."
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO"
@@ -37477,7 +37478,7 @@
 18980,"K6D6","small_airport","Greenville Municipal Airport",43.1423,-85.253799,855,"NA","US","US-MI","Greenville","no",,,"K6D6","6D6",,"https://en.wikipedia.org/wiki/Greenville_Municipal_Airport_(Michigan)",
 18981,"K6D8","small_airport","Barnes County Municipal Airport",46.94100189,-98.01760101,1402,"NA","US","US-ND","Valley City","no",,,"KBAC","BAC","http://www.barnescountyairport.com/",,"6D8"
 18982,"K6D9","small_airport","Iosco County Airport",44.312801,-83.422302,606,"NA","US","US-MI","East Tawas","no",,"ECA",,"6D9","http://www.us23heritageroute.org/location.asp?ait=av&aid=839","https://en.wikipedia.org/wiki/Iosco_County_Airport",
-18983,"K6E5","small_airport","Wilder Airport",44.433033,-97.558207,1729,"NA","US","US-SD","Desmet","no",,,"K6E5","6E5",,,"SD12"
+18983,"K6E5","small_airport","Wilder Airport",44.433033,-97.558207,1729,"NA","US","US-SD","De Smet","no",,,"K6E5","6E5","https://cityofdesmet.com/airport",,"SD12, DeSmet"
 18986,"K6G1","small_airport","Titusville Airport",41.608799,-79.741302,1600,"NA","US","US-PA","Titusville","no",,,"K6G1","6G1",,"https://en.wikipedia.org/wiki/Titusville_Airport",
 18987,"K6G4","small_airport","Wynkoop Airport",40.3651008605957,-82.49569702148438,1041,"NA","US","US-OH","Mount Vernon","no",,,"K6G4","6G4",,,
 18988,"K6G5","small_airport","Barnesville Bradfield Airport",40.00239944458008,-81.19180297851562,1312,"NA","US","US-OH","Barnesville","no",,,"K6G5","6G5",,,
@@ -42741,8 +42742,8 @@
 2988,"LF51","small_airport","Plan-de-Dieu-Orange Airfield",44.18,4.91889,312,"EU","FR","FR-PAC","Travaillan, Vaucluse","no",,,"LFPR","LF8451","http://www.aeroclubduplandedieu.fr","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Orange_Plan_de_Dieu",
 28770,"LFAB","small_airport","Dieppe-Saint-Aubin Airport",49.884662,1.08101,344,"EU","FR","FR-NOR","Saint-Aubin-sur-Scie","no","LFAB","DPE","LFAB",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Dieppe_-_Saint-Aubin",
 4050,"LFAC","medium_airport","Calais Marck Airport",50.962101,1.95476,12,"EU","FR","FR-HDF","Calais","no","LFAC","CQF","LFAC",,"https://calais.aeroport.fr/en/homepage/","https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Calais_-_Dunkerque","Dunkirk, Grand Calais"
-28771,"LFAD","small_airport","Compiègne Margny Airfield",49.431242,2.801514,315,"EU","FR","FR-HDF","Margny-lès-Compiègne","no",,,"LFAD",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Compi%C3%A8gne_-_Margny",
-28772,"LFAE","small_airport","Eu Mers-Le Tréport Airfield",50.068168,1.424748,328,"EU","FR","FR-NOR","Eu","no",,,"LFAE",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Eu_-_Mers_-_Le_Tr%C3%A9port",
+28771,"LFAD","small_airport","Compiègne Margny Airfield",49.431242,2.801514,315,"EU","FR","FR-HDF","Margny-lès-Compiègne","no","LFAD",,"LFAD",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Compi%C3%A8gne_-_Margny","XCP"
+28772,"LFAE","small_airport","Eu Mers-Le Tréport Airfield",50.068168,1.424748,328,"EU","FR","FR-NOR","Eu","no","LFAE",,"LFAE",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Eu_-_Mers_-_Le_Tr%C3%A9port",
 28773,"LFAF","small_airport","Laon-Chambry Airfield",49.595798,3.63167,256,"EU","FR","FR-HDF","Laon, Aisne","no",,,"LFAF",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Laon_-_Chambry",
 4051,"LFAG","medium_airport","Péronne Saint-Quentin Airfield",49.868871,3.029566,295,"EU","FR","FR-HDF","Monchy-Lagache, Somme","no",,,"LFAG",,,"https://en.wikipedia.org/wiki/Peronne-St_Quentin_Airfield","Aérodrome de Péronne Saint-Quentin"
 4052,"LFAI","small_airport","Nangis-Les Loges Aerodrome",48.596199,3.00679,428,"EU","FR","FR-IDF","Clos-Fontaine","no",,,"LFAI",,,"https://en.wikipedia.org/wiki/Nangis_-_Les_Loges_aerodrome","Aérodrome de Nangis Les Loges"
@@ -42921,7 +42922,7 @@
 4113,"LFHS","small_airport","Bourg-Ceyzériat Airfield",46.200901,5.29203,857,"EU","FR","FR-ARA","Bourg/Ceyzériat","no","LFHS",,"LFHS",,,"https://en.wikipedia.org/wiki/Bourg_-_Ceyz%C3%A9riat_Airport",
 28890,"LFHT","small_airport","Ambert - Le Poyet Airfield",45.516196,3.74514,1847,"EU","FR","FR-ARA","Ambert, Puy-de-Dôme","no",,,"LFHT",,"https://aeroclub-ambert.fr/","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Ambert_-_Le_Poyet","Aérodrome d'Ambert - Le Poyet"
 28891,"LFHU","small_airport","L'Alpe d'Huez - Henri Giraud Altiport",45.087399,6.083604,6102,"EU","FR","FR-ARA","Huez, Isère","no","LFHU","AHZ","LFHU",,,"https://fr.wikipedia.org/wiki/Altiport_de_l'Alpe_d'Huez",
-4114,"LFHV","small_airport","Villefranche-Tarare Airfield",45.918314,4.635184,1076,"EU","FR","FR-ARA","Frontenas, Rhône","no",,,"LFHV",,,"https://en.wikipedia.org/wiki/Villefranche_-_Tarare_Airport",
+4114,"LFHV","small_airport","Villefranche-Tarare Airfield",45.918314,4.635184,1076,"EU","FR","FR-ARA","Frontenas, Rhône","no","LFHV",,"LFHV",,,"https://en.wikipedia.org/wiki/Villefranche_-_Tarare_Airport",
 28892,"LFHW","small_airport","Belleville Villié Morgon Airfield",46.140843,4.713817,705,"EU","FR","FR-ARA","Belleville-en-Beaujolais, Rhône","no",,,"LFHW",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Belleville_-_Villi%C3%A9-Morgon","Pizay"
 28893,"LFHX","small_airport","Lapalisse - Périgny Airfield",46.253899,3.58861,1040,"EU","FR","FR-ARA",,"no",,,"LFHX",,,"http://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Lapalisse_-_P%C3%A9rigny",
 4115,"LFHY","small_airport","Moulins-Montbeugny Airfield",46.534599,3.42372,915,"EU","FR","FR-ARA","Toulon-sur-Allier","no","LFHY",,"LFHY",,,"https://en.wikipedia.org/wiki/Moulins_-_Montbeugny_Airport","XMU, Aérodrome de Moulins-Montbeugny"
@@ -79225,7 +79226,7 @@
 35153,"VN-0072","closed","Kontum Airport",14.356075,108.016667,1804,"AS","VN","VN-CH","Kontum","no",,,,,,"https://en.wikipedia.org/wiki/Kontum_Airfield","KON, KON, VN-KON"
 302311,"VN-0073","closed","Cam Ly Airport",11.950284,108.411005,4937,"AS","VN","VN-CH",,"no",,,,,,"https://en.wikipedia.org/wiki/Cam_Ly_Airport","VVCL, VVCL"
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
-319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,,"XLO, XLO"
+319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,"https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Long_Xuy%C3%AAn","XLO, Vam Cong"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
@@ -82002,7 +82003,7 @@
 27863,"YOIT","small_airport","Orielton Airport",-22.062854,144.139037,,"OC","AU","AU-QLD","Tablederry","no",,,"YOIT",,,,
 27864,"YOKE","small_airport","Oakvale Airport",-22.298889,145.983611,947,"OC","AU","AU-QLD",,"no",,,"YOKE",,,,
 38532,"YOKV","small_airport","Oak Valley Airport",-29.516700744628906,130.86700439453125,,"OC","AU","AU-SA",,"no",,,"YOKV",,,,
-27865,"YOLA","small_airport","Colac Airport",-38.286701,143.679993,450,"OC","AU","AU-VIC","Colac Otway Shire","no","YOLA","XCO","YOLA",,,,
+27865,"YOLA","small_airport","Colac Airport",-38.286701,143.679993,450,"OC","AU","AU-VIC","Colac Otway Shire","no","YOLA","XCO","YOLA",,,"https://www.wikidata.org/wiki/Q21923979",
 27093,"YOLD","small_airport","Olympic Dam Airport",-30.483861,136.876699,344,"OC","AU","AU-SA","Olympic Dam","yes","YOLD","OLP","YOLD",,,"https://en.wikipedia.org/wiki/Olympic_Dam_Airport",
 27866,"YOLW","small_airport","Onslow Airport",-21.670161,115.114902,7,"OC","AU","AU-WA",,"no","YOLW","ONS","YOLW",,,"https://en.wikipedia.org/wiki/Onslow_Airport",
 30230,"YOLY","small_airport","Oxley Station Airport",-31.0132999420166,147.71099853515625,518,"OC","AU","AU-NSW",,"no",,,"YOLY",,,,
