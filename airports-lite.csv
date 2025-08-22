@@ -602,6 +602,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 323824,BR-0263,small_airport,Pedro Vieira Moreira Airport,-6.8827,-38.61583,1099,SA,BR,BR-PB,Cajazeiras,yes,,CJZ,SJZA,PB0004,,https://en.wikipedia.org/wiki/Cajazeiras_Airport,
 333222,BR-0569,medium_airport,Glauber de Andrade Rocha Airport,-14.907885,-40.914804,2940,SA,BR,BR-BA,Vitória da Conquista,yes,SBVC,VDC,SBVC,BA0005,,https://en.wikipedia.org/wiki/Glauber_Rocha_Airport,SSVC
 335048,BR-0741,small_airport,Embaixador Airport,-16.822931,-49.044014,2410,SA,BR,BR-GO,Bela Vista de Goiás,no,SSOM,,SSOM,GO0194,,,Fazenda Balada
+340,BR-1948,small_airport,Santana do Araguaia Airport,-9.319906,-50.328536,614,SA,BR,BR-PA,Santana do Araguaia,no,,CMP,SD12,PA0017,,https://en.wikipedia.org/wiki/Santana_do_Araguaia_Airport,SNKE
 38046,BR-2149,small_airport,Arraias Airport,-13.025154,-46.884107,1923,SA,BR,BR-TO,Arraias,no,,AAI,,,,https://en.wikipedia.org/wiki/Arraias_Airport,SWRA
 129,BR-2152,small_airport,Tertuliano Guedes de Pinho Airport,-14.8105,-39.290401,197,SA,BR,BR-BA,Itabuna,no,,ITN,,BA0248,,,"SNHA, SB01, SWTX"
 297,BR-2171,small_airport,Leopoldina Airport,-21.468226,-42.727076,919,SA,BR,BR-MG,Leopoldina,no,,LEP,,,,https://pt.wikipedia.org/wiki/Aeroporto_de_Leopoldina,SNDN
@@ -740,7 +741,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 16718,CKX,small_airport,Chicken Airport,64.066495,-141.951342,1640,NA,US,US-AK,Chicken,yes,,CKX,CKX,CKX,,https://en.wikipedia.org/wiki/Chicken_Airport,
 316486,CMT,small_airport,New Cametá Airport,-2.2468,-49.56,60,SA,BR,BR-PA,Cametá,no,,CMT,,,,,
 311902,CMZ,small_airport,Caia Airport,-17.8331,35.3341,156,AF,MZ,MZ-S,Caia,no,,CMZ,,,,,
-43975,CN-0005,small_airport,Tangshan Sannühe Airport,39.7178,118.002625,50,AS,CN,CN-13,Tangshan (Fengrun),yes,ZBSN,TVS,ZBSN,,,https://en.wikipedia.org/wiki/Tangshan_Sann%C3%BChe_Airport,"Tangshan Air Base, 唐山三女河机场"
 323879,CN-0051,small_airport,Zigong Fengming Airport,29.376484,104.625789,1133,AS,CN,CN-51,Zigong (Gongjing),no,,ZKL,,,,,Fengming General Airport
 323881,CN-0062,small_airport,Bazhong Enyang Airport,31.73842,106.644872,1804,AS,CN,CN-51,Bazhong (Enyang),yes,ZUBZ,BZX,ZUBZ,BZX,,https://en.wikipedia.org/wiki/Bazhong_Enyang_Airport,
 324348,CN-0073,small_airport,Shangluo Airport,33.708533,110.249284,,AS,CN,CN-61,Shangluo (Danfeng),no,,DFA,,,,,
@@ -1245,7 +1245,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 35350,DBBS,small_airport,Savé Airport,8.018170356750488,2.4645800590515137,597,AF,BJ,BJ-CO,Savé,no,DBBS,SVF,DBBS,,,https://en.wikipedia.org/wiki/Sav%C3%A9_Airport,
 315621,DBK,seaplane_base,Dutch Bay SPB,8.273,79.756,0,AS,LK,LK-6,Kalpitiya Island,no,,DBK,,,,,
 312783,DBU,seaplane_base,Dambulu Oya Tank Seaplane Base,7.8604,80.6304,535,AS,LK,LK-2,Dambulla,no,,DBU,,,,,Ibbankatuwa Tank Waterdrome
-300319,DCG,seaplane_base,Dubai Creek SPB,25.2422222222,55.3313888889,,AS,AE,AE-DU,Dubai,no,,DCG,,,,,
 17113,DCK,small_airport,Dahl Creek Airport,66.943298,-156.904999,260,NA,US,US-AK,Dahl Creek,no,,DCK,PODC,DCK,,https://en.wikipedia.org/wiki/Dahl_Creek_Airport,
 302106,DDM,small_airport,Dodoima Airport,-8.17736111111,147.809444444,75,OC,PG,PG-NPP,,no,,DDM,,DDM,,,
 28576,DE-0004,small_airport,Gransee Airfield,53.00628,13.202177,164,EU,DE,DE-BR,Gransee,no,EDUG,,,,http://www.gojump.de/,https://de.wikipedia.org/wiki/Flugplatz_Gransee,
@@ -3286,7 +3285,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 351149,HZU,medium_airport,Chengdu Huaizhou Airport,30.677339,104.529397,1453,AS,CN,CN-51,Chengdu (Jintang),no,,HZU,,,,https://zh.wikipedia.org/wiki/%E6%88%90%E9%83%BD%E6%B7%AE%E5%B7%9E%E6%9C%BA%E5%9C%BA,
 312933,IBI,small_airport,Iboki Airport,-5.5536,149.19,13,OC,PG,PG-WBK,Iboki,no,,IBI,,IBK,,,Iaboki
 27302,IBL,medium_airport,Indigo Bay Lodge Airport,-21.708,35.452801,20,AF,MZ,MZ-I,Bazaruto Island,no,,IBL,,,,https://en.wikipedia.org/wiki/Indigo_Bay_Lodge_Airport,
-596644,ICAD,medium_airport,tylekeonhacaibuzz,13,15,23,AS,VN,VN-U-A,hồ chí minh,yes,ICAN,LHB,ICAD,NH12,https://tylekeonhacai.buzz/,,
 309145,ICO,small_airport,Sicogon Airstrip,11.4595,123.2506,25,AS,PH,PH-ILI,Carles,no,,ICO,,,,https://en.wikipedia.org/wiki/Sicogon_Airport,
 41492,ID-0003,small_airport,Pulau Panjang Airport,-5.644444,106.5625,155,AS,ID,ID-JB,Jakarta,no,,PPJ,WIHG,,,,"WIIG, Panjang Island"
 301955,ID-0012,small_airport,Lasondre Airport,-0.01924,98.30097,30,AS,ID,ID-SU,Pulau-Pulau Batu,yes,WIMO,,WIMO,LSE,,https://en.wikipedia.org/wiki/Lasondre_Airport,Bandar Udara Lasondre
@@ -3322,10 +3320,12 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 44362,IN-0012,small_airport,Pakyong Airport,27.2313,88.587196,4590,AS,IN,IN-SK,Pakyong,no,VEPY,PYG,VEPY,,,https://en.wikipedia.org/wiki/Pakyong_Airport,
 46512,IN-0025,medium_airport,Ayodhya Airport,26.751283,82.155295,335,AS,IN,IN-UP,Faizabad,yes,VEAY,AYJ,VEAY,,,https://en.wikipedia.org/wiki/Ayodhya_Airport,Maharishi Valmiki International
 299082,IN-0065,small_airport,Amravati (Belora) Airstrip,20.814608,77.717765,1125,AS,IN,IN-MM,Amravati,no,VAAM,,VAAM,,,https://en.wikipedia.org/wiki/Amravati_Airport,
+301051,IN-0074,small_airport,Barbil Tonto Airstrip,22.045829,85.373468,,AS,IN,IN-OR,Bhusugaon,no,VEBL,,VEBL,,,https://en.wikipedia.org/wiki/Barbil_Tonto_Airstrip,
 331218,IN-0107,medium_airport,Sindhudurg Airport,16.002552,73.529846,203,AS,IN,IN-MM,Chipi,yes,VOSR,SDW,VOSR,,,https://en.wikipedia.org/wiki/Sindhudurg_Airport,VA85
 342093,IN-0276,large_airport,Navi Mumbai International Airport,18.984597,73.065253,184,AS,IN,IN-MM,Navi Mumbai,yes,VANM,NMI,,,,https://en.wikipedia.org/wiki/Navi_Mumbai_International_Airport,"D. B. Patil, new airport"
 354545,IN-0301,medium_airport,Rashtrakavi Kuvempu Airport,13.858024,75.618868,2017,AS,IN,IN-KA,Shimoga,no,VOSH,RQY,VOSH,,https://web.archive.org/web/20240204161112/https://ksiidc.karnataka.gov.in/new-page/ShivamoggaAirport/en,https://en.wikipedia.org/wiki/Shivamogga_Airport,"Sogane, Shivamogga"
 354546,IN-0308,medium_airport,Itanagar Donyi Polo Hollongi Airport,26.96683,93.638792,328,AS,IN,IN-AR,Hollongi,yes,,HGI,VEHO,,,https://en.wikipedia.org/wiki/Itanagar_Airport,
+429741,IN-0346,small_airport,Bihta Air Force Station,25.59124,84.88312,194,AS,IN,IN-BR,Patna,no,VEBT,,,,,https://en.wikipedia.org/wiki/Bihta_Air_Force_Station,
 520373,IN-0376,small_airport,Utkela Airport,20.097778,83.183333,685,AS,IN,IN-OR,Bhawanipatna,yes,,UKE,,,,https://en.wikipedia.org/wiki/Utkela_Airport,
 26454,IN-0382,small_airport,Gandhinagar Airfield,19.963699,73.807602,1959,AS,IN,IN-MM,Nashik,no,VANR,,VANR,,,https://en.wikipedia.org/wiki/Gandhinagar_Airport,"ISK, Nashik Road Airport"
 597786,IN-0392,small_airport,Noida International Airport,28.175556,77.60611,,AS,IN,IN-UP,,no,VIND,,,,https://niairport.in/,https://en.wikipedia.org/wiki/Noida_International_Airport,
@@ -5129,6 +5129,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 28772,LFAE,small_airport,Eu Mers-Le Tréport Airfield,50.068168,1.424748,328,EU,FR,FR-NOR,Eu,no,LFAE,,LFAE,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Eu_-_Mers_-_Le_Tr%C3%A9port,
 4054,LFAQ,small_airport,Albert Bray airport,49.970049,2.693939,364,EU,FR,FR-HDF,Albert,no,LFAQ,BYF,LFAQ,,https://www.aeroportalbertpicardie.com/en/home/,https://en.wikipedia.org/wiki/Albert_%E2%80%93_Picardie_Airport,"Albert-Bray, Amiens-Henry Potez"
 4055,LFAT,medium_airport,Le Touquet-Côte d'Opale Airport,50.518284,1.621656,36,EU,FR,FR-HDF,Le Touquet-Paris-Plage,no,LFAT,LTQ,LFAT,,https://www.aeroport-letouquet.com/,https://en.wikipedia.org/wiki/Le_Touquet_%E2%80%93_C%C3%B4te_d%27Opale_Airport,Paris-Plage
+4057,LFAY,medium_airport,Amiens Glisy Airfield,49.873004,2.387074,208,EU,FR,FR-HDF,Amiens,no,LFAY,,LFAY,,,https://en.wikipedia.org/wiki/Amiens_%E2%80%93_Glisy_Aerodrome,"QAM, Aérodrome d'Amiens-Glisy"
 4058,LFBA,medium_airport,Agen La Garenne airport,44.174171,0.59309,204,EU,FR,FR-NAQ,Agen,no,LFBA,AGF,LFBA,,http://www.aeroport-agen.com/,https://en.wikipedia.org/wiki/Agen_-_La_Garenne_Aerodrome,
 4060,LFBD,large_airport,Bordeaux–Mérignac Airport,44.82865,-0.715356,162,EU,FR,FR-NAQ,Bordeaux,yes,LFBD,BOD,LFBD,,https://www.bordeaux.aeroport.fr/,https://en.wikipedia.org/wiki/Bordeaux%E2%80%93M%C3%A9rignac_Airport,
 4061,LFBE,medium_airport,Bergerac Dordogne-Périgord airport,44.825298,0.518611,171,EU,FR,FR-NAQ,Bergerac,yes,LFBE,EGC,LFBE,,https://www.bergerac.aeroport.fr/,https://en.wikipedia.org/wiki/Bergerac_Dordogne_P%C3%A9rigord_Airport,
@@ -5151,7 +5152,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4086,LFCR,medium_airport,Rodez–Aveyron Airport,44.407902,2.48267,1910,EU,FR,FR-OCC,Rodez/Marcillac,yes,LFCR,RDZ,LFCR,,https://www.aeroport-rodez.fr/en/,https://en.wikipedia.org/wiki/Rodez%E2%80%93Aveyron_Airport,
 4089,LFCY,medium_airport,Royan-Médis Airport,45.628101,-0.9725,72,EU,FR,FR-NAQ,Royan/Médis,no,LFCY,RYN,LFCY,,,https://en.wikipedia.org/wiki/Royan_%E2%80%93_M%C3%A9dis_Aerodrome,
 28804,LFDG,small_airport,Aérodrome de Gaillac - Lisle-sur-Tarn,43.8839,1.87556,446,EU,FR,FR-OCC,Gaillac,no,LFDG,,LFDG,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Gaillac_-_Lisle-sur-Tarn,
-4093,LFDH,medium_airport,Auch Gers Airport,43.683606,0.599747,411,EU,FR,FR-OCC,Auch,no,LFDH,,LFDH,,http://www.auchaeroport.fr/ (dead link as of 17-sep-2017),https://fr.wikipedia.org/wiki/Aéroport_Auch_-_Gers,Lamothe
+4093,LFDH,medium_airport,Auch Gers Airfield,43.683606,0.599747,411,EU,FR,FR-OCC,Auch,no,LFDH,,LFDH,,http://www.auchaeroport.fr/ (dead link as of 17-sep-2017),https://fr.wikipedia.org/wiki/Aéroport_Auch_-_Gers,Lamothe
 4097,LFDN,medium_airport,Rochefort-Saint-Agnant (BA 721) Airport,45.887798,-0.983056,60,EU,FR,FR-NAQ,Rochefort/Saint-Agnant,no,LFDN,RCO,LFDN,,,https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Rochefort_-_Charente-Maritime,
 28818,LFEA,small_airport,Aérodrome de Belle Île,47.325256,-3.201255,171,EU,FR,FR-BRE,Bangor,yes,,BIC,LFEA,,,https://fr.wikipedia.org/wiki/Aérodrome_de_Belle-Île,Palais-Belle-İle-en-Mer Aerodrome
 28820,LFEC,small_airport,Ouessant Airport,48.4632,-5.06358,142,EU,FR,FR-BRE,Ushant,yes,,OUI,LFEC,,,https://en.wikipedia.org/wiki/Ushant_Airport,
@@ -5232,7 +5233,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4191,LFPV,medium_airport,Vélizy-Villacoublay Air Base,48.774406,2.203102,584,EU,FR,FR-IDF,"Vélizy-Villacoublay, Yvelines",no,,VIY,LFPV,,,https://en.wikipedia.org/wiki/V%C3%A9lizy_%E2%80%93_Villacoublay_Air_Base,BA 107
 28979,LFPX,small_airport,Chavenay-Villepreux Airfield,48.842323,1.9805,426,EU,FR,FR-IDF,"Chavenay, Yvelines",no,LFPX,,LFPX,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Chavenay_-_Villepreux,
 4197,LFQG,medium_airport,Nevers-Fourchambault Airport,47.002913,3.113114,602,EU,FR,FR-BFC,"Marzy, Nièvre",no,LFQG,NVS,LFQG,,,https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Nevers-Fourchambault,
-4200,LFQM,small_airport,Besançon La Vèze Airport,47.206615,6.083168,1271,EU,FR,FR-BFC,Besançon,no,LFQM,,LFQM,,,https://en.wikipedia.org/wiki/Besan%C3%A7on_%E2%80%93_La_V%C3%A8ze_Aerodrome,QBQ
+4200,LFQM,small_airport,Besançon La Vèze Airfield,47.206615,6.083168,1271,EU,FR,FR-BFC,Besançon,no,LFQM,,LFQM,,,https://en.wikipedia.org/wiki/Besan%C3%A7on_%E2%80%93_La_V%C3%A8ze_Aerodrome,QBQ
 4202,LFQQ,medium_airport,Lille Airport,50.563332,3.086886,157,EU,FR,FR-HDF,Lesquin,yes,LFQQ,LIL,LFQQ,,https://www.lille.aeroport.fr/home/,https://en.wikipedia.org/wiki/Lille_Airport,Aéroport de Lille. Lille-Lesquin Airport
 4203,LFQT,medium_airport,Merville-Calonne Airport,50.618401,2.64224,61,EU,FR,FR-HDF,"Merville, Nord",no,LFQT,HZB,LFQT,,https://aeroport-mervillelestrem.fr/,https://en.wikipedia.org/wiki/Merville%E2%80%93Calonne_Airport,
 4204,LFQV,medium_airport,Charleville-Mézières Ardennes-Etienne Riché Airfield,49.783901,4.64708,492,EU,FR,FR-GES,Charleville-Mézières,no,LFQV,,LFQV,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Charleville-M%C3%A9zi%C3%A8res,
@@ -8805,35 +8806,46 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 525150,VEAH,small_airport,Azamgarh Airport,26.153333,83.118333,250,AS,IN,IN-UP,Azamgarh,no,,AZH,VEAH,,,https://en.wikipedia.org/wiki/Azamgarh_Airport,
 26488,VEAN,medium_airport,Along Airport,28.17530059814453,94.802001953125,900,AS,IN,IN-AR,,no,VEAN,IXV,VEAN,,,https://en.wikipedia.org/wiki/Along_Airport,
 26489,VEAT,medium_airport,Agartala - Maharaja Bir Bikram Airport,23.886999,91.240402,46,AS,IN,IN-TR,Agartala,yes,VEAT,IXA,VEAT,,,https://en.wikipedia.org/wiki/Agartala_Airport,"Singerbhil Airport, Agartala Air Force Station"
+29689,VEBA,small_airport,Behala Airport,22.50423,88.293427,10,AS,IN,IN-WB,Kolkata,no,VEBA,,VEBA,,,https://en.wikipedia.org/wiki/Behala_Airport,Parnasree
 26491,VEBD,medium_airport,Bagdogra Airport,26.68120002746582,88.32859802246094,412,AS,IN,IN-WB,Siliguri,yes,VEBD,IXB,VEBD,,http://aai.aero/allAirports/bagdogra_generalinfo.jsp,https://en.wikipedia.org/wiki/Bagdogra_Airport,Bagdogra Air Force Station
 32206,VEBG,small_airport,Balurghat Airport,25.2617,88.795601,78,AS,IN,IN-WB,Balurghat,no,VEBG,RGH,VEBG,,,https://en.wikipedia.org/wiki/Balurghat_Airport,
 26492,VEBI,medium_airport,Shillong Airport,25.70359992980957,91.97869873046875,2910,AS,IN,IN-ML,Shillong,yes,VEBI,SHL,VEBI,,,https://en.wikipedia.org/wiki/Shillong_Airport,"Barapani Airport, Barapani Air Force Station, Umroi Airport"
+26493,VEBK,small_airport,Bokaro Airport,23.643499,86.148903,715,AS,IN,IN-BR,,no,VEBK,,VEBK,,,https://en.wikipedia.org/wiki/Bokaro_Airport,
+340009,VEBM,small_airport,Berhampur Rangeilunda Airport,19.2975,84.876944,100,AS,IN,IN-OR,Berhampur (Brahmapur),no,VEBP,,VEBM,,,https://en.wikipedia.org/wiki/Berhampur_Airport,"Brahmapur, Rangeilunda"
 26545,VEBN,medium_airport,Lal Bahadur Shastri Airport,25.452129,82.861805,266,AS,IN,IN-UP,Varanasi,yes,VEBN,VNS,VEBN,,https://www.aai.aero/en/airports/varanasi,https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri_Airport,"VIBN, Babatpur Airport, Varanasi Airport"
-26494,VEBS,medium_airport,Biju Patnaik Airport,20.244400024399997,85.8178024292,138,AS,IN,IN-OR,Bhubaneswar,yes,VEBS,BBI,VEBS,,http://aai.aero/allAirports/bhubaneshwar_generalinfo.jsp,https://en.wikipedia.org/wiki/Biju_Patnaik_Airport,
+26494,VEBS,medium_airport,Biju Patnaik International Airport,20.2444,85.817802,138,AS,IN,IN-OR,Bhubaneswar,yes,VEBS,BBI,VEBS,,http://aai.aero/allAirports/bhubaneshwar_generalinfo.jsp,https://en.wikipedia.org/wiki/Biju_Patnaik_Airport,
 26435,VEBU,medium_airport,Bilaspur Airport,21.9884,82.111,899,AS,IN,IN-CT,Bilaspur,yes,VEBU,PAB,VEBU,,,https://en.wikipedia.org/wiki/Bilaspur_Airport,VABI
+26495,VECA,small_airport,Chabua Air Force Station,27.4622,95.117699,367,AS,IN,IN-AS,Chabua,no,VECA,,VECA,,,https://en.wikipedia.org/wiki/Chabua_Air_Force_Station,
 26496,VECC,large_airport,Netaji Subhash Chandra Bose International Airport,22.654699,88.446701,16,AS,IN,IN-WB,Kolkata,yes,VECC,CCU,VECC,,https://www.nscbiairport.com/,https://en.wikipedia.org/wiki/Netaji_Subhash_Chandra_Bose_International_Airport,"Calcutta, Kolkatta, Dum Dum Air Force Station"
+29775,VECK,small_airport,Chakulia Airport,22.463625,86.705219,430,AS,IN,IN-JH,,no,VECK,,VECK,,,https://en.wikipedia.org/wiki/Chakulia_Airport,
 26497,VECO,small_airport,Cooch Behar Airport,26.3305,89.467201,138,AS,IN,IN-WB,Cooch Behar,no,VECO,COH,VECO,,,https://en.wikipedia.org/wiki/Cooch_Behar_Airport,
 525147,VECT,small_airport,Chitrakoot Airport,25.167694,80.9358,1050,AS,IN,IN-UP,Chitrakoot,no,,CWK,VECT,,,https://en.wikipedia.org/wiki/Chitrakoot_Airport,
 26498,VEDB,medium_airport,Dhanbad Airport,23.834,86.425301,847,AS,IN,IN-BR,,no,VEDB,DBD,VEDB,,,https://en.wikipedia.org/wiki/Dhanbad_Airport,
 317982,VEDG,medium_airport,Kazi Nazrul Islam Airport,23.6225,87.243,300,AS,IN,IN-WB,Durgapur,yes,VEDG,RDP,VEDG,,,https://en.wikipedia.org/wiki/Kazi_Nazrul_Islam_Airport,"Andal Airport, Durgapur Airport"
 3319,VEDH,medium_airport,Darbhanga Airport,26.192801,85.916901,156,AS,IN,IN-BR,Darbhanga,yes,VEDH,DBR,VEDH,VEDH,,https://en.wikipedia.org/wiki/Darbhanga_Airport,
 312234,VEDO,small_airport,Deoghar Airport,24.446842,86.704955,361,AS,IN,IN-JH,Deoghar,yes,VEDO,DGH,VEDO,,https://www.aai.aero/en/airports/deoghar,https://en.wikipedia.org/wiki/Deoghar_Airport,
+26499,VEDX,small_airport,Kalaikunda Air Force Station,22.3395,87.2145,200,AS,IN,IN-WB,,no,VEDX,,VEDX,,,https://en.wikipedia.org/wiki/Kalaikunda_Air_Force_Station,VE60
 44474,VEDZ,small_airport,Daporijo Airport,27.985500335699996,94.22280120850002,750,AS,IN,IN-AR,Daporijo,no,VEDZ,DEP,VEDZ,,,https://en.wikipedia.org/wiki/Daporijo_Airport,"Deparijo, Daparizo, Deparizo, DAE"
 26500,VEGK,medium_airport,Gorakhpur Airport,26.739700317399997,83.4496994019,259,AS,IN,IN-UP,Gorakhpur,yes,VEGK,GOP,VEGK,,http://www.aai.aero/allAirports/gorakhpur.jsp,https://en.wikipedia.org/wiki/Gorakhpur_Airport,Gorakhpur Air Force Station
 26501,VEGT,medium_airport,Lokpriya Gopinath Bordoloi International Airport,26.10610008239746,91.58589935302734,162,AS,IN,IN-AS,Guwahati,yes,VEGT,GAU,VEGT,,http://aai.aero/guwahati/index.jsp,https://en.wikipedia.org/wiki/Lokpriya_Gopinath_Bordoloi_International_Airport,"Borjhar Airport, Mountain Shadow Air Force Station"
 26502,VEGY,medium_airport,Gaya Airport,24.744301,84.951202,380,AS,IN,IN-BR,Gaya,yes,VEGY,GAY,VEGY,,,https://en.wikipedia.org/wiki/Gaya_Airport,
+26503,VEHK,small_airport,Hirakud Airport,21.5802,84.005699,658,AS,IN,IN-OR,Sambalpur,no,VEHK,,VEHK,,,https://en.wikipedia.org/wiki/Hirakud_Airstrip,
+3312,VEHX,medium_airport,Hashimara Air Force Station,26.698299,89.369102,340,AS,IN,IN-WB,Jalpaiguri,no,VEHX,,VEHX,VE44,,https://en.wikipedia.org/wiki/Hasimara_Air_Force_Station,
 26504,VEIM,medium_airport,Imphal Airport,24.7600002289,93.896697998,2540,AS,IN,IN-MN,Imphal,yes,VEIM,IMF,VEIM,,http://www.aai.aero/allAirports/imphal_gen.jsp,https://en.wikipedia.org/wiki/Imphal_Airport,
 26505,VEJH,small_airport,Jharsuguda Airport,21.9135,84.0504,751,AS,IN,IN-OR,,yes,VEJH,JRG,VEJH,,,https://en.wikipedia.org/wiki/Jharsuguda_Airport,
-32183,VEJP,small_airport,Jeypore Airport,18.879999,82.552002,1952,AS,IN,IN-OR,Jeypore,no,VEJP,PYB,VEJP,,,https://en.wikipedia.org/wiki/Jeypore_Airport,"Jeypur, Jaypur"
-26506,VEJS,medium_airport,Sonari Airport,22.813786,86.169739,475,AS,IN,IN-JH,Jamshedpur,no,VEJS,IXW,VEJS,,,https://en.wikipedia.org/wiki/Sonari_Airport,
-26507,VEJT,medium_airport,Jorhat Airport,26.7315006256,94.1754989624,311,AS,IN,IN-AS,Jorhat,yes,VEJT,JRH,VEJT,,http://aai.aero/allAirports/jorhat_airpo_gi.jsp,https://en.wikipedia.org/wiki/Jorhat_Airport,"Rowriah Airport, Jorhat Air Force Station"
+32183,VEJP,small_airport,Jeypore Airport,18.879549,82.552478,1952,AS,IN,IN-OR,Jeypore,no,VEJP,PYB,VEJP,,,https://en.wikipedia.org/wiki/Jeypore_Airport,"Jeypur, Jaypur"
+26506,VEJS,medium_airport,Sonari Airport,22.813706,86.168981,475,AS,IN,IN-JH,Jamshedpur,no,VEJS,IXW,VEJS,,,https://en.wikipedia.org/wiki/Sonari_Airport,
+26507,VEJT,medium_airport,Jorhat Airport,26.730456,94.175416,311,AS,IN,IN-AS,Jorhat,yes,VEJT,JRH,VEJT,,http://aai.aero/allAirports/jorhat_airpo_gi.jsp,https://en.wikipedia.org/wiki/Jorhat_Airport,"Rowriah Airport, Jorhat Air Force Station"
+599962,VEKG,small_airport,Kishanganj Airport,26.075836,87.93965,139,AS,IN,IN-BR,Kishanganj,no,VEKG,,VEKG,,,,
+599963,VEKH,heliport,Katihar Heliport,25.614599,87.555376,111,AS,IN,IN-BR,,no,VEKH,,VEKH,,,,
 350147,VEKI,medium_airport,Kushinagar International Airport,26.776534,83.889214,266,AS,IN,IN-UP,Kushinagar,no,VEKI,KBK,VEKI,,,https://en.wikipedia.org/wiki/Kushinagar_International_Airport,
+309893,VEKJ,small_airport,Kendujhar Airport,21.696667,85.581667,,AS,IN,IN-OR,Gopinathapur,no,VEKJ,,VEKJ,,,https://en.wikipedia.org/wiki/Kendujhar_Airstrip,"Keonjhar, Raisuon"
 30005,VEKM,small_airport,Kamalpur Airport,24.134325,91.810769,131,AS,IN,IN-TR,Manik Bhandar,no,VEKM,IXQ,VEKM,,,https://en.wikipedia.org/wiki/Kamalpur_Airport,
 26508,VEKR,medium_airport,Kailashahar Airport,24.308657,92.00768,79,AS,IN,IN-TR,Kailashahar,no,VEKR,IXH,VEKR,,,https://en.wikipedia.org/wiki/Kailashahar_Airport,
 26509,VEKU,medium_airport,Silchar Airport,24.9129009247,92.97869873050001,352,AS,IN,IN-AS,Silchar,yes,VEKU,IXS,VEKU,,http://aai.aero/allAirports/silchar_general.jsp,https://en.wikipedia.org/wiki/Silchar_Airport,Kumbhigram Air Force Station
 31691,VEKW,small_airport,Khowai Airport,24.061899,91.603897,95,AS,IN,IN-TR,Khowai,no,VEKW,IXN,VEKW,,,https://en.wikipedia.org/wiki/Khowai_Airport,
 26510,VELP,medium_airport,Lengpui Airport,23.840599,92.619698,1398,AS,IN,IN-MZ,Aizawl (Lengpui),yes,VELP,AJL,VELP,,http://www.aai.aero/allAirports/lengpui.jsp,https://en.wikipedia.org/wiki/Lengpui_Airport,
-26511,VELR,medium_airport,Lilabari North Lakhimpur Airport,27.2955,94.097603,330,AS,IN,IN-AS,Lilabari,yes,VELR,IXI,VELR,,,https://en.wikipedia.org/wiki/Lilabari_Airport,
+26511,VELR,medium_airport,Lilabari North Lakhimpur Airport,27.295682,94.097266,330,AS,IN,IN-AS,Lilabari,yes,VELR,IXI,VELR,,,https://en.wikipedia.org/wiki/Lilabari_Airport,
 31799,VEMH,small_airport,Malda Airport,25.01018,88.126917,79,AS,IN,IN-WB,Malda,no,VEMH,LDA,VEMH,,,https://en.wikipedia.org/wiki/Malda_Airport,English Bazar
 26512,VEMN,medium_airport,Dibrugarh Airport,27.4839000702,95.0168991089,362,AS,IN,IN-AS,Dibrugarh,yes,VEMN,DIB,VEMN,,,https://en.wikipedia.org/wiki/Dibrugarh_Airport,Mohanbari Air Force Station
 26513,VEMR,medium_airport,Dimapur Airport,25.883899688699998,93.77110290530001,487,AS,IN,IN-NL,Dimapur,yes,VEMR,DMU,VEMR,,,https://en.wikipedia.org/wiki/Dimapur_Airport,
@@ -8849,23 +8861,23 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26523,VEVZ,medium_airport,Visakhapatnam Airport,17.723506,83.227729,15,AS,IN,IN-AP,Visakhapatnam,yes,VOVZ,VTZ,VOVZ,,http://www.vizagairport.in/,https://en.wikipedia.org/wiki/Visakhapatnam_Airport,"VEVZ, Visakhapatnam, Vizag"
 26524,VEZO,medium_airport,Ziro Airport,27.588301,93.828102,5403,AS,IN,IN-AR,Ziro,no,VEZO,ZER,VEZO,,,https://en.wikipedia.org/wiki/Zero_Airport,
 520135,VG-0002,seaplane_base,Road Town Seaplane Base,18.418273,-64.617369,0,NA,VG,VG-U-A,Tortola,no,,RAD,,,,,
-26525,VGBR,medium_airport,Barisal Airport,22.801000595092773,90.30120086669922,23,AS,BD,BD-1,Barisal,yes,VGBR,BZL,VGBR,,,https://en.wikipedia.org/wiki/Barisal_Airport,
-26526,VGCB,medium_airport,Cox's Bazar Airport,21.452199935913086,91.96389770507812,12,AS,BD,BD-2,Cox's Bazar,yes,VGCB,CXB,VGCB,,,https://en.wikipedia.org/wiki/Cox's_Bazar_Airport,
-30832,VGCM,small_airport,Comilla Airport,23.437201,91.189697,25,AS,BD,BD-2,Comilla,no,VGCM,CLA,VGCM,,,https://en.wikipedia.org/wiki/Comilla_Airport,
+26525,VGBR,medium_airport,Barisal Airport,22.801001,90.301201,23,AS,BD,BD-1,Barisal,yes,VGBR,BZL,VGBR,,,https://en.wikipedia.org/wiki/Barisal_Airport,
+26526,VGCB,medium_airport,Cox's Bazar Airport,21.457517,91.963263,12,AS,BD,BD-2,Cox's Bazar,yes,VGCB,CXB,VGCB,,,https://en.wikipedia.org/wiki/Cox's_Bazar_Airport,
+30832,VGCM,small_airport,Comilla Airport,23.440133,91.188685,25,AS,BD,BD-2,Comilla,no,VGCM,CLA,VGCM,,,https://en.wikipedia.org/wiki/Comilla_Airport,
 26527,VGEG,medium_airport,Shah Amanat International Airport,22.249599,91.813301,12,AS,BD,BD-2,Chattogram (Chittagong),yes,VGEG,CGP,VGEG,,,https://en.wikipedia.org/wiki/Shah_Amanat_International_Airport,M.A. Hannan International Airport
 26534,VGHS,large_airport,Hazrat Shahjalal International Airport,23.843347,90.397783,30,AS,BD,BD-3,Dhaka,yes,VGHS,DAC,VGHS,5500,,https://www.linkedin.com/in/md-shamim-islam-109925358/,"VGZR, Zia International Airport, Dacca International Airport, Hazrat Shahjalal International Airport"
-26528,VGIS,medium_airport,Ishurdi Airport,24.1525,89.0494,45,AS,BD,BD-5,Ishurdi,no,VGIS,IRD,VGIS,,,https://en.wikipedia.org/wiki/Ishwardi_Airport,
+26528,VGIS,medium_airport,Ishurdi Airport,24.1525,89.0494,45,AS,BD,BD-5,Ishurdi,no,VGIS,IRD,VGIS,,,https://en.wikipedia.org/wiki/Ishwardi_Airport,Ishwardi
 26529,VGJR,medium_airport,Jessore Airport,23.1838,89.160797,20,AS,BD,BD-4,Jashore (Jessore),yes,VGJR,JSR,VGJR,,,https://en.wikipedia.org/wiki/Jessore_Airport,
 31831,VGLM,small_airport,Lalmonirhat Airport,25.887624,89.431254,106,AS,BD,BD-5,Lalmonirhat,no,VGLM,,VGLM,,,https://en.wikipedia.org/wiki/Lalmonirhat_Airport,
-26530,VGRJ,medium_airport,Shah Mokhdum Airport,24.43720054626465,88.61650085449219,64,AS,BD,BD-5,Rajshahi,yes,VGRJ,RJH,VGRJ,,,https://en.wikipedia.org/wiki/Shah_Makhdum_Airport,
-26531,VGSD,medium_airport,Saidpur Airport,25.759199142456055,88.90889739990234,125,AS,BD,BD-5,Saidpur,yes,VGSD,SPD,VGSD,,,https://en.wikipedia.org/wiki/Saidpur_Airport,
-32455,VGSG,small_airport,Thakurgaon Airport,26.016399,88.403603,176,AS,BD,BD-5,Thakurgaon,no,VGSG,TKR,VGSG,,,https://en.wikipedia.org/wiki/Thakurgaon_Airport,
+26530,VGRJ,medium_airport,Shah Mokhdum Airport,24.437201,88.616501,64,AS,BD,BD-5,Rajshahi,yes,VGRJ,RJH,VGRJ,,,https://en.wikipedia.org/wiki/Shah_Makhdum_Airport,
+26531,VGSD,medium_airport,Saidpur Airport,25.759199,88.908897,125,AS,BD,BD-5,Saidpur,yes,VGSD,SPD,VGSD,,,https://en.wikipedia.org/wiki/Saidpur_Airport,
+32455,VGSG,small_airport,Thakurgaon Airport,26.016378,88.402092,176,AS,BD,BD-5,Thakurgaon,no,VGSG,TKR,VGSG,,,https://en.wikipedia.org/wiki/Thakurgaon_Airport,
 32744,VGSH,small_airport,Shamshernagar Airport,24.398333,91.916944,56,AS,BD,BD-6,Shamshernagar,no,VGSH,ZHM,VGSH,,,https://en.wikipedia.org/wiki/Shamshernagar_STOLport,
 26532,VGSY,medium_airport,Osmany International Airport,24.963832,91.864843,50,AS,BD,BD-6,Sylhet,yes,VGSY,ZYL,VGSY,,,https://en.wikipedia.org/wiki/Osmani_International_Airport,
-26533,VGTJ,small_airport,Tejgaon Airport,23.778799,90.382698,24,AS,BD,BD-3,Dhaka,no,VGTJ,,VGTJ,,,https://en.wikipedia.org/wiki/Tejgaon_Airport,
+26533,VGTJ,small_airport,Tejgaon Airport,23.778507,90.382719,24,AS,BD,BD-3,Dhaka,no,VGTJ,,VGTJ,,,https://en.wikipedia.org/wiki/Tejgaon_Airport,
 26535,VHHH,large_airport,Hong Kong International Airport,22.308901,113.915001,28,AS,HK,HK-NT,Hong Kong,yes,VHHH,HKG,VHHH,,http://www.hongkongairport.com/,https://en.wikipedia.org/wiki/Hong_Kong_International_Airport,"Chek Lap Kok Airport, 赤鱲角機場"
 26536,VHSK,medium_airport,Shek Kong Air Base,22.4366,114.080002,50,AS,HK,HK-NT,Islands,no,VHSK,,VHSK,,,https://en.wikipedia.org/wiki/Shek_Kong_Airfield,"Yuen Long Airport, RAF Sek Kong, 石崗機場"
-43192,VHST,heliport,Shun Tak Heliport,22.288868,114.152369,107,AS,HK,HK-HK,Central and Western,yes,VHST,HHP,VHST,,http://www.skyshuttlehk.com/,"https://en.wikipedia.org/wiki/Hong_Kong-Macau_Ferry_Pier,_Hong_Kong#Heliport",
+43192,VHST,heliport,Shun Tak Heliport,22.288868,114.152369,107,AS,HK,HK-HK,Central and Western,yes,VHSS,HHP,VHSS,,http://www.skyshuttlehk.com/,"https://en.wikipedia.org/wiki/Hong_Kong-Macau_Ferry_Pier,_Hong_Kong#Heliport",
 25495,VI22,seaplane_base,Charlotte Amalie Harbor Seaplane Base,18.338204,-64.939675,,NA,VI,VI-ST,Charlotte Amalie,yes,,SPB,VI22,VI22,,https://en.wikipedia.org/wiki/Charlotte_Amalie_Harbor_Seaplane_Base,
 25496,VI32,seaplane_base,Christiansted Harbor Seaplane Base,17.7472,-64.704903,,NA,VI,VI-SC,Christiansted,yes,,SSB,VI32,VI32,,https://en.wikipedia.org/wiki/Christiansted_Harbor_Seaplane_Base,
 26537,VIAG,medium_airport,Agra Airport / Agra Air Force Station,27.157683,77.960942,551,AS,IN,IN-UP,Agra,yes,VIAG,AGR,VIAG,,,https://en.wikipedia.org/wiki/Agra_Airport,"Kheria Airport, Pandit Deen Dayal Upadhyay Airport, RAF Agra"
@@ -8923,7 +8935,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41567,VMI,medium_airport,Aeropuerto Nacional Doctor Juan Plate,-22.159371,-57.942395,280,SA,PY,PY-1,Puerto Vallemi,no,,VMI,SGVM,,,https://en.wikipedia.org/wiki/Dr._Juan_Plate_Airport,Aeropuerto Nacional Dr. Juan Plate
 26589,VMMC,large_airport,Macau International Airport,22.149599,113.592003,20,AS,MO,MO-CAR,Nossa Senhora do Carmo,yes,VMMC,MFM,VMMC,,http://www.macau-airport.gov.mo/en/index.php,https://en.wikipedia.org/wiki/Macau_International_Airport,澳門國際機場
 328642,VN-0012,heliport,Nước Mặn (Marble Mountain) Air Facility,16.028581,108.252851,29,AS,VN,VN-SCC,Da Nang,no,VVNM,,VVNM,,,https://en.wikipedia.org/wiki/Marble_Mountain_Air_Facility,"Da Nang East Airfield, Khuê Mỹ"
-430104,VN-0044,small_airport,Phu Giao Airport,11.30034,106.79325,,AS,VN,VN-SE,Phu Giao,no,,PHU,,,,,
 30760,VNBG,small_airport,Bajhang Airport,29.539,81.185402,4100,AS,NP,NP-P7,Bajhang,no,VNBG,BJH,VNBG,,,https://en.wikipedia.org/wiki/Bajhang_Airport,
 30706,VNBJ,small_airport,Bhojpur Airport,27.1474,87.050797,4000,AS,NP,NP-P1,Bhojpur,no,VNBJ,BHP,VNBJ,,,https://en.wikipedia.org/wiki/Bhojpur_Airport,
 30701,VNBL,small_airport,Baglung Airport,28.212799,83.666298,3320,AS,NP,NP-P4,Baglung,no,VNBL,BGL,VNBL,,,https://en.wikipedia.org/wiki/Baglung_Airport,
@@ -10117,6 +10128,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30679,ZBOW,medium_airport,Baotou Donghe Airport,40.560001,109.997002,3321,AS,CN,CN-15,Baotou,yes,ZBOW,BAV,ZBOW,,,https://en.wikipedia.org/wiki/Baotou_Airport,Erliban
 526860,ZBSG,small_airport,Shuozhou Zirun Airport,39.273241,112.691552,,AS,CN,CN-14,Shuozhou,no,ZBSG,SZH,ZBSG,,,https://en.wikipedia.org/wiki/Shuozhou_Zirun_Airport,
 27191,ZBSJ,medium_airport,Shijiazhuang Zhengding International Airport,38.280701,114.696999,233,AS,CN,CN-13,Shijiazhuang,yes,ZBSJ,SJW,ZBSJ,,,https://en.wikipedia.org/wiki/Shijiazhuang_Zhengding_International_Airport,Daguocun
+43975,ZBSN,small_airport,Tangshan Sannühe Airport,39.7178,118.002625,50,AS,CN,CN-13,Tangshan (Fengrun),yes,ZBSN,TVS,ZBSN,,,https://en.wikipedia.org/wiki/Tangshan_Sann%C3%BChe_Airport,"Tangshan Air Base, 唐山三女河机场"
 27192,ZBTJ,large_airport,Tianjin Binhai International Airport,39.124401092499994,117.346000671,10,AS,CN,CN-12,Tianjin,yes,ZBTJ,TSN,ZBTJ,,,https://en.wikipedia.org/wiki/Tianjin_Binhai_International_Airport,
 32440,ZBTL,medium_airport,Tongliao Airport,43.556702,122.199997,2395,AS,CN,CN-15,Tongliao,yes,ZBTL,TGO,ZBTL,,,https://en.wikipedia.org/wiki/Tongliao_Airport,
 327445,ZBUC,medium_airport,Ulanqab Jining Airport,41.130266,113.107274,,AS,CN,CN-15,Ulanqab,yes,,UCB,ZBUC,,,https://en.wikipedia.org/wiki/Ulanqab_Jining_Airport,
@@ -10398,3 +10410,4 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 44182,ZYXC,medium_airport,Xingcheng Air Base,40.580328,120.700374,30,AS,CN,CN-21,Huludao (Xingcheng),no,ZYXC,XEN,ZYXC,,,,
 27244,ZYYJ,medium_airport,Yanji Chaoyangchuan Airport,42.8828010559,129.451004028,624,AS,CN,CN-22,Yanji,yes,ZYYJ,YNJ,ZYYJ,,,https://en.wikipedia.org/wiki/Yanji_Chaoyangchuan_Airport,
 317861,ZYYK,medium_airport,Yingkou Lanqi Airport,40.542524,122.3586,,AS,CN,CN-21,Yingkou (Laobian),yes,ZYYK,YKH,ZYYK,,,https://en.wikipedia.org/wiki/Yingkou_Lanqi_Airport,
+599952,ZZ-0004,heliport,(Bogus)Jezero Crater(Location is India not Planet Mars),18.44,77.45,8530,AF,ZZ,ZZ-U-A,,no,JZRO,,,,,,
