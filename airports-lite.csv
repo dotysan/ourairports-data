@@ -1751,13 +1751,21 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2526,EHTW,medium_airport,Twente Airport,52.275833,6.889167,114,EU,NL,NL-OV,Enschede,no,EHTW,ENS,EHTW,,https://www.twente-airport.nl/,https://en.wikipedia.org/wiki/Enschede_Airport_Twente,
 2528,EHVK,medium_airport,Volkel Air Base,51.657222,5.707778,72,EU,NL,NL-NB,Uden,no,EHVK,UDE,EHVK,,http://www.defensie.nl/luchtmacht/luchtmachtbases/volkel/,https://en.wikipedia.org/wiki/Volkel_Air_Base,The Hague
 2529,EHWO,medium_airport,Woensdrecht Air Base,51.4491,4.34203,63,EU,NL,NL-NB,Hoogerheide,no,EHWO,WOE,EHWO,,http://www.defensie.nl/luchtmacht/luchtmachtbases/woensdrecht/,https://en.wikipedia.org/wiki/Woensdrecht_Air_Base,"BZM, Vliegbasis Woensdrecht"
+29213,EIAB,small_airport,Abbeyshrule Aerodrome,53.591373,-7.642947,195,EU,IE,IE-LD,Abbeyshrule,no,EIAB,,EIAB,,,https://en.wikipedia.org/wiki/Abbeyshrule_Aerodrome,
+594583,EIAH,heliport,Adona Heliport,53.442752,-6.26176,220,EU,IE,IE-D,Dublin,no,EIAH,,EIAH,,,,
+30992,EIBA,small_airport,Ballyboughal Aerodrome,53.505556,-6.237778,180,EU,IE,IE-D,Fingal,no,EIBB,,EIBB,,http://www.eibb.ie,,
 29214,EIBN,small_airport,Bantry Aerodrome,51.6772,-9.487123,7,EU,IE,IE-CO,Bantry,no,EIBN,BYT,EIBN,,,https://en.wikipedia.org/wiki/Bantry_Aerodrome,Beanntraí
+29215,EIBR,small_airport,Birr Aerodrome,53.070599,-7.897468,250,EU,IE,IE-OY,Birr,no,EIBR,,EIBR,,http://www.ormandflyingclub.com/,https://en.wikipedia.org/wiki/Birr_Aerodrome,Biorra
 29216,EIBT,small_airport,Belmullet Aerodrome,54.2228012085,-10.0307998657,150,EU,IE,IE-MO,Belmullet,no,EIBT,BLY,EIBT,,,https://en.wikipedia.org/wiki/Belmullet_Aerodrome,Béal an Mhuirthead
 27309,EICA,small_airport,Connemara Regional Airport,53.23030090332031,-9.467780113220215,70,EU,IE,IE-G,Inverin,yes,EICA,NNR,EICA,,http://www.aerarannislands.ie/,https://en.wikipedia.org/wiki/Aerfort_na_Minna,"Aerfort na Minna, Indreabhán"
 2530,EICK,medium_airport,Cork Airport,51.841301,-8.49111,502,EU,IE,IE-CO,Cork,yes,EICK,ORK,EICK,,http://www.corkairport.com/,https://en.wikipedia.org/wiki/Cork_Airport,Aerfort Chorcaí
+29218,EICL,small_airport,Clonbullogue Aerodrome,53.249657,-7.122746,240,EU,IE,IE-OY,Clonbullogue,no,EICL,,EICL,,http://www.skydive.ie/about/location.html,https://en.wikipedia.org/wiki/Clonbullogue_Aerodrome,
 2531,EICM,medium_airport,Galway Airport,53.300201,-8.94159,81,EU,IE,IE-G,Galway,no,EICM,,EICM,,http://www.galwayairport.com/,https://en.wikipedia.org/wiki/Galway_Airport,GWY
+29219,EICN,small_airport,Coonagh Aerodrome,52.6665,-8.68183,6,EU,IE,IE-LK,Limerick,no,EICN,,EICN,,,https://en.wikipedia.org/wiki/Coonagh_Aerodrome,
 2532,EIDL,medium_airport,Donegal Airport,55.0442008972168,-8.340999603271484,30,EU,IE,IE-DL,Donegal,yes,EIDL,CFN,EIDL,,http://www.donegalairport.ie/,https://en.wikipedia.org/wiki/Donegal_Airport,Gweedore
 2533,EIDW,large_airport,Dublin Airport,53.428713,-6.262121,242,EU,IE,IE-D,Dublin,yes,EIDW,DUB,EIDW,,http://www.dublinairport.com/,https://en.wikipedia.org/wiki/Dublin_Airport,Aerfort Bhaile Átha Cliath
+312096,EIFR,heliport,Finner Camp Heliport,54.49273,-8.24091,107,EU,IE,IE-DL,Ballyshannon,no,EIFR,,EIFR,,,https://en.wikipedia.org/wiki/Finner_Camp,
+315675,EIHH,small_airport,Navan Airfield,53.695885,-6.654085,250,EU,IE,IE-MH,Navan,no,EIHH,,EIHH,,http://www.navanairfield.com/,,
 29221,EIIM,small_airport,Inishmore Aerodrome,53.1067008972168,-9.653610229492188,24,EU,IE,IE-G,Inis Mór,yes,EIIM,IOR,EIIM,,,https://en.wikipedia.org/wiki/Inishmore_Aerodrome,Aran Islands
 29222,EIIR,small_airport,Inisheer Aerodrome,53.064701,-9.5109,40,EU,IE,IE-G,Inis Oírr,yes,EIIR,INQ,EIIR,,,https://en.wikipedia.org/wiki/Inisheer_Aerodrome,Aran Islands
 29224,EIKK,small_airport,Kilkenny Airport,52.65079879760742,-7.296110153198242,319,EU,IE,IE-KK,Kilkenny,no,EIKK,KKY,EIKK,,http://www.kilkennyflying-glidingclub.com/,https://en.wikipedia.org/wiki/Kilkenny_Airport,EIKL
@@ -3314,6 +3322,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41397,ID-RKI,small_airport,Mentawai Airport,-2.094167,99.699167,26,AS,ID,ID-SB,Sipura Island,yes,,RKI,WIEB,RKO,,https://en.wikipedia.org/wiki/Rokot_Airport,"WIBR, Rokot Sipora"
 41403,ID-TMY,small_airport,Tiom Airport,-3.9256,138.4555,6931,AS,ID,ID-PP,Tiom-Papua Island,no,,TMY,WABH,TMI,http://server-aplikasi.dephub.go.id/?id/bandara/detail/138,,WAJH
 29639,ID-ZGP,medium_airport,Bilorai Airport,-3.739503,137.031183,7348,AS,ID,ID-PT,Bilogai,yes,,UGU,WAYB,ZGP,https://flightaware.com/live/airport/WAYB,,"WABV, Zugapa, Bilogai-Sugapa"
+316745,IE-0004,small_airport,Dolly's Grove Airfield,53.422468,-6.546232,256,EU,IE,IE-MH,Staffordstown,no,EIDG,,EIDG,,,,
 340310,IL-0007,small_airport,Rishon Lezion Airfield,31.9672,34.7536,60,AS,IL,IL-M,Rishon Lezion,no,LLRS,,LLRS,,,https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%97%D7%AA_%D7%A8%D7%90%D7%A9%D7%95%D7%9F_%D7%9C%D7%A6%D7%99%D7%95%D7%9F,
 312936,IMA,small_airport,Iamalele Airport,-9.5107,150.5246,40,OC,PG,PG-MBA,"Iamalele, Fergusson Island",no,,IMA,,IAM,,,
 311990,IMG,small_airport,Inhaminga Airport,-18.41,35.0045,1072,AF,MZ,MZ-S,Inhaminga,no,,IMG,,,,,
@@ -6271,6 +6280,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4974,NIUE,medium_airport,Niue International Airport,-19.079030990600586,-169.92559814453125,209,OC,NU,NU-U-A,Alofi,yes,NIUE,IUE,NIUE,,,https://en.wikipedia.org/wiki/Niue_International_Airport,Hanan International Airport
 344104,NJJ,small_airport,Nenjiang Melgen Airport,49.236372,125.337052,800,AS,CN,CN-23,Heihe,no,,NJJ,ZYNJ,,,,
 311151,NKD,small_airport,Sinak Airport,-3.822249,137.839208,7299,AS,ID,ID-PT,Sinak,no,WABS,NKD,WABS,SIN,,,WT10
+299505,NL-0024,small_airport,Middenmeer Airfield,52.814876,5.021245,-14,EU,NL,NL-NH,Middenmeer,no,EHMM,,EHMM,,https://www.vliegveldmiddenmeer.nl/,https://en.wikipedia.org/wiki/Middenmeer_Aerodrome,
 29212,NL-0148,heliport,Air Operations Control Station Nieuw Milligen Heliport,52.236685,5.749192,171,EU,NL,NL-GE,Uddel,no,EHMC,,EHMC,,http://www.defensie.nl/luchtmacht/luchtmachtbases/aocs_nieuw_milligen/,https://en.wikipedia.org/wiki/Air_Operations_Control_Station_Nieuw-Milligen,
 316547,NLH,medium_airport,Ninglang Luguhu Airport,27.5403,100.7593,10804,AS,CN,CN-53,Ninglang,yes,ZPNL,NLH,ZPNL,,,https://en.wikipedia.org/wiki/Ninglang_Luguhu_Airport,
 31215,NLWF,small_airport,Pointe Vele Airport,-14.311565,-178.066492,20,OC,WF,WF-U-A,Futuna Island,yes,NLWF,FUT,NLWF,,,https://en.wikipedia.org/wiki/Pointe_Vele_Airport,
