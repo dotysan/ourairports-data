@@ -15044,7 +15044,7 @@
 388,"BR-2182","medium_airport","Russas - João de Deus Regional Airport",-4.94727,-38.008202,115,"SA","BR","BR-CE","Russas","no",,,,"CE0012",,,"SNRS"
 406,"BR-2183","small_airport","Fazenda Veredão Airport",-15.655382,-41.654114,2559,"SA","BR","BR-MG","Taiobeiras","no",,,,,,,"SNTV"
 427,"BR-2184","small_airport","Poções Airport",-14.522688,-40.345001,2772,"SA","BR","BR-BA","Poções","no",,,,,,,"SNZP"
-434,"BR-2185","small_airport","Estrela Dalva Airport",-20.674999,-56.629645,1207,"SA","BR","BR-MS","Bodoquena","no",,,,,,,"SSBB"
+434,"BR-2185","small_airport","Fazenda São Cristóvão Airport",-20.674999,-56.629645,1227,"SA","BR","BR-MS","Bodoquena","no",,,"SD03","MS0769",,,"SSBB, Estrela Dalva"
 435,"BR-2186","small_airport","Camapuã Airport",-19.5984,-54.021099,1848,"SA","BR","BR-MS","Camapuã","no",,,,"MS0014",,,"SSBE"
 453,"BR-2187","small_airport","Fazenda Itamaratí Airport",-22.1882,-55.577801,1837,"SA","BR","BR-MS","Ponta Porã","no",,,,,,,"SSFI"
 457,"BR-2188","closed","General Canrobert Pereira da Costa Airport",-20.4533,-55.757599,566,"SA","BR","BR-MS","Aquidauana","no",,,,,,,"SSGC"
@@ -15626,7 +15626,7 @@
 37060,"BR-2765","small_airport","Castanheirinho Airstrip",-7.093676,-56.851664,623,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SNDI"
 37061,"BR-2766","small_airport","Santana dos Brejos Airport",-12.976111412048,-44.039165496826,1759,"SA","BR","BR-BA","Santana Dos Brejos","no",,,,"SNDJ",,,"SNDJ"
 37063,"BR-2767","small_airport","Palmares Airport",-2.2602779865265,-48.598331451416,218,"SA","BR","BR-PA","Acará","no",,,,"SNDP",,,"SNDP"
-37067,"BR-2768","small_airport","Piçarrão Airport",-18.721389770508,-47.86555480957,3166,"SA","BR","BR-MG","Estrela Do Sul","no",,,,"SNEA",,,"SNEA"
+37067,"BR-2768","small_airport","Piçarrão Airport",-18.726931,-47.869263,3166,"SA","BR","BR-MG","Estrela do Sul","no",,,,,,,"SNEA"
 37071,"BR-2769","small_airport","Porquinho Airstrip",-5.179351,-57.621524,495,"SA","BR","BR-PA","Itaituba","no",,,"SSOP","PA0128",,,"SNEH, Mineração Porquinho, Porquinho Mine"
 37072,"BR-2770","small_airport","Monte Verde Airport",-22.860002,-46.037478,5102,"SA","BR","BR-MG","Camanducaia","no",,,,,,,"SNEJ"
 37073,"BR-2771","small_airport","Moria Airport",-16.879745,-46.233015,1201,"SA","BR","BR-MG","Dom Bosco","no",,,,,,,"SNEK"
@@ -16127,6 +16127,10 @@
 599458,"BR-3267","small_airport","São José dos Bandeirantes Airport",-13.708849,-50.80089,800,"SA","BR","BR-GO","Nova Crixás","no",,,"SD05","GO0227",,,
 599462,"BR-3268","small_airport","Agriter Agronegócios Airport",-13.0484,-57.791747,1502,"SA","BR","BR-MT",,"no",,,"SD13","MT1136",,,
 599463,"BR-3269","small_airport","Fazenda Próspera Airport",-11.222681,-56.353686,1407,"SA","BR","BR-MT","Tabaporã","no",,,"SD57","MT0541",,,
+599968,"BR-3270","small_airport","Agro Basso Airport",-11.93736,-45.872058,2569,"SA","BR","BR-BA","Luís Eduardo Magalhães","no",,,"SD02","BA0301",,,
+599970,"BR-3271","small_airport","Americano Brito Airport",-3.25825,-39.342575,108,"SA","BR","BR-CE","Trairi","no",,,"SD00","CE0180",,,
+599991,"BR-3272","small_airport","PR Empreendimentos Agrícolas Airport",-8.068472,-47.46485,899,"SA","BR","BR-TO","Goiatins","no",,,"SD06","TO0158",,,
+599994,"BR-3273","small_airport","Fazenda Ceres Airport",-13.182736,-45.636497,2618,"SA","BR","BR-BA","São Desidério","no",,,"SD07","BA0502",,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -24042,26 +24046,27 @@
 43210,"EHVL","heliport","Vlieland Heliport",53.296912,5.085601,37,"EU","NL","NL-FR","Oost-Vlieland","no",,,"EHVD",,,"https://en.wikipedia.org/wiki/Vlieland_Heliport",
 2529,"EHWO","medium_airport","Woensdrecht Air Base",51.4491,4.34203,63,"EU","NL","NL-NB","Hoogerheide","no","EHWO","WOE","EHWO",,"http://www.defensie.nl/luchtmacht/luchtmachtbases/woensdrecht/","https://en.wikipedia.org/wiki/Woensdrecht_Air_Base","BZM, Vliegbasis Woensdrecht"
 43208,"EHYP","heliport","IJmuiden Heliport",52.469887,4.593444,1,"EU","NL","NL-NH","Ĳmuiden","no",,,"EHYP",,,"https://en.wikipedia.org/wiki/IJmuiden_Heliport","Ĳmuiden"
-29213,"EIAB","small_airport","Abbeyshrule Aerodrome",53.59170150756836,-7.645559787750244,195,"EU","IE","IE-LD","Abbeyshrule","no",,,"EIAB",,,"https://en.wikipedia.org/wiki/Abbeyshrule_Aerodrome",
+29213,"EIAB","small_airport","Abbeyshrule Aerodrome",53.591373,-7.642947,195,"EU","IE","IE-LD","Abbeyshrule","no","EIAB",,"EIAB",,,"https://en.wikipedia.org/wiki/Abbeyshrule_Aerodrome",
 594589,"EIAC","heliport","Custume Barracks Heliport",53.42408,-7.947587,135,"EU","IE","IE-WH","Athlone","no",,,"EIAC",,,"https://en.wikipedia.org/wiki/Custume_Barracks",
-594583,"EIAH","heliport","Adona Heliport",53.442752,-6.26176,220,"EU","IE","IE-D","Dublin","no",,,"EIAH",,,,
-30992,"EIBA","small_airport","Ballyboughal Aerodrome",53.5055556,-6.2377778,180,"EU","IE","IE-D","Fingal","no",,,"EIBB",,"http://www.eibb.ie",,
+594583,"EIAH","heliport","Adona Heliport",53.442752,-6.26176,220,"EU","IE","IE-D","Dublin","no","EIAH",,"EIAH",,,,
+30992,"EIBA","small_airport","Ballyboughal Aerodrome",53.505556,-6.237778,180,"EU","IE","IE-D","Fingal","no","EIBB",,"EIBB",,"http://www.eibb.ie",,
 517755,"EIBF","small_airport","Benfield Aerodrome",53.16147,-7.26737,260,"EU","IE","IE-OY","Benfield","no",,,"EIBF",,,,
 29214,"EIBN","small_airport","Bantry Aerodrome",51.6772,-9.487123,7,"EU","IE","IE-CO","Bantry","no","EIBN","BYT","EIBN",,,"https://en.wikipedia.org/wiki/Bantry_Aerodrome","Beanntraí"
-29215,"EIBR","small_airport","Birr Aerodrome",53.07059860229492,-7.898330211639404,250,"EU","IE","IE-OY","Birr","no",,,"EIBR",,"http://www.ormandflyingclub.com/","https://en.wikipedia.org/wiki/Birr_Aerodrome","Biorra"
+29215,"EIBR","small_airport","Birr Aerodrome",53.070599,-7.897468,250,"EU","IE","IE-OY","Birr","no","EIBR",,"EIBR",,"http://www.ormandflyingclub.com/","https://en.wikipedia.org/wiki/Birr_Aerodrome","Biorra"
 29216,"EIBT","small_airport","Belmullet Aerodrome",54.2228012085,-10.0307998657,150,"EU","IE","IE-MO","Belmullet","no","EIBT","BLY","EIBT",,,"https://en.wikipedia.org/wiki/Belmullet_Aerodrome","Béal an Mhuirthead"
 27309,"EICA","small_airport","Connemara Regional Airport",53.23030090332031,-9.467780113220215,70,"EU","IE","IE-G","Inverin","yes","EICA","NNR","EICA",,"http://www.aerarannislands.ie/","https://en.wikipedia.org/wiki/Aerfort_na_Minna","Aerfort na Minna, Indreabhán"
 594591,"EICD","small_airport","Craddenstown Airfield",53.542749,-7.061153,256,"EU","IE","IE-WH","Craddanstown","no",,,"EICD",,,,"Raharney"
 2530,"EICK","medium_airport","Cork Airport",51.841301,-8.49111,502,"EU","IE","IE-CO","Cork","yes","EICK","ORK","EICK",,"http://www.corkairport.com/","https://en.wikipedia.org/wiki/Cork_Airport","Aerfort Chorcaí"
-29218,"EICL","small_airport","Clonbullogue Aerodrome",53.249656677246094,-7.122745513916016,240,"EU","IE","IE-OY","Clonbullogue","no",,,"EICL",,"http://www.skydive.ie/about/location.html","https://en.wikipedia.org/wiki/Clonbullogue_Aerodrome",
+29218,"EICL","small_airport","Clonbullogue Aerodrome",53.249657,-7.122746,240,"EU","IE","IE-OY","Clonbullogue","no","EICL",,"EICL",,"http://www.skydive.ie/about/location.html","https://en.wikipedia.org/wiki/Clonbullogue_Aerodrome",
 2531,"EICM","medium_airport","Galway Airport",53.300201,-8.94159,81,"EU","IE","IE-G","Galway","no","EICM",,"EICM",,"http://www.galwayairport.com/","https://en.wikipedia.org/wiki/Galway_Airport","GWY"
-29219,"EICN","small_airport","Coonagh Aerodrome",52.6665,-8.68183,6,"EU","IE","IE-LK","Limerick","no",,,"EICN",,,"https://en.wikipedia.org/wiki/Coonagh_Aerodrome",
+29219,"EICN","small_airport","Coonagh Aerodrome",52.6665,-8.68183,6,"EU","IE","IE-LK","Limerick","no","EICN",,"EICN",,,"https://en.wikipedia.org/wiki/Coonagh_Aerodrome",
 2532,"EIDL","medium_airport","Donegal Airport",55.0442008972168,-8.340999603271484,30,"EU","IE","IE-DL","Donegal","yes","EIDL","CFN","EIDL",,"http://www.donegalairport.ie/","https://en.wikipedia.org/wiki/Donegal_Airport","Gweedore"
 2533,"EIDW","large_airport","Dublin Airport",53.428713,-6.262121,242,"EU","IE","IE-D","Dublin","yes","EIDW","DUB","EIDW",,"http://www.dublinairport.com/","https://en.wikipedia.org/wiki/Dublin_Airport","Aerfort Bhaile Átha Cliath"
 43999,"EIER","small_airport","Erinagh Airfield",52.8125,-8.282222,155,"EU","IE","IE-TA","Nenagh","no",,,"EIER",,,,
-312096,"EIFR","heliport","Finner Camp Heliport",54.49273,-8.24091,107,"EU","IE","IE-DL","Ballyshannon","no",,,"EIFR",,,,
+312096,"EIFR","heliport","Finner Camp Heliport",54.49273,-8.24091,107,"EU","IE","IE-DL","Ballyshannon","no","EIFR",,"EIFR",,,"https://en.wikipedia.org/wiki/Finner_Camp",
+599987,"EIGM","closed","Gormanston Camp Airfield",53.645325,-6.23001,59,"EU","IE","IE-MH","Gormanston","no",,,,,,"https://en.wikipedia.org/wiki/Gormanston_Camp","RAF Gormanston, EIGM"
 29906,"EIGN","small_airport","Gowran Grange Aerodrome",53.1786,-6.63528,489,"EU","IE","IE-KE","Swordlestown","no",,,"EIGN",,,"https://en.wikipedia.org/wiki/Gowran_Grange_Airfield",
-315675,"EIHH","small_airport","Navan Airfield",53.695489,-6.654094,250,"EU","IE","IE-MH","Navan","no",,,"EIHH",,"http://www.navanairfield.com/",,
+315675,"EIHH","small_airport","Navan Airfield",53.695885,-6.654085,250,"EU","IE","IE-MH","Navan","no","EIHH",,"EIHH",,"http://www.navanairfield.com/",,
 29220,"EIHN","small_airport","Hacketstown Aerodrome",52.85499954223633,-6.547220230102539,610,"EU","IE","IE-CW","Hacketstown","no",,,"EIHN",,,,"Baile Haicéid"
 43996,"EIIH","heliport","Midland Heliport",52.892223,-7.262778,614,"EU","IE","IE-LS","Abbeyleix","no",,,"EIIH",,,,"Midland Microlight Centre, Aughnacross"
 29221,"EIIM","small_airport","Inishmore Aerodrome",53.1067008972168,-9.653610229492188,24,"EU","IE","IE-G","Inis Mór","yes","EIIM","IOR","EIIM",,,"https://en.wikipedia.org/wiki/Inishmore_Aerodrome","Aran Islands"
@@ -31274,7 +31279,7 @@
 316000,"IE-0001","small_airport","Brittas House Airstrip",52.603908,-8.417588,,"EU","IE","IE-TA","Brittas","no",,,,,,,
 508384,"IE-0002","small_airport","Lyons Estate Private Airstrip",53.296767,-6.543199,259,"EU","IE","IE-KE","Celbridge","no",,,,,,,
 308317,"IE-0003","closed","Mallow International Airport",52.131802,-8.68804,,"EU","IE","IE-CO","Mallow","no",,,,,,,
-316745,"IE-0004","small_airport","Dolly's Grove Airfield",53.422468,-6.546232,,"EU","IE","IE-MH","Staffordstown","no",,,"EIDG",,,,
+316745,"IE-0004","small_airport","Dolly's Grove Airfield",53.422468,-6.546232,256,"EU","IE","IE-MH","Staffordstown","no","EIDG",,"EIDG",,,,
 317046,"IE-0005","small_airport","Eyne Airfield",53.082764,-7.277601,265,"EU","IE","IE-LS","Eyne","no",,,,,,,"Ridge Aviation"
 317525,"IE-0006","closed","Clifden Alcock & Brown Airport",53.54106,-10.08394,,"EU","IE","IE-G","Laghtanabba","no",,,,,,"https://en.wikipedia.org/wiki/Clifden#Airport","EICD, EICD"
 317526,"IE-0007","closed","Inishbofin Airfield",53.6196,-10.21085,,"EU","IE","IE-G","Middlequarter","no",,,,,,,
@@ -42297,7 +42302,7 @@
 599868,"KZ-7484","heliport","National Scientific Cardiac Surgery Center Heliport",51.118722,71.405417,1148,"AS","KZ","KZ-AST","Astana","no",,,,,,,
 599869,"KZ-7485","heliport","Saryshaghan Heliport",46.137506,73.607444,1125,"AS","KZ","KZ-KAR","Saryshaghan","no",,,,,,,
 599870,"KZ-7486","heliport","Semyonovka Heliport",51.055886,79.11415,,"AS","KZ","KZ-ABA","Qarabas","no",,,,,,,
-599871,"KZ-7487","heliport","Standart-Cement Heliport",42.347222,69.728611,2008,"AS","KZ","KZ-U-A","Shymkent","no",,,,,,,
+599871,"KZ-7487","heliport","Standart-Cement Heliport",42.347222,69.728611,2008,"AS","KZ","KZ-YUZ","Shymkent","no",,,,,,,
 599872,"KZ-7488","heliport","Targap Heliport",43.349061,75.47135,2375,"AS","KZ","KZ-ALM",,"no",,,,,,,
 599874,"KZ-7489","heliport","Usharal Heliport",46.200036,80.870528,1476,"AS","KZ","KZ-JET","Usharal","no",,,,,,,
 599878,"KZ-7490","heliport","Borankul Heliport",46.197782,54.491655,-23,"AS","KZ","KZ-MAN","Borankul","no",,,,"HGR8",,,"ХГР8, Боранқұл"
@@ -49523,7 +49528,7 @@
 43716,"NL-0021","heliport","Admiral De Ruyter Hospital Heliport",51.484734,3.910425,1,"EU","NL","NL-ZL","Goes","no",,,,,,,"EH0009, Admiraal De Ruyter Ziekenhuis Helihaven, Oosterschelde Ziekenhuis Heliport"
 43717,"NL-0022","heliport","Ziekenhuis Zeeuws-Vlaanderen. Locatie De Honte Heliport",51.30833435058594,3.862499952316284,6,"EU","NL","NL-ZL","Terneuzen","no",,,,,,,"EH0021"
 45159,"NL-0023","small_airport","Malden Glidersite",51.785259,5.88099,89,"EU","NL","NL-GE","Malden","no",,,,,"http://www.nijac.nl/?pid=11",,"NijAC, gliding, Nijmegen, Groesbeek"
-299505,"NL-0024","small_airport","Middenmeer Airfield",52.815045,5.021331,-14,"EU","NL","NL-NH","Middenmeer","no",,,,,"http://www.vliegclubwieringermeer.nl/","https://en.wikipedia.org/wiki/Middenmeer_Aerodrome",
+299505,"NL-0024","small_airport","Middenmeer Airfield",52.814876,5.021245,-14,"EU","NL","NL-NH","Middenmeer","no","EHMM",,"EHMM",,"https://www.vliegveldmiddenmeer.nl/","https://en.wikipedia.org/wiki/Middenmeer_Aerodrome",
 299506,"NL-0025","heliport","Lukkien Heliport",52.0224444444,5.62394444444,50,"EU","NL","NL-GE","Ede","no",,,,,,"https://en.wikipedia.org/wiki/Lukkien_Heliport",
 299507,"NL-0026","closed","TrafficPort Venlo Airfield",51.393056,6.062778,75,"EU","NL","NL-LI","Venlo","no",,,,,"http://www.trafficport.nl/airport.htm","https://en.wikipedia.org/wiki/TrafficPort_Venlo",
 299508,"NL-0027","small_airport","Axel Glidersite",51.255556,3.891389,20,"EU","NL","NL-ZL","Terneuzen","no",,,,,,,
@@ -56761,7 +56766,7 @@
 318069,"SD-0028","closed","Wad Medani Airport",14.383451,33.526679,1350,"AF","SD","SD-07","Wad Medani","no",,,,,,"https://en.wikipedia.org/wiki/Wad_Medani_Airport","HSWD, HSWD, DNI"
 594843,"SD-0029","small_airport","Sennar Sugar Factory Airfield",13.76607,33.42155,1470,"AF","SD","SD-25","Barqu","no",,,,,,,
 594844,"SD-0030","heliport","Wad Madani Heliport",14.40665,33.53447,1322,"AF","SD","SD-07","Wad Madani","no",,,,,,,
-24498,"SD00","small_airport","MJ Aviation II Airport",42.679885,-96.699218,1115,"NA","US","US-SD","Elk Point","no",,,"SD00","SD00",,,
+24498,"SD00","small_airport","MJ Aviation II Airport",42.679885,-96.699218,1115,"NA","US","US-SD","Elk Point","no",,,,"SD00",,,
 24499,"SD01","small_airport","MJ Aviation Airport I",43.89971,-98.11102,1305,"NA","US","US-SD","Letcher","no",,,,"SD01",,,
 337231,"SD02","closed","Mogensmark Heliport",45.1843,-96.78121,1283,"NA","US","US-SD","Twin Brooks","no",,,,,,,"SD02"
 24500,"SD03","small_airport","Calico Field",44.050249,-97.335665,1750,"NA","US","US-SD","Winfred","no",,,,"SD03",,,
@@ -56769,6 +56774,7 @@
 24501,"SD05","small_airport","Thorson Airfield",45.36853,-98.471888,1300,"NA","US","US-SD","Warner","no",,,,"SD05",,,
 325034,"SD06","heliport","Faulkton Area Medical Center Heliport",45.030413,-99.134166,1600,"NA","US","US-SD","Faulkton","no",,,,"SD06",,,
 337246,"SD07","heliport","Keystone XL Philip Heliport",44.056081,-101.674607,2338,"NA","US","US-SD","Philip","no",,,,"SD07",,,
+599995,"SD08","small_airport","Fazenda Martelli 1 Airstrip",-12.53175,-56.708081,1125,"SA","BR","BR-MT","Tapurah","no",,,"SD08","MT1132",,,
 24502,"SD09","heliport","Mid-Dakota Hospital Heliport",43.786534,-99.324675,1735,"NA","US","US-SD","Chamberlain","no",,,,"SD09",,,
 344016,"SD0E","small_airport","Fazenda Tangará Airport",-9.668485,-50.782555,689,"SA","BR","BR-PA","Santana do Araguaia","no",,,"SD0E","PA0265",,,
 24503,"SD1","heliport","Soldotna Hospital H Heliport",60.492637,-151.078967,99,"NA","US","US-AK","Soldotna","no",,,,"SD1",,,
