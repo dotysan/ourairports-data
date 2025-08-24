@@ -171,6 +171,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 507890,AU-0565,small_airport,Moora Airport,-30.684896,115.982059,659,OC,AU,AU-WA,Moora,no,YMRO,,YMRO,,,,Topfun Aviation
 595027,AU-0748,small_airport,Oakden Hills Airport,-31.66598,137.0361,308,OC,AU,AU-SA,Oakden Hills,no,YOKH,,YOKH,,,,
 595746,AU-0771,small_airport,Wirraminna Airport,-31.19277,136.21988,446,OC,AU,AU-SA,Wirraminna,no,YWIR,,,,,,
+600001,AU-0783,small_airport,JDandBoo,-37.85774,146.91748,380,OC,AU,AU-VIC,Boisdale,no,YJBO,,,,,,"Private, PPR"
 30622,AU-AGW,small_airport,Agnew Airport,-12.1456,142.149369,160,OC,AU,AU-QLD,Agnew,no,,AGW,YAGN,,,https://en.wikipedia.org/wiki/Agnew_Airport,
 30666,AU-AYD,small_airport,Alroy Downs Airport,-19.2908,136.078995,711,OC,AU,AU-NT,Alroy Downs,no,,AYD,YALD,,,,
 30808,AU-BYX,small_airport,Baniyala Airport,-13.1981,136.227005,20,OC,AU,AU-NT,Baniyala,no,,BYX,YBNI,,,,
@@ -7245,7 +7246,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31007,RPEN,small_airport,El Nido Airport,11.202399,119.416087,,AS,PH,PH-PLW,El Nido,yes,RPEN,ENI,RPEN,,,https://en.wikipedia.org/wiki/El_Nido_Airport,El Nido
 5686,RPLB,medium_airport,Subic Bay International Airport / Naval Air Station Cubi Point,14.7944,120.271004,64,AS,PH,PH-ZMB,Olongapo,yes,RPLB,SFS,RPLB,,,https://en.wikipedia.org/wiki/Subic_Bay_International_Airport,"Paliparang Pandaigdig ng Look ng Subic, Naval Air Station Cubi Point"
 5687,RPLC,medium_airport,Clark International Airport / Clark Air Base,15.186,120.559998,484,AS,PH,PH-PAM,Mabalacat,yes,RPLC,CRK,RPLC,,http://www.clarkairport.com/,https://en.wikipedia.org/wiki/Clark_International_Airport,"Diosdado Macapagal International Airport, Paliparang Pandaigdig ng Diosdado Macapagal, Pangyatung Sulapawan ning Clark, Paliparang Pandaigdig ng Clark"
-324042,RPLE,small_airport,Balesin Island Airport,14.419365,122.039402,25,AS,PH,PH-BAS,Balesin,no,RPLE,BSI,RPLE,,,https://en.wikipedia.org/wiki/Balesin_Island_Airport,RPBL
+324042,RPLE,small_airport,Balesin Island Airport,14.418624,122.03923,25,AS,PH,PH-BAS,Balesin,no,RPLE,BSI,RPLE,,,https://en.wikipedia.org/wiki/Balesin_Island_Airport,"RPBL, Polilio, E. L. Tordesillas"
 325947,RPLH,medium_airport,Cagayan North International Airport,18.182388,121.745853,148,AS,PH,PH-CAG,Lal-lo,no,RPLH,LLC,RPLH,,,https://en.wikipedia.org/wiki/Cagayan_North_International_Airport,"Northern Cagayan, Lal-lo"
 5688,RPLI,medium_airport,Laoag International Airport,18.176121,120.531034,25,AS,PH,PH-ILN,Laoag City,yes,RPLI,LAO,RPLI,,,https://en.wikipedia.org/wiki/Laoag_International_Airport,"Gabu Airfield, Laoag Airfield"
 32220,RPLJ,small_airport,Jomalig Island Airport,14.704161,122.331133,36,AS,PH,PH-QUE,Jomalig,no,RPLJ,,RPLJ,,,https://en.wikipedia.org/wiki/Jomalig_Airport,Jomalig
@@ -7546,7 +7547,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5961,SBPS,large_airport,Porto Seguro Airport,-16.438426,-39.080584,169,SA,BR,BR-BA,Porto Seguro,yes,SBPS,BPS,SBPS,BA0002,http://www.aeroportoportoseguro.com.br/,https://en.wikipedia.org/wiki/Porto_Seguro_Airport,
 5962,SBPV,medium_airport,Governador Jorge Teixeira de Oliveira Airport,-8.707854,-63.90242,295,SA,BR,BR-RO,Porto Velho,yes,SBPV,PVH,SBPV,RO0001,,https://en.wikipedia.org/wiki/Governador_Jorge_Teixeira_de_Oliveira_International_Airport,
 5964,SBRB,medium_airport,Rio Branco-Plácido de Castro International Airport,-9.869031,-67.893984,633,SA,BR,BR-AC,Rio Branco,yes,SBRB,RBR,SBRB,AC0001,,https://en.wikipedia.org/wiki/Rio_Branco_International_Airport,
-575,SBRD,medium_airport,Maestro Marinho Franco Airport,-16.584292,-54.724803,1467,SA,BR,BR-MT,Rondonópolis,yes,,ROO,SBRD,MT0004,http://www.rondonopolis.mt.gov.br/orgaos-municipais/aeroporto-municipal-maestro-marinho-franco/,https://en.wikipedia.org/wiki/Rondon%C3%B3polis_Airport,"SWRD, Rondonópolis Airport"
+575,SBRD,medium_airport,Maestro Marinho Franco Airport,-16.584292,-54.724803,1467,SA,BR,BR-MT,Rondonópolis,yes,SBRD,ROO,SBRD,MT0004,http://www.rondonopolis.mt.gov.br/orgaos-municipais/aeroporto-municipal-maestro-marinho-franco/,https://en.wikipedia.org/wiki/Rondon%C3%B3polis_Airport,"SWRD, Rondonópolis Airport"
 5965,SBRF,medium_airport,Recife/Guararapes - Gilberto Freyre International Airport,-8.125984,-34.923316,33,SA,BR,BR-PE,Recife,yes,SBRF,REC,SBRF,PE0001,http://www.infraero.gov.br/usa/aero_prev_home.php?ai=163,https://en.wikipedia.org/wiki/Recife/Guararapes%E2%80%93Gilberto_Freyre_International_Airport,Ibura
 5967,SBRJ,medium_airport,Santos Dumont Airport,-22.9105,-43.163101,11,SA,BR,BR-RJ,Rio de Janeiro,yes,SBRJ,SDU,SBRJ,RJ0002,https://www4.infraero.gov.br/aeroporto-santos-dumont/,https://en.wikipedia.org/wiki/Santos_Dumont_Airport,RIO
 5968,SBRP,medium_airport,Leite Lopes Airport,-21.134314,-47.774053,1805,SA,BR,BR-SP,Ribeirão Preto,yes,SBRP,RAO,SBRP,SP0004,https://www.daesp.sp.gov.br/aeroporto-estadual-de-ribeirao-preto-dr-leite-lopes/,https://en.wikipedia.org/wiki/Leite_Lopes_Airport,
@@ -7659,7 +7660,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 192,SDOU,small_airport,Jornalista Benedito Pimentel Airport,-22.966598,-49.912049,1516,SA,BR,BR-SP,Ourinhos,no,SDOU,OUS,SDOU,SP0023,,https://en.wikipedia.org/wiki/Ourinhos_Airport,
 194,SDOW,small_airport,Ourilândia do Norte Airport,-6.762992,-51.04993,751,SA,BR,BR-PA,Ourilândia do Norte,no,SDOW,OIA,SDOW,PA0021,,https://en.wikipedia.org/wiki/Ouril%C3%A2ndia_do_Norte_Airport,
 200,SDRS,small_airport,Resende Airport,-22.4785,-44.480301,1320,SA,BR,BR-RJ,Resende,no,SDRS,REZ,SDRS,RJ0007,,https://en.wikipedia.org/wiki/Resende_Airport,QRZ
-201,SDSC,small_airport,Mário Pereira Lopes–São Carlos Airport,-21.875032,-47.903851,2649,SA,BR,BR-SP,São Carlos,no,SDSC,QSC,SDSC,SP0029,,https://en.wikipedia.org/wiki/S%C3%A3o_Carlos_Airport,
+201,SDSC,small_airport,Mário Pereira Lopes–São Carlos International Airport,-21.875032,-47.903851,2649,SA,BR,BR-SP,São Carlos,no,SDSC,QSC,SDSC,SP0029,,https://en.wikipedia.org/wiki/S%C3%A3o_Carlos_Airport,
 30240,SDTK,small_airport,Paraty Airport,-23.224044,-44.7234,10,SA,BR,BR-RJ,Paraty,yes,,JPY,SDTK,,,https://en.wikipedia.org/wiki/Paraty_Airport,
 206,SDUB,small_airport,Ubatuba Gastão Madeira State Airport,-23.440628,-45.074057,13,SA,BR,BR-SP,Ubatuba,no,SDUB,UBT,SDUB,SDUB,,https://en.wikipedia.org/wiki/Ubatuba_Airport,
 208,SDUN,small_airport,Itaperuna Airport,-21.219299316399997,-41.8759002686,410,SA,BR,BR-RJ,Itaperuna,no,SDUN,ITP,SDUN,SDUN,,http://pt.wikipedia.org/wiki/Aeroporto_de_Itaperuna,
