@@ -6400,7 +6400,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5021,NWWW,medium_airport,La Tontouta International Airport,-22.014601,166.212997,52,OC,NC,NC-03,Nouméa (La Tontouta),yes,NWWW,NOU,NWWW,,http://www.cci-nc.com/tontouta/index.php,https://en.wikipedia.org/wiki/La_Tontouta_International_Airport,Aéroport de Nouméa - La Tontouta
 315006,NZ-0022,small_airport,Cromwell/Louburn Airport,-44.982756,169.215696,1010,OC,NZ,NZ-OTA,Cromwell,no,NZCW,,NZCW,,,,Mount Pisa
 429815,NZ-0029,small_airport,Fox Glacier Aerodrome,-43.46111,170.01702,,OC,NZ,NZ-WTC,Fox Glacier,no,,FGL,NZFO,,,https://en.wikipedia.org/wiki/Fox_Glacier_Aerodrome,
+600045,NZ-0092,small_airport,Anama airstrip,-43.793757,171.393929,1002,OC,NZ,NZ-CAN,Anama,no,NZAN,,,,,,
 5023,NZAA,large_airport,Auckland International Airport,-37.01199,174.786331,23,OC,NZ,NZ-AUK,Auckland,yes,NZAA,AKL,NZAA,,http://www.auckland-airport.co.nz/,https://en.wikipedia.org/wiki/Auckland_International_Airport,
+44831,NZAH,heliport,Taharoa Iron Sands Heliport,-38.170667,174.704459,53,OC,NZ,NZ-WKO,Taharoa,no,NZAH,,NZAH,,,,
+44672,NZAL,heliport,Avalon Heliport,-41.186766,174.943982,93,OC,NZ,NZ-WGN,Wellington,no,NZAL,,NZAL,,,,
 5024,NZAP,medium_airport,Taupo Airport,-38.73970031738281,176.08399963378906,1335,OC,NZ,NZ-WKO,Taupo,yes,NZAP,TUO,NZAP,,,https://en.wikipedia.org/wiki/Taupo_Airport,
 5025,NZAR,medium_airport,Ardmore Airport,-37.029701232910156,174.97300720214844,111,OC,NZ,NZ-AUK,Manurewa,no,NZAR,AMZ,NZAR,,http://www.nzar.co.nz/,https://en.wikipedia.org/wiki/Ardmore_Airport,
 29672,NZAS,small_airport,Ashburton Airport,-43.903301,171.796997,302,OC,NZ,NZ-CAN,Ashburton,no,NZAS,ASG,NZAS,,https://www.ashburtondc.govt.nz/community-facilities/ashburton-airport,https://en.wikipedia.org/wiki/Ashburton_Aerodrome,
@@ -6414,8 +6417,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5027,NZCI,medium_airport,Chatham Islands / Tuuta Airport,-43.81189,-176.46514,43,OC,NZ,NZ-WGN,Te One,yes,NZCI,CHT,NZCI,,,https://en.wikipedia.org/wiki/Chatham_Islands_/_Tuuta_Airport,Karewa
 29810,NZCS,small_airport,Cromwell Racecourse Aerodrome,-45.048599,169.171005,856,OC,NZ,NZ-OTA,,no,NZCS,,NZCS,,,https://en.wikipedia.org/wiki/Cromwell_Racecourse_Aerodrome,
 29804,NZCX,small_airport,Coromandel Airport,-36.791698,175.509003,10,OC,NZ,NZ-WKO,Coromandel,no,NZCX,CMV,NZCX,,,https://en.wikipedia.org/wiki/Coromandel_Aerodrome,
-29817,NZDA,small_airport,Dargaville Aerodrome,-35.939701,173.893997,10,OC,NZ,NZ-NTL,Dargaville,no,NZDA,DGR,NZDA,,,https://en.wikipedia.org/wiki/Dargaville_Aerodrome,
+29817,NZDA,small_airport,Dargaville Aerodrome,-35.939304,173.892862,10,OC,NZ,NZ-NTL,Dargaville,no,NZDA,DGR,NZDA,,,https://en.wikipedia.org/wiki/Dargaville_Aerodrome,
+44804,NZDC,heliport,Dunedin City Heliport,-45.882596,170.507947,5,OC,NZ,NZ-OTA,Dunedin,no,NZDC,,NZDC,,,,
+44805,NZDH,heliport,Dunedin Hospital Helipad,-45.868871,170.509674,159,OC,NZ,NZ-OTA,Dunedin,no,NZDH,,NZDH,,,,
 5028,NZDN,medium_airport,Dunedin International Airport,-45.928101,170.197998,4,OC,NZ,NZ-OTA,Dunedin,yes,NZDN,DUD,NZDN,,http://www.dnairport.co.nz/,https://en.wikipedia.org/wiki/Dunedin_International_Airport,
+29816,NZDV,small_airport,Dannevirke Aerodrome,-40.231685,176.079395,635,OC,NZ,NZ-MWT,,no,NZDV,,NZDV,,,https://en.wikipedia.org/wiki/Dannevirke_Aerodrome,
+30559,NZES,small_airport,Wharepapa South Airport,-38.143875,175.550396,443,OC,NZ,NZ-WKO,,no,NZES,,NZES,,,,
+355372,NZEV,heliport,Eves Valley Heliport,-41.339777,173.077614,126,OC,NZ,NZ-NSN,Eves Valley,no,NZEV,,NZEV,,,,
+600056,NZFE,small_airport,Fernside Fields Airpark,-43.317471,172.511956,195,OC,NZ,NZ-CAN,Fenside,no,NZFE,,NZFE,,,,
 29873,NZFF,small_airport,Forest Field Aerodrome,-43.385799407958984,172.36099243164062,381,OC,NZ,NZ-CAN,,no,NZFF,,NZFF,,,https://en.wikipedia.org/wiki/Forest_Field_Aerodrome,
 29877,NZFJ,small_airport,Franz Josef Aerodrome,-43.36309814453125,170.13400268554688,240,OC,NZ,NZ-WTC,,no,,WHO,NZFJ,,,,
 29913,NZGB,small_airport,Great Barrier Aerodrome,-36.24140167236328,175.4720001220703,20,OC,NZ,NZ-AUK,Claris,no,NZGB,GBZ,NZGB,,,https://en.wikipedia.org/wiki/Great_Barrier_Aerodrome,
@@ -6452,6 +6461,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30358,NZRC,small_airport,Ryan's Creek Aerodrome,-46.8997,168.100998,62,OC,NZ,NZ-STL,Oban,no,NZRC,SZS,NZRC,,,https://en.wikipedia.org/wiki/Ryan%27s_Creek_Aerodrome,"stewart island,rakiura"
 5052,NZRO,medium_airport,Rotorua Regional Airport,-38.1092,176.317001,935,OC,NZ,NZ-BOP,Rotorua,yes,NZRO,ROT,NZRO,,https://www.rotorua-airport.co.nz/,https://en.wikipedia.org/wiki/Rotorua_Regional_Airport,
 30320,NZRT,small_airport,Rangiora Airfield,-43.290001,172.542007,180,OC,NZ,NZ-CAN,Rangiora,no,NZRT,,NZRT,,http://www.rangiora.com/pages/rangiora-airport-and-airfield.php,https://en.wikipedia.org/wiki/Rangiora_Airport,
+600057,NZSF,small_airport,Springfield Airport,-43.383575,171.911266,1216,OC,NZ,NZ-CAN,Springfield,no,NZSF,,NZSF,,,,Tawera
 5055,NZTG,medium_airport,Tauranga Airport,-37.67190170288086,176.1959991455078,13,OC,NZ,NZ-BOP,Tauranga,yes,NZTG,TRG,NZTG,,,https://en.wikipedia.org/wiki/Tauranga_Airport,
 30483,NZTH,small_airport,Thames Aerodrome,-37.1567,175.550003,10,OC,NZ,NZ-WKO,,no,NZTH,TMZ,NZTH,,,https://en.wikipedia.org/wiki/Thames_Aerodrome,
 30464,NZTK,small_airport,Takaka Airport,-40.813301,172.774994,102,OC,NZ,NZ-TAS,,no,NZTK,KTF,NZTK,,,https://en.wikipedia.org/wiki/T%C4%81kaka_Aerodrome,
@@ -6464,10 +6474,13 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5062,NZWK,medium_airport,Whakatane Airport,-37.92060089111328,176.91400146484375,20,OC,NZ,NZ-BOP,,yes,NZWK,WHK,NZWK,,,https://en.wikipedia.org/wiki/Whakatane_Airport,
 5063,NZWN,large_airport,Wellington International Airport,-41.327202,174.804993,41,OC,NZ,NZ-WGN,Wellington,yes,NZWN,WLG,NZWN,,http://www.wellingtonairport.co.nz/,https://en.wikipedia.org/wiki/Wellington_Airport,
 5064,NZWO,medium_airport,Wairoa Airport,-39.012118,177.404395,42,OC,NZ,NZ-HKB,Wairoa,no,NZWO,WIR,NZWO,,,https://en.wikipedia.org/wiki/Wairoa_Aerodrome,
+5065,NZWP,medium_airport,RNZAF Base Auckland-Whenuapai,-36.7878,174.630005,103,OC,NZ,NZ-AUK,,no,NZWP,,NZWP,,http://www.airforce.mil.nz/about-us/hq-and-bases/auckland.htm,https://en.wikipedia.org/wiki/RNZAF_Base_Auckland,
 5066,NZWR,medium_airport,Whangarei Airport,-35.769253,174.363713,133,OC,NZ,NZ-NTL,Whangarei,yes,NZWR,WRE,NZWR,,,https://en.wikipedia.org/wiki/Whangarei_Airport,
 5067,NZWS,medium_airport,Westport Airport,-41.737111,171.579033,13,OC,NZ,NZ-WTC,Westport,yes,NZWS,WSZ,NZWS,,,https://en.wikipedia.org/wiki/Westport_Airport_(New_Zealand),
 30560,NZWT,small_airport,Whitianga Airport,-36.828731,175.682802,10,OC,NZ,NZ-WKO,Whitianga,no,NZWT,WTZ,NZWT,,,https://en.wikipedia.org/wiki/Whitianga_Aerodrome,
-5068,NZWU,medium_airport,Wanganui Airport,-39.96220016479492,175.02499389648438,27,OC,NZ,NZ-MWT,Wanganui,yes,NZWU,WAG,NZWU,,,https://en.wikipedia.org/wiki/Wanganui_Airport,
+5068,NZWU,medium_airport,Wanganui Airport,-39.963467,175.02444,27,OC,NZ,NZ-MWT,Wanganui,yes,NZWU,WAG,NZWU,,,https://en.wikipedia.org/wiki/Wanganui_Airport,
+30546,NZWV,small_airport,Waihi Beach Airport,-37.430443,175.952394,4,OC,NZ,NZ-BOP,,no,NZWV,,NZWV,,,https://en.wikipedia.org/wiki/Waihi_Beach_Aerodrome,
+30549,NZYP,small_airport,Waipukurau Airport,-39.9967,176.537003,430,OC,NZ,NZ-HKB,,no,NZYP,,NZYP,,,,
 23485,O19,small_airport,Kneeland Airport,40.718639,-123.927298,2737,NA,US,US-CA,Kneeland,no,,NLN,,O19,,https://en.wikipedia.org/wiki/Kneeland_Airport,Arcata
 23500,O85,small_airport,Benton Field,40.5749015808,-122.407997131,719,NA,US,US-CA,Redding,no,,BZF,O85,O85,,https://en.wikipedia.org/wiki/Benton_Field,
 30739,OABN,small_airport,Bamyan Airport,34.808916,67.816629,8367,AS,AF,AF-BAM,Bamyan,no,OABN,BIN,OABN,,,https://en.wikipedia.org/wiki/Bamyan_Airport,Bamiyan
