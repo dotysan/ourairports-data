@@ -39130,7 +39130,7 @@
 319542,"KGZN","small_airport","Gregory M. Simmons Memorial Airport",32.367348,-99.023642,1711,"NA","US","US-TX","Cisco","no",,,"KGZN","GZN",,,
 20002,"KGZS","small_airport","Abernathy Field",35.153702,-87.056801,685,"NA","US","US-TN","Pulaski","no",,,"KGZS","GZS",,"https://en.wikipedia.org/wiki/Abernathy_Field",
 339963,"KH-0001","small_airport","Dara Sakor International Airport",10.914244,103.226652,60,"AS","KH","KH-9","Ta Noun","no",,"DSY","VDDS",,"http://darasakor-airport.com/en/","https://en.wikipedia.org/wiki/Dara_Sakor_International_Airport","Krong Khemara Phoumin, អាកាសយានដ្ឋានអន្តរជាតិតារាសាគរ"
-342098,"KH-0002","closed","Techo International Airport (under construction)",11.3623,104.9154,20,"AS","KH","KH-8","Phnom Peng (Boeng Khyang)","no",,,,,,"https://en.wikipedia.org/wiki/Techo_International_Airport_(Cambodia)","VDTI, KTI"
+342098,"KH-0002","closed","Techo International Airport (under construction)",11.359987,104.921272,20,"AS","KH","KH-8","Phnom Peng (Boeng Khyang)","no",,,,,,"https://en.wikipedia.org/wiki/Techo_International_Airport_(Cambodia)","VDTI, KTI"
 26476,"KH-0003","closed","Siem Reap International Airport",13.41155,103.813044,60,"AS","KH","KH-17","Siem Reap","yes",,,,,"http://www.cambodia-airports.com/siemreap/en","https://en.wikipedia.org/wiki/Siem_Reap_International_Airport","Angkor International Airport, REP, VDSR"
 31781,"KH-0004","closed","Kratie Airport",12.489017,106.05469,102,"AS","KH","KH-10","Kratie","no",,,,,,"https://en.wikipedia.org/wiki/Krati%C3%A9_Airport","KTI, VDKT"
 313437,"KH-0005","closed","Kampot Airport",10.6343,104.1617,44,"AS","KH","KH-7","Kampot","no",,,,,,,"KMT, KMT"
@@ -39243,7 +39243,7 @@
 3594,"KHSV","medium_airport","Huntsville International Carl T Jones Field",34.637199,-86.775101,629,"NA","US","US-AL","Huntsville","yes","KHSV","HSV","KHSV","HSV","http://www.flyhuntsville.com/portal/#.VbaG-_lVhBc","https://en.wikipedia.org/wiki/Huntsville_International_Airport",
 20091,"KHTH","small_airport","Hawthorne Industrial Airport",38.544399,-118.634002,4215,"NA","US","US-NV","Hawthorne","no","KHTH","HTH","KHTH","HTH",,"https://en.wikipedia.org/wiki/Hawthorne_Municipal_Airport_(Nevada)",
 20092,"KHTL","small_airport","Roscommon County - Blodgett Memorial Airport",44.359798,-84.671095,1150,"NA","US","US-MI","Houghton Lake","no","KHTL","HTL","KHTL","HTL",,"https://en.wikipedia.org/wiki/Roscommon_County_Airport",
-20093,"KHTO","small_airport","Town of East Hampton Airport",40.959954,-72.25105,55,"NA","US","US-NY","East Hampton","no",,"HTO","KJPX","JPX","http://www.town.east-hampton.ny.us/htmlpages/Airport/AirportHome.htm","https://en.wikipedia.org/wiki/East_Hampton_Airport","KHTO, HTO"
+20093,"KHTO","small_airport","Town of East Hampton Airport",40.959954,-72.25105,55,"NA","US","US-NY","East Hampton","no","KJPX","HTO","KJPX","JPX","http://www.town.east-hampton.ny.us/htmlpages/Airport/AirportHome.htm","https://en.wikipedia.org/wiki/East_Hampton_Airport","KHTO, HTO"
 3595,"KHTS","medium_airport","Tri-State Airport / Milton J. Ferguson Field",38.366699,-82.557999,828,"NA","US","US-WV","Huntington","yes","KHTS","HTS","KHTS","HTS",,"https://en.wikipedia.org/wiki/Tri-State_Airport",
 20094,"KHTW","small_airport","Lawrence County Airpark",38.419082,-82.494922,568,"NA","US","US-OH","South Point","no","KHTW","HTW","KHTW","HTW",,"https://en.wikipedia.org/wiki/Lawrence_County_Airpark","Chesapeake, Huntington"
 3596,"KHUA","medium_airport","Redstone Army Air Field",34.67869949,-86.68479919,684,"NA","US","US-AL","Redstone Arsnl Huntsville","no","KHUA","HUA","KHUA","HUA",,"https://en.wikipedia.org/wiki/Redstone_Army_Airfield",
@@ -52969,7 +52969,7 @@
 324501,"PL-0128","small_airport","Lisy Airstrip",54.219442,22.044803,420,"EU","PL","PL-WN","Lisy","no",,,,,,,
 324503,"PL-0129","small_airport","Stare Juchy Landing Site",53.90725,22.233334,377,"EU","PL","PL-WN","Jeziorowskie","no",,,,,,,"Jeziorowskie"
 324505,"PL-0130","small_airport","Bożykowo Airfield",54.073224,21.83375,491,"EU","PL","PL-WN","Spytkowo","no",,,,,,,
-324506,"PL-0131","small_airport","Antonowo Airfield",54.058166,21.746916,390,"EU","PL","PL-WN","Giżycko","no",,,,,,,
+324506,"PL-0131","closed","Antonowo Airfield",54.058166,21.746916,390,"EU","PL","PL-WN","Giżycko","no",,,,,,,
 324508,"PL-0132","small_airport","Zyzdrojowa Wola",53.657473,21.277417,450,"EU","PL","PL-WN","Zyzdrojowa Wola","no",,,,,,,
 324509,"PL-0133","small_airport","Lewickie Private Airstrip",53.029083,23.134638,430,"EU","PL","PL-PD","Lewickie","no",,,,,,,
 324510,"PL-0134","small_airport","Krynice Kolonia",53.231111,23.044081,580,"EU","PL","PL-PD","Krynice","no",,,,,,,
@@ -54639,7 +54639,7 @@
 44650,"RU-0184","small_airport","Yuryevskoye Airfield",56.779999,36.285,397,"EU","RU","RU-TVE","Yuryevskoye","no",,,,"UUEY","http://www.volganka.ru/aero.html",,"Yuryevskoe Airport, Volzhanka Airport, Аэродром Юрьевское, Аэродром Волжанка"
 44652,"RU-0185","small_airport","Marino Airstrip",56.6339988708,36.8860015869,,"EU","RU","RU-TVE","Filimonovo","no",,,,,,,"Filimonovo Airstrip, ВПП Марьино, ВПП Филимоново"
 44653,"RU-0186","heliport","Torzhok Helicopter Base",57.043818,35.001704,565,"EU","RU","RU-TVE","Torzhok","no",,,,"UUAX",,,"Вертолётодром Торжок, УУАН"
-44654,"RU-0187","heliport","Blagoveshchenye Vertodrom",56.326,38.099998,,"EU","RU","RU-MOS","Sergiev Posad","no",,,"UUMX",,,,"Blagoveschenye Airfield, Аэродром Благовещенье"
+44654,"RU-0187","heliport","Blagoveshchenye Vertodrom",56.32569,38.097895,795,"AS","RU","RU-MOS","Sergiev Posad","no",,,"UUMX",,,,"УУМЬ, Blagoveschenye Airfield, Аэродром Благовещенье"
 44655,"RU-0188","seaplane_base","Dubna Seaplane Base",56.71500015258789,37.05500030517578,,"EU","RU","RU-MOS","Dubna","no",,,,,,,"Гидроаэродром Дубна"
 44656,"RU-0189","small_airport","Kostomuksha Airfield",64.617996,30.687,681,"EU","RU","RU-KR","Kostomuksha","yes",,,,"ULPM",,,"Аэропорт Костомукша, УЛПМ"
 44700,"RU-0190","heliport","Pugachyov Heliport",52.033001,48.82,130,"AS","RU","RU-SAR","Pugachyov","no",,,,,,,"Pugachev Heliport, Вертодром Пугачёв, Вертодром Пугачев"
@@ -55368,7 +55368,7 @@
 353553,"RU-0914","heliport","Novokrasnoye Heliport",54.32668,76.18341,348,"EU","RU","RU-NVS","Novokrasnoye","no",,,,,,,
 353554,"RU-0915","heliport","Bol'shegrivskoye Heliport",53.91101,74.92926,292,"EU","RU","RU-OMS","Bol'shegrivskoye","no",,,,,,,
 353555,"RU-0916","heliport","Russkaya Polyana Heliport",53.76374,73.88164,402,"EU","RU","RU-OMS","Russkaya Polyana","no",,,,,,,
-353578,"RU-0917","small_airport","Slavyansk-na-Kubani Airfield",45.20633,38.08692,10,"EU","RU","RU-KDA","Slavyansk-na-Kubani","no",,,,"ZE4S",,,"УРСК, URSK"
+353578,"RU-0917","small_airport","Slavyansk-na-Kubani Airfield",45.20633,38.08692,10,"AS","RU","RU-KDA","Slavyansk-na-Kubani","no",,,,"ZE4S",,,"УРСК, URSK, Славянск-на-Кубани, ЗЕ4С"
 354388,"RU-0918","closed","Fyodorovka Airport",55.08796,72.995911,,"AS","RU","RU-OMS","Omsk","no",,,,,,"https://en.wikipedia.org/wiki/Fyodorovka_Airport","ZF8F"
 355155,"RU-0919","heliport","Usad'ba Mansurovo Helicopter Base",51.774107,37.430463,676,"EU","RU","RU-KRS",,"no",,,,"HH9Y",,,
 355513,"RU-0920","heliport","Kordon Ozernyy Heliport",51.48092,157.03785,283,"AS","RU","RU-KAM","Pauzhetka","no",,,,,,,
@@ -56292,6 +56292,7 @@
 343552,"SC-0005","heliport","La Digue Heliport",-4.3608,55.82495,,"AF","SC","SC-15","La Digue","no",,,,,,,
 343553,"SC-0006","heliport","Port Glaud Helipad",-4.66067,55.40396,,"AF","SC","SC-21","Port Glaud","no",,,,,,,
 349353,"SC-0007","small_airport","Poivre Airport",-5.746533,53.305593,,"AF","SC","SC-26","Poivre","no",,,,,,,
+600066,"SC-0008","heliport","Raffles Seychelles Helipad",-4.306849,55.718632,,"AF","SC","SC-14",,"no",,,,,,,"raffles seychelles hotel"
 24398,"SC00","small_airport","Triple Tree Airport",34.667949,-81.999979,680,"NA","US","US-SC","Woodruff","no",,,"SC00","SC00",,,
 24400,"SC02","heliport","Beaufort County Memorial Hospital Heliport",32.416900634765625,-80.68730163574219,20,"NA","US","US-SC","Beaufort","no",,,"SC02","SC02",,,
 24401,"SC03","small_airport","Mc Neil Airport",33.5570983887,-80.648399353,170,"NA","US","US-SC","Cameron","no",,,"SC03","SC03",,,
@@ -78303,6 +78304,7 @@
 31846,"UUOL","medium_airport","Lipetsk Airport",52.70280075073242,39.53779983520508,584,"EU","RU","RU-LIP","Lipetsk","yes","UUOL","LPK","UUOL",,,"https://en.wikipedia.org/wiki/Lipetsk_Airport",
 26400,"UUOO","medium_airport","Voronezh International Airport",51.81420135498047,39.22959899902344,514,"EU","RU","RU-VOR","Voronezh","yes","UUOO","VOZ","UUOO",,,"https://en.wikipedia.org/wiki/Voronezh_International_Airport","Chertovitskoye Airport, Chertovitskoe Airport, Аэропорт Воронеж, Аэропорт Чертовицкое"
 32427,"UUOT","medium_airport","Donskoye Airport",52.806099,41.4828,413,"EU","RU","RU-TAM","Tambov","no","UUOT","TBW","UUOT",,,"https://en.wikipedia.org/wiki/Tambov_Donskoye_Airport",
+600077,"UUOW","small_airport","Valuyki  Airfield",50.224929,38.110891,593,"EU","RU","RU-BEL","Valuyki","no",,,"UUOW",,,,"УУОВ, Валуйки"
 517952,"UUPM","heliport","163rd km Oil Pipeline Heliport",65.077713,57.23225,200,"EU","RU","RU-KO","Pechora","no",,,"UUPM",,,,"УУПМ"
 541942,"UURB","heliport","Brykalansk Heliport",65.478508,54.261503,240,"EU","RU","RU-KO",,"no",,,"UURB",,,,"УУРБ, Брыкаланск"
 541957,"UURG","heliport","Verkhnekolvinskaya Heliport",66.670644,56.980723,205,"EU","RU","RU-KO","Verkhnekolvinsk","no",,,"UURG",,,,"УУРГ, Верхнеколвинская"
@@ -78680,15 +78682,15 @@
 26472,"VCCW","small_airport","Weerawila Airport",6.25449,81.235199,50,"AS","LK","LK-3","Weerawila","no","VCCW","WRZ","VCCW",,,"https://en.wikipedia.org/wiki/Weerawila_Airport","Wirawila Airport"
 309579,"VCRI","large_airport","Mattala Rajapaksa International Airport",6.284467,81.124128,157,"AS","LK","LK-3","Mattala","yes","VCRI","HRI","VCRI","VCRI","http://www.mria.lk/","https://en.wikipedia.org/wiki/Mattala_Rajapaksa_International_Airport","Hambantota International Airport"
 26473,"VDBG","medium_airport","Battambang Airport",13.0956,103.223999,59,"AS","KH","KH-2","Battambang","yes","VDBG","BBM","VDBG",,,"https://en.wikipedia.org/wiki/Battambang_Airport",
-32569,"VDKC","small_airport","Kampong Cham Airport",12.028657,105.441165,148,"AS","KH","KH-3","Kompong Cham","no",,,"VDKC",,,"https://en.wikipedia.org/wiki/Kampong_Cham_Airport",
+32569,"VDKC","small_airport","Kampong Cham Airport",12.028657,105.441165,148,"AS","KH","KH-3","Kompong Cham","no","VDKC",,"VDKC",,,"https://en.wikipedia.org/wiki/Kampong_Cham_Airport",
 26474,"VDKH","medium_airport","Kampong Chhnang Airport",12.255032,104.564657,56,"AS","KH","KH-4","Kampong Chhnang","no","VDKH","KZC","VDKH",,,"https://en.wikipedia.org/wiki/Kampong_Chhnang_Airport",
 46543,"VDKK","small_airport","Koh Kong Airport",11.613397,102.997084,,"AS","KH","KH-9","Krong Khemara Phoumin","no","VDKK","KKZ","VDKK",,,"https://en.wikipedia.org/wiki/Koh_Kong_Airport",
-46544,"VDMK","small_airport","Mondulkiri Airport",12.463648,107.187252,,"AS","KH","KH-11","Sen Monorom","no","VDMK","MWV","VDMK",,,"https://en.wikipedia.org/wiki/Mondulkiri_Airport",
+46544,"VDMK","small_airport","Mondulkiri Airport",12.464562,107.188039,2299,"AS","KH","KH-11","Sen Monorom","no","VDMK","MWV","VDMK",,,"https://en.wikipedia.org/wiki/Mondulkiri_Airport",
 26475,"VDPP","large_airport","Phnom Penh International Airport",11.5466,104.844002,40,"AS","KH","KH-12","Phnom Penh (Pou Senchey)","yes","VDPP","PNH","VDPP",,"http://www.cambodia-airports.com/phnompenh/en/","https://en.wikipedia.org/wiki/Phnom_Penh_International_Airport","Pochentong International Airport"
 35306,"VDRK","medium_airport","Ratanakiri Airport",13.729999542236328,106.98699951171875,,"AS","KH","KH-16","Ratanakiri","no","VDRK","RBE","VDRK",,,"https://en.wikipedia.org/wiki/Ratanankiri_Airport",
 513482,"VDSA","large_airport","Siem Reap-Angkor International Airport",13.369167,104.223056,191,"AS","KH","KH-17","Siem Reap","yes","VDSA","SAI","VDSA",,,"https://en.wikipedia.org/wiki/Siem_Reap–Angkor_International_Airport",
-26477,"VDST","heliport","Stung Treng Airport",13.5319,106.014999,203,"AS","KH","KH-19","Stung Treng","no","VDST","TNX","VDST",,,"https://en.wikipedia.org/wiki/Stung_Treng_Airport",
-26478,"VDSV","small_airport","Sihanoukville International Airport",10.569498,103.631001,33,"AS","KH","KH-18","Preah Sihanouk","yes","VDSV","KOS","VDSV",,"http://www.sihanoukville-cambodia.com/about-sihanoukville/airport.html","https://en.wikipedia.org/wiki/Sihanoukville_International_Airport","Kompong Som"
+26477,"VDST","heliport","Stung Treng Airport",13.531278,106.01434,203,"AS","KH","KH-19","Stung Treng","no","VDST",,"VDST",,,"https://en.wikipedia.org/wiki/Stung_Treng_Airport","TNX"
+26478,"VDSV","small_airport","Sihanoukville International Airport",10.571969,103.632689,33,"AS","KH","KH-18","Preah Sihanouk","yes","VDSV","KOS","VDSV",,"http://www.sihanoukville-cambodia.com/about-sihanoukville/airport.html","https://en.wikipedia.org/wiki/Sihanoukville_International_Airport","Kompong Som"
 313338,"VDSY","small_airport","Krakor Airport",12.5385,104.1486,62,"AS","KH","KH-15","Krakor","no",,"KZD","VDSY",,,"https://en.wikipedia.org/wiki/Krakor_Airport",
 40350,"VE-0001","small_airport","Acañana Airport",3.233333110809326,-65.94999694824219,418,"SA","VE","VE-Z",,"no",,,,,,,
 40351,"VE-0002","heliport","Acañana Heliport",3.233333110809326,-65.94999694824219,460,"SA","VE","VE-Z",,"no",,,,,,,
