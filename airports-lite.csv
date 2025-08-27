@@ -4123,7 +4123,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3594,KHSV,medium_airport,Huntsville International Carl T Jones Field,34.637199,-86.775101,629,NA,US,US-AL,Huntsville,yes,KHSV,HSV,KHSV,HSV,http://www.flyhuntsville.com/portal/#.VbaG-_lVhBc,https://en.wikipedia.org/wiki/Huntsville_International_Airport,
 20091,KHTH,small_airport,Hawthorne Industrial Airport,38.544399,-118.634002,4215,NA,US,US-NV,Hawthorne,no,KHTH,HTH,KHTH,HTH,,https://en.wikipedia.org/wiki/Hawthorne_Municipal_Airport_(Nevada),
 20092,KHTL,small_airport,Roscommon County - Blodgett Memorial Airport,44.359798,-84.671095,1150,NA,US,US-MI,Houghton Lake,no,KHTL,HTL,KHTL,HTL,,https://en.wikipedia.org/wiki/Roscommon_County_Airport,
-20093,KHTO,small_airport,Town of East Hampton Airport,40.959954,-72.25105,55,NA,US,US-NY,East Hampton,no,,HTO,KJPX,JPX,http://www.town.east-hampton.ny.us/htmlpages/Airport/AirportHome.htm,https://en.wikipedia.org/wiki/East_Hampton_Airport,"KHTO, HTO"
+20093,KHTO,small_airport,Town of East Hampton Airport,40.959954,-72.25105,55,NA,US,US-NY,East Hampton,no,KJPX,HTO,KJPX,JPX,http://www.town.east-hampton.ny.us/htmlpages/Airport/AirportHome.htm,https://en.wikipedia.org/wiki/East_Hampton_Airport,"KHTO, HTO"
 3595,KHTS,medium_airport,Tri-State Airport / Milton J. Ferguson Field,38.366699,-82.557999,828,NA,US,US-WV,Huntington,yes,KHTS,HTS,KHTS,HTS,,https://en.wikipedia.org/wiki/Tri-State_Airport,
 20094,KHTW,small_airport,Lawrence County Airpark,38.419082,-82.494922,568,NA,US,US-OH,South Point,no,KHTW,HTW,KHTW,HTW,,https://en.wikipedia.org/wiki/Lawrence_County_Airpark,"Chesapeake, Huntington"
 3596,KHUA,medium_airport,Redstone Army Air Field,34.67869949,-86.68479919,684,NA,US,US-AL,Redstone Arsnl Huntsville,no,KHUA,HUA,KHUA,HUA,,https://en.wikipedia.org/wiki/Redstone_Army_Airfield,
@@ -8812,14 +8812,15 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26472,VCCW,small_airport,Weerawila Airport,6.25449,81.235199,50,AS,LK,LK-3,Weerawila,no,VCCW,WRZ,VCCW,,,https://en.wikipedia.org/wiki/Weerawila_Airport,Wirawila Airport
 309579,VCRI,large_airport,Mattala Rajapaksa International Airport,6.284467,81.124128,157,AS,LK,LK-3,Mattala,yes,VCRI,HRI,VCRI,VCRI,http://www.mria.lk/,https://en.wikipedia.org/wiki/Mattala_Rajapaksa_International_Airport,Hambantota International Airport
 26473,VDBG,medium_airport,Battambang Airport,13.0956,103.223999,59,AS,KH,KH-2,Battambang,yes,VDBG,BBM,VDBG,,,https://en.wikipedia.org/wiki/Battambang_Airport,
+32569,VDKC,small_airport,Kampong Cham Airport,12.028657,105.441165,148,AS,KH,KH-3,Kompong Cham,no,VDKC,,VDKC,,,https://en.wikipedia.org/wiki/Kampong_Cham_Airport,
 26474,VDKH,medium_airport,Kampong Chhnang Airport,12.255032,104.564657,56,AS,KH,KH-4,Kampong Chhnang,no,VDKH,KZC,VDKH,,,https://en.wikipedia.org/wiki/Kampong_Chhnang_Airport,
 46543,VDKK,small_airport,Koh Kong Airport,11.613397,102.997084,,AS,KH,KH-9,Krong Khemara Phoumin,no,VDKK,KKZ,VDKK,,,https://en.wikipedia.org/wiki/Koh_Kong_Airport,
-46544,VDMK,small_airport,Mondulkiri Airport,12.463648,107.187252,,AS,KH,KH-11,Sen Monorom,no,VDMK,MWV,VDMK,,,https://en.wikipedia.org/wiki/Mondulkiri_Airport,
+46544,VDMK,small_airport,Mondulkiri Airport,12.464562,107.188039,2299,AS,KH,KH-11,Sen Monorom,no,VDMK,MWV,VDMK,,,https://en.wikipedia.org/wiki/Mondulkiri_Airport,
 26475,VDPP,large_airport,Phnom Penh International Airport,11.5466,104.844002,40,AS,KH,KH-12,Phnom Penh (Pou Senchey),yes,VDPP,PNH,VDPP,,http://www.cambodia-airports.com/phnompenh/en/,https://en.wikipedia.org/wiki/Phnom_Penh_International_Airport,Pochentong International Airport
 35306,VDRK,medium_airport,Ratanakiri Airport,13.729999542236328,106.98699951171875,,AS,KH,KH-16,Ratanakiri,no,VDRK,RBE,VDRK,,,https://en.wikipedia.org/wiki/Ratanankiri_Airport,
 513482,VDSA,large_airport,Siem Reap-Angkor International Airport,13.369167,104.223056,191,AS,KH,KH-17,Siem Reap,yes,VDSA,SAI,VDSA,,,https://en.wikipedia.org/wiki/Siem_Reap–Angkor_International_Airport,
-26477,VDST,heliport,Stung Treng Airport,13.5319,106.014999,203,AS,KH,KH-19,Stung Treng,no,VDST,TNX,VDST,,,https://en.wikipedia.org/wiki/Stung_Treng_Airport,
-26478,VDSV,small_airport,Sihanoukville International Airport,10.569498,103.631001,33,AS,KH,KH-18,Preah Sihanouk,yes,VDSV,KOS,VDSV,,http://www.sihanoukville-cambodia.com/about-sihanoukville/airport.html,https://en.wikipedia.org/wiki/Sihanoukville_International_Airport,Kompong Som
+26477,VDST,heliport,Stung Treng Airport,13.531278,106.01434,203,AS,KH,KH-19,Stung Treng,no,VDST,,VDST,,,https://en.wikipedia.org/wiki/Stung_Treng_Airport,TNX
+26478,VDSV,small_airport,Sihanoukville International Airport,10.571969,103.632689,33,AS,KH,KH-18,Preah Sihanouk,yes,VDSV,KOS,VDSV,,http://www.sihanoukville-cambodia.com/about-sihanoukville/airport.html,https://en.wikipedia.org/wiki/Sihanoukville_International_Airport,Kompong Som
 313338,VDSY,small_airport,Krakor Airport,12.5385,104.1486,62,AS,KH,KH-15,Krakor,no,,KZD,VDSY,,,https://en.wikipedia.org/wiki/Krakor_Airport,
 40463,VE-0114,small_airport,Lagunillas Airport,10.12399959564209,-71.23799896240234,2469,SA,VE,VE-V,Lagunillas,no,,LGY,,,,,
 41600,VE-0207,small_airport,Macagua Airport,8.2788,-62.6652,231,SA,VE,VE-F,Ciudad Guayana,no,,SFX,SVMU,,,,San Felix Airport
