@@ -2007,8 +2007,18 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2754,ETSL,medium_airport,Lechfeld Air Base,48.185504,10.8612,1822,EU,DE,DE-BY,Graben,no,ETSL,,ETSL,,,https://en.wikipedia.org/wiki/Lechfeld_Air_Base,Fliegerhorst Lechfeld
 2755,ETSN,medium_airport,Neuburg Air Base,48.710999,11.2115,1249,EU,DE,DE-BY,Neuburg an der Donau,no,ETSN,,ETSN,,,https://en.wikipedia.org/wiki/Neuburg_Air_Base,
 29405,ETWM,small_airport,Meppen Air Base,52.723202,7.32633,,EU,DE,DE-NI,,no,ETWM,,ETWM,,,https://de.wikipedia.org/wiki/Fliegerhorst_Meppen,
+44007,EVAD,small_airport,Ādaži Airfield,57.098591,24.266718,8,EU,LV,LV-011,Ādaži,no,EVAD,,EVAD,,http://airfield-adazi.lv,https://en.wikipedia.org/wiki/%C4%80da%C5%BEi_Airfield,Carnicava Airfield
+308832,EVAH,small_airport,Limbaži Airfield,57.485476,24.672384,211,EU,LV,LV-054,Limbaži,no,EVLI,,EVLI,,http://langaci.wordpress.com/,https://lv.wikipedia.org/wiki/Limba%C5%BEu_lidlauks,"EVHA, Langaci"
+308833,EVAP,heliport,AMO Plant Heliport,56.66598,23.779761,7,EU,LV,LV-JEL,Jelgava,no,EVAP,,EVAP,,,,
+31028,EVGA,small_airport,Lielvarde Air Base,56.778301,24.853901,200,EU,LV,LV-067,Lielvarde,no,EVGA,,EVGA,,,https://en.wikipedia.org/wiki/Lielv%C4%81rde_Air_Base,
+324015,EVHB,heliport,Baltijas Helikopters Heliport,56.607936,23.458431,47,EU,LV,LV-041,Nākotne,no,EVHB,,EVHB,,,,
+308829,EVJC,heliport,Nākotne Centra Jaunzemji Heliport,56.606284,23.452138,46,EU,LV,LV-041,Nākotne,no,EVJC,,EVJC,,,,
 2757,EVLA,medium_airport,Liepāja International Airport,56.517502,21.096901,16,EU,LV,LV-112,Liepāja,no,EVLA,LPX,EVLA,,http://www.liepaja-airport.lv/,https://en.wikipedia.org/wiki/Liep%C4%81ja_International_Airport,
-2758,EVRA,large_airport,Riga International Airport,56.923599,23.9711,36,EU,LV,LV-062,Riga,yes,EVRA,RIX,EVRA,,http://www.riga-airport.com/,https://en.wikipedia.org/wiki/Riga_International_Airport,
+318286,EVLU,heliport,Ludza Helipad,56.521137,27.694057,,EU,LV,LV-058,Ludza,no,EVLU,,EVLU,,,,
+29971,EVPA,small_airport,Ikshkile Airfield,56.815668,24.524324,64,EU,LV,LV-067,Ikshkile,no,EVPA,,EVPA,,,https://lv.wikipedia.org/wiki/Ik%C5%A1%C4%B7iles_lidlauks,
+2758,EVRA,large_airport,Riga International Airport,56.920752,23.970711,36,EU,LV,LV-062,Riga,yes,EVRA,RIX,EVRA,,http://www.riga-airport.com/,https://en.wikipedia.org/wiki/Riga_International_Airport,
+31030,EVRS,small_airport,Spilve Aerodrome,56.9911,24.075001,3,EU,LV,LV-RIX,Riga,no,EVRS,,EVRS,,http://www.spilve.org/,https://en.wikipedia.org/wiki/Spilve_Airport,
+317835,EVSM,heliport,M-Sola Heliport,56.664136,24.904061,141,EU,LV,LV-067,Lielvārde,no,EVSM,,EVSM,,,https://en.wikipedia.org/wiki/M-Sola_Heliport,"GM Helicopters, Lielvārde"
 2759,EVVA,small_airport,Ventspils International Airport,57.3578,21.544201,19,EU,LV,LV-VEN,Ventspils,no,EVVA,VNT,EVVA,,https://www.airport.ventspils.lv/,https://en.wikipedia.org/wiki/Ventspils_International_Airport,
 17184,EXI,seaplane_base,Excursion Inlet Seaplane Base,58.420502,-135.449005,0,NA,US,US-AK,Excursion Inlet,yes,,EXI,,EXI,,https://en.wikipedia.org/wiki/Excursion_Inlet_Seaplane_Base,
 29708,EYBI,small_airport,Biržai Airfield,56.1758,24.7603,190,EU,LT,LT-PN,Biržai,no,EYBI,,EYBI,,,https://lt.wikipedia.org/wiki/Bir%C5%BE%C5%B3_aerodromas,
@@ -5658,6 +5668,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4478,LRCT,medium_airport,Câmpia Turzii Air Base,46.5023,23.8859,1083,EU,RO,RO-CJ,Câmpia Turzii,no,LRCT,,LRCT,,http://www.roaf.ro/en/unitati/bz71_en.php,https://en.wikipedia.org/wiki/RoAF_71st_Air_Base,"Campia Turzii, Luna Airport, RoAF 71st Air Base"
 4479,LRCV,medium_airport,Craiova International Airport,44.3181,23.888599,626,EU,RO,RO-DJ,Craiova,yes,LRCV,CRA,LRCV,,http://www.aeroportcraiova.ro/,https://en.wikipedia.org/wiki/Craiova_International_Airport,
 4480,LRIA,medium_airport,Iaşi Airport,47.180278,27.620833,411,EU,RO,RO-IS,Iaşi,yes,LRIA,IAS,LRIA,,http://www.aeroport.ro/,https://en.wikipedia.org/wiki/Ia%C5%9Fi_International_Airport,"Iasi, Jassy"
+600113,LRMA,heliport,Mir Aero Heliport,45.687288,25.527105,1765,EU,RO,RO-BV,Ghimbav,no,LRMA,,LRMA,,,,
 4481,LROD,medium_airport,Oradea International Airport,47.025299072265625,21.90250015258789,465,EU,RO,RO-BH,Oradea,yes,LROD,OMR,LROD,,,https://en.wikipedia.org/wiki/Oradea_International_Airport,
 4482,LROP,large_airport,Bucharest Henri Coandă International Airport,44.572127,26.103396,314,EU,RO,RO-IF,Otopeni,yes,LROP,OTP,LROP,,http://www.bucharestairports.ro/en/,https://en.wikipedia.org/wiki/Henri_Coand%C4%83_International_Airport,"BUH, Otopeni Airport, RoAF 90th Airlift Base"
 315660,LRPT,small_airport,Geamăna Airfield,44.817504,24.897822,1001,EU,RO,RO-AG,Pitești,no,LRPT,,LRPT,,,,Aerodromul Geamăna
@@ -5799,6 +5810,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4630,LUBM,medium_airport,Mărculești Air Base,47.862701,28.212799,312,EU,MD,MD-FR,Mărculeşti,no,LUBM,,LUBM,,,https://en.wikipedia.org/wiki/Mărculești_Air_Force_Base,Markuleshty Airport
 44412,LUCH,medium_airport,Cahul International Airport,45.8438,28.2637,652,EU,MD,MD-CH,Cahul,no,LUCH,,LUCH,,,https://en.wikipedia.org/wiki/Cahul_International_Airport,
 4571,LUKK,medium_airport,Chişinău International Airport,46.9277,28.931,399,EU,MD,MD-CU,Chişinău,yes,LUKK,RMO,LUKK,,http://www.airport.md/,https://en.wikipedia.org/wiki/Chi%C5%9Fin%C4%83u_International_Airport,KIV
+345107,LV-0049,small_airport,Vidzeme Aeroclub,57.329502,25.321079,354,EU,LV,LV-022,Cesis,no,EVCA,,EVCA,,,https://lv.wikipedia.org/wiki/C%C4%93su_lidlauks,
 313843,LWA,small_airport,Lebak Rural Airport,6.6739,124.0581,16,AS,PH,PH-SUK,Lebak,no,,LWA,,,,,"Doña Annie Sabala Vallite Alabastro Memorial Private, Lorenzo Palileo"
 4572,LWOH,medium_airport,Ohrid St. Paul the Apostle Airport,41.18,20.7423,2313,EU,MK,MK-003,Ohrid,yes,LWOH,OHD,LWOH,,http://ohd.airports.com.mk/,https://en.wikipedia.org/wiki/Ohrid_Airport,
 4573,LWSK,large_airport,Skopje International Airport,41.958087,21.622581,781,EU,MK,MK-008,Ilinden,yes,LWSK,SKP,LWSK,,http://skp.airports.com.mk/,https://en.wikipedia.org/wiki/Skopje_Airport,Petrovec
@@ -7238,6 +7250,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 351103,RO-0040,heliport,Năvodari Heliport,44.328998,28.656954,1,EU,RO,RO-CT,Năvodari,no,LRMC,,LRMC,,,,"Midia Harbour, Constanța"
 354838,RO-0054,small_airport,Iaşi Sud,47.15778,27.6375,200,EU,RO,RO-IS,,no,LRIS,,,,,,
 355259,RO-0064,heliport,Crystal Tower Bucharest Helipad,44.452433,26.095448,505,EU,RO,RO-B,Bucharest,no,LRBH,,LRBH,,,https://en.wikipedia.org/wiki/Crystal_Tower_Bucharest,
+529398,RO-0108,small_airport,Grădiștea Airfield,44.225,26.121389,254,EU,RO,RO-GR,Comana,no,LRBA,,LRBA,,,,
 598628,RO-0123,heliport,Emergency University Hospital Of Bucharest Heliport,44.436018,26.071093,,EU,RO,RO-B,,no,LRSU,,,,,,
 599109,RO-0135,heliport,Ploiesti Aero Taxi Heliport,44.964956,25.901118,735,EU,RO,RO-PH,Ploiești,no,LRPH,,LRPH,,,,
 599328,RO-0138,small_airport,Aerodrom Baia Mare,47.659081,23.474513,,EU,RO,RO-MM,Baia Mare,no,LRMM,,,,https://aeroclubulromaniei.ro/page/aerodrom-baia-mare,,
@@ -7741,7 +7754,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 316552,SIC,small_airport,San José Island Airport,8.2622,-79.078,150,NA,PA,PA-8,Las Perlas,no,,SIC,,,,https://en.wikipedia.org/wiki/San_José_Airport_(Las_Perlas),
 329420,SIJY,small_airport,Campo Comandantes Airport,-26.983055,-48.816387,33,SA,BR,BR-SC,Itajaí,no,,ITJ,SIJY,SC0027,,,"ITJ, Itajaí/Campo Comandantes"
 36081,SILC,small_airport,Municipal Bom Futuro Airport,-13.037861,-55.95025,1358,SA,BR,BR-MT,Lucas do Rio Verde,no,SILC,LVR,SILC,MT0025,,https://en.wikipedia.org/wiki/Lucas_do_Rio_Verde_Airport,
-36097,SILT,small_airport,Fazenda Trêz Irmãos Airport,-20.227777,-50.968334,1460,SA,BR,BR-SP,Santa Fé Do Sul,no,,SFV,SILT,SP0186,,,
+36097,SILT,small_airport,Santa Fé do Sul Airport,-20.228473,-50.968943,1276,SA,BR,BR-SP,Santa Fé do Sul,no,,SFV,SSA2,SP0186,,,"Fazenda Trêz Irmãos, SILT"
 231,SIMK,small_airport,Tenente Lund Pressoto Airport,-20.592199,-47.3829,3292,SA,BR,BR-SP,Franca,no,SIMK,FRC,SIMK,SP0011,http://www.daesp.sp.gov.br/aeroporto-detalhe/?id=859,https://en.wikipedia.org/wiki/Franca_Airport,SBFC
 36229,SIRI,small_airport,Barra Grande Airport,-13.906082,-38.940804,23,SA,BR,BR-BA,Maraú,yes,,MUU,SIRI,BA0096,,https://en.wikipedia.org/wiki/Barra_Grande_Airport,
 36411,SIZX,small_airport,Inácio Luís do Nascimento Airport,-11.2966,-57.5495,870,SA,BR,BR-MT,Juara,no,SIZX,JUA,SIZX,MT0018,,http://pt.wikipedia.org/wiki/Aeroporto_In%C3%A1cio_Lu%C3%ADs_do_Nascimento,Juara Sul Airport
