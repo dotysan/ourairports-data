@@ -12474,8 +12474,8 @@
 594426,"BE-0086","closed","Sint-Niklaas Airfield",51.17213,4.19202,,"EU","BE","BE-VOV","Sint-Niklaas","no",,,,,,,
 594427,"BE-0087","closed","Keerbergen Airfield",51.00672,4.67558,,"EU","BE","BE-VBR","Keerbergen","no",,,,,,,
 594431,"BE-0088","closed","Blakenberg Airfield",50.94458,5.05254,,"EU","BE","BE-VLI","Halen","no",,,,,,,
-600039,"BE-0089","small_airport","ERQUELINNES DZ",50.292177,4.151947,,"EU","BE","BE-U-A","Erquelinnes","no",,,,,,,
-600040,"BE-0090","heliport","ERQUELINNES DZ",50.292177,4.151947,,"EU","BE","BE-U-A","Erquelinnes","no",,,,,,,
+600039,"BE-0089","heliport","ERQUELINNES DZ",50.292177,4.151947,488,"EU","BE","BE-WHT","Erquelinnes","no",,,,,,,
+600040,"BE-0090","heliport","(Duplicate)ERQUELINNES DZ",50.292177,4.151947,,"EU","BE","BE-U-A","Erquelinnes","no",,,,,,,
 309346,"BF-0001","small_airport","Peta Barabe Airfield",14.366389,0.086944,910,"AF","BF","BF-OUD","Essakane Gold Mine","no",,,"DFEN",,,,"I Am Gold, Essakane"
 30906,"BF-0002","closed","Loumana Airport",10.567,-5.35,1148,"AF","BF","BF-COM","Loumana","no",,,,,,,"DFOL, DFOL"
 43886,"BG-0001","closed","Livada Airport",42.456284,27.197334,58,"EU","BG","BG-02","Kameno","no",,,,,,,"Rusokastro"
@@ -25066,20 +25066,20 @@
 2755,"ETSN","medium_airport","Neuburg Air Base",48.710999,11.2115,1249,"EU","DE","DE-BY","Neuburg an der Donau","no","ETSN",,"ETSN",,,"https://en.wikipedia.org/wiki/Neuburg_Air_Base",
 309402,"ETT1","small_airport","Etting-Adelmannsberg Glider Field",48.81028,11.42096,1253,"EU","DE","DE-BY","Ingolstadt","no",,,,,"http://www.aero-club-ingolstadt.de/",,
 29405,"ETWM","small_airport","Meppen Air Base",52.723202,7.32633,,"EU","DE","DE-NI",,"no","ETWM",,"ETWM",,,"https://de.wikipedia.org/wiki/Fliegerhorst_Meppen",
-44007,"EVAD","small_airport","Ādaži Airfield",57.098598,24.2658,8,"EU","LV","LV-011","Ādaži","no",,,"EVAD",,"http://airfield-adazi.lv","https://en.wikipedia.org/wiki/%C4%80da%C5%BEi_Airfield","Carnicava Airfield"
-308832,"EVAH","small_airport","Langaci-Limbaži Airfield",57.4849,24.672126,211,"EU","LV","LV-054","Limbaži","no",,,"EVLI",,"http://langaci.wordpress.com/",,
-308833,"EVAP","heliport","AMO Plant Heliport",56.6656,23.7792,7,"EU","LV","LV-JEL","Jelgava","no",,,"EVAP",,,,
-31028,"EVGA","small_airport","Lielvarde Air Base",56.778301,24.853901,200,"EU","LV","LV-067","Lielvarde","no",,,"EVGA",,,"https://en.wikipedia.org/wiki/Lielv%C4%81rde_Air_Base",
-324015,"EVHB","heliport","Baltijas Helikopters Heliport",56.607936,23.458431,,"EU","LV","LV-041","Nākotne","no",,,"EVHB",,,,
-308827,"EVIA","small_airport","Cīrava Airfield",56.738062,21.359786,75,"EU","LV","LV-112","Cīrava","no",,,"EVIA",,"https://airclub.lv/","https://lv.wikipedia.org/wiki/C%C4%ABravas_lidlauks","EVIA"
-308829,"EVJC","heliport","Nākotne Centra Jaunzemji Heliport",56.606284,23.452138,46,"EU","LV","LV-041","Nākotne","no",,,"EVJC",,,,
+44007,"EVAD","small_airport","Ādaži Airfield",57.098591,24.266718,8,"EU","LV","LV-011","Ādaži","no","EVAD",,"EVAD",,"http://airfield-adazi.lv","https://en.wikipedia.org/wiki/%C4%80da%C5%BEi_Airfield","Carnicava Airfield"
+308832,"EVAH","small_airport","Limbaži Airfield",57.485476,24.672384,211,"EU","LV","LV-054","Limbaži","no","EVLI",,"EVLI",,"http://langaci.wordpress.com/","https://lv.wikipedia.org/wiki/Limba%C5%BEu_lidlauks","EVHA, Langaci"
+308833,"EVAP","heliport","AMO Plant Heliport",56.66598,23.779761,7,"EU","LV","LV-JEL","Jelgava","no","EVAP",,"EVAP",,,,
+31028,"EVGA","small_airport","Lielvarde Air Base",56.778301,24.853901,200,"EU","LV","LV-067","Lielvarde","no","EVGA",,"EVGA",,,"https://en.wikipedia.org/wiki/Lielv%C4%81rde_Air_Base",
+324015,"EVHB","heliport","Baltijas Helikopters Heliport",56.607936,23.458431,47,"EU","LV","LV-041","Nākotne","no","EVHB",,"EVHB",,,,
+308827,"EVIA","small_airport","Cīrava Airfield",56.738062,21.359786,75,"EU","LV","LV-112","Cīrava","no",,,"EVIA",,"https://airclub.lv/","https://lv.wikipedia.org/wiki/C%C4%ABravas_lidlauks",
+308829,"EVJC","heliport","Nākotne Centra Jaunzemji Heliport",56.606284,23.452138,46,"EU","LV","LV-041","Nākotne","no","EVJC",,"EVJC",,,,
 31029,"EVKA","medium_airport","Jēkabpils Air Base",56.534698,25.8925,289,"EU","LV","LV-042","Jēkabpils","no",,,"EVKA",,,"https://en.wikipedia.org/wiki/J%C4%93kabpils_(air_base)","Yekabpils, Krustpils"
 2757,"EVLA","medium_airport","Liepāja International Airport",56.517502,21.096901,16,"EU","LV","LV-112","Liepāja","no","EVLA","LPX","EVLA",,"http://www.liepaja-airport.lv/","https://en.wikipedia.org/wiki/Liep%C4%81ja_International_Airport",
-318286,"EVLU","heliport","Ludza Helipad",56.521111,27.694167,,"EU","LV","LV-058","Ludza","no",,,"EVLU",,,,
-29971,"EVPA","small_airport","Ikshkile Airfield",56.814999,24.5278,64,"EU","LV","LV-067","Ikshkile","no",,,"EVPA",,,"https://lv.wikipedia.org/wiki/Ik%C5%A1%C4%B7iles_lidlauks",
-2758,"EVRA","large_airport","Riga International Airport",56.923599,23.9711,36,"EU","LV","LV-062","Riga","yes","EVRA","RIX","EVRA",,"http://www.riga-airport.com/","https://en.wikipedia.org/wiki/Riga_International_Airport",
-31030,"EVRS","small_airport","Spilve Aerodrome",56.991100311299995,24.0750007629,3,"EU","LV","LV-RIX","Riga","no",,,"EVRS",,"http://www.spilve.org/","https://en.wikipedia.org/wiki/Spilve_Airport",
-317835,"EVSM","heliport","M-Sola Heliport",56.665556,24.903056,141,"EU","LV","LV-067","Lielvārde","no",,,"EVSM",,,"https://en.wikipedia.org/wiki/M-Sola_Heliport","GM Helicopters, Lielvārde"
+318286,"EVLU","heliport","Ludza Helipad",56.521137,27.694057,,"EU","LV","LV-058","Ludza","no","EVLU",,"EVLU",,,,
+29971,"EVPA","small_airport","Ikshkile Airfield",56.815668,24.524324,64,"EU","LV","LV-067","Ikshkile","no","EVPA",,"EVPA",,,"https://lv.wikipedia.org/wiki/Ik%C5%A1%C4%B7iles_lidlauks",
+2758,"EVRA","large_airport","Riga International Airport",56.920752,23.970711,36,"EU","LV","LV-062","Riga","yes","EVRA","RIX","EVRA",,"http://www.riga-airport.com/","https://en.wikipedia.org/wiki/Riga_International_Airport",
+31030,"EVRS","small_airport","Spilve Aerodrome",56.9911,24.075001,3,"EU","LV","LV-RIX","Riga","no","EVRS",,"EVRS",,"http://www.spilve.org/","https://en.wikipedia.org/wiki/Spilve_Airport",
+317835,"EVSM","heliport","M-Sola Heliport",56.664136,24.904061,141,"EU","LV","LV-067","Lielvārde","no","EVSM",,"EVSM",,,"https://en.wikipedia.org/wiki/M-Sola_Heliport","GM Helicopters, Lielvārde"
 31031,"EVTA","medium_airport","Jūrmala Airport",56.9422,23.2239,220,"EU","LV","LV-099","Tukums","no",,,"EVJA",,,"https://en.wikipedia.org/wiki/J%C5%ABrmala_Airport",
 46346,"EVTE","small_airport","Talsi Airfield",57.254398,22.566218,,"EU","LV","LV-097","Talsi","no",,,"EVTE",,,"https://lv.wikipedia.org/wiki/Talsu_lidlauks",
 2759,"EVVA","small_airport","Ventspils International Airport",57.3578,21.544201,19,"EU","LV","LV-VEN","Ventspils","no","EVVA","VNT","EVVA",,"https://www.airport.ventspils.lv/","https://en.wikipedia.org/wiki/Ventspils_International_Airport",
@@ -43869,7 +43869,7 @@
 5670,"LR82","medium_airport","Boboc Air Base",45.2164,26.9786,344,"EU","RO","RO-BZ","Boboc","no","LRBO",,"LRBO",,,"https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Boboc","RoAF Aurel Vlaicu Flight School"
 4471,"LRAR","medium_airport","Arad International Airport",46.176601,21.261999,352,"EU","RO","RO-AR","Arad","yes","LRAR","ARW","LRAR",,,"https://en.wikipedia.org/wiki/Arad_International_Airport",
 4472,"LRBC","medium_airport","Bacău George Enescu International  Airport",46.5219,26.910299,607,"EU","RO","RO-BC","Bacău","yes","LRBC","BCM","LRBC",,"http://www.bacauairport.ro/","https://en.wikipedia.org/wiki/Bac%C4%83u_International_Airport","Bacau, RoAF 95th Air Base"
-324127,"LRBG","heliport","IAR Ghimbav Heliport",45.6873,25.527073,1762,"EU","RO","RO-BV","Brașov (Ghimbav)","no",,,"LRBG",,,,"Mir Aero"
+324127,"LRBG","heliport","IAR Brașov / Airbus Helicopters Heliport",45.695845,25.534013,1744,"EU","RO","RO-BV","Ghimbav","no",,,"LRBG",,,,
 354772,"LRBK","heliport","Moara Vlasiei (Becker Aviation) Heliport",44.633011,26.197479,292,"EU","RO","RO-IF","Moara Vlasiei","no",,,"LRBK",,,,
 4473,"LRBM","medium_airport","Maramureș International Airport",47.658444,23.464445,605,"EU","RO","RO-MM","Tăuții-Măgherăuș","yes","LRBM","BAY","LRBM",,"https://aimm.eu/","https://en.wikipedia.org/wiki/Maramureș_Airport","Baia Mare"
 333337,"LRBN","small_airport","Bistrița Airfield",47.158575,24.552311,,"EU","RO","RO-BN","Bistrița","no",,,"LRBN",,,,
@@ -43887,6 +43887,7 @@
 324128,"LRFL","small_airport","Floreni Airfield",47.362846,25.21191,2908,"EU","RO","RO-SV","Vatra Dornei","no",,,"LRFL",,,,
 529399,"LRHO","heliport","Oradea / Smurd Bh 2 Heliport",47.064167,21.954167,538,"EU","RO","RO-BH",,"no",,,"LRHO",,,,
 4480,"LRIA","medium_airport","Iaşi Airport",47.180278,27.620833,411,"EU","RO","RO-IS","Iaşi","yes","LRIA","IAS","LRIA",,"http://www.aeroport.ro/","https://en.wikipedia.org/wiki/Ia%C5%9Fi_International_Airport","Iasi, Jassy"
+600113,"LRMA","heliport","Mir Aero Heliport",45.687288,25.527105,1765,"EU","RO","RO-BV","Ghimbav","no","LRMA",,"LRMA",,,,
 4481,"LROD","medium_airport","Oradea International Airport",47.025299072265625,21.90250015258789,465,"EU","RO","RO-BH","Oradea","yes","LROD","OMR","LROD",,,"https://en.wikipedia.org/wiki/Oradea_International_Airport",
 4482,"LROP","large_airport","Bucharest Henri Coandă International Airport",44.572127,26.103396,314,"EU","RO","RO-IF","Otopeni","yes","LROP","OTP","LROP",,"http://www.bucharestairports.ro/en/","https://en.wikipedia.org/wiki/Henri_Coand%C4%83_International_Airport","BUH, Otopeni Airport, RoAF 90th Airlift Base"
 315986,"LRPH","small_airport","Şirna Tăriceni Airfield",44.783792,25.983205,,"EU","RO","RO-PH","Tăriceni","no",,,,,,,
@@ -44211,7 +44212,7 @@
 4571,"LUKK","medium_airport","Chişinău International Airport",46.9277,28.931,399,"EU","MD","MD-CU","Chişinău","yes","LUKK","RMO","LUKK",,"http://www.airport.md/","https://en.wikipedia.org/wiki/Chi%C5%9Fin%C4%83u_International_Airport","KIV"
 31864,"LUTR","medium_airport","Tiraspol Airport",46.868099,29.590599,141,"EU","MD","MD-SN","Tiraspol","no",,,"LUTR",,,"https://en.wikipedia.org/wiki/Tiraspol_Airport","Transnistria"
 44605,"LV-0001","small_airport","Gančauski Airfield",56.043395,26.369549,,"EU","LV","LV-111","Gančauski","no",,,,,,,"Gancauski Airfield, Ķirupe Airport, EVIL"
-44651,"LV-0002","small_airport","Griva Airfield",55.883999,26.471001,,"EU","LV","LV-DGV","Daugavpils","no",,,"EVBA",,,"https://lv.wikipedia.org/wiki/Gr%C4%ABvas_lidlauks",
+44651,"LV-0002","small_airport","Griva Airfield",55.889985,26.45999,305,"EU","LV","LV-DGV","Daugavpils","no",,,"EVBA",,,"https://lv.wikipedia.org/wiki/Gr%C4%ABvas_lidlauks",
 46347,"LV-0003","small_airport","Saldus Airfield",56.692217755499996,22.4695301056,,"EU","LV","LV-088",,"no",,,,,,,"Druva Airfield"
 315678,"LV-0004","small_airport","Praulienas lidlauks",56.8516882,26.3126111,,"EU","LV","LV-059",,"no",,,,,,,
 316393,"LV-0005","closed","Kazruņģis",57.5580332,25.8375718,,"EU","LV","LV-022",,"no",,,,,,,
@@ -44222,7 +44223,7 @@
 321530,"LV-0010","small_airport","Valgundes lidlauks",56.7713125,23.6550662,,"EU","LV","LV-JEL","Valgunde","no",,,,,,,
 321664,"LV-0011","small_airport","Taurene Airfield",57.169426,25.676857,648,"EU","LV","LV-022","Taurene","no",,,,,,,"Taurenes lidlauks"
 322004,"LV-0012","small_airport","Zabulnieki Airstrip",56.422305,26.728749,,"EU","LV","LV-073","Riebiņi","no",,,,,,,
-324014,"LV-0013","closed","Aizpute Airfield",56.696944,21.628889,,"EU","LV","LV-112","Aizpute","no",,,,,,,
+324014,"LV-0013","closed","Aizpute Airfield",56.696955,21.629296,230,"EU","LV","LV-112","Aizpute","no",,,,,,,"EVAA"
 325780,"LV-0014","small_airport","Grotūžis Airstrip",57.440742,25.875658,,"EU","LV","LV-094","Grotūžis","no",,,,,,,
 325782,"LV-0015","small_airport","Madliena Airfield",56.792113,25.123042,,"EU","LV","LV-067","Madliena","no",,,,,,,"Madlienas lidlauks"
 325783,"LV-0016","closed","Matīši Airfield",57.688051,25.166628,,"EU","LV","LV-113","Matīši","no",,,,,,,
@@ -44258,7 +44259,7 @@
 329356,"LV-0046","closed","Ezere Airfield",56.404546,22.337208,,"EU","LV","LV-112","Ezere","no",,,,,,,
 331742,"LV-0047","closed","Zaicevas Airstrip",57.468352,27.508881,,"EU","LV","LV-007","Pededze","no",,,,,,,
 337014,"LV-0048","small_airport","Nereta Airstrip",56.22175,25.29949,,"EU","LV","LV-002","Nereta","no",,,,,,,
-345107,"LV-0049","small_airport","Vidzeme Aeroclub",57.32935,25.32139,354,"EU","LV","LV-022","Cesis","no",,,"EVCA",,,"https://lv.wikipedia.org/wiki/C%C4%93su_lidlauks",
+345107,"LV-0049","small_airport","Vidzeme Aeroclub",57.329502,25.321079,354,"EU","LV","LV-022","Cesis","no","EVCA",,"EVCA",,,"https://lv.wikipedia.org/wiki/C%C4%93su_lidlauks",
 346619,"LV-0050","small_airport","Pilsrundāle Rural Airstrip",56.42202,23.97632,,"EU","LV","LV-016","Pilsrundāle","no",,,,,,,
 347282,"LV-0051","small_airport","Ošupe Airstrip",56.80478,26.77088,,"EU","LV","LV-059",,"no",,,,,,,
 349414,"LV-0052","small_airport","Biržu lidlauks",56.40475,25.79567,,"EU","LV","LV-042","Birži","no",,,,,,,
@@ -44268,13 +44269,14 @@
 35021,"LV-7721","closed","Liepas Air Base",57.3867,25.508301,256,"EU","LV","LV-022","Valmiera","no",,,,,,"https://en.wikipedia.org/wiki/Liepas",
 35093,"LV-8037","closed","Penkule Airfield",56.474862,23.190107,151,"EU","LV","LV-041",,"no",,,,,,"https://en.wikipedia.org/wiki/T%C4%93rvete",
 31026,"LV-8038","closed","Jelgava Airfield",56.672798,23.679199,20,"EU","LV","LV-JEL","Jelgava","no",,,,,,,"EVEA"
-31027,"LV-8039","closed","Vaiņode Air Base",56.405602,21.8869,518,"EU","LV","LV-112","Vaiņode","no",,,,,,"https://en.wikipedia.org/wiki/Vai%C5%86ode_Air_Base","EVFA, EVFA"
+31027,"LV-8039","closed","Vaiņode Air Base",56.405781,21.887198,518,"EU","LV","LV-112","Vaiņode","no",,,,,,"https://en.wikipedia.org/wiki/Vai%C5%86ode_Air_Base","EVFA, Vainodo, Vainede, Vaynede, Vaynodo, Toyvanede"
 44006,"LV-8040","closed","Daugavpils International Airport",55.944721,26.665001,398,"EU","LV","LV-111","Daugavpils","no",,,,,,"https://en.wikipedia.org/wiki/Daugavpils_International_Airport","EVDA, DGP"
 324016,"LV-8041","closed","Augstkalne Airfield",56.41318,23.319409,,"EU","LV","LV-026","Augstkalne","no",,,,,,,"EVMA, EVMA"
 324017,"LV-8042","closed","Rēzekne Airfield",56.556389,27.212778,,"EU","LV","LV-077","Rēzekne","no",,,,,,"https://en.wikipedia.org/wiki/Rezekne_Airport","EVNA"
 44005,"LV-8043","small_airport","Cesis ""old"" airfield",57.32379,25.323229,367,"EU","LV","LV-022","Cesis","no",,,,,,,
 599301,"LV-8044","small_airport","Saraiķi lidlauks",56.698941,21.062459,,"EU","LV","LV-U-A","Saraiķi","no",,,,,,,
 599559,"LV-8045","closed","Libau Airfield",56.539206,21.01255,,"EU","LV","LV-LPX",,"no",,,,,,,
+600129,"LV-8046","closed","Laukgals lidlauks",56.364264,21.148337,,"EU","LV","LV-112","Laukgals","no",,,,,,,
 4668,"LW66","small_airport","Malo Konjari Sport Airfield",41.333099,21.4491,2034,"EU","MK","MK-005","Malo Konjari","no",,,,,,,"LW66, Prilep"
 4669,"LW67","small_airport","Kumanovo Airfield",42.154242,21.699328,1217,"EU","MK","MK-007","Kumanovo","no",,,,,,,"LW67, Adzi Tepe, Kumanovo Airbase"
 4672,"LW70","small_airport","Veles Airfield",41.758796,21.842451,1112,"EU","MK","MK-001","Karatmanovo","no",,,,,,,"Titov Veles, LW70, Велес"
@@ -45756,6 +45758,7 @@
 517152,"MU-0003","heliport","Sir Seewoosagur Ramgoolam National Hospital Helipad",-20.097715,57.558786,183,"AF","MU","MU-PA","Port Louis","no",,,,,,,
 557052,"MU-0004","medium_airport","IAF Agalega",-10.372483,56.603537,,"AF","MU","MU-AG","Vingt Cinq","no",,,,,,,"Military, India, Agaléga"
 564465,"MU-0005","seaplane_base","LUX Grand Gaube seaplane base",-20.003047,57.661781,,"AF","MU","MU-RP","Grand Gaube","no",,,,,"https://islandwingsmauritius.com/",,
+600095,"MU-0006","heliport","Shanti Meurice Helipad",-20.514927,57.471637,,"AF","MU","MU-SA","Riambel","no",,,,,,,
 22497,"MU00","small_airport","Samuel L. Clemens Memorial Airport",39.44449996948242,-91.95179748535156,730,"NA","US","US-MO","Paris","no",,,"MU00","MU00",,,
 22498,"MU01","heliport","Dogwood Canyon Heliport",36.49919891357422,-93.45850372314453,1240,"NA","US","US-MO","Blue Eye","no",,,"MU01","MU01",,,
 22499,"MU02","small_airport","C.E.F. Airport",38.80979919433594,-91.10350036621094,638,"NA","US","US-MO","Warrenton","no",,,"MU02","MU02",,,
@@ -54174,7 +54177,7 @@
 354792,"RO-0049","small_airport","Luncani Airfield",46.481669,23.931478,1010,"EU","RO","RO-CJ","Luna","no",,,,,,,"Skydive Transilvania"
 354801,"RO-0050","small_airport","Dezmir Airfield",46.779124,23.71282,1010,"EU","RO","RO-CJ","Dezmir","no",,,"LRCJ",,,,"Aerodromul Dezmir"
 354824,"RO-0051","small_airport","Gagu Zenair Airfield",44.611058,26.26066,265,"EU","RO","RO-IF","Gagu","no",,,,,,,
-354825,"RO-0052","heliport","Heliport Dogaru",47.05833,22.07806,,"EU","RO","RO-BH","Fughiu","no",,,,,"http://www.flycompany.ro",,
+354825,"RO-0052","heliport","Dogaru Heliport",47.058386,22.078215,498,"EU","RO","RO-BH","Fughiu","no",,,"LRDD",,"http://flyromania.net/aerodroame/fughiu-dogaru/",,
 354826,"RO-0053","small_airport","Plopul Airstrip",45.00556,29.1,12,"EU","RO","RO-TL","Plopul","no",,,,,"https://moa-avio.ro/aerodrom/",,
 354838,"RO-0054","small_airport","Iaşi Sud",47.15778,27.6375,200,"EU","RO","RO-IS",,"no","LRIS",,,,,,
 354876,"RO-0055","small_airport","Dumbrava Roșie Airfield",46.898853,26.434307,992,"EU","RO","RO-NT",,"no",,,,,,,
@@ -54194,7 +54197,6 @@
 515319,"RO-0069","small_airport","Săcălășeni Airfield",47.578155,23.53415,627,"EU","RO","RO-MM","Coltău","no",,,,,,,
 535003,"RO-0070","heliport","Deveselu Heliport",44.0806,24.40044,292,"EU","RO","RO-OT","Deveselu","no",,,,,,,
 539258,"RO-0071","small_airport","Mânăstirea Airfield",44.21899,26.8735,108,"EU","RO","RO-CL","Mânăstirea","no",,,,,,,
-539262,"RO-0072","heliport","Airbus Helicopters Romania Ghimbav Heliport",45.69583,25.53403,1749,"EU","RO","RO-BV","Brașov (Ghimbav)","no",,,,,,,
 539279,"RO-0073","heliport","Drobeta-Turnu Severin Heliport",44.6304,22.63471,266,"EU","RO","RO-MH","Drobeta-Turnu Severin","no",,,,,,,
 539317,"RO-0074","closed","Balomir (Sibot) Airfield",45.92483,23.35914,794,"EU","RO","RO-AB","Balomiru de Câmp","no",,,,,,,
 539318,"RO-0075","closed","Aripile Fagarsului Airfield",45.74613,25.02131,1742,"EU","RO","RO-BV","Hârseni","no",,,,,,,
@@ -54230,7 +54232,7 @@
 571913,"RO-0105","closed","Zăbala Airfield",45.91326,26.19337,1985,"EU","RO","RO-CV","Zăbala","no",,,,,,,
 572124,"RO-0106","small_airport","Mărgineni Airfield",46.59582,26.87647,574,"EU","RO","RO-BC","Bacău","no",,,,,,,
 5669,"RO-0107","closed","Deveselu Air Base",44.0773010254,24.4164009094,289,"EU","RO","RO-OT","Deveselu","no",,,,,,,"LR81"
-529398,"RO-0108","closed","Grădiștea Airfield",44.225,26.121389,254,"EU","RO","RO-GR","Comana","no",,,,,,,"LRBA"
+529398,"RO-0108","small_airport","Grădiștea Airfield",44.225,26.121389,254,"EU","RO","RO-GR","Comana","no","LRBA",,"LRBA",,,,
 594502,"RO-0109","closed","Galați Airport",45.45379,28.04489,,"EU","RO","RO-GL","Galați","no",,,,,,,
 594503,"RO-0110","closed","Pipera Airfield",44.47989,26.11666,,"EU","RO","RO-B","Bucharest","no",,,,,,,
 598614,"RO-0111","closed","Mamaia Airfield",44.302248,28.604515,89,"EU","RO","RO-CT","Constanța","no",,,,,,,"ww2, military, Royal Romanian Air Force"
@@ -54240,7 +54242,7 @@
 598618,"RO-0115","closed","Roșiorii de Vede Airfield",44.096247,24.969306,,"EU","RO","RO-TR","Roșiorii de Vede","no",,,,,,,"ww2, military, Royal Romanian Air Force"
 598619,"RO-0116","closed","Mizil Airfield",44.987931,26.418772,,"EU","RO","RO-PH",,"no",,,,,,,"ww2, military, Royal Romanian Air Force"
 598620,"RO-0117","closed","Târgșoru Nou Airfield",44.910511,25.872073,,"EU","RO","RO-PH",,"no",,,,,,,"ww2, military, Royal Romanian Air Force"
-598621,"RO-0118","closed","Titu Boteni Air Base",44.64698,25.610375,,"EU","RO","RO-DB",,"no",,,,,,,
+598621,"RO-0118","closed","Titu Boteni Air Base",44.64698,25.610375,492,"EU","RO","RO-DB",,"no",,,,,,,"LRTI"
 598622,"RO-0119","closed","Braşov City Airfield",45.678654,25.618111,,"EU","RO","RO-BV",,"no",,,,,,,"ww2, military, Royal Romanian Air Force"
 598624,"RO-0120","closed","Constanța Palazu Mare Seaplane Base",44.230119,28.61078,,"EU","RO","RO-CT",,"no",,,,,"https://www.navy.ro/despre/organizare/grup_elicoptere/istoric_elicopt.php",,"ww2, military, Royal Romanian Air Force"
 598625,"RO-0121","heliport","Air Force Staff HQ Helipad",44.518905,26.07532,,"EU","RO","RO-B",,"no",,,,,,,"air force, hq, helipad, military"
@@ -54288,6 +54290,12 @@
 599449,"RO-0163","heliport","2nd Detachment of Firefighters Iaşi Helipad",47.142274,27.638056,,"EU","RO","RO-IS",,"no",,,,,,,
 599450,"RO-0164","heliport","National Centre Of Professional Firefighting and Rescue Training Iași Helipad",47.19035,27.573672,,"EU","RO","RO-IS",,"no",,,,,,,
 599720,"RO-0165","heliport","Jibou Ambulance Heliport",47.271021,23.257294,,"EU","RO","RO-SJ","Jibou","no",,,,,,,
+600105,"RO-0166","closed","Bucureşti Utility Aviation",44.502895,26.084842,291,"EU","RO","RO-U-A","Sector 1","no",,,,,"https://www.aviatia-utilitara.ro/",,"LRAU"
+600106,"RO-0167","heliport","Dacia Group Mioveni Helipad",44.949127,24.922121,,"EU","RO","RO-AG","Mioveni","no",,,,,,,
+600107,"RO-0168","heliport","Nidec Motor Corporation RO Helipad",44.868074,24.897112,,"EU","RO","RO-AG","Zăvoi","no",,,,,,,
+600108,"RO-0169","heliport","SIIFT MH Helipad",44.850933,24.8608,,"EU","RO","RO-AG","Pitești","no",,,,,,,
+600110,"RO-0170","heliport","Customs Office Alexandria Helipad",43.980981,25.313498,,"EU","RO","RO-TR","Alexandria","no",,,,,,,
+600111,"RO-0171","heliport","Emergency County Hospital Craiova Helipad",44.304848,23.793694,,"EU","RO","RO-DJ","Craiova","no",,,,,,,
 300121,"RO02","heliport","Lester Helo Pad Nº 2",26.3172222222,127.764444444,26,"AS","JP","JP-47",,"no",,,"RO02",,,,
 300122,"RO04","heliport","White Beach Helipad CFAO",26.301666666699997,127.910277778,31,"AS","JP","JP-47",,"no",,,"RO04",,,,
 5671,"ROAH","large_airport","Naha Airport / JASDF Naha Air Base",26.195801,127.646004,12,"AS","JP","JP-47","Naha","yes","ROAH","OKA","ROAH",,"http://www.naha-airport.co.jp/","https://en.wikipedia.org/wiki/Naha_Airport","那覇空港, Naha Kūkō?, AHA, Naha AFB"
@@ -54750,7 +54758,7 @@
 46079,"RU-0296","heliport","Rechnoy Yacht-club Helipad",59.963791847799996,30.239106416699997,,"EU","RU","RU-SPE","Saint Petersburg","no",,,,,,,"Central Yacht-club Helipad, Вертолётная площадка Речной Яхт-клуб, Вертолётная площадка Центральный Яхт-клуб"
 46087,"RU-0297","small_airport","Pereyaslavka-2 Air Base",47.996987,135.088182,269,"AS","RU","RU-KHA","Pereyaslavka","no",,,"XHHP",,,,"Аэродром Переяславка"
 46089,"RU-0298","small_airport","Marinovka Air Base",48.637,43.789,240,"EU","RU","RU-VGG","Volgograd","no",,,,"XRWM",,,"Аэродром Мариновка, ЬРВМ"
-46090,"RU-0299","small_airport","Varfolomeyevka Air Base",44.261,133.413,485,"AS","RU","RU-PRI","Varfolomeyevka","no",,,"XHIF",,,,"Varfolomeevka Air Base, Аэродром Варфоломеевка"
+46090,"RU-0299","small_airport","Varfolomeyevka Air Base",44.261794,133.411701,485,"AS","RU","RU-PRI","Varfolomeyevka","no",,,,"XHIF",,,"Varfolomeevka Air Base, Аэродром Варфоломеевка"
 46125,"RU-0300","heliport","Lensovetovskiy Heliport",59.765504738400004,30.4800224304,,"EU","RU","RU-SPE","Saint Petersburg","no",,,,,"http://aerosouz-piter.ru/",,"Lensovetovsky Heliport, Вертодром Ленсоветовский"
 46126,"RU-0301","heliport","Volen Heliport",56.2788410955,37.476253509500005,,"EU","RU","RU-MOS","Yakhroma","no",,,"UUEJ",,"http://www.aerosouz.ru/home/moscow/",,"Вертодром Волен, УУЕЙ"
 46127,"RU-0302","heliport","Pridachinskaya Damba Heliport",51.67409209,39.238754510899994,,"EU","RU","RU-VOR","Voronezh","no",,,,,"http://aerosouz-vrn.ru/",,"Pridachenskaya Damba Heliport, Вертодром Придачинская Дамба, Вертодром Придаченская Дамба"
@@ -58711,7 +58719,7 @@
 36094,"SILQ","small_airport","Aeroleve Aeródromo Privado Airport",-24.929094,-53.496006,2254,"SA","BR","BR-PR","Cascavel","no",,,"SILQ","PR0046",,,"Clube de Ultraleves Aeroleve"
 36095,"SILR","heliport","One Hundred Heliport",-23.59502,-46.684449,2550,"SA","BR","BR-SP","São Paulo","no",,,"SILR","SP0523",,,
 335579,"SILS","small_airport","Big Master Airport",-14.63693,-57.608147,1138,"SA","BR","BR-MT","Tangará da Serra","no",,,"SILS","MT0105",,,
-36097,"SILT","small_airport","Fazenda Trêz Irmãos Airport",-20.227777,-50.968334,1460,"SA","BR","BR-SP","Santa Fé Do Sul","no",,"SFV","SILT","SP0186",,,
+36097,"SILT","small_airport","Santa Fé do Sul Airport",-20.228473,-50.968943,1276,"SA","BR","BR-SP","Santa Fé do Sul","no",,"SFV","SSA2","SP0186",,,"Fazenda Trêz Irmãos, SILT"
 36098,"SILU","small_airport","BRPEC Agro-Pecuária Airport",-19.865306,-56.987917,427,"SA","BR","BR-MS","Miranda","no",,,"SILU","MS0098",,,"Fazenda Cristo Redentor"
 36099,"SILV","heliport","Locar Heliport",-23.471493,-46.483487,2720,"SA","BR","BR-SP","Guarulhos","no",,,"SILX","SP0525",,,"SILV"
 534218,"SIM3","small_airport","Fazenda Metropolitana Airport",-7.414449,-45.029271,1342,"SA","BR","BR-PI","São Félix de Balsas","no",,,"SIM3","PI0097",,,
@@ -61971,9 +61979,11 @@
 599080,"SS9S","small_airport","Fazenda São Francisco Airport",-11.103033,-48.033319,945,"SA","BR","BR-TO","Monte do Carmo","no",,,"SS9S","TO0159",,,
 599078,"SS9T","small_airport","Teboa  Airstrip",-21.484444,-54.963056,1358,"SA","BR","BR-MS","Rio Brilhante","no",,,"SS9T","MS0785",,,
 599074,"SS9X","heliport","Grupo 3T Heliport",-20.330189,-43.4527,2897,"SA","BR","BR-MG","Mariana","no",,,"SS9X","MG0647",,,
+600130,"SSA0","small_airport","Fazenda Castelo Airstrip",-8.734705,-63.754952,269,"SA","BR","BR-RO","Porto Velho","no",,,"SSA0","RO0115",,,
 599076,"SSA4","small_airport","Fazenda Angelim Airport",-8.981254,-45.424206,1714,"SA","BR","BR-PI","Baixa Grande do Ribeiro","no",,,"SSA4","PI0124",,,
 599072,"SSA6","small_airport","Rincão Porã Airport",-13.743406,-57.347983,1739,"SA","BR","BR-MT","Diamantino","no",,,"SSA6","MT1141",,,
 599070,"SSA7","small_airport","Fazenda Sete Airport",-14.134705,-45.420552,2667,"SA","BR","BR-BA","Jaborandi","no",,,"SSA7","BA0503",,,
+600127,"SSA8","small_airport","Fazenda Olho d'Água Airport",-13.6382,-46.720928,1459,"SA","BR","BR-GO","São Domingos","no",,,"SSA8","GO0406",,,
 331825,"SSAA","heliport","Hospital da Unimed Heliport",-19.921843,-43.919601,2871,"SA","BR","BR-MG","Belo Horizonte","no",,,"SSAA","MG0267",,,
 429,"SSAB","small_airport","Moisés Lupion Airport",-23.762199,-50.263,1968,"SA","BR","BR-PR","Ibaiti","no",,,"SSAB","PR0024",,,
 430,"SSAD","small_airport","Fazenda Ribeirão Airport",-18.764,-52.917599,2736,"SA","BR","BR-MS","Chapadão do Sul","no",,,"SSAD","MS0243",,,
