@@ -13,7 +13,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 8383,1KC,small_airport,Kalakaket Creek AS Airport,64.4166256967,-156.820392609,1598,NA,US,US-AK,Kalakaket Creek,no,,KKK,1KC,1KC,,,
 8566,1O6,small_airport,Dunsmuir Muni-Mott Airport,41.263199,-122.272003,3258,NA,US,US-CA,Dunsmuir,no,,MHS,K1O6,1O6,,https://en.wikipedia.org/wiki/Dunsmuir_Municipal-Mott_Airport,
 8753,1XA2,small_airport,Chase Field Industrial Airport,28.362444,-97.661917,190,NA,US,US-TX,Beeville,no,,NIR,KTX2,TX2,,https://en.wikipedia.org/wiki/Chase_Field_Industrial_Complex,"1XA2, Naval Air Station Chase Field, Beeville Municipal Airport"
-8774,1Z1,small_airport,Grand Canyon Bar Ten Airstrip,36.258614,-113.231159,4100,NA,US,US-AZ,Littlefield,no,,GCT,,1Z1,,https://en.wikipedia.org/wiki/Grand_Canyon_Bar_10_Airport,Webbs Ranch
+8774,1Z1,small_airport,Grand Canyon Bar Ten Airstrip,36.257984,-113.231063,4100,NA,US,US-AZ,Littlefield,no,,GCT,K1Z1,1Z1,,https://en.wikipedia.org/wiki/Grand_Canyon_Bar_10_Airport,Webbs Ranch
 8775,1Z9,seaplane_base,Ellamar Seaplane Base,60.893818,-146.704038,0,NA,US,US-AK,Ellamar,no,,ELW,,1Z9,,,
 9287,2AK,small_airport,Lime Village Airport,61.3591003418,-155.440002441,552,NA,US,US-AK,Lime Village,no,,LVD,2AK,2AK,,,23AK
 9294,2AK6,small_airport,Hog River Airport,66.176133,-155.684816,534,NA,US,US-AK,Hogatza,no,,HGZ,2AK6,2AK6,,,
@@ -1630,7 +1630,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29109,EGBK,small_airport,Sywell Aerodrome,52.305302,-0.793056,429,EU,GB,GB-ENG,"Northampton, Northamptonshire",no,EGBK,ORM,EGBK,,http://www.sywellaerodrome.co.uk/,https://en.wikipedia.org/wiki/Sywell_Aerodrome,
 2393,EGBN,medium_airport,Nottingham City Airport,52.919998,-1.07917,138,EU,GB,GB-ENG,Nottingham,no,EGBN,NQT,EGBN,,http://www.nottinghamairport.co.uk/,https://en.wikipedia.org/wiki/Nottingham_Airport,
 2395,EGBP,small_airport,Cotswold Airport,51.668528,-2.056599,433,EU,GB,GB-ENG,"Cirencester, Gloucestershire",no,EGBP,GBA,EGBP,,http://www.cotswoldairport.com/,https://en.wikipedia.org/wiki/Cotswold_Airport,"RAF Kemble, Kemble Airfield, Kemble Airport, Cotswold Airport"
-314577,EGCA,small_airport,Coal Aston Airfield,53.304809,-1.42886,750,EU,GB,GB-ENG,"Dronfield, Derbyshire",no,EGCA,,EGCA,,,https://en.wikipedia.org/wiki/Coal_Aston_Airfield,
 2398,EGCC,large_airport,Manchester Airport,53.349375,-2.279521,257,EU,GB,GB-ENG,"Manchester, Greater Manchester",yes,EGCC,MAN,EGCC,,http://www.manchesterairport.co.uk/,https://en.wikipedia.org/wiki/Manchester_Airport,"Ringway Airport, RAF Ringway"
 29116,EGCJ,small_airport,Sherburn-in-Elmet Airfield,53.788458,-1.216877,26,EU,GB,GB-ENG,"Selby, North Yorkshire",no,EGCJ,,EGCJ,,http://www.sherburn-aero-club.org.uk/,https://en.wikipedia.org/wiki/Sherburn-in-Elmet_Airfield,RAF Sherburn
 29123,EGDJ,small_airport,Upavon Aerodrome,51.28657,-1.782239,574,EU,GB,GB-ENG,"Pewsey, Wiltshire",no,EGDJ,UPV,EGDJ,,,https://en.wikipedia.org/wiki/RAF_Upavon,"RAF Upavon, Trenchard Lines, Salisbury Plain"
@@ -2876,7 +2875,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31034,GAYE,small_airport,Yélimané Airport,15.123682,-10.571177,325,AF,ML,ML-1,Yélimané,no,GAYE,EYL,GAYE,,,https://en.wikipedia.org/wiki/Y%C3%A9liman%C3%A9_Airport,
 595235,GB-1327,heliport,Penzance Heliport,50.130376,-5.513946,,EU,GB,GB-ENG,"Penzance, Cornwall",yes,EGHK,PZE,,,https://penzanceheliport.co.uk/,https://en.wikipedia.org/wiki/Penzance_Heliport,
 31147,GB-FLH,small_airport,Flotta Isle Airstrip,58.825802,-3.14278,50,EU,GB,GB-SCT,Flotta Isle,no,,FLH,,,,https://en.wikipedia.org/wiki/Flotta_Isle_Airport,EGZR
-31199,GB-FOA,small_airport,Foula Airfield,60.121725,-2.053202,150,EU,GB,GB-SCT,Foula,yes,,FOA,,,,https://en.wikipedia.org/wiki/Foula_Airfield,EGFO
+31199,GB-FOA,small_airport,Foula Airfield,60.121725,-2.053202,150,EU,GB,GB-SCT,Foula,yes,,FOA,,,,https://en.wikipedia.org/wiki/Foula_Airfield,"EGFO, EG42"
 319712,GBM,small_airport,Garbaharey Airport,3.32294,42.21309,755,AF,SO,SO-GE,Garbaharey,no,,GBM,,,,https://en.wikipedia.org/wiki/Garbaharey_Airport,"Garbahaareey, Garba Harre"
 3076,GBYD,large_airport,Banjul International Airport,13.338,-16.652201,95,AF,GM,GM-W,Yundum,yes,GBYD,BJL,GBYD,,,https://en.wikipedia.org/wiki/Banjul_International_Airport,Yundum international Airport
 524733,GCDC,heliport,Nuestra Señora de Candelaria University Hospital Helipad,28.448687,-16.28462,820,AF,ES,ES-CN,Santa Cruz de Tenerife,no,GCDC,,GCDC,,,,
@@ -3411,7 +3410,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 18917,K5N2,small_airport,Prentice Airport,45.538313,-90.275978,1578,NA,US,US-WI,Prentice,no,,PRW,,5N2,http://vil.prentice.wi.gov/departments/airport/,https://en.wikipedia.org/wiki/Prentice_Airport,WI40
 18930,K5T9,small_airport,Maverick County Memorial International Airport,28.859766,-100.516682,887,NA,US,US-TX,Eagle Pass,no,,EGP,,5T9,,https://en.wikipedia.org/wiki/Maverick_County_Memorial_International_Airport,
 18945,K61B,medium_airport,Boulder City Municipal Airport,35.947161,-114.858799,2201,NA,US,US-NV,Boulder City,yes,,BLD,KBVU,BVU,,https://en.wikipedia.org/wiki/Boulder_City_Municipal_Airport,61B
-18966,K67L,medium_airport,Mesquite International Airport,36.833105,-114.055928,1978,NA,US,US-NV,Mesquite,no,,MFH,,67L,http://www.cityofmesquite.com/457/Airport-Mesquite-Metro-Airport,https://en.wikipedia.org/wiki/Mesquite_Airport,
+18966,K67L,medium_airport,Mesquite Airport,36.833105,-114.055928,1978,NA,US,US-NV,Mesquite,no,,MFH,K67L,67L,http://www.cityofmesquite.com/457/Airport-Mesquite-Metro-Airport,https://en.wikipedia.org/wiki/Mesquite_Airport,
 18982,K6D9,small_airport,Iosco County Airport,44.312801,-83.422302,606,NA,US,US-MI,East Tawas,no,,ECA,,6D9,http://www.us23heritageroute.org/location.asp?ait=av&aid=839,https://en.wikipedia.org/wiki/Iosco_County_Airport,
 19010,K6S2,small_airport,Florence Municipal Airport,43.98279953,-124.111000061,51,NA,US,US-OR,Florence,no,,FMU,,6S2,http://www.ci.florence.or.us/airport,https://en.wikipedia.org/wiki/Florence_Municipal_Airport,
 19030,K74S,small_airport,Anacortes Airport,48.498513,-122.662513,241,NA,US,US-WA,Anacortes,yes,,OTS,K74S,74S,https://www.portofanacortes.com/airport,https://en.wikipedia.org/wiki/Anacortes_Airport,
@@ -5046,7 +5045,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 308357,KZB,seaplane_base,Zachar Bay Seaplane Base,57.553001,-153.746052,,NA,US,US-AK,Zachar Bay,yes,,KZB,,KZB,,https://en.wikipedia.org/wiki/Zachar_Bay_Seaplane_Base,
 21442,KZPH,small_airport,Zephyrhills Municipal Airport,28.228201,-82.155899,90,NA,US,US-FL,Zephyrhills,no,KZPH,ZPH,KZPH,ZPH,,https://en.wikipedia.org/wiki/Zephyrhills_Municipal_Airport,
 3967,KZZV,medium_airport,Zanesville Municipal Airport,39.9444007874,-81.89209747310001,900,NA,US,US-OH,Zanesville,no,KZZV,ZZV,KZZV,ZZV,,https://en.wikipedia.org/wiki/Zanesville_Municipal_Airport,
-21450,L37,small_airport,Grand Canyon Caverns Airport,35.528301,-113.247002,5386,NA,US,US-AZ,Peach Springs,no,,PGS,L37,L37,,https://en.wikipedia.org/wiki/Grand_Canyon_Caverns_Airport,
+21450,L37,small_airport,Grand Canyon Caverns Airport,35.527168,-113.247636,5386,NA,US,US-AZ,Peach Springs,no,,PGS,KL37,L37,,https://en.wikipedia.org/wiki/Grand_Canyon_Caverns_Airport,
 430434,LA-0006,medium_airport,Bokeo International Airport,20.323986,100.165392,1175,AS,LA,LA-BK,Ton Phueng,yes,,BOR,,,,,
 41316,LAC,small_airport,Layang-Layang Airport,7.37157,113.844002,7,AS,MY,MY-12,Pulau Layang-Layang (Swallow Reef),no,,LAC,,,,https://en.wikipedia.org/wiki/Swallow_Reef,"Pulau Layang-Layang, Swallow Reef, Layang-Layang Atoll"
 31795,LAKU,medium_airport,Kukës International Airport,42.035802,20.415955,1120,EU,AL,AL-07,Kukës,no,LAKU,KFZ,LAKU,,,https://en.wikipedia.org/wiki/Kuk%C3%ABs_International_Airport,
@@ -5136,7 +5135,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4039,LESU,small_airport,Pirineus - la Seu d'Urgel Airport,42.3386,1.40917,2625,EU,ES,ES-CT,La Seu d'Urgell Pyrenees and Andorra,yes,LESU,LEU,LESU,,http://www10.gencat.net/ptop/AppJava/cat/aerotrans/aerodroms/aerodroms/pirineus.jsp,https://en.wikipedia.org/wiki/La_Seu_d'Urgell_Airport,"Montferrer, Castellbò"
 316427,LETL,medium_airport,Teruel Airport,40.410269,-1.217366,3380,EU,ES,ES-AR,Teruel,no,LETL,TEV,LETL,,http://www.aeropuertodeteruel.com/en/,https://en.wikipedia.org/wiki/Teruel_Airport,
 4041,LETO,medium_airport,Madrid–Torrejón Airport / Torrejón Air Base,40.487875,-3.456808,2026,EU,ES,ES-MD,Madrid,no,LETO,TOJ,LETO,,,https://en.wikipedia.org/wiki/Madrid-Torrej%C3%B3n_Airport,
-4042,LEVC,medium_airport,Valencia Airport,39.4893,-0.481625,240,EU,ES,ES-VC,Valencia,yes,LEVC,VLC,LEVC,,https://www.aena.es/en/valencia.html,https://en.wikipedia.org/wiki/Valencia_Airport,
+4042,LEVC,large_airport,Valencia Airport,39.4893,-0.481625,240,EU,ES,ES-VC,Valencia,yes,LEVC,VLC,LEVC,,https://www.aena.es/en/valencia.html,https://en.wikipedia.org/wiki/Valencia_Airport,
 4043,LEVD,medium_airport,Valladolid Airport,41.7061,-4.85194,2776,EU,ES,ES-CL,Valladolid,yes,LEVD,VLL,LEVD,,https://www.aena.es/en/valladolid.html,https://en.wikipedia.org/wiki/Valladolid_Airport,
 4045,LEVT,medium_airport,Vitoria Airport,42.882801,-2.72447,1682,EU,ES,ES-PV,Alava,yes,LEVT,VIT,LEVT,,https://www.aena.es/en/vitoria.html,https://en.wikipedia.org/wiki/Vitoria_Airport,"Vitoria,Foronda"
 4046,LEVX,medium_airport,Vigo Airport,42.2318,-8.62677,856,EU,ES,ES-GA,Vigo,yes,LEVX,VGO,LEVX,,https://www.aena.es/en/vigo.html,https://en.wikipedia.org/wiki/Vigo-Peinador_Airport,
@@ -8659,7 +8658,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6521,URWI,medium_airport,Elista Airport,46.3739013671875,44.33089828491211,501,EU,RU,RU-KL,Elista,yes,URWI,ESL,URWI,,,https://en.wikipedia.org/wiki/Elista_Airport,
 6522,URWW,medium_airport,Volgograd International Airport,48.782501220703125,44.34550094604492,482,EU,RU,RU-VGG,Volgograd,yes,URWW,VOG,URWW,,,https://en.wikipedia.org/wiki/Volgograd_International_Airport,"Gumrak Airport, Аэропорт Волгоград, Аэропорт Гумрак"
 321938,US-0370,seaplane_base,Cape Air Seaplanes on Boston Harbor Seaplane Base,42.352502,-71.025832,0,NA,US,US-MA,Boston,no,,BNH,MA87,MA87,,,
-18358,US-0F3,small_airport,Spirit Lake Municipal Airport,43.387501,-95.139198,1434,NA,US,US-IA,Okoboji,no,,RTL,,0F3,,https://en.wikipedia.org/wiki/Spirit_Lake_Municipal_Airport,Lake Okoboji
+18358,US-0F3,small_airport,Spirit Lake Municipal Airport,43.387501,-95.139198,1434,NA,US,US-IA,Okoboji,no,,RTL,K0F3,0F3,,https://en.wikipedia.org/wiki/Spirit_Lake_Municipal_Airport,Lake Okoboji
 16503,US-11138,heliport,Anacostia USN Heliport,38.854049,-77.012046,20,NA,US,US-DC,Washington,no,KNDV,,KNDV,NDV,,https://en.wikipedia.org/wiki/Joint_Base_Anacostia-Bolling,"BOF, KBOF, Bolling AFB, Marine One"
 17471,US-12647,small_airport,Farewell Airport,62.509327,-153.892279,1535,NA,US,US-AK,Farewell,no,,FWL,,0AA4,,,PAFW
 19551,US-12648,small_airport,Corcoran Airport,36.102661,-119.594815,197,NA,US,US-CA,Corcoran,no,,CRO,,43CN,,https://en.wikipedia.org/wiki/Corcoran_Airport,"KRCO, CRO"
