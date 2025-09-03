@@ -23898,7 +23898,7 @@
 2510,"EGYE","medium_airport","RAF Barkston Heath",52.960616,-0.559428,367,"EU","GB","GB-ENG","Grantham, Lincolnshire","no",,,"EGYE",,,"https://en.wikipedia.org/wiki/RAF_Barkston_Heath",
 2511,"EGYM","medium_airport","RAF Marham",52.648395,0.550692,75,"EU","GB","GB-ENG","King's Lynn, Norfolk","no","EGYM","KNF","EGYM",,"http://www.raf.mod.uk/rafmarham/","https://en.wikipedia.org/wiki/RAF_Marham","King's Lynn"
 2512,"EGYP","medium_airport","Mount Pleasant Airport",-51.82279968261719,-58.447200775146484,244,"SA","FK","FK-U-A","Mount Pleasant","yes","EGYP","MPN","EGYP",,,"https://en.wikipedia.org/wiki/RAF_Mount_Pleasant","RAF Mount Pleasant"
-314595,"EGZL","small_airport","Feshiebridge Glider Field",57.103667,-3.891667,,"EU","GB","GB-SCT",,"no","EGZL",,,,"http://www.gliding.org/",,
+314595,"EGZL","small_airport","Feshiebridge Glider Field",57.103667,-3.891667,,"EU","GB","GB-SCT",,"no","EGZL",,,,"http://www.gliding.org/",,"EG38"
 318923,"EH-0001","small_airport","Tifariti Airstrip",26.15126,-10.564245,1624,"AF","EH","EH-U-A","Tifariti","no",,,,,,,"GSSM"
 347407,"EH-0002","heliport","Aousserd Heliport",22.5636,-14.31462,1047,"AF","EH","EH-U-A","Aousserd","no",,,,,,,
 347408,"EH-0003","heliport","Tichla Heliport",21.63065,-14.89377,650,"AF","EH","EH-U-A","Tichla","no",,,,,,,
@@ -24367,24 +24367,25 @@
 29309,"ENXZ","heliport","Sleipner B Platform",58.416698,1.71667,,"EU","NO","NO-XX",,"no",,,"ENXZ",,,,
 2602,"ENZV","large_airport","Stavanger Airport, Sola",58.876701,5.63778,29,"EU","NO","NO-11","Stavanger","yes","ENZV","SVG","ENZV",,"http://www.avinor.no/en/airport/stavanger/","https://en.wikipedia.org/wiki/Stavanger_Airport,_Sola","Sola Air Station, Stavanger lufthavn, Sola"
 17179,"EOD","heliport","Sabre Army Heliport (Fort Campbell)",36.568199,-87.480797,593,"NA","US","US-TN","Clarksville (Fort Campbell)","no",,,"KEOD","EOD",,"https://en.wikipedia.org/wiki/Sabre_Army_Heliport","Fort Campbell, Sabre Army Airfield"
-31010,"EPAR","small_airport","Arłamów Airfield",49.657501,22.514298,1455,"EU","PL","PL-PK","Wola Korzeniecka","no",,,"EPAR",,,"https://en.wikipedia.org/wiki/Ar%C5%82am%C3%B3w_Airfield","Krajna, Wola Korzeniecka"
-29702,"EPBA","small_airport","Bielsko-Biała Aleksandrowice Airfield",49.805,19.0019,1319,"EU","PL","PL-SL","Bielsko-Biała","no",,,"EPBA",,,"https://pl.wikipedia.org/wiki/Lotnisko_Bielsko-Bia%C5%82a_Aleksandrowice",
-323850,"EPBB","small_airport","Babięta",53.669635,21.252737,,"EU","PL","PL-WN","Babięta","no",,,"EPBB",,,"https://pl.wikipedia.org/wiki/L%C4%85dowisko_Babi%C4%99ta",
-2603,"EPBC","small_airport","Warsaw Babice Airport",52.269199,20.907203,352,"EU","PL","PL-MZ","Warsaw","no",,,"EPBC",,,"https://en.wikipedia.org/wiki/Warsaw_Babice_Airport","Babice Airfield, Bemovo, Warszawa"
+31010,"EPAR","small_airport","Arłamów Airfield",49.657501,22.514298,1455,"EU","PL","PL-PK","Wola Korzeniecka","no","EPAR",,"EPAR",,,"https://en.wikipedia.org/wiki/Ar%C5%82am%C3%B3w_Airfield","Krajna, Wola Korzeniecka"
+29702,"EPBA","small_airport","Bielsko-Biała Aleksandrowice Airfield",49.805,19.0019,1319,"EU","PL","PL-SL","Bielsko-Biała","no","EPBA",,"EPBA",,,"https://pl.wikipedia.org/wiki/Lotnisko_Bielsko-Bia%C5%82a_Aleksandrowice",
+323850,"EPBB","small_airport","Babięta",53.667905,21.255426,,"EU","PL","PL-WN","Babięta","no","EPBB",,"EPBB",,,"https://pl.wikipedia.org/wiki/L%C4%85dowisko_Babi%C4%99ta",
+2603,"EPBC","small_airport","Warsaw Babice Airport",52.269199,20.907203,352,"EU","PL","PL-MZ","Warsaw","no","EPBC",,"EPBC",,,"https://en.wikipedia.org/wiki/Warsaw_Babice_Airport","Babice Airfield, Bemovo, Warszawa"
+600199,"EPBG","heliport","Gołubie Heliport",54.1975,18.0025,558,"EU","PL","PL-U-A","Gołubie","no","EPBG",,"EPBG",,,,
 529370,"EPBH","heliport","Bydgoszcz Baza Lpr Heliport",53.210278,18.101667,313,"EU","PL","PL-KP",,"no",,,"EPBH",,,,
-29700,"EPBK","small_airport","Białystok-Krywlany Airfield",53.101398,23.170601,502,"EU","PL","PL-PD","Białystok","no",,,"EPBK",,,"https://en.wikipedia.org/wiki/Bia%C5%82ystok-Krywlany_Airfield","QYY"
+29700,"EPBK","small_airport","Białystok-Krywlany Airfield",53.101398,23.170601,502,"EU","PL","PL-PD","Białystok","no","EPBK",,"EPBK",,,"https://en.wikipedia.org/wiki/Bia%C5%82ystok-Krywlany_Airfield","QYY"
 2604,"EPBY","medium_airport","Bydgoszcz Ignacy Jan Paderewski Airport",53.096802,17.977699,235,"EU","PL","PL-KP","Bydgoszcz","yes","EPBY","BZG","EPBY",,"http://www.plb.pl/","https://en.wikipedia.org/wiki/Bydgoszcz_Ignacy_Jan_Paderewski_Airport","Szwederowo, Bromberg"
-319897,"EPCD","small_airport","Depułtycze Królewskie Airfield",51.082067,23.437014,712,"EU","PL","PL-LU",,"no",,,"EPCD",,"http://cl.pwszchelm.pl/","https://pl.wikipedia.org/wiki/Lotnisko_Che%C5%82m-Depu%C5%82tycze_Kr%C3%B3lewskie","Chełm Depłutycze"
-2605,"EPCE","medium_airport","Cewice Naval Air Base",54.417664,17.773512,495,"EU","PL","PL-PM","Siemirowice","no",,,"EPCE",,,,
-29818,"EPDA","small_airport","Darłówo Naval Air Base",54.404701,16.3531,10,"EU","PL","PL-ZP","Darłowo","no",,,"EPDA",,,,"Żukowo, Darłówek"
-2607,"EPDE","medium_airport","Deblin Military Air Base",51.551399231,21.8936004639,392,"EU","PL","PL-LU","Dęblin","no",,,"EPDE",,,,"Wyższa Szkoła Oficerska Sił Powietrznych"
+319897,"EPCD","small_airport","Depułtycze Królewskie Airfield",51.082067,23.437014,712,"EU","PL","PL-LU","Królewskie","no","EPCD",,"EPCD",,"http://cl.pwszchelm.pl/","https://pl.wikipedia.org/wiki/Lotnisko_Che%C5%82m-Depu%C5%82tycze_Kr%C3%B3lewskie","Chełm Depłutycze"
+2605,"EPCE","medium_airport","Cewice Naval Air Base",54.416525,17.765734,495,"EU","PL","PL-PM","Siemirowice","no","EPCE",,"EPCE",,,,
+29818,"EPDA","small_airport","Darłówo Naval Air Base",54.404701,16.3531,10,"EU","PL","PL-ZP","Darłowo","no","EPDA",,"EPDA",,,,"Żukowo, Darłówek"
+2607,"EPDE","medium_airport","Deblin Military Air Base",51.551021,21.892322,392,"EU","PL","PL-LU","Dęblin","no","EPDE",,"EPDE",,,,"Wyższa Szkoła Oficerska Sił Powietrznych"
 337256,"EPDK","small_airport","Debowa Klada Airfield",51.6126,23.0072,,"EU","PL","PL-LU",,"no",,,"EPDK",,,,
 430565,"EPDS","small_airport","Witków Airfield",50.79686,16.11448,,"EU","PL","PL-DS","Witków","no",,,"EPDS",,,,
 29843,"EPEL","small_airport","Elbląg Airfield",54.1408,19.4233,10,"EU","PL","PL-WN","Elbląg","no","EPEL",,"EPEL",,"http://aeroklubelblaski.pl/index.php/lotnisko-2/","https://de.wikipedia.org/wiki/Flugplatz_Elbl%C4%85g","ZBG, Elblag, Elbing"
 2608,"EPGD","large_airport","Gdańsk Lech Wałęsa Airport",54.377602,18.4662,489,"EU","PL","PL-PM","Gdańsk","yes","EPGD","GDN","EPGD",,"http://www.airport.gdansk.pl/","https://en.wikipedia.org/wiki/Gda%C5%84sk_Lech_Wa%C5%82%C4%99sa_Airport","Gdańsk-Rębiechowo"
-323950,"EPGE","small_airport","Giże",53.982531,22.401796,,"EU","PL","PL-WN","Giże","no",,,"EPGE",,"http://www.czteryzywioly.com/",,
-29921,"EPGI","small_airport","Grudziądz Lisie Kąty Airfield",53.524399,18.849199,121,"EU","PL","PL-KP","Grudziądz","no",,,"EPGI",,,"https://pl.wikipedia.org/wiki/Lotnisko_Grudzi%C4%85dz-Lisie_K%C4%85ty","Grudziadz, Lisie Katy"
-29897,"EPGL","small_airport","Gliwice-Trynek Airfield",50.268743,18.672466,830,"EU","PL","PL-SL","Gliwice","no",,,"EPGL",,,"https://de.wikipedia.org/wiki/Flughafen_Gliwice",
+323950,"EPGE","small_airport","Giże Airfield",53.982436,22.403149,,"EU","PL","PL-WN","Giże","no","EPGE",,"EPGE",,"http://www.czteryzywioly.com/",,
+29921,"EPGI","small_airport","Grudziądz Lisie Kąty Airfield",53.524399,18.849199,121,"EU","PL","PL-KP","Grudziądz","no","EPGI",,"EPGI",,,"https://pl.wikipedia.org/wiki/Lotnisko_Grudzi%C4%85dz-Lisie_K%C4%85ty","Grudziadz, Lisie Katy"
+29897,"EPGL","small_airport","Gliwice-Trynek Airfield",50.268743,18.672466,830,"EU","PL","PL-SL","Gliwice","no",,,"EPGL",,,"https://de.wikipedia.org/wiki/Flughafen_Gliwice","QLC"
 323652,"EPGM","small_airport","Giżycko-Mazury Residence",54.00645,21.81824,410,"EU","PL","PL-WN","Giżycko","no",,,"EPGM",,"http://www.mazuryresidence.pl",,
 43171,"EPGR","small_airport","Łańsk / Gryźliny Airfield",53.608072,20.349692,538,"EU","PL","PL-WN","Gryźliny","no",,,"EPGR",,,"https://de.wikipedia.org/wiki/Flugplatz_Gry%C5%BAliny","Olsztynek"
 346900,"EPGS","small_airport","Grójec-Słomczyn Airfield",51.87549,20.93774,,"EU","PL","PL-MZ","Grójec","no",,,"EPGS",,,,
@@ -24396,7 +24397,7 @@
 29991,"EPJG","small_airport","Jelenia Góra Airfield",50.898899,15.7856,1119,"EU","PL","PL-DS","Jelenia Góra","no",,,"EPJG",,,"https://pl.wikipedia.org/wiki/Lotnisko_Jelenia_G%C3%B3ra",
 319898,"EPJL","small_airport","Laszki Field",50.008497,22.918897,607,"EU","PL","PL-PK","Laszki","no",,,"EPJL",,"http://www.aeroklub.jaroslaw.pl/wp/","https://pl.wikipedia.org/wiki/L%C4%85dowisko_Laszki","Jarosław Laszki, Aeroklubu Ziemi Jarosławskiej"
 43166,"EPJS","small_airport","Jeżów Sudecki Airfield",50.944028,15.766528,1834,"EU","PL","PL-DS","Jeżów Sudecki","no",,,"EPJS",,,"https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Je%C5%BC%C3%B3w_Sudecki",
-30026,"EPKA","small_airport","Kielce-Masłów Airfield",50.896702,20.731701,1010,"EU","PL","PL-SK","Kielce","no",,,"EPKA",,"http://www.aeroklub.kielce.pl/index.php/lotnisko","http://www.aeroklub.kielce.pl/index.php/lotnisko",
+30026,"EPKA","small_airport","Kielce-Masłów Airfield",50.896702,20.731701,1010,"EU","PL","PL-SK","Kielce","no","EPKA",,"EPKA",,"http://www.aeroklub.kielce.pl/index.php/lotnisko","http://www.aeroklub.kielce.pl/index.php/lotnisko","OKI"
 30019,"EPKB","small_airport","Kazimierz Biskupi Airfield",52.319549,18.164322,361,"EU","PL","PL-WP","Kazimierz Biskupi","no",,,"EPKB",,,,"Aeroklub Koniński"
 505276,"EPKD","small_airport","Końskie-Komaszyce",51.25532,20.47132,,"EU","PL","PL-PK",,"no",,,"EPKD",,,,
 30024,"EPKE","small_airport","Kȩtrzyn-Wilamowo Airfield",54.043598,21.432199,417,"EU","PL","PL-WN","Kȩtrzyn","no",,,"EPKE",,,"https://pl.wikipedia.org/wiki/Lotnisko_K%C4%99trzyn-Wilamowo",
@@ -24404,7 +24405,7 @@
 2609,"EPKK","large_airport","Kraków John Paul II International Airport",50.077702,19.7848,791,"EU","PL","PL-MA","Balice","yes","EPKK","KRK","EPKK",,"http://www.krakowairport.pl/en/","https://en.wikipedia.org/wiki/Kraków_John_Paul_II_International_Airport","Krakov"
 319902,"EPKL","small_airport","Krasocin Field",50.899319,20.12804,820,"EU","PL","PL-SK","Krasocin","no",,,"EPKL",,,"https://pl.wikipedia.org/wiki/L%C4%85dowisko_Krasocin","Krasocin Lipie"
 2610,"EPKM","small_airport","Katowice-Muchowiec Airfield",50.238184,19.033685,909,"EU","PL","PL-SL","Katowice","no",,,"EPKM",,,"https://en.wikipedia.org/wiki/Katowice-Muchowiec_Airfield",
-2611,"EPKN","small_airport","Opole-Kamień Śląski Airfield",50.529202,18.0849,683,"EU","PL","PL-OP","Kamień Śląski","no",,,"EPKN",,"http://www.opole.airport.aero","https://en.wikipedia.org/wiki/Opole-Kamie%C5%84_%C5%9Al%C4%85ski_Airport",
+2611,"EPKN","small_airport","Opole-Kamień Śląski Airfield",50.530598,18.079283,683,"EU","PL","PL-OP","Kamień Śląski","no","EPKN",,"EPKN",,"http://www.opole.airport.aero","https://en.wikipedia.org/wiki/Opole-Kamie%C5%84_%C5%9Al%C4%85ski_Airport","QPM"
 30272,"EPKP","small_airport","Pobiednik Wielki Airfield",50.08644,20.200253,650,"EU","PL","PL-MA","Kraków","no",,,"EPKP",,,"https://pl.wikipedia.org/wiki/Lotnisko_Krak%C3%B3w-Pobiednik_Wielki",
 30050,"EPKR","small_airport","Krosno Airfield",49.683807,21.740953,922,"EU","PL","PL-PK","Krosno","no",,,"EPKR",,"https://lotniskokrosno.com/?lang=en","https://en.wikipedia.org/wiki/Krosno_Airport",
 2612,"EPKS","medium_airport","Krzesiny Military Air Base",52.331699,16.9664,265,"EU","PL","PL-WP","Poznań","no",,,"EPKS",,,"https://en.wikipedia.org/wiki/31st_Tactical_Air_Base",
@@ -24418,7 +24419,7 @@
 30072,"EPLS","small_airport","Leszno-Strzyzewice Airfield",51.834999,16.5219,310,"EU","PL","PL-WP","Leszno","no",,,"EPLS",,"https://lotniskoleszno.pl/","https://pl.wikipedia.org/wiki/Lotnisko_Leszno-Strzy%C5%BCewice",
 2617,"EPLU","small_airport","Lubin Airfield",51.423,16.196199,512,"EU","PL","PL-DS",,"no",,,"EPLU",,"http://www.eplu.eu/","https://en.wikipedia.org/wiki/Lubin-Obora_Airport",
 324058,"EPLX","heliport","Lierneux Specialized Hospital Heliport",50.286813,5.78887,1411,"EU","BE","BE-WLG","Lierneux","no",,,"EBLX",,,,"Lierneux / Centre Hospitalier Spécial l'Accueil"
-31015,"EPLY","medium_airport","Leźnica Wielka Air Base",52.004945,19.143792,377,"EU","PL","PL-LD","Leźnica Wielka","no",,,"EPLY",,,,"Leczyca, Łęczyca"
+31015,"EPLY","medium_airport","Leźnica Wielka Air Base",52.004945,19.143792,404,"EU","PL","PL-LD","Leźnica Wielka","no","EPLY",,"EPLY",,,,"Leczyca, Łęczyca"
 2618,"EPMB","medium_airport","Malbork Królewo Air Base",54.026598,19.135718,16,"EU","PL","PL-PM","Królewo","no",,,"EPMB",,,"https://en.wikipedia.org/wiki/22nd_Air_Base","22nd Air Base, Malbork, Marienburg"
 2619,"EPMI","medium_airport","Miroslawiec Military Air Base",53.3951,16.0828,459,"EU","PL","PL-ZP","Mirosławiec","no",,,"EPMI",,"http://www.12blot.pl/","https://en.wikipedia.org/wiki/12th_Air_Base","12. Baza Lotnicza, Miroslawiec Airport"
 2620,"EPML","small_airport","Mielec Airfield",50.3223,21.462099,548,"EU","PL","PL-PK","Mielec","no",,,"EPML",,"https://www.lotniskomielec.pl/","https://en.wikipedia.org/wiki/Mielec_Airport",
@@ -24455,7 +24456,7 @@
 2631,"EPSD","small_airport","Szczecin-Dąbie Airfield",53.390659,14.632774,3,"EU","PL","PL-ZP","Szczecin","no","EPSD",,"EPSD",,,"https://en.wikipedia.org/wiki/Szczecin-D%C4%85bie_Airstrip",
 319906,"EPSJ","small_airport","Sobienie Field",51.951142,21.35253,,"EU","PL","PL-MZ",,"no",,,"EPSJ",,,,
 30423,"EPSK","small_airport","Słupsk-Krȩpa Airfield",54.410036,17.090572,249,"EU","PL","PL-PM","Krępa Słupska","no","EPSK",,"EPSK",,,,"EPSK, Aeroklub Słupski, Słupsk"
-2633,"EPSN","medium_airport","Swidwin Military Air Base",53.790599823,15.826299667399999,385,"EU","PL","PL-ZP",,"no",,,"EPSN",,,,
+2633,"EPSN","medium_airport","Swidwin Military Air Base",53.7906,15.8263,394,"EU","PL","PL-ZP",,"no","EPSN",,"EPSN",,,,
 332193,"EPSS","small_airport","Świdnica - Krzczonów Airstrip",50.8171823,16.5818641,833,"EU","PL","PL-DS",,"no",,,"EPSS",,,,
 30434,"EPST","small_airport","Stalowa Wola-Turbia Airfield",50.62638,21.998963,492,"EU","PL","PL-PK","Zaleszany","no",,,"EPST",,"http://www.aeroklubstalowowolski.pl/","https://pl.wikipedia.org/wiki/Lotnisko_Stalowa_Wola-Turbia",
 30449,"EPSU","small_airport","Suwałki Airfield",54.0728,22.8992,581,"EU","PL","PL-PD","Suwałki","no",,,"EPSU",,,"https://pl.wikipedia.org/wiki/Lotnisko_Suwa%C5%82ki",
@@ -28175,10 +28176,10 @@
 3072,"GATS","small_airport","Tessalit Airport",20.243,0.977308,1621,"AF","ML","ML-7",,"no","GATS",,"GATS",,,"https://en.wikipedia.org/wiki/Tessalit_Airport",
 31034,"GAYE","small_airport","Yélimané Airport",15.123682,-10.571177,325,"AF","ML","ML-1","Yélimané","no","GAYE","EYL","GAYE",,,"https://en.wikipedia.org/wiki/Y%C3%A9liman%C3%A9_Airport",
 32757,"GB-0001","closed","RAF Barford St John",52.004799,-1.35754,413,"EU","GB","GB-ENG","Banbury, Oxfordshire","no",,,,,,,
-35132,"GB-0002","small_airport","Fishburn Airfield",54.686798,-1.45831,377,"EU","GB","GB-ENG","Ferryhill, Durham","no",,,,,"http://www.erudite.co.uk/fishburn/",,
+35132,"GB-0002","small_airport","Fishburn Airfield",54.686798,-1.45831,377,"EU","GB","GB-ENG","Ferryhill, Durham","no",,,,,"http://www.erudite.co.uk/fishburn/",,"EG41"
 35149,"GB-0003","closed","Alexandra Park Aerodrome",53.436401,-2.2502,105,"EU","GB","GB-ENG","Manchester, Greater Manchester","no",,,,,,"https://en.wikipedia.org/wiki/Alexandra_Park_Aerodrome",
 39560,"GB-0004","heliport","RAF Molesworth",52.386867,-0.425613,,"EU","GB","GB-ENG","Huntingdon, Cambridgeshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Molesworth",
-42268,"GB-0005","small_airport","Kirkbride Airfield",54.882099,-3.204731,16,"EU","GB","GB-ENG","Wigton, Cumbria","no",,,,,"http://kirkbrideairfield.weebly.com/",,"RAF Kirkbride, EGZF, EG37"
+42268,"GB-0005","small_airport","Kirkbride Airfield",54.882099,-3.204731,16,"EU","GB","GB-ENG","Wigton, Cumbria","no",,,,,"http://kirkbrideairfield.weebly.com/",,"RAF Kirkbride, EGZF, EG37, EG60"
 44081,"GB-0006","small_airport","Draycott Farm Airfield",51.493401,-1.74382,498,"EU","GB","GB-ENG","Swindon, Wiltshire","no",,,,,,,
 45167,"GB-0007","small_airport","Enstone Aerodrome",51.928167,-1.4285,550,"EU","GB","GB-ENG","Chipping Norton, Oxfordshire","no",,,"EGTN",,"http://www.enstoneaerodrome.co.uk/","https://en.wikipedia.org/wiki/Enstone_Airfield",
 46501,"GB-0008","small_airport","Causeway Airfield",55.058817,-6.58439,33,"EU","GB","GB-NIR","Coleraine, Londonderry","no",,,,,,,
@@ -28203,15 +28204,15 @@
 307341,"GB-0027","small_airport","Stancombe Farm Airstrip (Private)",50.72453,-2.634466,715,"EU","GB","GB-ENG","Dorchester, Dorset","no",,,,,,,"Litton Cheney"
 307342,"GB-0028","heliport","Morn Farm Helipad (Private)",50.625175,-2.513042,,"EU","GB","GB-ENG","Weymouth, Dorset","no",,,,,,,"Chickerell"
 316925,"GB-0029","small_airport","Melbury Airstrip",50.879714,-2.617745,279,"EU","GB","GB-ENG","Dorchester, Dorset","no",,,,,,,
-316993,"GB-0030","small_airport","Langar Airfield",52.89593,-0.90101,121,"EU","GB","GB-ENG","Nottingham, Nottinghamshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Langar","Langar, RAF Langar"
+316993,"GB-0030","small_airport","Langar Airfield",52.89593,-0.90101,121,"EU","GB","GB-ENG","Nottingham, Nottinghamshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Langar","Langar, RAF Langar, EG32"
 307361,"GB-0031","small_airport","Middle Pymore Farm Airstrip (Private)",50.751282,-2.759542,144,"EU","GB","GB-ENG","Bridport, Dorset","no",,,,,,,"Pymore Airfield"
 307362,"GB-0032","small_airport","Bath Wilts & North Dorset Gliding Club",51.128899,-2.246017,692,"EU","GB","GB-ENG","Warminster, Wiltshire","no",,,,,,,"Kingston Deverill"
 307373,"GB-0033","small_airport","Heywood Farm Airstrip",51.003954,-3.240817,217,"EU","GB","GB-ENG","Wellington, Somerset","no",,,,,,,"Nynehead"
 307375,"GB-0034","small_airport","Cottage Farm Airstrip",52.669634,-1.523465,,"EU","GB","GB-ENG","Norton Juxta Twycross, Leicestershire","no",,,,,,,"Measham"
-307377,"GB-0035","small_airport","Old Park Farm Airstrip",51.546906,-3.717291,154,"EU","GB","GB-WLS","Port Talbot, Neath Port Talbot","no",,,,,,,"EG35"
+307377,"GB-0035","small_airport","Old Park Farm Airstrip",51.546906,-3.717291,154,"EU","GB","GB-WLS","Port Talbot, Neath Port Talbot","no",,,,,,,
 322712,"GB-0036","small_airport","Horse Leys Farm Airstrip",52.785362,-1.096752,364,"EU","GB","GB-ENG","Loughborough, Leicestershire","no",,,,,,,"Burton on the Wolds"
 307379,"GB-0037","small_airport","White Ox Mead Airstrip",51.319857,-2.400939,548,"EU","GB","GB-ENG","Bath, Somerset","no",,,,,"https://www.whiteoxmead.co.uk/",,"Peasdown St John"
-307382,"GB-0038","small_airport","Eshott Airfield",55.280484,-1.714897,197,"EU","GB","GB-ENG","Morpeth, Northumberland","no",,,,,"http://eshottairfield.co.uk/","https://en.wikipedia.org/wiki/Eshott_Airfield","RAF Eshott, EG38"
+307382,"GB-0038","small_airport","Eshott Airfield",55.280484,-1.714897,197,"EU","GB","GB-ENG","Morpeth, Northumberland","no",,,,,"http://eshottairfield.co.uk/","https://en.wikipedia.org/wiki/Eshott_Airfield","RAF Eshott"
 307387,"GB-0039","closed","Brunton Airfield",55.52455,-1.677904,115,"EU","GB","GB-ENG","Brunton, Northumberland","no",,,,,,,"RAF Brunton"
 307623,"GB-0040","closed","Northrepps International Airport",52.901659,1.328642,165,"EU","GB","GB-ENG","Cromer, Norfolk","no",,,,,"http://www.northreppsinternationalairport.co.uk/",,
 307389,"GB-0041","heliport","RAF Boulmer",55.420321,-1.599736,77,"EU","GB","GB-ENG","Alnwick, Northumberland","no",,,"EGQM",,"http://www.raf.mod.uk/rafboulmer/","https://en.wikipedia.org/wiki/RAF_Boulmer","RAF Boulmer"
@@ -28233,16 +28234,16 @@
 307470,"GB-0057","small_airport","Walton Wood Airfield",53.629285,-1.26554,180,"EU","GB","GB-ENG","Pontefract, West Yorkshire","no",,,,,,,"Wrangbrook"
 307471,"GB-0058","small_airport","Boston Aerodrome",52.974601,-0.071828,10,"EU","GB","GB-ENG","Boston, Lincolnshire","no",,,,,"http://www.bostonaeroclub.co.uk/",,"Wyberton"
 331390,"GB-0059","small_airport","Steventon Private Airstrip",51.620986,-1.344431,,"EU","GB","GB-ENG","Abingdon, Oxfordshire","no",,,,,,,
-307485,"GB-0060","small_airport","Porthtowan Airfield",50.285065,-5.228403,341,"EU","GB","GB-ENG","St Agnes, Cornwall","no",,,,,,,"EG60"
+307485,"GB-0060","small_airport","Porthtowan Airfield",50.285065,-5.228403,341,"EU","GB","GB-ENG","St Agnes, Cornwall","no",,,,,,,
 307487,"GB-0061","closed","Manstage Airfield",50.729461,-4.124357,800,"EU","GB","GB-ENG","Okehampton, Devon","no",,,,,,,
-307508,"GB-0062","small_airport","Branscombe Airfield",50.697839,-3.15566,500,"EU","GB","GB-ENG","Branscombe, Devon","no",,,,,"http://www.branscombeairfield.co.uk/page2.htm",,"EG62"
+307508,"GB-0062","small_airport","Branscombe Airfield",50.697839,-3.15566,500,"EU","GB","GB-ENG","Branscombe, Devon","no",,,,,"http://www.branscombeairfield.co.uk/page2.htm",,
 307511,"GB-0063","small_airport","Farway Common Airfield",50.735827,-3.179173,771,"EU","GB","GB-ENG","Sidmouth, Devon","no",,,,,,,"Sidford"
 307528,"GB-0064","small_airport","Ashcroft Airfield",53.16451,-2.572222,150,"EU","GB","GB-ENG","Winsford, Cheshire","no",,,"EGCR",,,,
 307536,"GB-0065","small_airport","Audley End Airfield",52.007042,0.224104,283,"EU","GB","GB-ENG","Saffron Waldon, Essex","no",,,,,,,"EG02"
 317040,"GB-0066","small_airport","Eddsfield Airfield",54.111252,-0.461929,,"EU","GB","GB-ENG","Eddsfield, East Riding of Yorkshire","no",,,,,,,
 307544,"GB-0067","closed","Canterbury Airfield",51.291875,0.999584,300,"EU","GB","GB-ENG","Faversham, Kent","no",,,,,,,"EG11"
 307565,"GB-0068","small_airport","Gigha Airfield",55.655171,-5.755033,35,"EU","GB","GB-SCT","Isle of Gigha, Argyll and Bute","no",,,"EGEJ",,,,
-307568,"GB-0069","small_airport","Egerton Airfield",51.188302,0.684844,150,"EU","GB","GB-ENG","Ashford, Kent","no",,,,,,,"Barham's Mill Farm, EG69"
+307568,"GB-0069","small_airport","Egerton Airfield",51.188302,0.684844,150,"EU","GB","GB-ENG","Ashford, Kent","no",,,,,,,"Barham's Mill Farm"
 307572,"GB-0070","closed","Hoy/Longhope Airfield",58.791779,-3.216076,30,"EU","GB","GB-SCT","Stromness, Orkney","no",,,,,,,"HOY"
 307573,"GB-0071","small_airport","High Easter Airfield",51.806235,0.341105,230,"EU","GB","GB-ENG","Chelmsford, Essex","no",,,,,,,"EGGR"
 307575,"GB-0072","small_airport","Hibaldstow Airfield",53.495814,-0.516922,30,"EU","GB","GB-ENG","Brigg, Lincolnshire","no",,,,,,,"RAF Hibaldstow"
@@ -28354,7 +28355,7 @@
 315685,"GB-0178","closed","Sproston Green Airfield",53.185532,-2.385957,167,"EU","GB","GB-ENG","Middlewich, Cheshire East.","no",,,,,,,
 315686,"GB-0179","small_airport","Wombleton Airfield",54.231147,-0.974655,125,"EU","GB","GB-ENG","York, North Yorkshire","no",,,,,,,"RAF Wombleton, EGX4"
 315788,"GB-0180","small_airport","Strathaven Airfield",55.679968,-4.113381,847,"EU","GB","GB-SCT","Strathaven, South Lanarkshire","no",,,,,"http://www.strathavenairfield.co.uk",,
-315912,"GB-0181","small_airport","East Fortune Airfield",56.000849,-2.735324,122,"EU","GB","GB-SCT","North Berwick, East Lothian","no",,,,,"http://www.eosm.co.uk","https://en.wikipedia.org/wiki/RAF_East_Fortune","RAF East Fortune, EG32"
+315912,"GB-0181","small_airport","East Fortune Airfield",56.000849,-2.735324,122,"EU","GB","GB-SCT","North Berwick, East Lothian","no",,,,,"http://www.eosm.co.uk","https://en.wikipedia.org/wiki/RAF_East_Fortune","RAF East Fortune"
 315913,"GB-0182","small_airport","East Kirkby Airfield",53.13758,0.002098,40,"EU","GB","GB-ENG","Spilsby, Lincolnshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_East_Kirkby","RAF East Kirkby"
 315929,"GB-0183","small_airport","Willow Farm Airstrip",53.421725,-0.910137,20,"EU","GB","GB-ENG","Doncaster, South Yorkshire","no",,,,,,,
 315930,"GB-0184","small_airport","Weybourne Airstrip",52.947824,1.1232,,"EU","GB","GB-ENG","Holt, Norfolk","no",,,,,,,"EGX3"
@@ -28573,7 +28574,7 @@
 320407,"GB-0397","small_airport","Chilbolton Airfield",51.136852,-1.419439,292,"EU","GB","GB-ENG","Stockbridge, Hampshire","no",,,,,"http://chilboltonflyingclub.co.uk",,
 320408,"GB-0398","small_airport","Saint Michaels Airfield",53.8518,-2.79346,28,"EU","GB","GB-ENG","Preston, Lancashire","no",,,,,"http://www.northernmicrolights.co.uk/",,"Northern Microlights"
 320409,"GB-0399","small_airport","Chase Farm Airstrip",51.5681,-2.38754,325,"EU","GB","GB-ENG",,"no",,,,,,,
-320410,"GB-0400","small_airport","Lamb Holm Airfield",58.8876,-2.89184,65,"EU","GB","GB-SCT",,"no",,,,,,,
+320410,"GB-0400","small_airport","Lamb Holm Airfield",58.8876,-2.89184,65,"EU","GB","GB-SCT",,"no",,,,,,,"EG62"
 320445,"GB-0401","small_airport","Graveley Airstrip",51.9407,-0.203425,334,"EU","GB","GB-ENG","Hitchin, Hertfordshire","no",,,,,,,
 320446,"GB-0402","small_airport","Knockbain Farm Airstrip",57.589189,-4.466958,596,"EU","GB","GB-SCT","Dingwall, Highland","no",,,,,,,
 320448,"GB-0403","small_airport","Crockham Hill Airfield",51.233604,0.08001,,"EU","GB","GB-ENG",,"no",,,,,,,"Orchard House"
@@ -29450,12 +29451,12 @@
 46641,"GB-1274","small_airport","Crosland Moor Airfield",53.621667,-1.830278,825,"EU","GB","GB-ENG","Huddersfield, West Yorkshire","no",,,,,,"https://en.wikipedia.org/wiki/Crosland_Moor_Airfield","EGND"
 307540,"GB-1275","small_airport","Breighton Airfield",53.802794,-0.917179,163,"EU","GB","GB-ENG","Selby, North Yorkshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Breighton","EGBR"
 307906,"GB-1276","closed","Hullavington Airfield",51.526732,-2.141555,327,"EU","GB","GB-ENG","Hullavington","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Hullavington","RAF Hullavington, EGDV"
-314597,"GB-1277","small_airport","Lundy Island Airfield",51.170505,-4.670758,455,"EU","GB","GB-ENG",,"no",,,,,,,"EGZV"
+314597,"GB-1277","small_airport","Lundy Island Airfield",51.170505,-4.670758,455,"EU","GB","GB-ENG",,"no",,,,,,,"EGZV, EG69"
 314749,"GB-1278","small_airport","Cark airfield",54.163753,-2.962299,20,"EU","GB","GB-ENG","Cark","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Cark#Subsequent_use","Cark, EG15"
 317476,"GB-1279","small_airport","North Coates Airfield",53.497795,0.061976,7,"EU","GB","GB-ENG","Grimsby, Lincolnshire","no",,,"EGYO",,"http://www.northcoatesflyingclub.com","https://en.wikipedia.org/wiki/RAF_North_Coates","RAF North Coates, North Coates Flying Club"
 321690,"GB-1280","small_airport","Bognor Regis Lec Airfield",50.801667,-0.658847,1,"EU","GB","GB-ENG","Bognor Regis, West Sussex","no",,,,,"https://www.brgc.co.uk/location/",,"EGKC"
 307538,"GB-1281","small_airport","Badminton Airfield",51.548417,-2.303181,495,"EU","GB","GB-ENG","Badminton, Gloucestershire","no",,,,,,,
-307747,"GB-1282","small_airport","Boon Hill Farm Airstrip",54.308086,-0.983105,,"EU","GB","GB-ENG","Fadmoor, Kirbymoorside","no",,,,,,,"EG19"
+307747,"GB-1282","small_airport","Boon Hill Farm Airstrip",54.308098,-0.974114,,"EU","GB","GB-ENG","Fadmoor, Kirbymoorside","no",,,,,,,"EG19, EG35"
 594858,"GB-1283","heliport","Addiston Mains Farm Heliport",55.915381,-3.349063,,"EU","GB","GB-SCT","Riccarton, Edinburgh","no",,,,,,,
 594859,"GB-1284","heliport","RIE Rooftop",55.921057,-3.137,,"EU","GB","GB-SCT",,"no",,,,,,,
 594860,"GB-1285","heliport","Gilmerton",55.901433,-3.125167,,"EU","GB","GB-SCT",,"no",,,,,,,
@@ -31290,7 +31291,7 @@
 316745,"IE-0004","small_airport","Dolly's Grove Airfield",53.422468,-6.546232,256,"EU","IE","IE-MH","Staffordstown","no","EIDG",,"EIDG",,,,
 317046,"IE-0005","small_airport","Eyne Airfield",53.082764,-7.277601,265,"EU","IE","IE-LS","Eyne","no",,,,,,,"Ridge Aviation"
 317525,"IE-0006","closed","Clifden Alcock & Brown Airport",53.54106,-10.08394,,"EU","IE","IE-G","Laghtanabba","no",,,,,,"https://en.wikipedia.org/wiki/Clifden#Airport","EICD, EICD"
-317526,"IE-0007","closed","Inishbofin Airfield",53.6196,-10.21085,,"EU","IE","IE-G","Middlequarter","no",,,,,,,
+317526,"IE-0007","closed","Inishbofin Airfield",53.6196,-10.21085,,"EU","IE","IE-G","Middlequarter","no",,,,,,,"EIIB"
 319345,"IE-0008","small_airport","Lough Conn Airstrip",54.044059,-9.216109,,"EU","IE","IE-MO","Cloghans","no",,,,,,,
 320225,"IE-0009","closed","Dowth Hall Airfield",53.709054,-6.438029,,"EU","IE","IE-MH","Dowth","no",,,,,,,
 320368,"IE-0010","small_airport","ILAS Wexford Airfield",52.2981,-6.68194,125,"EU","IE","IE-WX","Taghmon","no",,,"EIIF",,,,"Irish Light Aviation Society, Taghmon"
@@ -52848,13 +52849,13 @@
 41846,"PL-0001","small_airport","Poznań-Bednary Airfield",52.5344,17.2188,341,"EU","PL","PL-WP","Pobiedziska","no",,,"EPPB",,"http://www.aeroklub.poznan.pl/artykuly.php?id=43","https://pl.wikipedia.org/wiki/L%C4%85dowisko_Pozna%C5%84-Bednary",
 41847,"PL-0002","small_airport","Kołobrzeg-Bagicz Airfield",54.200077,15.683752,20,"EU","PL","PL-ZP","Bagicz","no",,,"EPKG",,,"https://pl.wikipedia.org/wiki/L%C4%85dowisko_Ko%C5%82obrzeg-Bagicz",
 41848,"PL-0003","small_airport","Makowice Airfield",53.761082,15.290194,,"EU","PL","PL-ZP","Makowice","no",,,,,,,"Płoty, Maków"
-43050,"PL-0004","small_airport","Borsk Airfield",53.951046,17.948034,466,"EU","PL","PL-PM","Borsk","no",,,"EPBO",,,,"Borsk Air Base"
+43050,"PL-0004","small_airport","Borsk Airfield",53.951046,17.948034,466,"EU","PL","PL-PM","Borsk","no","EPBO",,"EPBO",,,,"Borsk Air Base"
 43051,"PL-0005","closed","Broczyno Air Base",53.51944351196289,16.28416633605957,499,"EU","PL","PL-ZP","Czaplinek","no",,,,,,,
 43052,"PL-0006","closed","Brzeg-Skarbimierz Air Base",50.836945,17.41361,505,"EU","PL","PL-OP","Skarbimierz-Osiedle","no",,,,,,,
 43053,"PL-0007","small_airport","Chojna Airfield",52.939445,14.421667,187,"EU","PL","PL-ZP","Chojna","no",,,,,,,
 43054,"PL-0008","small_airport","Nasielsk-Chrcynno Airfield",52.571618,20.871649,368,"EU","PL","PL-MZ","Chrcynno","no",,,"EPNC",,,"https://pl.wikipedia.org/wiki/L%C4%85dowisko_Chrcynno",
 43055,"PL-0009","closed","Dęblin-Ułęż Air Base",51.619167,22.101667,558,"EU","PL","PL-LU","Dęblin","no",,,,,,,
-43056,"PL-0010","closed","Debrzno Air Base",53.524445,17.259167,509,"EU","PL","PL-WP","Debrzno-Wieś","no",,,,,,,
+43056,"PL-0010","closed","Debrzno Airfield",53.524425,17.258319,509,"EU","PL","PL-WP","Debrzno-Wieś","no",,,,,"https://polandinsight.com/former-military-airfield-in-debrzno-from-missile-shield-plans-to-bankruptcy-auction-53581/",,"EPDB, Debrzno Air Base"
 43057,"PL-0011","closed","Gdańsk-Wrzeszcz Air Base",54.39611053466797,18.602500915527344,,"EU","PL","PL-PM","Gdańsk","no",,,,,,,"Danzig-Langfuhr"
 43058,"PL-0012","closed","Gostyń-Gola Air Base",51.88722229003906,16.976110458374023,354,"EU","PL","PL-WP","Gostyń","no",,,,,,,
 335914,"PL-0013","heliport","Gorzów Wielkopolski Hospital Helipad",52.760165,15.235376,,"EU","PL","PL-LB","Gorzów Wielkopolski","no",,,,,,,
@@ -52964,7 +52965,7 @@
 323739,"PL-0117","small_airport","Kukały Airfield",51.875631,21.003014,,"EU","PL","PL-MZ","Kukały","no",,,"EPKU",,,,
 323802,"PL-0118","small_airport","Oborniki Słonawy Airfield",52.666858,16.774546,197,"EU","PL","PL-WP","Słonawy","no",,,,,"http://www.osl-oborniki.info/",,
 323854,"PL-0119","small_airport","Świebodzin Airstrip",52.252266,15.566415,,"EU","PL","PL-LB","Świebodzin","no",,,,,,,
-323871,"PL-0120","small_airport","Bełchatów Airstrip",51.402116,19.378239,,"EU","PL","PL-LD","Kałduny","no",,,"EPBE",,,,
+323871,"PL-0120","small_airport","Bełchatów Airstrip",51.402116,19.378239,713,"EU","PL","PL-LD","Kałduny","no","EPBE",,"EPBE",,,,
 323873,"PL-0121","small_airport","Rzepin Airstrip",52.3221807,14.810701,,"EU","PL","PL-LB","Rzepin","no",,,,,,,
 323874,"PL-0122","small_airport","Tarnów Airfield",50.001572,21.004145,796,"EU","PL","PL-MA","Tarnów","no",,,,,,,"Lądowisko Aeroklubu Ziemi Tarnowskiej, Lądowisko Tarnów"
 323876,"PL-0123","small_airport","Międzyrzecz Airfield",52.419281,15.580507,,"EU","PL","PL-LB","Międzyrzecz","no",,,,,,,"Międzyrzecz 2"
@@ -53112,7 +53113,7 @@
 2614,"PL-0265","closed","Legnica Airport",51.1828,16.1782,407,"EU","PL","PL-DS","Legnica","no",,,,,,,"EPLE"
 29984,"PL-0266","closed","Iwonicz Airfield",49.658461,21.8155,971,"EU","PL","PL-PK","Pustyny","no",,,,,,,"EPIW"
 31012,"PL-0267","closed","Biała Podlaska Air Base",52.00078,23.132528,485,"EU","PL","PL-LU","Biała Podlaska","no",,,,,,"https://en.wikipedia.org/wiki/Bia%C5%82a_Podlaska_Airport","Biała Podlaska Air Base, EPBP, BXP"
-31014,"PL-0268","closed","Drawsko Pomorskie Air Base",53.477798,15.7308,377,"EU","PL","PL-ZP","Drawsko Pomorskie","no",,,,,,,"EPDR, EPDR"
+31014,"PL-0268","closed","Ziemsko Airfield",53.477805,15.730927,377,"EU","PL","PL-ZP","Ziemsko","no",,,,,,,"EPDR, Drawsko Pomorskie Air Base"
 31017,"PL-0269","closed","Żagań-Tomaszowo Air Base",51.627499,15.4083,459,"EU","PL","PL-LB","Tomaszowo","no",,,,,,,"EPZN, Zagan"
 43162,"PL-0270","closed","Góraszka Airport",52.184441,21.281111,361,"EU","PL","PL-MZ","Sulejówek","no",,,,,,,"EPGO, EPGO"
 43173,"PL-0271","closed","Mikołajki Airport",53.807781,21.55583,423,"EU","PL","PL-WN","Mikołajki","no",,,,,,,"EPMJ, EPMJ"
