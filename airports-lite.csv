@@ -1730,7 +1730,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2506,EGXW,medium_airport,RAF Waddington,53.166199,-0.523811,231,EU,GB,GB-ENG,"Lincoln, Lincolnshire",no,EGXW,WTN,EGXW,,http://www.raf.mod.uk/rafwaddington,https://en.wikipedia.org/wiki/RAF_Waddington,Waddington
 2511,EGYM,medium_airport,RAF Marham,52.648395,0.550692,75,EU,GB,GB-ENG,"King's Lynn, Norfolk",no,EGYM,KNF,EGYM,,http://www.raf.mod.uk/rafmarham/,https://en.wikipedia.org/wiki/RAF_Marham,King's Lynn
 2512,EGYP,medium_airport,Mount Pleasant Airport,-51.82279968261719,-58.447200775146484,244,SA,FK,FK-U-A,Mount Pleasant,yes,EGYP,MPN,EGYP,,,https://en.wikipedia.org/wiki/RAF_Mount_Pleasant,RAF Mount Pleasant
-314595,EGZL,small_airport,Feshiebridge Glider Field,57.103667,-3.891667,,EU,GB,GB-SCT,,no,EGZL,,,,http://www.gliding.org/,,
+314595,EGZL,small_airport,Feshiebridge Glider Field,57.103667,-3.891667,,EU,GB,GB-SCT,,no,EGZL,,,,http://www.gliding.org/,,EG38
 28120,EHAL,small_airport,Ameland Airport Ballum,53.453612,5.678396,11,EU,NL,NL-FR,Ballum,no,EHAL,,,,http://www.ehal.nl/,https://en.wikipedia.org/wiki/Ameland_Airport,Aachen
 2513,EHAM,large_airport,Amsterdam Airport Schiphol,52.308601,4.76389,-11,EU,NL,NL-NH,Amsterdam,yes,EHAM,AMS,EHAM,,https://www.schiphol.nl/,https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol,
 2514,EHBD,medium_airport,Kempen Airport Budel,51.255299,5.60139,114,EU,NL,NL-NB,Weert,no,EHBD,,,,http://www.kempenairport.nl/,https://en.wikipedia.org/wiki/Kempen_Airport,"Kempen Airport, Budel Aerodrome"
@@ -1854,13 +1854,28 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29284,ENVD,medium_airport,Vadsø Airport,70.0653,29.8447,127,EU,NO,NO-56,Vadsø,yes,ENVD,VDS,ENVD,,https://avinor.no/en/airport/vadso-airport/,https://en.wikipedia.org/wiki/Vads%C3%B8_Airport,
 35127,ENVR,heliport,Værøy Heliport,67.654555,12.727257,12,EU,NO,NO-18,Værøy,yes,,VRY,ENVR,,https://avinor.no/en/airport/varoy-heliport/,https://en.wikipedia.org/wiki/V%C3%A6r%C3%B8y_Heliport,Værøy STOLport
 2602,ENZV,large_airport,"Stavanger Airport, Sola",58.876701,5.63778,29,EU,NO,NO-11,Stavanger,yes,ENZV,SVG,ENZV,,http://www.avinor.no/en/airport/stavanger/,"https://en.wikipedia.org/wiki/Stavanger_Airport,_Sola","Sola Air Station, Stavanger lufthavn, Sola"
+31010,EPAR,small_airport,Arłamów Airfield,49.657501,22.514298,1455,EU,PL,PL-PK,Wola Korzeniecka,no,EPAR,,EPAR,,,https://en.wikipedia.org/wiki/Ar%C5%82am%C3%B3w_Airfield,"Krajna, Wola Korzeniecka"
+29702,EPBA,small_airport,Bielsko-Biała Aleksandrowice Airfield,49.805,19.0019,1319,EU,PL,PL-SL,Bielsko-Biała,no,EPBA,,EPBA,,,https://pl.wikipedia.org/wiki/Lotnisko_Bielsko-Bia%C5%82a_Aleksandrowice,
+323850,EPBB,small_airport,Babięta,53.667905,21.255426,,EU,PL,PL-WN,Babięta,no,EPBB,,EPBB,,,https://pl.wikipedia.org/wiki/L%C4%85dowisko_Babi%C4%99ta,
+2603,EPBC,small_airport,Warsaw Babice Airport,52.269199,20.907203,352,EU,PL,PL-MZ,Warsaw,no,EPBC,,EPBC,,,https://en.wikipedia.org/wiki/Warsaw_Babice_Airport,"Babice Airfield, Bemovo, Warszawa"
+600199,EPBG,heliport,Gołubie Heliport,54.1975,18.0025,558,EU,PL,PL-U-A,Gołubie,no,EPBG,,EPBG,,,,
+29700,EPBK,small_airport,Białystok-Krywlany Airfield,53.101398,23.170601,502,EU,PL,PL-PD,Białystok,no,EPBK,,EPBK,,,https://en.wikipedia.org/wiki/Bia%C5%82ystok-Krywlany_Airfield,QYY
 2604,EPBY,medium_airport,Bydgoszcz Ignacy Jan Paderewski Airport,53.096802,17.977699,235,EU,PL,PL-KP,Bydgoszcz,yes,EPBY,BZG,EPBY,,http://www.plb.pl/,https://en.wikipedia.org/wiki/Bydgoszcz_Ignacy_Jan_Paderewski_Airport,"Szwederowo, Bromberg"
+319897,EPCD,small_airport,Depułtycze Królewskie Airfield,51.082067,23.437014,712,EU,PL,PL-LU,Królewskie,no,EPCD,,EPCD,,http://cl.pwszchelm.pl/,https://pl.wikipedia.org/wiki/Lotnisko_Che%C5%82m-Depu%C5%82tycze_Kr%C3%B3lewskie,Chełm Depłutycze
+2605,EPCE,medium_airport,Cewice Naval Air Base,54.416525,17.765734,495,EU,PL,PL-PM,Siemirowice,no,EPCE,,EPCE,,,,
+29818,EPDA,small_airport,Darłówo Naval Air Base,54.404701,16.3531,10,EU,PL,PL-ZP,Darłowo,no,EPDA,,EPDA,,,,"Żukowo, Darłówek"
+2607,EPDE,medium_airport,Deblin Military Air Base,51.551021,21.892322,392,EU,PL,PL-LU,Dęblin,no,EPDE,,EPDE,,,,Wyższa Szkoła Oficerska Sił Powietrznych
 29843,EPEL,small_airport,Elbląg Airfield,54.1408,19.4233,10,EU,PL,PL-WN,Elbląg,no,EPEL,,EPEL,,http://aeroklubelblaski.pl/index.php/lotnisko-2/,https://de.wikipedia.org/wiki/Flugplatz_Elbl%C4%85g,"ZBG, Elblag, Elbing"
 2608,EPGD,large_airport,Gdańsk Lech Wałęsa Airport,54.377602,18.4662,489,EU,PL,PL-PM,Gdańsk,yes,EPGD,GDN,EPGD,,http://www.airport.gdansk.pl/,https://en.wikipedia.org/wiki/Gda%C5%84sk_Lech_Wa%C5%82%C4%99sa_Airport,Gdańsk-Rębiechowo
+323950,EPGE,small_airport,Giże Airfield,53.982436,22.403149,,EU,PL,PL-WN,Giże,no,EPGE,,EPGE,,http://www.czteryzywioly.com/,,
+29921,EPGI,small_airport,Grudziądz Lisie Kąty Airfield,53.524399,18.849199,121,EU,PL,PL-KP,Grudziądz,no,EPGI,,EPGI,,,https://pl.wikipedia.org/wiki/Lotnisko_Grudzi%C4%85dz-Lisie_K%C4%85ty,"Grudziadz, Lisie Katy"
+30026,EPKA,small_airport,Kielce-Masłów Airfield,50.896702,20.731701,1010,EU,PL,PL-SK,Kielce,no,EPKA,,EPKA,,http://www.aeroklub.kielce.pl/index.php/lotnisko,http://www.aeroklub.kielce.pl/index.php/lotnisko,OKI
 2609,EPKK,large_airport,Kraków John Paul II International Airport,50.077702,19.7848,791,EU,PL,PL-MA,Balice,yes,EPKK,KRK,EPKK,,http://www.krakowairport.pl/en/,https://en.wikipedia.org/wiki/Kraków_John_Paul_II_International_Airport,Krakov
+2611,EPKN,small_airport,Opole-Kamień Śląski Airfield,50.530598,18.079283,683,EU,PL,PL-OP,Kamień Śląski,no,EPKN,,EPKN,,http://www.opole.airport.aero,https://en.wikipedia.org/wiki/Opole-Kamie%C5%84_%C5%9Al%C4%85ski_Airport,QPM
 2613,EPKT,medium_airport,Katowice Wojciech Korfanty International Airport,50.476015,19.080705,995,EU,PL,PL-SL,Katowice,yes,EPKT,KTW,EPKT,,http://katowice.airport.com,https://en.wikipedia.org/wiki/Katowice_International_Airport,"Pyrzowice, Dąbrowa Górnicza, Katowice, Silesia, GOP, Silesia Metropolis, Gliwice, Piekary Śląskie, Bytom, Zabrze, Sosnowiec"
 309484,EPLB,medium_airport,Lublin Airport,51.240157,22.713461,633,EU,PL,PL-LU,Lublin,yes,EPLB,LUZ,EPLB,,,https://en.wikipedia.org/wiki/Lublin_Airport,
 2616,EPLL,medium_airport,Łódź Władysław Reymont Airport,51.721901,19.3981,604,EU,PL,PL-LD,Łódź,yes,EPLL,LCJ,EPLL,,https://www.lodz-airport.pl/en,https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA_W%C5%82adys%C5%82aw_Reymont_Airport,Lublinek
+31015,EPLY,medium_airport,Leźnica Wielka Air Base,52.004945,19.143792,404,EU,PL,PL-LD,Leźnica Wielka,no,EPLY,,EPLY,,,,"Leczyca, Łęczyca"
 2622,EPMO,medium_airport,Modlin Airport,52.451099,20.6518,341,EU,PL,PL-MZ,Nowy Dwór Mazowiecki,yes,EPMO,WMI,EPMO,,http://modlinairport.pl/,https://en.wikipedia.org/wiki/Warsaw_Modlin_Airport,"Warsaw, Warszawa"
 323653,EPMY,small_airport,Myślibórz-Giżyn Airfield,52.941164,15.029812,230,EU,PL,PL-ZP,Nowogródek Pomorski,no,EPMY,,EPMY,,https://gcas.com.pl/lotnisko/,,
 2625,EPPO,medium_airport,Poznań-Ławica Airport,52.421598,16.823359,308,EU,PL,PL-WP,Poznań,yes,EPPO,POZ,EPPO,,https://poznanairport.pl,https://en.wikipedia.org/wiki/Pozna%C5%84-%C5%81awica_Airport,Poznań–Ławica Henryk Wieniawski Airport
@@ -1870,6 +1885,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2630,EPSC,medium_airport,Solidarity Szczecin–Goleniów Airport,53.584702,14.9022,154,EU,PL,PL-ZP,Glewice,yes,EPSC,SZZ,EPSC,,http://www.airport.com.pl/en/index.php,https://en.wikipedia.org/wiki/Szczecin-Goleni%C3%B3w_%22Solidarno%C5%9B%C4%87%22_Airport,Solidarność
 2631,EPSD,small_airport,Szczecin-Dąbie Airfield,53.390659,14.632774,3,EU,PL,PL-ZP,Szczecin,no,EPSD,,EPSD,,,https://en.wikipedia.org/wiki/Szczecin-D%C4%85bie_Airstrip,
 30423,EPSK,small_airport,Słupsk-Krȩpa Airfield,54.410036,17.090572,249,EU,PL,PL-PM,Krępa Słupska,no,EPSK,,EPSK,,,,"EPSK, Aeroklub Słupski, Słupsk"
+2633,EPSN,medium_airport,Swidwin Military Air Base,53.7906,15.8263,394,EU,PL,PL-ZP,,no,EPSN,,EPSN,,,,
 2635,EPSY,medium_airport,Olsztyn-Mazury Airport,53.481899,20.9377,463,EU,PL,PL-WN,Szymany,yes,EPSY,SZY,EPSY,,http://mazuryairport.pl/,https://en.wikipedia.org/wiki/Olsztyn-Mazury_Airport,
 2637,EPWA,large_airport,Warsaw Chopin Airport,52.165699,20.9671,362,EU,PL,PL-MZ,Warsaw,yes,EPWA,WAW,EPWA,,http://www.lotnisko-chopina.pl/?lang=en,https://en.wikipedia.org/wiki/Warsaw_Frederic_Chopin_Airport,"Okęcie, Warszawa"
 2638,EPWR,medium_airport,Copernicus Wrocław Airport,51.103719,16.882096,404,EU,PL,PL-DS,Wrocław,yes,EPWR,WRO,EPWR,,http://www.airport.wroclaw.pl/en/index.php,https://en.wikipedia.org/wiki/Copernicus_Airport_Wroc%C5%82aw,"Strachowice, Breslau, Wroclaw"
@@ -7069,7 +7085,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5488,PKMJ,medium_airport,Marshall Islands International Airport,7.06476,171.272003,6,OC,MH,MH-MAJ,Majuro Atoll,yes,PKMJ,MAJ,PKMJ,MAJ,,https://en.wikipedia.org/wiki/Marshall_Islands_International_Airport,
 5489,PKRO,small_airport,Dyess Army Air Field,9.39689,167.470993,9,OC,MH,MH-KWA,Roi-Namur,no,PKRO,,PKRO,ROI,,https://en.wikipedia.org/wiki/Dyess_Army_Airfield,FreeFlight
 5490,PKWA,medium_airport,Bucholz Army Air Field,8.720120429992676,167.73199462890625,9,OC,MH,MH-KWA,Kwajalein,yes,PKWA,KWA,PKWA,KWA,,https://en.wikipedia.org/wiki/Bucholz_Army_Airfield,
+43050,PL-0004,small_airport,Borsk Airfield,53.951046,17.948034,466,EU,PL,PL-PM,Borsk,no,EPBO,,EPBO,,,,Borsk Air Base
 44710,PL-0074,small_airport,Kakolewo (former military),52.235001,16.243,331,EU,PL,PL-WP,Kąkolewo,no,EPPG,,EPPG,,https://www.lotniskokakolewo.pl/en/aviation/for-pilots/,,Lotnisko Kąkolewo
+323871,PL-0120,small_airport,Bełchatów Airstrip,51.402116,19.378239,713,EU,PL,PL-LD,Kałduny,no,EPBE,,EPBE,,,,
 31011,PL-0274,small_airport,Bydgoszcz Aeroklub Airfield,53.105214,17.960376,230,EU,PL,PL-KP,Bydgoszcz,no,EPBD,,EPBD,,http://aeroklubbydgoski.pl/,https://pl.wikipedia.org/wiki/Aeroklub_Bydgoski,Biedaszkowo
 5493,PLCH,medium_airport,Cassidy International Airport,1.986278,-157.350011,5,OC,KI,KI-L,Kiritimati,yes,PLCH,CXI,PLCH,,,https://en.wikipedia.org/wiki/Cassidy_International_Airport,"Christmas Island, Banana"
 32466,PLFA,small_airport,Tabuaeran Island Airport,3.89944,-159.389008,,OC,KI,KI-L,Tabuaeran Island,no,PLFA,TNV,PLFA,,,https://de.wikipedia.org/wiki/Flugplatz_Tabuaeran,Fanning Island
