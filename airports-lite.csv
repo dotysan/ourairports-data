@@ -1664,7 +1664,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29148,EGHR,small_airport,Goodwood Aerodrome,50.859832,-0.760073,98,EU,GB,GB-ENG,"Chichester, West Sussex",no,EGHR,QUG,EGHR,,http://www.goodwood.co.uk/aviation/,https://en.wikipedia.org/wiki/Chichester/Goodwood_Airport,RAF Westhampnett
 2424,EGJA,medium_airport,Alderney Airport,49.706104,-2.21472,290,EU,GG,GG-A,Saint Anne,yes,EGJA,ACI,EGJA,,,https://en.wikipedia.org/wiki/Alderney_Airport,"The Blaye, Channel Islands"
 2425,EGJB,medium_airport,Guernsey Airport,49.435001,-2.60197,336,EU,GG,GG-G,Saint Peter Port,yes,EGJB,GCI,EGJB,,,https://en.wikipedia.org/wiki/Guernsey_Airport,Channel Islands
-2426,EGJJ,medium_airport,Jersey Airport,49.20790100097656,-2.195509910583496,277,EU,JE,JE-U-A,Saint Helier,yes,EGJJ,JER,EGJJ,,http://www.jerseyairport.com/,https://en.wikipedia.org/wiki/Jersey_Airport,Channel Islands
+2426,EGJJ,medium_airport,Jersey Airport,49.207901,-2.19551,277,EU,JE,JE-U-A,St. Peter,yes,EGJJ,JER,EGJJ,,http://www.jerseyairport.com/,https://en.wikipedia.org/wiki/Jersey_Airport,Channel Islands
 2427,EGKA,medium_airport,Brighton City Airport,50.835602,-0.297222,7,EU,GB,GB-ENG,"Brighton, East Sussex",no,EGKA,ESH,EGKA,,http://flybrighton.com,https://en.wikipedia.org/wiki/Brighton_City_Airport,Shoreham Airport
 2428,EGKB,medium_airport,London Biggin Hill Airport,51.33079910279999,0.0324999988079,598,EU,GB,GB-ENG,London,no,EGKB,BQH,EGKB,,http://www.bigginhillairport.com/,https://en.wikipedia.org/wiki/London_Biggin_Hill_Airport,"LON, RAF Biggin Hill"
 2429,EGKK,large_airport,London Gatwick Airport,51.148771,-0.192089,202,EU,GB,GB-ENG,London,yes,EGKK,LGW,EGKK,,http://www.gatwickairport.com/,https://en.wikipedia.org/wiki/Gatwick_Airport,"LON, Crawley, Charlwood"
@@ -3227,6 +3227,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3234,HLZW,small_airport,Zuwarah International Airport,32.952301,12.0155,9,AF,LY,LY-NQ,Zuwarah,no,HLZW,WAX,HLZW,HL75,,https://en.wikipedia.org/wiki/Zuwarah_Airport,
 42029,HN-MUG,small_airport,Erandique Airport,14.235833,-88.437225,4199,NA,HN,HN-LE,Erandique,no,,EDQ,MHGU,,,https://en.wikipedia.org/wiki/Erandique_Airport,Gualguire Airport
 313231,HOO,small_airport,Nhon Co Airfield,11.9787,107.5638,2270,AS,VN,VN-CH,Đăk R'Lấp,no,,HOO,,,,,
+43963,HR-0039,heliport,Firule Heliport,43.502799,16.462942,77,EU,HR,HR-17,Split,no,LDSF,,LDSF,,,,
 313249,HRC,small_airport,Sary Su Airport,48.3974,70.1915,1307,AS,KZ,KZ-ULY,Zhayrem,no,,HRC,,,,,"Zhairem, Жайрем"
 3236,HRYG,medium_airport,Gisenyi Airport,-1.6771999597549438,29.258899688720703,5082,AF,RW,RW-04,Gisenyi,no,HRYG,GYI,HRYG,,,https://en.wikipedia.org/wiki/Grayson_County_Airport,
 30801,HRYI,small_airport,Butare Airport,-2.59583,29.7367,5801,AF,RW,RW-05,Butare,no,HRYI,BTQ,HRYI,,,https://en.wikipedia.org/wiki/Butare_Airport,
@@ -4307,7 +4308,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3648,KLNS,medium_airport,Lancaster Airport,40.121700286865234,-76.29609680175781,403,NA,US,US-PA,Lancaster,yes,KLNS,LNS,KLNS,LNS,,https://en.wikipedia.org/wiki/Lancaster_Airport_(Pennsylvania),
 20364,KLOL,medium_airport,Derby Field,40.0663986206,-118.565002441,3904,NA,US,US-NV,Lovelock,no,KLOL,LOL,KLOL,LOL,http://pershingcounty.net/index.php/Derby-Field-Airport/derby-field-airport.html,https://en.wikipedia.org/wiki/Derby_Field,
 20365,KLOM,small_airport,Wings Field,40.1375007629,-75.2650985718,302,NA,US,US-PA,Philadelphia,no,KLOM,BBX,KLOM,LOM,,https://en.wikipedia.org/wiki/Wings_Field,
-20366,KLOT,small_airport,Lewis University Airport,41.6072998,-88.09619904,679,NA,US,US-IL,Chicago/Romeoville,no,KLOT,LOT,KLOT,LOT,http://www.flylot.com/,https://en.wikipedia.org/wiki/Lewis_University_Airport,"Lewis Lockport Airport,"
+20366,KLOT,small_airport,Lewis University Airport,41.6073,-88.096199,679,NA,US,US-IL,Chicago/Romeoville,no,KLOT,LOT,KLOT,LOT,http://www.flylot.com/,https://en.wikipedia.org/wiki/Lewis_University_Airport,Lewis Lockport Airport
 3649,KLOU,medium_airport,Bowman Field,38.2280006409,-85.6636962891,546,NA,US,US-KY,Louisville,no,KLOU,LOU,KLOU,LOU,http://www.flylouisville.com/bowman-field/fast-facts/,https://en.wikipedia.org/wiki/Bowman_Field_(airport),
 3650,KLOZ,medium_airport,London-Corbin Airport/Magee Field,37.0821990967,-84.08489990230001,1212,NA,US,US-KY,London,no,KLOZ,LOZ,KLOZ,LOZ,http://www.london-corbinairport.com/,https://en.wikipedia.org/wiki/London-Corbin_Airport,
 20367,KLPC,small_airport,Lompoc Airport,34.665599823,-120.468002319,88,NA,US,US-CA,Lompoc,no,KLPC,LPC,KLPC,LPC,http://www.cityoflompoc.com/transit/airport/,https://en.wikipedia.org/wiki/Lompoc_Airport,
@@ -5101,11 +5102,22 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3982,LCRA,medium_airport,RAF Akrotiri,34.590401,32.9879,76,AS,CY,CY-XX,Akrotiri,no,LCRA,AKT,LCRA,,http://www.raf.mod.uk/rafakrotiri/passengerinformation/,https://en.wikipedia.org/wiki/RAF_Akrotiri,"Royal Air Force, RAF, British"
 3984,LDDU,medium_airport,Dubrovnik Ruđer Bošković Airport,42.562247,18.265543,527,EU,HR,HR-19,Čilipi,yes,LDDU,DBV,LDDU,,,https://en.wikipedia.org/wiki/Dubrovnik_Airport,
 30085,LDLO,small_airport,Lošinj Airport,44.566985,14.393883,151,EU,HR,HR-08,Mali Lošinj,no,LDLO,LSZ,LDLO,,,https://en.wikipedia.org/wiki/Lo%C5%A1inj_Airport,Lussinpiccolo
+30543,LDOB,small_airport,Vukovar Borovo Recreational Airfield,45.386398,18.962799,289,EU,HR,HR-16,Vukovar,no,LDOB,,LDOB,,,,
+3985,LDOC,small_airport,Osijek-Čepin Airfield,45.542778,18.631944,299,EU,HR,HR-14,Osijek,no,LDOC,,LDOC,,http://www.ak-osijek.hr,,
+30422,LDOR,small_airport,Slavonski Jelas Airfield,45.156101,17.9881,276,EU,HR,HR-12,Slavonski,no,LDOR,,LDOR,,,,
 3986,LDOS,medium_airport,Osijek Airport,45.462355,18.811278,290,EU,HR,HR-14,Klisa,yes,LDOS,OSI,LDOS,,,https://en.wikipedia.org/wiki/Osijek_Airport,
+30534,LDOV,small_airport,Vinkovci Sopot Airfield,45.251099,18.759199,266,EU,HR,HR-16,Vinkovci,no,LDOV,,LDOV,,,,
 3987,LDPL,medium_airport,Pula Airport,44.893501,13.9222,274,EU,HR,HR-18,Pula,yes,LDPL,PUY,LDPL,,https://airport-pula.hr/en/,https://en.wikipedia.org/wiki/Pula_Airport,
+30128,LDPM,small_airport,Medulin Campanoz Airfield,44.843878,13.904376,171,EU,HR,HR-18,Medulin,no,LDPM,,LDPM,,,,"Sportski aerodrom Medulin, Pula"
+30506,LDPN,small_airport,Unije Airfield,44.6283,14.2411,39,EU,HR,HR-08,Unije Island,no,LDPN,,LDPN,,,,
+30541,LDPV,small_airport,Vrsar Crljenka Airfield,45.141701,13.6306,121,EU,HR,HR-18,Vrsar,no,LDPV,,LDPV,,,https://en.wikipedia.org/wiki/Vrsar_Crljenka_Airport,Aeropark Vrsar
+3988,LDRG,small_airport,Grobničko Polje Airfield,45.379501,14.5038,951,EU,HR,HR-08,Soboli,no,LDRG,,LDRG,,,https://en.wikipedia.org/wiki/Grobni%C4%8Dko_Polje_Airfield,
 3989,LDRI,medium_airport,Rijeka Airport,45.2169,14.5703,278,EU,HR,HR-08,Omišalj,yes,LDRI,RJK,LDRI,,https://www.rijeka-airport.hr/,https://en.wikipedia.org/wiki/Rijeka_Airport,"Reka, Rika, Fiume"
+30226,LDRO,small_airport,Otočac Airfield,44.845517,15.288607,1539,EU,HR,HR-09,Otočac,no,LDRO,,LDRO,,,https://hr.wikipedia.org/wiki/Zra%C4%8Dno_pristani%C5%A1te_Oto%C4%8Dac,
 3990,LDSB,medium_airport,Brač Airport,43.284454,16.678362,1776,EU,HR,HR-17,Gornji Humac,yes,LDSB,BWK,LDSB,,,https://en.wikipedia.org/wiki/Bra%C4%8D_Airport,Bol Airport
+29968,LDSH,small_airport,Hvar Airfield,43.181702,16.633301,92,EU,HR,HR-17,Hvar Island,no,LDSH,,LDSH,,,https://hr.wikipedia.org/wiki/Aerodrom_Hvar,
 3991,LDSP,medium_airport,Split Airport,43.538898,16.298,79,EU,HR,HR-17,Kaštel Štafilić,yes,LDSP,SPU,LDSP,,,https://en.wikipedia.org/wiki/Split_Airport,
+30417,LDSS,small_airport,Sinj Piket Airfield,43.700298,16.6714,981,EU,HR,HR-17,Sinj,no,LDSS,,LDSS,,,https://hr.wikipedia.org/wiki/Zra%C4%8Dna_luka_Sinj,"Sinj Airport, Sinj Sport Airport"
 313857,LDW,small_airport,Lansdowne Airport,-17.6128,126.743,1190,OC,AU,AU-WA,Lansdowne Station,no,,LDW,,,,,
 3993,LDZA,large_airport,Zagreb Franjo Tuđman International Airport,45.742901,16.0688,353,EU,HR,HR-01,Velika Gorica,yes,LDZA,ZAG,LDZA,,https://www.zagreb-airport.hr/en,https://en.wikipedia.org/wiki/Zagreb_Airport,Pleso
 3994,LDZD,medium_airport,Zadar Airport,44.094988,15.354879,289,EU,HR,HR-13,Zemunik Donji (Zadar),yes,LDZD,ZAD,LDZD,,https://www.zadar-airport.hr/en,https://en.wikipedia.org/wiki/Zadar_Airport,
@@ -6066,7 +6078,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4766,MMZH,medium_airport,Ixtapa-Zihuatanejo International Airport,17.601771,-101.460629,26,NA,MX,MX-GRO,Ixtapa,yes,MMZH,ZIH,MMZH,,,https://en.wikipedia.org/wiki/Ixtapa-Zihuatanejo_International_Airport,Aeropuerto Internacional de Zihuatanejo
 4767,MMZM,small_airport,Zamora Airport,20.045,-102.276001,5141,NA,MX,MX-MIC,Zamora,no,MMZM,ZMM,MMZM,ZAM,,https://es.wikipedia.org/wiki/Aeropuerto_Nacional_de_Zamora,
 4768,MMZO,medium_airport,Playa de Oro International Airport,19.1448,-104.558998,30,NA,MX,MX-COL,Manzanillo,yes,MMZO,ZLO,MMZO,,http://manzanillo.aeropuertosgap.com.mx/index.php?lang=eng,https://en.wikipedia.org/wiki/Playa_de_Oro_International_Airport,"Manzanillo Costalegre, Aeropuerto Internacional Playa de Oro"
-4770,MNBL,medium_airport,Bluefields Airport,11.991,-83.774101,20,NA,NI,NI-AS,Bluefileds,yes,MNBL,BEF,MNBL,,,https://en.wikipedia.org/wiki/Bluefields_Airport,
+4770,MNBL,medium_airport,Bluefields Airport,11.991,-83.774101,20,NA,NI,NI-AS,Bluefields,yes,MNBL,BEF,MNBL,,,https://en.wikipedia.org/wiki/Bluefields_Airport,
 30809,MNBZ,small_airport,San Pedro Airport,14.031524,-84.624311,600,NA,NI,NI-AN,Bonanza,no,MNBZ,BZA,MNBZ,,,https://en.wikipedia.org/wiki/San_Pedro_Airport_(Nicaragua),
 316239,MNCE,small_airport,Costa Esmeralda Airport,11.427542,-86.033361,84,NA,NI,NI-RI,Tola,no,MNCE,ECI,MNCE,ECI,http://www.mukulresort.com/costa-esmeralda-airport.html,https://en.wikipedia.org/wiki/Costa_Esmeralda_Airport,
 42164,MNCI,small_airport,Corn Island Airport,12.174785,-83.059445,1,NA,NI,NI-AS,Corn Island,no,MNCI,RNI,MNCI,,,https://en.wikipedia.org/wiki/Corn_Island_Airport,
