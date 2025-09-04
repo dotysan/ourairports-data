@@ -451,7 +451,7 @@
 6963,"07Y","small_airport","Hill City-Quadna Mountain Airport",46.955501556396484,-93.5969009399414,1289,"NA","US","US-MN","Hill City","no",,,"07Y","07Y",,,
 45248,"08AK","small_airport","Fisher Airport",61.568743,-149.725757,200,"NA","US","US-AK","Big Lake","no",,,"08AK","08AK",,,
 332752,"08AL","seaplane_base","Little Lagoon Seaplane Base",30.243717,-87.754678,8,"NA","US","US-AL","Gulf Shores","no",,,"08AL","08AL",,,
-523547,"08AN","small_airport","Base Camp Airstrip",61.704295,-149.212506,892,"NA","US","US-AK","Palmer,","no",,,"08AN","08AN",,,
+523547,"08AN","small_airport","Base Camp Airstrip",61.704295,-149.212506,892,"NA","US","US-AK","Palmer","no",,,"08AN","08AN",,,
 6965,"08AZ","heliport","Mesa Police Heliport",33.417669,-111.838835,1240,"NA","US","US-AZ","Mesa","no",,,"08AZ","08AZ",,,
 6966,"08B","small_airport","Merrymeeting Field",44,-69.88710021972656,65,"NA","US","US-ME","Bowdoinham","no",,,"08B","08B",,,
 6967,"08CA","heliport","PG&E Placerville Service Center Heliport",38.695211,-120.826086,1810,"NA","US","US-CA","Placerville","no",,,"08CA","08CA",,,
@@ -23763,7 +23763,7 @@
 29151,"EGHY","small_airport","Truro Aerodrome",50.2784,-5.14229,127,"EU","GB","GB-ENG","Truro","no",,,"EGHY",,,"https://en.wikipedia.org/wiki/Truro_Aerodrome",
 2424,"EGJA","medium_airport","Alderney Airport",49.706104,-2.21472,290,"EU","GG","GG-A","Saint Anne","yes","EGJA","ACI","EGJA",,,"https://en.wikipedia.org/wiki/Alderney_Airport","The Blaye, Channel Islands"
 2425,"EGJB","medium_airport","Guernsey Airport",49.435001,-2.60197,336,"EU","GG","GG-G","Saint Peter Port","yes","EGJB","GCI","EGJB",,,"https://en.wikipedia.org/wiki/Guernsey_Airport","Channel Islands"
-2426,"EGJJ","medium_airport","Jersey Airport",49.20790100097656,-2.195509910583496,277,"EU","JE","JE-U-A","Saint Helier","yes","EGJJ","JER","EGJJ",,"http://www.jerseyairport.com/","https://en.wikipedia.org/wiki/Jersey_Airport","Channel Islands"
+2426,"EGJJ","medium_airport","Jersey Airport",49.207901,-2.19551,277,"EU","JE","JE-U-A","St. Peter","yes","EGJJ","JER","EGJJ",,"http://www.jerseyairport.com/","https://en.wikipedia.org/wiki/Jersey_Airport","Channel Islands"
 2427,"EGKA","medium_airport","Brighton City Airport",50.835602,-0.297222,7,"EU","GB","GB-ENG","Brighton, East Sussex","no","EGKA","ESH","EGKA",,"http://flybrighton.com","https://en.wikipedia.org/wiki/Brighton_City_Airport","Shoreham Airport"
 2428,"EGKB","medium_airport","London Biggin Hill Airport",51.33079910279999,0.0324999988079,598,"EU","GB","GB-ENG","London","no","EGKB","BQH","EGKB",,"http://www.bigginhillairport.com/","https://en.wikipedia.org/wiki/London_Biggin_Hill_Airport","LON, RAF Biggin Hill"
 29152,"EGKE","small_airport","Challock Airfield",51.208302,0.829167,600,"EU","GB","GB-ENG","Ashford, Kent","no",,,"EGKE",,,,"Kent Gliding Centre"
@@ -30451,7 +30451,7 @@
 42029,"HN-MUG","small_airport","Erandique Airport",14.235833,-88.437225,4199,"NA","HN","HN-LE","Erandique","no",,"EDQ","MHGU",,,"https://en.wikipedia.org/wiki/Erandique_Airport","Gualguire Airport"
 313231,"HOO","small_airport","Nhon Co Airfield",11.9787,107.5638,2270,"AS","VN","VN-CH","Đăk R'Lấp","no",,"HOO",,,,,
 316068,"HR-0001","small_airport","Daruvar Airfield",45.585073,17.211387,492,"EU","HR","HR-07","Daruvar","no",,,"LDVR",,,,"Aerodrom Daruvar, Aeroklub Ždral Daruvar"
-317595,"HR-0002","closed","KORČULA Vela Luka Seaplane Terminal",42.959075,16.710156,-1,"EU","HR","HR-19","Vela Luka","no",,,,,,,"Korçula,ECA, LDSL"
+317595,"HR-0002","closed","Korčula / Vela Luka Seaplane Terminal",42.959075,16.710156,-1,"EU","HR","HR-19","Vela Luka","no",,,,,,"https://en.wikipedia.org/wiki/European_Coastal_Airlines","Korçula, ECA, LDSL"
 320255,"HR-0003","closed","Rijeka Seaplane Terminal",45.326054,14.438421,1,"EU","HR","HR-08","Rijeka","no",,,,,,,"LDRP, LDRP"
 320476,"HR-0004","small_airport","Nova Rača Airfield",45.78696,16.96387,426,"EU","HR","HR-07","Nova Rača","no",,,,,"http://www.aeroklub.nova-raca.hr/zracnopristaniste.html",,
 320945,"HR-0005","small_airport","Gradac Airstrip",45.310897,17.821682,,"EU","HR","HR-11","Pleternica","no",,,,,,,
@@ -30466,7 +30466,7 @@
 340338,"HR-0014","heliport","Osejava Heliport",43.283997,17.029197,,"EU","HR","HR-17","Makarska","no",,,,,,,
 340365,"HR-0015","closed","Vis Airfield",43.034992,16.187377,,"EU","HR","HR-17","Plisko Polje","no",,,,,,"https://en.wikipedia.org/wiki/Foggia_Airfield_Complex#Vis_Airfield",
 345457,"HR-0016","small_airport","Prelog Marina Airfield",46.32439,16.60041,,"EU","HR","HR-20","Prelog","no",,,,,,,"Letjelište Marina"
-345855,"HR-0017","closed","Željava Air Base",44.84589,15.774307,,"EU","HR","HR-09","Željava","no",,,,,,,
+345855,"HR-0017","closed","Željava Air Base",44.852577,15.778314,1120,"EU","HR","HR-09","Željava","no",,,,,,"https://en.wikipedia.org/wiki/%C5%BDeljava_Air_Base",
 346618,"HR-0018","small_airport","Nedelišće Airstrip",46.362908,16.386902,561,"EU","HR","HR-20","Nedelišće","no",,,,,,,
 322017,"HR-0019","closed","Novalja Seaplane Terminal",44.5527,14.8838,1,"EU","HR","HR-09","Novalja","no",,,,,,,"LDZN"
 321953,"HR-0020","closed","Hvar/Jelsa Seaplane Base",43.172778,16.700172,1,"EU","HR","HR-17","Hvar","no",,,,,,,"LDSJ"
@@ -30483,12 +30483,14 @@
 569971,"HR-0031","small_airport","Đakovo Airfield",45.31588,18.44786,364,"EU","HR","HR-14","Đakovo","no",,,,,,,"Djakovo"
 3235,"HR-0032","closed","Sepurine Training Base",44.209999,15.1632,60,"EU","HR","HR-13","Zaton","no",,,,,,,"LD57"
 3983,"HR-0033","closed","Ploče Airport",43.0387,17.4296,7,"EU","HR","HR-19","Ploče","no",,,,,,,"LDDP, LDDP"
-3995,"HR-0034","closed","Udbina Air Base",44.557598114014,15.774399757385,2462,"EU","HR","HR-09","Udbina","no",,,,,,,"LDZU, LDZU"
+3995,"HR-0034","medium_airport","Udbina Airfield",44.557598,15.7744,2462,"EU","HR","HR-09","Udbina","no",,,"LDZU",,,"https://hr.wikipedia.org/wiki/Sredi%C5%A1te_za_razvoj_vo%C4%91a_Marko_Babi%C4%87","Udbina Air Base"
 29765,"HR-0035","closed","Čazma Grabovnica Airfield",45.749699,16.663601,479,"EU","HR","HR-07","Čazma","no",,,,,,,"LDZC"
 320742,"HR-0036","closed","Pula Seaplane Terminal",44.876066,13.846447,1,"EU","HR","HR-18","Pula","no",,,,,,,"LDPP, LDPP"
 320743,"HR-0037","closed","Rab Seaplane Terminal",44.756391,14.764118,1,"EU","HR","HR-08","Rab","no",,,,,,,"LDRR, LDRR"
 320745,"HR-0038","closed","Lumbarda Seaplane Terminal",42.923159,17.17049,1,"EU","HR","HR-19","Lumbarda","no",,,,,,,"LDSM, LDSM"
-43963,"HR-0039","heliport","Firule Heliport",43.502799,16.462942,77,"EU","HR","HR-17","Split","no",,,,"LDSF",,,
+43963,"HR-0039","heliport","Firule Heliport",43.502799,16.462942,77,"EU","HR","HR-17","Split","no","LDSF",,"LDSF",,,,
+600207,"HR-0040","small_airport","Badljevina Airstrip",45.50546,17.17799,,"EU","HR","HR-07",,"no",,,,,,,
+600215,"HR-0041","heliport","Našice Barracks Heliport",45.484955,18.075061,415,"EU","HR","HR-14","Našice","no",,,,,,,
 313249,"HRC","small_airport","Sary Su Airport",48.3974,70.1915,1307,"AS","KZ","KZ-ULY","Zhayrem","no",,"HRC",,,,,"Zhairem, Жайрем"
 313252,"HRN","heliport","Heron Island Helipad",-23.441765,151.911416,8,"OC","AU","AU-QLD","Heron Island","no",,,"YHRN","YHRN",,,"HRN"
 3236,"HRYG","medium_airport","Gisenyi Airport",-1.6771999597549438,29.258899688720703,5082,"AF","RW","RW-04","Gisenyi","no","HRYG","GYI","HRYG",,,"https://en.wikipedia.org/wiki/Grayson_County_Airport",
@@ -33169,6 +33171,7 @@
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
 18252,"JB01","small_airport","Clearwater Aero Estates Airport",43.757198,-89.652603,944,"NA","US","US-WI","Oxford","no",,,"JB01","JB01",,,"Clearwater Ranch"
+600211,"JE-0001","closed","St Aubin's Bay Airfield",49.1875,-2.1706,98,"EU","JE","JE-U-A","St. Helier","no",,,,,"https://www.abct.org.uk",,"St. Aubin’s Bay Airfield, Jersey Airways, 1930s Beach Airport, St. Helier Aviation History, Channel Islands Aviation, ABCT Memorial, , SABA"
 319816,"JIO","small_airport","Jos Orno Imsula Airport",-8.140402,127.908758,43,"AS","ID","ID-MA","Tiakur","yes",,"JIO","WAPM",,,"https://en.wikipedia.org/wiki/Jos_Orno_Imsula_Airport","Moa Island, Leti Islands"
 18253,"JLA","small_airport","Quartz Creek Airport",60.484235,-149.722909,450,"NA","US","US-AK","Cooper Landing","no",,"JLA",,"JLA",,,
 42315,"JM-0001","closed","Gunters Hill Airport / Vernam Field",17.886,-77.303497,99,"NA","JM","JM-13","Gimme-Me-Bit","no",,,,,,"https://en.wikipedia.org/wiki/Vernam_Field","Vernam Field"
@@ -39568,7 +39571,7 @@
 3648,"KLNS","medium_airport","Lancaster Airport",40.121700286865234,-76.29609680175781,403,"NA","US","US-PA","Lancaster","yes","KLNS","LNS","KLNS","LNS",,"https://en.wikipedia.org/wiki/Lancaster_Airport_(Pennsylvania)",
 20364,"KLOL","medium_airport","Derby Field",40.0663986206,-118.565002441,3904,"NA","US","US-NV","Lovelock","no","KLOL","LOL","KLOL","LOL","http://pershingcounty.net/index.php/Derby-Field-Airport/derby-field-airport.html","https://en.wikipedia.org/wiki/Derby_Field",
 20365,"KLOM","small_airport","Wings Field",40.1375007629,-75.2650985718,302,"NA","US","US-PA","Philadelphia","no","KLOM","BBX","KLOM","LOM",,"https://en.wikipedia.org/wiki/Wings_Field",
-20366,"KLOT","small_airport","Lewis University Airport",41.6072998,-88.09619904,679,"NA","US","US-IL","Chicago/Romeoville","no","KLOT","LOT","KLOT","LOT","http://www.flylot.com/","https://en.wikipedia.org/wiki/Lewis_University_Airport","Lewis Lockport Airport,"
+20366,"KLOT","small_airport","Lewis University Airport",41.6073,-88.096199,679,"NA","US","US-IL","Chicago/Romeoville","no","KLOT","LOT","KLOT","LOT","http://www.flylot.com/","https://en.wikipedia.org/wiki/Lewis_University_Airport","Lewis Lockport Airport"
 3649,"KLOU","medium_airport","Bowman Field",38.2280006409,-85.6636962891,546,"NA","US","US-KY","Louisville","no","KLOU","LOU","KLOU","LOU","http://www.flylouisville.com/bowman-field/fast-facts/","https://en.wikipedia.org/wiki/Bowman_Field_(airport)",
 3650,"KLOZ","medium_airport","London-Corbin Airport/Magee Field",37.0821990967,-84.08489990230001,1212,"NA","US","US-KY","London","no","KLOZ","LOZ","KLOZ","LOZ","http://www.london-corbinairport.com/","https://en.wikipedia.org/wiki/London-Corbin_Airport",
 20367,"KLPC","small_airport","Lompoc Airport",34.665599823,-120.468002319,88,"NA","US","US-CA","Lompoc","no","KLPC","LPC","KLPC","LPC","http://www.cityoflompoc.com/transit/airport/","https://en.wikipedia.org/wiki/Lompoc_Airport",
@@ -42538,22 +42541,22 @@
 3982,"LCRA","medium_airport","RAF Akrotiri",34.590401,32.9879,76,"AS","CY","CY-XX","Akrotiri","no","LCRA","AKT","LCRA",,"http://www.raf.mod.uk/rafakrotiri/passengerinformation/","https://en.wikipedia.org/wiki/RAF_Akrotiri","Royal Air Force, RAF, British"
 3984,"LDDU","medium_airport","Dubrovnik Ruđer Bošković Airport",42.562247,18.265543,527,"EU","HR","HR-19","Čilipi","yes","LDDU","DBV","LDDU",,,"https://en.wikipedia.org/wiki/Dubrovnik_Airport",
 30085,"LDLO","small_airport","Lošinj Airport",44.566985,14.393883,151,"EU","HR","HR-08","Mali Lošinj","no","LDLO","LSZ","LDLO",,,"https://en.wikipedia.org/wiki/Lo%C5%A1inj_Airport","Lussinpiccolo"
-30543,"LDOB","small_airport","Vukovar Borovo Recreational Airfield",45.386398,18.962799,289,"EU","HR","HR-16","Vukovar","no",,,"LDOB",,,,
-3985,"LDOC","small_airport","Osijek-Čepin Airfield",45.542778,18.631944,299,"EU","HR","HR-14","Osijek","no",,,"LDOC",,"http://www.ak-osijek.hr",,
-30422,"LDOR","small_airport","Slavonski Jelas Airfield",45.156101,17.9881,276,"EU","HR","HR-12","Slavonski","no",,,"LDOR",,,,
+30543,"LDOB","small_airport","Vukovar Borovo Recreational Airfield",45.386398,18.962799,289,"EU","HR","HR-16","Vukovar","no","LDOB",,"LDOB",,,,
+3985,"LDOC","small_airport","Osijek-Čepin Airfield",45.542778,18.631944,299,"EU","HR","HR-14","Osijek","no","LDOC",,"LDOC",,"http://www.ak-osijek.hr",,
+30422,"LDOR","small_airport","Slavonski Jelas Airfield",45.156101,17.9881,276,"EU","HR","HR-12","Slavonski","no","LDOR",,"LDOR",,,,
 3986,"LDOS","medium_airport","Osijek Airport",45.462355,18.811278,290,"EU","HR","HR-14","Klisa","yes","LDOS","OSI","LDOS",,,"https://en.wikipedia.org/wiki/Osijek_Airport",
-30534,"LDOV","small_airport","Vinkovci Sopot Airfield",45.251099,18.759199,266,"EU","HR","HR-16","Vinkovci","no",,,"LDOV",,,,
+30534,"LDOV","small_airport","Vinkovci Sopot Airfield",45.251099,18.759199,266,"EU","HR","HR-16","Vinkovci","no","LDOV",,"LDOV",,,,
 3987,"LDPL","medium_airport","Pula Airport",44.893501,13.9222,274,"EU","HR","HR-18","Pula","yes","LDPL","PUY","LDPL",,"https://airport-pula.hr/en/","https://en.wikipedia.org/wiki/Pula_Airport",
-30128,"LDPM","small_airport","Medulin Campanoz Airfield",44.843878,13.904376,171,"EU","HR","HR-18","Medulin","no",,,"LDPM",,,,"Sportski aerodrom Medulin, Pula"
-30506,"LDPN","small_airport","Unije Airfield",44.6283,14.2411,39,"EU","HR","HR-08","Unije Island","no",,,"LDPN",,,,
-30541,"LDPV","small_airport","Vrsar Crljenka Airfield",45.141701,13.6306,121,"EU","HR","HR-18","Vrsar","no",,,"LDPV",,,"https://en.wikipedia.org/wiki/Vrsar_Crljenka_Airport","Aeropark Vrsar"
-3988,"LDRG","small_airport","Grobničko Polje Airfield",45.379501,14.5038,951,"EU","HR","HR-08","Soboli","no",,,"LDRG",,,"https://en.wikipedia.org/wiki/Grobni%C4%8Dko_Polje_Airfield",
+30128,"LDPM","small_airport","Medulin Campanoz Airfield",44.843878,13.904376,171,"EU","HR","HR-18","Medulin","no","LDPM",,"LDPM",,,,"Sportski aerodrom Medulin, Pula"
+30506,"LDPN","small_airport","Unije Airfield",44.6283,14.2411,39,"EU","HR","HR-08","Unije Island","no","LDPN",,"LDPN",,,,
+30541,"LDPV","small_airport","Vrsar Crljenka Airfield",45.141701,13.6306,121,"EU","HR","HR-18","Vrsar","no","LDPV",,"LDPV",,,"https://en.wikipedia.org/wiki/Vrsar_Crljenka_Airport","Aeropark Vrsar"
+3988,"LDRG","small_airport","Grobničko Polje Airfield",45.379501,14.5038,951,"EU","HR","HR-08","Soboli","no","LDRG",,"LDRG",,,"https://en.wikipedia.org/wiki/Grobni%C4%8Dko_Polje_Airfield",
 3989,"LDRI","medium_airport","Rijeka Airport",45.2169,14.5703,278,"EU","HR","HR-08","Omišalj","yes","LDRI","RJK","LDRI",,"https://www.rijeka-airport.hr/","https://en.wikipedia.org/wiki/Rijeka_Airport","Reka, Rika, Fiume"
-30226,"LDRO","small_airport","Otočac Airfield",44.847775,15.286617,1539,"EU","HR","HR-09","Otočac","no",,,"LDRO",,,"https://hr.wikipedia.org/wiki/Zra%C4%8Dno_pristani%C5%A1te_Oto%C4%8Dac",
+30226,"LDRO","small_airport","Otočac Airfield",44.845517,15.288607,1539,"EU","HR","HR-09","Otočac","no","LDRO",,"LDRO",,,"https://hr.wikipedia.org/wiki/Zra%C4%8Dno_pristani%C5%A1te_Oto%C4%8Dac",
 3990,"LDSB","medium_airport","Brač Airport",43.284454,16.678362,1776,"EU","HR","HR-17","Gornji Humac","yes","LDSB","BWK","LDSB",,,"https://en.wikipedia.org/wiki/Bra%C4%8D_Airport","Bol Airport"
-29968,"LDSH","small_airport","Hvar Airfield",43.181702,16.633301,92,"EU","HR","HR-17","Hvar Island","no",,,"LDSH",,,"https://hr.wikipedia.org/wiki/Aerodrom_Hvar",
+29968,"LDSH","small_airport","Hvar Airfield",43.181702,16.633301,92,"EU","HR","HR-17","Hvar Island","no","LDSH",,"LDSH",,,"https://hr.wikipedia.org/wiki/Aerodrom_Hvar",
 3991,"LDSP","medium_airport","Split Airport",43.538898,16.298,79,"EU","HR","HR-17","Kaštel Štafilić","yes","LDSP","SPU","LDSP",,,"https://en.wikipedia.org/wiki/Split_Airport",
-30417,"LDSS","small_airport","Sinj Piket Airfield",43.700298,16.6714,981,"EU","HR","HR-17","Sinj","no",,,"LDSS",,,"https://hr.wikipedia.org/wiki/Zra%C4%8Dna_luka_Sinj","Sinj Airport, Sinj Sport Airport"
+30417,"LDSS","small_airport","Sinj Piket Airfield",43.700298,16.6714,981,"EU","HR","HR-17","Sinj","no","LDSS",,"LDSS",,,"https://hr.wikipedia.org/wiki/Zra%C4%8Dna_luka_Sinj","Sinj Airport, Sinj Sport Airport"
 3992,"LDVA","small_airport","Varaždin Airfield",46.294668,16.383222,548,"EU","HR","HR-05","Varaždin","no",,,"LDVA",,,"https://hr.wikipedia.org/wiki/Zra%C4%8Dna_luka_Vara%C5%BEdin",
 29747,"LDVC","small_airport","Čakovec Pribislavec Airfield",46.391899,16.500299,512,"EU","HR","HR-20","Čakovec","no",,,"LDVC",,,"https://hr.wikipedia.org/wiki/Zra%C4%8Dna_luka_%C4%8Cakovec",
 29819,"LDVD","small_airport","Daruvar Blagorod Airfield",45.559399,17.0331,410,"EU","HR","HR-07","Daruvar","no",,,"LDVD",,,,
@@ -45262,7 +45265,7 @@
 42161,"MNAL","small_airport","Alamicamba Airport",13.5123,-84.247101,65,"NA","NI","NI-AN","Alamicamba","no",,,"MNAL",,,"https://en.wikipedia.org/wiki/Alamikamba_Airport",
 42169,"MNAM","small_airport","Altamira Airport",12.135983,-85.716461,121,"NA","NI","NI-BO","Altamira","no",,,"MNAM",,,"https://en.wikipedia.org/wiki/Altamira_Airport_(Nicaragua)",
 42170,"MNBC","small_airport","Boaco Airport",12.469099998474121,-85.66259765625,1184,"NA","NI","NI-BO","Boaco","no",,,"MNBC",,,,
-4770,"MNBL","medium_airport","Bluefields Airport",11.991,-83.774101,20,"NA","NI","NI-AS","Bluefileds","yes","MNBL","BEF","MNBL",,,"https://en.wikipedia.org/wiki/Bluefields_Airport",
+4770,"MNBL","medium_airport","Bluefields Airport",11.991,-83.774101,20,"NA","NI","NI-AS","Bluefields","yes","MNBL","BEF","MNBL",,,"https://en.wikipedia.org/wiki/Bluefields_Airport",
 4771,"MNBR","small_airport","Los Brasiles Airport",12.19,-86.353897,262,"NA","NI","NI-MN","Los Brasiles","no",,,"MNBR",,,"https://en.wikipedia.org/wiki/Los_Brasiles_Airport",
 30809,"MNBZ","small_airport","San Pedro Airport",14.031524,-84.624311,600,"NA","NI","NI-AN","Bonanza","no","MNBZ","BZA","MNBZ",,,"https://en.wikipedia.org/wiki/San_Pedro_Airport_(Nicaragua)",
 316239,"MNCE","small_airport","Costa Esmeralda Airport",11.427542,-86.033361,84,"NA","NI","NI-RI","Tola","no","MNCE","ECI","MNCE","ECI","http://www.mukulresort.com/costa-esmeralda-airport.html","https://en.wikipedia.org/wiki/Costa_Esmeralda_Airport",
@@ -49893,6 +49896,7 @@
 45689,"NR04","small_airport","Southern Skies Airstrip",35.960278,-81.173056,1180,"NA","US","US-NC","Taylorsville","no",,,"NR04","NR04",,,
 45680,"NR06","heliport","Hunter Construction Heliport",35.56308,-80.830761,850,"NA","US","US-NC","Mooresville","no",,,"NR06","NR06",,,
 346682,"NR07","heliport","Yancey EMS Medical Heliport",35.917007,-82.33268,2820,"NA","US","US-NC","Burnsville","no",,,"NR07","NR07",,,
+600202,"NR13","small_airport","Daghita Airport",36.508752,-78.262328,350,"NA","US","US-NC","Norlina","no",,,"NR13","NR13",,,
 324482,"NR15","heliport","Brunswick Nuclear Plant Helipad",33.953409,-78.012394,13,"NA","US","US-NC","Southport","no",,,"NR15","NR15",,,
 345612,"NR20","small_airport","Raeford West Airport",35.030554,-79.236649,280,"NA","US","US-NC","Raeford","no",,,"NR20","NR20",,,
 506348,"NR21","small_airport","Hardaway Field",36.041042,-79.558417,600,"NA","US","US-NC","Burlington","no",,,"NR21","NR21",,,
