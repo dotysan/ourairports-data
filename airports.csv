@@ -11787,11 +11787,11 @@
 46170,"AYAO","small_airport","Aiome Airport",-5.145699978,144.7307003,350,"OC","PG","PG-MPM","Aiome","no","AYAO","AIE","AYAO","AIO",,"https://en.wikipedia.org/wiki/Aiome_Airport",
 307980,"AYAQ","small_airport","Kompiam Airport",-5.38166666667,143.924722222,5100,"OC","PG","PG-EPW",,"no","AYAQ","KPM","AYAQ","KOM",,,
 301693,"AYAT","small_airport","Ambunti Airport",-4.21566666667,142.823166667,50,"OC","PG","PG-ESW","Ambunti","no","AYAT","AUJ","AYAT","AMI",,,
-310375,"AYAU","small_airport","Arou Airstrip",-5.4951,142.5137,4830,"OC","PG","PG-HLA","Arou","no",,,"AYAU",,,,
+310375,"AYAU","small_airport","Arou Airstrip",-5.4951,142.5137,4830,"OC","PG","PG-HLA","Arou","no","AYAU",,"AYAU",,,,
 42763,"AYAW","small_airport","Awaba Airport",-8.013414,142.752099,32,"OC","PG","PG-WPD","Awaba","no","AYAW","AWB","AYAW","AWB",,"https://en.wikipedia.org/wiki/Awaba_Airport",
 299319,"AYAX","small_airport","Aseki Airport",-7.350805,146.193994,4106,"OC","PG","PG-MPL","Aseki","no","AYAX","AEK","AYAX","ASE",,"https://en.wikipedia.org/wiki/Aseki_Airport",
 301673,"AYAY","small_airport","Aiyura Airport",-6.33805555556,145.904166667,5355,"OC","PG","PG-EHG","Aiyura Valley","no","AYAY","AYU","AYAY","AYU",,"https://en.wikipedia.org/wiki/Aiyura_Airport","Ukarumpa, Onmuna"
-35179,"AYBA","medium_airport","Baimuru Airport",-7.49686002731,144.819900513,27,"OC","PG","PG-GPK","Baimuru","yes","AYBA","VMU","AYBA","BMU",,"https://en.wikipedia.org/wiki/Baimuru_Airport",
+35179,"AYBA","medium_airport","Baimuru Airport",-7.496955,144.821756,27,"OC","PG","PG-GPK","Baimuru","yes","AYBA","VMU","AYBA","BMU",,"https://en.wikipedia.org/wiki/Baimuru_Airport",
 310434,"AYBB","small_airport","Bak Airstrip",-5.2685,142.097,5440,"OC","PG","PG-SAN","Bak","no",,,"AYBB","BAK",,,
 301858,"AYBC","small_airport","Bambu Airport",-5.863611111110001,146.4925,6790,"OC","PG","PG-MPM","Bambu","no","AYBC","BCP","AYBC","BAM",,,
 301975,"AYBD","small_airport","Bodinumu Airport",-9.107777777779999,147.666722222,3700,"OC","PG","PG-CPM","Bodinumu","no","AYBD","BNM","AYBD","BNU",,,
@@ -11799,19 +11799,19 @@
 301874,"AYBG","small_airport","Baindoung Airport",-6.34722222222,146.942222222,4400,"OC","PG","PG-MPL",,"no","AYBG","BDZ","AYBG","BDO",,,
 301802,"AYBH","small_airport","Bensbach Airport",-8.85805555556,141.259444444,30,"OC","PG","PG-WPD","Bensbach","no","AYBH","BSP","AYBH","BEN",,"https://en.wikipedia.org/wiki/Bensbach_Airport",
 301803,"AYBI","small_airport","Bewani Airport",-3.0216666666700003,141.165277778,550,"OC","PG","PG-SAN","Bewani","no","AYBI","BWP","AYBI","BEW",,,
-53,"AYBK","medium_airport","Buka Airport",-5.4223198890686035,154.67300415039062,11,"OC","PG","PG-NSB","Buka Island","yes","AYBK","BUA","AYBK",,,"https://en.wikipedia.org/wiki/Buka_Airport",
+53,"AYBK","medium_airport","Buka Airport",-5.422299,154.672698,11,"OC","PG","PG-NSB","Buka Island","yes","AYBK","BUA","AYBK",,,"https://en.wikipedia.org/wiki/Buka_Airport",
 30675,"AYBL","small_airport","Bialla Airport",-5.3305602073700005,151.007995605,51,"OC","PG","PG-WBK","Bialla, Matalilu, Ewase","no","AYBL","BAA","AYBL","BIA",,,"Babu,"
 35180,"AYBM","medium_airport","Balimo Airport",-8.05000019073,142.932998657,51,"OC","PG","PG-WPD","Balimo","yes","AYBM","OPU","AYBM","BLI",,"https://en.wikipedia.org/wiki/Balimo_Airport",
 302041,"AYBO","small_airport","Bomai Airport",-6.37316666667,144.637,3300,"OC","PG","PG-CPK","Bomai","no","AYBO","BMH","AYBO","BOM",,,
 301792,"AYBP","small_airport","Bapi Airstrip",-7.743611111110001,147.020555556,2930,"OC","PG","PG-MPL","Bapi","no","AYBP","BPD","AYBP","BAPI",,,
 301804,"AYBQ","small_airport","Biangabip Airport",-5.526389,141.744583,1069,"OC","PG","PG-WPD","Biangabip","no","AYBQ","BPK","AYBQ","BIP",,"https://en.wikipedia.org/wiki/Biangabip_Airport",
 311258,"AYBR","small_airport","Biaru Airport",-7.6693,146.7594,4900,"OC","PG","PG-MPL","Biaru","no","AYBR","BRP","AYBR","BRU",,,
-310531,"AYBS","small_airport","Begesin Airstrip",-5.3889,145.4472,980,"OC","PG","PG-MPM","Begesin","no",,,"AYBS","BGI",,,"BEG, Bagasin"
-310529,"AYBT","small_airport","Batri Airstrip",-6.5522,143.9441,4510,"OC","PG","PG-SHM","Batri","no",,,"AYBT","BTR",,,
+310531,"AYBS","small_airport","Begesin Airstrip",-5.388248,145.447394,980,"OC","PG","PG-MPM","Begesin","no","AYBS",,"AYBS","BGI",,,"BEG, Bagasin"
+310529,"AYBT","small_airport","Batri Airstrip",-6.551861,143.943905,4510,"OC","PG","PG-SHM","Batri","no","AYBT",,"AYBT","BTR",,,
 46171,"AYBU","small_airport","Bulolo Airport",-7.216286671410001,146.649541855,2240,"OC","PG","PG-MPL","Bulolo","no","AYBU","BUL","AYBU","BUO",,"https://en.wikipedia.org/wiki/Bulolo_Airport",
 308213,"AYBW","small_airport","Blackwara Airport",-2.618211,141.091971,58,"OC","PG","PG-SAN",,"no",,,"AYBW",,,,
 312437,"AYBX","small_airport","Wowobo Airstrip",-7.3405,144.5477,74,"OC","PG","PG-GPK","Wowobo","no",,,"AYBX","WWB",,,
-312444,"AYBY","small_airport","Wuyabo Airstrip",-6.8378,145.8732,6400,"OC","PG","PG-EHG","Wuyabo","no",,,"AYBY","WUO",,,
+312444,"AYBY","small_airport","Wuyabo Airstrip",-6.838474,145.873207,6400,"OC","PG","PG-EHG","Wuyabo","no","AYBY",,"AYBY","WUO",,,
 301809,"AYBZ","small_airport","Biniguni Airport",-9.6425,149.303889,215,"OC","PG","PG-MBA","Biniguni","no","AYBZ","XBN","AYBZ","BNI",,,
 35147,"AYCB","small_airport","Chungribu Airport",-4.80662,144.714996,108,"OC","PG","PG-MPM","Chungribu","no","AYCB","CVB","AYCB","CBU",,"https://ceb.wikipedia.org/wiki/Chungribu_Airport",
 46172,"AYCG","small_airport","Cape Gloucester Airport",-5.455231,148.422289,78,"OC","PG","PG-WBK","Cape Gloucester","no","AYCG","CGC","AYCG","CPG",,"https://en.wikipedia.org/wiki/Cape_Gloucester_Airport",
@@ -12716,21 +12716,21 @@
 44066,"BGQT","heliport","Qassimiut Heliport",60.780959,-47.156249,29,"NA","GL","GL-KU","Qassimiut","yes",,"QJH","BGQT",,,"https://en.wikipedia.org/wiki/Qassimiut_Heliport",
 44058,"BGSC","heliport","Ittoqqortoormiit Heliport",70.488229,-21.97168,238,"NA","GL","GL-SE","Ittoqqortoormiit","yes",,"OBY","BGSC",,,"https://en.wikipedia.org/wiki/Ittoqqortoormiit_Heliport","Scoresbysund"
 115,"BGSF","medium_airport","Kangerlussuaq Airport",67.010446,-50.715294,165,"NA","GL","GL-QA","Kangerlussuaq","yes","BGSF","SFJ","BGSF",,,"https://en.wikipedia.org/wiki/Kangerlussuaq_Airport","Bluie West 8, Sondrestrom Air Base, Sondrestromfjord Air Base"
-44069,"BGSG","heliport","Sermiligaaq Heliport",65.90592,-36.378254,33,"NA","GL","GL-SE","Sermiligaaq","yes",,"SGG","BGSG","SMG",,"https://en.wikipedia.org/wiki/Sermiligaaq_Heliport","Sermiligâk"
-44070,"BGSI","heliport","Siorapaluk Heliport",77.786517,-70.638657,102,"NA","GL","GL-AV","Siorapaluk","yes",,"SRK","BGSI","SIO",,"https://en.wikipedia.org/wiki/Siorapaluk_Heliport","Hiurapaluk"
-323783,"BGSO","heliport","Saarloq Heliport",60.537778,-46.024722,,"NA","GL","GL-KU","Saarloq","yes",,"QOQ","BGSO",,,"https://en.wikipedia.org/wiki/Saarloq_Heliport",
-35301,"BGSQ","heliport","Saqqaq Heliport",70.011448,-51.932142,38,"NA","GL","GL-AV","Saqqaq","yes",,,"BGSQ","QUP",,"https://en.wikipedia.org/wiki/Saqqaq_Heliport","Sarqaq, Solsiden"
+44069,"BGSG","heliport","Sermiligaaq Heliport",65.90592,-36.378254,33,"NA","GL","GL-SE","Sermiligaaq","yes","BGSG","SGG","BGSG","SMG",,"https://en.wikipedia.org/wiki/Sermiligaaq_Heliport","Sermiligâk"
+44070,"BGSI","heliport","Siorapaluk Heliport",77.786517,-70.638657,102,"NA","GL","GL-AV","Siorapaluk","yes","BGSI","SRK","BGSI","SIO",,"https://en.wikipedia.org/wiki/Siorapaluk_Heliport","Hiurapaluk"
+323783,"BGSO","heliport","Saarloq Heliport",60.537778,-46.024722,,"NA","GL","GL-KU","Saarloq","yes","BGSO","QOQ","BGSO",,,"https://en.wikipedia.org/wiki/Saarloq_Heliport",
+35301,"BGSQ","heliport","Saqqaq Heliport",70.011448,-51.932142,38,"NA","GL","GL-AV","Saqqaq","yes","BGSQ",,"BGSQ",,,"https://en.wikipedia.org/wiki/Saqqaq_Heliport","QUP, Sarqaq, Solsiden"
 31700,"BGSS","medium_airport","Sisimiut Airport",66.951302,-53.729301,33,"NA","GL","GL-QA","Sisimiut","yes","BGSS","JHS","BGSS",,"https://www.mit.gl/en/todays-flights/airports/sisimiut-airport/","https://en.wikipedia.org/wiki/Sisimiut_Airport",
-43222,"BGST","heliport","Saattut Heliport",70.811172,-51.63129,131,"NA","GL","GL-AV","Saattut","yes",,"SAE","BGST","SAA",,"https://en.wikipedia.org/wiki/Saattut_Heliport",
-44068,"BGSV","heliport","Savissivik Heliport",76.018613,-65.117683,24,"NA","GL","GL-AV","Savissivik","yes",,"SVR","BGSV","SAV",,"https://en.wikipedia.org/wiki/Savissivik_Heliport",
-44075,"BGTA","heliport","Tasiusaq Heliport",73.373055,-56.06028,181,"NA","GL","GL-AV","Tasiusaq","yes",,"TQA","BGTA",,,"https://en.wikipedia.org/wiki/Tasiusaq_Heliport_(Avannaata)",
+43222,"BGST","heliport","Saattut Heliport",70.811172,-51.63129,131,"NA","GL","GL-AV","Saattut","yes","BGST","SAE","BGST","SAA",,"https://en.wikipedia.org/wiki/Saattut_Heliport",
+44068,"BGSV","heliport","Savissivik Heliport",76.018613,-65.117683,24,"NA","GL","GL-AV","Savissivik","yes","BGSV","SVR","BGSV","SAV",,"https://en.wikipedia.org/wiki/Savissivik_Heliport",
+44075,"BGTA","heliport","Tasiusaq Heliport",73.373055,-56.06028,181,"NA","GL","GL-AV","Tasiusaq","yes","BGTA","TQA","BGTA",,,"https://en.wikipedia.org/wiki/Tasiusaq_Heliport_(Avannaata)",
 116,"BGTL","medium_airport","Pituffik Space Base",76.531197,-68.703201,251,"NA","GL","GL-AV","Pituffik","yes","BGTL","THU","BGTL",,,"https://en.wikipedia.org/wiki/Pituffik_Space_Base","Thule Air Base"
-44076,"BGTN","heliport","Tiniteqilaaq Heliport",65.892027,-37.783409,15,"NA","GL","GL-SE","Tiniteqilaaq","yes",,"TQI","BGTN","TNT",,"https://en.wikipedia.org/wiki/Tiniteqilaaq_Heliport",
-44074,"BGTQ","heliport","Tasiusaq Heliport",60.194305,-44.813447,21,"NA","GL","GL-KU","Tasiusak","yes",,"XEQ","BGTQ",,,"https://en.wikipedia.org/wiki/Tasiusaq_Heliport_(Kujalleq)",
+44076,"BGTN","heliport","Tiniteqilaaq Heliport",65.892027,-37.783409,15,"NA","GL","GL-SE","Tiniteqilaaq","yes","BGTN","TQI","BGTN","TNT",,"https://en.wikipedia.org/wiki/Tiniteqilaaq_Heliport",
+44074,"BGTQ","heliport","Tasiusaq Heliport",60.194305,-44.813447,21,"NA","GL","GL-KU","Tasiusak","yes","BGTQ","XEQ","BGTQ",,,"https://en.wikipedia.org/wiki/Tasiusaq_Heliport_(Kujalleq)",
 31713,"BGUK","small_airport","Upernavik Airport",72.790199,-56.1306,414,"NA","GL","GL-AV","Upernavik","yes","BGUK","JUV","BGUK",,,"https://en.wikipedia.org/wiki/Upernavik_Airport","Mittarfik Upernavik"
 43225,"BGUM","heliport","Uummannaq Heliport",70.680428,-52.11163,50,"NA","GL","GL-AV","Uummannaq","yes","BGUM","UMD","BGUM",,"http://airgreenland.com/om_rejsen/efter_rejsen/din_destination_/uummannaq/","https://en.wikipedia.org/wiki/Uummannaq_Heliport",
 31709,"BGUQ","small_airport","Qaarsut Airport",70.7342,-52.696201,289,"NA","GL","GL-AV","Uummannaq","yes","BGUQ","JQA","BGUQ",,,"https://en.wikipedia.org/wiki/Qaarsut_Airport",
-43223,"BGUT","heliport","Ukkusissat Heliport",71.049438,-51.890016,223,"NA","GL","GL-AV","Ukkusissat","yes",,"JUK","BGUT","UKK",,"https://en.wikipedia.org/wiki/Ukkusissat_Heliport",
+43223,"BGUT","heliport","Ukkusissat Heliport",71.049438,-51.890016,223,"NA","GL","GL-AV","Ukkusissat","yes","BGUT","JUK","BGUT","UKK",,"https://en.wikipedia.org/wiki/Ukkusissat_Heliport",
 319190,"BH-0001","heliport","Bahrain International Circuit Heliport",26.029738,50.511709,,"AS","BH","BH-14","Sakhir","no",,,,,,,
 331860,"BH-0002","heliport","Riffa Air Base",26.107242,50.578968,114,"AS","BH","BH-14","Riffa","no",,,,,,,
 340203,"BH-0003","heliport","Jidda Island West Heliport",26.19554,50.39748,,"AS","BH","BH-17","Jidda Island","no",,,,,,,
@@ -17601,6 +17601,7 @@
 598690,"CA-1234","closed","Ste Therese Airport",45.698964,-73.806517,,"NA","CA","CA-QC","Montreal","no",,,,,,,"SP3"
 598718,"CA-1235","small_airport","Cedar Hill Aerodrome",45.276683,-76.327021,,"NA","CA","CA-ON","Almonte","no",,,,,,,
 599141,"CA-1236","small_airport","Morrinville Farm Airstrip",53.749288,-113.64923,2294,"NA","CA","CA-AB","Morrinville","no",,,,,,,
+600231,"CA-1237","small_airport","Val Morin Airstrip",45.991983,-74.19194,1453,"NA","CA","CA-QC","Val Morin","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -22399,7 +22400,7 @@
 597912,"DE-0914","heliport","Borkum Island Hospital Heliport",53.584915,6.670228,12,"EU","DE","DE-NI",,"no",,,,"IKHB",,,
 597934,"DE-0915","heliport","Borkum Riffgrund II Helideck",53.952,6.488,100,"EU","DE","DE-XX","North Sea","no",,,,"DE30","https://www.jandenul.com/our-projects/offshore-windfarm-borkum-riffgrund-2-germany",,
 598102,"DE-0916","closed","Cologne Butzweilerhof Airport",50.984,6.887222,158,"EU","DE","DE-NW","Colongne","no",,,,,,"https://en.wikipedia.org/wiki/Cologne_Butzweilerhof_Airport","Manfred von Richthofen"
-598257,"DE-0917","seaplane_base","Hubertushöhe Seaplane Base",52.23822,13.97379,,"EU","DE","DE-BR",,"no",,,,,,,
+598257,"DE-0917","closed","Hubertushöhe Seaplane Base",52.23822,13.97379,,"EU","DE","DE-BR",,"no",,,,,,,
 598403,"DE-0918","closed","Sana Hospital Offenbach Heliport",50.093103,8.756274,350,"EU","DE","DE-HE","Offenbach am Main","no",,,,,,,
 598516,"DE-0919","heliport","Kesselsdorf Heliport",51.033016,13.581533,,"EU","DE","DE-SN",,"no",,,,,,,
 598868,"DE-0920","small_airport","Waldmössingen Paramotor Field",48.26658,8.51458,,"EU","DE","DE-BW",,"no",,,,,,,
@@ -30450,7 +30451,7 @@
 42028,"HN-MST","small_airport","El Tesoro Airport",13.239167213439941,-87.00555419921875,1318,"NA","HN","HN-CH","Aguacatal","no",,,,,,,
 42029,"HN-MUG","small_airport","Erandique Airport",14.235833,-88.437225,4199,"NA","HN","HN-LE","Erandique","no",,"EDQ","MHGU",,,"https://en.wikipedia.org/wiki/Erandique_Airport","Gualguire Airport"
 313231,"HOO","small_airport","Nhon Co Airfield",11.9787,107.5638,2270,"AS","VN","VN-CH","Đăk R'Lấp","no",,"HOO",,,,,
-316068,"HR-0001","small_airport","Daruvar Airfield",45.585073,17.211387,492,"EU","HR","HR-07","Daruvar","no",,,"LDVR",,,,"Aerodrom Daruvar, Aeroklub Ždral Daruvar"
+316068,"HR-0001","small_airport","Daruvar Airfield",45.585073,17.211387,492,"EU","HR","HR-07","Daruvar","no","LDVR",,"LDVR",,,,"Aerodrom Daruvar, Aeroklub Ždral Daruvar"
 317595,"HR-0002","closed","Korčula / Vela Luka Seaplane Terminal",42.959075,16.710156,-1,"EU","HR","HR-19","Vela Luka","no",,,,,,"https://en.wikipedia.org/wiki/European_Coastal_Airlines","Korçula, ECA, LDSL"
 320255,"HR-0003","closed","Rijeka Seaplane Terminal",45.326054,14.438421,1,"EU","HR","HR-08","Rijeka","no",,,,,,,"LDRP, LDRP"
 320476,"HR-0004","small_airport","Nova Rača Airfield",45.78696,16.96387,426,"EU","HR","HR-07","Nova Rača","no",,,,,"http://www.aeroklub.nova-raca.hr/zracnopristaniste.html",,
@@ -30491,6 +30492,7 @@
 43963,"HR-0039","heliport","Firule Heliport",43.502799,16.462942,77,"EU","HR","HR-17","Split","no","LDSF",,"LDSF",,,,
 600207,"HR-0040","small_airport","Badljevina Airstrip",45.50546,17.17799,,"EU","HR","HR-07",,"no",,,,,,,
 600215,"HR-0041","heliport","Našice Barracks Heliport",45.484955,18.075061,415,"EU","HR","HR-14","Našice","no",,,,,,,
+600232,"HR-0042","heliport","Split Naval Heliport",43.523491,16.422211,5,"EU","HR","HR-17","Split","no",,,,,,,
 313249,"HRC","small_airport","Sary Su Airport",48.3974,70.1915,1307,"AS","KZ","KZ-ULY","Zhayrem","no",,"HRC",,,,,"Zhairem, Жайрем"
 313252,"HRN","heliport","Heron Island Helipad",-23.441765,151.911416,8,"OC","AU","AU-QLD","Heron Island","no",,,"YHRN","YHRN",,,"HRN"
 3236,"HRYG","medium_airport","Gisenyi Airport",-1.6771999597549438,29.258899688720703,5082,"AF","RW","RW-04","Gisenyi","no","HRYG","GYI","HRYG",,,"https://en.wikipedia.org/wiki/Grayson_County_Airport",
@@ -42557,15 +42559,15 @@
 29968,"LDSH","small_airport","Hvar Airfield",43.181702,16.633301,92,"EU","HR","HR-17","Hvar Island","no","LDSH",,"LDSH",,,"https://hr.wikipedia.org/wiki/Aerodrom_Hvar",
 3991,"LDSP","medium_airport","Split Airport",43.538898,16.298,79,"EU","HR","HR-17","Kaštel Štafilić","yes","LDSP","SPU","LDSP",,,"https://en.wikipedia.org/wiki/Split_Airport",
 30417,"LDSS","small_airport","Sinj Piket Airfield",43.700298,16.6714,981,"EU","HR","HR-17","Sinj","no","LDSS",,"LDSS",,,"https://hr.wikipedia.org/wiki/Zra%C4%8Dna_luka_Sinj","Sinj Airport, Sinj Sport Airport"
-3992,"LDVA","small_airport","Varaždin Airfield",46.294668,16.383222,548,"EU","HR","HR-05","Varaždin","no",,,"LDVA",,,"https://hr.wikipedia.org/wiki/Zra%C4%8Dna_luka_Vara%C5%BEdin",
-29747,"LDVC","small_airport","Čakovec Pribislavec Airfield",46.391899,16.500299,512,"EU","HR","HR-20","Čakovec","no",,,"LDVC",,,"https://hr.wikipedia.org/wiki/Zra%C4%8Dna_luka_%C4%8Cakovec",
-29819,"LDVD","small_airport","Daruvar Blagorod Airfield",45.559399,17.0331,410,"EU","HR","HR-07","Daruvar","no",,,"LDVD",,,,
-30039,"LDVK","small_airport","Koprivnica Danic Airfield",46.2131,16.8372,440,"EU","HR","HR-06","Koprivnica","no",,,"LDVK",,,,
+3992,"LDVA","small_airport","Varaždin Airfield",46.294668,16.383222,548,"EU","HR","HR-05","Varaždin","no","LDVA",,"LDVA",,,"https://hr.wikipedia.org/wiki/Zra%C4%8Dna_luka_Vara%C5%BEdin",
+29747,"LDVC","small_airport","Čakovec Pribislavec Airfield",46.391899,16.500299,512,"EU","HR","HR-20","Čakovec","no","LDVC",,"LDVC",,,"https://hr.wikipedia.org/wiki/Zra%C4%8Dna_luka_%C4%8Cakovec",
+29819,"LDVD","small_airport","Daruvar Blagorod Airfield",45.559399,17.0331,410,"EU","HR","HR-07","Daruvar","no","LDVD",,"LDVD",,,,
+30039,"LDVK","small_airport","Koprivnica Danic Airfield",46.2131,16.8372,440,"EU","HR","HR-06","Koprivnica","no","LDVK",,"LDVK",,,,
 313857,"LDW","small_airport","Lansdowne Airport",-17.6128,126.743,1190,"OC","AU","AU-WA","Lansdowne Station","no",,"LDW",,,,,
 3993,"LDZA","large_airport","Zagreb Franjo Tuđman International Airport",45.742901,16.0688,353,"EU","HR","HR-01","Velika Gorica","yes","LDZA","ZAG","LDZA",,"https://www.zagreb-airport.hr/en","https://en.wikipedia.org/wiki/Zagreb_Airport","Pleso"
-29744,"LDZB","small_airport","Buševec Velika Glider Field",45.647499,16.124399,341,"EU","HR","HR-01","Busevec","no",,,"LDZB",,,,
+29744,"LDZB","small_airport","Buševec Velika Glider Field",45.647499,16.124399,341,"EU","HR","HR-01","Busevec","no","LDZB",,"LDZB",,,,
 3994,"LDZD","medium_airport","Zadar Airport",44.094988,15.354879,289,"EU","HR","HR-13","Zemunik Donji (Zadar)","yes","LDZD","ZAD","LDZD",,"https://www.zadar-airport.hr/en","https://en.wikipedia.org/wiki/Zadar_Airport",
-316165,"LDZE","small_airport","Zvekovac Airfield",45.823056,16.5,374,"EU","HR","HR-01","Zvekovac","no",,,"LDZE",,"http://www.akdubrava.net",,
+316165,"LDZE","small_airport","Zvekovac Airfield",45.823056,16.5,374,"EU","HR","HR-01","Zvekovac","no","LDZE",,"LDZE",,"http://www.akdubrava.net",,
 322815,"LDZI","small_airport","Ivanić-Grad Airstrip",45.719874,16.343272,374,"EU","HR","HR-01","Ivanić-Grad","no",,,"LDZI",,,,
 29710,"LDZJ","small_airport","Bjelovar Brezovac Airfield",45.860802,16.8358,430,"EU","HR","HR-07","Brezovac","no",,,"LDZJ",,,,
 316069,"LDZK","small_airport","Zabok-Gubaševo Airfield",46.012746,15.860159,,"EU","HR","HR-02","Gubaševo","no",,,"LDZK",,"http://www.zagorje-aerodrom.hr/","https://hr.wikipedia.org/wiki/Zra%C4%8Dno_pristani%C5%A1te_Zabok",
@@ -42975,7 +42977,7 @@
 28917,"LFKD","small_airport","Sollières Sardières Airfield",45.253804,6.801138,4255,"EU","FR","FR-ARA","Val-Cenis","no",,,"LFKD",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Solli%C3%A8res-Sardi%C3%A8res",
 28918,"LFKE","small_airport","Saint-Jean-en-Royans Airfield",45.027802,5.31,866,"EU","FR","FR-ARA",,"no",,,"LFKE",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Saint-Jean-en-Royans",
 4125,"LFKF","medium_airport","Figari Sud-Corse Airport",41.500599,9.09778,85,"EU","FR","FR-COR","Figari","yes","LFKF","FSC","LFKF",,,"https://en.wikipedia.org/wiki/Figari_Sud-Corse_Airport",
-28919,"LFKG","small_airport","Aérodrome de Ghisonaccia - Alzitone",42.053387,9.400241,177,"EU","FR","FR-COR",,"no",,,"LFKG",,,"https://en.wikipedia.org/wiki/Ghisonaccia_Alzitone_Airport",
+28919,"LFKG","small_airport","Aérodrome de Ghisonaccia - Alzitone",42.053387,9.400241,177,"EU","FR","FR-COR","GHISONACCIA","no","LFKG",,"LFKG",,"https://aerodromudiaghisunaccia.com/","https://en.wikipedia.org/wiki/Ghisonaccia_Alzitone_Airport",
 28920,"LFKH","small_airport","St Jean D'avelanne Airfield",45.516701,5.68056,964,"EU","FR","FR-ARA","Figari/Sud Corse","no",,,"LFKH",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Saint-Jean-d%27Avelanne",
 4126,"LFKJ","medium_airport","Ajaccio Napoléon Bonaparte airport",41.923599,8.80292,18,"EU","FR","FR-COR","Ajaccio","yes","LFKJ","AJA","LFKJ",,,"https://en.wikipedia.org/wiki/Ajaccio_-_Campo_dell'Oro_Airport",
 28921,"LFKL","small_airport","Lyon Brindas Airfield",45.710544,4.696675,1040,"EU","FR","FR-ARA","Brindas, Rhône","no",,,"LFKL",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Lyon_-_Brindas",
@@ -51844,7 +51846,7 @@
 301696,"PG-0015","small_airport","Ande Airstrip",-7.020833,145.822222,5400,"OC","PG","PG-EHG","Sindeni","no","AYAD",,"AYAD","ANDE",,,
 301725,"PG-0016","small_airport","Arufi Airstrip",-8.75388888889,141.911388889,80,"OC","PG","PG-WPD","Arufi","no",,,"AYRF","ARU",,,
 301726,"PG-0017","small_airport","Asama Airstrip",-8.02333333333,147.271666667,1800,"OC","PG","PG-NPP",,"no",,,"AYAS","AAM",,,
-301728,"PG-0018","small_airport","Asimba Airstrip",-8.605,147.591944444,1170,"OC","PG","PG-NPP","Asimba","no",,,"AYAZ","ASB",,,
+301728,"PG-0018","small_airport","Asimba Airstrip",-8.605307,147.592742,1170,"OC","PG","PG-NPP","Asimba","no","AYAZ",,"AYAZ","ASB",,,
 301734,"PG-0019","small_airport","Assengseng Airstrip",-6.023611111110001,149.785833333,1550,"OC","PG","PG-WBK","Assengseng","no",,,"AYSN","ASN",,,
 301801,"PG-0021","small_airport","Benaria Airstrip",-6.05888888889,143.033888889,4960,"OC","PG","PG-HLA","Tamide Mission","no",,,,"BNR",,,
 301805,"PG-0023","small_airport","Bili Airstrip",-5.667222,151.099444,2600,"OC","PG","PG-EBR","Bili","no",,,"AYIL","BILI",,,
@@ -51852,7 +51854,7 @@
 301810,"PG-0025","small_airport","Bisorio Airstrip",-4.72166666667,142.977222222,160,"OC","PG","PG-ESW",,"no",,,,"BSO",,,
 301976,"PG-0026","small_airport","Boikoa Airstrip",-7.038611111110001,145.734166667,4816,"OC","PG","PG-MPL","Boikoa","no",,,"AYOI","BOK",,,
 301977,"PG-0027","small_airport","Bosavi Airstrip",-6.46166666667,142.841111111,2350,"OC","PG","PG-SHM","Ludesa Mission","no",,,,"BSV",,,
-301980,"PG-0028","small_airport","Boure Airstrip",-9.617916666669998,148.745833333,530,"OC","PG","PG-NPP","Boure","no",,,"AYBE","BRE",,,
+301980,"PG-0028","small_airport","Boure Airstrip",-9.618504,148.746318,530,"OC","PG","PG-NPP","Boure","no","AYBE",,"AYBE","BRE",,,
 302161,"PG-0029","small_airport","Jangit Airstrip",-4.33666666667,144.480694444,30,"OC","PG","PG-ESW",,"no",,,,"JGT",,,
 302162,"PG-0030","small_airport","Junkaral Airstrip",-5.42316666667,145.010027778,485,"OC","PG","PG-MPM","Junkaral","no",,,"AYJL",,,,"Junk/Aral"
 302163,"PG-0031","small_airport","Kabori Airstrip",-3.32161111111,141.858416667,2090,"OC","PG","PG-SAN","Kabori","no",,,"AYOR","KBI",,,
@@ -51868,9 +51870,9 @@
 307719,"PG-0042","small_airport","Gubil Airstrip",-4.883308,141.525381,2200,"OC","PG","PG-SAN","Bufripmin/Usareimin","no",,,"AYUB","GBL",,,
 307729,"PG-0043","small_airport","Gubam Airstrip",-8.608765,141.919638,120,"OC","PG","PG-WPD","Gubam","no",,,"AYGZ",,,,
 308056,"PG-0044","small_airport","Duranmin Airstrip",-4.973205,141.908161,3890,"OC","PG","PG-SAN","Duranmin","no",,,"AYDM","DUR",,,
-308077,"PG-0045","small_airport","Bank Airstrip",-5.364495,144.689805,3953,"OC","PG","PG-MPM","Bank","no",,,"AYBJ","BANK",,,
+308077,"PG-0045","small_airport","Bank Airstrip",-5.364716,144.690471,3953,"OC","PG","PG-MPM","Bank","no","AYBJ",,"AYBJ","BANK",,,
 308114,"PG-0046","small_airport","Appa Airstrip",-6.516759,144.706808,3800,"OC","PG","PG-CPK",,"no",,,"AYAP","APPA",,,
-308117,"PG-0047","small_airport","Arkosame Airstrip",-3.777177,142.622672,622,"OC","PG","PG-SAN",,"no",,,"AYAV","ARK",,,
+308117,"PG-0047","small_airport","Arkosame Airstrip",-3.777177,142.622672,622,"OC","PG","PG-SAN",,"no","AYAV",,"AYAV","ARK",,,
 308515,"PG-0049","small_airport","Kiriwo Airstrip",-8.437,141.5142,69,"OC","PG","PG-WPD","Kiriwa","no",,,"AYRW","KRW",,,"Kiriwa"
 308518,"PG-0050","small_airport","Owena Airstrip",-6.6962,145.8094,5500,"OC","PG","PG-EHG","Owenia","no",,,"AYWW","OWN",,,
 308789,"PG-0051","small_airport","Kibeni Airstrip",-7.4846,143.8224,99,"OC","PG","PG-GPK","Kibeni","no",,,"AYNQ","KBN",,,
@@ -51881,7 +51883,7 @@
 310033,"PG-0056","small_airport","Asinuwa Airstrip",-7.0287,145.7678,5900,"OC","PG","PG-EHG","Amjenuwa","no",,,"AYWA",,,,
 310034,"PG-0057","small_airport","Auwi Airstrip",-5.51,142.6392,5155,"OC","PG","PG-HLA","Auwi","no",,,"AYUW",,,,
 310035,"PG-0058","small_airport","Aziana Airstrip",-6.7495,145.8535,4250,"OC","PG","PG-EHG","Aziana Mission","no",,,,"AZA",,,
-310036,"PG-0059","small_airport","Baina Airstrip",-6.8918,143.6818,215,"OC","PG","PG-GPK","Baina","no",,,"AYBN","BNA",,,
+310036,"PG-0059","small_airport","Baina Airstrip",-6.89124,143.683083,215,"OC","PG","PG-GPK","Baina","no","AYBN",,"AYBN","BNA",,,
 311075,"PG-0060","small_airport","Bu'u Airstrip",-7.4011,145.8149,3950,"OC","PG","PG-GPK","Bu'u","no",,,"AYUU","BUU",,,
 311111,"PG-0061","closed","Berry Airfield",-9.388829,147.245228,115,"OC","PG","PG-NCD","Port Moresby","no",,,,,,"https://en.wikipedia.org/wiki/Berry_Airfield","12 Mile Drome, Bomana Drome"
 311112,"PG-0062","closed","Lorengau Airfield",-2.0201,147.2664,27,"OC","PG","PG-MRL","Lorengau","no",,,,,,"https://en.wikipedia.org/wiki/Lorengau_Airfield",
