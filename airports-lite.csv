@@ -5338,10 +5338,12 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4257,LGIO,medium_airport,Ioannina King Pyrrhus National Airport,39.6964,20.8225,1558,EU,GR,GR-D,Ioannina,yes,LGIO,IOA,LGIO,,,https://en.wikipedia.org/wiki/Ioannina_National_Airport,
 4258,LGIR,large_airport,Heraklion International Nikos Kazantzakis Airport,35.339699,25.1803,115,EU,GR,GR-M,Heraklion,yes,LGIR,HER,LGIR,,https://www.heraklion-airport.gr/en/,"https://en.wikipedia.org/wiki/Heraklion_International_Airport_""Nikos_Kazantzakis""",Crete Island
 4259,LGKA,small_airport,Kastoria National Airport Aristotle,40.446301,21.2822,2167,EU,GR,GR-C,Argos Orestiko,yes,LGKA,KSO,LGKA,,,https://en.wikipedia.org/wiki/Kastoria_National_Airport,Aristotelis Airport
-4260,LGKC,small_airport,Kithira Airport,36.2742996216,23.0170001984,1045,EU,GR,GR-I,Kithira Island,yes,LGKC,KIT,LGKC,,,https://en.wikipedia.org/wiki/Kithira_Island_National_Airport,
+4260,LGKC,small_airport,Kithira Airport,36.273978,23.016719,1045,EU,GR,GR-I,Kithira Island,yes,LGKC,KIT,LGKC,,,https://en.wikipedia.org/wiki/Kithira_Island_National_Airport,Alexandros Aristotelous Onassis
 4261,LGKF,medium_airport,Kefallinia Airport,38.12009811401367,20.500499725341797,59,EU,GR,GR-F,Kefallinia Island,yes,LGKF,EFL,LGKF,,,https://en.wikipedia.org/wiki/Kefalonia_Island_International_Airport,
 30014,LGKJ,small_airport,Kastelorizo Airport,36.141701,29.576401,489,AS,GR,GR-L,Kastelorizo Island,yes,LGKJ,KZS,LGKJ,,,https://en.wikipedia.org/wiki/Kastellorizo_Airport,
 4262,LGKL,medium_airport,Kalamata Airport,37.06829833984375,22.02549934387207,26,EU,GR,GR-J,Kalamata,yes,LGKL,KLX,LGKL,,,https://en.wikipedia.org/wiki/Kalamata_International_Airport,
+4263,LGKM,small_airport,Kavala Amygdaleon Lydia Airfield,40.972801,24.3414,199,EU,GR,GR-A,Amygdaleonas,no,LGKM,,LGKM,,https://lgkm.aero,,"Kavala National, Καβάλα"
+30120,LGKN,heliport,Marathon Kotroni Navy Helicopter Base,38.137561,23.951726,682,EU,GR,GR-I,Marathon,no,LGKN,,LGKN,,,https://en.wikipedia.org/wiki/Kotroni_Airport,
 4264,LGKO,medium_airport,Kos Airport,36.794523,27.09115,412,AS,GR,GR-L,Kos Island,yes,LGKO,KGS,LGKO,,https://www.kgs-airport.gr/el/,https://en.wikipedia.org/wiki/Kos_Island_International_Airport,
 4265,LGKP,medium_airport,Karpathos Airport,35.421398,27.146,66,EU,GR,GR-L,Karpathos Island,yes,LGKP,AOK,LGKP,,,https://en.wikipedia.org/wiki/Karpathos_Island_National_Airport,
 4266,LGKR,medium_airport,Corfu Ioannis Kapodistrias International Airport,39.602024,19.912038,6,EU,GR,GR-F,Kerkyra (Corfu),yes,LGKR,CFU,LGKR,,https://www.cfu-airport.gr/en,https://en.wikipedia.org/wiki/Corfu_International_Airport,Corfu
@@ -5352,6 +5354,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4270,LGLE,small_airport,Leros Airport,37.184898,26.800301,39,EU,GR,GR-L,Leros Island,yes,LGLE,LRS,LGLE,,,https://en.wikipedia.org/wiki/Leros_Municipal_Airport,
 4271,LGLM,small_airport,Limnos Airport,39.917098999,25.236299514799995,14,EU,GR,GR-K,Limnos Island,yes,LGLM,LXS,LGLM,,,https://en.wikipedia.org/wiki/Lemnos_International_Airport,
 4272,LGLR,small_airport,Larissa Air Base,39.650253,22.4655,241,EU,GR,GR-E,Larissa,no,LGLR,LRA,LGLR,,,https://en.wikipedia.org/wiki/Larissa_National_Airport,Larissa State Airport Thessaly
+4273,LGMG,small_airport,Megara Air Base,37.981098,23.3654,12,EU,GR,GR-I,Megara,no,LGMG,,LGMG,,,,
 4274,LGMK,medium_airport,Mykonos Island National Airport,37.435101,25.348101,405,EU,GR,GR-L,Mykonos,yes,LGMK,JMK,LGMK,,,https://en.wikipedia.org/wiki/Mykonos_Island_National_Airport,
 30139,LGML,small_airport,Milos Airport,36.696899,24.4769,10,EU,GR,GR-L,Milos Island,yes,LGML,MLO,LGML,,,https://en.wikipedia.org/wiki/Milos_Island_National_Airport,
 4275,LGMT,medium_airport,Mytilene International Airport,39.057272,26.598887,60,EU,GR,GR-K,Mytilene,yes,LGMT,MJT,LGMT,,,https://en.wikipedia.org/wiki/Mytilene_International_Airport,
@@ -7735,12 +7738,13 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 200,SDRS,small_airport,Resende Airport,-22.4785,-44.480301,1320,SA,BR,BR-RJ,Resende,no,SDRS,REZ,SDRS,RJ0007,,https://en.wikipedia.org/wiki/Resende_Airport,QRZ
 201,SDSC,small_airport,Mário Pereira Lopes–São Carlos International Airport,-21.875032,-47.903851,2649,SA,BR,BR-SP,São Carlos,no,SDSC,QSC,SDSC,SP0029,,https://en.wikipedia.org/wiki/S%C3%A3o_Carlos_Airport,
 30240,SDTK,small_airport,Paraty Airport,-23.224044,-44.7234,10,SA,BR,BR-RJ,Paraty,yes,,JPY,SDTK,,,https://en.wikipedia.org/wiki/Paraty_Airport,
-206,SDUB,small_airport,Ubatuba Gastão Madeira State Airport,-23.440628,-45.074057,13,SA,BR,BR-SP,Ubatuba,no,SDUB,UBT,SDUB,SDUB,,https://en.wikipedia.org/wiki/Ubatuba_Airport,
+206,SDUB,small_airport,Ubatuba Gastão Madeira State Airport,-23.441122,-45.075814,10,SA,BR,BR-SP,Ubatuba,no,SDUB,UBT,SDUB,SP0065,,https://en.wikipedia.org/wiki/Ubatuba_Airport,
 208,SDUN,small_airport,Itaperuna Airport,-21.219299316399997,-41.8759002686,410,SA,BR,BR-RJ,Itaperuna,no,SDUN,ITP,SDUN,SDUN,,http://pt.wikipedia.org/wiki/Aeroporto_de_Itaperuna,
 211,SDVG,small_airport,Domingos Pignatari Airport,-20.458426,-50.003134,1676,SA,BR,BR-SP,Votuporanga,no,SDVG,VOT,SDVG,SP0026,,https://pt.wikipedia.org/wiki/Aeroporto_de_Votuporanga,
 310918,SDZG,small_airport,Pedro Teixeira Castelo Airport,-5.9334,-40.2975,1457,SA,BR,BR-CE,Tauá,no,,JTA,SDZG,,,https://en.wikipedia.org/wiki/Tau%C3%A1_Airport,
 315918,SE-0009,small_airport,Långtora Airfield,59.747445,17.145188,15,EU,SE,SE-U,Enköping,no,ESVL,,ESVL,,,https://sv.wikipedia.org/wiki/L%C3%A5ngtora_flygf%C3%A4lt,
 2677,SE-0088,small_airport,Hudiksvall Airport,61.768087,17.080715,93,EU,SE,SE-X,Hudiksvall,no,ESNH,HUV,ESNH,,,https://en.wikipedia.org/wiki/Hudiksvall_Airport,
+41100,SE06,heliport,Palobamba Heliport,-2.190278,-80.02417,22,SA,EC,EC-G,Lérida,no,SEZB,,SEZB,,,,SE06
 512191,SEAB,small_airport,Mar Abierto Airport,-2.156493,-80.773187,10,SA,EC,EC-25,Mar Abierto,no,SEAB,,SEAB,,,,
 512193,SEAC,small_airport,Acado Airport,-1.397507,-77.19885,1102,SA,EC,EC-Y,Acado,no,SEAC,,SEAC,,,,Tono Akoro
 512195,SEAD,small_airport,Paandin Airport,-2.137235,-77.677402,2201,SA,EC,EC-S,Paandin,no,SEAD,,SEAD,,,,
@@ -7783,6 +7787,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6084,SETN,medium_airport,Carlos Concha Torres International Airport,0.978519,-79.626602,32,SA,EC,EC-E,Tachina,yes,SETN,ESM,SETN,,,https://en.wikipedia.org/wiki/Colonel_Carlos_Concha_Torres_Airport,General Rivadeneira
 6085,SETR,medium_airport,Tarapoa Airport,-0.122956,-76.337799,814,SA,EC,EC-U,Tarapoa,no,SETR,TPC,SETR,,,https://en.wikipedia.org/wiki/Tarapoa_Airport,
 6086,SETU,medium_airport,Lieutenant Colonel Luis A. Mantilla International Airport,0.809506,-77.708099,9649,SA,EC,EC-C,Tulcán,yes,SETU,TUA,SETU,,,https://en.wikipedia.org/wiki/Teniente_Coronel_Luis_a_Mantilla_International_Airport,Teniente Coronel Luis A. Mantilla
+512360,SEZA,small_airport,Pampantza Airstrip,-2.554289,-77.443745,801,SA,EC,EC-S,Pampantza,no,SEZA,,SEZA,,,,Pampants
+512365,SEZD,heliport,Luz de Mar Heliport,-1.333578,-80.748832,40,SA,EC,EC-M,Puerto Cayo,no,SEZD,,SEZD,,,,
+512367,SEZE,small_airport,Tzapapentza Airstrip,-2.831069,-77.369267,797,SA,EC,EC-S,Tzapapentza,no,SEZE,,SEZE,,,,
+512369,SEZI,small_airport,Imatiño Airstrip,-1.918108,-76.625161,714,SA,EC,EC-Y,Imatiño,no,SEZI,,SEZI,,,,
+512371,SEZK,small_airport,Karakam Airstrip,-2.785009,-77.408045,801,SA,EC,EC-S,Karakam,no,SEZK,,SEZK,,,,Kukajentsa
+512400,SEZM,small_airport,Tamantza Airstrip,-2.159088,-77.613177,2202,SA,EC,EC-S,Tamantza,no,SEZM,,SEZM,,,,
+512402,SEZN,small_airport,Tzapino Airstrip,-1.188339,-77.230792,1079,SA,EC,EC-Y,Tzapino,no,SEZN,,SEZN,,,,
+512404,SEZR,small_airport,Surik Nuevo Airstrip,-2.598404,-77.089405,1099,SA,EC,EC-S,Surikentza,no,SEZR,,SEZR,,,,
 6087,SFAL,medium_airport,Port Stanley Airport,-51.685699462891,-57.777599334717,75,SA,FK,FK-U-A,Stanley,yes,SFAL,PSY,SFAL,,,https://en.wikipedia.org/wiki/Port_Stanley_Airport,
 6088,SGAS,large_airport,Aeropuerto Internacional Silvio Pettirossi,-25.240156,-57.519227,292,SA,PY,PY-11,Asunción,yes,SGAS,ASU,SGAS,,,https://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport,"Luque, Stroessner, Aeropuerto Internacional Silvio Pettirossi"
 6089,SGAY,medium_airport,Aeropuerto Nacional Juan de Ayolas,-27.378379,-56.856791,223,SA,PY,PY-8,Ayolas,no,SGAY,AYO,SGAY,,,https://en.wikipedia.org/wiki/Juan_de_Ayolas_Airport,Aeropuerto Nacional de Juan De Ayolas
