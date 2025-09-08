@@ -4412,7 +4412,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 20511,KMIW,small_airport,Marshalltown Municipal Airport,42.112701,-92.917801,974,NA,US,US-IA,Marshalltown,no,KMIW,MIW,KMIW,MIW,,,
 20513,KMJQ,small_airport,Jackson Municipal Airport,43.650002,-94.986504,1446,NA,US,US-MN,Jackson,no,KMJQ,MJQ,KMJQ,MJQ,,https://en.wikipedia.org/wiki/Jackson_Municipal_Airport_(Minnesota),
 20514,KMJX,small_airport,Ocean County Airport,39.92750168,-74.29239655,82,NA,US,US-NJ,Toms River,no,KMJX,MJX,KMJX,MJX,http://www.planning.co.ocean.nj.us/rjmiller/index.htm,https://en.wikipedia.org/wiki/Robert_J._Miller_Air_Park,"N44, Robert J. Miller Air Park"
-20515,KMKA,small_airport,Miller Municipal Airport,44.5252,-98.958099,1569,NA,US,US-SD,Miller,no,,MKA,KMKA,MKA,https://www.cityofmiller.com/199/Municipal-Airport,https://en.wikipedia.org/wiki/Miller_Municipal_Airport,
 3689,KMKC,medium_airport,Charles B. Wheeler Downtown Airport,39.123199,-94.592796,759,NA,US,US-MO,Kansas City,no,KMKC,MKC,KMKC,MKC,https://flymkc.com/,https://en.wikipedia.org/wiki/Charles_B._Wheeler_Downtown_Airport,
 3690,KMKE,large_airport,General Mitchell International Airport,42.947201,-87.896599,723,NA,US,US-WI,Milwaukee,yes,KMKE,MKE,KMKE,MKE,https://www.mitchellairport.com/,https://en.wikipedia.org/wiki/General_Mitchell_International_Airport,
 3691,KMKG,medium_airport,Muskegon County Airport,43.169498,-86.238197,629,NA,US,US-MI,Muskegon,yes,KMKG,MKG,KMKG,MKG,,https://en.wikipedia.org/wiki/Muskegon_County_Airport,
@@ -7660,6 +7659,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5996,SBVG,medium_airport,Major Brigadeiro Trompowsky Airport,-21.591375,-45.474116,3025,SA,BR,BR-MG,Varginha,no,SBVG,VAG,SBVG,MG0019,,https://en.wikipedia.org/wiki/Varginha_Airport,Varginha Airport
 5997,SBVH,medium_airport,Brigadeiro Camarão Airport,-12.6944,-60.098301,2018,SA,BR,BR-RO,Vilhena,yes,SBVH,BVH,SBVH,RO0003,,https://en.wikipedia.org/wiki/Vilhena_Airport,Vilhena Airport
 5998,SBVT,large_airport,Eurico de Aguiar Salles Airport,-20.258,-40.285,34,SA,BR,BR-ES,Vitória,yes,SBVT,VIX,SBVT,ES0001,https://vitoria-airport.com.br,https://en.wikipedia.org/wiki/Eurico_de_Aguiar_Salles_Airport,
+5999,SBYA,small_airport,Iauaretê Airport,0.610384,-69.179992,466,SA,BR,BR-AM,São Gabriel da Cachoeira,no,SBYA,,SBYA,AM9005,,https://pt.wikipedia.org/wiki/Aeroporto_de_Iauaret%C3%AA,
 6000,SBYS,medium_airport,Campo Fontenelle,-21.984692,-47.341207,1968,SA,BR,BR-SP,Pirassununga,no,,QPS,SBYS,SP9002,,https://pt.wikipedia.org/wiki/Aeródromo_Campo_de_Fontenelle,
 308204,SBZM,medium_airport,Presidente Itamar Franco Airport,-21.513086,-43.173069,1348,SA,BR,BR-MG,Juiz de Fora,yes,SBZM,IZA,SBZM,,,https://en.wikipedia.org/wiki/Zona_da_Mata_Regional_Airport,"SDZY, Zona da Mata Regional Airport, Juiz de Fora Airport"
 30304,SCAC,small_airport,Pupelde Airport,-41.904251,-73.796571,315,SA,CL,CL-LL,Ancud,no,SCAC,ZUD,SCAC,,,https://en.wikipedia.org/wiki/Pupelde_Airfield,
@@ -7853,7 +7853,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41059,SK-198,small_airport,Ayapel Airport,8.3,-75.15,120,SA,CO,CO-COR,Ayapel,no,,AYA,,AYA,,https://en.wikipedia.org/wiki/Ayapel_Airport,
 41070,SK-207,small_airport,Santa Catalina Airport,8.5,-76.175,280,SA,CO,CO-COR,Santa Catalina,no,,SCA,,SCA,,,
 41038,SK-217,small_airport,Medina Airport,4.483687,-73.344739,1315,SA,CO,CO-CUN,Medina,no,,MND,,MND,,,
-41010,SK-223,small_airport,Macanal Airport,2.80898,-67.62189,327,SA,CO,CO-GUA,Macanal,no,,NAD,,NAD,,,
+41010,SK-223,small_airport,Macanal Airport,2.808967,-67.621683,327,NA,CO,CO-GUA,Macanal,no,,NAD,,NAD,,,Maroa Northwest
 41058,SK-236,small_airport,Guacamayas Airport,2.283333,-74.95,1500,SA,CO,CO-HUI,Guacamayas,no,,GCA,,GCA,,,
 41061,SK-245,small_airport,Santana Ramos Airport,2.216667,-75.25,6017,SA,CO,CO-HUI,Santana Ramos,no,,SRO,,SRO,,,
 41055,SK-256,small_airport,Chivolo Airport,10.016667,-74.683333,560,SA,CO,CO-MAG,Chivolo,no,,IVO,,IVO,,,
