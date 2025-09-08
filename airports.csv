@@ -16138,6 +16138,7 @@
 599991,"BR-3272","small_airport","PR Empreendimentos Agrícolas Airport",-8.068472,-47.46485,899,"SA","BR","BR-TO","Goiatins","no",,,"SD06","TO0158",,,
 599994,"BR-3273","small_airport","Fazenda Ceres Airport",-13.182736,-45.636497,2618,"SA","BR","BR-BA","São Desidério","no",,,"SD07","BA0502",,,
 600248,"BR-3274","small_airport","Fazenda Nova Conquista Airport",-12.020664,-51.334969,886,"SA","BR","BR-U-A","Serra Nova Dourada","no",,,"SD15","MT1140",,,
+600296,"BR-3275","small_airport","Andrea Airstrip",0.322621,-67.343575,256,"SA","BR","BR-AM","São Gabriel da Cachoeira,","no",,,,,,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -19805,7 +19806,7 @@
 348510,"CO-0061","small_airport","Puerto Inglés Airport",11.98163,-71.19072,,"SA","CO","CO-LAG","Uribia","no",,,,,,,
 348747,"CO-0062","closed","Calamar Airport",7.619698,-76.646633,146,"SA","CO","CO-ANT","Chigorodó","no",,,,,,,
 351498,"CO-0063","small_airport","Caranacoa Airport",2.43252,-68.92068,,"SA","CO","CO-GUA","Caranacoa","no",,,,,,,
-351499,"CO-0064","small_airport","Caño Colorado Airport",2.27219,-68.35831,294,"SA","CO","CO-GUA","Caño Colorado","no",,,,,,,
+351499,"CO-0064","small_airport","Caño Colorado Airport",2.27219,-68.35831,294,"NA","CO","CO-GUA","Caño Colorado","no",,,,,,,"Ssnta Rita Southeast."
 353304,"CO-0065","small_airport","Cejal Airport",3.99822,-68.33819,322,"SA","CO","CO-VID","Cejal","no",,,,,,,
 353305,"CO-0066","small_airport","Arabia Airport",3.60726,-69.046761,486,"SA","CO","CO-GUA","Barranco Minas","no",,,,,,,
 353407,"CO-0067","small_airport","La Esperanza Airport",3.31229,-73.36607,804,"SA","CO","CO-MET","Puerto Lleras","no",,,,,,,
@@ -19835,6 +19836,8 @@
 41068,"CO-0493","closed","Andes Airport",5.69764,-75.88038,3900,"SA","CO","CO-ANT","Andes","no",,,,,"https://www.comfenalcoantioquia.com.co/personas/sedes/ecoparque-mario-aramburo-restrepo","https://en.wikipedia.org/wiki/Andes_Airport","SKAN, ADN"
 41078,"CO-0494","closed","Gilgal Airport",8.190674,-77.078576,148,"NA","CO","CO-CHO","Unguía","no",,,,,,,"GGL, SK-193"
 45101,"CO-0495","closed","Santa Fé de Antioquía Airport",6.500631,-75.822521,1500,"SA","CO","CO-ANT","Santa Fé de Antioquía","no",,,,,,,"SKSF, SKSF, SFA"
+600294,"CO-0496","small_airport","Aterrizaje Field",2.258121,-69.913469,499,"NA","CO","CO-GUA","Morichal Nuevo","no",,,,,,,"Geriara North"
+600295,"CO-0497","closed","Geiriari North 2 Airstrip",2.26907,-69.88447,519,"SA","CO","CO-GUA","Morichal Nuevo","no",,,,,,,
 41597,"CO-LCR","small_airport","Virgilio Barco Vargas (La Chorrera) Airport",-1.456361,-72.801086,564,"SA","CO","CO-AMA","La Chorrera","yes",,"LCR","SKHZ",,,"https://en.wikipedia.org/wiki/La_Chorrera_Airport",
 16854,"CO00","small_airport","Flagler Aerial Spraying Inc Airport",39.279998779296875,-103.06700134277344,4945,"NA","US","US-CO","Flagler","no",,,"CO00","CO00",,,
 16855,"CO01","heliport","General Mail Facility Heliport",39.792621,-104.899104,5223,"NA","US","US-CO","Denver","no",,,"CO01","CO01",,,
@@ -33176,6 +33179,7 @@
 331922,"IT-0807","closed","Vigna di Valle",42.0844444,12.2183333,886,"EU","IT","IT-62",,"no",,,,,,,"LIRB, LIRB"
 31822,"IT-0808","small_airport","Aviosuperficie Airone",37.113977,14.214206,82,"EU","IT","IT-82","Gela","no",,,,,,,"LICL"
 599222,"IT-0809","small_airport","Aviovitombola Ultralight Strip",43.17619,11.79623,,"EU","IT","IT-52",,"no",,,,,,,
+600277,"IT-0810","heliport","San Bortolo Hospital Helipad",45.555299,11.544907,180,"EU","IT","IT-34","Vicenza","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,,"EU","IT","IT-75","Tremiti Islands","yes",,,"LINI",,,"https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -39773,7 +39777,7 @@
 20512,"KMJD","small_airport","Picayune Municipal Airport",30.48749924,-89.65119934,55,"NA","US","US-MS","Picayune","no",,,"KMJD","MJD",,,
 20513,"KMJQ","small_airport","Jackson Municipal Airport",43.650002,-94.986504,1446,"NA","US","US-MN","Jackson","no","KMJQ","MJQ","KMJQ","MJQ",,"https://en.wikipedia.org/wiki/Jackson_Municipal_Airport_(Minnesota)",
 20514,"KMJX","small_airport","Ocean County Airport",39.92750168,-74.29239655,82,"NA","US","US-NJ","Toms River","no","KMJX","MJX","KMJX","MJX","http://www.planning.co.ocean.nj.us/rjmiller/index.htm","https://en.wikipedia.org/wiki/Robert_J._Miller_Air_Park","N44, Robert J. Miller Air Park"
-20515,"KMKA","small_airport","Miller Municipal Airport",44.5252,-98.958099,1569,"NA","US","US-SD","Miller","no",,"MKA","KMKA","MKA","https://www.cityofmiller.com/199/Municipal-Airport","https://en.wikipedia.org/wiki/Miller_Municipal_Airport",
+20515,"KMKA","small_airport","Miller Municipal Airport",44.5252,-98.958099,1569,"NA","US","US-SD","Miller","no",,,"KMKA","MKA","https://www.cityofmiller.com/199/Municipal-Airport","https://en.wikipedia.org/wiki/Miller_Municipal_Airport",
 3689,"KMKC","medium_airport","Charles B. Wheeler Downtown Airport",39.123199,-94.592796,759,"NA","US","US-MO","Kansas City","no","KMKC","MKC","KMKC","MKC","https://flymkc.com/","https://en.wikipedia.org/wiki/Charles_B._Wheeler_Downtown_Airport",
 3690,"KMKE","large_airport","General Mitchell International Airport",42.947201,-87.896599,723,"NA","US","US-WI","Milwaukee","yes","KMKE","MKE","KMKE","MKE","https://www.mitchellairport.com/","https://en.wikipedia.org/wiki/General_Mitchell_International_Airport",
 3691,"KMKG","medium_airport","Muskegon County Airport",43.169498,-86.238197,629,"NA","US","US-MI","Muskegon","yes","KMKG","MKG","KMKG","MKG",,"https://en.wikipedia.org/wiki/Muskegon_County_Airport",
@@ -56307,7 +56311,7 @@
 5996,"SBVG","medium_airport","Major Brigadeiro Trompowsky Airport",-21.591375,-45.474116,3025,"SA","BR","BR-MG","Varginha","no","SBVG","VAG","SBVG","MG0019",,"https://en.wikipedia.org/wiki/Varginha_Airport","Varginha Airport"
 5997,"SBVH","medium_airport","Brigadeiro Camarão Airport",-12.6944,-60.098301,2018,"SA","BR","BR-RO","Vilhena","yes","SBVH","BVH","SBVH","RO0003",,"https://en.wikipedia.org/wiki/Vilhena_Airport","Vilhena Airport"
 5998,"SBVT","large_airport","Eurico de Aguiar Salles Airport",-20.258,-40.285,34,"SA","BR","BR-ES","Vitória","yes","SBVT","VIX","SBVT","ES0001","https://vitoria-airport.com.br","https://en.wikipedia.org/wiki/Eurico_de_Aguiar_Salles_Airport",
-5999,"SBYA","small_airport","Iauaretê Airport",0.610384,-69.179992,466,"SA","BR","BR-AM","São Gabriel da Cachoeira","no",,,"SBYA","AM9005",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Iauaret%C3%AA",
+5999,"SBYA","small_airport","Iauaretê Airport",0.610384,-69.179992,466,"SA","BR","BR-AM","São Gabriel da Cachoeira","no","SBYA",,"SBYA","AM9005",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Iauaret%C3%AA",
 6000,"SBYS","medium_airport","Campo Fontenelle",-21.984692,-47.341207,1968,"SA","BR","BR-SP","Pirassununga","no",,"QPS","SBYS","SP9002",,"https://pt.wikipedia.org/wiki/Aeródromo_Campo_de_Fontenelle",
 308204,"SBZM","medium_airport","Presidente Itamar Franco Airport",-21.513086,-43.173069,1348,"SA","BR","BR-MG","Juiz de Fora","yes","SBZM","IZA","SBZM",,,"https://en.wikipedia.org/wiki/Zona_da_Mata_Regional_Airport","SDZY, Zona da Mata Regional Airport, Juiz de Fora Airport"
 343549,"SC-0001","heliport","Silhouette Heliport",-4.48403,55.2525,,"AF","SC","SC-15","Silhouette","no",,,,,,,
@@ -60132,7 +60136,7 @@
 40735,"SK-219","small_airport","Primero De Mayo Airport",4.334722,-73.143889,685,"SA","CO","CO-CUN","Paratebueno","no",,,,"PRI",,,
 41040,"SK-221","small_airport","San Pedro De Jagua Airport",4.65,-73.333333,2460,"SA","CO","CO-CUN","San Pedro De Jagua","no",,,,"SJG",,,
 41017,"SK-222","small_airport","Barrancominas Airport",3.333333,-70.333333,1500,"SA","CO","CO-GUA","Barrancominas","no",,,,"BMG",,,
-41010,"SK-223","small_airport","Macanal Airport",2.80898,-67.62189,327,"SA","CO","CO-GUA","Macanal","no",,"NAD",,"NAD",,,
+41010,"SK-223","small_airport","Macanal Airport",2.808967,-67.621683,327,"NA","CO","CO-GUA","Macanal","no",,"NAD",,"NAD",,,"Maroa Northwest"
 41009,"SK-224","small_airport","San Felipe Airport",1.91502,-67.0814,365,"SA","CO","CO-GUA","San Felipe","no",,,,"SSD",,,
 40679,"SK-225","small_airport","Barranquillita Airport",1.546667,-72.325833,742,"SA","CO","CO-GUV","Miraflores","no",,,,"BOL",,,
 40693,"SK-226","small_airport","Calamar Airport",1.955556,-72.533333,846,"SA","CO","CO-GUV","San José Del Guaviare","no",,,,"CLM",,,
@@ -62940,7 +62944,7 @@
 37788,"SWAR","small_airport","Fazenda Aruanã Airport",-13.081903,-51.587892,968,"SA","BR","BR-MT","Ribeirão Cascalheira","no",,,"SWAR","MT0327",,,
 45575,"SWAU","small_airport","Fazenda Nossa Senhora Aparecida Airport",-19.948255,-48.583883,2592,"SA","BR","BR-MG","Pirajuba","no",,,"SWAU","MG0196",,,
 335537,"SWAX","small_airport","Fazenda Sassapão Airport",-10.748889,-45.845278,2392,"SA","BR","BR-BA","Formosa do Rio Preto","no",,,"SWAX","BA0268",,,
-37793,"SWAZ","small_airport","Santo Atanázio Airport",0.399722,-69.300552,394,"SA","BR","BR-AM","São Gabriel da Cachoeira","no",,,"SWAZ","AM0044",,,
+37793,"SWAZ","small_airport","Santo Atanázio Airport",0.470769,-69.35463,394,"SA","BR","BR-AM","São Gabriel da Cachoeira","no",,,"SWAZ","AM0044",,,
 518,"SWBC","small_airport","Barcelos Airport",-0.981191,-62.918603,112,"SA","BR","BR-AM","Barcelos","yes","SWBC","BAZ","SWBC","AM0017",,"https://en.wikipedia.org/wiki/Barcelos_Airport",
 311059,"SWBE","small_airport","Walfrido Salmito de Almeida Airport",-4.042841,-40.893813,2900,"SA","BR","BR-CE","São Benedito","no",,"JSB","SWBE","CE0006",,"https://en.wikipedia.org/wiki/S%C3%A3o_Benedito_Airport",
 37795,"SWBF","small_airport","Fazenda Boa Fortuna Airport",-10.005019,-49.492019,741,"SA","BR","BR-TO","Pium","no",,,"SWBF","TO0042",,,
@@ -63094,7 +63098,7 @@
 44443,"SWKR","small_airport","Fazenda Mangue Che II Airport",-18.670000076300003,-51.585277557400005,1752,"SA","BR","BR-GO","Itarumã","no",,,"SWKR",,,,
 335065,"SWKS","heliport","Fornagieri Heliport",-23.311762,-52.511049,1017,"SA","BR","BR-PR","São Carlos do Ivaí","no",,,"SWKS","PR0150",,,
 555,"SWKT","small_airport","Catalão Airport",-18.216801,-47.8997,2612,"SA","BR","BR-GO","Catalão","no","SWKT","TLZ","SWKT","SWKT",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Catal%C3%A3o",
-556,"SWKU","small_airport","Cucuí Airport",1.120609998703003,-66.841796875,274,"SA","BR","BR-AM","São Gabriel Da Cachoeira","no",,,"SWKU","SWKU",,,
+556,"SWKU","small_airport","Cucuí Airport",1.119536,-66.841421,275,"SA","BR","BR-AM","São Gabriel da Cachoeira","no",,,"SWKU","AM0048",,,
 37945,"SWKV","small_airport","Fazenda Beira Rio Airport",-10.900833129882812,-55.858333587646484,1096,"SA","BR","BR-MT","Itaúba","no",,,"SWKV",,,,
 29746,"SWKX","small_airport","Corixá Airport",-16.38360023498535,-58.31719970703125,394,"SA","BR","BR-MT","Cáceres","no",,,"SWKX",,,,
 42743,"SWKY","small_airport","Fazenda Recanto da Cachoeira Airport",-20.3397216796875,-47.47305679321289,3064,"SA","BR","BR-SP","Cristais Paulista","no",,,"SWKY",,,,
@@ -63123,7 +63127,7 @@
 37961,"SWMG","small_airport","Fazenda Caraíbas Airport",-13.3855562210083,-46.775001525878906,1637,"SA","BR","BR-GO","Monte Alegre De Goiás","no",,,"SWMG",,,,
 37962,"SWMH","small_airport","Fazenda Bom Pastor Airport",-15.542222023010254,-51.01777648925781,895,"SA","BR","BR-GO","Itapirapuã","no",,,"SWMH",,,,
 37963,"SWMJ","small_airport","Pousada Xaraés Airport",-19.495832443237305,-56.959999084472656,318,"SA","BR","BR-MS","Corumbá","no",,,"SWMJ",,,,
-561,"SWMK","small_airport","Maturacá Airport",0.6282690167427063,-66.11509704589844,354,"SA","BR","BR-AM","São Gabriel Da Cachoeira","no",,,"SWMK","SWMK",,,
+561,"SWMK","small_airport","Maturacá Airport",0.628269,-66.115097,329,"SA","BR","BR-AM","São Gabriel da Cachoeira","no",,,"SWMK","AM0049",,,
 37966,"SWMN","small_airport","Fazenda Montana Airport",-15.214686,-50.836191,1076,"SA","BR","BR-GO","Matrinchã","no",,,"SJSX","GO0086",,,"SWMN, Fazenda Forquilha"
 37967,"SWMO","small_airport","Fazenda Maria José Airport",-17.452777862548828,-54.74222183227539,1716,"SA","BR","BR-MT","Itiquira","no",,,"SWMO",,,,
 37968,"SWMQ","small_airport","Fazenda Muiraquitã Airport",-10.416943550109863,-60.55055618286133,367,"SA","BR","BR-MT","Aripuanã","no",,,"SWMQ",,,,
@@ -63223,7 +63227,7 @@
 323916,"SWSN","small_airport","Fazenda São Valentim Airport",-14.962222,-59.321389,1007,"SA","BR","BR-MT","Pontes e Lacerda","no","SWSN",,"SWSN","MT0401",,,
 323914,"SWSO","heliport","Socimed Hospital Helipad",-28.473888,-48.988888,79,"SA","BR","BR-SC","Tubarão","no",,,"SWSO","SC0099",,,
 38070,"SWSP","small_airport","Sopave Norte Airport",-13.725278,-54.737996,1690,"SA","BR","BR-MT","Paranatinga","no",,,"SWSP","MT0402",,,
-582,"SWSQ","small_airport","São Joaquim Airport",1.700207,-69.389702,541,"SA","BR","BR-AM","São Gabriel da Cachoeira","no",,,"SWSQ","AM0053",,,
+582,"SWSQ","small_airport","São Joaquim Airport",1.700207,-69.389702,541,"SA","BR","BR-AM","São Gabriel da Cachoeira","no",,,"SWSQ","AM0053",,,"Uarirambia South"
 343017,"SWST","heliport","Bandeiras Centro Empresarial Heliport",-23.536615,-47.449475,1827,"SA","BR","BR-SP","Votorantim","no","SWST",,"SWST","SP1306",,,
 38075,"SWSV","small_airport","Fazenda Santa Sílvia Airport",-14.3886108398,-51.3805541992,837,"SA","BR","BR-MT","Cocalinho","no",,,"SWSV",,,,
 38076,"SWSW","heliport","Federal District Civil Police (PCDF) Heliport",-15.779737,-47.913247,3816,"SA","BR","BR-DF","Brasília","no",,,"SWSW",,,,
