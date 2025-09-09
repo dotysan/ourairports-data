@@ -13181,7 +13181,7 @@
 324357,"BR-0291","small_airport","Fazenda XV de Outubro",-19.464338,-40.667485,810,"SA","BR","BR-ES","Colatina","no",,,"SWZH","ES0011",,,
 324358,"BR-0292","heliport","Haras Recanto dos Gypsies Heliport",-23.236696,-47.500403,1736,"SA","BR","BR-SP","Porto Feliz","no",,,"SWZF","SP0845",,,
 324359,"BR-0293","heliport","Fronteira Heliport",-23.767603,-45.348194,269,"SA","BR","BR-SP","Ilhabela","no",,,"SWZB","SP0844",,,
-324869,"BR-0294","small_airport","Fazenda Ressaca Airport",-16.18861,-57.705555,420,"SA","BR","BR-MT","Cáceres","no",,,"SWUR","SWUR",,,
+324869,"BR-0294","small_airport","Fazenda Ressaca Airport",-16.188635,-57.705713,420,"SA","BR","BR-MT","Cáceres","no",,,"SWUR","MT0413",,,
 325621,"BR-0295","closed","Abunã Airstrip",-9.71045,-65.35793,333,"SA","BR","BR-RO","Abunã","no",,,,,,,"SWAB"
 326623,"BR-0296","small_airport","Fazenda Nossa Senhora Aparecida Airport",-12.999543,-55.213927,1358,"SA","BR","BR-MT","Nova Ubiratã","no",,,"SIAP","MT0077",,,
 326625,"BR-0297","small_airport","Cidade Eclética Airstrip",-15.867516,-48.338193,3662,"SA","BR","BR-GO","Cidade Eclética","no",,,,,,,
@@ -23897,7 +23897,7 @@
 2496,"EGWU","medium_airport","RAF Northolt",51.553001,-0.418167,124,"EU","GB","GB-ENG","London","no","EGWU","NHT","EGWU",,"https://www.raf.mod.uk/our-organisation/stations/raf-northolt/","https://en.wikipedia.org/wiki/RAF_Northolt",
 2497,"EGXC","medium_airport","RAF Coningsby",53.092999,-0.166014,25,"EU","GB","GB-ENG","Lincoln, Lincolnshire","no","EGXC","QCY","EGXC",,"http://www.raf.mod.uk/rafconingsby","https://en.wikipedia.org/wiki/RAF_Coningsby","Coningsby"
 2499,"EGXE","medium_airport","RAF Leeming",54.297191,-1.538944,132,"EU","GB","GB-ENG","Northallerton, North Yorkshire","no",,,"EGXE",,,"https://en.wikipedia.org/wiki/RAF_Leeming",
-2500,"EGXG","medium_airport","Leeds East Airport",53.834747,-1.194678,29,"EU","GB","GB-ENG","Tadcaster, North Yorkshire","no",,,"EGCM",,"http://www.leedseastairport.co.uk","https://en.wikipedia.org/wiki/Leeds_East_Airport","RAF Church Fenton"
+2500,"EGXG","medium_airport","Leeds East Airport",53.834747,-1.194678,29,"EU","GB","GB-ENG","Tadcaster, North Yorkshire","no","EGCM",,"EGCM",,"http://www.leedseastairport.co.uk","https://en.wikipedia.org/wiki/Leeds_East_Airport","RAF Church Fenton"
 2501,"EGXH","medium_airport","RAF Honington",52.342602,0.772939,174,"EU","GB","GB-ENG","Bury Saint Edmunds, Suffolk","no","EGXH","BEQ","EGXH",,,"https://en.wikipedia.org/wiki/RAF_Honington",
 2504,"EGXT","medium_airport","RAF Wittering",52.612598,-0.476453,273,"EU","GB","GB-ENG","Peterborough, Cambridgeshire","no",,,"EGXT",,"http://www.raf.mod.uk/rafwittering/","https://en.wikipedia.org/wiki/RAF_Wittering",
 2506,"EGXW","medium_airport","RAF Waddington",53.166199,-0.523811,231,"EU","GB","GB-ENG","Lincoln, Lincolnshire","no","EGXW","WTN","EGXW",,"http://www.raf.mod.uk/rafwaddington","https://en.wikipedia.org/wiki/RAF_Waddington","Waddington"
@@ -62976,23 +62976,23 @@
 37828,"SWDC","small_airport","Fazenda Arco-Íris Airport",-16.93555,-53.573424,2710,"SA","BR","BR-MT","Alto Garças","no",,,"SIBA","MT0081",,,"SWDC"
 37829,"SWDE","small_airport","Fazenda Piratininga Airport",-12.822572,-50.328188,722,"SA","BR","BR-GO","São Miguel do Araguaia","no",,,"SDPH","GO0042",,,"SWDE"
 37830,"SWDF","small_airport","Braço do Norte Airport",-9.522029,-55.040184,1407,"SA","BR","BR-MT","Novo Mundo","no",,,"SS2B","MT1045",,,"SWDF, Fazenda Braço Forte"
-45638,"SWDG","small_airport","Fazenda São José Airport",-21.744444,-49.164722,1509,"SA","BR","BR-SP","Reginópolis","no",,,"SWDG",,,,
+45638,"SWDG","closed","Fazenda São José Airport",-21.744444,-49.164722,1509,"SA","BR","BR-SP","Reginópolis","no",,,,,,,"SWDG, SP0273"
 334176,"SWDH","heliport","Damha Golfe Heliport",-21.951226,-47.89818,2802,"SA","BR","BR-SP","São Carlos","no",,,"SWDH","SP0797",,,
 37832,"SWDJ","small_airport","Fazenda Tundavala Airport",-14.85733,-52.036239,886,"SA","BR","BR-MT","Barra do Garças","no",,,"SNOH","MT0501",,,"SWDJ, Fazenda Duas Âncoras - Seção JAÓ"
 334182,"SWDL","heliport","Del Rey Heliport",-12.992708,-38.440159,26,"SA","BR","BR-BA","Salvador","no",,,"SWDL","BA0229",,,
-528,"SWDM","small_airport","Diamantino Airport",-14.376899719238281,-56.40039825439453,1476,"SA","BR","BR-MT","Diamantino","no","SWDM","DMT","SWDM","SWDM",,,
-529,"SWDN","small_airport","Dianópolis Airport",-11.5953998566,-46.846698761,2001,"SA","BR","BR-TO","Dianópolis","no","SWDN","DNO","SWDN",,,,
-46473,"SWDP","heliport","Haras da Mata Heliport",-23.175,-47.92417,2064,"SA","BR","BR-SP","Cesário Lange","no",,,"SWDP","SWDP",,,
+528,"SWDM","small_airport","Diamantino Airport",-14.3769,-56.400398,1539,"SA","BR","BR-MT","Diamantino","no","SWDM","DMT","SWDM","MT0015",,,
+529,"SWDN","small_airport","Dianópolis Airport",-11.5954,-46.846699,2415,"SA","BR","BR-TO","Dianópolis","no","SWDN","DNO","SWDN","TO0006",,,
+46473,"SWDP","heliport","Haras da Mata Heliport",-23.175074,-47.924278,2064,"SA","BR","BR-SP","Cesário Lange","no",,,"SWDP","SP0800",,,
 37835,"SWDQ","small_airport","Fazenda Saltos do Poente Airport",-16.437618,-55.266176,1352,"SA","BR","BR-MT","Santo Antônio do Leverger","no",,,"SNES","MT0247",,,"SWDQ"
 37839,"SWDV","small_airport","Descalvados Lenda Turismo Airport",-16.737443,-57.757403,354,"SA","BR","BR-MT","Cáceres","no",,,"SDE2","MT0692",,,"SWDV"
 334198,"SWDX","heliport","Edifício Torre Almirante Heliport",-22.907299,-43.175486,417,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SWDX","RJ0154",,,
-37841,"SWDY","small_airport","Fazenda Água Fria Airport",-14.754721641540527,-50.377498626708984,1175,"SA","BR","BR-GO","Nova Crixás","no",,,"SWDY",,,,
+37841,"SWDY","small_airport","Fazenda Água Fria Airport",-14.754531,-50.377499,1175,"SA","BR","BR-GO","Nova Crixás","no",,,"SWDY","GO0119",,,
 334379,"SWEA","small_airport","Fazenda Santiago de Compostela",-13.450612,-60.270319,876,"SA","BR","BR-MT","Comodoro","no",,,"SWEA","MT0332",,,
-530,"SWEC","small_airport","Estância das Cascatas Airport",-15.896699905396,-52.095600128174,1017,"SA","BR","BR-GO","Aragarças","no","SWEC",,"SWEC","SWEC",,,
-37844,"SWED","small_airport","Fazenda Eldorado Airport",-7.7572221755981445,-49.121665954589844,686,"SA","BR","BR-TO","Arapoema","no",,,"SWED",,,,
+530,"SWEC","small_airport","Estância Araguaia Airport",-15.89748,-52.09569,1017,"SA","BR","BR-GO","Aragarças","no",,,"SWEC","GO0120",,,"Estância das Cascatas"
+37844,"SWED","small_airport","Fazenda Eldorado Airport",-7.758636,-49.127489,686,"SA","BR","BR-TO","Arapoema","no",,,"SWED","TO0043",,,
 531,"SWEE","small_airport","Estirão do Equador Airport",-4.52378,-71.560799,98,"SA","BR","BR-AM","Atalaia Do Norte","no",,,"SWEE","AM9004",,,
-37845,"SWEF","small_airport","Fazenda Europa Airport",-14.80166667,-51.34,899,"SA","BR","BR-MT","Cocalinho","no",,,"SWEF",,,,
-532,"SWEI","small_airport","Eirunepé Airport",-6.63953,-69.879799,412,"SA","BR","BR-AM","Eirunepé","no","SWEI","ERN","SWEI","SWEI",,"https://en.wikipedia.org/wiki/Eirunep%C3%A9_Airport",
+37845,"SWEF","small_airport","Fazenda Europa Airport",-14.812989,-51.1567,846,"SA","BR","BR-MT","Cocalinho","no",,,"SWEF","MT0333",,,
+532,"SWEI","small_airport","Eirunepé Airport",-6.639533,-69.879709,400,"SA","BR","BR-AM","Eirunepé","no","SWEI","ERN","SWEI","AM0009",,"https://en.wikipedia.org/wiki/Eirunep%C3%A9_Airport","Amaury Feitosa Tomaz"
 37848,"SWEK","small_airport","Canarana Airport",-13.574444,-52.270557,1314,"SA","BR","BR-MT","Canarana","no","SWEK","CQA","SWEK",,,"https://en.wikipedia.org/wiki/Canarana_Airport",
 37850,"SWEM","small_airport","Emal - Empresa de Mineiração Aripuanã Ltda. Airport",-14.618888855,-54.003334045399995,1837,"SA","BR","BR-MT","Primavera Do Leste","no",,,"SWEM",,,,
 37851,"SWEN","small_airport","Estância Recanto Airport",-9.937751,-56.087244,1004,"SA","BR","BR-MT","Alta Floresta","no",,,"SWEN","MT0336",,,
@@ -63243,21 +63243,21 @@
 584,"SWTO","small_airport","Paraíso do Tocantins Airport",-10.1742,-48.9328,1083,"SA","BR","BR-TO","Paraíso Do Tocantins","no",,,"SWTO","SWTO",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Para%C3%ADso_do_Tocantins",
 38091,"SWTP","small_airport","Tapuruquara Airport",-0.3786,-64.9923,223,"SA","BR","BR-AM","Santa Isabel Do Rio Negro","yes","SWTP","IRZ","SWTP",,,"https://en.wikipedia.org/wiki/Tapuruquara_Airport",
 585,"SWTQ","small_airport","Rio Quente Resorts Airport",-17.768871,-48.761807,2247,"SA","BR","BR-GO","Rio Quente","no",,,"SWTQ","GO0146",,,"Termas Pousada do Rio Quente"
-38092,"SWTR","small_airport","Taraquá Airport",0.12472199648618698,-68.54560089111328,246,"SA","BR","BR-AM","São Gabriel Da Cachoeira","no",,,"SWTR",,,,
+38092,"SWTR","small_airport","Taraquá Airport",0.121279,-68.548543,246,"SA","BR","BR-AM","São Gabriel da Cachoeira","no",,,"SWTR","AM0054",,,"Reserva Florestal do Rio Negro"
 586,"SWTS","small_airport","Tangará da Serra Airport",-14.662,-57.443744,1473,"SA","BR","BR-MT","Tangará da Serra","yes","SWTS","TGQ","SWTS","MT0012",,"https://en.wikipedia.org/wiki/Tangar%C3%A1_da_Serra_Airport",
 323890,"SWTT","heliport","Supermax Heliport",-25.432516,-49.326258,3120,"SA","BR","BR-PR","Curitiba","no",,,"SWTT","SWTT",,,
 587,"SWTU","small_airport","Fazenda Tucunaré Airport",-13.465528,-58.866935,1814,"SA","BR","BR-MT","Sapezal","no","SWTU","AZL","SWTU","MT0410",,,
 38093,"SWTV","small_airport","Fazenda Rio Preto Airport",-15.054098,-57.968368,676,"SA","BR","BR-MT","Salto do Céu","no",,,"SD7U","MT0313",,,"SWTV"
-38096,"SWTY","small_airport","Taguatinga Airport",-12.433889389038086,-46.40055465698242,1959,"SA","BR","BR-TO","Taguatinga","no",,"QHN","SWTY",,,,
+38096,"SWTY","small_airport","Taguatinga Airport",-12.435274,-46.400438,1959,"SA","BR","BR-TO","Taguatinga","no",,,"SWTY","TO0009",,"https://ceb.wikipedia.org/wiki/Taguatinga_Airport","QHN"
 331885,"SWTZ","small_airport","Fazenda Santo Antônio - Zampieri Airport",-20.739129,-53.535518,1319,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,"SWTZ","MS0396",,,
-588,"SWUA","small_airport","São Miguel do Araguaia Airport",-13.331299781799316,-50.197601318359375,1249,"SA","BR","BR-GO","São Miguel Do Araguaia","no","SWUA","SQM","SWUA","SWUA",,,
+588,"SWUA","small_airport","São Miguel do Araguaia Airport",-13.3313,-50.197601,1249,"SA","BR","BR-GO","São Miguel do Araguaia","no","SWUA","SQM","SWUA","SWUA",,,
 323843,"SWUD","small_airport","Cláudio Airport",-20.445833,-44.812776,2690,"SA","BR","BR-MG","Cláudio","no",,,"SWUD",,,,
 38099,"SWUE","small_airport","Fazenda Tapayuna Airport",-10.703332901000977,-55.936668395996094,1197,"SA","BR","BR-MT","Nova Canaã Do Norte","no",,,"SWUE",,,,
 42244,"SWUF","heliport","Cervejaria Petrópolis Heliport",-23.258056640625,-47.66055679321289,2067,"SA","BR","BR-SP","Boituva","no",,,"SWUF",,,,
 354763,"SWUG","heliport","Hospital MATER DEI Betim/Contagem Helipad",-19.94072,-44.147503,2979,"SA","BR","BR-MG","Betim","no",,,"SWUG","MG0295",,,
 336861,"SWUI","heliport","Ilha do Maia Heliport",-23.027213,-44.331926,,"SA","BR","BR-RJ","Ilha do Maia","no",,,"SWUI","RJ0167",,,
 38102,"SWUK","small_airport","Uapuí Cachoeira Airport",1.2163889408111572,-69.20055389404297,249,"SA","BR","BR-AM","São Gabriel Da Cachoeira","no",,,"SWUK",,,,
-38103,"SWUL","small_airport","Fazenda Furna Azul Airport",-6.2180562019348145,-48.421390533447266,407,"SA","BR","BR-TO","Ananás","no",,,"SWUL",,,,
+38103,"SWUL","small_airport","Fazenda Furna Azul Airport",-6.216058,-48.425922,387,"SA","BR","BR-TO","Ananás","no",,,"SWUL","TO0050",,,
 589,"SWUQ","small_airport","Surucucu Airport",2.83528,-63.646999,2854,"SA","BR","BR-RR","Alto Alegre","no",,,"SWUQ","RR0113",,"https://pt.wikipedia.org/wiki/Aeroporto_Surucucu",
 42240,"SWUR","small_airport","Fazenda Vista Verde Airport",-8.491526,-44.384519,1945,"SA","BR","BR-PI","Palmeira Do Piauí","no",,,"SWOQ","PI0044",,,"SWUR"
 38111,"SWUW","small_airport","Fazenda Okuhara Airport",-15.110948,-56.836696,807,"SA","BR","BR-MT","Barra do Bugres","no",,,"SWUW","MT0414",,,"Fazenda Santa Bárbara II, Alto Paraguai"
