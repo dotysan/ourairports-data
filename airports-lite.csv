@@ -1731,6 +1731,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29207,EGWN,small_airport,RAF Halton,51.790699,-0.737972,370,EU,GB,GB-ENG,"Halton, Buckinghamshire",no,EGWN,,EGWN,,https://www.raf.mod.uk/our-organisation/stations/raf-halton/,https://en.wikipedia.org/wiki/RAF_Halton,
 2496,EGWU,medium_airport,RAF Northolt,51.553001,-0.418167,124,EU,GB,GB-ENG,London,no,EGWU,NHT,EGWU,,https://www.raf.mod.uk/our-organisation/stations/raf-northolt/,https://en.wikipedia.org/wiki/RAF_Northolt,
 2497,EGXC,medium_airport,RAF Coningsby,53.092999,-0.166014,25,EU,GB,GB-ENG,"Lincoln, Lincolnshire",no,EGXC,QCY,EGXC,,http://www.raf.mod.uk/rafconingsby,https://en.wikipedia.org/wiki/RAF_Coningsby,Coningsby
+2500,EGXG,medium_airport,Leeds East Airport,53.834747,-1.194678,29,EU,GB,GB-ENG,"Tadcaster, North Yorkshire",no,EGCM,,EGCM,,http://www.leedseastairport.co.uk,https://en.wikipedia.org/wiki/Leeds_East_Airport,RAF Church Fenton
 2501,EGXH,medium_airport,RAF Honington,52.342602,0.772939,174,EU,GB,GB-ENG,"Bury Saint Edmunds, Suffolk",no,EGXH,BEQ,EGXH,,,https://en.wikipedia.org/wiki/RAF_Honington,
 2506,EGXW,medium_airport,RAF Waddington,53.166199,-0.523811,231,EU,GB,GB-ENG,"Lincoln, Lincolnshire",no,EGXW,WTN,EGXW,,http://www.raf.mod.uk/rafwaddington,https://en.wikipedia.org/wiki/RAF_Waddington,Waddington
 2511,EGYM,medium_airport,RAF Marham,52.648395,0.550692,75,EU,GB,GB-ENG,"King's Lynn, Norfolk",no,EGYM,KNF,EGYM,,http://www.raf.mod.uk/rafmarham/,https://en.wikipedia.org/wiki/RAF_Marham,King's Lynn
@@ -8321,10 +8322,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 521,SWBR,small_airport,Borba Airport,-4.40634,-59.602402,98,SA,BR,BR-AM,Borba,yes,SWBR,RBB,SWBR,AM0018,,https://en.wikipedia.org/wiki/Borba_Airport,
 523,SWCA,small_airport,Carauari Airport,-4.871473,-66.897552,355,SA,BR,BR-AM,Carauari,yes,SWCA,CAF,SWCA,AM0007,,https://en.wikipedia.org/wiki/Carauari_Airport,
 527,SWCQ,small_airport,Costa Marques Airport,-12.4211,-64.251602,623,SA,BR,BR-RO,Costa Marques,no,SWCQ,CQS,SWCQ,RO0007,,,
-528,SWDM,small_airport,Diamantino Airport,-14.376899719238281,-56.40039825439453,1476,SA,BR,BR-MT,Diamantino,no,SWDM,DMT,SWDM,SWDM,,,
-529,SWDN,small_airport,Dianópolis Airport,-11.5953998566,-46.846698761,2001,SA,BR,BR-TO,Dianópolis,no,SWDN,DNO,SWDN,,,,
-530,SWEC,small_airport,Estância das Cascatas Airport,-15.896699905396,-52.095600128174,1017,SA,BR,BR-GO,Aragarças,no,SWEC,,SWEC,SWEC,,,
-532,SWEI,small_airport,Eirunepé Airport,-6.63953,-69.879799,412,SA,BR,BR-AM,Eirunepé,no,SWEI,ERN,SWEI,SWEI,,https://en.wikipedia.org/wiki/Eirunep%C3%A9_Airport,
+528,SWDM,small_airport,Diamantino Airport,-14.3769,-56.400398,1539,SA,BR,BR-MT,Diamantino,no,SWDM,DMT,SWDM,MT0015,,,
+529,SWDN,small_airport,Dianópolis Airport,-11.5954,-46.846699,2415,SA,BR,BR-TO,Dianópolis,no,SWDN,DNO,SWDN,TO0006,,,
+532,SWEI,small_airport,Eirunepé Airport,-6.639533,-69.879709,400,SA,BR,BR-AM,Eirunepé,no,SWEI,ERN,SWEI,AM0009,,https://en.wikipedia.org/wiki/Eirunep%C3%A9_Airport,Amaury Feitosa Tomaz
 37848,SWEK,small_airport,Canarana Airport,-13.574444,-52.270557,1314,SA,BR,BR-MT,Canarana,no,SWEK,CQA,SWEK,,,https://en.wikipedia.org/wiki/Canarana_Airport,
 536,SWFX,small_airport,São Félix do Araguaia Airport,-11.6324,-50.689602,650,SA,BR,BR-MT,São Félix Do Araguaia,no,SWFX,SXO,SWFX,SWFX,,https://en.wikipedia.org/wiki/S%C3%A3o_F%C3%A9lix_do_Araguaia_Airport,
 537,SWGI,small_airport,Gurupi Airport,-11.7396,-49.132198,1148,SA,BR,BR-TO,Gurupi,no,SWGI,GRP,SWGI,TO0004,,https://en.wikipedia.org/wiki/Gurupi_Airport,
@@ -8360,8 +8360,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 38091,SWTP,small_airport,Tapuruquara Airport,-0.3786,-64.9923,223,SA,BR,BR-AM,Santa Isabel Do Rio Negro,yes,SWTP,IRZ,SWTP,,,https://en.wikipedia.org/wiki/Tapuruquara_Airport,
 586,SWTS,small_airport,Tangará da Serra Airport,-14.662,-57.443744,1473,SA,BR,BR-MT,Tangará da Serra,yes,SWTS,TGQ,SWTS,MT0012,,https://en.wikipedia.org/wiki/Tangar%C3%A1_da_Serra_Airport,
 587,SWTU,small_airport,Fazenda Tucunaré Airport,-13.465528,-58.866935,1814,SA,BR,BR-MT,Sapezal,no,SWTU,AZL,SWTU,MT0410,,,
-38096,SWTY,small_airport,Taguatinga Airport,-12.433889389038086,-46.40055465698242,1959,SA,BR,BR-TO,Taguatinga,no,,QHN,SWTY,,,,
-588,SWUA,small_airport,São Miguel do Araguaia Airport,-13.331299781799316,-50.197601318359375,1249,SA,BR,BR-GO,São Miguel Do Araguaia,no,SWUA,SQM,SWUA,SWUA,,,
+588,SWUA,small_airport,São Miguel do Araguaia Airport,-13.3313,-50.197601,1249,SA,BR,BR-GO,São Miguel do Araguaia,no,SWUA,SQM,SWUA,SWUA,,,
 564920,SWVB,heliport,ICPB Heliport,-27.143296,-48.532353,18,SA,BR,BR-SC,Porto Belo,no,SWVB,,SWVB,SC0206,,,
 38114,SWVC,small_airport,Vila Rica Airport,-9.981057,-51.140358,833,SA,BR,BR-MT,Vila Rica,no,SWVC,VLP,SWVC,MT0016,,https://en.wikipedia.org/wiki/Vila_Rica_Airport,
 31882,SWXM,small_airport,Orlando Villas Boas Regional Airport,-10.170368,-54.953964,886,SA,BR,BR-MT,Matupá,no,SWXM,MBK,SWXM,MT0014,,https://en.wikipedia.org/wiki/Matup%C3%A1_Airport,Matupá Airport
