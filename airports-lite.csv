@@ -1,7 +1,6 @@
 id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country,iso_region,municipality,scheduled_service,icao_code,iata_code,gps_code,local_code,home_link,wikipedia_link,keywords
 4650,03N,small_airport,Utirik Airport,11.222219,169.851429,4,OC,MH,MH-UTI,Utirik Island,yes,,UTK,03N,03N,,https://en.wikipedia.org/wiki/Utirik_Airport,
 6924,07FA,small_airport,Ocean Reef Club Airport,25.325399398804,-80.274803161621,8,NA,US,US-FL,Key Largo,no,,OCA,07FA,07FA,https://www.oceanreef.com/community/private-airport-1345.html,https://en.wikipedia.org/wiki/Ocean_Reef_Club_Airport,
-6954,07TE,small_airport,Cuddihy Field,27.7211,-97.512802,39,NA,US,US-TX,Corpus Christi,no,,CUX,07TE,07TE,,,
 7139,0CO2,small_airport,Crested Butte Airpark,38.851918,-106.928341,8980,NA,US,US-CO,Crested Butte,no,,CSE,0CO2,0CO2,,,Buckhorn Ranch
 7426,0NM0,small_airport,Columbus Airport,31.823898,-107.629924,4024,NA,US,US-NM,Columbus,no,,CUS,0NM0,0NM0,,https://en.wikipedia.org/wiki/Columbus_Municipal_Airport_(New_Mexico),
 7545,0TE7,small_airport,LBJ Ranch Airport,30.251801,-98.622498,1515,NA,US,US-TX,Stonewall,no,,JCY,0TE7,0TE7,,,
