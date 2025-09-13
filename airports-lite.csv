@@ -171,6 +171,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 595027,AU-0748,small_airport,Oakden Hills Airport,-31.66598,137.0361,308,OC,AU,AU-SA,Oakden Hills,no,YOKH,,YOKH,,,,
 595746,AU-0771,small_airport,Wirraminna Airport,-31.19277,136.21988,446,OC,AU,AU-SA,Wirraminna,no,YWIR,,,,,,
 600001,AU-0783,small_airport,JDandBoo,-37.85774,146.91748,380,OC,AU,AU-VIC,Boisdale,no,YJBO,,,,,,"Private, PPR"
+600436,AU-0785,small_airport,Woodstock Station,-19.358723,142.756948,,OC,AU,AU-QLD,,no,YWSN,,,,,,
 30622,AU-AGW,small_airport,Agnew Airport,-12.1456,142.149369,160,OC,AU,AU-QLD,Agnew,no,,AGW,YAGN,,,https://en.wikipedia.org/wiki/Agnew_Airport,
 30666,AU-AYD,small_airport,Alroy Downs Airport,-19.2908,136.078995,711,OC,AU,AU-NT,Alroy Downs,no,,AYD,YALD,,,,
 30808,AU-BYX,small_airport,Baniyala Airport,-13.1981,136.227005,20,OC,AU,AU-NT,Baniyala,no,,BYX,YBNI,,,,
@@ -7717,9 +7718,16 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32137,SCOV,small_airport,El Tuqui Airport,-30.5592,-71.175598,1100,SA,CL,CL-CO,Ovalle,no,SCOV,OVL,SCOV,,,https://en.wikipedia.org/wiki/El_Tuqui_Airport,
 6033,SCPC,small_airport,Pucón Airport,-39.292801,-71.915901,853,SA,CL,CL-AR,Pucon,yes,SCPC,ZPC,SCPC,,,https://en.wikipedia.org/wiki/Puc%C3%B3n_Airport,
 39245,SCPM,small_airport,Pichilemu Airport,-34.394165,-72.019165,82,SA,CL,CL-LI,Pichilemu,no,SCPM,,SCPM,,https://aipchile.dgac.gob.cl/aerodromo/show?designador=SCPM,https://en.wikipedia.org/wiki/Pichilemu_Aerodrome,
+39246,SCPN,small_airport,Pillán Airport,-42.546989,-72.494884,33,SA,CL,CL-LL,Chaiten,no,SCPN,,SCPN,,,https://en.wikipedia.org/wiki/Pill%C3%A1n_Airport,
+39247,SCPO,small_airport,Los Paltos Airport,-34.328056,-70.964165,869,SA,CL,CL-LI,Quinta de Tilcoco,no,SCPO,,SCPO,,,https://en.wikipedia.org/wiki/Isla_Picton_Airport,
 313732,SCPQ,small_airport,Mocopulli Airport,-42.340388,-73.715693,528,SA,CL,CL-LL,Dalcahue,yes,SCPQ,MHC,SCPQ,,,https://en.wikipedia.org/wiki/Mocopulli_Airport,
+39249,SCPR,small_airport,Corte Alto Airport,-40.941038,-73.168894,416,SA,CL,CL-LL,Purranque,no,SCPR,,SCPR,,,https://en.wikipedia.org/wiki/Corte_Alto_Airport,Club Aéreo de Purranque
+45071,SCPT,small_airport,La Puerta Airport,-34.613056,-71.375833,509,SA,CL,CL-LI,Santa Cruz,no,SCPT,,SCPT,,,,
 39251,SCPU,small_airport,Peulla Airport,-41.057078,-72.013525,900,SA,CL,CL-LL,Peulla,no,SCPU,,SCPU,,,https://en.wikipedia.org/wiki/Peulla_Airport,
 30305,SCPV,small_airport,El Mirador Airport,-41.3494,-72.946701,430,SA,CL,CL-LL,Puerto Varas,no,SCPV,PUX,SCPV,,,https://en.wikipedia.org/wiki/El_Mirador_Airport,
+39252,SCPW,small_airport,Peumo Airport,-34.408783,-71.168105,557,SA,CL,CL-LI,Peumo,no,SCPW,,SCPW,,,https://en.wikipedia.org/wiki/Peumo_Airport,
+39254,SCPY,small_airport,Cerro Castillo Airport,-51.260193,-72.335414,427,SA,CL,CL-MA,Cerro Castillo,no,SCPY,,SCPY,,,https://en.wikipedia.org/wiki/Cerro_Castillo_Airport,
+32268,SCPZ,small_airport,Patriot Hills Airport,-80.318307,-81.308128,2900,AN,AQ,AQ-U-A,Patriot Hills Base Camp,no,SCPZ,,SCPZ,,,https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Patriot_Hills,
 314783,SCQP,medium_airport,La Araucanía Airport,-38.9259,-72.6515,333,SA,CL,CL-AR,Temuco,yes,SCQP,ZCO,SCQP,,,https://en.wikipedia.org/wiki/La_Araucan%C3%ADa_International_Airport,
 6037,SCRA,medium_airport,Chañaral Airport,-26.3325,-70.6073,97,SA,CL,CL-AT,Chañaral,no,SCRA,CNR,SCRA,,,https://en.wikipedia.org/wiki/Cha%C3%B1aral_Airport,
 32565,SCRD,small_airport,Rodelillo Airport,-33.0681,-71.557503,1100,SA,CL,CL-VS,Viña Del Mar,no,SCRD,VAP,SCRD,,,https://en.wikipedia.org/wiki/Rodelillo_Airfield,
@@ -7825,9 +7833,21 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41565,SGOL,small_airport,Aeródromo de Fuerte,-21.045724,-57.882935,270,SA,PY,PY-16,Fuerte Olimpo,no,SGOL,OLK,SGOL,,,https://en.wikipedia.org/wiki/Fuerte_Olimpo_Airport,1st Lt. Inocencio Herebia
 6094,SGPI,medium_airport,Aeródromo Don Carlos Miguel Gimenez,-26.881981,-58.319067,249,SA,PY,PY-12,Pilar,no,SGPI,PIL,SGPI,,,https://en.wikipedia.org/wiki/Carlos_Miguel_Jim%C3%A9nez_Airport,
 6095,SGPJ,medium_airport,Aeropuerto Nacional Dr. Augusto Roberto Fuster,-22.641427,-55.829993,1873,SA,PY,PY-13,Pedro Juan Caballero,no,SGPJ,PJC,SGPJ,,,https://en.wikipedia.org/wiki/Dr._Augusto_Roberto_Fuster_International_Airport,Aeropuerto Internacional Dr. Augusto Roberto Fuster
+45083,SHAB,heliport,Aguas Blancas Heliport,-32.665528,-71.440337,102,SA,CL,CL-VS,Puchuncavi,no,SHAB,,SHAB,,,,
 39329,SHAC,heliport,ACHS Worker's Hospital Helipad,-33.443667,-70.632125,1969,SA,CL,CL-RM,Santiago,no,SHAC,,SHAC,,,https://es.wikipedia.org/wiki/Hospital_del_Trabajador_ACHS,
+39330,SHAG,heliport,Anguila 1 Heliport,-52.499347,-68.724299,66,SA,CL,CL-MA,Magallanes,no,SHAG,,SHAG,,,,
+45085,SHAL,heliport,Los Paltos Heliport,-33.725492,-70.930352,978,SA,CL,CL-RM,Isla de Maipo,no,SHAL,,SHAL,,,,Talagante
+39332,SHAP,heliport,Dr. Alejandro del Río Public Assistance Hospital Helipad,-33.44434,-70.638062,1916,SA,CL,CL-RM,Santiago,no,SHAP,,SHAP,,,,
+600437,SHAT,heliport,Atmosphere Helideck,-41.480248,-72.939927,35,SA,CL,CL-LL,Puerto Montt,no,SHAT,,SHAT,,https://www.vesselfinder.com/vessels/details/9401001,,
+39333,SHAU,heliport,Santa Rosa Heliport,-34.2552,-71.030606,971,SA,CL,CL-LI,Coltauco,no,SHAU,,SHAU,,,,
+600435,SHAV,heliport,Alta Vista Heliport,-32.621739,-71.399487,440,SA,CL,CL-VS,Zapallar,no,SHAV,,SHAV,,,,
 596076,SHJN,heliport,"Dr. Juan Noé Crevani, Arica Regional Hospital Helipad",-18.482836,-70.31314,187,SA,CL,CL-AP,Arica,no,SHJN,,SHJN,,,,
 39373,SHJO,heliport,San José Hospital Helipad,-33.416071,-70.653094,1868,SA,CL,CL-RM,Santiago,no,SHJO,,SHJO,,https://complejohospitalariosanjose.cl/,,
+600440,SHVE,heliport,Valle Escondido Heliport,-33.346305,-70.487845,3248,SA,CL,CL-RM,Lo Barnechea,no,SHVE,,SHVE,,,,
+45093,SHVI,heliport,Villarica Park Lake Heliport,-39.302094,-72.089036,804,SA,CL,CL-AR,Villarrica,no,SHVI,,SHVI,,,,
+600438,SHVN,heliport,Vía Naranja Heliport,-33.368305,-70.564465,2726,SA,CL,CL-RM,Santiago,no,SHVN,,SHVN,,,,
+39412,SHWT,heliport,World Trade Center Heliport,-33.416384,-70.605385,2261,SA,CL,CL-RM,Santiago,no,SHWT,,SHWT,,,,
+39413,SHYA,heliport,Sumaya Heliport,-33.676875,-70.547388,2244,SA,CL,CL-RM,Pirque,no,SHYA,,SHYA,,,,
 316552,SIC,small_airport,San José Island Airport,8.2622,-79.078,150,NA,PA,PA-8,Las Perlas,no,,SIC,,,,https://en.wikipedia.org/wiki/San_José_Airport_(Las_Perlas),
 329420,SIJY,small_airport,Campo Comandantes Airport,-26.983055,-48.816387,33,SA,BR,BR-SC,Itajaí,no,,ITJ,SIJY,SC0027,,,"ITJ, Itajaí/Campo Comandantes"
 36081,SILC,small_airport,Municipal Bom Futuro Airport,-13.037861,-55.95025,1358,SA,BR,BR-MT,Lucas do Rio Verde,no,SILC,LVR,SILC,MT0025,,https://en.wikipedia.org/wiki/Lucas_do_Rio_Verde_Airport,
