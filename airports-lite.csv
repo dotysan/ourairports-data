@@ -3543,7 +3543,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 19314,KAST,medium_airport,Astoria Regional Airport,46.158000946,-123.878997803,15,NA,US,US-OR,Astoria,no,KAST,AST,KAST,AST,,https://en.wikipedia.org/wiki/Astoria_Regional_Airport,
 19316,KASX,small_airport,John F Kennedy Memorial Airport,46.54850006,-90.91899872,827,NA,US,US-WI,Ashland,no,KASX,ASX,KASX,ASX,,https://en.wikipedia.org/wiki/John_F._Kennedy_Memorial_Airport,
 19317,KASY,small_airport,Ashley Municipal Airport,46.0238990784,-99.3526000977,2032,NA,US,US-ND,Ashley,no,KASY,ASY,KASY,ASY,,https://en.wikipedia.org/wiki/Ashley_Municipal_Airport,
-3384,KATL,large_airport,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,1026,NA,US,US-GA,Atlanta,yes,KATL,ATL,KATL,ATL,http://www.atlanta-airport.com/,https://en.wikipedia.org/wiki/Hartsfield–Jackson_Atlanta_International_Airport,
+3384,KATL,large_airport,Hartsfield Jackson Atlanta International Airport,33.6367,-84.428101,1026,NA,US,US-GA,Atlanta,yes,KATL,ATL,KATL,ATL,https://www.atl.com,https://en.wikipedia.org/wiki/Hartsfield–Jackson_Atlanta_International_Airport,
 19319,KATS,small_airport,Artesia Municipal Airport,32.8525009155,-104.468002319,3541,NA,US,US-NM,Artesia,no,KATS,ATS,KATS,ATS,,https://en.wikipedia.org/wiki/Artesia_Municipal_Airport,
 19320,KATW,medium_airport,Appleton International Airport,44.258099,-88.519096,918,NA,US,US-WI,Appleton,yes,KATW,ATW,KATW,ATW,http://atwairport.com/,https://en.wikipedia.org/wiki/Outagamie_County_Regional_Airport,Outagamie County Regional Airport
 3385,KATY,medium_airport,Watertown Regional Airport,44.91400146,-97.15470123,1749,NA,US,US-SD,Watertown,yes,KATY,ATY,KATY,ATY,,https://en.wikipedia.org/wiki/Watertown_Regional_Airport,
@@ -4562,7 +4562,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 20715,KOCW,small_airport,Warren Field,35.570499420166,-77.049797058105,38,NA,US,US-NC,Washington,no,KOCW,OCW,KOCW,OCW,http://www.washingtonnc.gov/airport,,
 20716,KODO,small_airport,Odessa Schlemeyer Field,31.920601,-102.387001,3004,NA,US,US-TX,Odessa,no,,ODT,KODO,ODO,http://www.co.ector.tx.us/default.aspx?Ector_County/SchlemeyerAirport,https://en.wikipedia.org/wiki/Odessa-Schlemeyer_Field,"E02, Ector County"
 20718,KOEA,small_airport,O'Neal Airport,38.68521,-87.543138,414,NA,US,US-IL,Lawrenceville,no,,OEA,KOEA,OEA,,https://en.wikipedia.org/wiki/O%27Neal_Airport,
-20721,KOEO,small_airport,L O Simenstad Municipal Airport,45.310001373291,-92.691902160645,903,NA,US,US-WI,Osceola,no,KOEO,OEO,KOEO,OEO,http://www.vil.osceola.wi.us/index.asp?Type=B_BASIC&SEC={9098926A-C937-4069-95AA-D331D2F38500},https://en.wikipedia.org/wiki/L.O._Simenstad_Municipal_Airport,
+20721,KOEO,small_airport,L O Simenstad Municipal Airport,45.310001,-92.691902,903,NA,US,US-WI,Osceola,no,KOEO,OEO,KOEO,OEO,https://osceolaaero.com,https://en.wikipedia.org/wiki/L.O._Simenstad_Municipal_Airport,
 3745,KOFF,medium_airport,Offutt Air Force Base,41.119307,-95.90851,1052,NA,US,US-NE,Omaha,no,KOFF,OFF,KOFF,OFF,http://www.offutt.af.mil/,https://en.wikipedia.org/wiki/Offutt_Air_Force_Base,
 20722,KOFK,medium_airport,Karl Stefan Memorial Airport,41.985500335693,-97.435096740723,1573,NA,US,US-NE,Norfolk,no,KOFK,OFK,KOFK,OFK,http://www.norfolkairportservices.com/default.htm,https://en.wikipedia.org/wiki/Norfolk_Regional_Airport,
 20724,KOGA,small_airport,Ogallala Municipal Airport Searle Field,41.119499,-101.769997,3279,NA,US,US-NE,Ogallala,no,KOGA,OGA,KOGA,OGA,http://www.ogallala-ne.gov/city_services/airport/index.php,,
@@ -4785,7 +4785,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 20956,KRPX,small_airport,Roundup Airport,46.475095,-108.541497,3500,NA,US,US-MT,Roundup,no,KRPX,RPX,KRPX,RPX,,https://en.wikipedia.org/wiki/Roundup_Airport,
 20957,KRQB,small_airport,Roben Hood Airport,43.7225990295,-85.50409698490002,990,NA,US,US-MI,Big Rapids,no,KRQB,WBR,KRQB,RQB,,https://en.wikipedia.org/wiki/Roben-Hood_Airport,
 24364,KRQO,small_airport,El Reno Regional Airport,35.472698,-98.005798,1420,NA,US,US-OK,El Reno,no,,RQO,KRQO,RQO,,https://en.wikipedia.org/wiki/El_Reno_Regional_Airport,F28 KF28
-20959,KRRL,small_airport,Merrill Municipal Airport,45.1988983154,-89.7128982544,1318,NA,US,US-WI,Merrill,no,KRRL,RRL,KRRL,RRL,http://www.ci.merrill.wi.us/index.asp?SEC=4F5D638A-3ECD-45E8-8226-20D66738C412&Type=B_BASIC,https://en.wikipedia.org/wiki/Merrill_Municipal_Airport,
+20959,KRRL,small_airport,Merrill Municipal Airport,45.198898,-89.712898,1318,NA,US,US-WI,Merrill,no,KRRL,RRL,KRRL,RRL,https://ci.merrill.wi.us/airport,https://en.wikipedia.org/wiki/Merrill_Municipal_Airport,
 20961,KRRT,small_airport,Warroad International Memorial Airport,48.94139862,-95.3483963,1076,NA,US,US-MN,Warroad,no,KRRT,RRT,KRRT,RRT,,https://en.wikipedia.org/wiki/Warroad_International_Memorial_Airport,"RAD, KRAD, Swede Carlson Field"
 20962,KRSL,medium_airport,Russell Municipal Airport,38.872100830078,-98.811798095703,1862,NA,US,US-KS,Russell,no,KRSL,RSL,KRSL,RSL,http://www.russellcity.org/airport.php,,
 20963,KRSN,small_airport,Ruston Regional Airport,32.514187,-92.588517,311,NA,US,US-LA,Ruston,no,KRSN,RSN,KRSN,RSN,http://www.ruston.org/departments.aspx?p_PageAlias=regional-airport,https://en.wikipedia.org/wiki/Ruston_Regional_Airport,3L5
@@ -5036,7 +5036,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3946,KVLD,medium_airport,Valdosta Regional Airport,30.782499313354492,-83.27670288085938,203,NA,US,US-GA,Valdosta,yes,KVLD,VLD,KVLD,VLD,,https://en.wikipedia.org/wiki/Valdosta_Regional_Airport,
 21331,KVNC,small_airport,Venice Municipal Airport,27.070541,-82.440815,18,NA,US,US-FL,Venice,no,KVNC,VNC,KVNC,VNC,http://www.venicegov.com/Municipal_links/Airport/airport.asp,https://en.wikipedia.org/wiki/Venice_Municipal_Airport,Venice AAF
 21333,KVNY,medium_airport,Van Nuys Airport,34.209800720215,-118.48999786377,802,NA,US,US-CA,Van Nuys,no,KVNY,VNY,KVNY,VNY,,https://en.wikipedia.org/wiki/Van_Nuys_Airport,
-3947,KVOK,medium_airport,Volk Field,43.938999176025,-90.253402709961,912,NA,US,US-WI,Camp Douglas,no,KVOK,VOK,KVOK,VOK,http://www.volkfield.ang.af.mil/,https://en.wikipedia.org/wiki/Volk_Field_Air_National_Guard_Base,"Camp Williams,"
+3947,KVOK,medium_airport,Volk Field,43.938999,-90.253403,912,NA,US,US-WI,Camp Douglas,no,KVOK,VOK,KVOK,VOK,http://www.volkfield.ang.af.mil/,https://en.wikipedia.org/wiki/Volk_Field_Air_National_Guard_Base,Camp Williams
 3948,KVPS,medium_airport,Destin-Fort Walton Beach Airport,30.4832,-86.525398,87,NA,US,US-FL,Valparaiso,yes,KVPS,VPS,KVPS,VPS,http://www.flyvps.com/,https://en.wikipedia.org/wiki/Destin%E2%80%93Fort_Walton_Beach_Airport,Eglin AFB
 3949,KVPZ,medium_airport,Porter County Municipal Airport,41.45399857,-87.00710297,770,NA,US,US-IN,Valparaiso,no,KVPZ,VPZ,KVPZ,VPZ,http://www.vpz.org/,https://en.wikipedia.org/wiki/Porter_County_Municipal_Airport,
 21335,KVQQ,medium_airport,Cecil Airport,30.2187,-81.876701,81,NA,US,US-FL,Jacksonville,no,KVQQ,VQQ,KVQQ,VQQ,http://www.jaxjetport.aero/index.php/cecil-airport/,https://en.wikipedia.org/wiki/Cecil_Field,"NZC, KNCZ, Cecil Field NAS"
@@ -6427,7 +6427,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 23322,NV11,small_airport,Yucca Airstrip,36.934661,-116.00596,3919,NA,US,US-NV,Mercury,no,,UCC,,,,https://en.wikipedia.org/wiki/Yucca_Airstrip,NV11
 31964,NVSA,small_airport,Mota Lava Airport,-13.666,167.712006,63,OC,VU,VU-TOB,Ablow,no,NVSA,MTV,NVSA,,,https://en.wikipedia.org/wiki/Mota_Lava_Airport,
 32323,NVSC,small_airport,Sola Airport,-13.8516998291,167.537002563,7,OC,VU,VU-TOB,Sola,yes,NVSC,SLH,NVSC,,,https://en.wikipedia.org/wiki/Vanua_Lava_Airport,Vanua Lava Airport
-32469,NVSD,small_airport,Torres Airstrip,-13.328,166.638,75,OC,VU,VU-TOB,Loh/Linua,no,NVSD,TOH,NVSD,,,https://en.wikipedia.org/wiki/Torres_Airport,"Loh Island,"
+32469,NVSD,small_airport,Torres Airstrip,-13.328,166.638,75,OC,VU,VU-TOB,Loh/Linua,no,NVSD,TOH,NVSD,,,https://en.wikipedia.org/wiki/Torres_Airport,Loh Island
 30961,NVSE,small_airport,Siwo Airport,-17.0903,168.343002,7,OC,VU,VU-SEE,Emae Island,no,NVSE,EAE,NVSE,,,https://en.wikipedia.org/wiki/Siwo_Airport,"Sangafa Airport, Emae Airport"
 30817,NVSF,small_airport,Craig Cove Airport,-16.264999,167.923996,69,OC,VU,VU-MAP,Craig Cove,yes,NVSF,CCV,NVSF,,,https://en.wikipedia.org/wiki/Craig_Cove_Airport,
 31841,NVSG,small_airport,Longana Airport,-15.3066997528,167.966995239,167,OC,VU,VU-PAM,Longana,yes,NVSG,LOD,NVSG,,,https://en.wikipedia.org/wiki/Longana_Airport,
@@ -7843,6 +7843,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 600435,SHAV,heliport,Alta Vista Heliport,-32.621739,-71.399487,440,SA,CL,CL-VS,Zapallar,no,SHAV,,SHAV,,,,
 596076,SHJN,heliport,"Dr. Juan Noé Crevani, Arica Regional Hospital Helipad",-18.482836,-70.31314,187,SA,CL,CL-AP,Arica,no,SHJN,,SHJN,,,,
 39373,SHJO,heliport,San José Hospital Helipad,-33.416071,-70.653094,1868,SA,CL,CL-RM,Santiago,no,SHJO,,SHJO,,https://complejohospitalariosanjose.cl/,,
+39407,SHTC,heliport,Edificio Corporativo CTC Heliport,-33.437046,-70.632573,2389,SA,CL,CL-RM,Santiago,no,SHTC,,SHTC,,,,
+39409,SHTL,heliport,Torre Ligure Helipad,-36.827656,-73.052527,182,SA,CL,CL-BI,Concepcion,no,SHTL,,SHTL,,,,
 600440,SHVE,heliport,Valle Escondido Heliport,-33.346305,-70.487845,3248,SA,CL,CL-RM,Lo Barnechea,no,SHVE,,SHVE,,,,
 45093,SHVI,heliport,Villarica Park Lake Heliport,-39.302094,-72.089036,804,SA,CL,CL-AR,Villarrica,no,SHVI,,SHVI,,,,
 600438,SHVN,heliport,Vía Naranja Heliport,-33.368305,-70.564465,2726,SA,CL,CL-RM,Santiago,no,SHVN,,SHVN,,,,
@@ -8525,6 +8527,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 45178,UA-0049,small_airport,Myrhorod Air Base,49.932,33.641,400,EU,UA,UA-53,Myrhorod,no,,MXR,UKBM,,,https://en.wikipedia.org/wiki/Myrhorod_Air_Base,"Mirgorod Air Base, Аэродром Миргород"
 45179,UA-0050,small_airport,Kakhnovka Airfield,49.136799,33.477893,266,EU,UA,UA-53,Kremenchuk,no,,KHU,UKHK,,,https://en.wikipedia.org/wiki/Kremenchuk_Airport,"Аэродром Кахновка, Velyka Kokhnivka"
 321214,UA-0107,small_airport,Kam'yanets'-Podil's'kyi Airfield,48.695631,26.609471,700,EU,UA,UA-68,Kamyan'ka,no,,KCP,UKLK,,,,"Mekanik Avia, Механик Авиа, УКЛК"
+332720,UA-0127,small_airport,Kosino Spa Resort Airfield,48.25318,22.498503,107,EU,UA,UA-21,Koson',no,UKMN,,UKMN,,,,Kosino
 3549,UA30,medium_airport,Batken Airport,40.042899,70.83784,3602,AS,KG,KG-B,Batken,yes,UCFB,,UCFB,,http://www.airport.kg/index.php?option=com_content&view=article&id=4&Itemid=6,https://en.wikipedia.org/wiki/Batken_Airport,"UAFB, Баткен"
 6421,UAAA,large_airport,Almaty International Airport,43.354267,77.042828,2234,AS,KZ,KZ-ALA,Almaty,yes,UAAA,ALA,UAAA,,,https://en.wikipedia.org/wiki/Almaty_International_Airport,Alma Ata
 6422,UAAH,medium_airport,Balkhash Airport,46.894246,75.004533,1446,AS,KZ,KZ-KAR,Balkhash,yes,UAAH,BXH,UAAH,,,https://en.wikipedia.org/wiki/Balkhash_Airport,Balqash
@@ -8930,6 +8933,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26477,VDST,heliport,Stung Treng Airport,13.531278,106.01434,203,AS,KH,KH-19,Stung Treng,no,VDST,,VDST,,,https://en.wikipedia.org/wiki/Stung_Treng_Airport,TNX
 26478,VDSV,small_airport,Sihanoukville International Airport,10.571969,103.632689,33,AS,KH,KH-18,Preah Sihanouk,yes,VDSV,KOS,VDSV,,http://www.sihanoukville-cambodia.com/about-sihanoukville/airport.html,https://en.wikipedia.org/wiki/Sihanoukville_International_Airport,Kompong Som
 313338,VDSY,small_airport,Krakor Airport,12.5385,104.1486,62,AS,KH,KH-15,Krakor,no,,KZD,VDSY,,,https://en.wikipedia.org/wiki/Krakor_Airport,
+600463,VDTI,large_airport,Techo International Airport,11.362917,104.916611,20,AS,KH,KH-8,Phnom Penh,yes,VDTI,KTI,VDTI,,http://www.techoairport.com.kh/,https://en.wikipedia.org/wiki/Techo_International_Airport_(Cambodia),
 40463,VE-0114,small_airport,Lagunillas Airport,10.12399959564209,-71.23799896240234,2469,SA,VE,VE-V,Lagunillas,no,,LGY,,,,,
 41600,VE-0207,small_airport,Macagua Airport,8.2788,-62.6652,231,SA,VE,VE-F,Ciudad Guayana,no,,SFX,SVMU,,,,San Felix Airport
 41601,VE-0208,small_airport,San Salvador de Paul Airport,7,-62,576,SA,VE,VE-F,San Salvador de Paul,no,,SVV,,,,,
