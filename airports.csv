@@ -19089,6 +19089,9 @@
 32034,"CM-0014","closed","Nkongsamba Airport",4.95,9.933,2641,"AF","CM","CM-LT","Nkongsamba","no",,,,,,"https://en.wikipedia.org/wiki/Nkongsamba_Airport","FKAN, FKAN, NKS"
 600251,"CM-0015","small_airport","Mai field",4.46636,12.05125,1800,"AF","CM","CM-CE",,"no",,,,,,,
 600252,"CM-0016","small_airport","Boko ag field",4.47372,12.13107,,"AF","CM","CM-CE",,"no",,,,,,,
+600493,"CM-0017","small_airport","Mvan ag field",4.53403,12.157288,,"AF","CM","CM-CE",,"no",,,,,,,
+600496,"CM-0018","small_airport","Ebo ag field",4.374297,12.072701,,"AF","CM","CM-CE",,"no",,,,,,,
+600497,"CM-0019","small_airport","Evan ag field",4.434351,11.989167,,"AF","CM","CM-CE",,"no",,,,,,,
 1276,"CMA2","small_airport","Mattawa Airport",46.29970169067383,-78.747802734375,600,"NA","CA","CA-ON","Mattawa","no",,,"CMA2","CMA2",,"https://en.wikipedia.org/wiki/Mattawa_Airport","MA2"
 577155,"CMA3","heliport","Aeria Helicentre Heliport",45.281375,-72.103043,659,"NA","CA","CA-QC","Magog","no",,,"CMA3","CMA3",,,
 28317,"CMA4","seaplane_base","Miminiska Seaplane Base",51.601398,-88.580803,,"NA","CA","CA-ON",,"no",,,"CMA4","CMA4",,"https://en.wikipedia.org/wiki/Miminiska_Water_Aerodrome",
@@ -24875,6 +24878,7 @@
 599541,"ES-0369","small_airport","Eivissa private Airstrip",38.96978,1.43786,,"EU","ES","ES-IB",,"no",,,,,,,
 600478,"ES-0370","heliport","Helipuerto de Xàtiva",39.005405,-0.510382,,"EU","ES","ES-VC","Xàtiva","no",,,,,,,
 600479,"ES-0371","heliport","Helipuerto del Embalse de Bellús",38.938579,-0.482694,,"EU","ES","ES-VC","Bellús","no",,,,,,,
+600498,"ES-0372","heliport","Helipuerto de Emergencias de Alzira",39.155154,-0.44138,,"EU","ES","ES-VC","Alzira","no",,,,,,,
 599574,"ESAN","heliport","Norra Alvsborgs County Hospital Heliport",58.319006,12.26819,312,"EU","SE","SE-Q","Trollhättan","no","ESEN",,"ESAN","NAL",,,
 2643,"ESCF","medium_airport","Malmen Air Base",58.397666,15.522422,308,"EU","SE","SE-E","Linköping","no","ESCF",,"ESCF",,,"https://en.wikipedia.org/wiki/Malmen_Airbase",
 2645,"ESCM","small_airport","Ärna Air Base",59.897301,17.5886,68,"EU","SE","SE-C","Uppsala","no","ESCM",,"ESCM",,,"https://en.wikipedia.org/wiki/%C3%84rna",
@@ -27452,8 +27456,6 @@
 553347,"FR-1186","heliport","Rubrouck DZ",50.834314,2.354089,,"EU","FR","FR-HDF","Rubrouck","no",,,,,,,
 553348,"FR-1187","heliport","Peuplingues DZ",50.912558,1.764625,,"EU","FR","FR-HDF","Peuplingues","no",,,,,,,
 553349,"FR-1188","heliport","Merckeghem DZ",50.864112,2.29919,,"EU","FR","FR-HDF","Merckeghem","no",,,,,,,
-553350,"FR-1189","heliport","Merckeghem DZ",50.864112,2.29919,,"EU","FR","FR-HDF","Merckeghem","no",,,,,,,
-553351,"FR-1190","heliport","Merckeghem DZ",50.864112,2.29919,,"EU","FR","FR-HDF","Merckeghem","no",,,,,,,
 553353,"FR-1191","heliport","Wattignies DZ",50.198261,4.006813,,"EU","FR","FR-HDF","Wattignies-la-Victoire","no",,,,,,,
 553354,"FR-1192","heliport","Landas DZ",50.472208,3.299696,,"EU","FR","FR-HDF","Landas","no",,,,,,,
 553355,"FR-1193","heliport","Genech DZ",50.540579,3.201115,,"EU","FR","FR-HDF","Genech","no",,,,,,,
@@ -43307,7 +43309,7 @@
 43034,"LHFH","small_airport","Farkashegy Airfield",47.4869,18.9147,690,"EU","HU","HU-PE","Farkashegy","no",,,"LHFH",,,"https://hu.wikipedia.org/wiki/Farkashegyi_rep%C3%BCl%C5%91t%C3%A9r",
 4298,"LHFM","small_airport","Fertőszentmiklós Airfield",47.582802,16.8454,440,"EU","HU","HU-GS","Fertőszentmiklós","no",,,"LHFM",,"http://www.lhfm.hu/","https://en.wikipedia.org/wiki/Fert%C5%91szentmikl%C3%B3s_Airfield","Meidl"
 318132,"LHFP","small_airport","Piuszpuszta Airfield",47.744444,16.614167,486,"EU","HU","HU-GS","Fertőrákos","no",,,"LHFP",,,,
-31817,"LHGD","small_airport","Gödöllő Airfield",47.571662,19.336796,600,"EU","HU","HU-PE","Gödöllő","no",,,"LHGD",,,"https://hu.wikipedia.org/wiki/G%C3%B6d%C3%B6ll%C5%91i_rep%C3%BCl%C5%91t%C3%A9r","Gödöllő Sport Airport"
+31817,"LHGD","small_airport","Gödöllő Airfield",47.571662,19.336796,715,"EU","HU","HU-PE","Gödöllő","no","LHGD",,"LHGD",,"https://godolloairport.hu/en","https://hu.wikipedia.org/wiki/G%C3%B6d%C3%B6ll%C5%91i_rep%C3%BCl%C5%91t%C3%A9r","Gödöllő Sport Airport"
 309481,"LHGR","small_airport","Gyúró Airfield",47.3914,18.75786,640,"EU","HU","HU-FE","Gyúró","no",,,"LHGR",,,"http://hu.wikipedia.org/wiki/Gy%C3%BAr%C3%B3i_rep%C3%BCl%C5%91t%C3%A9r",
 318133,"LHGU","heliport","Győrújbarát Heliport",47.605143,17.660188,397,"EU","HU","HU-GS","Győrújbarát","no",,,"LHGU",,,,
 43035,"LHGY","small_airport","Gyöngyös Pipishegy Airfield",47.814279,19.976792,1150,"EU","HU","HU-HE","Gyöngyös","no",,,"LHGY",,,"https://hu.wikipedia.org/wiki/Gy%C3%B6ngy%C3%B6si_rep%C3%BCl%C5%91t%C3%A9r",
@@ -64228,6 +64230,7 @@
 599026,"TR-0305","heliport","Newant Olympos Health Resort Helipad",36.369341,30.423544,,"AS","TR","TR-07","Kumluca","no",,,,,,,
 599135,"TR-0306","heliport","'Unknown' Heliport",40.054103,26.206824,24,"AS","TR","TR-17","Seddulbahir","no",,,,,,,"Sedd el Bahr"
 600174,"TR-0307","heliport","Murat Erdi Eker State Hospital Heliport",39.84407,32.727795,3999,"AS","TR","TR-06","Beytepe","no",,,,,,,
+600484,"TR-0308","heliport","Riva Air Base",41.22097,29.202599,,"AS","TR","TR-34","Riva","no",,,,,,,
 43074,"TRPG","medium_airport","John A. Osborne Airport",16.791401,-62.193298,550,"NA","MS","MS-SP","Gerald's Park","yes","TRPG","MNI","TRPG",,,"https://en.wikipedia.org/wiki/John_A._Osborne_Airport","Gerald's Airport, Brades"
 25017,"TS00","small_airport","Fuller Airport",32.787314,-97.180499,490,"NA","US","US-TX","Fort Worth","no",,,"TS00","TS00",,,
 25019,"TS02","small_airport","One Sixty Four Place Airport",33.119598388671875,-98.23059844970703,1200,"NA","US","US-TX","Jacksboro","no",,,"TS02","TS02",,,
