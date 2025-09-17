@@ -3322,6 +3322,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32426,HTTB,small_airport,Tabora Airport,-5.07639,32.833302,3868,AF,TZ,TZ-24,Tabora,yes,HTTB,TBO,HTTB,,,https://en.wikipedia.org/wiki/Tabora_Airport,
 3259,HTTG,medium_airport,Tanga Airport,-5.09236,39.071201,129,AF,TZ,TZ-25,Tanga,yes,HTTG,TGT,HTTG,,,https://en.wikipedia.org/wiki/Tanga_Airport,
 3260,HTZA,large_airport,Abeid Amani Karume International Airport,-6.22202,39.224899,54,AF,TZ,TZ-07,Zanzibar,yes,HTZA,ZNZ,HTZA,,,https://en.wikipedia.org/wiki/Zanzibar_International_Airport,"HTAK, Zanzibar Airport, Kiembi Samaki"
+43983,HU-0002,medium_airport,Kalocsa-Foktő Airfield,46.55149,18.942299,299,EU,HU,HU-BK,Kalocsa,no,LHKA,,LHKA,,http://www.aeroportkalocsa.hu,https://hu.wikipedia.org/wiki/Kalocsai_rep%C3%BCl%C5%91t%C3%A9r,
+316485,HU-0023,small_airport,Hódmezővásárhely Airfield,46.384444,20.308333,262,EU,HU,HU-CS,Hódmezővásárhely,no,LHHM,,LHHM,,,,
+318134,HU-0033,small_airport,Hajmáskér Airfield,47.142891,17.997437,,EU,HU,HU-VE,Hajmáskér,no,LHHK,,LHHK,,,,Hajmáskér Repülőtér
 597970,HU-0080,small_airport,Pilis Airfield,47.30361,19.52895,,EU,HU,HU-PE,,no,LHPL,,,,,,
 3262,HUAJ,small_airport,Adjumani Airport,3.339239,31.763854,2611,AF,UG,UG-N,Adjumani,no,HUAJ,,HUAJ,,,https://en.wikipedia.org/wiki/Adjumani_Airport,
 32234,HUAR,medium_airport,Arua Airport,3.049152,30.911714,3951,AF,UG,UG-N,Arua,yes,HUAR,RUA,HUAR,,,https://en.wikipedia.org/wiki/Arua_Airport,
@@ -5394,6 +5397,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4296,LHBP,large_airport,Budapest Liszt Ferenc International Airport,47.43018,19.262393,495,EU,HU,HU-BU,Budapest,yes,LHBP,BUD,LHBP,,http://www.bud.hu/english,https://en.wikipedia.org/wiki/Budapest_Ferenc_Liszt_International_Airport,"Ferihegyi nemzetközi repülőtér, Budapest Liszt Ferenc international Airport"
 4297,LHDC,medium_airport,Debrecen International Airport,47.488899,21.615299,359,EU,HU,HU-HB,Debrecen,yes,LHDC,DEB,LHDC,,http://www.airportdebrecen.hu/,https://en.wikipedia.org/wiki/Debrecen_International_Airport,Debreceni nemzetközi repülőtér
 31817,LHGD,small_airport,Gödöllő Airfield,47.571662,19.336796,715,EU,HU,HU-PE,Gödöllő,no,LHGD,,LHGD,,https://godolloairport.hu/en,https://hu.wikipedia.org/wiki/G%C3%B6d%C3%B6ll%C5%91i_rep%C3%BCl%C5%91t%C3%A9r,Gödöllő Sport Airport
+309481,LHGR,small_airport,Gyúró Airfield,47.391333,18.756989,640,EU,HU,HU-FE,Gyúró,no,LHGR,,LHGR,,,http://hu.wikipedia.org/wiki/Gy%C3%BAr%C3%B3i_rep%C3%BCl%C5%91t%C3%A9r,
+318133,LHGU,heliport,Győrújbarát Heliport,47.605143,17.660188,397,EU,HU,HU-GS,Győrújbarát,no,LHGU,,LHGU,,,,
+43035,LHGY,small_airport,Gyöngyös Pipishegy Airfield,47.814279,19.976792,1150,EU,HU,HU-HE,Gyöngyös,no,LHGY,,LHGY,,,https://hu.wikipedia.org/wiki/Gy%C3%B6ngy%C3%B6si_rep%C3%BCl%C5%91t%C3%A9r,
+43032,LHHH,small_airport,Hármashatárhegy Glider Field,47.551503,18.976386,960,EU,HU,HU-BU,Budapest,no,LHHH,,LHHH,,https://www.lhhh.hu,,
+29934,LHHO,small_airport,Hajdúszoboszló Airfield,47.459717,21.390904,335,EU,HU,HU-HB,Hajdúszoboszló,no,LHHO,,LHHO,,,https://hu.wikipedia.org/wiki/Hajd%C3%BAszoboszl%C3%B3i_rep%C3%BCl%C5%91t%C3%A9r,
+29987,LHJK,small_airport,Jakabszállás Airfield,46.747855,19.604754,348,EU,HU,HU-BK,Jakabszállás,no,LHJK,,LHJK,,,https://hu.wikipedia.org/wiki/Jakabsz%C3%A1ll%C3%A1si_rep%C3%BCl%C5%91t%C3%A9r,
+43984,LHKC,heliport,Kecel Heliport,46.536443,19.241458,323,EU,HU,HU-BK,Kecel,no,LHKC,,LHKC,,,,
+43036,LHKD,small_airport,Kecskéd Airfield,47.517121,18.325024,570,EU,HU,HU-KE,Kecskéd,no,LHKD,,LHKD,,,https://hu.wikipedia.org/wiki/Kecsk%C3%A9di_rep%C3%BCl%C5%91t%C3%A9r,
 4299,LHKE,medium_airport,Kecskemét Air Base,46.9175,19.749201,376,EU,HU,HU-BK,Kecskemét,no,LHKE,,LHKE,,,https://en.wikipedia.org/wiki/Kecskem%C3%A9t_Air_Base,
 4302,LHPP,medium_airport,Pécs-Pogány Airport,45.988891,18.242044,651,EU,HU,HU-BA,Pécs,yes,LHPP,PEV,LHPP,,http://www.airportpecs.hu/,https://en.wikipedia.org/wiki/P%C3%A9cs-Pog%C3%A1ny_International_Airport,"Pecs South Airport, QPJ"
 4305,LHSM,medium_airport,Hévíz–Balaton Airport,46.686391,17.159084,408,EU,HU,HU-ZA,Sármellék,yes,LHSM,SOB,LHSM,,http://www.flybalaton.com/?null&lang=en,https://en.wikipedia.org/wiki/S%C3%A1rmell%C3%A9k_International_Airport,"Sármellék International, FlyBatalon Airport, Batalon Airport, Sármellék Nemzetközi Repülőtér"
