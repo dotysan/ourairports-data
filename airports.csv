@@ -15676,10 +15676,10 @@
 37133,"BR-2797","small_airport","Fazenda Caraíbas Airport",-15.65292,-43.403249,1811,"SA","BR","BR-MG","Janaúba","no",,,,,,,"SNJT"
 37139,"BR-2798","heliport","Ama Heliport",-23.383333,-46.308613,2687,"SA","BR","BR-SP","Arujá","no",,,,,,,"SNKG"
 37142,"BR-2799","heliport","Margarida Heliport",-8.0975,-35.175278,604,"SA","BR","BR-PE","Moreno","no",,,,,,,"SNKM"
-37145,"BR-2800","small_airport","Klaus Mangold Airport",-2.3919439315796,-47.845001220703,200,"SA","BR","BR-PA","Ipixuna Do Pará","no",,,,"SNKQ",,,"SNKQ"
+37145,"BR-2800","small_airport","Klaus Mangold Airport",-2.385896,-47.846821,200,"SA","BR","BR-PA","Ipixuna Do Pará","no",,,,,,,"SNKQ"
 37148,"BR-2801","small_airport","Crepurizinho Airport",-6.8444437980652,-56.589443206787,1092,"SA","BR","BR-PA","Itaituba","no",,,,"SNKT",,,"SNKT"
-37151,"BR-2802","small_airport","Marborges Airport",-1.971231,-48.629113,114,"SA","BR","BR-PA","Moju","no",,,,"SNKX",,,"SNKX"
-37152,"BR-2803","small_airport","Fazenda Remanso do Pito Airport",-23.201389312744,-53.855556488037,912,"SA","BR","BR-MS","Naviraí","no",,,,"SNKZ",,,"SNKZ"
+37151,"BR-2802","small_airport","Marborges Airport",-1.971231,-48.629113,114,"SA","BR","BR-PA","Moju","no",,,,,,,"SNKX"
+37152,"BR-2803","small_airport","Fazenda Remanso do Pito Airport",-23.202257,-53.857293,912,"SA","BR","BR-MS","Naviraí","no",,,,,,,"SNKZ"
 37153,"BR-2804","small_airport","Las Casas Airport",-7.966944,-50.017223,1969,"SA","BR","BR-PA","Redenção","no",,,,,,,"SNLC"
 37154,"BR-2805","small_airport","Fazenda Serra Azul Airport",-5.6916,-56.490913,472,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SNLD"
 37155,"BR-2806","small_airport","Filial Campo Florido Airport",-19.815386,-48.737512,1959,"SA","BR","BR-MG","Campo Florido","no",,,,,,,"SNLF"
@@ -15691,7 +15691,7 @@
 37163,"BR-2812","heliport","São Sebastião Heliport",-19.705506,-43.848163,2677,"SA","BR","BR-MG","Lagoa Santa","no",,,,"SNLS",,,"SNLS"
 37165,"BR-2813","small_airport","Lavrinhas Airport",-17.735832214355,-43.459442138672,3478,"SA","BR","BR-MG","Lavrinhas","no",,,,"SNLV",,,"SNLV"
 37171,"BR-2814","small_airport","Morada Nova de Minas Airport",-18.59388923645,-45.353057861328,1988,"SA","BR","BR-MG","Morada Nova De Minas","no",,,,"SNMM",,,"SNMM"
-37173,"BR-2815","small_airport","Morada Nova Airport",-5.0836110115051,-38.383609771729,509,"SA","BR","BR-CE","Morada Nova","no",,,,"SNMO",,,"SNMO"
+37173,"BR-2815","closed","Morada Nova Airport",-5.083611,-38.38361,509,"SA","BR","BR-CE","Morada Nova","no",,,,,,,"SNMO"
 37178,"BR-2816","small_airport","Agropecuária Paralelo Dez Ltda Airport",-9.9994440078735,-61.052223205566,3035,"SA","BR","BR-MT","Aripuanã","no",,,,"SNMW",,,"SNMW"
 37179,"BR-2817","heliport","Albrás Heliport",-1.56309,-48.737519,56,"SA","BR","BR-PA","Barcarena","no",,,,,,,"SNNA"
 37186,"BR-2818","small_airport","Fazenda Teragro Airport",-14.769444465637,-43.415279388428,1512,"SA","BR","BR-MG","Matias Cardoso","no",,,,"SNNK",,,"SNNK"
@@ -25491,7 +25491,7 @@
 31059,"FASL","small_airport","Sutherland Airport",-32.48820114135742,20.697099685668945,5247,"AF","ZA","ZA-NC","Sutherland","no",,,"FASL",,,,
 30419,"FASM","small_airport","Siteka Airport",-29.325000762939453,30.149200439453125,4400,"AF","ZA","ZA-NL","Siteka","no",,,"FASM",,,,
 30407,"FASN","small_airport","Senekal Airport",-28.31220054626465,27.646099090576172,4849,"AF","ZA","ZA-FS","Senekal","no",,,"FASN",,,,
-27294,"FASR","small_airport","Standerton Airport",-26.927000045776367,29.209999084472656,5200,"AF","ZA","ZA-MP","Standerton","no",,,"FASR",,,,
+27294,"FASR","closed","Standerton Airport",-26.927,29.209999,5200,"AF","ZA","ZA-MP","Standerton","no",,,,,,,"FASR"
 2839,"FASS","medium_airport","Sishen Airport",-27.6486,22.9993,3848,"AF","ZA","ZA-NC","Sishen","yes","FASS","SIS","FASS",,,,
 30428,"FAST","small_airport","Somerset East Airport",-32.75019836425781,25.594999313354492,2349,"AF","ZA","ZA-EC","Somerset East","no",,,"FAST",,,,
 30365,"FASU","small_airport","Sace Airport",-25.956899642944336,29.211700439453125,5151,"AF","ZA","ZA-MP","Sace","no",,,"FASU",,,,
@@ -61323,7 +61323,7 @@
 37147,"SNKS","small_airport","Santa Rita de Cássia Airport",-10.98927,-44.51572,1503,"SA","BR","BR-BA","Santa Rita de Cássia","no",,,"SNKS","BA0064",,,
 37149,"SNKU","small_airport","Canudos Airport",-9.903055,-39.032776,1220,"SA","BR","BR-BA","Canudos","no",,,"SNKU","BA0066",,,
 37150,"SNKV","small_airport","Fazenda Campo Verde Airport",1.04278004169,-50.516700744599994,49,"SA","BR","BR-AP","Tartarugalzinho","no",,,"SNKV",,,,
-45601,"SNKY","small_airport","Fazenda Cikel Airport",-3.657594,-48.823726,299,"SA","BR","BR-PA","Paragominas","no",,,"SNKY",,,,
+45601,"SNKY","small_airport","Fazenda Cikel Airport",-3.65731,-48.823451,354,"SA","BR","BR-PA","Paragominas","no",,,"SNKY","PA0095",,,
 552700,"SNL2","small_airport","Fazenda Diamantina Airport",3.172567,-61.421586,338,"SA","BR","BR-RR","Alto Alegre","no",,,"SNL2","RR0159",,,
 595993,"SNL3","small_airport","Fazenda Riozinho Airport",-18.267161,-56.487952,390,"SA","BR","BR-MS","Corumbá","yes",,,"SNL3","MS0714",,,
 595989,"SNL4","small_airport","Fazenda Campo Belo Airport",-18.018364,-57.186492,344,"SA","BR","BR-MS","Corumbá","no",,,"SNL4","MS0752",,,
@@ -78753,7 +78753,7 @@
 26455,"VAPO","medium_airport","Pune Airport / Lohagaon Air Force Station",18.5821,73.919701,1942,"AS","IN","IN-MM","Pune","yes","VAPO","PNQ","VAPO",,,"https://en.wikipedia.org/wiki/Pune_Airport","Lohegaon Airport, Lohegaon Air Force Station"
 26456,"VAPR","medium_airport","Porbandar Airport",21.649524,69.656405,23,"AS","IN","IN-GJ","Porbandar","yes","VAPR","PBD","VAPR",,"http://www.airportsindia.org.in/allAirports/porbander.jsp","https://en.wikipedia.org/wiki/Porbandar_Airport",
 26457,"VARG","medium_airport","Ratnagiri Airport",17.013599,73.327797,305,"AS","IN","IN-MM",,"no","VARG","RTC","VARG",,,"https://en.wikipedia.org/wiki/Ratnagiri_Airport",
-26458,"VARK","medium_airport","Rajkot Airport",22.3092002869,70.77950286869999,441,"AS","IN","IN-GJ","Rajkot","yes","VARK","RAJ","VARK",,"http://www.airportsindia.org.in/allAirports/rajkot.jsp","https://en.wikipedia.org/wiki/Rajkot_Airport",
+26458,"VARK","medium_airport","Rajkot Airport",22.3092,70.779503,441,"AS","IN","IN-GJ","Rajkot","no","VARK","RAJ","VARK",,,"https://en.wikipedia.org/wiki/Rajkot_Airport",
 26459,"VARP","medium_airport","Swami Vivekananda Airport",21.180401,81.7388,1041,"AS","IN","IN-CT","Raipur","yes",,"RPR","VERP",,"http://aai.aero/allAirports/raipur_generalinfo.jsp","https://en.wikipedia.org/wiki/Swami_Vivekananda_Airport","VARP, Mana Airport, Raipur Airport"
 327452,"VASD","medium_airport","Shirdi Airport",19.688752,74.377354,1926,"AS","IN","IN-MM","Kakadi","yes","VASD","SAG","VASD",,,"https://en.wikipedia.org/wiki/Shirdi_Airport","Ahmednagar, Saibaba"
 26460,"VASL","medium_airport","Solapur Airport",17.6280002594,75.93479919430001,1584,"AS","IN","IN-MM","Solapur","no","VASL","SSE","VASL",,,"https://en.wikipedia.org/wiki/Solapur_Airport","Sholapur"
