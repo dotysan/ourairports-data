@@ -8932,7 +8932,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26455,VAPO,medium_airport,Pune Airport / Lohagaon Air Force Station,18.5821,73.919701,1942,AS,IN,IN-MM,Pune,yes,VAPO,PNQ,VAPO,,,https://en.wikipedia.org/wiki/Pune_Airport,"Lohegaon Airport, Lohegaon Air Force Station"
 26456,VAPR,medium_airport,Porbandar Airport,21.649524,69.656405,23,AS,IN,IN-GJ,Porbandar,yes,VAPR,PBD,VAPR,,http://www.airportsindia.org.in/allAirports/porbander.jsp,https://en.wikipedia.org/wiki/Porbandar_Airport,
 26457,VARG,medium_airport,Ratnagiri Airport,17.013599,73.327797,305,AS,IN,IN-MM,,no,VARG,RTC,VARG,,,https://en.wikipedia.org/wiki/Ratnagiri_Airport,
-26458,VARK,medium_airport,Rajkot Airport,22.3092002869,70.77950286869999,441,AS,IN,IN-GJ,Rajkot,yes,VARK,RAJ,VARK,,http://www.airportsindia.org.in/allAirports/rajkot.jsp,https://en.wikipedia.org/wiki/Rajkot_Airport,
+26458,VARK,medium_airport,Rajkot Airport,22.3092,70.779503,441,AS,IN,IN-GJ,Rajkot,no,VARK,RAJ,VARK,,,https://en.wikipedia.org/wiki/Rajkot_Airport,
 26459,VARP,medium_airport,Swami Vivekananda Airport,21.180401,81.7388,1041,AS,IN,IN-CT,Raipur,yes,,RPR,VERP,,http://aai.aero/allAirports/raipur_generalinfo.jsp,https://en.wikipedia.org/wiki/Swami_Vivekananda_Airport,"VARP, Mana Airport, Raipur Airport"
 327452,VASD,medium_airport,Shirdi Airport,19.688752,74.377354,1926,AS,IN,IN-MM,Kakadi,yes,VASD,SAG,VASD,,,https://en.wikipedia.org/wiki/Shirdi_Airport,"Ahmednagar, Saibaba"
 26460,VASL,medium_airport,Solapur Airport,17.6280002594,75.93479919430001,1584,AS,IN,IN-MM,Solapur,no,VASL,SSE,VASL,,,https://en.wikipedia.org/wiki/Solapur_Airport,Sholapur
