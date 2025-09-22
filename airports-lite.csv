@@ -5183,7 +5183,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 313892,LEO,small_airport,Lekoni Airport,-1.5724,14.2878,2036,AF,GA,GA-2,Lekoni,no,,LEO,,,,,Léconi
 4035,LEPA,large_airport,Palma de Mallorca Airport,39.551701,2.73881,27,EU,ES,ES-IB,Palma de Mallorca,yes,LEPA,PMI,LEPA,,https://www.aena.es/en/palma-de-mallorca.html,https://en.wikipedia.org/wiki/Son_Sant_Joan_Airport,"Son Sant Joan Airport, LESJ"
 4025,LEPP,medium_airport,Pamplona Airport,42.77,-1.64633,1504,EU,ES,ES-NC,Pamplona,yes,LEPP,PNA,LEPP,,https://www.aena.es/en/pamplona.html,https://en.wikipedia.org/wiki/Pamplona_Airport,
-46583,LERL,medium_airport,Ciudad Real International Airport,38.856479,-3.969944,2120,AF,ES,ES-CM,Ciudad Real,no,LERL,CQM,LERL,,http://www.aeropuertocentralcr.com/,https://en.wikipedia.org/wiki/Ciudad_Real_International_Airport,Ciudad Real Central Airport
+46583,LERL,medium_airport,Ciudad Real International Airport,38.856479,-3.969944,2120,EU,ES,ES-CM,Ciudad Real,no,LERL,CQM,LERL,,http://www.aeropuertocentralcr.com/,https://en.wikipedia.org/wiki/Ciudad_Real_International_Airport,Ciudad Real Central Airport
 309917,LERP,small_airport,Aeródromo de Herrera de Pisuerga,42.5923,-4.2902,2958,EU,ES,ES-CL,Herrera de Pisuerga,no,LERP,,LERP,,http://www.aeroperfils.com/escuela.html,,
 4031,LERS,medium_airport,Reus Airport,41.1474,1.16717,233,EU,ES,ES-CT,Reus,yes,LERS,REU,LERS,,https://www.aena.es/en/reus.html,https://en.wikipedia.org/wiki/Reus_Airport,
 4032,LERT,medium_airport,Rota Naval Station Airport,36.645198822,-6.34946012497,86,EU,ES,ES-AN,Rota,no,LERT,ROZ,LERT,,,https://en.wikipedia.org/wiki/Naval_Station_Rota_Spain,
@@ -8147,7 +8147,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 350,SNMA,small_airport,Monte Alegre Airport,-1.9958,-54.0742,325,SA,BR,BR-PA,Monte Alegre,no,SNMA,MTE,SNMA,SNMA,,https://en.wikipedia.org/wiki/Monte_Alegre_Airport,
 353,SNMU,small_airport,Mucuri Airport,-18.048901,-39.864321,276,SA,BR,BR-BA,Mucuri,no,SNMU,MVS,SNMU,BA0142,,https://en.wikipedia.org/wiki/Mucuri_Airport,
 354,SNMX,small_airport,São Mateus - Ernesto Bonomo Airport,-18.7213,-39.833698,98,SA,BR,BR-ES,São Mateus,no,SNMX,SBJ,SNMX,ES0003,,https://pt.wikipedia.org/wiki/Aeroporto_Ernesto_Bonomo,
-355,SNMZ,small_airport,Porto de Moz Airport,-1.74145,-52.236099,53,SA,BR,BR-PA,Porto De Moz,no,SNMZ,PTQ,SNMZ,SNMZ,,https://en.wikipedia.org/wiki/Porto_de_Moz_Airport,
+355,SNMZ,small_airport,Porto de Moz Airport,-1.741307,-52.236026,52,SA,BR,BR-PA,Porto de Moz,no,SNMZ,PTQ,SNMZ,PA0020,,https://en.wikipedia.org/wiki/Porto_de_Moz_Airport,
 359,SNNU,small_airport,Nanuque Airport,-17.823158,-40.329662,656,SA,BR,BR-MG,Nanuque,no,SNNU,NNU,SNNU,MG0041,,https://pt.wikipedia.org/wiki/Aeroporto_de_Nanuque,
 363,SNOS,small_airport,Municipal José Figueiredo Airport,-20.732200622558594,-46.661800384521484,2697,SA,BR,BR-MG,Passos,no,SNOS,PSW,SNOS,SNOS,,,
 37208,SNOU,small_airport,Feijó Airport,-8.141213,-70.340821,551,SA,BR,BR-AC,Feijó,no,SNOU,FEJ,SNOU,AC0003,,https://en.wikipedia.org/wiki/Feij%C3%B3_Airport,Novo Aeródromo de Feijó
