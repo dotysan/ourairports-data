@@ -191,7 +191,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32486,AU-TWP,small_airport,Torwood Airport,-17.363300323486328,143.75,,OC,AU,AU-QLD,Torwood,no,,TWP,,,,,
 32752,AU-ZVG,small_airport,Springvale Airport,-17.7869,127.669998,,OC,AU,AU-WA,Springvale,no,,ZVG,,,,https://en.wikipedia.org/wiki/Springvale_Airport_(Western_Australia),
 313134,AWR,small_airport,Awar Airport (unusable),-4.122278,144.853292,35,OC,PG,PG-MPM,Awar,no,,AWR,,,,,
-314558,AXF,medium_airport,Alxa Left Banner Bayanhot Airport,38.74831,105.58858,4560,AS,CN,CN-15,Bayanhot,yes,ZBAL,AXF,ZBAL,,,https://en.wikipedia.org/wiki/Alxa_Left_Banner_Bayanhot_Airport,
+314558,AXF,medium_airport,Alxa Left Banner Bayanhot Airport,38.748317,105.58416,4560,AS,CN,CN-15,Bayanhot,yes,ZBAL,AXF,ZBAL,,,https://en.wikipedia.org/wiki/Alxa_Left_Banner_Bayanhot_Airport,
 352222,AXO,small_airport,Pantar Kabir Airport,-8.244832,124.219108,18,AS,ID,ID-NT,Kabir,no,,AXO,WATP,,,,Alor
 301676,AYAA,small_airport,Ama Airport,-4.10111111111,141.67,145,OC,PG,PG-ESW,,no,AYAA,AMF,AYAA,AMA,,,
 301736,AYAE,small_airport,Mount Aue Airport,-6.229978,144.664181,4250,OC,PG,PG-JWK,Aue,no,AYAE,UAE,AYAE,AUE,,,
@@ -752,6 +752,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 324348,CN-0073,small_airport,Shangluo Airport,33.708533,110.249284,,AS,CN,CN-61,Shangluo (Danfeng),no,,DFA,,,,,
 44157,CN-0079,medium_airport,Shaoguan Danxia Airport,24.9786,113.420998,280,AS,CN,CN-44,Shaoguan,yes,ZGSG,HSC,ZGSG,,,https://en.wikipedia.org/wiki/Shaoguan_Danxia_Airport,"Shaoguan Air Base, Shaoguan Guitou Airport"
 44159,CN-0081,medium_airport,Jinggangshan Airport,26.856899,114.737,281,AS,CN,CN-36,Ji'an,yes,ZSGS,JGS,ZSGS,,,https://en.wikipedia.org/wiki/Ji%27an_Jinggangshan_Airport,"Tiahe Air Base, Ji'an Airport"
+44232,CN-0154,medium_airport,Jiaxing Airport / Jiaxing Air Base,30.705535,120.679779,17,AS,CN,CN-33,"Xiuzhou, Hangzhou",no,ZSJX,JNH,ZSJX,,,https://en.wikipedia.org/wiki/Jiaxing_Airport,
 342426,CN-0157,small_airport,Morin Dawa Banner Airport,48.38745,124.43127,722,AS,CN,CN-15,Hulunbuir,no,,DWS,,,,,
 348149,CN-0177,small_airport,Shijiazhuang Luancheng Airport,37.91305,114.59166,197,AS,CN,CN-13,Shijiazhuang,no,,LCT,,,,https://en.wikipedia.org/wiki/Shijiazhuang_Luancheng_Airport,
 348150,CN-0178,medium_airport,Wuhan Hannan Municipal Airport,30.25521,114.062805,85,AS,CN,CN-42,Wuhan (Hannan),no,,WHN,,,,https://en.wikipedia.org/wiki/Hannan_Municipal_Airport,
@@ -766,15 +767,15 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 350965,CN-0268,small_airport,Zhaodong Beidahuang General Airport,46.12779,125.77354,469,AS,CN,CN-23,Suihua,no,,HLJ,,,,,
 352226,CN-0300,small_airport,Taiyuan Yaocheng Airport,37.50312,112.424126,,AS,CN,CN-14,Taiyuan,no,,TYC,,,,,
 354507,CN-0329,small_airport,Orku Baikouquan Airport (under construction),46.018127,85.655293,,AS,CN,CN-65,Urhu,no,,WRH,,,,,
-354722,CN-0347,small_airport,Ganzhou Ruijin Airport,25.960236,116.077016,750,AS,CN,CN-36,Ganzhou,no,,JRJ,,,,https://en.wikipedia.org/wiki/Ganzhou_Ruijin_Airport,
-355511,CN-0354,medium_airport,Ali Pulan Airport,30.3975,81.138611,13943,AS,CN,CN-54,Burang Town,no,ZUPL,APJ,ZUPL,,,https://en.wikipedia.org/wiki/Ali_Pulan_Airport,
+354722,CN-0347,small_airport,Ganzhou Ruijin Airport,25.960236,116.077016,750,AS,CN,CN-36,Ganzhou,no,ZSRJ,JRJ,ZSRJ,,,https://en.wikipedia.org/wiki/Ganzhou_Ruijin_Airport,
+355511,CN-0354,medium_airport,Ali Pulan Airport,30.397898,81.13317,13943,AS,CN,CN-54,Burang Town,no,ZUPL,APJ,ZUPL,,,https://en.wikipedia.org/wiki/Ali_Pulan_Airport,
 355952,CN-0359,small_airport,Zhaosu Tianma Airport,43.088477,81.223013,,AS,CN,CN-65,Zhaosu,yes,ZWZS,ZFL,ZWZS,,,https://en.wikipedia.org/wiki/Zhaosu_Tianma_Airport,
 355962,CN-0361,small_airport,Dengkou General Aviation Airport,40.302832,107.010698,3458,AS,CN,CN-15,Bayannur,no,ZBMV,,ZBMV,,,,
 355963,CN-0362,small_airport,Yinchuan Yueyahu Airport,38.588095,106.539788,3727,AS,CN,CN-64,Yinchuan,no,,YEH,,,,,
 430023,CN-0384,small_airport,Longchuan Guangsong Airport,24.26652,97.9048,3297,AS,CN,CN-53,Dehong (Longchuan),no,,LCS,,,,,
 430024,CN-0385,small_airport,Lanping Fenghua General Airport,26.64518,99.54419,8276,AS,CN,CN-53,Lanping Bai,no,,LFH,,,,,Feng Hua
 524237,CN-0412,seaplane_base,Zhongshan Ferry Port,22.519296,113.361307,,AS,CN,CN-44,Zhongshan,no,,ZGN,,,,,
-525151,CN-0413,small_airport,Bozhou Airport (under construction),33.560777,115.911859,,AS,CN,CN-34,Bozhou,no,,BZJ,,,,,
+525151,CN-0413,small_airport,Bozhou Airport (under construction),33.560777,115.911859,,AS,CN,CN-34,Bozhou,no,ZSBO,BZJ,ZSBO,,,https://en.wikipedia.org/wiki/Bozhou_Airport,
 525152,CN-0414,small_airport,Bailing Airport,41.656944,110.3125,4645,AS,CN,CN-15,Bailingmiao,no,,BKV,,,,,
 525153,CN-0415,small_airport,Hejing Bayinbuluke Airport,42.976395,83.995543,8219,AS,CN,CN-65,Hejing,yes,ZWHJ,HJB,ZWHJ,,,https://en.wikipedia.org/wiki/Hejing_Bayinbuluke_Airport,
 525160,CN-0416,small_airport,Otog Front Banner Oljoq Airport,38.1712,107.3905,,AS,CN,CN-15,Otog Front Banner,no,,OTQ,,,,,
@@ -782,7 +783,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 525774,CN-0422,small_airport,Lishui Airport,28.3727,119.839,,AS,CN,CN-33,Lishui (Liandu),no,ZSLI,LIJ,ZSLI,,,https://en.wikipedia.org/wiki/Lishui_Airport,ZSLR
 525775,CN-0423,small_airport,Nanchang Yaohu Airport,28.700972,116.107694,,AS,CN,CN-36,Nanchang,no,,YHJ,ZSYH,,,https://en.wikipedia.org/wiki/Nanchang_Yaohu_Airport,
 548188,CN-0427,small_airport,Otog Banner Wulan Airport,39.03139,107.98889,4423,AS,CN,CN-15,Wulan,no,,OTO,,,,,
-598595,CN-0476,medium_airport,Bengbu Tenghu Airport (U.C.),33.165808,117.057295,72,AS,CN,CN-34,Bengbu,no,,BFY,,,,https://en.wikipedia.org/wiki/Bengbu_Tenghu_Airport,蚌埠腾湖机场
+598595,CN-0476,medium_airport,Bengbu Tenghu Airport (U.C.),33.165808,117.057295,72,AS,CN,CN-34,Bengbu,no,ZSBA,BFY,ZSBA,,,https://en.wikipedia.org/wiki/Bengbu_Tenghu_Airport,蚌埠腾湖机场
 1299,CNE3,small_airport,Bearskin Lake Airport,53.965599060058594,-91.0271987915039,800,NA,CA,CA-ON,Bearskin Lake,yes,,XBE,CNE3,CNE3,,https://en.wikipedia.org/wiki/Bearskin_Lake_Airport,NE3
 1308,CNH2,small_airport,Natuashish Airport,55.913898,-61.184399,30,NA,CA,CA-NL,Natuashish,yes,,YNP,CNH2,CNH2,,https://en.wikipedia.org/wiki/Natuashish_Airport,NH2
 28467,CNJ8,seaplane_base,White River Seaplane Base,48.6269,-85.223297,1380,NA,CA,CA-ON,White River,no,,YWR,CNJ8,CNJ8,,https://en.wikipedia.org/wiki/White_River_Water_Aerodrome,
@@ -8149,7 +8150,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 354,SNMX,small_airport,São Mateus - Ernesto Bonomo Airport,-18.7213,-39.833698,98,SA,BR,BR-ES,São Mateus,no,SNMX,SBJ,SNMX,ES0003,,https://pt.wikipedia.org/wiki/Aeroporto_Ernesto_Bonomo,
 355,SNMZ,small_airport,Porto de Moz Airport,-1.741307,-52.236026,52,SA,BR,BR-PA,Porto de Moz,no,SNMZ,PTQ,SNMZ,PA0020,,https://en.wikipedia.org/wiki/Porto_de_Moz_Airport,
 359,SNNU,small_airport,Nanuque Airport,-17.823158,-40.329662,656,SA,BR,BR-MG,Nanuque,no,SNNU,NNU,SNNU,MG0041,,https://pt.wikipedia.org/wiki/Aeroporto_de_Nanuque,
-363,SNOS,small_airport,Municipal José Figueiredo Airport,-20.732200622558594,-46.661800384521484,2697,SA,BR,BR-MG,Passos,no,SNOS,PSW,SNOS,SNOS,,,
+363,SNOS,small_airport,José Figueiredo Municipal Airport,-20.731838,-46.662011,2697,SA,BR,BR-MG,Passos,no,,PSW,SNOS,MG0024,,,
 37208,SNOU,small_airport,Feijó Airport,-8.141213,-70.340821,551,SA,BR,BR-AC,Feijó,no,SNOU,FEJ,SNOU,AC0003,,https://en.wikipedia.org/wiki/Feij%C3%B3_Airport,Novo Aeródromo de Feijó
 364,SNOX,small_airport,Oriximiná Airport,-1.71408,-55.836201,262,SA,BR,BR-PA,Oriximiná,no,SNOX,ORX,SNOX,SNOX,,https://en.wikipedia.org/wiki/Oriximin%C3%A1_Airport,
 368,SNPC,small_airport,Picos Airport,-7.061385,-41.525871,1099,SA,BR,BR-PI,Picos,no,SNPC,PCS,SNPC,PI0009,,https://en.wikipedia.org/wiki/Picos_Airport,
@@ -10487,6 +10488,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 27228,ZUCK,large_airport,Chongqing Jiangbei International Airport,29.712254,106.651895,1365,AS,CN,CN-50,Chongqing,yes,ZUCK,CKG,ZUCK,,,https://en.wikipedia.org/wiki/Chongqing_Jiangbei_International_Airport,
 352223,ZUDA,medium_airport,Dazhou Jinya Airport,31.048815,107.435646,1342,AS,CN,CN-51,Dazhou (Dachuan),yes,ZUDA,DZH,ZUDA,,,https://en.wikipedia.org/wiki/Dazhou_Jinya_Airport,
 327348,ZUDC,medium_airport,Daocheng Yading Airport,29.31632,100.060317,14472,AS,CN,CN-51,Garzê (Daocheng),yes,ZUDC,DCY,ZUDC,,,https://en.wikipedia.org/wiki/Daocheng_Yading_Airport,
+600647,ZUDJ,medium_airport,Tongren Dejiang Airport (Under Construction),28.121,108.1631,3542,AS,CN,CN-52,Tongren,no,ZUDJ,DEJ,ZUDJ,,,https://en.wikipedia.org/wiki/Tongren_Dejiang_Airport,
 35307,ZUDX,small_airport,Dachuan Airport,31.1302,107.4295,,AS,CN,CN-51,Dazhou (Daxian),yes,ZUDX,DAX,ZUDX,,,https://en.wikipedia.org/wiki/Daxian_Airport,Daxian
 44110,ZUDZ,small_airport,Dazu Air Base,29.636227,105.773621,1220,AS,CN,CN-50,Dazu,no,ZUDZ,DZU,ZUDZ,,,,
 308739,ZUGH,small_airport,Guanghan Airport,30.9485,104.3296,1531,AS,CN,CN-51,Deyang (Guanghan),no,ZUGH,GHN,ZUGH,,,https://en.wikipedia.org/wiki/Guanghan_Airport,Civil Aviation Flight University of China
@@ -10569,11 +10571,13 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 301193,ZYMH,medium_airport,Mohe Gulian Airport,52.916871,122.422759,1836,AS,CN,CN-23,Mohe,yes,ZYMH,OHE,ZYMH,,,https://en.wikipedia.org/wiki/Mohe_Gulian_Airport,
 27241,ZYQQ,medium_airport,Qiqihar Sanjiazi Airport,47.239601135253906,123.91799926757812,477,AS,CN,CN-23,Qiqihar,yes,ZYQQ,NDG,ZYQQ,,,https://en.wikipedia.org/wiki/Qiqihar_Airport,
 525154,ZYSD,small_airport,Suifenhe Dongning Airport,44.453889,130.843889,1407,AS,CN,CN-23,Suifenhe,no,ZYSD,HSF,ZYSD,,,https://en.wikipedia.org/wiki/Suifenhe_Dongning_Airport,
-327451,ZYSQ,medium_airport,Songyuan Chaganhu Airport,44.938114,124.550178,459,AS,CN,CN-22,Qian Gorlos Mongol Autonomous County,yes,ZYSQ,YSQ,ZYSQ,,,https://en.wikipedia.org/wiki/Songyuan_Chaganhu_Airport,
+327451,ZYSQ,medium_airport,Songyuan Chaganhu Airport,44.931143,124.552121,459,AS,CN,CN-22,Qian Gorlos Mongol Autonomous County,yes,ZYSQ,YSQ,ZYSQ,,,https://en.wikipedia.org/wiki/Songyuan_Chaganhu_Airport,
 27242,ZYTL,large_airport,Dalian Zhoushuizi International Airport,38.965719,121.538477,107,AS,CN,CN-21,Dalian (Ganjingzi),yes,ZYTL,DLC,ZYTL,,,https://en.wikipedia.org/wiki/Dalian_Zhoushuizi_International_Airport,Dalian Air Base
 307013,ZYTN,medium_airport,Tonghua Sanyuanpu Airport,42.048435,125.733963,1347,AS,CN,CN-22,Tonghua,yes,ZYTN,TNH,ZYTN,,,https://en.wikipedia.org/wiki/Tonghua_Sanyuanpu_Airport,Tonghua Liuhe Airport
 27243,ZYTX,large_airport,Shenyang Taoxian International Airport,41.639801,123.483002,198,AS,CN,CN-21,"Hunnan, Shenyang",yes,ZYTX,SHE,ZYTX,,,https://en.wikipedia.org/wiki/Shenyang_Taoxian_International_Airport,
 44182,ZYXC,medium_airport,Xingcheng Air Base,40.580328,120.700374,30,AS,CN,CN-21,Huludao (Xingcheng),no,ZYXC,XEN,ZYXC,,,,
+600625,ZYYC,small_airport,Yichun Airport,47.717936,128.830519,798,AS,CN,CN-23,Yichun,no,ZYYC,,ZYYC,,,,LDS
 27244,ZYYJ,medium_airport,Yanji Chaoyangchuan Airport,42.8828010559,129.451004028,624,AS,CN,CN-22,Yanji,yes,ZYYJ,YNJ,ZYYJ,,,https://en.wikipedia.org/wiki/Yanji_Chaoyangchuan_Airport,
 317861,ZYYK,medium_airport,Yingkou Lanqi Airport,40.542524,122.3586,,AS,CN,CN-21,Yingkou (Laobian),yes,ZYYK,YKH,ZYYK,,,https://en.wikipedia.org/wiki/Yingkou_Lanqi_Airport,
+32753,ZYYY,medium_airport,Shenyang Dongta Airport,41.784354,123.496308,157,AS,CN,CN-21,"Dadong, Shenyang",no,ZYYY,,ZYYY,,,,"东塔机场, SHE"
 599952,ZZ-0004,heliport,(Bogus)Jezero Crater(Location is India not Planet Mars),18.44,77.45,8530,AF,ZZ,ZZ-U-A,,no,JZRO,,,,,,
