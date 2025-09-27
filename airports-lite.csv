@@ -766,7 +766,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 350949,CN-0253,small_airport,Jiande Qiandaohu General Airport,29.360905,119.180829,249,AS,CN,CN-33,Hangzhou,no,,JDE,,,,,
 350965,CN-0268,small_airport,Zhaodong Beidahuang General Airport,46.12779,125.77354,469,AS,CN,CN-23,Suihua,no,,HLJ,,,,,
 352226,CN-0300,small_airport,Taiyuan Yaocheng Airport,37.50312,112.424126,,AS,CN,CN-14,Taiyuan,no,,TYC,,,,,
-354507,CN-0329,small_airport,Orku Baikouquan Airport (under construction),46.018127,85.655293,,AS,CN,CN-65,Urhu,no,,WRH,,,,,
+354507,CN-0329,small_airport,Wuerhe Airport,46.01761,85.657436,1134,AS,CN,CN-65,Orku,no,,WRH,,,,,"Orku Baikouquan, Urhu, Karamay"
 354722,CN-0347,small_airport,Ganzhou Ruijin Airport,25.960236,116.077016,750,AS,CN,CN-36,Ganzhou,no,ZSRJ,JRJ,ZSRJ,,,https://en.wikipedia.org/wiki/Ganzhou_Ruijin_Airport,
 355511,CN-0354,medium_airport,Ali Pulan Airport,30.397898,81.13317,13943,AS,CN,CN-54,Burang Town,no,ZUPL,APJ,ZUPL,,,https://en.wikipedia.org/wiki/Ali_Pulan_Airport,
 355952,CN-0359,small_airport,Zhaosu Tianma Airport,43.088477,81.223013,,AS,CN,CN-65,Zhaosu,yes,ZWZS,ZFL,ZWZS,,,https://en.wikipedia.org/wiki/Zhaosu_Tianma_Airport,
@@ -3146,7 +3146,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 3175,HEAL,medium_airport,El Alamein International Airport,30.924324,28.46161,154,AF,EG,EG-MT,El Alamein,yes,HEAL,DBB,HEAL,,,https://en.wikipedia.org/wiki/El_Alamein_International_Airport,"Al Alamain, Al Alamayn, العلمين‎"
 3176,HEAR,medium_airport,El Arish International Airport,31.078565,33.836791,118,AS,EG,EG-SIN,El Arish,yes,HEAR,AAC,HEAR,,,https://en.wikipedia.org/wiki/El_Arish_International_Airport,
 3177,HEAT,medium_airport,Asyut International Airport,27.050818,31.016309,748,AF,EG,EG-AST,Asyut,yes,HEAT,ATZ,HEAT,,,https://en.wikipedia.org/wiki/Assiut_Airport,Asyut
-3180,HEBA,medium_airport,Borj El Arab International Airport,30.93249,29.696437,171,AF,EG,EG-ALX,Alexandria,yes,HEBA,HBE,HEBA,,,https://en.wikipedia.org/wiki/Borg_El_Arab_Airport,
+3180,HEBA,large_airport,Alexandria International Airport,30.93249,29.696437,171,AF,EG,EG-ALX,Alexandria,yes,HEAX,HBE,HEBA,,,https://en.wikipedia.org/wiki/Borg_El_Arab_Airport,
 3181,HEBL,medium_airport,Abu Simbel Airport,22.367657,31.609962,614,AF,EG,EG-ASN,Abu Simbel,yes,HEBL,ABS,HEBL,,,https://en.wikipedia.org/wiki/Abu_Simbel_Airport,
 3183,HECA,large_airport,Cairo International Airport,30.111534,31.396694,322,AF,EG,EG-C,Cairo,yes,HECA,CAI,HECA,,,https://en.wikipedia.org/wiki/Cairo_International_Airport,
 2356,HECP,medium_airport,Capital International Airport,30.074293,31.84296,761,AF,EG,EG-C,New Cairo,no,,CCE,HECP,,http://www.avit.com.eg/index.php/projects/item/138-katameya-airport,https://en.wikipedia.org/wiki/Capital_International_Airport_(Egypt),HECP
@@ -7708,6 +7708,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6008,SCCH,medium_airport,Gral. Bernardo O´Higgins Airport,-36.5825,-72.031403,495,SA,CL,CL-NB,Chillan,no,SCCH,YAI,SCCH,,,https://en.wikipedia.org/wiki/General_Bernardo_O'Higgins_Airport,
 6009,SCCI,medium_airport,President Carlos Ibañez del Campo International Airport,-53.002602,-70.854599,139,SA,CL,CL-MA,Punta Arenas,yes,SCCI,PUQ,SCCI,,,https://en.wikipedia.org/wiki/Carlos_Ibanez_Del_Campo_International_Airport,
 45057,SCCQ,small_airport,Tambillos Airport,-30.198889,-71.246944,656,SA,CL,CL-CO,Coquimbo,no,,COW,SCCQ,,,,
+29812,SCCV,small_airport,Curacaví Airport,-33.4128,-71.165604,666,SA,CL,CL-RM,Curacaví,no,SCCV,,SCCV,,,https://en.wikipedia.org/wiki/Curacav%C3%AD_Airport,"Curacaví, Aeródromo de Curacaví"
 6011,SCCY,medium_airport,Teniente Vidal Airport,-45.5942,-72.106102,1020,SA,CL,CL-AI,Coyhaique,no,SCCY,GXQ,SCCY,,,https://en.wikipedia.org/wiki/Teniente_Vidal_Airfield,
 6012,SCDA,medium_airport,Diego Aracena Airport,-20.5352,-70.181297,155,SA,CL,CL-TA,Iquique,yes,SCDA,IQQ,SCDA,,http://www.aeropuertodiegoaracena.cl/EN/Default.aspx#,https://en.wikipedia.org/wiki/Diego_Aracena_International_Airport,
 6015,SCEL,large_airport,Comodoro Arturo Merino Benítez International Airport,-33.393001556396484,-70.78579711914062,1555,SA,CL,CL-RM,Santiago,yes,SCEL,SCL,SCEL,,http://www.aeropuertosantiago.cl/ingles/index.php,https://en.wikipedia.org/wiki/Comodoro_Arturo_Merino_Ben%C3%ADtez_International_Airport,
@@ -8421,7 +8422,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31882,SWXM,small_airport,Orlando Villas Boas Regional Airport,-10.170368,-54.953964,886,SA,BR,BR-MT,Matupá,no,SWXM,MBK,SWXM,MT0014,,https://en.wikipedia.org/wiki/Matup%C3%A1_Airport,Matupá Airport
 32042,SWXV,small_airport,Xavantina Airport,-14.697778,-52.347246,1037,SA,BR,BR-MT,Nova Xavantina,no,SWXV,NOK,SWXV,MT0013,,https://pt.wikipedia.org/wiki/Aeroporto_de_Nova_Xavantina,SWXN
 602,SWYN,small_airport,Apuí Airport,-7.172773,-59.8396,197,SA,BR,BR-AM,Apuí,no,,IUP,SWYN,AM0023,,https://en.wikipedia.org/wiki/Apu%C3%AD_Airport,
-342109,SWZ,heliport,Western Sydney International (Nancy Bird Walton) Airport,-33.879444,150.739722,228,OC,AU,AU-NSW,Sydney (Badgerys Creek),no,,SWZ,,,,https://en.wikipedia.org/wiki/Western_Sydney_Airport,
 38187,SWZL,small_airport,Fazenda Americana Airport,-18.147591,-41.715044,1106,SA,BR,BR-MG,Itambacuri,no,,ITI,SWEU,MG0197,,,SWZL
 24678,SXP,small_airport,Nunam Iqua Airport,62.520599,-164.848006,12,NA,US,US-AK,Nunam Iqua,yes,,SXP,,SXP,,https://en.wikipedia.org/wiki/Sheldon_Point_Airport,Sheldon Point Airport
 346990,SYAG,small_airport,Anna Regina Airport,7.256583,-58.545671,53,SA,GY,GY-PM,Anna Regina,no,SYAG,,SYAG,,,,
@@ -9417,7 +9417,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 525159,WAMP,small_airport,Indonesia Morowali Industrial Park (IMIP) Airport,-2.799322,122.141385,24,AS,ID,ID-ST,Morowali,no,WAMP,MWS,WAMP,,,,
 525279,WAMS,small_airport,Miangas Airport,5.560419,126.580095,9,AS,ID,ID-SA,Miangas,no,WAMS,IAX,WAMS,,,https://en.wikipedia.org/wiki/Miangas_Airport,
 41405,WAMY,small_airport,Buol - Pogogul Airport,1.102318,121.413358,49,AS,ID,ID-ST,Buol-Celebes Island,yes,WAFY,UOL,WAFY,,,https://en.wikipedia.org/wiki/Pogogul_Airport,"WAMY, Pangtiku Airport"
-316465,WAN,small_airport,Waverney Airport,-25.3563,141.9254,570,OC,AU,AU-QLD,Waverney,no,,WAN,,,,,
 26775,WAOC,small_airport,Bersujud Airport,-3.41241,115.995003,3,AS,ID,ID-KS,Batu Licin,yes,WAOC,BTW,WAOC,,,http://id.wikipedia.org/wiki/Bandar_Udara_Bersujud,"WRBC, Batulicin"
 26777,WAOI,small_airport,Iskandar Airport,-2.7052,111.672997,75,AS,ID,ID-KT,Pangkalanbun,yes,WAGI,PKN,WAGI,,,https://en.wikipedia.org/wiki/Iskandar_Airport,WRBI
 31730,WAOK,small_airport,Gusti Syamsir Alam Airport,-3.294796,116.163815,4,AS,ID,ID-KS,Stagen,yes,WAOK,KBU,WAOK,,,https://en.wikipedia.org/wiki/Gusti_Syamsir_Alam_Airport,"WRBK, Stagen Airport"
