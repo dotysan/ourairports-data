@@ -5408,6 +5408,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 43036,LHKD,small_airport,Kecskéd Airfield,47.517121,18.325024,570,EU,HU,HU-KE,Kecskéd,no,LHKD,,LHKD,,,https://hu.wikipedia.org/wiki/Kecsk%C3%A9di_rep%C3%BCl%C5%91t%C3%A9r,
 4299,LHKE,medium_airport,Kecskemét Air Base,46.9175,19.749201,376,EU,HU,HU-BK,Kecskemét,no,LHKE,,LHKE,,,https://en.wikipedia.org/wiki/Kecskem%C3%A9t_Air_Base,
 4302,LHPP,medium_airport,Pécs-Pogány Airport,45.988891,18.242044,651,EU,HU,HU-BA,Pécs,yes,LHPP,PEV,LHPP,,http://www.airportpecs.hu/,https://en.wikipedia.org/wiki/P%C3%A9cs-Pog%C3%A1ny_International_Airport,"Pecs South Airport, QPJ"
+4303,LHPR,medium_airport,Győr-Pér International Airport,47.628436,17.804718,424,EU,HU,HU-GS,Pér,yes,LHPR,,LHPR,,http://www.gyor-perairport.hu/index.php?displang=eng,https://en.wikipedia.org/wiki/Gy%C5%91r-P%C3%A9r_International_Airport,QGY
 4305,LHSM,medium_airport,Hévíz–Balaton Airport,46.686391,17.159084,408,EU,HU,HU-ZA,Sármellék,yes,LHSM,SOB,LHSM,,http://www.flybalaton.com/?null&lang=en,https://en.wikipedia.org/wiki/S%C3%A1rmell%C3%A9k_International_Airport,"Sármellék International, FlyBatalon Airport, Batalon Airport, Sármellék Nemzetközi Repülőtér"
 30575,LHZA,small_airport,Zalaegerszeg Andráshida Airfield,46.884701,16.7889,617,EU,HU,HU-ZA,Zalaegerszeg,no,LHZA,,LHZA,,https://lhza.hu,,"Zalaegerszeg, Andráshida"
 309480,LHZK,small_airport,Zalakaros Airfield,46.5539,17.15118,370,EU,HU,HU-ZA,Zalakaros,no,LHZK,,LHZK,,https://lhzk.hu,,
@@ -8115,7 +8116,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 37050,SNCL,small_airport,Lorenzo Airport,-13.389444,-38.91,3,SA,BR,BR-BA,Cairu,no,,MXQ,SNCL,BA0131,,,
 340053,SNCP,medium_airport,Planalto Serrano Regional Airport,-27.634128,-50.358253,2887,SA,BR,BR-SC,Correia Pinto,no,SNCP,EEA,SNCP,,https://infracea.com.br/aeroporto-regional-do-planalto-serrano-correia-pinto/,https://pt.wikipedia.org/wiki/Aeroporto_de_Correia_Pinto,
 294,SNCX,small_airport,Colatina Airport,-19.487476,-40.579362,502,SA,BR,BR-ES,Colatina,no,,QCH,SNCX,ES0004,,https://pt.wikipedia.org/wiki/Aeroporto_de_Colatina,
-296,SNDC,small_airport,Redenção Airport,-8.03329,-49.9799,670,SA,BR,BR-PA,Redenção,no,SNDC,RDC,SNDC,SNDC,,https://en.wikipedia.org/wiki/Reden%C3%A7%C3%A3o_Airport,
+296,SNDC,small_airport,Redenção Airport,-8.031188,-49.979687,679,SA,BR,BR-PA,Redenção,no,SNDC,RDC,SNDC,PA0030,,https://en.wikipedia.org/wiki/Reden%C3%A7%C3%A3o_Airport,
 329040,SNDN,heliport,Cemaden - CIGE Heliport,-12.94398,-38.425784,256,SA,BR,BR-BA,Salvador,no,SNDN,,SNDN,SNDN,,,
 299,SNDT,small_airport,Diamantina Airport,-18.232000351,-43.650398254399995,4446,SA,BR,BR-MG,Diamantina,no,SNDT,DTI,SNDT,,,https://en.wikipedia.org/wiki/Diamantina_Airport,
 300,SNDV,small_airport,Brigadeiro Cabral Airport,-20.180700302124,-44.870899200439,2608,SA,BR,BR-MG,Divinópolis,no,SNDV,DIQ,SNDV,SNDV,,https://pt.wikipedia.org/wiki/Aeroporto_de_Divin%C3%B3polis,
@@ -9230,7 +9231,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26661,VTPP,medium_airport,Phitsanulok Airport,16.7829,100.278999,154,AS,TH,TH-65,Phitsanulok,yes,VTPP,PHS,VTPP,,,https://en.wikipedia.org/wiki/Phitsanulok_Airport,
 32602,VTPR,small_airport,Photharam Airport,13.6686,99.7314,88,AS,TH,TH-70,Photharam,no,VTPR,,VTPR,,,,
 26662,VTPT,medium_airport,Tak Airport,16.896,99.253304,478,AS,TH,TH-63,,no,VTPT,TKT,VTPT,,,https://en.wikipedia.org/wiki/Tak_Airport,
-32560,VTPU,small_airport,Uttaradit Airport,17.617000579833984,100.0999984741211,262,AS,TH,TH-53,Uttaradit,no,VTPU,UTR,VTPU,,,,
 26663,VTPY,small_airport,Khunan Phumipol Airport,17.2342,99.057899,492,AS,TH,TH-63,,no,VTPY,,VTPY,,,,
 26664,VTSA,small_airport,Khoun Khan Airport,6.6614,100.080002,18,AS,TH,TH-91,,no,VTSA,,VTSA,,,,
 26665,VTSB,medium_airport,Surat Thani Airport,9.13259983063,99.135597229,20,AS,TH,TH-84,Surat Thani,yes,VTSB,URT,VTSB,,,https://en.wikipedia.org/wiki/Surat_Thani_Airport,
