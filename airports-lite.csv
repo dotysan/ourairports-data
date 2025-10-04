@@ -8541,6 +8541,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 25216,U41,small_airport,Dubois Municipal Airport,44.162057,-112.220581,5123,NA,US,US-ID,Dubois,no,,DBS,KU41,U41,https://apps.itd.idaho.gov/Apps/info/aero/impact/DuboisMunicipal.pdf,https://en.wikipedia.org/wiki/Dubois_Municipal_Airport_(Idaho),
 44307,UA-0016,small_airport,Yukharina Balka Airfield,44.549003,33.488613,335,EU,UA,UA-40,Sevastopol,no,UKFP,,UKFP,,,,Аэродром Юхарина Балка
 44313,UA-0022,medium_airport,Kacha Air Base,44.779764,33.572245,403,EU,UA,UA-43,Kacha,no,UKKA,,UKKA,,,"https://en.m.wikipedia.org/wiki/Kacha,_Sevastopol#Military_outpost","Аэродром Кача, URFA, XRFA"
+44394,UA-0031,heliport,Oleksandriya Helicopter Base,48.68,33.18,509,EU,UA,UA-35,Oleksandriya,no,UKBA,,UKBA,,,,"УКБА, Aleksandriya Air Base, Alexandriya Air Base, Аэродром Александрия, Аэродром Олександрия, Аэродром Олександрiя"
 45178,UA-0049,small_airport,Myrhorod Air Base,49.932,33.641,400,EU,UA,UA-53,Myrhorod,no,,MXR,UKBM,,,https://en.wikipedia.org/wiki/Myrhorod_Air_Base,"Mirgorod Air Base, Аэродром Миргород"
 45179,UA-0050,small_airport,Kakhnovka Airfield,49.136799,33.477893,266,EU,UA,UA-53,Kremenchuk,no,,KHU,UKHK,,,https://en.wikipedia.org/wiki/Kremenchuk_Airport,"Аэродром Кахновка, Velyka Kokhnivka"
 321214,UA-0107,small_airport,Kam'yanets'-Podil's'kyi Airfield,48.695631,26.609471,700,EU,UA,UA-68,Kamyan'ka,no,,KCP,UKLK,,,,"Mekanik Avia, Механик Авиа, УКЛК"
@@ -9207,7 +9208,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26642,VTBL,medium_airport,Khok Kathiam Airport,14.87462,100.663397,123,AS,TH,TH-16,Lop Buri,no,VTBL,KKM,VTBL,,,https://en.wikipedia.org/wiki/Khok_Kathiam_Air_Force_Base,Kathiam AFB
 26643,VTBO,medium_airport,Trat Airport,12.2746,102.319,105,AS,TH,TH-23,Laem Ngop,yes,VTBO,TDX,VTBO,,,https://en.wikipedia.org/wiki/Trat_Airport,
 26644,VTBP,small_airport,Prachuap Airport,11.7884,99.804703,10,AS,TH,TH-77,Mueang Prachuap Khiri Khan,no,VTBP,,VTBP,,,,
-28118,VTBS,large_airport,Suvarnabhumi Airport,13.681099891662598,100.74700164794922,5,AS,TH,TH-10,Bangkok,yes,VTBS,BKK,VTBS,,,https://en.wikipedia.org/wiki/Suvarnabhumi_Airport,
+28118,VTBS,large_airport,Suvarnabhumi Airport,13.6811,100.747002,5,AS,TH,TH-10,Bangkok,yes,VTBS,BKK,VTBS,,https://suvarnabhumi.airportthai.co.th/,https://en.wikipedia.org/wiki/Suvarnabhumi_Airport,
 32595,VTBT,small_airport,Bang Phra Airport,13.232426,100.956802,90,AS,TH,TH-20,Bang Phra,no,VTBT,,VTBT,,http://www.thaiflyingclub.com/,,
 26645,VTBU,medium_airport,U-Tapao International Airport,12.679900169372559,101.00499725341797,42,AS,TH,TH-21,Rayong,yes,VTBU,UTP,VTBU,,http://www.utapao.com/,https://en.wikipedia.org/wiki/U-Tapao_International_Airport,"Utapao, U-Taphao, U-Tapao Royal Thai Navy Airfield"
 598124,VTBV,small_airport,Koh Takian Airport,12.254042,102.518522,-1,AS,TH,TH-23,Mueang Trat,no,VTBV,,VTBV,,,,
@@ -9367,7 +9368,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41411,WAFJ,small_airport,Tampa Padang Airport,-2.590017,119.025051,49,AS,ID,ID-SR,Mamuju,no,WAFJ,MJU,WAFJ,,,https://en.wikipedia.org/wiki/Tampa_Padang_Airport,"WAAJ, WAWJ"
 41440,WAFL,small_airport,Sultan Bantilan Airport,1.123428,120.793658,17,AS,ID,ID-ST,Toli Toli-Celebes Island,yes,,TLI,WAFL,,,https://en.wikipedia.org/wiki/Sultan_Bantilan_Airport,"WAMI, Toli-Toli, Tolitoli, Lalos Airport"
 26803,WAFM,small_airport,Andi Jemma Airport,-2.558031,120.324342,164,AS,ID,ID-SN,Masamba,no,,MXB,WAFM,,,https://en.wikipedia.org/wiki/Andi_Jemma_Airport,WAWM
-525301,WAFN,small_airport,Seko Airport,-2.271704,119.898334,3510,AS,ID,ID-SN,,no,WAFN,,WAFN,,,https://en.wikipedia.org/wiki/Seko_Airport,
 26771,WAFP,medium_airport,Kasiguncu Airport,-1.414121,120.659241,174,AS,ID,ID-ST,Poso-Celebes Island,no,,PSJ,WAFP,,,https://en.wikipedia.org/wiki/Kasiguncu_Airport,WAMP
 506525,WAFU,small_airport,Tanjung Api Airport,-0.865437,121.628625,49,AS,ID,ID-ST,Tojo Una-Una,yes,WAFU,OJU,WAFU,,,https://en.wikipedia.org/wiki/Tanjung_Api_Airport,Ampana
 26774,WAFW,medium_airport,Syukuran Aminuddin Amir Airport,-1.035893,122.773934,56,AS,ID,ID-ST,Luwok,no,WAFW,LUW,WAFW,,,https://en.wikipedia.org/wiki/Syukuran_Aminuddin_Amir_Airport,"Bubung Airport, WAMW"
@@ -9482,7 +9482,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26756,WAVV,medium_airport,Wamena Airport,-4.097324,138.952417,5435,AS,ID,ID-PP,Wamena,yes,WAVV,WMX,WAVV,,,https://en.wikipedia.org/wiki/Wamena_Airport,WAJW
 26802,WAWB,small_airport,Betoambari Airport,-5.486037,122.569823,164,AS,ID,ID-SG,Bau Bau,no,WAWB,BUW,WAWB,,,https://en.wikipedia.org/wiki/Betoambari_Airport,"WAAB. Baubau, Beto Ambari"
 333072,WAWD,medium_airport,Matahora Airport,-5.293996,123.634,88,AS,ID,ID-SG,Wangi-wangi Island,yes,WAWD,WNI,WAWD,,,https://en.wikipedia.org/wiki/Matahora_Airport,
-311020,WAWH,small_airport,Selayar - Haji Aroeppala Airport,-6.17921,120.437479,13,AS,ID,ID-SN,Benteng,yes,WAWH,KSR,WAWH,,,https://en.wikipedia.org/wiki/H._Aroeppala_Airport,"Haji Aroeppala, Lagaligo Airport"
+311020,WAWH,small_airport,Selayar - Haji Aroeppala Airport,-6.17921,120.437479,13,AS,ID,ID-SN,Benteng,yes,WAWH,KSR,WAWH,,,https://en.wikipedia.org/wiki/H._Aroeppala_Airport,Lagaligo Airport
 523599,WAWN,small_airport,Arung Palakka Airport,-4.459582,120.310436,130,AS,ID,ID-SN,Bone,no,,APD,WAWN,,,https://id.wikipedia.org/wiki/Bandar_Udara_Arung_Palakka,
 505052,WAWP,medium_airport,Sangia Nibandera Airport,-4.338158,121.524047,40,AS,ID,ID-SG,Kolaka,yes,WAWP,KXB,WAWP,,https://www.otban5.com/Kolaka,https://en.wikipedia.org/wiki/Sangia_Nibandera_Airport,"Kolaka, Pomala"
 41396,WAWR,small_airport,Sugimanuru Airport,-4.763298,122.566352,132,AS,ID,ID-SG,Raha,no,WAWR,RAQ,WAWR,,,https://en.wikipedia.org/wiki/Sugimanuru_Airport,"WAAR, Muna"
@@ -9551,7 +9551,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41468,WIGM,small_airport,Muko Muko Airport,-2.541058,101.087651,24,AS,ID,ID-BE,Muko Muko,yes,,MPC,WIGM,,,https://id.wikipedia.org/wiki/Bandar_Udara_Mukomuko,"WIPU, Mukomuko, Muko-Muko"
 26832,WIHH,medium_airport,Halim Perdanakusuma International Airport,-6.266610145568848,106.89099884033203,84,AS,ID,ID-JK,Jakarta,yes,WIHH,HLP,WIHH,,http://www.angkasapura2.co.id/cabang/hlp/content.php?menu=8&page_id=1,https://en.wikipedia.org/wiki/Halim_Perdanakusuma_International_Airport,"WIIH,WIIX,WIID"
 26834,WIHP,small_airport,Pondok Cabe Air Base,-6.3369598388671875,106.76499938964844,200,AS,ID,ID-JK,Jakarta,no,WIHP,PCB,WIHP,,,https://en.wikipedia.org/wiki/Pondok_Cabe_Airport,"WIPC,WIIP"
-26835,WIII,large_airport,Soekarno-Hatta International Airport,-6.1255698204,106.65599823,34,AS,ID,ID-BT,Jakarta,yes,WIII,CGK,WIII,,http://www.jakartasoekarnohattaairport.com/,https://en.wikipedia.org/wiki/Soekarno-Hatta_International_Airport,"JKT, Cengkareng, Java"
+26835,WIII,large_airport,Soekarno-Hatta International Airport,-6.12557,106.655998,34,AS,ID,ID-BT,Jakarta,yes,WIII,CGK,WIII,,http://www.jakartasoekarnohattaairport.com/,https://en.wikipedia.org/wiki/Soekarno-Hatta_International_Airport,"JKT, Cengkareng, Java"
 26827,WILL,medium_airport,Radin Inten II International Airport,-5.246803,105.182531,282,AS,ID,ID-LA,Bandar Lampung,yes,WILL,TKG,WILL,,,https://en.wikipedia.org/wiki/Radin_Inten_II_International_Airport,"WIIT, WICT"
 333624,WILP,small_airport,Muhammad Taufiq Kiemas Airport,-5.211562,103.936501,118,AS,ID,ID-LA,Krui,no,WILP,TFY,WILP,,,,
 26861,WIMA,small_airport,Malikus Saleh Airport,5.22668,96.950302,90,AS,ID,ID-AC,Lhok Seumawe-Sumatra Island,yes,WIMA,LSW,WIMA,,,https://en.wikipedia.org/wiki/Malikus_Saleh_Airport,WITM
