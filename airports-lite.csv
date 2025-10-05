@@ -1634,7 +1634,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2390,EGBE,medium_airport,Coventry Airport,52.369701,-1.47972,267,EU,GB,GB-ENG,"Coventry, West Midlands",no,EGBE,CVT,EGBE,,http://www.coventryairport.co.uk/,https://en.wikipedia.org/wiki/Coventry_Airport,RAF Baginton
 2392,EGBJ,medium_airport,Gloucestershire Airport,51.89419937133789,-2.167220115661621,101,EU,GB,GB-ENG,Staverton,no,EGBJ,GLO,EGBJ,,,https://en.wikipedia.org/wiki/Gloucestershire_Airport,
 29109,EGBK,small_airport,Sywell Aerodrome,52.305302,-0.793056,429,EU,GB,GB-ENG,"Northampton, Northamptonshire",no,EGBK,ORM,EGBK,,http://www.sywellaerodrome.co.uk/,https://en.wikipedia.org/wiki/Sywell_Aerodrome,
-2393,EGBN,medium_airport,Nottingham City Airport,52.919998,-1.07917,138,EU,GB,GB-ENG,Nottingham,no,EGBN,NQT,EGBN,,http://www.nottinghamairport.co.uk/,https://en.wikipedia.org/wiki/Nottingham_Airport,
 2395,EGBP,small_airport,Cotswold Airport,51.668528,-2.056599,433,EU,GB,GB-ENG,"Cirencester, Gloucestershire",no,EGBP,GBA,EGBP,,http://www.cotswoldairport.com/,https://en.wikipedia.org/wiki/Cotswold_Airport,"RAF Kemble, Kemble Airfield, Kemble Airport, Cotswold Airport"
 2398,EGCC,large_airport,Manchester Airport,53.349375,-2.279521,257,EU,GB,GB-ENG,"Manchester, Greater Manchester",yes,EGCC,MAN,EGCC,,http://www.manchesterairport.co.uk/,https://en.wikipedia.org/wiki/Manchester_Airport,"Ringway Airport, RAF Ringway"
 29116,EGCJ,small_airport,Sherburn-in-Elmet Airfield,53.788458,-1.216877,26,EU,GB,GB-ENG,"Selby, North Yorkshire",no,EGCJ,,EGCJ,,http://www.sherburn-aero-club.org.uk/,https://en.wikipedia.org/wiki/Sherburn-in-Elmet_Airfield,RAF Sherburn
@@ -8840,8 +8839,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 26386,UTDL,medium_airport,Khujand Airport,40.215401,69.694702,1450,AS,TJ,TJ-SU,Khujand,yes,UTDL,LBD,UTDL,,,https://en.wikipedia.org/wiki/Khudzhand_Airport,"Khodjend, Khodzhent, Leninabad, Khudzhand"
 32556,UTDT,medium_airport,Qurghonteppa International Airport,37.86640167236328,68.86470031738281,1473,AS,TJ,TJ-KT,Kurgan-Tyube,yes,UTDT,KQT,UTDT,,,https://en.wikipedia.org/wiki/Qurghonteppa_International_Airport,Kurgan-Tube
 32038,UTFN,small_airport,Namangan Airport,40.9846,71.556702,1555,AS,UZ,UZ-NG,Namangan,yes,UTFN,NMA,UTFN,,,https://en.wikipedia.org/wiki/Namangan_Airport,
-30672,UTKA,medium_airport,Andizhan Airport,40.727699,72.293999,1515,AS,UZ,UZ-AN,Andizhan,yes,,AZN,UTFA,,,https://en.wikipedia.org/wiki/Andizhan_Airport,"UTKA, Andijan Airport"
-31118,UTKF,medium_airport,Fergana International Airport,40.358799,71.745003,1980,AS,UZ,UZ-FA,Fergana,yes,UTFF,FEG,UTFF,,,https://en.wikipedia.org/wiki/Fergana_International_Airport,UTKF
+30672,UTKA,medium_airport,Andizhan Airport,40.727699,72.293999,1515,AS,UZ,UZ-AN,Andizhan,yes,UZFA,AZN,UZFA,,,https://en.wikipedia.org/wiki/Andizhan_Airport,"UTKA, Andijan Airport"
+31118,UTKF,medium_airport,Fergana International Airport,40.358799,71.745003,1980,AS,UZ,UZ-FA,Fergana,yes,UZFF,FEG,UZFF,,,https://en.wikipedia.org/wiki/Fergana_International_Airport,UTKF
 41794,UTKK,small_airport,Kokand Airport,40.447183,70.989144,1357,AS,UZ,UZ-FA,Kokand,no,,OQN,UTKK,,,,Kokand South
 32558,UTNM,small_airport,Muynak Airport,43.753636,59.029884,177,AS,UZ,UZ-QR,Muynak,no,UTNM,MOK,UTNM,,,https://en.wikipedia.org/wiki/Muynak_Airport,
 32013,UTNN,medium_airport,Nukus Airport,42.4884,59.623299,246,AS,UZ,UZ-QR,Nukus,yes,UTNN,NCU,UTNN,,,https://en.m.wikipedia.org/wiki/Nukus_Airport,
@@ -8852,8 +8851,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41685,UTSN,small_airport,Sugraly Airport,41.613899,64.2332,1396,AS,UZ,UZ-NW,Zarafshan,yes,UTSN,AFS,UTSN,,,https://en.wikipedia.org/wiki/Zarafshan_Airport,
 26390,UTSS,medium_airport,Samarkand Airport,39.70050048828125,66.98380279541016,2224,AS,UZ,UZ-SA,Samarkand,yes,UTSS,SKD,UTSS,,,https://en.wikipedia.org/wiki/Samarkand_Airport,
 26391,UTST,medium_airport,Termez Airport,37.287261,67.311869,1027,AS,UZ,UZ-SU,Termez,yes,UTST,TMJ,UTST,,,https://en.wikipedia.org/wiki/Termez_Airport,
-41687,UTTP,medium_airport,Tashkent East Airport,41.312889,69.395535,1574,AS,UZ,UZ-TO,Tashkent,yes,UTTP,,UTTP,,,https://uz.wikipedia.org/wiki/Toshkent-sharqiy_aerodromi,Tashkent Vostochny Airport
-26392,UTTT,large_airport,Tashkent International Airport,41.2579,69.281197,1417,AS,UZ,UZ-TO,Tashkent,yes,UTTT,TAS,UTTT,,,https://en.wikipedia.org/wiki/Tashkent_International_Airport,
+41687,UTTP,medium_airport,Tashkent East Airport,41.312889,69.395535,1574,AS,UZ,UZ-TO,Tashkent,yes,UZTP,,UZTP,,,https://uz.wikipedia.org/wiki/Toshkent-sharqiy_aerodromi,Tashkent Vostochny Airport
+26392,UTTT,large_airport,Tashkent International Airport,41.2579,69.281197,1417,AS,UZ,UZ-TO,Tashkent,yes,UZTT,TAS,UZTT,,,https://en.wikipedia.org/wiki/Tashkent_International_Airport,
 598248,UTTZ,medium_airport,Zomin Airport,40.01402,68.41103,1760,AS,UZ,UZ-JI,Zaamin,yes,UTTZ,OMN,UTTZ,,,https://en.wikipedia.org/wiki/Zomin_Airport,
 315193,UTU,small_airport,Ustupu Airport,9.1283,-77.9337,9,NA,PA,PA-GY,Ustupu,no,,UTU,MPUP,,,https://en.wikipedia.org/wiki/Ustupo_Airport,Ustupo
 31761,UUBA,medium_airport,Kostroma Sokerkino Airport,57.796902,41.019402,446,EU,RU,RU-KOS,Kostroma,yes,UUBA,KMW,UUBA,,http://www.kmtn.ru/~koao/,https://en.wikipedia.org/wiki/Kostroma_Airport,Аэропорт Кострома Сокеркино
