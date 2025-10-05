@@ -5615,7 +5615,7 @@
 12226,"59OH","small_airport","Kelch Airport",38.97529983520508,-84.0342025756836,905,"NA","US","US-OH","Bethel","no",,,"59OH","59OH",,,
 12227,"59OI","heliport","Airwolf Heliport",41.450199127197266,-81.05079650878906,1155,"NA","US","US-OH","Middlefield","no",,,"59OI","59OI",,,
 12228,"59OK","heliport","Camp Gruber Heliport",35.67495,-95.201342,586,"NA","US","US-OK","Braggs","no",,,"59OK","59OK",,,
-12229,"59OR","heliport","Mc Nary Dam Heliport",45.9319000244,-119.29699707,366,"NA","US","US-OR","Umatilla","no",,,"59OR","59OR",,,
+12229,"59OR","heliport","McNary Dam Heliport",45.926309,-119.294057,366,"NA","US","US-OR","Umatilla","no",,,"59OR","59OR","https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/McNary-Lock-and-Dam/",,"McNary Lock"
 12230,"59PA","small_airport","Erkes Airport",40.537601470947266,-75.08709716796875,340,"NA","US","US-PA","Upper Black Eddy","no",,,"59PA","59PA",,,
 12232,"59TA","heliport","Kaneb Heliport",29.61520004272461,-95.60440063476562,120,"NA","US","US-TX","Sugar Land","no",,,"59TA","59TA",,,
 12235,"59TS","small_airport","Rossler Ranch Airport",28.14310073852539,-98.1583023071289,250,"NA","US","US-TX","George West","no",,,"59TS","59TS",,,
@@ -23716,7 +23716,7 @@
 2392,"EGBJ","medium_airport","Gloucestershire Airport",51.89419937133789,-2.167220115661621,101,"EU","GB","GB-ENG","Staverton","no","EGBJ","GLO","EGBJ",,,"https://en.wikipedia.org/wiki/Gloucestershire_Airport",
 29109,"EGBK","small_airport","Sywell Aerodrome",52.305302,-0.793056,429,"EU","GB","GB-ENG","Northampton, Northamptonshire","no","EGBK","ORM","EGBK",,"http://www.sywellaerodrome.co.uk/","https://en.wikipedia.org/wiki/Sywell_Aerodrome",
 29111,"EGBM","small_airport","Tatenhill Airfield",52.81431,-1.767942,439,"EU","GB","GB-ENG","Burton upon Trent, Staffordshire","no",,,"EGBM",,"http://www.tatenhill.com/","https://en.wikipedia.org/wiki/Tatenhill_Airfield","RAF Tatenhill"
-2393,"EGBN","medium_airport","Nottingham City Airport",52.919998,-1.07917,138,"EU","GB","GB-ENG","Nottingham","no","EGBN","NQT","EGBN",,"http://www.nottinghamairport.co.uk/","https://en.wikipedia.org/wiki/Nottingham_Airport",
+2393,"EGBN","closed","Nottingham City Airport",52.919998,-1.07917,138,"EU","GB","GB-ENG","Nottingham","no",,,,,"http://www.nottinghamairport.co.uk/","https://en.wikipedia.org/wiki/Nottingham_Airport","EGBN, NQT"
 2394,"EGBO","small_airport","Wolverhampton Halfpenny Green Airport",52.517502,-2.25944,283,"EU","GB","GB-ENG","Wolverhampton","no",,,"EGBO",,,"https://en.wikipedia.org/wiki/Wolverhampton_Airport","Wolverhampton Business Airport, Bobbington Airport"
 2395,"EGBP","small_airport","Cotswold Airport",51.668528,-2.056599,433,"EU","GB","GB-ENG","Cirencester, Gloucestershire","no","EGBP","GBA","EGBP",,"http://www.cotswoldairport.com/","https://en.wikipedia.org/wiki/Cotswold_Airport","RAF Kemble, Kemble Airfield, Kemble Airport, Cotswold Airport"
 29112,"EGBS","small_airport","Shobdon Airfield",52.241699,-2.88111,318,"EU","GB","GB-ENG","Leominster, Herefordshire","no",,,"EGBS",,"http://www.aeroclub.co.uk/","https://en.wikipedia.org/wiki/Shobdon_Airfield","Herefordshire Aero Club, Herefordshire Gliding Club, RAF Gliding School, Shobdon Aerodrome"
@@ -30906,7 +30906,7 @@
 310267,"ID-0034","small_airport","Bomela Airport",-4.693634,139.912707,5050,"AS","ID","ID-PP","Bomela","no",,,,"BML",,,"WX48"
 310270,"ID-0035","small_airport","Bomomani Airstrip",-3.960942,135.939631,4966,"OC","ID","ID-PT","Bomomani","no",,,,"BMO",,,"Bomoani"
 310271,"ID-0036","small_airport","Borme Airstrip",-4.394362,140.436348,3270,"AS","ID","ID-PP","Borme","no","WAJY",,"WAJY","BOR",,,"WX51"
-310273,"ID-0037","small_airport","Buduk Kabul Airstrip",3.7978,115.7065,3260,"AS","ID","ID-KU","Buduk Kabul","no",,,,"BDK",,,
+310273,"ID-0037","small_airport","Kurid  Airstrip",3.798115,115.706339,3260,"AS","ID","ID-KU","Buduk Kabul","no",,,"WALX","BDK",,,
 310275,"ID-0038","small_airport","Bugalaga Airstrip",-3.6235,136.5963,6360,"AS","ID","ID-PT","Bugalaga","no",,,"WX53","GBL",,,"WX53"
 310281,"ID-0039","small_airport","Calang Airstrip",4.612323,95.623534,32,"AS","ID","ID-AC","Calang","no",,,,,,,
 310291,"ID-0040","small_airport","Comoro Airstrip",-5.926349,138.631461,21,"AS","ID","ID-PS","Comoro","no",,,,"COM",,,
@@ -30938,7 +30938,7 @@
 310406,"ID-0066","small_airport","Illaga III Airport",-3.9993,137.65317,7673,"AS","ID","ID-PT","Illaga","no",,,,,,,"WZ11"
 310409,"ID-0067","small_airport","Ilugwa/Antara Airport",-3.835894,138.921683,6500,"AS","ID","ID-PP","Ilugwa","no",,,,"ILG",,,"WZ12"
 310412,"ID-0068","small_airport","Iratoi Airstrip",-3.2389,137.3339,352,"AS","ID","ID-PT","Iratoi","no",,,,"IRA",,,"WZ14"
-310414,"ID-0069","small_airport","Iray Airstrip",-1.3297,133.9115,6464,"AS","ID","ID-PB","Iray","no",,,,"IRY",,,"WZ15"
+310414,"ID-0069","small_airport","Iray Airstrip",-1.33034,133.91081,6464,"AS","ID","ID-PB","Iray","no",,,"WRLK","IRY",,,"WZ15"
 310416,"ID-0070","small_airport","Iwur Airstrip",-5.139139,140.717638,820,"AS","ID","ID-PP","Iwur","yes",,,,"IWR",,,"WZ17"
 310422,"ID-0071","small_airport","Jila Airstrip",-4.24677,137.59563,4390,"AS","ID","ID-PT","Jila","no",,,"WAYJ","JIL",,,"WZ20"
 310425,"ID-0072","small_airport","Jita Airstrip",-4.8564,137.7019,40,"AS","ID","ID-PT","Jita","no",,,"WAYN","JIT",,,"WZ21"
@@ -30949,19 +30949,19 @@
 310452,"ID-0077","small_airport","Kelansam Airstrip",0.1228,111.4197,96,"AS","ID","ID-KB","Kelansam","no",,,,"KEL",,,"WZ39"
 310455,"ID-0078","small_airport","Keneyan Airstrip",-4.5995,138.3844,449,"AS","ID","ID-PP","Keneyan","no",,,,"KEN",,,"WZ41, Kenyem, Kenyam"
 310458,"ID-0079","small_airport","Kerapak Airstrip",0.0939,111.9083,157,"AS","ID","ID-KB","Kerapak","no",,,,"KRA",,,"WZ42"
-310463,"ID-0080","small_airport","Kiwi Airstrip",-4.697841,140.722425,5260,"AS","ID","ID-PP","Kiwi","yes",,,,"KIW",,,
+310463,"ID-0080","small_airport","Kiwi Airstrip",-4.697841,140.722425,5260,"AS","ID","ID-PP","Kiwi","yes",,,"WRGK","KIW",,,
 310465,"ID-0081","small_airport","Kobagma Airport",-3.666539,139.058758,3195,"AS","ID","ID-PP","Kobagma","no",,,,,,,"WZ44"
 310468,"ID-0082","small_airport","Komopa Airstrip",-3.7998,136.4775,5822,"AS","ID","ID-PT","Komopa","no",,,,"KOM",,,"WZ45"
 310470,"ID-0083","small_airport","Koropun Airstrip",-4.479226,139.649894,5900,"AS","ID","ID-PP","Koropun","no",,,,"KOR",,,"WZ48"
 310474,"ID-0084","small_airport","Kuala Kurun Airport",-1.128903,113.873075,115,"AS","ID","ID-KT","Kuala Kurun","no",,"GXM","WAGA",,,,"WT81"
-310478,"ID-0085","small_airport","Kuala Randau Airstrip",-0.5824,110.4728,240,"AS","ID","ID-KB","Kuala Randau","no",,,,,,,"WZ54"
-310480,"ID-0086","small_airport","Kustera Airstrip",-2.7467,137.92,350,"AS","ID","ID-PA","Kustera","no",,,,"KUS",,,"WZ57"
-310482,"ID-0087","small_airport","Kwerba Airstrip",-2.6434,138.4087,247,"AS","ID","ID-PA","Kwerba","no",,,,"KWE",,,"WZ59"
-310484,"ID-0088","small_airport","Kwijawagi",-4.0256,138.2046,9288,"AS","ID","ID-PP","Kwijawagi","no",,,,"KWI",,,"WZ60, Kwiyawagi"
+310478,"ID-0085","small_airport","Kuala Randau Airstrip",-0.582399,110.472759,240,"AS","ID","ID-KB","Semandang Hulu","no",,,"WIAQ",,,,"WZ54"
+310480,"ID-0086","small_airport","Kustera Airstrip",-2.746014,137.919206,350,"AS","ID","ID-PA","Kustera","no",,,"WABL","KUS",,,"WZ57"
+310482,"ID-0087","small_airport","Kwerba Airstrip",-2.643549,138.40894,247,"AS","ID","ID-PA","Kwerba","no",,,"WRPO","KWE",,,"WZ59"
+310484,"ID-0088","small_airport","Kwijawagi",-4.0256,138.2046,9288,"AS","ID","ID-PP","Kwijawagi","no",,,"WRGT","KWI",,,"WZ60, Kwiyawagi"
 310490,"ID-0089","small_airport","Lake Holmes Airstrip",-2.472221,137.988365,1300,"AS","ID","ID-PA","Danau Bira","no",,,"WRPQ","LAH",,,"WZ61"
-310492,"ID-0090","small_airport","Landikma Airstrip",-3.8212,139.2423,3345,"AS","ID","ID-PP","Landikma","no",,,,"LAN",,,"WZ64"
+310492,"ID-0090","small_airport","Landikma Airstrip",-3.8212,139.2423,3345,"AS","ID","ID-PP","Landikma","no",,,"WRGX","LAN",,,"WZ64"
 310494,"ID-0091","small_airport","Langda Airstrip",-4.6785,139.9745,6480,"AS","ID","ID-PP","Langda","no",,,,"LGD",,,"WZ65"
-310500,"ID-0092","small_airport","Lokok Airstrip",1.0215,110.0505,1855,"AS","ID","ID-KB","Lokok","no",,,,,,,"WZ70"
+310500,"ID-0092","small_airport","Lokok Airstrip",1.02159,110.050738,1855,"AS","ID","ID-KB","Lokok","no",,,"WIAS",,,,"WZ70"
 310502,"ID-0093","small_airport","Long Alango Airstrip",2.9304,115.8512,1292,"AS","ID","ID-KU","Long Alango","no",,,"WAQE",,,,"WZ71"
 310513,"ID-0094","small_airport","Long Rungan",3.5994,115.8418,2880,"AS","ID","ID-KU","Long Rungan","yes",,,,,,,"WZ86, Long Rongan"
 310515,"ID-0095","small_airport","Long Segar Airstrip",0.7981,116.8157,120,"AS","ID","ID-KI","Long Segar","no",,,,,,,"WZ87"
@@ -69526,6 +69526,8 @@
 600738,"US-12759","heliport","Lake Ozark Helicopters Heliport",38.19055,-92.644115,768,"NA","US","US-MO","Lake Ozark","no",,,"MO02","MO02",,,
 334315,"US-1276","small_airport","Lightfoot Farms Airport",44.484683,-95.509194,975,"NA","US","US-MN","Vesta","no",,,"8MN4","8MN4",,,
 600757,"US-12760","closed","Kingsville Naval Outlying Landing Field No. 56",27.4702,-97.860804,,"NA","US","US-TX","Kingsville","no",,,,,,"https://en.wikipedia.org/wiki/Kingsville_Naval_Outlying_Fields",
+600892,"US-12761","heliport","Little Goose Lock and Dam Helipad",46.583043,-118.026471,663,"NA","US","US-WA","Starbuck","no",,,,,"https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Little-Goose-Lock-and-Dam/",,"Riparia"
+600894,"US-12762","heliport","Celilo Converter Station Heliport",45.59505,-121.116495,728,"NA","US","US-OR","The Dalles","no",,,,,,"https://en.wikipedia.org/wiki/Celilo_Converter_Station",
 334317,"US-1277","small_airport","Dungan Airport",39.719401,-85.269278,1064,"NA","US","US-IN","Connersville","no",,,"IN12","IN12",,,
 334319,"US-1278","heliport","Foote Farm Association RLA Heliport",43.989494,-73.239858,167,"NA","US","US-VT","Cornwall","no",,,"VT54","VT54",,,
 334321,"US-1279","heliport","West Street Property Heliport",43.987683,-73.25274,181,"NA","US","US-VT","Cornwall","no",,,"VT24","VT24",,,"Quesnel Farm"
@@ -71076,7 +71078,7 @@
 339526,"US-2823","heliport","Seaside Helicopters Heliport",45.97352,-123.92622,,"NA","US","US-OR","Seaside","no",,,,,,,
 339527,"US-2824","heliport","Providence Seaside Hospital Heliport",45.98903,-123.91302,25,"NA","US","US-OR","Seaside","no",,,"OR58","OR58",,,
 339528,"US-2825","closed","Fort Discovery Heliport",48.045583,-122.879556,36,"NA","US","US-WA","Sequim","no",,,,,,,"WA60"
-339529,"US-2826","heliport","US Coast Guard Station Cape Disappointment Heliport",46.27752,-124.04329,,"NA","US","US-WA","Ilwaco","no",,,,,,,
+339529,"US-2826","heliport","US Coast Guard Station Cape Disappointment Heliport",46.27752,-124.04329,22,"NA","US","US-WA","Ilwaco","no",,,,,"https://www.pacificarea.uscg.mil/Our-Organization/Northwest-District/Units/Sector-Columbia-River/Station-Cape-Disappointment/","https://en.wikipedia.org/wiki/Coast_Guard_Station_Cape_Disappointment","North Head Lighthouse"
 339530,"US-2827","closed","Martin Ranch Airstrip",32.520382,-110.943485,,"NA","US","US-AZ","Tucson","no",,,,,,,
 339531,"US-2828","heliport","US Coast Guard Station Grays Harbor Heliport",46.90415,-124.10351,,"NA","US","US-WA","Westport","no",,,,,,,
 339532,"US-2829","heliport","New Dungeness Lighthouse Heliport",48.18116,-123.1108,,"NA","US","US-WA","Sequim","no",,,,,,,
@@ -78411,8 +78413,8 @@
 26386,"UTDL","medium_airport","Khujand Airport",40.215401,69.694702,1450,"AS","TJ","TJ-SU","Khujand","yes","UTDL","LBD","UTDL",,,"https://en.wikipedia.org/wiki/Khudzhand_Airport","Khodjend, Khodzhent, Leninabad, Khudzhand"
 32556,"UTDT","medium_airport","Qurghonteppa International Airport",37.86640167236328,68.86470031738281,1473,"AS","TJ","TJ-KT","Kurgan-Tyube","yes","UTDT","KQT","UTDT",,,"https://en.wikipedia.org/wiki/Qurghonteppa_International_Airport","Kurgan-Tube"
 32038,"UTFN","small_airport","Namangan Airport",40.9846,71.556702,1555,"AS","UZ","UZ-NG","Namangan","yes","UTFN","NMA","UTFN",,,"https://en.wikipedia.org/wiki/Namangan_Airport",
-30672,"UTKA","medium_airport","Andizhan Airport",40.727699,72.293999,1515,"AS","UZ","UZ-AN","Andizhan","yes",,"AZN","UTFA",,,"https://en.wikipedia.org/wiki/Andizhan_Airport","UTKA, Andijan Airport"
-31118,"UTKF","medium_airport","Fergana International Airport",40.358799,71.745003,1980,"AS","UZ","UZ-FA","Fergana","yes","UTFF","FEG","UTFF",,,"https://en.wikipedia.org/wiki/Fergana_International_Airport","UTKF"
+30672,"UTKA","medium_airport","Andizhan Airport",40.727699,72.293999,1515,"AS","UZ","UZ-AN","Andizhan","yes","UZFA","AZN","UZFA",,,"https://en.wikipedia.org/wiki/Andizhan_Airport","UTKA, Andijan Airport"
+31118,"UTKF","medium_airport","Fergana International Airport",40.358799,71.745003,1980,"AS","UZ","UZ-FA","Fergana","yes","UZFF","FEG","UZFF",,,"https://en.wikipedia.org/wiki/Fergana_International_Airport","UTKF"
 41794,"UTKK","small_airport","Kokand Airport",40.447183,70.989144,1357,"AS","UZ","UZ-FA","Kokand","no",,"OQN","UTKK",,,,"Kokand South"
 32558,"UTNM","small_airport","Muynak Airport",43.753636,59.029884,177,"AS","UZ","UZ-QR","Muynak","no","UTNM","MOK","UTNM",,,"https://en.wikipedia.org/wiki/Muynak_Airport",
 32013,"UTNN","medium_airport","Nukus Airport",42.4884,59.623299,246,"AS","UZ","UZ-QR","Nukus","yes","UTNN","NCU","UTNN",,,"https://en.m.wikipedia.org/wiki/Nukus_Airport",
@@ -78429,8 +78431,8 @@
 26390,"UTSS","medium_airport","Samarkand Airport",39.70050048828125,66.98380279541016,2224,"AS","UZ","UZ-SA","Samarkand","yes","UTSS","SKD","UTSS",,,"https://en.wikipedia.org/wiki/Samarkand_Airport",
 26391,"UTST","medium_airport","Termez Airport",37.287261,67.311869,1027,"AS","UZ","UZ-SU","Termez","yes","UTST","TMJ","UTST",,,"https://en.wikipedia.org/wiki/Termez_Airport",
 32562,"UTSU","small_airport","Uchkuduk Airport",42.083099365234375,63.44929885864258,416,"AS","UZ","UZ-NW","Uchkuduk","no",,,"UTSU",,,,
-41687,"UTTP","medium_airport","Tashkent East Airport",41.312889,69.395535,1574,"AS","UZ","UZ-TO","Tashkent","yes","UTTP",,"UTTP",,,"https://uz.wikipedia.org/wiki/Toshkent-sharqiy_aerodromi","Tashkent Vostochny Airport"
-26392,"UTTT","large_airport","Tashkent International Airport",41.2579,69.281197,1417,"AS","UZ","UZ-TO","Tashkent","yes","UTTT","TAS","UTTT",,,"https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+41687,"UTTP","medium_airport","Tashkent East Airport",41.312889,69.395535,1574,"AS","UZ","UZ-TO","Tashkent","yes","UZTP",,"UZTP",,,"https://uz.wikipedia.org/wiki/Toshkent-sharqiy_aerodromi","Tashkent Vostochny Airport"
+26392,"UTTT","large_airport","Tashkent International Airport",41.2579,69.281197,1417,"AS","UZ","UZ-TO","Tashkent","yes","UZTT","TAS","UZTT",,,"https://en.wikipedia.org/wiki/Tashkent_International_Airport",
 598248,"UTTZ","medium_airport","Zomin Airport",40.01402,68.41103,1760,"AS","UZ","UZ-JI","Zaamin","yes","UTTZ","OMN","UTTZ",,,"https://en.wikipedia.org/wiki/Zomin_Airport",
 315193,"UTU","small_airport","Ustupu Airport",9.1283,-77.9337,9,"NA","PA","PA-GY","Ustupu","no",,"UTU","MPUP",,,"https://en.wikipedia.org/wiki/Ustupo_Airport","Ustupo"
 31761,"UUBA","medium_airport","Kostroma Sokerkino Airport",57.796902,41.019402,446,"EU","RU","RU-KOS","Kostroma","yes","UUBA","KMW","UUBA",,"http://www.kmtn.ru/~koao/","https://en.wikipedia.org/wiki/Kostroma_Airport","Аэропорт Кострома Сокеркино"
@@ -80375,9 +80377,9 @@
 25872,"WN77","heliport","Wnp-2 Plant Support Facility Heliport",46.464298248291016,-119.34100341796875,460,"NA","US","US-WA","Richland","no",,,"WN77","WN77",,,
 25873,"WN79","heliport","Haley Heliport",47.70790100097656,-122.52400207519531,40,"NA","US","US-WA","Winslow","no",,,"WN79","WN79",,,
 25874,"WN80","small_airport","Walters Arv Ultralightport",46.097900390625,-122.86499786376953,475,"NA","US","US-WA","Kelso","no",,,"WN80","WN80",,,
-25875,"WN81","heliport","Ice Harbor Dam Heliport",46.252705,-118.878503,445,"NA","US","US-WA","Pasco","no",,,"WN81","WN81",,,
+25875,"WN81","heliport","Ice Harbor Dam Heliport",46.252705,-118.878503,445,"NA","US","US-WA","Pasco","no",,,"WN81","WN81","https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Ice-Harbor-Lock-and-Dam/",,"Ice Harbor Lock"
 25876,"WN82","heliport","Ferry County Memorial Hospital Heliport",48.6526985168457,-118.7300033569336,3500,"NA","US","US-WA","Republic","no",,,"WN82","WN82",,,
-25878,"WN84","heliport","Lower Monumental Dam Heliport",46.569000244140625,-118.53700256347656,465,"NA","US","US-WA","Kahlotus","no",,,"WN84","WN84",,,
+25878,"WN84","heliport","Lower Monumental Dam Heliport",46.561926,-118.545602,465,"NA","US","US-WA","Kahlotus","no",,,"WN84","WN84","https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Lower-Monumental-Lock-and-Dam/",,"Lower Monumental Lock"
 25879,"WN85","small_airport","Morrisonville International Airport",43.27470016479492,-89.35040283203125,960,"NA","US","US-WI","Morrisonville","no",,,"WN85","WN85",,,
 25880,"WN86","small_airport","St Croix Valley Airport",45.26390075683594,-92.62159729003906,1085,"NA","US","US-WI","Osceola","no",,,"WN86","WN86",,,
 25881,"WN87","small_airport","Bryan Airport",47.20859909057617,-122.09300231933594,630,"NA","US","US-WA","Enumclaw","no",,,"WN87","WN87",,,
