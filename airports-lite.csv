@@ -2935,6 +2935,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 35151,GECE,heliport,Ceuta Heliport,35.892657,-5.306321,8,AF,ES,ES-CE,Ceuta,yes,GECE,JCU,GECE,,https://www.aena.es/en/ceuta.html,https://en.wikipedia.org/wiki/Ceuta_Heliport,GECT
 598095,GECT,heliport,Ceuta Military Heliport,35.889018,-5.346354,267,AF,ES,ES-CE,Ceuta,no,GECT,,GECT,,,,
 3093,GEML,medium_airport,Melilla Airport,35.2798,-2.95626,156,AF,ES,ES-ML,Melilla,yes,GEML,MLN,GEML,,https://www.aena.es/en/melilla.html,https://en.wikipedia.org/wiki/Melilla_Airport,
+41524,GF-0001,small_airport,Kourou Airport,5.176046,-52.694206,47,SA,GF,GF-CY,Kourou,no,SOOK,,SOOK,,,https://en.wikipedia.org/wiki/Kourou_Airport,QKR Kourou Off-line Point
 318337,GF-0004,small_airport,Camopi Airport,3.172847,-52.336142,220,SA,GF,GF-CY,Camopi,no,,OYC,SOOC,,,https://en.wikipedia.org/wiki/Camopi_Airport,Vila Brasil
 31728,GFBO,medium_airport,Bo Airport,7.9444,-11.761,328,AF,SL,SL-S,Bo,no,GFBO,KBS,GFBO,,,https://en.wikipedia.org/wiki/Bo_Airport,
 31517,GFGK,small_airport,Gbangbatok Airport,7.812535,-12.377815,75,AF,SL,SL-S,Gbangbatok,no,GFGK,GBK,GFGK,,,https://en.wikipedia.org/wiki/Gbangbatok_Airport,
@@ -7189,7 +7190,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 323769,PT-0049,heliport,Coimbra Hospital Covões Heliport,40.194812,-8.460207,265,EU,PT,PT-06,Coimba,no,LPCV,,LPCV,,,,
 5499,PTKK,medium_airport,Chuuk International Airport,7.461870193481445,151.84300231933594,11,OC,FM,FM-TRK,Weno Island,yes,PTKK,TKK,PTKK,TKK,,https://en.wikipedia.org/wiki/Chuuk_International_Airport,
 5500,PTPN,medium_airport,Pohnpei International Airport,6.985099792480469,158.20899963378906,10,OC,FM,FM-PNI,Pohnpei Island,yes,PTPN,PNI,PTPN,PNI,,https://en.wikipedia.org/wiki/Pohnpei_International_Airport,Ponape
-5501,PTRO,medium_airport,Babelthuap Airport,7.36731,134.544236,176,OC,PW,PW-004,Babelthuap Island,yes,PTRO,ROR,PTRO,ROR,,https://en.wikipedia.org/wiki/Palau_International_Airport,
+5501,PTRO,medium_airport,Palau International Airport,7.36731,134.544236,176,OC,PW,PW-004,Babelthuap Island,yes,PTRO,ROR,PTRO,ROR,,https://en.wikipedia.org/wiki/Palau_International_Airport,Babelthuap Airport.
 5502,PTSA,medium_airport,Kosrae International Airport,5.35698,162.957993,11,OC,FM,FM-KSA,Okat,yes,PTSA,KSA,PTSA,TTK,,https://en.wikipedia.org/wiki/Kosrae_International_Airport,Caroline Islands Airport
 5503,PTYA,medium_airport,Yap International Airport,9.49891,138.082993,91,OC,FM,FM-YAP,Yap Island,yes,PTYA,YAP,PTYA,T11,,https://en.wikipedia.org/wiki/Yap_International_Airport,
 312750,PUA,small_airport,Puas Airport,-2.395,150.2361,45,OC,PG,PG-NIK,Puas Mission,no,,PUA,,PUAS,,,
@@ -8095,7 +8096,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6189,SLSU,medium_airport,Juana Azurduy De Padilla Airport,-19.007099,-65.288696,9540,SA,BO,BO-H,Sucre,no,SLSU,,SLSU,,,https://en.wikipedia.org/wiki/Juana_Azurduy_de_Padilla_International_Airport,military
 30387,SLTI,small_airport,San Matías Airport,-16.339199,-58.401901,403,SA,BO,BO-S,San Matías,no,SLTI,MQK,SLTI,,,https://en.wikipedia.org/wiki/San_Mat%C3%ADas_Airport,
 6190,SLTJ,medium_airport,Capitan Oriel Lea Plaza Airport,-21.5557,-64.701302,6079,SA,BO,BO-T,Tarija,yes,SLTJ,TJA,SLTJ,,,https://en.wikipedia.org/wiki/Cap._Oriel_Lea_Plaza_Airport,
-6191,SLTR,medium_airport,Teniente Av. Jorge Henrich Arauz Airport,-14.8186998367,-64.9179992676,509,SA,BO,BO-B,Trinidad,no,SLTR,TDD,SLTR,,,https://en.wikipedia.org/wiki/Tte._Av._Jorge_Henrich_Arauz_Airport,
+6191,SLTR,medium_airport,Teniente Av. Jorge Henrich Arauz Airport,-14.8187,-64.917999,509,SA,BO,BO-B,Trinidad,yes,SLTR,TDD,SLTR,,,https://en.wikipedia.org/wiki/Tte._Av._Jorge_Henrich_Arauz_Airport,
 39473,SLUY,small_airport,Uyuni Joya Andina Airport,-20.441304,-66.857553,11136,SA,BO,BO-P,Quijarro,yes,SLUY,UYU,SLUY,,,https://en.wikipedia.org/wiki/Uyuni_Airport,
 30518,SLVG,small_airport,Capitán Av. Vidal Villagomez Toledo Airport,-18.4825,-64.099403,6551,SA,BO,BO-S,Vallegrande,no,SLVG,VAH,SLVG,,,https://en.wikipedia.org/wiki/Capit%C3%A1n_Av._Vidal_Villagomez_Toledo_Airport,
 6192,SLVM,medium_airport,Teniente Coronel Rafael Pabón Airport,-21.255199432399998,-63.4056015015,1305,SA,BO,BO-T,Villamontes,no,SLVM,VLM,SLVM,,,https://en.wikipedia.org/wiki/Tcnl._Rafael_Pab%C3%B3n_Airport,
