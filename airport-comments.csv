@@ -1,4 +1,25 @@
 "id", "threadRef", "airportRef", "airportIdent", "date", "memberNickname", "subject", "body"
+600926,82635,31321,"FZBP","2025-10-05 19:51:27","ian727","Wrong position #2","The airfield depicted here is actually Mimia Airport, serving Mimia mission (source: MAF West Congo Airport List).
+Information about FZBR Bolongonkele is extremely limited, but it was likely a short-lived highway strip located here: -2.753684°, 19.904530°"
+600922,82634,3751,"KOMA","2025-10-05 16:41:12","Nudds","A charming jewel on the edge of Nebraska","Eppley is, for some reason, one of my favourite airports. It's small and easy to navigate, short on facilities, but big on charm. It has a welcoming atmosphere and is very peaceful on account of its light flight schedule. Its record annual passenger number is just over 5,000,000, so it's not a major hub and is totally free of the hustle and bustle you find in the airports of most major cities. 
+
+According to Wikipedia, it is ranked as the 61st busiest airport in the United States, but the number of passengers quoted on that list is less than half of what the airport itself claims. If we take the airport's figures as gospel, then it would rank as the 46th busiest airport in the US, but it's likely the numbers from airports surrounding it on the list are also higher than Wikipedia thinks. 
+
+For context, the top three airports by passenger numbers in 2024 were Atlanta Hartsfield-Jackson, Dubai, and Dallas Fort Worth with 108,067,766, 92,300,000, and 87,817,864, respectively."
+600921,82633,2210,"EDDC","2025-10-05 16:29:14","Nudds","Easy-to-use, but light on facilities","The fact that Dresden airport is still operational is a blessing for locals of the Saxon capital, but it is unfortunately vastly underused and massively underserved. Landsie facilities are sparse, with the ground level dotted with car rental kiosks, an information desk (for lost baggage and onward transport info, and the odd souvenir), and a newsagent that serves coffee (when it's open, which it isn't often). If you do want a warm drink before you go through security, there are a couple of machines, but they only take coins (no card). If you only have notes on you, there is a change machine to the left of the info desk as you enter the airport from the car park. Trains to the centre of Dresden (which stop in Neustadt and HbF) are found downstairs and run 18 and 48 minutes past the hour. Check in and security are on the first floor, and they are generally a doddle to clear. The only time you'd expect to wait is when you find yourself checking in with one of the three daily flights to Palma de Mallorca. Beyond that frequent shuttle service, not many end destinations are well served. There are regular flights to Frankfurt, Münich, and Düsseldorf, from which you can get pretty much anywhere with ease. There are a few flights a week to Zürich, and a relatively regular service to London Stansted throughout the summer, but the frequency is unreliable in the off-season. 
+
+There have been whispers for years that the airport will close, and the lack of investment in services doesn't bode well for that, but a connection to Antalya in Turkey was added recently, so maybe that's a good sign.
+
+Airside, there is no external smoking area, but a small, ventilated cubicle has been added. There's a decent coffee shop, a small but well-stocked Duty Free, and a newsagent with souvenirs. It feels more like a bus terminal than an airport in many ways, which is no bad thing for frequent fliers. It's no frills, but no nonsense also. I have a soft spot for it as it's my local airport, but I do wish a few more connections to the UK and Ireland were added, and a direct daily flight to Geneva would be a Godsend for me. I'm not holding out hope for those to be added any time soon, though."
+600920,82632,317457,"LTFM","2025-10-05 14:36:43","Hammy","Istanbul Airport Incorrect Continent","The continent for Istanbul Airport is listed as EU, should be AS. Found that in a JOIN SQL query when none of the airport data was coming up.
+
+317457,LTFM,large_airport,""İstanbul Airport"" EU,Turkey,TR,""İstanbul Province"",TR-34,34,
+
+Another consideration is to change all the letter "" İ "" to the standard letter "" I "". Searching for this airport on a standard English keyboard does not find it. For my database application I just do a search and replace on all of them in the csv file. Simple solution."
+600914,82631,26394,"UUDD","2025-10-05 07:21:54","alexmaryin","Runway 13L/31R is closed","NOTAM A3594/25 
+E)FLW CLSD DUE TO REPAIR:
+- RWY 13L/31R,
+- TWY B1, B11.)"
 600913,82630,2437,"GB-1215","2025-10-05 01:27:44","Hammy","re: Reopen","Reply to @liepaja_aviation: 
 I just joined OurAirports yesterday. How does someone create a new message in these forums? I am a bit at loss. I have sent messages to the comments area, and have heard nothing back. Pretty frustrating. Thanks if you can help me.
 
