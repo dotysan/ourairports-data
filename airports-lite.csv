@@ -643,11 +643,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 42214,BZ-MDB,small_airport,Melinda Airport,17.004299,-88.304199,101,NA,BZ,BZ-SC,Melinda,no,,MDB,MZML,,,https://en.wikipedia.org/wiki/Melinda_Airport,
 42212,BZ-ORZ,small_airport,H.E Alfredo Martinez (Tower Hill) Airstrip,18.046767,-88.583858,69,NA,BZ,BZ-OW,Orange Walk,yes,,ORZ,MZAM,,,https://en.wikipedia.org/wiki/Orange_Walk_Airport,Orange Walk Airport
 35305,BZ-PND,medium_airport,Punta Gorda Airport,16.1024,-88.808296,7,NA,BZ,BZ-TOL,Punta Gorda,yes,,PND,MZPG,PND,,https://en.wikipedia.org/wiki/Punta_Gorda_Airport_(Belize),
-42210,BZ-SJX,medium_airport,Sartaneja Airport,18.3561,-88.130798,3,NA,BZ,BZ-CZL,Sartaneja,yes,,SJX,MZSJ,,,https://en.wikipedia.org/wiki/Sartaneja_Airport,
+42210,BZ-SJX,medium_airport,Sartaneja Airport,18.3561,-88.130798,3,NA,BZ,BZ-CZL,Sartaneja,no,,SJX,MZSJ,,,https://en.wikipedia.org/wiki/Sartaneja_Airport,
 32370,BZ-SPR,medium_airport,John Greif II Airport,17.9139,-87.9711,4,NA,BZ,BZ-CY,San Pedro,yes,,SPR,MZSP,,,https://en.wikipedia.org/wiki/San_Pedro_Airport,
 42218,BZ-SQS,small_airport,Matthew Spain Airport,17.185898,-89.009936,199,NA,BZ,BZ-CY,Spanish Lookout,no,,SQS,MZCF,,,https://en.wikipedia.org/wiki/Matthew_Spain_Airport,Central Farm Airstrip
 42211,BZ-STU,small_airport,Santa Cruz Airport,18.2721004486084,-88.456298828125,18,NA,BZ,BZ-CZL,Santa Cruz,no,,STU,,,,,
-42208,BZ-SVK,small_airport,Silver Creek Airport,16.728338,-88.369174,216,NA,BZ,BZ-SC,Silver Creek,yes,,SVK,MZKT,,,https://en.wikipedia.org/wiki/Silver_Creek_Airport,
+42208,BZ-SVK,small_airport,Silver Creek Airport,16.728338,-88.369174,216,NA,BZ,BZ-SC,Silver Creek,no,,SVK,MZKT,,,https://en.wikipedia.org/wiki/Silver_Creek_Airport,
 42215,BZ-TZA,medium_airport,Sir Barry Bowen Municipal Airport,17.517239,-88.195775,8,NA,BZ,BZ-BZ,Belize City,yes,,TZA,MZBE,,,https://en.wikipedia.org/wiki/Belize_City_Municipal_Airport,Belize City Municipal
 27300,BZB,medium_airport,Bazaruto Island Airport,-21.5411,35.4729,,AF,MZ,MZ-I,Bazaruto Island,no,,BZB,,,,https://en.wikipedia.org/wiki/Bazaruto_Island_Airport,
 302391,BZM,small_airport,Bemolanga Airport,-17.6925,45.0888333333,950,AF,MG,MG-M,Bemolanga,no,,BZM,,,,,
@@ -5614,7 +5614,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4419,LLIB,medium_airport,Rosh Pina Airport,32.980999,35.571899,884,AS,IL,IL-Z,Rosh Pina,no,LLIB,RPN,LLIB,,,https://en.wikipedia.org/wiki/Rosh_Pina_Airport,Mahanayim Ben Yaakov Airport
 30028,LLKS,small_airport,Kiryat Shmona Airport,33.216275,35.59622,386,AS,IL,IL-Z,Kiryat Shmona,no,LLKS,KSW,LLKS,,,https://en.wikipedia.org/wiki/Kiryat_Shmona_Airport,
 313919,LLL,small_airport,Lissadell Airport,-16.661,128.594,374,OC,AU,AU-WA,Lissadell Station,no,,LLL,,,,,
-4420,LLMG,small_airport,Megiddo Airport,32.597301,35.228802,200,AS,IL,IL-Z,Afula,no,LLMG,,LLMG,,,https://en.wikipedia.org/wiki/Megiddo_Airport,
+4420,LLMG,small_airport,Megiddo Airport,32.597301,35.228802,200,AS,IL,IL-Z,Afula,no,LLMG,,LLMG,,https://www.megido-air.co.il/about-6,https://en.wikipedia.org/wiki/Megiddo_Airport,
 30144,LLMR,small_airport,Mitzpe Ramon Airfield,30.65060043334961,34.80690002441406,2556,AS,IL,IL-D,Mitzpe Ramon,no,LLMR,,LLMR,,,https://en.wikipedia.org/wiki/Mitzpe_Ramon_Airfield,
 4421,LLMZ,medium_airport,Bar Yehuda Airfield,31.328199,35.388599,-1266,AS,IL,IL-D,Masada,no,LLMZ,MTZ,LLMZ,,,https://en.wikipedia.org/wiki/Bar_Yehuda_Airfield,Masada Airfield
 4422,LLNV,medium_airport,Nevatim Air Base,31.208299636799996,35.012298584,1330,AS,IL,IL-D,Beersheba,no,LLNV,VTM,LLNV,,,https://en.wikipedia.org/wiki/Nevatim_Airbase,"Malhata, Be'er Sheva"
@@ -8854,19 +8854,19 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6377,UTDK,medium_airport,Kulob Airport,37.98809814453125,69.80500030517578,2293,AS,TJ,TJ-KT,Kulyab,yes,UTDK,TJU,UTDK,,,https://en.wikipedia.org/wiki/Kulob_Airport,
 26386,UTDL,medium_airport,Khujand Airport,40.215401,69.694702,1450,AS,TJ,TJ-SU,Khujand,yes,UTDL,LBD,UTDL,,,https://en.wikipedia.org/wiki/Khudzhand_Airport,"Khodjend, Khodzhent, Leninabad, Khudzhand"
 32556,UTDT,medium_airport,Qurghonteppa International Airport,37.86640167236328,68.86470031738281,1473,AS,TJ,TJ-KT,Kurgan-Tyube,yes,UTDT,KQT,UTDT,,,https://en.wikipedia.org/wiki/Qurghonteppa_International_Airport,Kurgan-Tube
-32038,UTFN,small_airport,Namangan Airport,40.9846,71.556702,1555,AS,UZ,UZ-NG,Namangan,yes,UTFN,NMA,UTFN,,,https://en.wikipedia.org/wiki/Namangan_Airport,
+32038,UTFN,small_airport,Namangan Airport,40.9846,71.556702,1555,AS,UZ,UZ-NG,Namangan,yes,UZFN,NMA,UTFN,,,https://en.wikipedia.org/wiki/Namangan_Airport,
 30672,UTKA,medium_airport,Andizhan Airport,40.727699,72.293999,1515,AS,UZ,UZ-AN,Andizhan,yes,UZFA,AZN,UZFA,,,https://en.wikipedia.org/wiki/Andizhan_Airport,"UTKA, Andijan Airport"
 31118,UTKF,medium_airport,Fergana International Airport,40.358799,71.745003,1980,AS,UZ,UZ-FA,Fergana,yes,UZFF,FEG,UZFF,,,https://en.wikipedia.org/wiki/Fergana_International_Airport,UTKF
 41794,UTKK,small_airport,Kokand Airport,40.447183,70.989144,1357,AS,UZ,UZ-FA,Kokand,no,,OQN,UTKK,,,,Kokand South
 32558,UTNM,small_airport,Muynak Airport,43.753636,59.029884,177,AS,UZ,UZ-QR,Muynak,no,UTNM,MOK,UTNM,,,https://en.wikipedia.org/wiki/Muynak_Airport,
-32013,UTNN,medium_airport,Nukus Airport,42.4884,59.623299,246,AS,UZ,UZ-QR,Nukus,yes,UTNN,NCU,UTNN,,,https://en.m.wikipedia.org/wiki/Nukus_Airport,
-26387,UTNU,medium_airport,Urgench Airport,41.58430099487305,60.641700744628906,320,AS,UZ,UZ-XO,Urgench,yes,UTNU,UGC,UTNU,,,https://en.wikipedia.org/wiki/Urgench_Airport,
-32561,UTSA,medium_airport,Navoi Airport,40.117199,65.170799,1140,AS,UZ,UZ-NW,Navoi,yes,UTSA,NVI,UTSA,,,https://en.wikipedia.org/wiki/Navoi_International_Airport,
-26388,UTSB,medium_airport,Bukhara International Airport,39.775002,64.483299,751,AS,UZ,UZ-BU,Bukhara,yes,UTSB,BHK,UTSB,,,https://en.wikipedia.org/wiki/Bukhara_International_Airport,Buhara Airport
-26417,UTSK,small_airport,Karshi Airport,38.802246,65.773068,1230,AS,UZ,UZ-QA,Karshi,yes,UTSK,KSQ,UTSK,UT1N,,https://en.wikipedia.org/wiki/Karshi_Airport,Qarshi Airport
+32013,UTNN,medium_airport,Nukus Airport,42.4884,59.623299,246,AS,UZ,UZ-QR,Nukus,yes,UZNN,NCU,UTNN,,,https://en.m.wikipedia.org/wiki/Nukus_Airport,
+26387,UTNU,medium_airport,Urgench Airport,41.584301,60.641701,320,AS,UZ,UZ-XO,Urgench,yes,UZNU,UGC,UTNU,,,https://en.wikipedia.org/wiki/Urgench_Airport,
+32561,UTSA,medium_airport,Navoi Airport,40.117199,65.170799,1140,AS,UZ,UZ-NW,Navoi,yes,UZSA,NVI,UTSA,,,https://en.wikipedia.org/wiki/Navoi_International_Airport,
+26388,UTSB,medium_airport,Bukhara International Airport,39.775002,64.483299,751,AS,UZ,UZ-BU,Bukhara,yes,UZSB,BHK,UZSB,,,https://en.wikipedia.org/wiki/Bukhara_International_Airport,"UTSB, Buhara Airport"
+26417,UTSK,small_airport,Karshi Airport,38.802246,65.773068,1230,AS,UZ,UZ-QA,Karshi,yes,UZSK,KSQ,UTSK,UT1N,,https://en.wikipedia.org/wiki/Karshi_Airport,Qarshi Airport
 41685,UTSN,small_airport,Sugraly Airport,41.613899,64.2332,1396,AS,UZ,UZ-NW,Zarafshan,yes,UTSN,AFS,UTSN,,,https://en.wikipedia.org/wiki/Zarafshan_Airport,
-26390,UTSS,medium_airport,Samarkand Airport,39.70050048828125,66.98380279541016,2224,AS,UZ,UZ-SA,Samarkand,yes,UTSS,SKD,UTSS,,,https://en.wikipedia.org/wiki/Samarkand_Airport,
-26391,UTST,medium_airport,Termez Airport,37.287261,67.311869,1027,AS,UZ,UZ-SU,Termez,yes,UTST,TMJ,UTST,,,https://en.wikipedia.org/wiki/Termez_Airport,
+26390,UTSS,medium_airport,Samarkand Airport,39.7005,66.983803,2224,AS,UZ,UZ-SA,Samarkand,yes,UZSS,SKD,UZSS,,,https://en.wikipedia.org/wiki/Samarkand_Airport,UTSS
+26391,UTST,medium_airport,Termez Airport,37.287261,67.311869,1027,AS,UZ,UZ-SU,Termez,yes,UZST,TMJ,UTST,,,https://en.wikipedia.org/wiki/Termez_Airport,
 41687,UTTP,medium_airport,Tashkent East Airport,41.312889,69.395535,1574,AS,UZ,UZ-TO,Tashkent,yes,UZTP,,UZTP,,,https://uz.wikipedia.org/wiki/Toshkent-sharqiy_aerodromi,Tashkent Vostochny Airport
 26392,UTTT,large_airport,Tashkent International Airport,41.2579,69.281197,1417,AS,UZ,UZ-TO,Tashkent,yes,UZTT,TAS,UZTT,,,https://en.wikipedia.org/wiki/Tashkent_International_Airport,
 598248,UTTZ,medium_airport,Zomin Airport,40.01402,68.41103,1760,AS,UZ,UZ-JI,Zaamin,yes,UTTZ,OMN,UTTZ,,,https://en.wikipedia.org/wiki/Zomin_Airport,
