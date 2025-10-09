@@ -5617,7 +5617,7 @@
 12227,"59OI","heliport","Airwolf Heliport",41.450199127197266,-81.05079650878906,1155,"NA","US","US-OH","Middlefield","no",,,"59OI","59OI",,,
 12228,"59OK","heliport","Camp Gruber Heliport",35.67495,-95.201342,586,"NA","US","US-OK","Braggs","no",,,"59OK","59OK",,,
 12229,"59OR","heliport","McNary Dam Heliport",45.926309,-119.294057,366,"NA","US","US-OR","Umatilla","no",,,"59OR","59OR","https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/McNary-Lock-and-Dam/",,"McNary Lock"
-12230,"59PA","small_airport","Erkes Airport",40.537601470947266,-75.08709716796875,340,"NA","US","US-PA","Upper Black Eddy","no",,,"59PA","59PA",,,
+12230,"59PA","closed","Erkes Airport",40.537601,-75.087097,340,"NA","US","US-PA","Upper Black Eddy","no",,,,,,,"59PA"
 12232,"59TA","heliport","Kaneb Heliport",29.61520004272461,-95.60440063476562,120,"NA","US","US-TX","Sugar Land","no",,,"59TA","59TA",,,
 12235,"59TS","small_airport","Rossler Ranch Airport",28.14310073852539,-98.1583023071289,250,"NA","US","US-TX","George West","no",,,"59TS","59TS",,,
 12236,"59TX","small_airport","Benjamin Franklin Airport",32.487442,-97.490208,990,"NA","US","US-TX","Godley","no",,,"59TX","59TX",,,
@@ -16321,6 +16321,7 @@
 46166,"BY-9937","closed","Ross Air Base",53.303,24.369,,"EU","BY","BY-HR","Ross","no",,,,,,,"Аэродром Россь, УММР, UMMR"
 319602,"BY-9938","small_airport","Shchuchyn",53.598206,24.763414,575,"EU","BY","BY-HR","Shchuchyn","no",,,,"XMDU",,,"ЬМФЙ, Щучин, BY-9938"
 596622,"BY-9939","small_airport","Parakhonsk Airfield",52.214531,26.425787,497,"EU","BY","BY-BR","Parakhonsk","no",,,,"ZF5N",,,"ЗФ5Н, Парахонск"
+600975,"BY-9940","closed","Brest-1 Airport",52.113578,23.659262,,"EU","BY","BY-BR","Brest","no",,,,,,,
 16506,"BYA","small_airport","Boundary Airport",64.077678,-141.122088,2940,"NA","US","US-AK","Boundary","no",,"BYA","BYA","BYA",,,
 302393,"BYL","small_airport","Bella Yella Airport",7.36916666667,-9.99372222222,690,"AF","LR","LR-LO","Beliyela","no",,"BYL",,,,,
 300806,"BYV","seaplane_base","Beira Lake Seaplane Base",6.9294444444400005,79.85416666670001,17,"AS","LK","LK-1","Colombo","no",,"BYV",,,,,
@@ -16349,11 +16350,11 @@
 42214,"BZ-MDB","small_airport","Melinda Airport",17.004299,-88.304199,101,"NA","BZ","BZ-SC","Melinda","no",,"MDB","MZML",,,"https://en.wikipedia.org/wiki/Melinda_Airport",
 42212,"BZ-ORZ","small_airport","H.E Alfredo Martinez (Tower Hill) Airstrip",18.046767,-88.583858,69,"NA","BZ","BZ-OW","Orange Walk","yes",,"ORZ","MZAM",,,"https://en.wikipedia.org/wiki/Orange_Walk_Airport","Orange Walk Airport"
 35305,"BZ-PND","medium_airport","Punta Gorda Airport",16.1024,-88.808296,7,"NA","BZ","BZ-TOL","Punta Gorda","yes",,"PND","MZPG","PND",,"https://en.wikipedia.org/wiki/Punta_Gorda_Airport_(Belize)",
-42210,"BZ-SJX","medium_airport","Sartaneja Airport",18.3561,-88.130798,3,"NA","BZ","BZ-CZL","Sartaneja","yes",,"SJX","MZSJ",,,"https://en.wikipedia.org/wiki/Sartaneja_Airport",
+42210,"BZ-SJX","medium_airport","Sartaneja Airport",18.3561,-88.130798,3,"NA","BZ","BZ-CZL","Sartaneja","no",,"SJX","MZSJ",,,"https://en.wikipedia.org/wiki/Sartaneja_Airport",
 32370,"BZ-SPR","medium_airport","John Greif II Airport",17.9139,-87.9711,4,"NA","BZ","BZ-CY","San Pedro","yes",,"SPR","MZSP",,,"https://en.wikipedia.org/wiki/San_Pedro_Airport",
 42218,"BZ-SQS","small_airport","Matthew Spain Airport",17.185898,-89.009936,199,"NA","BZ","BZ-CY","Spanish Lookout","no",,"SQS","MZCF",,,"https://en.wikipedia.org/wiki/Matthew_Spain_Airport","Central Farm Airstrip"
 42211,"BZ-STU","small_airport","Santa Cruz Airport",18.2721004486084,-88.456298828125,18,"NA","BZ","BZ-CZL","Santa Cruz","no",,"STU",,,,,
-42208,"BZ-SVK","small_airport","Silver Creek Airport",16.728338,-88.369174,216,"NA","BZ","BZ-SC","Silver Creek","yes",,"SVK","MZKT",,,"https://en.wikipedia.org/wiki/Silver_Creek_Airport",
+42208,"BZ-SVK","small_airport","Silver Creek Airport",16.728338,-88.369174,216,"NA","BZ","BZ-SC","Silver Creek","no",,"SVK","MZKT",,,"https://en.wikipedia.org/wiki/Silver_Creek_Airport",
 42215,"BZ-TZA","medium_airport","Sir Barry Bowen Municipal Airport",17.517239,-88.195775,8,"NA","BZ","BZ-BZ","Belize City","yes",,"TZA","MZBE",,,"https://en.wikipedia.org/wiki/Belize_City_Municipal_Airport","Belize City Municipal"
 27300,"BZB","medium_airport","Bazaruto Island Airport",-21.5411,35.4729,,"AF","MZ","MZ-I","Bazaruto Island","no",,"BZB",,,,"https://en.wikipedia.org/wiki/Bazaruto_Island_Airport",
 302391,"BZM","small_airport","Bemolanga Airport",-17.6925,45.0888333333,950,"AF","MG","MG-M","Bemolanga","no",,"BZM",,,,,
@@ -24714,7 +24715,7 @@
 321577,"ES-0198","small_airport","Aeródromo de La Vid de Bureba",42.632037,-3.311456,2297,"EU","ES","ES-CL","La Vid de Bureba","no",,,"LEDB",,,,"AeroLaVid"
 321580,"ES-0199","small_airport","Aeródromo de Aldeacentenara",39.5609167,-5.6637222,1772,"EU","ES","ES-EX","Aldeacentenara","no",,,,,,,
 321581,"ES-0200","small_airport","Xeraco Airfield",39.025781,-0.207753,23,"EU","ES","ES-VC","Xeraco","no",,,,,,,
-321582,"ES-0201","small_airport","Cogullada",41.691623,-0.85157,673,"EU","ES","ES-AR","Zaragoza","no",,,,,,,
+321582,"ES-0201","heliport","Cogullada Heliport",41.690459,-0.848887,673,"EU","ES","ES-AR","Zaragoza","no",,,,,,,
 321583,"ES-0202","small_airport","Aeródromo de Garrucha",37.197959,-1.830627,52,"EU","ES","ES-AN",,"no",,,,,,,
 321584,"ES-0203","small_airport","Aeródromo Lanzahita UL",40.186112,-4.946256,1329,"EU","ES","ES-CL","Lanzahita","no",,,,,,,
 321601,"ES-0204","small_airport","Mollerussa UL",41.6122017,0.8541227,984,"EU","ES","ES-CT","Mollerussa","no",,,,,"http://www.clubaeri.net/",,
@@ -41537,7 +41538,7 @@
 20912,"KRBG","small_airport","Roseburg Regional Airport",43.238800048799995,-123.356002808,529,"NA","US","US-OR","Roseburg","no","KRBG","RBG","KRBG","RBG","http://www.cityofroseburg.org/departments/airport/","https://en.wikipedia.org/wiki/Roseburg_Regional_Airport","Major General Marion E. Carl Memorial Field"
 3839,"KRBL","medium_airport","Red Bluff Municipal Airport",40.1506996155,-122.251998901,352,"NA","US","US-CA","Red Bluff","no","KRBL","RBL","KRBL","RBL",,"https://en.wikipedia.org/wiki/Red_Bluff_Municipal_Airport",
 20913,"KRBM","small_airport","Robinson Army Air Field",34.847656,-92.29949,587,"NA","US","US-AR","North Little Rock","no",,,"KRBM","RBM",,"https://en.wikipedia.org/wiki/Robinson_Army_Airfield",
-20914,"KRBO","small_airport","Nueces County Airport",27.778103,-97.690098,79,"NA","US","US-TX","Robstown","no",,,"KRBO","RBO",,,
+20914,"KRBO","small_airport","Nueces County Airport",27.778103,-97.690098,79,"NA","US","US-TX","Robstown","no",,,"KRBO","RBO",,,"Kingsville NOLF 33"
 20915,"KRBW","small_airport","Lowcountry Regional Airport",32.921001434299995,-80.6406021118,101,"NA","US","US-SC","Walterboro","no","KRBW","RBW","KRBW","RBW","http://lowcountryairport.com/","https://en.wikipedia.org/wiki/Lowcountry_Regional_Airport","C.C. Anderson Landing Field, Walterboro AAF"
 3840,"KRCA","medium_airport","Ellsworth Air Force Base",44.14500046,-103.1039963,3276,"NA","US","US-SD","Rapid City","no","KRCA","RCA","KRCA","RCA","http://www.ellsworth.af.mil/","https://en.wikipedia.org/wiki/Ellsworth_Air_Force_Base","28th Bomb Wing"
 20916,"KRCK","small_airport","H H Coffield Regional Airport",30.6315994263,-96.9897003174,474,"NA","US","US-TX","Rockdale","no","KRCK","RCK","KRCK","RCK","http://www.rockdalecityhall.com/index.aspx?nid=127",,
@@ -43721,7 +43722,7 @@
 316576,"LLIC","heliport","Sourasky (Ichilov) Medical Center",32.08,34.7897222,285,"AS","IL","IL-TA","Tel Aviv","no",,,"LLIC",,,,"echilov,איכילוב"
 30028,"LLKS","small_airport","Kiryat Shmona Airport",33.216275,35.59622,386,"AS","IL","IL-Z","Kiryat Shmona","no","LLKS","KSW","LLKS",,,"https://en.wikipedia.org/wiki/Kiryat_Shmona_Airport",
 313919,"LLL","small_airport","Lissadell Airport",-16.661,128.594,374,"OC","AU","AU-WA","Lissadell Station","no",,"LLL",,,,,
-4420,"LLMG","small_airport","Megiddo Airport",32.597301,35.228802,200,"AS","IL","IL-Z","Afula","no","LLMG",,"LLMG",,,"https://en.wikipedia.org/wiki/Megiddo_Airport",
+4420,"LLMG","small_airport","Megiddo Airport",32.597301,35.228802,200,"AS","IL","IL-Z","Afula","no","LLMG",,"LLMG",,"https://www.megido-air.co.il/about-6","https://en.wikipedia.org/wiki/Megiddo_Airport",
 30144,"LLMR","small_airport","Mitzpe Ramon Airfield",30.65060043334961,34.80690002441406,2556,"AS","IL","IL-D","Mitzpe Ramon","no","LLMR",,"LLMR",,,"https://en.wikipedia.org/wiki/Mitzpe_Ramon_Airfield",
 4421,"LLMZ","medium_airport","Bar Yehuda Airfield",31.328199,35.388599,-1266,"AS","IL","IL-D","Masada","no","LLMZ","MTZ","LLMZ",,,"https://en.wikipedia.org/wiki/Bar_Yehuda_Airfield","Masada Airfield"
 4422,"LLNV","medium_airport","Nevatim Air Base",31.208299636799996,35.012298584,1330,"AS","IL","IL-D","Beersheba","no","LLNV","VTM","LLNV",,,"https://en.wikipedia.org/wiki/Nevatim_Airbase","Malhata, Be'er Sheva"
@@ -69540,6 +69541,8 @@
 600949,"US-12765","heliport","Abrazo Buckeye Hospital Heliport",33.458289,-112.511497,1093,"NA","US","US-AZ","Buckeye","no",,,"29AZ","29AZ",,,
 600951,"US-12766","heliport","Riverside Smithfield Hospital Heliport",36.937019,-76.588594,55,"NA","US","US-VA","Smithfield","no",,,"2VA9","2VA9",,,
 600955,"US-12767","closed","Kingsville Naval Outlying Landing Field 1-B",27.611146,-97.477226,,"NA","US","US-TX","Kingsville","no",,,,,,"https://en.wikipedia.org/wiki/Kingsville_Naval_Outlying_Fields",
+600959,"US-12768","closed","(Duplicate)Kingsville Naval Outlying Landing Field Number 33",27.775114,-97.689486,,"NA","US","US-TX","Kingsville","no",,,,,,,
+600960,"US-12769","small_airport","J P Reilly Airport",41.902728,-75.989276,1650,"NA","US","US-PA","Friendsville","no",,,"59PA","59PA",,,
 334317,"US-1277","small_airport","Dungan Airport",39.719401,-85.269278,1064,"NA","US","US-IN","Connersville","no",,,"IN12","IN12",,,
 334319,"US-1278","heliport","Foote Farm Association RLA Heliport",43.989494,-73.239858,167,"NA","US","US-VT","Cornwall","no",,,"VT54","VT54",,,
 334321,"US-1279","heliport","West Street Property Heliport",43.987683,-73.25274,181,"NA","US","US-VT","Cornwall","no",,,"VT24","VT24",,,"Quesnel Farm"
@@ -78424,24 +78427,24 @@
 6377,"UTDK","medium_airport","Kulob Airport",37.98809814453125,69.80500030517578,2293,"AS","TJ","TJ-KT","Kulyab","yes","UTDK","TJU","UTDK",,,"https://en.wikipedia.org/wiki/Kulob_Airport",
 26386,"UTDL","medium_airport","Khujand Airport",40.215401,69.694702,1450,"AS","TJ","TJ-SU","Khujand","yes","UTDL","LBD","UTDL",,,"https://en.wikipedia.org/wiki/Khudzhand_Airport","Khodjend, Khodzhent, Leninabad, Khudzhand"
 32556,"UTDT","medium_airport","Qurghonteppa International Airport",37.86640167236328,68.86470031738281,1473,"AS","TJ","TJ-KT","Kurgan-Tyube","yes","UTDT","KQT","UTDT",,,"https://en.wikipedia.org/wiki/Qurghonteppa_International_Airport","Kurgan-Tube"
-32038,"UTFN","small_airport","Namangan Airport",40.9846,71.556702,1555,"AS","UZ","UZ-NG","Namangan","yes","UTFN","NMA","UTFN",,,"https://en.wikipedia.org/wiki/Namangan_Airport",
+32038,"UTFN","small_airport","Namangan Airport",40.9846,71.556702,1555,"AS","UZ","UZ-NG","Namangan","yes","UZFN","NMA","UTFN",,,"https://en.wikipedia.org/wiki/Namangan_Airport",
 30672,"UTKA","medium_airport","Andizhan Airport",40.727699,72.293999,1515,"AS","UZ","UZ-AN","Andizhan","yes","UZFA","AZN","UZFA",,,"https://en.wikipedia.org/wiki/Andizhan_Airport","UTKA, Andijan Airport"
 31118,"UTKF","medium_airport","Fergana International Airport",40.358799,71.745003,1980,"AS","UZ","UZ-FA","Fergana","yes","UZFF","FEG","UZFF",,,"https://en.wikipedia.org/wiki/Fergana_International_Airport","UTKF"
 41794,"UTKK","small_airport","Kokand Airport",40.447183,70.989144,1357,"AS","UZ","UZ-FA","Kokand","no",,"OQN","UTKK",,,,"Kokand South"
 32558,"UTNM","small_airport","Muynak Airport",43.753636,59.029884,177,"AS","UZ","UZ-QR","Muynak","no","UTNM","MOK","UTNM",,,"https://en.wikipedia.org/wiki/Muynak_Airport",
-32013,"UTNN","medium_airport","Nukus Airport",42.4884,59.623299,246,"AS","UZ","UZ-QR","Nukus","yes","UTNN","NCU","UTNN",,,"https://en.m.wikipedia.org/wiki/Nukus_Airport",
+32013,"UTNN","medium_airport","Nukus Airport",42.4884,59.623299,246,"AS","UZ","UZ-QR","Nukus","yes","UZNN","NCU","UTNN",,,"https://en.m.wikipedia.org/wiki/Nukus_Airport",
 32559,"UTNT","small_airport","Turtkul Airport",41.57500076293945,60.96659851074219,305,"AS","UZ","UZ-QR","Turtkul","no",,,"UTNT",,,,
-26387,"UTNU","medium_airport","Urgench Airport",41.58430099487305,60.641700744628906,320,"AS","UZ","UZ-XO","Urgench","yes","UTNU","UGC","UTNU",,,"https://en.wikipedia.org/wiki/Urgench_Airport",
-32561,"UTSA","medium_airport","Navoi Airport",40.117199,65.170799,1140,"AS","UZ","UZ-NW","Navoi","yes","UTSA","NVI","UTSA",,,"https://en.wikipedia.org/wiki/Navoi_International_Airport",
-26388,"UTSB","medium_airport","Bukhara International Airport",39.775002,64.483299,751,"AS","UZ","UZ-BU","Bukhara","yes","UTSB","BHK","UTSB",,,"https://en.wikipedia.org/wiki/Bukhara_International_Airport","Buhara Airport"
+26387,"UTNU","medium_airport","Urgench Airport",41.584301,60.641701,320,"AS","UZ","UZ-XO","Urgench","yes","UZNU","UGC","UTNU",,,"https://en.wikipedia.org/wiki/Urgench_Airport",
+32561,"UTSA","medium_airport","Navoi Airport",40.117199,65.170799,1140,"AS","UZ","UZ-NW","Navoi","yes","UZSA","NVI","UTSA",,,"https://en.wikipedia.org/wiki/Navoi_International_Airport",
+26388,"UTSB","medium_airport","Bukhara International Airport",39.775002,64.483299,751,"AS","UZ","UZ-BU","Bukhara","yes","UZSB","BHK","UZSB",,,"https://en.wikipedia.org/wiki/Bukhara_International_Airport","UTSB, Buhara Airport"
 41812,"UTSH","small_airport","Shahrisabz Airport",39.068003,66.758388,1900,"AS","UZ","UZ-QA","Shahrisabz","no",,,"UTSH",,,,
-26417,"UTSK","small_airport","Karshi Airport",38.802246,65.773068,1230,"AS","UZ","UZ-QA","Karshi","yes","UTSK","KSQ","UTSK","UT1N",,"https://en.wikipedia.org/wiki/Karshi_Airport","Qarshi Airport"
+26417,"UTSK","small_airport","Karshi Airport",38.802246,65.773068,1230,"AS","UZ","UZ-QA","Karshi","yes","UZSK","KSQ","UTSK","UT1N",,"https://en.wikipedia.org/wiki/Karshi_Airport","Qarshi Airport"
 26389,"UTSL","small_airport","Karshi-Khanabad Air Base",38.833599,65.921501,1365,"AS","UZ","UZ-QA","Khanabad","no",,,"UTSL",,,"https://en.wikipedia.org/wiki/Karshi-Khanabad_Air_Base","UTSL, K2 Air Base, Qarshi Khanabad Airport"
 41821,"UTSM","small_airport","Tandy Bulak Airport",41.76079177856445,64.60240173339844,716,"AS","UZ","UZ-NW","Tandy Bulak","no",,,"UTSM",,,,
 41685,"UTSN","small_airport","Sugraly Airport",41.613899,64.2332,1396,"AS","UZ","UZ-NW","Zarafshan","yes","UTSN","AFS","UTSN",,,"https://en.wikipedia.org/wiki/Zarafshan_Airport",
 41686,"UTSR","small_airport","Sariasiya Airport",38.41059875488281,67.94519805908203,1949,"AS","UZ","UZ-SU","Sariasiya","no",,,"UTSR",,,,
-26390,"UTSS","medium_airport","Samarkand Airport",39.70050048828125,66.98380279541016,2224,"AS","UZ","UZ-SA","Samarkand","yes","UTSS","SKD","UTSS",,,"https://en.wikipedia.org/wiki/Samarkand_Airport",
-26391,"UTST","medium_airport","Termez Airport",37.287261,67.311869,1027,"AS","UZ","UZ-SU","Termez","yes","UTST","TMJ","UTST",,,"https://en.wikipedia.org/wiki/Termez_Airport",
+26390,"UTSS","medium_airport","Samarkand Airport",39.7005,66.983803,2224,"AS","UZ","UZ-SA","Samarkand","yes","UZSS","SKD","UZSS",,,"https://en.wikipedia.org/wiki/Samarkand_Airport","UTSS"
+26391,"UTST","medium_airport","Termez Airport",37.287261,67.311869,1027,"AS","UZ","UZ-SU","Termez","yes","UZST","TMJ","UTST",,,"https://en.wikipedia.org/wiki/Termez_Airport",
 32562,"UTSU","small_airport","Uchkuduk Airport",42.083099365234375,63.44929885864258,416,"AS","UZ","UZ-NW","Uchkuduk","no",,,"UTSU",,,,
 41687,"UTTP","medium_airport","Tashkent East Airport",41.312889,69.395535,1574,"AS","UZ","UZ-TO","Tashkent","yes","UZTP",,"UZTP",,,"https://uz.wikipedia.org/wiki/Toshkent-sharqiy_aerodromi","Tashkent Vostochny Airport"
 26392,"UTTT","large_airport","Tashkent International Airport",41.2579,69.281197,1417,"AS","UZ","UZ-TO","Tashkent","yes","UZTT","TAS","UZTT",,,"https://en.wikipedia.org/wiki/Tashkent_International_Airport",
