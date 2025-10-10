@@ -1897,7 +1897,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2638,EPWR,medium_airport,Copernicus Wrocław Airport,51.103719,16.882096,404,EU,PL,PL-DS,Wrocław,yes,EPWR,WRO,EPWR,,http://www.airport.wroclaw.pl/en/index.php,https://en.wikipedia.org/wiki/Copernicus_Airport_Wroc%C5%82aw,"Strachowice, Breslau, Wroclaw"
 2639,EPZG,medium_airport,Zielona Góra-Babimost Airport,52.1385,15.7986,194,EU,PL,PL-LB,Nowe Kramsko,yes,EPZG,IEG,EPZG,,http://www.lotnisko.zielonagora.pl/,https://en.wikipedia.org/wiki/Zielona_G%C3%B3ra_Airport,
 302496,ERT,small_airport,Erdenet Airport,48.983056,104.150556,4200,AS,MN,MN-035,Erdenet,no,,ERT,,,,https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Erdenet,
-321529,ES-0190,small_airport,El Molinillo Airfield,38.739954,-6.391888,1034,EU,ES,ES-EX,Almendralejo,no,LELI,,,,https://aeroclubalavi.es/,,
+321529,ES-0190,small_airport,El Molinillo Airfield,38.739954,-6.391888,1034,EU,ES,ES-EX,Almendralejo,no,LELI,,LELI,,https://aeroclubalavi.es/,,
 429793,ES-0324,heliport,Melilla Heliport,35.3021,-2.94448,225,AF,ES,ES-ML,Melilla,no,GEHM,,GEHM,,,,
 331423,ES-0366,small_airport,El Rinconcillo de Guadalupe,39.594127,-6.206276,,EU,ES,ES-EX,,no,LEGP,,LEGP,,,,LEGP
 598704,ES-0368,small_airport,(??Duplicate??)LEVS AIRPORT,12.862546,-13.818091,2269,AF,ES,ES-MD,,no,LEVS,,,,,,
@@ -3391,7 +3391,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 429741,IN-0346,small_airport,Bihta Air Force Station,25.59124,84.88312,194,AS,IN,IN-BR,Patna,no,VEBT,,,,,https://en.wikipedia.org/wiki/Bihta_Air_Force_Station,
 520373,IN-0376,small_airport,Utkela Airport,20.097778,83.183333,685,AS,IN,IN-OR,Bhawanipatna,yes,,UKE,,,,https://en.wikipedia.org/wiki/Utkela_Airport,
 26454,IN-0382,small_airport,Gandhinagar Airfield,19.963699,73.807602,1959,AS,IN,IN-MM,Nashik,no,VANR,,VANR,,,https://en.wikipedia.org/wiki/Gandhinagar_Airport,"ISK, Nashik Road Airport"
-597786,IN-0392,small_airport,Noida International Airport,28.175556,77.60611,,AS,IN,IN-UP,,no,VIND,,,,https://niairport.in/,https://en.wikipedia.org/wiki/Noida_International_Airport,
+597786,IN-0392,medium_airport,Noida International Airport,28.179868,77.611843,644,AS,IN,IN-UP,Gautam Buddha Nagar,no,VIND,,,,https://niairport.in/,https://en.wikipedia.org/wiki/Noida_International_Airport,
 598586,IN-0393,medium_airport,Maa Mahamaya Airport,22.98753,83.19612,1930,AS,IN,IN-CT,Ambikapur,yes,VEAP,AHA,,,https://www.aai.aero/en/node/71997,https://en.wikipedia.org/wiki/Maa_Mahamaya_Airport,"Ambikapur, Darima"
 31698,IN-JGB,small_airport,Jagdalpur Airport,19.074301,82.036797,1822,AS,IN,IN-CT,Jagdalpur,yes,VEJR,JGB,VEJR,VEJR,,https://en.wikipedia.org/wiki/Jagdalpur_Airport,
 32215,IN-RJI,small_airport,Rajouri Airport,33.377899,74.315201,3000,AS,IN,IN-JK,Rajouri,no,,RJI,,,,https://en.wikipedia.org/wiki/Rajouri_Airport,Rajauri
@@ -3915,7 +3915,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 19721,KECS,small_airport,Mondell Field,43.88379,-104.314156,4174,NA,US,US-WY,Newcastle,no,KECS,ECS,KECS,ECS,,,
 19723,KEDE,small_airport,Northeastern Regional Airport,36.027698516799994,-76.56710052490001,20,NA,US,US-NC,Edenton,no,KEDE,EDE,KEDE,EDE,,https://en.wikipedia.org/wiki/Northeastern_Regional_Airport,"MCAS Edenton, NAAS Edenton"
 19726,KEDN,small_airport,Enterprise Municipal Airport,31.29969978,-85.89990234,361,NA,US,US-AL,Enterprise,no,KEDN,ETS,KEDN,EDN,,https://en.wikipedia.org/wiki/Enterprise_Municipal_Airport_(Alabama),
-3503,KEDW,medium_airport,Edwards Air Force Base,34.905399,-117.884003,2312,NA,US,US-CA,Edwards,no,KEDW,EDW,KEDW,EDW,,https://en.wikipedia.org/wiki/Edwards_Air_Force_Base,
+3503,KEDW,medium_airport,Edwards Air Force Base,34.910781,-117.886391,2312,NA,US,US-CA,Edwards,no,KEDW,EDW,KEDW,EDW,https://www.edwards.af.mil/,https://en.wikipedia.org/wiki/Edwards_Air_Force_Base,
 19727,KEED,medium_airport,Needles Airport,34.7663002014,-114.623001099,983,NA,US,US-CA,Needles,no,KEED,EED,KEED,EED,http://cms.sbcounty.gov/airports/Airports/Needles.aspx,https://en.wikipedia.org/wiki/Needles_Airport,Needles AAF
 3504,KEEN,medium_airport,Dillant Hopkins Airport,42.898399,-72.270798,488,NA,US,US-NH,Keene,no,KEEN,EEN,KEEN,EEN,https://ci.keene.nh.us/keene-dillant-hopkins-airport,https://en.wikipedia.org/wiki/Dillant-Hopkins_Airport,
 19731,KEFD,medium_airport,Ellington Airport,29.607299804700002,-95.1587982178,32,NA,US,US-TX,Houston,no,KEFD,EFD,KEFD,EFD,,https://en.wikipedia.org/wiki/Ellington_Airport_(Texas),Ellington Field
