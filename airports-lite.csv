@@ -3253,7 +3253,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 313249,HRC,small_airport,Sary Su Airport,48.3974,70.1915,1307,AS,KZ,KZ-ULY,Zhayrem,no,,HRC,,,,,"Zhairem, Жайрем"
 3236,HRYG,medium_airport,Gisenyi Airport,-1.6771999597549438,29.258899688720703,5082,AF,RW,RW-04,Gisenyi,no,HRYG,GYI,HRYG,,,https://en.wikipedia.org/wiki/Grayson_County_Airport,
 30801,HRYI,small_airport,Butare Airport,-2.59583,29.7367,5801,AF,RW,RW-05,Butare,no,HRYI,BTQ,HRYI,,,https://en.wikipedia.org/wiki/Butare_Airport,
-31612,HRYN,small_airport,Nemba Airport,-2.333,30.200001,4905,AF,RW,RW-02,Nemba,no,HYRN,,HRYN,,,https://en.wikipedia.org/wiki/Nemba_Airport,
+31612,HRYN,small_airport,Nemba Airport,-2.336167,30.206658,4905,AF,RW,RW-02,Nemba,no,HRYN,,HRYN,,,https://en.wikipedia.org/wiki/Nemba_Airport,
 3237,HRYR,large_airport,Kigali International Airport,-1.96863,30.1395,4859,AF,RW,RW-01,Kigali,yes,HRYR,KGL,HRYR,,,https://en.wikipedia.org/wiki/Kigali_International_Airport,"Gregoire Kayibanda International Airport, Kanombe International Airport"
 32208,HRYU,small_airport,Ruhengeri Airport,-1.496873,29.631343,6102,AF,RW,RW-03,Ruhengeri,no,HRYU,RHG,HRYU,,,https://en.wikipedia.org/wiki/Ruhengeri_Airport,
 3238,HRZA,medium_airport,Kamembe Airport,-2.462239980697632,28.907899856567383,5192,AF,RW,RW-04,Kamembe,yes,HRZA,KME,HRZA,,,https://en.wikipedia.org/wiki/Kamembe_Airport,
@@ -3398,6 +3398,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 311991,INE,small_airport,Chinde Airport,-18.59,36.4489,22,AF,MZ,MZ-Q,Chinde,no,,INE,,,,,
 313294,IOK,small_airport,Iokea Airport,-8.401,146.277,39,OC,PG,PG-GPK,Iokea,no,,IOK,,IOK,,,
 313299,IOP,small_airport,Ioma Airport,-8.3614,147.84,95,OC,PG,PG-NPP,Ioma,no,,IOP,,IOMA,,,
+44496,IQ-0003,small_airport,Al Iskandariyah Airport,32.969567,44.271268,146,AS,IQ,IQ-BB,Al Iskandariyah,no,ORAI,,ORAI,,,https://en.wikipedia.org/wiki/Al-Iskandariyah_New_Air_Base,
+44500,IQ-0007,small_airport,An Numaniyah Air Base,32.504356,45.33306,72,AS,IQ,IQ-WA,An Numaniyah,no,ORAN,,ORAN,,,,
+44546,IQ-0052,small_airport,Tikrit East Airport,34.608257,43.775711,,AS,IQ,IQ-SD,Tikrit,no,ORTK,,ORTK,,,https://en.wikipedia.org/wiki/Tikrit_East_Air_Base,
+44547,IQ-0053,small_airport,Tikrit South Airport,34.534641,43.677574,356,AS,IQ,IQ-SD,Tikrit,no,ORTS,,ORTS,,,https://en.wikipedia.org/wiki/Tikrit_South_Air_Base,"FOB Packhorse, FOB Remagen"
 317284,IRU,seaplane_base,Iranamadu Seaplane Base,9.299746,80.448627,102,AS,LK,LK-4,Iranamadu,no,,IRU,,,,,
 298700,IT-0010,small_airport,Calatabiano (Aviosuperficie Angelo D'Arrigo),37.799561,15.22775,197,EU,IT,IT-82,Calatabiano (CT),no,LICN,,LICN,CTFFD,http://www.triavio.eu,,"CT05, Etnavolo, Fiumefreddo di Sicilia"
 314853,IT-0061,heliport,Capitalia Heliport,41.824691,12.381729,116,EU,IT,IT-62,Rome,no,LIAD,,LIAD,,,,
@@ -6790,24 +6794,30 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5244,OOSA,medium_airport,Salalah Airport,17.038700103759766,54.09130096435547,73,AS,OM,OM-ZU,Salalah,yes,OOSA,SLL,OOSA,,http://www.dgcam.gov.om/str/airsalah.htm,https://en.wikipedia.org/wiki/Salalah_Airport,مطار صلالة
 299742,OOSH,small_airport,Sohar Airport,24.38604,56.62541,20,AS,OM,OM-BA,Sohar,yes,OOSH,OHS,OOSH,,,https://en.wikipedia.org/wiki/Sohar_Airport,Majis
 5245,OOTH,medium_airport,Thumrait Air Base,17.666,54.024601,1570,AS,OM,OM-ZU,Thumrait,no,OOTH,TTH,OOTH,,,https://en.wikipedia.org/wiki/RAFO_Thumrait,
+5459,OP10,small_airport,Thar Airport,27.203205,69.14884,167,AS,PK,PK-SD,Kandanwari,no,OPKW,KCF,OPKW,,,,"OP10, Chuchra"
 5466,OP17,small_airport,Dadu West Airport,26.740800857543945,67.6666030883789,128,AS,PK,PK-SD,Dadu,no,,DDU,OP17,OP17,,,
+5469,OP1A,small_airport,Jam Nida Northwest Airport,26.198099,67.5037,418,AS,PK,PK-SD,Jam Nida,no,OPBT,,OPBT,,,,"OP1A, Bhit Aerodrome"
 5246,OPBG,small_airport,Bhagatanwala Airport,32.056098938,72.94840240479999,600,AS,PK,PK-PB,Bhagatanwala,no,,BHW,OPBG,,,,
 30781,OPBN,small_airport,Bannu Airport,32.9729,70.527901,1325,AS,PK,PK-KP,Bannu,no,OPBN,BNP,OPBN,,,https://en.wikipedia.org/wiki/Bannu_Airport,
 41612,OPBR,small_airport,Bahawalnagar Airport,29.946300506591797,73.24909973144531,500,AS,PK,PK-PB,Bahawalnagar,no,,WGB,OPBR,,,,
 5247,OPBW,medium_airport,Bahawalpur Airport,29.348100662231445,71.71800231933594,392,AS,PK,PK-PB,Bahawalpur,yes,OPBW,BHV,OPBW,,,https://en.wikipedia.org/wiki/Bahawalpur_Airport,
 5248,OPCH,medium_airport,Chitral Airport,35.886213,71.799922,4920,AS,PK,PK-KP,Chitral,yes,OPCH,CJL,OPCH,,,https://en.wikipedia.org/wiki/Chitral_Airport,
 30826,OPCL,small_airport,Chilas Airport,35.426700592,74.081703186,4146,AS,PK,PK-GB,Chilas,no,OPCL,CHB,OPCL,,,https://en.wikipedia.org/wiki/Chilas_Airport,
+41613,OPCT,small_airport,Chirat Airport,33.968601,71.963535,1192,AS,PK,PK-KP,Nowshera,no,OPCT,,OPCT,,,,
 30878,OPDB,small_airport,Dalbandin Airport,28.878299713100002,64.3998031616,2800,AS,PK,PK-BA,Dalbandin,yes,OPDB,DBA,OPDB,,,https://en.wikipedia.org/wiki/Dalbandin_Airport,OPXX
 5249,OPDG,medium_airport,Dera Ghazi Khan Airport,29.961000442504883,70.48590087890625,492,AS,PK,PK-PB,Dera Ghazi Khan,yes,OPDG,DEA,OPDG,,,https://en.wikipedia.org/wiki/Dera_Ghazi_Khan_Airport,
 5250,OPDI,medium_airport,Dera Ismael Khan Airport [IN-ACTIVE],31.909401,70.896599,594,AS,PK,PK-KP,Dera Ismael Khan,no,OPDI,DSK,OPDI,,,https://en.wikipedia.org/wiki/Dera_Ismail_Khan_Airport,
 5251,OPFA,medium_airport,Faisalabad International Airport,31.364999771118164,72.99479675292969,591,AS,PK,PK-PB,Faisalabad,yes,OPFA,LYP,OPFA,,,https://en.wikipedia.org/wiki/Faisalabad_International_Airport,OPLF
-342092,OPGD,medium_airport,New Gwadar International Airport,25.296733,62.498822,61,AS,PK,PK-BA,Gurandani,yes,OPGD,GWD,OPGD,,https://aviation.gov.pk/ProjectDetail/M2QzOWJmMjUtZTU3MC00NmFkLWE4YmMtZDFhMmRlOGU2NGRh,https://en.wikipedia.org/wiki/New_Gwadar_International_Airport,Feroz Khan Noon
+342092,OPGD,medium_airport,New Gwadar International Airport,25.296733,62.498822,61,AS,PK,PK-BA,Gurandani,yes,OPGW,GWD,OPGW,,https://aviation.gov.pk/ProjectDetail/M2QzOWJmMjUtZTU3MC00NmFkLWE4YmMtZDFhMmRlOGU2NGRh,https://en.wikipedia.org/wiki/New_Gwadar_International_Airport,Feroz Khan Noon
 5253,OPGT,medium_airport,Gilgit Airport,35.918800354003906,74.33360290527344,4796,AS,PK,PK-GB,Gilgit,yes,OPGT,GIL,OPGT,,,https://en.wikipedia.org/wiki/Gilgit_Airport,
-5252,OPGW,medium_airport,Gwadar International Airport,25.232391,62.327671,36,AS,PK,PK-BA,Gwadar,no,OPGW,,OPGW,,,https://en.wikipedia.org/wiki/Gwadar_International_Airport,GWD
+5252,OPGW,medium_airport,Gwadar International Airport,25.232391,62.327671,36,AS,PK,PK-BA,Gwadar,no,OPGD,,OPGD,,,https://en.wikipedia.org/wiki/Gwadar_International_Airport,GWD
 333692,OPIS,large_airport,Islamabad International Airport,33.549,72.82566,1761,AS,PK,PK-PB,Attock,yes,OPIS,ISB,OPIS,,http://www.islamabadairport.com.pk/,https://en.wikipedia.org/wiki/Islamabad_International_Airport,
 5254,OPJA,medium_airport,Shahbaz Air Base,28.28420066833496,68.44969940185547,185,AS,PK,PK-SD,Jacobabad,no,OPJA,JAG,OPJA,,,https://en.wikipedia.org/wiki/Jacobabad_Airbase,
+41616,OPKA,small_airport,Cape Monz Airport,24.828406,66.666029,40,AS,PK,PK-SD,Cape Monz,no,OPKA,,OPKA,,,,
 5255,OPKC,large_airport,Jinnah International Airport,24.9065,67.160797,100,AS,PK,PK-SD,Karachi,yes,OPKC,KHI,OPKC,,,https://en.wikipedia.org/wiki/Jinnah_International_Airport,"OPQR, OPHQ, Drigh Road Airstrip, Quaid-E-Azam International Airport"
 31575,OPKD,small_airport,Hyderabad Airport,25.3181,68.366096,130,AS,PK,PK-SD,Hyderabad,yes,OPKD,HDD,OPKD,,,https://en.wikipedia.org/wiki/Hyderabad_Airport_(Sindh),
+32122,OPKE,small_airport,Chore Airport,25.525999,69.771797,200,AS,PK,PK-SD,Chore,no,OPKE,,OPKE,,,,
+41617,OPKF,small_airport,Gharo Airport,24.729,67.587601,20,AS,PK,PK-SD,Gharo,no,OPKF,,OPKF,,,,
 31735,OPKH,small_airport,Khuzdar Airport,27.790599823,66.6473007202,4012,AS,PK,PK-BA,Khuzdar,yes,OPKH,KDD,OPKH,,,https://en.wikipedia.org/wiki/Khuzdar_Airport,
 32100,OPKT,small_airport,Kohat Airport,33.5699996948,71.4400024414,1650,AS,PK,PK-KP,Kohat,no,OPKT,OHT,OPKT,,,https://en.wikipedia.org/wiki/Kohat_Airbase,
 5257,OPLA,large_airport,Allama Iqbal International Airport,31.521601,74.403603,712,AS,PK,PK-PB,Lahore,yes,OPLA,LHE,OPLA,,,https://en.wikipedia.org/wiki/Allama_Iqbal_International_Airport,OPLR
@@ -6848,6 +6858,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30776,ORBB,small_airport,Bamarni Airport,37.098801,43.266602,3455,AS,IQ,IQ-DA,Bamarni,no,ORBB,BMN,ORBB,,,https://en.wikipedia.org/wiki/Bamarni_Air_Base,
 5289,ORBI,large_airport,Baghdad International Airport / New Al Muthana Air Base,33.262501,44.2346,114,AS,IQ,IQ-BG,Baghdad,yes,ORBI,BGW,ORBI,,,https://en.wikipedia.org/wiki/Baghdad_International_Airport,"SDA, BIAP, VBC, ORBS, Camp Sather, Saddam International Airport, Al Anbar Airport"
 5290,ORBM,medium_airport,Mosul International Airport,36.305801,43.1474,719,AS,IQ,IQ-NI,Mosul,no,ORBM,OSM,ORBM,,,https://en.wikipedia.org/wiki/Mosul_International_Airport,OSB
+5291,ORBR,small_airport,Bashur Airfield,36.533699,44.339901,2079,AS,IQ,IQ-AR,Bashur,no,ORBR,,ORBR,,,,
 5292,ORER,medium_airport,Erbil International Airport,36.23759841918945,43.963199615478516,1341,AS,IQ,IQ-AR,Arbil,yes,ORER,EBL,ORER,,,https://en.wikipedia.org/wiki/Erbil_International_Airport,"Irbil, Kurdistan, فروکه‌خانه‌ی نيوده‌وله‌تی هه‌ولير"
 23950,ORI,small_airport,Port Lions Airport,57.884905,-152.847719,52,NA,US,US-AK,Port Lions,yes,,ORI,,ORI,,https://en.wikipedia.org/wiki/Port_Lions_Airport,
 5293,ORKK,medium_airport,Kirkuk Air Base,35.469501,44.3489,1061,AS,IQ,IQ-TS,Kirkuk,no,ORKK,KIK,ORKK,,,https://en.wikipedia.org/wiki/Kirkuk_International_Airport,
@@ -6855,7 +6866,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 311028,ORNI,medium_airport,Al Najaf International Airport,31.989853,44.404317,103,AS,IQ,IQ-NA,Najaf,yes,ORNI,NJF,ORNI,,http://www.alnajafairport.net/,https://en.wikipedia.org/wiki/Al_Najaf_International_Airport,
 5295,ORQW,medium_airport,Qayyarah West Airport,35.7672,43.125099,749,AS,IQ,IQ-NI,Qayyarah,no,,RQW,ORQW,,,https://en.wikipedia.org/wiki/Qayyarah_Airfield_West,
 5297,ORSU,medium_airport,Sulaymaniyah International Airport,35.5617485046,45.316738128699996,2494,AS,IQ,IQ-SW,Sulaymaniyah,yes,ORSU,ISU,ORSU,OSO,,https://en.wikipedia.org/wiki/Sulaimaniyah_International_Airport,"Kurd, Kurdish, Kurdistan"
+5298,ORTF,medium_airport,Tall Afar Army Air Field,36.2831,42.403,996,AS,IQ,IQ-NI,Tall Afar,no,ORTF,,ORTF,,,https://en.wikipedia.org/wiki/Tal_Afar_Air_Base,
+5299,ORTI,medium_airport,Al Taji Army Air Field,33.523899,44.256699,121,AS,IQ,IQ-BG,Taji,no,ORTI,,ORTI,,,"https://en.wikipedia.org/wiki/Taji,_Iraq#Camp_Taji",
 5300,ORTL,medium_airport,Ali Air Base,30.935801,46.090099,20,AS,IQ,IQ-DQ,Nasiriyah,no,,XNH,ORTL,,,https://en.wikipedia.org/wiki/Ali_Air_Base,"Tallil Air Base, Camp Adder"
+5301,ORUB,medium_airport,Ubaydah Bin Al Jarrah Airport,32.481998,45.757099,68,AS,IQ,IQ-WA,Al Kut,no,ORUB,,ORUB,,,,
 5302,OSAP,medium_airport,Aleppo International Airport,36.180698,37.2244,1276,AS,SY,SY-HL,Aleppo,yes,OSAP,ALP,OSAP,,http://www.aleppo-airport.com/en/,https://en.wikipedia.org/wiki/Aleppo_International_Airport,مطار حلب الدولي
 5303,OSDI,large_airport,Damascus International Airport,33.4114990234375,36.51559829711914,2020,AS,SY,SY-DI,Damascus,yes,OSDI,DAM,OSDI,,,https://en.wikipedia.org/wiki/Damascus_International_Airport,مطار دمشق الدولي
 5304,OSDZ,medium_airport,Deir ez-Zor Airport,35.2854,40.175999,700,AS,SY,SY-DY,Deir ez-Zor,no,OSDZ,DEZ,OSDZ,,,https://en.wikipedia.org/wiki/Deir_ez-Zor_Airport,"Al Jafrah Airport, مطار دير الزور"
@@ -6885,6 +6899,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5319,OYSQ,medium_airport,Socotra International Airport,12.6307,53.9058,146,AS,YE,YE-SU,Mori,yes,OYSQ,SCT,OYSQ,,,https://en.wikipedia.org/wiki/Socotra_Airport,Hadibu
 5320,OYSY,medium_airport,Seiyun Hadhramaut International Airport,15.9661,48.7883,2097,AS,YE,YE-HD,Seiyun,yes,OYSY,GXF,OYSY,,,https://en.wikipedia.org/wiki/Sayun_Airport,
 5321,OYTZ,medium_airport,Ta'izz International Airport,13.6859998703,44.139099121099996,4838,AS,YE,YE-TA,Ta'izz,yes,OYTZ,TAI,OYTZ,,,https://en.wikipedia.org/wiki/Ta'izz_International_Airport,Ganed Airport
+32144,OYZM,small_airport,Al-Hazm Airport,16.207117,44.790263,3200,AS,YE,YE-JA,Al-Hazm,no,OYZM,,OYZM,,,https://en.wikipedia.org/wiki/Al_Hazm_Airport,
 42182,PA-0001,small_airport,Achutupu Airport,9.188481,-77.994153,10,NA,PA,PA-GY,Mamitupu,no,,ACU,MPAC,,,https://en.wikipedia.org/wiki/Achutupo_Airport,Achutupo
 42184,PA-0003,small_airport,Ailigandí Airport,9.2226,-78.0236,55,NA,PA,PA-GY,Isla Lorenzo Bello,no,,AIL,MPAI,,,https://en.wikipedia.org/wiki/Ailigandí_Airport,"Ailigandi, Alligandi"
 42185,PA-0004,small_airport,Cartí Airport,9.452863,-78.978917,6,NA,PA,PA-GY,Cartí Islands,no,,CTE,,,,https://en.wikipedia.org/wiki/Cart%C3%AD_Airport,
@@ -6911,6 +6926,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5341,PABM,small_airport,Big Mountain Airport,59.362274,-155.260148,663,NA,US,US-AK,Big Mountain,no,PABM,BMX,PABM,37AK,,https://en.wikipedia.org/wiki/Big_Mountain_Air_Force_Station,Big Mountain Air Force Station
 5342,PABR,medium_airport,Wiley Post Will Rogers Memorial Airport,71.285402,-156.766008,44,NA,US,US-AK,Utqiaġvik,yes,PABR,BRW,PABR,BRW,,https://en.wikipedia.org/wiki/Wiley_Post-Will_Rogers_Memorial_Airport,Barrow
 5343,PABT,small_airport,Bettles Airport,66.913902,-151.529007,647,NA,US,US-AK,Bettles,yes,PABT,BTT,PABT,BTT,,https://en.wikipedia.org/wiki/Bettles_Airport,
+5344,PABV,medium_airport,Birchwood Airport,61.4165,-149.507004,83,NA,US,US-AK,Birchwood,no,PABV,,PABV,BCV,,https://en.wikipedia.org/wiki/Birchwood_Airport,
 5345,PACD,medium_airport,Cold Bay Airport,55.207871,-162.725029,96,NA,US,US-AK,Cold Bay,yes,PACD,CDB,PACD,CDB,,https://en.wikipedia.org/wiki/Cold_Bay_Airport,
 16709,PACE,small_airport,Central Airport,65.573815,-144.780707,937,NA,US,US-AK,Central,yes,PACE,CEM,PACE,CEM,,https://en.wikipedia.org/wiki/Central_Airport,
 16714,PACI,small_airport,Chalkyitsik Airport,66.644997,-143.740005,544,NA,US,US-AK,Chalkyitsik,yes,PACI,CIK,PACI,CIK,,https://en.wikipedia.org/wiki/Chalkyitsik_Airport,
@@ -7156,10 +7172,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5456,PHSF,small_airport,Bradshaw Army Airfield,19.760099,-155.554001,6190,OC,US,US-HI,Waimea (Kamuela),no,PHSF,BSF,PHSF,BSF,,https://en.wikipedia.org/wiki/Pohakuloa_Training_Area,Pohakuloa
 5457,PHTO,medium_airport,Hilo International Airport,19.721399,-155.048004,38,OC,US,US-HI,Hilo,yes,PHTO,ITO,PHTO,ITO,,https://en.wikipedia.org/wiki/Hilo_International_Airport,
 5458,PHUP,small_airport,Upolu Airport,20.265301,-155.860001,96,OC,US,US-HI,Hawi,no,PHUP,UPP,PHUP,UPP,,https://en.wikipedia.org/wiki/Upolu_Airport,
+31704,PK-0083,small_airport,Jiwani Airport (INACTIVE},25.067801,61.805401,186,AS,PK,PK-BA,Jiwani,yes,OPJI,JIW,OPJI,,,https://en.wikipedia.org/wiki/Jiwani_Airport,
 41628,PK-BHC,small_airport,Bhurban Heliport,33.96099853515625,73.4520034790039,5750,AS,PK,PK-KP,Bhurban,no,,BHC,,,,,
 41629,PK-CWP,small_airport,Campbellpore Airport,33.766700744628906,72.36689758300781,1175,AS,PK,PK-PB,Campbellpore,no,,CWP,,,,,
 41630,PK-GRT,small_airport,Gujrat Airport,32.62826,74.067287,760,AS,PK,PK-PB,Gujrat,no,,GRT,,,,,
-35198,PK-KCF,small_airport,Kadanwari Airport,27.1667003632,69.31670379639999,248,AS,PK,PK-SD,Kadanwari,no,,KCF,OPKW,,,https://en.wikipedia.org/wiki/Kadanwari_Airport,
 41632,PK-REQ,small_airport,Reko Diq Airport,29.04692,62.196819,2784,AS,PK,PK-BA,Chagai,no,,REQ,,,,,
 5487,PKMA,small_airport,Eniwetok Airport,11.340700149536133,162.3280029296875,13,OC,MH,MH-ENI,Eniwetok Atoll,yes,PKMA,ENT,PKMA,,,https://en.wikipedia.org/wiki/Enewetak_Airport,
 5488,PKMJ,medium_airport,Marshall Islands International Airport,7.06476,171.272003,6,OC,MH,MH-MAJ,Majuro Atoll,yes,PKMJ,MAJ,PKMJ,MAJ,,https://en.wikipedia.org/wiki/Marshall_Islands_International_Airport,
@@ -10371,7 +10387,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32697,ZHXF,medium_airport,Xiangyang Liuji Airport,32.152222,112.291666,234,AS,CN,CN-42,Xiangyang (Xiangzhou),yes,ZHXF,XFN,ZHXF,,http://www.hbxyairport.com/,https://en.wikipedia.org/wiki/Xiangyang_Liuji_Airport,"Xiangyang,Xiangfan"
 323907,ZHXY,medium_airport,Xinyang Minggang Airport,32.540819,114.079141,312,AS,CN,CN-41,Xinyang,yes,ZHXY,XAI,ZHXY,,,https://en.wikipedia.org/wiki/Xinyang_Minggang_Airport,"Queshan Air Base, 信阳明港机场"
 32723,ZHYC,medium_airport,Yichang Sanxia Airport,30.554132,111.482563,673,AS,CN,CN-42,Yichang (Xiaoting),yes,ZHYC,YIH,ZHYC,,http://www.sanxiaairport.com/,https://en.wikipedia.org/wiki/Yichang_Sanxia_Airport,
-301278,ZIZ,heliport,Zamzama Heliport,26.710944444400003,67.66725,128,AS,PK,PK-SD,Zamzama Gas Field,no,,ZIZ,,,,,
+301278,ZIZ,heliport,Zamzama Heliport,26.710944,67.66725,128,AS,PK,PK-SD,Zamzama Gas Field,no,OPZM,ZIZ,OPZM,,,,
 27201,ZJHK,large_airport,Haikou Meilan International Airport,19.9349,110.459,75,AS,CN,CN-46,Haikou (Meilan),yes,ZJHK,HAK,ZJHK,,,https://en.wikipedia.org/wiki/Haikou_Meilan_International_Airport,ZGHK
 323220,ZJQH,medium_airport,Qionghai Bo'ao Airport,19.140951,110.452766,30,AS,CN,CN-46,Qionghai (Basuo),yes,ZJQH,BAR,ZJQH,,,https://en.wikipedia.org/wiki/Qionghai_Bo%27ao_Airport,
 27202,ZJSY,large_airport,Sanya Phoenix International Airport,18.3029,109.412003,92,AS,CN,CN-46,Sanya (Tianya),yes,ZJSY,SYX,ZJSY,,,https://en.wikipedia.org/wiki/Sanya_Phoenix_International_Airport,
