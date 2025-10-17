@@ -6,9 +6,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 7545,0TE7,small_airport,LBJ Ranch Airport,30.251801,-98.622498,1515,NA,US,US-TX,Stonewall,no,,JCY,0TE7,0TE7,,,
 7866,13Z,seaplane_base,Loring Seaplane Base,55.601299,-131.636993,,NA,US,US-AK,Loring,no,,WLR,13Z,13Z,,,Naha Bay
 7977,16A,small_airport,Nunapitchuk Airport,60.905591,-162.440454,12,NA,US,US-AK,Nunapitchuk,yes,,NUP,PPIT,16A,,https://en.wikipedia.org/wiki/Nunapitchuk_Airport,
-7994,16K,seaplane_base,Port Alice Seaplane Base,55.803,-133.597,0,NA,US,US-AK,Port Alice,no,,PTC,16K,16K,,,
+7994,16K,seaplane_base,Port Alice Seaplane Base,55.803,-133.597,,NA,US,US-AK,Port Alice,no,,PTC,16K,16K,,,AK16
 8126,19AK,small_airport,Icy Bay Airport,59.966269,-141.660118,50,NA,US,US-AK,Icy Bay,no,,ICY,19AK,19AK,,https://en.wikipedia.org/wiki/Icy_Bay_Airport,
-8159,19P,seaplane_base,Port Protection Seaplane Base,56.328800201416,-133.61000061035,0,NA,US,US-AK,Port Protection,yes,,PPV,19P,19P,,https://en.wikipedia.org/wiki/Port_Protection_Seaplane_Base,
+8159,19P,seaplane_base,Port Protection Seaplane Base,56.3288,-133.610001,,NA,US,US-AK,Port Protection,yes,,PPV,19P,19P,,https://en.wikipedia.org/wiki/Port_Protection_Seaplane_Base,AK19
 8383,1KC,small_airport,Kalakaket Creek AS Airport,64.4166256967,-156.820392609,1598,NA,US,US-AK,Kalakaket Creek,no,,KKK,1KC,1KC,,,
 8566,1O6,small_airport,Dunsmuir Muni-Mott Airport,41.263199,-122.272003,3258,NA,US,US-CA,Dunsmuir,no,,MHS,K1O6,1O6,,https://en.wikipedia.org/wiki/Dunsmuir_Municipal-Mott_Airport,
 8753,1XA2,small_airport,Chase Field Industrial Airport,28.362444,-97.661917,190,NA,US,US-TX,Beeville,no,,NIR,KTX2,TX2,,https://en.wikipedia.org/wiki/Chase_Field_Industrial_Complex,"1XA2, Naval Air Station Chase Field, Beeville Municipal Airport"
@@ -17,7 +17,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 9287,2AK,small_airport,Lime Village Airport,61.3591003418,-155.440002441,552,NA,US,US-AK,Lime Village,no,,LVD,2AK,2AK,,,23AK
 9294,2AK6,small_airport,Hog River Airport,66.176133,-155.684816,534,NA,US,US-AK,Hogatza,no,,HGZ,2AK6,2AK6,,,
 20770,2IG4,small_airport,Ed-Air Airport,38.851782,-87.49987,426,NA,US,US-IN,Oaktown,no,,OTN,KI20,I20,http://www.edairinc.com/index.html,https://en.wikipedia.org/wiki/Ed-Air_Airport,"2IG4, KOTN, OTN, Emison, Green, Vincennes Executive Inn"
-9485,2K5,small_airport,Telida Airport,63.393901824951,-153.26899719238,650,NA,US,US-AK,Telida,no,,TLF,2K5,2K5,,https://en.wikipedia.org/wiki/Telida_Airport,
+9485,2K5,small_airport,Telida Airport,63.393902,-153.268997,650,NA,US,US-AK,Telida,no,,TLF,2K5,2K5,,https://en.wikipedia.org/wiki/Telida_Airport,AK52
 9776,2TE0,small_airport,Eagle Air Park,28.982200622559,-95.579696655273,15,NA,US,US-TX,Brazoria,no,,BZT,2TE0,2TE0,,,Hinkles Ferry
 9902,2Z1,seaplane_base,Entrance Island Seaplane Base,57.412201,-133.43848,0,NA,US,US-AK,Entrance Island,no,,HBH,,,,,2Z1
 9906,2Z6,seaplane_base,False Island Seaplane Base,57.5321998596,-135.212997437,,NA,US,US-AK,False Island,no,,FAK,2Z6,2Z6,,,
@@ -31,10 +31,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 11320,4AK,small_airport,Livengood Camp Airport,65.467,-148.6534,425,NA,US,US-AK,Livengood,no,,LIV,4AK,4AK,,,
 11485,4K0,small_airport,Pedro Bay Airport,59.796925,-154.129994,45,NA,US,US-AK,Pedro Bay,yes,,PDB,4K0,4K0,,https://en.wikipedia.org/wiki/Pedro_Bay_Airport,
 11487,4K5,small_airport,Ouzinkie Airport,57.942094,-152.464314,55,NA,US,US-AK,Ouzinkie,yes,,KOZ,,4K5,,https://en.wikipedia.org/wiki/Ouzinkie_Airport,
-11488,4KA,small_airport,Tununak Airport,60.569638,-165.246649,14,NA,US,US-AK,Tununak,yes,,TNK,POKA,4KA,,https://en.wikipedia.org/wiki/Tununak_Airport,
+11488,4KA,small_airport,Tununak Airport,60.569638,-165.246649,14,NA,US,US-AK,Tununak,yes,,TNK,POKA,4KA,,https://en.wikipedia.org/wiki/Tununak_Airport,AK45
 11820,4Z7,seaplane_base,Hyder Seaplane Base,55.903324,-130.009975,,NA,US,US-AK,Hyder,yes,,WHD,,4Z7,,https://en.wikipedia.org/wiki/Hyder_Seaplane_Base,
 11900,51Z,small_airport,Minto Al Wright Airport,65.147991,-149.368658,460,NA,US,US-AK,Minto,yes,,MNT,,51Z,,https://en.wikipedia.org/wiki/Minto_Airport,
-12114,57A,seaplane_base,Tokeen Seaplane Base,55.9370994568,-133.32699585,,NA,US,US-AK,Tokeen,no,,TKI,57A,57A,,https://en.wikipedia.org/wiki/Tokeen_Seaplane_Base,
+12114,57A,seaplane_base,Tokeen Seaplane Base,55.937099,-133.326996,,NA,US,US-AK,Tokeen,no,,TKI,57A,57A,,https://en.wikipedia.org/wiki/Tokeen_Seaplane_Base,AK57
 12243,5A8,medium_airport,Aleknagik / New Airport,59.2826004028,-158.617996216,66,NA,US,US-AK,Aleknagik,yes,,WKK,5A8,5A8,,https://en.wikipedia.org/wiki/Aleknagik_Airport,
 12429,5KE,seaplane_base,Ketchikan Harbor Seaplane Base,55.349899,-131.677002,,NA,US,US-AK,Ketchikan,yes,,WFB,,5KE,,https://en.wikipedia.org/wiki/Ketchikan_Harbor_Seaplane_Base,
 12518,5MS1,small_airport,Rollang Field,32.953543,-90.845144,106,NA,US,US-MS,Rolling Fork,no,,RFK,5MS1,5MS1,,,
@@ -46,15 +46,15 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 13405,6N5,heliport,East 34th Street Heliport,40.742372,-73.972074,10,NA,US,US-NY,New York,yes,,TSS,6N5,6N5,,https://en.wikipedia.org/wiki/East_34th_Street_Heliport,
 13407,6N7,seaplane_base,New York Skyports Inc Seaplane Base,40.735061,-73.972814,,NA,US,US-NY,New York,yes,,NYS,,6N7,,https://en.wikipedia.org/wiki/New_York_Skyports_Inc._Seaplane_Base,QNY
 13485,6OK6,small_airport,Earl Henry Airport,36.7958984375,-97.3170013428,1054,NA,US,US-OK,Blackwell,no,,BWL,6OK6,6OK6,,https://en.wikipedia.org/wiki/Earl_Henry_Airport,
-13974,78K,seaplane_base,Yes Bay Lodge Seaplane Base,55.9163017273,-131.800994873,,NA,US,US-AK,Yes Bay,no,,WYB,78K,78K,,,
+13974,78K,seaplane_base,Yes Bay Lodge Seaplane Base,55.916302,-131.800995,,NA,US,US-AK,Yes Bay,no,,WYB,78K,78K,,,AK78
 13997,78WA,small_airport,Center Island Airport,48.490046,-122.831612,115,NA,US,US-WA,Center Island,yes,,CWS,78WA,78WA,,https://en.wikipedia.org/wiki/Center_Island_Airport,
-14173,7KA,small_airport,Tatitlek Airport,60.871449,-146.690297,62,NA,US,US-AK,Tatitlek,yes,,TEK,PAKA,7KA,,https://en.wikipedia.org/wiki/Tatitlek_Airport,
+14173,7KA,small_airport,Tatitlek Airport,60.871449,-146.690297,62,NA,US,US-AK,Tatitlek,yes,,TEK,PAKA,7KA,,https://en.wikipedia.org/wiki/Tatitlek_Airport,AK47
 14270,7NC2,small_airport,Pine Island Airport,36.252744,-75.785256,16,NA,US,US-NC,Corolla,no,,DUF,7NC2,7NC2,,https://en.wikipedia.org/wiki/Pine_Island_Airport,
 14453,7WA5,small_airport,Stuart Island Airpark,48.673379,-123.175439,10,NA,US,US-WA,Friday Harbor,yes,,SSW,7WA5,7WA5,,,
 14559,82CL,small_airport,Fort Bragg Airport,39.472445,-123.795319,71,NA,US,US-CA,Fort Bragg,no,,FOB,82CL,82CL,,,
 14620,83Q,seaplane_base,Port of Poulsbo Marina Moorage Seaplane Base,47.734001159668,-122.64700317383,0,NA,US,US-WA,Poulsbo,no,,PUL,83Q,83Q,http://www.portofpoulsbo.com/seaplane-base/,,
 14633,84CL,heliport,Century City Heliport,34.060798645,-118.417999268,473,NA,US,US-CA,Los Angeles,no,,CCD,84CL,84CL,,,
-14642,84K,seaplane_base,Meyers Chuck Seaplane Base,55.7396011353,-132.255004883,0,NA,US,US-AK,Meyers Chuck,no,,WMK,84K,84K,,,
+14642,84K,seaplane_base,Meyers Chuck Seaplane Base,55.739601,-132.255005,,NA,US,US-AK,Meyers Chuck,no,,WMK,84K,84K,,,AK84
 19113,89NY,small_airport,Maxson Airfield,44.312002,-75.90034,340,NA,US,US-NY,Alexandria Bay,no,,AXB,89NY,89NY,https://web.archive.org/web/20161108041600/http://www.maxsonairfield.com/,https://web.archive.org/web/20161229201702/https://en.wikipedia.org/wiki/Maxson_Airfield,89N
 15267,8XS8,small_airport,Reese Airpark,33.590301513672,-102.03700256348,3338,NA,US,US-TX,Lubbock,no,,REE,8XS8,8XS8,http://reesetechnologycenter.com/index.php/facilities/airfield-pad-site-development,https://en.wikipedia.org/wiki/Reese_Air_Force_Base,
 15300,90WA,small_airport,Waldron Airstrip,48.71141,-123.018208,140,NA,US,US-WA,Eastsound,yes,,WDN,90WA,90WA,,,Waldronaire
@@ -64,10 +64,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 15663,9CA3,heliport,Recreation and Conference Center Heliport,34.020472,-117.927396,701,NA,US,US-CA,City of Industry,no,,JID,9CA3,9CA3,,,
 15836,9N2,seaplane_base,Philadelphia Seaplane Base,39.859001159668,-75.299598693848,0,NA,US,US-PA,Essington,no,,PSQ,9N2,9N2,http://www.phillyseaplanebase.com/,https://en.wikipedia.org/wiki/Philadelphia_Seaplane_Base,Chandler Field
 16069,9Z8,small_airport,Levelock Airport,59.12606,-156.860906,39,NA,US,US-AK,Levelock,no,,KLL,9Z8,9Z8,,https://en.wikipedia.org/wiki/Levelock_Airport,
-16074,A23,seaplane_base,Saginaw Seaplane Base,56.8862991333,-134.158004761,0,NA,US,US-AK,Saginaw Bay,no,,SGW,A23,A23,,https://en.wikipedia.org/wiki/Saginaw_Seaplane_Base,
-16082,A61,small_airport,Tuntutuliak Airport,60.351243,-162.654476,16,NA,US,US-AK,Tuntutuliak,yes,,WTL,A61,A61,,https://en.wikipedia.org/wiki/Tuntutuliak_Airport,
+16074,A23,seaplane_base,Saginaw Seaplane Base,56.886299,-134.158005,,NA,US,US-AK,Saginaw Bay,no,,SGW,A23,A23,,https://en.wikipedia.org/wiki/Saginaw_Seaplane_Base,AK23
+16082,A61,small_airport,Tuntutuliak Airport,60.351243,-162.654476,16,NA,US,US-AK,Tuntutuliak,yes,,WTL,A61,A61,,https://en.wikipedia.org/wiki/Tuntutuliak_Airport,AK61
 16083,A63,small_airport,Twin Hills Airport,59.074713,-160.274992,82,NA,US,US-AK,Twin Hills,yes,,TWA,A63,A63,,https://en.wikipedia.org/wiki/Twin_Hills_Airport,AK63
-16089,A79,small_airport,Chignik Lake Airport,56.2550010681,-158.774993896,50,NA,US,US-AK,Chignik Lake,yes,,KCQ,A79,A79,,https://en.wikipedia.org/wiki/Chignik_Lake_Airport,
+16089,A79,small_airport,Chignik Lake Airport,56.255001,-158.774994,50,NA,US,US-AK,Chignik Lake,yes,,KCQ,A79,A79,,https://en.wikipedia.org/wiki/Chignik_Lake_Airport,AK79
 324756,AAD,small_airport,Adado Airport,6.095802,46.6375,1001,AF,SO,SO-GA,Adado,no,HCAD,AAD,HCAD,,,https://en.wikipedia.org/wiki/Adado_Airport,Cadaado Airport
 301645,ABP,small_airport,Atkamba Airport,-6.06462,141.095173,150,OC,PG,PG-WPD,Atkamba Mission,no,,ABP,,AKA,,https://en.wikipedia.org/wiki/Atkamba_Airport,
 41025,ACM,small_airport,Arica Airport,-2.143713,-71.75935,316,SA,CO,CO-AMA,Arica,no,,ACM,,,,https://en.wikipedia.org/wiki/Arica_Airport_(Colombia),
@@ -1755,6 +1755,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 28126,EHTE,small_airport,Teuge Airport,52.242764,6.050004,17,EU,NL,NL-GE,Deventer,no,EHTE,,EHTE,,http://www.teuge-airport.nl/,https://en.wikipedia.org/wiki/Teuge_Airport,"Teuge, Apeldoorn, Deventer"
 340432,EHTS,heliport,Terschelling Heliport,53.384129,5.278094,,EU,NL,NL-FR,Midsland,no,EHTS,,EHTS,,,,
 2526,EHTW,medium_airport,Twente Airport,52.275833,6.889167,114,EU,NL,NL-OV,Enschede,no,EHTW,ENS,EHTW,,https://www.twente-airport.nl/,https://en.wikipedia.org/wiki/Enschede_Airport_Twente,
+28128,EHTX,small_airport,Texel International Airport,53.114962,4.830552,2,EU,NL,NL-NH,De Cocksdorp,no,EHTX,,EHTX,,http://www.texelairport.nl/,https://en.wikipedia.org/wiki/Texel_International_Airport,
 2528,EHVK,medium_airport,Volkel Air Base,51.657222,5.707778,72,EU,NL,NL-NB,Uden,no,EHVK,UDE,EHVK,,http://www.defensie.nl/luchtmacht/luchtmachtbases/volkel/,https://en.wikipedia.org/wiki/Volkel_Air_Base,The Hague
 2529,EHWO,medium_airport,Woensdrecht Air Base,51.4491,4.34203,63,EU,NL,NL-NB,Hoogerheide,no,EHWO,WOE,EHWO,,http://www.defensie.nl/luchtmacht/luchtmachtbases/woensdrecht/,https://en.wikipedia.org/wiki/Woensdrecht_Air_Base,"BZM, Vliegbasis Woensdrecht"
 29213,EIAB,small_airport,Abbeyshrule Aerodrome,53.591373,-7.642947,195,EU,IE,IE-LD,Abbeyshrule,no,EIAB,,EIAB,,,https://en.wikipedia.org/wiki/Abbeyshrule_Aerodrome,
@@ -6963,7 +6964,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 17469,PAFS,small_airport,Nikolai Airport,63.017949,-154.360399,441,NA,US,US-AK,Nikolai,yes,PAFS,NIB,PAFS,FSP,,https://en.wikipedia.org/wiki/Nikolai_Airport,5N1
 5365,PAGA,medium_airport,Edward G. Pitka Sr Airport,64.736198,-156.936997,153,NA,US,US-AK,Galena,yes,PAGA,GAL,PAGA,GAL,,https://en.wikipedia.org/wiki/Edward_G._Pitka_Sr._Airport,
 17575,PAGB,small_airport,Galbraith Lake Airport,68.4796981812,-149.490005493,2663,NA,US,US-AK,Galbraith Lake,no,PAGB,GBH,PAGB,GBH,,https://en.wikipedia.org/wiki/Galbraith_Lake_Airport,
-17595,PAGG,small_airport,Kwigillingok Airport,59.876499,-163.169005,18,NA,US,US-AK,Kwigillingok,yes,PAGG,KWK,PAGG,GGV,,https://en.wikipedia.org/wiki/Kwigillingok_Airport,A85
+17595,PAGG,small_airport,Kwigillingok Airport,59.876499,-163.169005,18,NA,US,US-AK,Kwigillingok,yes,PAGG,KWK,PAGG,GGV,,https://en.wikipedia.org/wiki/Kwigillingok_Airport,"A85, AK85"
 5366,PAGH,small_airport,Shungnak Airport,66.88809967041,-157.16200256348,197,NA,US,US-AK,Shungnak,yes,PAGH,SHG,PAGH,SHG,,https://en.wikipedia.org/wiki/Shungnak_Airport,
 5367,PAGK,medium_airport,Gulkana Airport,62.155859,-145.454662,1586,NA,US,US-AK,Gulkana,yes,PAGK,GKN,PAGK,GKN,,https://en.wikipedia.org/wiki/Gulkana_Airport,
 22694,PAGL,small_airport,Golovin Airport,64.550499,-163.007004,59,NA,US,US-AK,Golovin,yes,PAGL,GLV,PAGL,GLV,,https://en.wikipedia.org/wiki/Golovin_Airport,Formerly N93
@@ -7074,7 +7075,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5413,PASY,medium_airport,Eareckson Air Station,52.71229935,174.1139984,95,NA,US,US-AK,Shemya,no,PASY,SYA,PASY,SYA,,https://en.wikipedia.org/wiki/Eareckson_Air_Station,
 24807,PATA,small_airport,Ralph M Calhoun Memorial Airport,65.1744,-152.108994,236,NA,US,US-AK,Tanana,yes,PATA,TAL,PATA,TAL,,https://en.wikipedia.org/wiki/Ralph_M._Calhoun_Memorial_Airport,
 25014,PATC,small_airport,Tin City Long Range Radar Station Airport,65.563103,-167.921997,271,NA,US,US-AK,Tin City,yes,PATC,TNC,PATC,TNC,,https://en.wikipedia.org/wiki/Tin_City_LRRS_Airport,
-24908,PATE,small_airport,Teller Airport,65.2404022217,-166.339004517,294,NA,US,US-AK,Teller,yes,PATE,TLA,PATE,TER,,https://en.wikipedia.org/wiki/Teller_Airport,
+24908,PATE,small_airport,Teller Airport,65.240402,-166.339005,294,NA,US,US-AK,Teller,yes,PATE,TLA,PATE,TER,,https://en.wikipedia.org/wiki/Teller_Airport,AK54
 5414,PATG,small_airport,Togiak Airport,59.052799,-160.397003,21,NA,US,US-AK,Togiak Village,yes,PATG,TOG,PATG,TOG,,https://en.wikipedia.org/wiki/Togiak_Airport,
 24910,PATK,medium_airport,Talkeetna Airport,62.320499420166,-150.09399414062,358,NA,US,US-AK,Talkeetna,no,PATK,TKA,PATK,TKA,,https://en.wikipedia.org/wiki/Talkeetna_Airport,
 5415,PATL,medium_airport,Tatalina LRRS Airport,62.894401550299996,-155.977005005,964,NA,US,US-AK,Takotna,no,PATL,TLJ,PATL,TLJ,,https://en.wikipedia.org/wiki/Tatalina_LRRS_Airport,
