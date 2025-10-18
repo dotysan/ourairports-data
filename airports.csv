@@ -6016,7 +6016,7 @@
 12681,"5TN7","heliport","Tgp Station 856 Heliport",35.15919876098633,-88.22239685058594,484,"NA","US","US-TN","Savannah","no",,,"5TN7","5TN7",,,
 12682,"5TN8","heliport","Perry Memorial Hospital Heliport",35.59510040283203,-87.8561019897461,740,"NA","US","US-TN","Linden","no",,,"5TN8","5TN8",,,
 12683,"5TN9","small_airport","One Grand Field",36.11389923095703,-85.59500122070312,1000,"NA","US","US-TN","Cookeville","no",,,"5TN9","5TN9",,,
-12684,"5TS0","small_airport","Diehl Ranch Airport",29.412500381469727,-95.12239837646484,26,"NA","US","US-TX","Arcadia","no",,,"5TS0","5TS0",,,
+12684,"5TS0","closed","Diehl Ranch Airport",29.4125,-95.122398,26,"NA","US","US-TX","Arcadia","no",,,,,,,"5TS0"
 12686,"5TS2","small_airport","Chan-C Airport",30.478729,-97.318847,536,"NA","US","US-TX","Coupland","no",,,"5TS2","5TS2",,,
 12687,"5TS3","small_airport","Knapp Pecan Orchard Airpark",31.974199295043945,-96.67829895019531,450,"NA","US","US-TX","Dawson","no",,,"5TS3","5TS3",,,
 12688,"5TS4","small_airport","Mc Entire Airport",33.1445999146,-97.6016998291,790,"NA","US","US-TX","Decatur","no",,,"5TS4","5TS4",,,
@@ -10814,13 +10814,13 @@
 16306,"AR12","small_airport","Mc Donald's Strip",35.320598602299995,-92.018699646,700,"NA","US","US-AR","Rose Bud","no",,,"AR12","AR12",,,
 16307,"AR13","small_airport","Pearson Field",34.98619842529297,-92.63349914550781,300,"NA","US","US-AR","Bigelow","no",,,"AR13","AR13",,,
 16308,"AR17","small_airport","Burns Aerodrome",34.983398,-90.9151,207,"NA","US","US-AR","Palestine","no",,,"AR17","AR17",,,
-16310,"AR19","small_airport","Wesson-Davis Field",35.21289825439453,-93.7520980834961,570,"NA","US","US-AR","Paris","no",,,"AR19","AR19",,,
+16310,"AR19","closed","Wesson-Davis Field",35.212867,-93.752141,570,"NA","US","US-AR","Paris","no",,,,,,,"AR19"
 16311,"AR20","heliport","Lawrence Memorial Hospital Heliport",36.074388,-90.967374,265,"NA","US","US-AR","Walnut Ridge","no",,,"AR20","AR20",,,
 16312,"AR21","heliport","Mercy Hospital Fort Smith Heliport",35.35375,-94.352024,454,"NA","US","US-AR","Fort Smith","no",,,"AR21","AR21",,,"St Edward Mercy Medical Center"
 16313,"AR22","small_airport","Tommy's Flying Service Inc Airport",34.3815,-91.958504,215,"NA","US","US-AR","Sherrill","no",,,"AR22","AR22",,,"Sherrill Flying Service Inc."
 16314,"AR23","small_airport","Cedar Creek Ranch Airport",35.125018,-93.47679,420,"NA","US","US-AR","Belleville","no",,,"25AR","25AR",,,"AR23"
 16315,"AR24","heliport","White River Medical Center Heliport",35.76810073852539,-91.63459777832031,360,"NA","US","US-AR","Batesville","no",,,"AR24","AR24",,,
-16316,"AR25","small_airport","Vilonia Airport",35.11869812011719,-92.18930053710938,590,"NA","US","US-AR","Vilonia","no",,,"AR25","AR25",,,
+16316,"AR25","closed","Vilonia Airport",35.118418,-92.190806,590,"NA","US","US-AR","Vilonia","no",,,,,,,"AR25"
 16317,"AR27","small_airport","Lollars Creek Farm Airport",35.93899917602539,-93.845703125,1430,"NA","US","US-AR","Wesley","no",,,"AR27","AR27",,,
 16319,"AR29","heliport","UAMS Bravo Heliport",34.749942,-92.320148,360,"NA","US","US-AR","Little Rock","no",,,"AR29","AR29",,,
 16320,"AR30","heliport","Baptist Memorial Hospital-Blytheville Heliport",35.943536,-89.916378,254,"NA","US","US-AR","Blytheville","no",,,,,,,"AR30"
@@ -10846,6 +10846,7 @@
 16342,"AR53","heliport","Five Rivers Medical Center Heliport",36.289249,-90.996319,433,"NA","US","US-AR","Pocahontas","no",,,"AR53","AR53",,,"Randolph County Medical Center Heliport"
 16344,"AR55","small_airport","R.V. Stewart Field",34.73979949951172,-92.09010314941406,251,"NA","US","US-AR","North Little Rock","no",,,"AR55","AR55",,,
 16345,"AR56","small_airport","Amos Airport",35.61022,-91.436249,240,"NA","US","US-AR","Oil Trough","no",,,"AR56","AR56",,,
+601104,"AR58","balloonport","Maumelle Balloonport",34.86361,-92.40389,106,"NA","US","US-AR","Maumelle","no",,,"AR58","AR58",,,
 16346,"AR59","heliport","De Witt Hospital Heliport",34.278808,-91.338628,190,"NA","US","US-AR","De Witt","no",,,"AR59","AR59",,,"De Witt City Hospital"
 16347,"AR60","heliport","NEA Baptist Hospital Heliport",35.807603,-90.666472,260,"NA","US","US-AR","Jonesboro","no",,,"AR60","AR60",,,"Methodist Hospital of Jonesboro Heliport"
 16348,"AR61","heliport","Chicot Memorial Hospital Heliport",33.305301666259766,-91.28919982910156,125,"NA","US","US-AR","Lake Village","no",,,"AR61","AR61",,,
@@ -23010,29 +23011,29 @@
 597754,"EC-0071","heliport","Patio 400 Heliport",-0.948611,-80.730556,33,"SA","EC","EC-M","Manta","no","SEAP",,"SEAP",,,,
 41594,"EC-MZD","small_airport","Méndez Airport",-2.733330011367798,-78.31670379638672,1770,"SA","EC","EC-S","Santiago de Méndez","no",,"MZD",,,,,
 317873,"EDA","seaplane_base","Edna Bay Seaplane Base",55.949653,-133.661012,,"NA","US","US-AK","Edna Bay","yes",,"EDA",,,,,
-2183,"EDAB","small_airport","Bautzen Airfield",51.193611,14.519722,568,"EU","DE","DE-SN","Kubschütz","no",,,"EDAB",,"http://www.flugplatz-bautzen.de/","http://de.wikipedia.org/wiki/Flugplatz_Bautzen","Flugplatz Bautzen"
+2183,"EDAB","small_airport","Bautzen Airfield",51.193611,14.519722,568,"EU","DE","DE-SN","Kubschütz","no","EDAB",,"EDAB",,"http://www.flugplatz-bautzen.de/","http://de.wikipedia.org/wiki/Flugplatz_Bautzen","Flugplatz Bautzen"
 2184,"EDAC","medium_airport","Leipzig–Altenburg Airport",50.981945,12.506389,640,"EU","DE","DE-TH","Nobitz","no","EDAC","AOC","EDAC",,"http://www.leipzig-altenburg-airport.de/","https://en.wikipedia.org/wiki/Leipzig%E2%80%93Altenburg_Airport","Altenburg-Nobitz"
-2185,"EDAD","small_airport","Dessau Airfield",51.8318,12.184011,187,"EU","DE","DE-ST","Dessau-Roßlau","no",,,"EDAD",,,"https://de.wikipedia.org/wiki/Flugplatz_Dessau",
-2186,"EDAE","small_airport","Eisenhüttenstadt Airfield",52.197199,14.585696,144,"EU","DE","DE-BR","Siehdichum","no",,,"EDAE",,,"https://de.wikipedia.org/wiki/Flugplatz_Eisenh%C3%BCttenstadt",
-28580,"EDAG","small_airport","Großrückerswalde Airfield",50.644169,13.126389,2198,"EU","DE","DE-SN","Großrückerswalde","no",,,"EDAG",,,"https://de.wikipedia.org/wiki/Flugplatz_Gro%C3%9Fr%C3%BCckerswalde",
+2185,"EDAD","small_airport","Dessau Airfield",51.8318,12.184011,187,"EU","DE","DE-ST","Dessau-Roßlau","no","EDAD",,"EDAD",,,"https://de.wikipedia.org/wiki/Flugplatz_Dessau",
+2186,"EDAE","small_airport","Eisenhüttenstadt Airfield",52.197199,14.585696,144,"EU","DE","DE-BR","Siehdichum","no","EDAE",,"EDAE",,,"https://de.wikipedia.org/wiki/Flugplatz_Eisenh%C3%BCttenstadt",
+28580,"EDAG","small_airport","Großrückerswalde Airfield",50.644169,13.126389,2198,"EU","DE","DE-SN","Großrückerswalde","no","EDAG",,"EDAG",,,"https://de.wikipedia.org/wiki/Flugplatz_Gro%C3%9Fr%C3%BCckerswalde",
 2187,"EDAH","medium_airport","Heringsdorf Airport",53.8787,14.1523,93,"EU","DE","DE-MV","Zirchow","yes","EDAH","HDF","EDAH",,,"https://en.wikipedia.org/wiki/Heringsdorf_Airport",
-28728,"EDAI","small_airport","Sonderlandeplatz Segeletz",52.826668,12.541944,141,"EU","DE","DE-BR","Neustadt","no",,,"EDAI",,,"https://de.wikipedia.org/wiki/Flugplatz_Segeletz",
-28569,"EDAJ","small_airport","Gera-Leumnitz Airfield",50.881668,12.135833,1014,"EU","DE","DE-TH","Gera","no",,,"EDAJ",,"http://www.flugplatz-gera.com/","http://de.wikipedia.org/wiki/Flugplatz_Gera-Leumnitz","Flugplatz Gera-Leumnitz"
-2188,"EDAK","small_airport","Großenhain Airfield",51.308056,13.555556,417,"EU","DE","DE-SN","Großenhain","no",,,"EDAK",,,"https://en.wikipedia.org/wiki/Gro%C3%9Fenhain_Airport","Grossenhain"
-2189,"EDAM","small_airport","Merseburg Airfield",51.362564,11.94113,341,"EU","DE","DE-ST","Merseburg","no",,,"EDAM",,,"https://de.wikipedia.org/wiki/Flugplatz_Merseburg","Flugplatz Merseburg"
-28663,"EDAN","small_airport","Neustadt-Glewe Airfield",53.359722,11.615278,115,"EU","DE","DE-MV","Neustadt-Glewe","no",,,"EDAN",,,"https://de.wikipedia.org/wiki/Flugplatz_Neustadt-Glewe","Flugplatz Neustadt-Glewe"
-505079,"EDAO","small_airport","Nordhausen Airfield",51.493475,10.837562,,"EU","DE","DE-TH","Nordhausen","no",,,"EDAO",,"https://www.fliegerclub-nordhausen.com/","https://de.wikipedia.org/wiki/Flugplatz_Nordhausen","Flugplatz Nordhausen, Sonderlandeplatz Nordhausen"
-28659,"EDAP","small_airport","Cottbus-Neuhausen Airfield",51.684723,14.423056,279,"EU","DE","DE-BR","Neuhausen/Spree","no",,,"EDAP",,"https://flughafen-cottbus.de/","https://en.wikipedia.org/wiki/Cottbus-Neuhausen_Airport",
+28728,"EDAI","small_airport","Sonderlandeplatz Segeletz",52.826668,12.541944,141,"EU","DE","DE-BR","Neustadt","no","EDAI",,"EDAI",,,"https://de.wikipedia.org/wiki/Flugplatz_Segeletz",
+28569,"EDAJ","small_airport","Gera-Leumnitz Airfield",50.881668,12.135833,1014,"EU","DE","DE-TH","Gera","no","EDAJ",,"EDAJ",,"http://www.flugplatz-gera.com/","http://de.wikipedia.org/wiki/Flugplatz_Gera-Leumnitz","Flugplatz Gera-Leumnitz"
+2188,"EDAK","small_airport","Großenhain Airfield",51.308056,13.555556,417,"EU","DE","DE-SN","Großenhain","no","EDAK",,"EDAK",,,"https://en.wikipedia.org/wiki/Gro%C3%9Fenhain_Airport","Grossenhain"
+2189,"EDAM","small_airport","Merseburg Airfield",51.362564,11.94113,341,"EU","DE","DE-ST","Merseburg","no","EDAM",,"EDAM",,,"https://de.wikipedia.org/wiki/Flugplatz_Merseburg","Flugplatz Merseburg"
+28663,"EDAN","small_airport","Neustadt-Glewe Airfield",53.362444,11.613764,115,"EU","DE","DE-MV","Neustadt-Glewe","no","EDAN",,"EDAN",,"https://www.edan-info.de/aip-vfr.htm","https://de.wikipedia.org/wiki/Flugplatz_Neustadt-Glewe","QGW, Flugplatz Neustadt-Glewe"
+505079,"EDAO","small_airport","Nordhausen Airfield",51.493475,10.837562,,"EU","DE","DE-TH","Nordhausen","no","EDAO",,"EDAO",,"https://www.fliegerclub-nordhausen.com/","https://de.wikipedia.org/wiki/Flugplatz_Nordhausen","Flugplatz Nordhausen, Sonderlandeplatz Nordhausen"
+28659,"EDAP","small_airport","Cottbus-Neuhausen Airfield",51.684723,14.423056,279,"EU","DE","DE-BR","Neuhausen/Spree","no","EDAP",,"EDAP",,"https://flughafen-cottbus.de/","https://en.wikipedia.org/wiki/Cottbus-Neuhausen_Airport",
 2190,"EDAQ","small_airport","Halle-Oppin Airfield",51.552223,12.053889,348,"EU","DE","DE-ST","Landsberg","no","EDAQ",,"EDAQ",,"http://www.flugplatz-halle-oppin.de/","https://de.wikipedia.org/wiki/Flugplatz_Halle-Oppin",
-28695,"EDAR","small_airport","Pirna-Pratzschwitz Airfield",50.979603,13.908445,402,"EU","DE","DE-SN","Pirna","no",,,"EDAR",,"https://www.aeroclub-pirna.de/startseite.html","https://de.wikipedia.org/wiki/Flugplatz_Pirna-Pratzschwitz",
+28695,"EDAR","small_airport","Pirna-Pratzschwitz Airfield",50.979603,13.908445,402,"EU","DE","DE-SN","Pirna","no","EDAR",,"EDAR",,"https://www.aeroclub-pirna.de/startseite.html","https://de.wikipedia.org/wiki/Flugplatz_Pirna-Pratzschwitz",
 29868,"EDAS","small_airport","Finsterwalde-Heinrichsruh Airfield",51.634641,13.67505,384,"EU","DE","DE-BR","Finsterwalde","no","EDAS",,"EDAS",,,"https://de.wikipedia.org/wiki/Flugplatz_Finsterwalde-Heinrichsruh","Flugplatz Finsterwalde/Heinrichsruh"
-28655,"EDAT","small_airport","Nardt Airfield",51.451111,14.199444,384,"EU","DE","DE-SN","Hoyerswerda","no",,,"EDAT",,,"https://de.wikipedia.org/wiki/Flugplatz_Nardt",
+28655,"EDAT","small_airport","Nardt Airfield",51.451111,14.199444,384,"EU","DE","DE-SN","Hoyerswerda","no","EDAT",,"EDAT",,,"https://de.wikipedia.org/wiki/Flugplatz_Nardt",
 2191,"EDAU","small_airport","Riesa-Göhlis Airport",51.29361,13.356111,322,"EU","DE","DE-SN","Riesa","no","EDAU","IES","EDAU",,,"https://de.wikipedia.org/wiki/Flugplatz_Riesa-G%C3%B6hlis",
-2192,"EDAV","small_airport","Eberswalde-Finow Airfield",52.826313,13.701324,121,"EU","DE","DE-BR","Eberswalde","no",,,"EDAV",,,"https://de.wikipedia.org/wiki/Flugplatz_Eberswalde-Finow","Flugplatz Eberswalde-Finow"
-28706,"EDAW","small_airport","Roitzschjora Airfield",51.577778,12.494444,289,"EU","DE","DE-SN","Roitzschjora","no",,,"EDAW",,,"https://de.wikipedia.org/wiki/Flugplatz_Roitzschjora",
+2192,"EDAV","small_airport","Eberswalde-Finow Airfield",52.826313,13.701324,121,"EU","DE","DE-BR","Eberswalde","no","EDAV",,"EDAV",,,"https://de.wikipedia.org/wiki/Flugplatz_Eberswalde-Finow","Flugplatz Eberswalde-Finow"
+28706,"EDAW","small_airport","Roitzschjora Airfield",51.577778,12.494444,289,"EU","DE","DE-SN","Roitzschjora","no","EDAW",,"EDAW",,,"https://de.wikipedia.org/wiki/Flugplatz_Roitzschjora",
 2193,"EDAX","small_airport","Müritz Airpark",53.306389,12.752222,220,"EU","DE","DE-MV","Lärz","no","EDAX","REB","EDAX",,,"https://en.wikipedia.org/wiki/Rechlin-L%C3%A4rz_Airfield","Mueritz, Rechlin–Lärz Airfield"
-2194,"EDAY","small_airport","Strausberg Airfield",52.580555,13.916667,262,"EU","DE","DE-BR","Strausberg","no","EDAY",,"EDAY",,,"https://de.wikipedia.org/wiki/Flugplatz_Strausberg",
-2195,"EDAZ","small_airport","Schönhagen Airfield",52.204631,13.159526,152,"EU","DE","DE-BR","Trebbin","no",,,"EDAZ",,"http://www.flugplatz-schoenhagen.aero/","http://de.wikipedia.org/wiki/Flugplatz_Sch%C3%B6nhagen",
+2194,"EDAY","small_airport","Strausberg Airfield",52.580555,13.916667,262,"EU","DE","DE-BR","Strausberg","no","EDAY",,"EDAY",,,"https://de.wikipedia.org/wiki/Flugplatz_Strausberg","QPK"
+2195,"EDAZ","small_airport","Schönhagen Airfield",52.204631,13.159526,152,"EU","DE","DE-BR","Trebbin","no","EDAZ",,"EDAZ",,"http://www.flugplatz-schoenhagen.aero/","http://de.wikipedia.org/wiki/Flugplatz_Sch%C3%B6nhagen","QXH"
 28495,"EDBA","small_airport","Arnstadt-Alkersleben Airfield",50.841873,11.069934,1145,"EU","DE","DE-TH","Osthausen-Wülfershausen","no",,,"EDBA",,"http://www.flugplatz-alkersleben.de/","http://de.wikipedia.org/wiki/Flugplatz_Arnstadt-Alkersleben","Flugplatz Arnstadt-Alkersleben"
 28546,"EDBC","small_airport","Cochstedt Airport",51.8564,11.4203,594,"EU","DE","DE-ST","Hecklingen","no","EDBC","CSO","EDBC",,,"https://en.wikipedia.org/wiki/Magdeburg-Cochstedt_Airport",
 29060,"EDBE","small_airport","Brandenburg-Mühlenfeld Airfield",52.4375,12.59,98,"EU","DE","DE-BR","Brandenburg an der Havel","no",,,"EDBE",,,"https://de.wikipedia.org/wiki/Flugplatz_Brandenburg/M%C3%BChlenfeld",
@@ -23053,7 +23054,7 @@
 2201,"EDBT","small_airport","Allstedt Airfield",51.380554,11.446667,932,"EU","DE","DE-ST","Allstedt","no",,,"EDBT",,,"https://de.wikipedia.org/wiki/Flugplatz_Allstedt","Flugplatz Allstedt"
 29062,"EDBU","small_airport","Pritzwalk-Sommersberg Airfield",53.180019,12.184553,289,"EU","DE","DE-BR","Pritzwalk","no",,,"EDBU",,,"https://de.wikipedia.org/wiki/Flugplatz_Pritzwalk-Sommersberg","Flugplatz Pritzwalk-Sommersberg"
 29063,"EDBV","small_airport","Stralsund Airfield",54.335835,13.043333,49,"EU","DE","DE-MV","Stralsund","no",,,"EDBV",,,"https://de.wikipedia.org/wiki/Flugplatz_Stralsund","""Flugplatz Stralsund"""
-2202,"EDBW","small_airport","Werneuchen Airfield",52.631668,13.766944,262,"EU","DE","DE-BR","Werneuchen","no",,,"EDBW",,,"https://de.wikipedia.org/wiki/Flugplatz_Werneuchen",
+2202,"EDBW","small_airport","Werneuchen Airfield",52.631668,13.766944,262,"EU","DE","DE-BR","Werneuchen","no","EDBW",,"EDBW",,,"https://de.wikipedia.org/wiki/Flugplatz_Werneuchen",
 28574,"EDBX","small_airport","Görlitz Airfield",51.15889,14.950278,778,"EU","DE","DE-SN","Görlitz","no",,,"EDBX",,,"http://de.wikipedia.org/wiki/Flugplatz_G%C3%B6rlitz","Goerlitz"
 29064,"EDBY","small_airport","Schmoldow Airfield",53.972221,13.343611,105,"EU","DE","DE-MV","Bandelin","no",,,"EDBY",,,"https://de.wikipedia.org/wiki/Flugplatz_Schmoldow","Flugplatz Schmoldow"
 29065,"EDBZ","small_airport","Schwarzheide/Schipkau Airfield",51.491929,13.879366,331,"EU","DE","DE-BR","Schwarzheide","no",,,"EDBZ",,,"https://de.wikipedia.org/wiki/Flugplatz_Schwarzheide-Schipkau",
@@ -65623,7 +65624,7 @@
 46019,"US-0106","small_airport","Berryhill Farms Airport",32.064539,-91.347713,315,"NA","US","US-LA","Newellton","no",,,,,,,
 46020,"US-0107","small_airport","Mackay Ranch Airport",45.32020187,-109.5490036,5400,"NA","US","US-MT","Roscoe","no",,,,,,,
 46021,"US-0108","closed","NC Executive Downtown Heliport",35.725289,-78.619704,340,"NA","US","US-NC","Raleigh","no",,,,,,,
-46022,"US-0109","small_airport","Johnson Farms Airport",40.75009918,-75.06629944,1020,"NA","US","US-NJ","Belvidere","no",,,,,,,
+46022,"US-0109","closed","Johnson Farms Airport",40.750099,-75.066299,1020,"NA","US","US-NJ","Belvidere","no",,,,,,,"NJ10"
 46023,"US-0110","closed","Plane Haven Airport",42.450102,-78.237,2000,"NA","US","US-NY","Centerville","no",,,,,,,"N01, NK51"
 46024,"US-0111","small_airport","Boober Airport",40.09140015,-83.35910034,980,"NA","US","US-OH","Plain City","no",,,,,,,
 12618,"US-0112","closed","Bendinsky Airport",40.8000984192,-76.112197876,1770,"NA","US","US-PA","Mahanoy City","no",,,,,,,
@@ -69563,6 +69564,7 @@
 600988,"US-12770","small_airport","Bryant Airport",44.670278,-121.195417,2383,"NA","US","US-OR","Madras","no",,,"4OR1","4OR1",,,
 601003,"US-12771","small_airport","Edwards AFB South Base",34.895364,-117.867336,,"NA","US","US-CA",,"no",,,,,,,
 601084,"US-12772","closed","Cottonwood Ranch Airport",45.786804,-101.047424,1984,"NA","US","US-SD","McLaughlin","no",,,,,,,"SD31"
+601093,"US-12773","closed","Rabbit Creek Airport",61.07977,-149.827445,35,"NA","US","US-AK","Anchorage","no",,,,,,,"AK92"
 334319,"US-1278","heliport","Foote Farm Association RLA Heliport",43.989494,-73.239858,167,"NA","US","US-VT","Cornwall","no",,,"VT54","VT54",,,
 334321,"US-1279","heliport","West Street Property Heliport",43.987683,-73.25274,181,"NA","US","US-VT","Cornwall","no",,,"VT24","VT24",,,"Quesnel Farm"
 334323,"US-1280","small_airport","Mahoney Farm Airport",38.849622,-98.668278,1836,"NA","US","US-KS","Dorrance","no",,,"2KS4","2KS4",,,
@@ -71534,7 +71536,7 @@
 341486,"US-3244","small_airport","Keystone Farms Airport",31.482183,-92.661376,89,"NA","US","US-LA","Colfax","no",,,,"LA17",,,
 341487,"US-3245","closed","Lucien Field",32.38724,-93.73535,210,"NA","US","US-LA","Shreveport","no",,,,,,,"F33"
 341488,"US-3246","small_airport","Dixie Range Airstrip",28.08089,-98.71609,,"NA","US","US-TX","Tilden","no",,,,,,,
-341489,"US-3247","small_airport","Bill Rogers Airport",33.35731,-93.71983,230,"NA","US","US-AR","Garland City","no",,,,,,,
+341489,"US-3247","small_airport","Bill Rogers Airport",33.35731,-93.71983,230,"NA","US","US-AR","Garland City","no",,,,,,,"AR16"
 341490,"US-3248","closed","Homan Landing Strip",33.5651,-93.8649,,"NA","US","US-AR","Homan","no",,,,,,,
 341491,"US-3249","closed","Loes Highport Landing Strip",33.83085,-96.70311,,"NA","US","US-TX","Pottsboro","no",,,,,,,
 341492,"US-3250","small_airport","Donna Field",33.8151,-96.73469,787,"NA","US","US-TX","Pottsboro","no",,,,"33TE",,,"Texoma"
@@ -76934,7 +76936,7 @@
 536537,"US-8641","small_airport","Quinn Aviation Jonesboro Airport",35.77412,-90.76346,271,"NA","US","US-AR","Jonesboro","no",,,,,,,
 536538,"US-8642","small_airport","Otwell Airport",35.71574,-90.82972,252,"NA","US","US-AR","Jonesboro","no",,,,,,,
 536539,"US-8643","closed","Gibson Airport",35.78498,-90.8305,258,"NA","US","US-AR","Jonesboro","no",,,,,,,
-536540,"US-8644","closed","John Parker Strip",35.77477,-90.61821,232,"NA","US","US-AR","Jonesboro","no",,,,,,,
+536540,"US-8644","closed","John Parker Strip",35.77477,-90.61821,232,"NA","US","US-AR","Jonesboro","no",,,,,,,"AR26"
 536541,"US-8645","small_airport","JT Hall Airport",35.6847,-90.80132,249,"NA","US","US-AR","Weiner","no",,,,,,,
 536545,"US-8646","small_airport","Quinn Aviation Cash Airport",35.802928,-90.9267,249,"NA","US","US-AR","Cash","no",,,,,,,
 536547,"US-8647","small_airport","Housley Boyz Flying Service Airport",35.75995,-90.81252,252,"NA","US","US-AR","Jonesboro","no",,,,,,,
@@ -78120,7 +78122,7 @@
 9200,"US-9826","closed","Marchino Field",38.637798,-87.4347,540,"NA","US","US-IN","Vincennes","no",,,,,,,"28IN"
 9214,"US-9827","closed","Thies Airport",42.442282,-97.296917,1750,"NA","US","US-NE","Randolph","no",,,,,,,"28NE"
 9220,"US-9828","closed","Yarrow Airport",40.252198,-75.444317,330,"NA","US","US-PA","Schwenksville","no",,,,,,,"28PA"
-9226,"US-9829","closed","Boe-Wrinkle Airport",32.9048,-97.595001,802,"NA","US","US-TX","Azle","no",,,,,,,"28TS, 28TS, 28TS"
+9226,"US-9829","closed","Boe-Wrinkle Airport",32.9048,-97.595001,802,"NA","US","US-TX","Azle","no",,,,,,,"28TS"
 9248,"US-9830","closed","Brown Heliport",40.3111,-88.951103,790,"NA","US","US-IL","Heyworth","no",,,,,,,"29IL"
 9251,"US-9831","closed","Navrat Airport",38.4828,-97.011398,1470,"NA","US","US-KS","Lincolnville","no",,,,,,,"29KS"
 9252,"US-9832","closed","Cramer Aerodrome",36.893101,-87.4272,640,"NA","US","US-KY","Hopkinsville","no",,,,,,,"29KY, 29KY, 29KY"
