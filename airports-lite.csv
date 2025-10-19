@@ -1459,18 +1459,18 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 317873,EDA,seaplane_base,Edna Bay Seaplane Base,55.949653,-133.661012,,NA,US,US-AK,Edna Bay,yes,,EDA,,,,,
 2183,EDAB,small_airport,Bautzen Airfield,51.193611,14.519722,568,EU,DE,DE-SN,Kubschütz,no,EDAB,,EDAB,,http://www.flugplatz-bautzen.de/,http://de.wikipedia.org/wiki/Flugplatz_Bautzen,Flugplatz Bautzen
 2184,EDAC,medium_airport,Leipzig–Altenburg Airport,50.981945,12.506389,640,EU,DE,DE-TH,Nobitz,no,EDAC,AOC,EDAC,,http://www.leipzig-altenburg-airport.de/,https://en.wikipedia.org/wiki/Leipzig%E2%80%93Altenburg_Airport,Altenburg-Nobitz
-2185,EDAD,small_airport,Dessau Airfield,51.8318,12.184011,187,EU,DE,DE-ST,Dessau-Roßlau,no,EDAD,,EDAD,,,https://de.wikipedia.org/wiki/Flugplatz_Dessau,
-2186,EDAE,small_airport,Eisenhüttenstadt Airfield,52.197199,14.585696,144,EU,DE,DE-BR,Siehdichum,no,EDAE,,EDAE,,,https://de.wikipedia.org/wiki/Flugplatz_Eisenh%C3%BCttenstadt,
-28580,EDAG,small_airport,Großrückerswalde Airfield,50.644169,13.126389,2198,EU,DE,DE-SN,Großrückerswalde,no,EDAG,,EDAG,,,https://de.wikipedia.org/wiki/Flugplatz_Gro%C3%9Fr%C3%BCckerswalde,
-2187,EDAH,medium_airport,Heringsdorf Airport,53.8787,14.1523,93,EU,DE,DE-MV,Zirchow,yes,EDAH,HDF,EDAH,,,https://en.wikipedia.org/wiki/Heringsdorf_Airport,
-28728,EDAI,small_airport,Sonderlandeplatz Segeletz,52.826668,12.541944,141,EU,DE,DE-BR,Neustadt,no,EDAI,,EDAI,,,https://de.wikipedia.org/wiki/Flugplatz_Segeletz,
-28569,EDAJ,small_airport,Gera-Leumnitz Airfield,50.881668,12.135833,1014,EU,DE,DE-TH,Gera,no,EDAJ,,EDAJ,,http://www.flugplatz-gera.com/,http://de.wikipedia.org/wiki/Flugplatz_Gera-Leumnitz,Flugplatz Gera-Leumnitz
+2185,EDAD,small_airport,Dessau Airfield,51.8318,12.184011,187,EU,DE,DE-ST,Dessau-Roßlau,no,EDAD,,EDAD,,https://www.flugplatz-dessau.de/,https://de.wikipedia.org/wiki/Flugplatz_Dessau,
+2186,EDAE,small_airport,Eisenhüttenstadt Airfield,52.197199,14.585696,149,EU,DE,DE-BR,Siehdichum,no,EDAE,,EDAE,,https://flugplatz-edae.com/,https://de.wikipedia.org/wiki/Flugplatz_Eisenh%C3%BCttenstadt,
+28580,EDAG,small_airport,Großrückerswalde Airfield,50.644169,13.126389,2198,EU,DE,DE-SN,Großrückerswalde,no,EDAG,,EDAG,,https://www.erzgebirgsflieger.de/flugplatz.html,https://de.wikipedia.org/wiki/Flugplatz_Gro%C3%9Fr%C3%BCckerswalde,
+2187,EDAH,medium_airport,Heringsdorf Airport,53.8787,14.1523,94,EU,DE,DE-MV,Zirchow,yes,EDAH,HDF,EDAH,,https://www.flughafen-heringsdorf.de/,https://en.wikipedia.org/wiki/Heringsdorf_Airport,
+28728,EDAI,small_airport,Sonderlandeplatz Segeletz,52.826668,12.541944,140,EU,DE,DE-BR,Neustadt,no,EDAI,,EDAI,,,https://de.wikipedia.org/wiki/Flugplatz_Segeletz,
+28569,EDAJ,small_airport,Gera-Leumnitz Airfield,50.881668,12.135833,1015,EU,DE,DE-TH,Gera,no,EDAJ,,EDAJ,,https://www.flugplatz-gera.de/,http://de.wikipedia.org/wiki/Flugplatz_Gera-Leumnitz,Flugplatz Gera-Leumnitz
 2188,EDAK,small_airport,Großenhain Airfield,51.308056,13.555556,417,EU,DE,DE-SN,Großenhain,no,EDAK,,EDAK,,,https://en.wikipedia.org/wiki/Gro%C3%9Fenhain_Airport,Grossenhain
-2189,EDAM,small_airport,Merseburg Airfield,51.362564,11.94113,341,EU,DE,DE-ST,Merseburg,no,EDAM,,EDAM,,,https://de.wikipedia.org/wiki/Flugplatz_Merseburg,Flugplatz Merseburg
-28663,EDAN,small_airport,Neustadt-Glewe Airfield,53.362444,11.613764,115,EU,DE,DE-MV,Neustadt-Glewe,no,EDAN,,EDAN,,https://www.edan-info.de/aip-vfr.htm,https://de.wikipedia.org/wiki/Flugplatz_Neustadt-Glewe,"QGW, Flugplatz Neustadt-Glewe"
-505079,EDAO,small_airport,Nordhausen Airfield,51.493475,10.837562,,EU,DE,DE-TH,Nordhausen,no,EDAO,,EDAO,,https://www.fliegerclub-nordhausen.com/,https://de.wikipedia.org/wiki/Flugplatz_Nordhausen,"Flugplatz Nordhausen, Sonderlandeplatz Nordhausen"
+2189,EDAM,small_airport,Merseburg Airfield,51.362564,11.94113,340,EU,DE,DE-ST,Merseburg,no,EDAM,,EDAM,,https://www.flugplatz-merseburg.de/,https://de.wikipedia.org/wiki/Flugplatz_Merseburg,Flugplatz Merseburg
+28663,EDAN,small_airport,Neustadt-Glewe Airfield,53.362444,11.613764,115,EU,DE,DE-MV,Neustadt-Glewe,no,EDAN,QGW,EDAN,,https://www.edan-info.de/aip-vfr.htm,https://de.wikipedia.org/wiki/Flugplatz_Neustadt-Glewe,"QGW, Flugplatz Neustadt-Glewe"
+505079,EDAO,small_airport,Nordhausen Airfield,51.493475,10.837562,689,EU,DE,DE-TH,Nordhausen,no,EDAO,,EDAO,,https://www.fliegerclub-nordhausen.com/,https://de.wikipedia.org/wiki/Flugplatz_Nordhausen,"Flugplatz Nordhausen, Sonderlandeplatz Nordhausen"
 28659,EDAP,small_airport,Cottbus-Neuhausen Airfield,51.684723,14.423056,279,EU,DE,DE-BR,Neuhausen/Spree,no,EDAP,,EDAP,,https://flughafen-cottbus.de/,https://en.wikipedia.org/wiki/Cottbus-Neuhausen_Airport,
-2190,EDAQ,small_airport,Halle-Oppin Airfield,51.552223,12.053889,348,EU,DE,DE-ST,Landsberg,no,EDAQ,,EDAQ,,http://www.flugplatz-halle-oppin.de/,https://de.wikipedia.org/wiki/Flugplatz_Halle-Oppin,
+2190,EDAQ,small_airport,Halle-Oppin Airfield,51.552223,12.053889,350,EU,DE,DE-ST,Landsberg,no,EDAQ,,EDAQ,,http://www.flugplatz-halle-oppin.de/,https://de.wikipedia.org/wiki/Flugplatz_Halle-Oppin,
 28695,EDAR,small_airport,Pirna-Pratzschwitz Airfield,50.979603,13.908445,402,EU,DE,DE-SN,Pirna,no,EDAR,,EDAR,,https://www.aeroclub-pirna.de/startseite.html,https://de.wikipedia.org/wiki/Flugplatz_Pirna-Pratzschwitz,
 29868,EDAS,small_airport,Finsterwalde-Heinrichsruh Airfield,51.634641,13.67505,384,EU,DE,DE-BR,Finsterwalde,no,EDAS,,EDAS,,,https://de.wikipedia.org/wiki/Flugplatz_Finsterwalde-Heinrichsruh,Flugplatz Finsterwalde/Heinrichsruh
 28655,EDAT,small_airport,Nardt Airfield,51.451111,14.199444,384,EU,DE,DE-SN,Hoyerswerda,no,EDAT,,EDAT,,,https://de.wikipedia.org/wiki/Flugplatz_Nardt,
@@ -1478,12 +1478,12 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2192,EDAV,small_airport,Eberswalde-Finow Airfield,52.826313,13.701324,121,EU,DE,DE-BR,Eberswalde,no,EDAV,,EDAV,,,https://de.wikipedia.org/wiki/Flugplatz_Eberswalde-Finow,Flugplatz Eberswalde-Finow
 28706,EDAW,small_airport,Roitzschjora Airfield,51.577778,12.494444,289,EU,DE,DE-SN,Roitzschjora,no,EDAW,,EDAW,,,https://de.wikipedia.org/wiki/Flugplatz_Roitzschjora,
 2193,EDAX,small_airport,Müritz Airpark,53.306389,12.752222,220,EU,DE,DE-MV,Lärz,no,EDAX,REB,EDAX,,,https://en.wikipedia.org/wiki/Rechlin-L%C3%A4rz_Airfield,"Mueritz, Rechlin–Lärz Airfield"
-2194,EDAY,small_airport,Strausberg Airfield,52.580555,13.916667,262,EU,DE,DE-BR,Strausberg,no,EDAY,,EDAY,,,https://de.wikipedia.org/wiki/Flugplatz_Strausberg,QPK
+2194,EDAY,small_airport,Strausberg Airfield,52.580555,13.916667,262,EU,DE,DE-BR,Strausberg,no,EDAY,,EDAY,,https://www.flugplatz-strausberg.de/,https://de.wikipedia.org/wiki/Flugplatz_Strausberg,QPK
 2195,EDAZ,small_airport,Schönhagen Airfield,52.204631,13.159526,152,EU,DE,DE-BR,Trebbin,no,EDAZ,,EDAZ,,http://www.flugplatz-schoenhagen.aero/,http://de.wikipedia.org/wiki/Flugplatz_Sch%C3%B6nhagen,QXH
 28546,EDBC,small_airport,Cochstedt Airport,51.8564,11.4203,594,EU,DE,DE-ST,Hecklingen,no,EDBC,CSO,EDBC,,,https://en.wikipedia.org/wiki/Magdeburg-Cochstedt_Airport,
 2196,EDBH,small_airport,Stralsund-Barth Airport,54.338253,12.710515,23,EU,DE,DE-MV,Barth,no,EDBH,BBH,EDBH,,,https://en.wikipedia.org/wiki/Stralsund%E2%80%93Barth_Airport,Osteseeflughafen Stralsund-Barth
 2743,EDBN,medium_airport,Neubrandenburg Trollenhagen Airport,53.6022,13.306,228,EU,DE,DE-MV,Trollenhagen,no,EDBN,FNB,EDBN,,http://www.flughafen-neubrandenburg.de/,https://en.wikipedia.org/wiki/Neubrandenburg_Airport,ETNU
-2202,EDBW,small_airport,Werneuchen Airfield,52.631668,13.766944,262,EU,DE,DE-BR,Werneuchen,no,EDBW,,EDBW,,,https://de.wikipedia.org/wiki/Flugplatz_Werneuchen,
+2202,EDBW,small_airport,Werneuchen Airfield,52.631668,13.766944,262,EU,DE,DE-BR,Werneuchen,no,EDBW,,EDBW,,https://www.flugplatz-werneuchen.de/,https://de.wikipedia.org/wiki/Flugplatz_Werneuchen,
 28584,EDCG,small_airport,Rügen Airport,54.38347,13.325542,69,EU,DE,DE-MV,Dreschvitz,no,EDCG,GTI,EDCG,,https://ostseeflugruegen.de/flugplatz-ruegen/,https://en.wikipedia.org/wiki/R%C3%BCgen_Airport,"Flugplatz Güttin / Rügen, Güttin Airfield, Ostsee-Flug-Rügen, Rugen, Ruegen, Rᵫgen"
 28622,EDCK,small_airport,Köthen Airport,51.723745,11.948826,305,EU,DE,DE-ST,Köthen (Anhalt),no,EDCK,KOQ,EDCK,,http://flugplatz-koethen.jimdo.com/,http://de.wikipedia.org/wiki/Flugplatz_K%C3%B6then,
 2207,EDCP,small_airport,Peenemünde Airport,54.15778,13.774444,7,EU,DE,DE-MV,Peenemünde,no,EDCP,PEF,EDCP,,,https://en.wikipedia.org/wiki/Peenem%C3%BCnde_Airfield,Peenemuende
@@ -1541,6 +1541,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2252,EDMO,medium_airport,Oberpfaffenhofen Airport,48.081402,11.2831,1947,EU,DE,DE-BY,Weßling,no,EDMO,OBF,EDMO,,http://www.edmo-airport.de,https://de.wikipedia.org/wiki/Flugplatz_Oberpfaffenhofen,Weßling
 2253,EDMS,small_airport,Straubing Airport,48.900833,12.516667,1047,EU,DE,DE-BY,Atting,no,EDMS,RBM,EDMS,,https://www.airport-straubing.com/en/homepage/,https://en.wikipedia.org/wiki/Straubing_Wallm%C3%BChle_Airport,
 2256,EDNY,medium_airport,Friedrichshafen Airport,47.671299,9.51149,1367,EU,DE,DE-BW,Friedrichshafen,yes,EDNY,FDH,EDNY,,https://www.bodensee-airport.eu,https://en.wikipedia.org/wiki/Friedrichshafen_Airport,Bodensee Airport Friedrichshafen
+2257,EDON,small_airport,Neuhardenberg Marxwalde Airfield,52.613056,14.242778,39,EU,DE,DE-BR,Neuhardenberg,no,EDON,,EDON,,,https://de.wikipedia.org/wiki/Flugplatz_Neuhardenberg,Flugplatz Neuhardenberg Marxwalde
 28720,EDPH,small_airport,Schwabach-Heidenberg Airfield,49.268019,11.012606,1181,EU,DE,DE-BY,Büchenbach,no,EDPH,,EDPH,,,https://de.wikipedia.org/wiki/Flugplatz_Schwabach-B%C3%BCchenbach,
 317932,EDQA,medium_airport,Bamberg-Breitenau Airfield,49.920403,10.914233,811,EU,DE,DE-BY,Bamberg,no,EDQA,,EDQA,,http://www.aeroclub-bamberg.de/,https://de.wikipedia.org/wiki/Flugplatz_Bamberg-Breitenau,"Bamberg, Breitenau"
 2261,EDQD,medium_airport,Bayreuth Airport,49.985001,11.64,1601,EU,DE,DE-BY,Bindlach,no,EDQD,BYU,EDQD,,,https://en.wikipedia.org/wiki/Bindlacher_Berg_Airport,Bindlacher Berg Airport
@@ -1564,11 +1565,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2285,EDVK,medium_airport,Kassel Airport,51.420699,9.392152,820,EU,DE,DE-HE,Calden,yes,EDVK,KSF,EDVK,,http://www.flughafenkassel.de/,https://en.wikipedia.org/wiki/Kassel_Airport,Kassel-Calden
 2288,EDWE,small_airport,Emden Airport,53.391109,7.2275,3,EU,DE,DE-NI,Emden,yes,EDWE,EME,EDWE,,,https://en.wikipedia.org/wiki/Emden_Airport,
 28751,EDWG,small_airport,Wangerooge Airport,53.782544,7.919584,7,EU,DE,DE-NI,Wangerooge,yes,EDWG,AGE,EDWG,,https://www.edwg.de,https://en.wikipedia.org/wiki/Wangerooge_Airfield,
-2290,EDWI,small_airport,JadeWeser Airport,53.50222,8.052222,16,EU,DE,DE-NI,Wilhelmshaven,no,EDWI,WVN,EDWI,,,https://en.wikipedia.org/wiki/JadeWeser_Airport,Wilhelmshaven-Mariensiel
-28614,EDWJ,small_airport,Juist Airport,53.681421,7.056398,7,EU,DE,DE-NI,Juist,yes,EDWJ,JUI,EDWJ,,,https://de.wikipedia.org/wiki/Flugplatz_Juist,
+2290,EDWI,small_airport,JadeWeser Airport,53.50222,8.052222,19,EU,DE,DE-NI,Wilhelmshaven,no,EDWI,WVN,EDWI,,https://www.edwi.info/,https://en.wikipedia.org/wiki/JadeWeser_Airport,Wilhelmshaven-Mariensiel
+28614,EDWJ,small_airport,Juist Airport,53.681421,7.056398,7,EU,DE,DE-NI,Juist,yes,EDWJ,JUI,EDWJ,,https://www.edwj.de/,https://de.wikipedia.org/wiki/Flugplatz_Juist,
 28632,EDWL,small_airport,Langeoog Airport,53.742379,7.496345,7,EU,DE,DE-NI,Langeoog,no,EDWL,LGO,EDWL,,,https://de.wikipedia.org/wiki/Flugplatz_Langeoog,
 28684,EDWO,small_airport,Atterheide Airfield,52.286388,7.969722,287,EU,DE,DE-NI,Osnabrück,no,EDWO,,EDWO,,https://atterheide.de/,https://en.wikipedia.org/wiki/Atterheide_Airfield,
-2291,EDWR,small_airport,Borkum Airport,53.59639,6.709167,3,EU,DE,DE-NI,Borkum,yes,EDWR,BMK,EDWR,,,https://en.wikipedia.org/wiki/Borkum_Airfield,Borkum
+2291,EDWR,small_airport,Borkum Airport,53.59639,6.709167,3,EU,DE,DE-NI,Borkum,yes,EDWR,BMK,EDWR,,https://stadtwerke-borkum.de/flugplatz/,https://en.wikipedia.org/wiki/Borkum_Airfield,Borkum
 28668,EDWS,small_airport,Norden-Norddeich Airport,53.633057,7.190278,3,EU,DE,DE-NI,Norddeich,yes,EDWS,NOD,EDWS,,,https://en.wikipedia.org/wiki/Norden-Norddeich_Airfield,
 28744,EDWU,small_airport,Varrelbusch Airfield,52.908333,8.040556,128,EU,DE,DE-NI,Cloppenburg,no,EDWU,VAC,EDWU,,http://www.lsv-cloppenburg.de,https://en.wikipedia.org/wiki/Varrelbusch_Airfield,
 2292,EDWY,small_airport,Norderney Airport,53.706944,7.23,7,EU,DE,DE-NI,Norderney,yes,EDWY,NRD,EDWY,,https://flughafen-norderney.de/,https://en.wikipedia.org/wiki/Norderney_Airport,
@@ -1576,8 +1577,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 28491,EDXA,small_airport,Flugplatz Achmer,52.37722,7.913333,177,EU,DE,DE-NI,Bramsche,no,EDXA,,EDXA,,,https://en.wikipedia.org/wiki/Achmer_Aerodrome,
 28590,EDXB,small_airport,Heide-Büsum Airport,54.153332,8.901667,7,EU,DE,DE-SH,Oesterdeichstrich,yes,EDXB,HEI,EDXB,,http://www.edxb.de,https://en.wikipedia.org/wiki/Heide-Buesum_Airport,
 2293,EDXF,small_airport,Flensburg-Schäferhaus Airport,54.773335,9.378889,131,EU,DE,DE-SH,Flensburg,no,EDXF,FLF,EDXF,,,https://en.wikipedia.org/wiki/Flensburg-Sch%C3%A4ferhaus_Airport,
-28591,EDXH,small_airport,Helgoland-Düne Airport,54.185279846200004,7.91583299637,8,EU,DE,DE-SH,Helgoland,yes,EDXH,HGL,EDXH,,http://www.flughafen-helgoland.de,https://en.wikipedia.org/wiki/Heligoland_Airport,
+28591,EDXH,small_airport,Helgoland-Düne Airport,54.18528,7.915833,8,EU,DE,DE-SH,Helgoland,yes,EDXH,HGL,EDXH,,https://www.flugplatz-helgoland.de/,https://en.wikipedia.org/wiki/Heligoland_Airport,
 2294,EDXJ,small_airport,Husum-Schwesing Airport,54.5099983215,9.138333320620001,62,EU,DE,DE-SH,Husum,no,EDXJ,QHU,EDXJ,,,https://en.wikipedia.org/wiki/Husum_Schwesing_Airport,
+29096,EDXK,small_airport,Leck Airfield,54.790905,8.963439,23,EU,DE,DE-SH,Leck,no,EDXK,,EDXK,,https://sportfluggruppe.de/verein/derflugplatz,https://de.wikipedia.org/wiki/Flugplatz_Leck,"Flugplatz Leck, Sonderlandeplatz Leck"
 28734,EDXO,small_airport,Sankt Peter-Ording Airport,54.308887,8.686944,7,EU,DE,DE-SH,Sankt Peter-Ording,no,EDXO,PSH,EDXO,,https://www.flugplatz-st-peter-ording.de/,https://en.wikipedia.org/wiki/Sankt_Peter-Ording_Airport,"Saint Peter-Ording, St. Peter-Ording"
 28588,EDXP,small_airport,Harlesiel Airfield,53.706669,7.820278,7,EU,DE,DE-NI,Harlesiel,yes,EDXP,,EDXP,,,https://en.wikipedia.org/wiki/Harle_Airfield,Flugplatz Harle
 28727,EDXS,small_airport,Seedorf Airfield,53.335556,9.259444,72,EU,DE,DE-NI,Zeven,no,EDXS,,,,,https://de.wikipedia.org/wiki/Flugplatz_Seedorf,Sonderlandeplatz Seedorf
