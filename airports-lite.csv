@@ -8480,10 +8480,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 343028,SWSI,small_airport,Pousada Amazônia Fishing Lodge Airstrip,-9.13939,-57.049462,509,SA,BR,BR-PA,Jacareacanga,no,SWSI,,SWSI,PA0242,,,
 323916,SWSN,small_airport,Fazenda São Valentim Airport,-14.962222,-59.321389,1007,SA,BR,BR-MT,Pontes e Lacerda,no,SWSN,,SWSN,MT0401,,,
 343017,SWST,heliport,Bandeiras Centro Empresarial Heliport,-23.536615,-47.449475,1827,SA,BR,BR-SP,Votorantim,no,SWST,,SWST,SP1306,,,
-38091,SWTP,small_airport,Tapuruquara Airport,-0.3786,-64.9923,223,SA,BR,BR-AM,Santa Isabel Do Rio Negro,yes,SWTP,IRZ,SWTP,,,https://en.wikipedia.org/wiki/Tapuruquara_Airport,
+38091,SWTP,small_airport,Tapuruquara Airport,-0.378604,-64.992558,141,SA,BR,BR-AM,Santa Isabel do Rio Negro,yes,SWTP,IRZ,SWTP,AM0022,,https://en.wikipedia.org/wiki/Tapuruquara_Airport,
 586,SWTS,small_airport,Tangará da Serra Airport,-14.662,-57.443744,1473,SA,BR,BR-MT,Tangará da Serra,yes,SWTS,TGQ,SWTS,MT0012,,https://en.wikipedia.org/wiki/Tangar%C3%A1_da_Serra_Airport,
 587,SWTU,small_airport,Fazenda Tucunaré Airport,-13.465528,-58.866935,1814,SA,BR,BR-MT,Sapezal,no,SWTU,AZL,SWTU,MT0410,,,
-588,SWUA,small_airport,São Miguel do Araguaia Airport,-13.3313,-50.197601,1249,SA,BR,BR-GO,São Miguel do Araguaia,no,SWUA,SQM,SWUA,SWUA,,,
+588,SWUA,small_airport,São Miguel do Araguaia Airport,-13.3313,-50.197601,1249,SA,BR,BR-GO,São Miguel do Araguaia,no,SWUA,SQM,SWUA,GO0011,,,
 564920,SWVB,heliport,ICPB Heliport,-27.143296,-48.532353,18,SA,BR,BR-SC,Porto Belo,no,SWVB,,SWVB,SC0206,,,
 38114,SWVC,small_airport,Vila Rica Airport,-9.981057,-51.140358,833,SA,BR,BR-MT,Vila Rica,no,SWVC,VLP,SWVC,MT0016,,https://en.wikipedia.org/wiki/Vila_Rica_Airport,
 31882,SWXM,small_airport,Orlando Villas Boas Regional Airport,-10.170368,-54.953964,886,SA,BR,BR-MT,Matupá,no,SWXM,MBK,SWXM,MT0014,,https://en.wikipedia.org/wiki/Matup%C3%A1_Airport,Matupá Airport
