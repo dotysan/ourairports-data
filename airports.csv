@@ -23033,7 +23033,7 @@
 28706,"EDAW","small_airport","Roitzschjora Airfield",51.577778,12.494444,289,"EU","DE","DE-SN","Roitzschjora","no","EDAW",,"EDAW",,"https://www.edaw.de/","https://de.wikipedia.org/wiki/Flugplatz_Roitzschjora",
 2193,"EDAX","small_airport","Müritz Airpark",53.306389,12.752222,220,"EU","DE","DE-MV","Lärz","no","EDAX","REB","EDAX",,"http://www.mueritz-airpark.de/","https://en.wikipedia.org/wiki/M%C3%BCritz_Airpark","Mueritz, Rechlin–Lärz Airfield"
 2194,"EDAY","small_airport","Strausberg Airfield",52.580555,13.916667,262,"EU","DE","DE-BR","Strausberg","no","EDAY",,"EDAY",,"https://www.flugplatz-strausberg.de/","https://de.wikipedia.org/wiki/Flugplatz_Strausberg","QPK"
-2195,"EDAZ","small_airport","Schönhagen Airfield",52.204631,13.159526,152,"EU","DE","DE-BR","Trebbin","no","EDAZ","QXH","EDAZ",,"http://www.flugplatz-schoenhagen.aero/","http://de.wikipedia.org/wiki/Flugplatz_Sch%C3%B6nhagen","QXH"
+2195,"EDAZ","small_airport","Schönhagen Airfield",52.204631,13.159526,152,"EU","DE","DE-BR","Trebbin","no","EDAZ",,"EDAZ",,"http://www.flugplatz-schoenhagen.aero/","http://de.wikipedia.org/wiki/Flugplatz_Sch%C3%B6nhagen","QXH"
 28495,"EDBA","small_airport","Arnstadt-Alkersleben Airfield",50.841873,11.069934,1145,"EU","DE","DE-TH","Osthausen-Wülfershausen","no","EDBA",,"EDBA",,"http://www.flugplatz-alkersleben.de/","http://de.wikipedia.org/wiki/Flugplatz_Arnstadt-Alkersleben","Flugplatz Arnstadt-Alkersleben"
 28546,"EDBC","small_airport","Cochstedt Airport",51.8564,11.4203,599,"EU","DE","DE-ST","Hecklingen","no","EDBC","CSO","EDBC",,"https://cochstedt-airport.de/","https://en.wikipedia.org/wiki/Magdeburg-Cochstedt_Airport",
 29060,"EDBE","small_airport","Brandenburg-Mühlenfeld Airfield",52.4375,12.59,100,"EU","DE","DE-BR","Brandenburg an der Havel","no","EDBE",,"EDBE",,"https://www.fliegerklub-brandenburg.de/","https://de.wikipedia.org/wiki/Flugplatz_Brandenburg/M%C3%BChlenfeld",
@@ -23052,8 +23052,8 @@
 2200,"EDBR","medium_airport","Rothenburg/Görlitz Airfield",51.363335,14.95,515,"EU","DE","DE-SN","Rothenburg/Oberlausitz","no","EDBR",,"EDBR",,"http://www.flugplatz-rothenburg-goerlitz.de/","http://de.wikipedia.org/wiki/Flugplatz_Rothenburg/G%C3%B6rlitz",
 28731,"EDBS","small_airport","Sömmerda-Dermsdorf Airfield",51.198414,11.191764,451,"EU","DE","DE-TH","Kölleda","no","EDBS",,"EDBS",,"https://flugservice-soemmerda.de/","https://en.wikipedia.org/wiki/Flugplatz_S%C3%B6mmerda-Dermsdorf","Flugplatz Sömmerda-Dermsdorf"
 2201,"EDBT","small_airport","Allstedt Airfield",51.380554,11.446667,932,"EU","DE","DE-ST","Allstedt","no","EDBT",,"EDBT",,"https://www.allstedt-flugplatz.de/","https://de.wikipedia.org/wiki/Flugplatz_Allstedt","Flugplatz Allstedt"
-29062,"EDBU","small_airport","Pritzwalk-Sommersberg Airfield",53.180019,12.184553,289,"EU","DE","DE-BR","Pritzwalk","no",,,"EDBU",,,"https://de.wikipedia.org/wiki/Flugplatz_Pritzwalk-Sommersberg","Flugplatz Pritzwalk-Sommersberg"
-29063,"EDBV","small_airport","Stralsund Airfield",54.335835,13.043333,49,"EU","DE","DE-MV","Stralsund","no",,,"EDBV",,,"https://de.wikipedia.org/wiki/Flugplatz_Stralsund","""Flugplatz Stralsund"""
+29062,"EDBU","small_airport","Pritzwalk-Sommersberg Airfield",53.180019,12.184553,289,"EU","DE","DE-BR","Pritzwalk","no","EDBU",,"EDBU",,"https://www.segelflugzentrum-am-sommersberg.com/","https://de.wikipedia.org/wiki/Flugplatz_Pritzwalk-Sommersberg","Flugplatz Pritzwalk-Sommersberg"
+29063,"EDBV","small_airport","Stralsund Airfield",54.335835,13.043333,49,"EU","DE","DE-MV","Stralsund","no","EDBV",,"EDBV",,"http://www.flugplatz-stralsund.de/","https://de.wikipedia.org/wiki/Flugplatz_Stralsund","""Flugplatz Stralsund"""
 2202,"EDBW","small_airport","Werneuchen Airfield",52.631668,13.766944,262,"EU","DE","DE-BR","Werneuchen","no","EDBW",,"EDBW",,"https://www.flugplatz-werneuchen.de/","https://de.wikipedia.org/wiki/Flugplatz_Werneuchen",
 28574,"EDBX","small_airport","Görlitz Airfield",51.15889,14.950278,778,"EU","DE","DE-SN","Görlitz","no",,,"EDBX",,,"http://de.wikipedia.org/wiki/Flugplatz_G%C3%B6rlitz","Goerlitz"
 29064,"EDBY","small_airport","Schmoldow Airfield",53.972221,13.343611,105,"EU","DE","DE-MV","Bandelin","no",,,"EDBY",,,"https://de.wikipedia.org/wiki/Flugplatz_Schmoldow","Flugplatz Schmoldow"
@@ -44360,7 +44360,7 @@
 4673,"LW71","small_airport","Peshirovo Sveti Nikole Airfield",41.828073,21.986585,794,"EU","MK","MK-001","Peshirovo","no",,,,,,,"LW71"
 4675,"LW73","small_airport","Štip Airstrip",41.798058,22.109863,900,"EU","MK","MK-002","Krivi Dol","no",,,,,,,"LW73"
 4676,"LW74","small_airport","Logovardi Sport Aerodrome",41.017721,21.426186,1950,"EU","MK","MK-005","Logovardi","no",,,,,,"https://en.wikipedia.org/wiki/Logovardi_Airfield","LW74, Bitola"
-4677,"LW75","small_airport","Stenkovec Brazda Airfield",42.0594,21.388514,1150,"EU","MK","MK-004","Brazda","no",,,,,"https://www.aeroclub.mk","https://en.wikipedia.org/wiki/Stenkovec_Brazda_Airfield",
+4677,"LW75","small_airport","Stenkovec Brazda Airfield",42.0594,21.388514,1150,"EU","MK","MK-004","Brazda","no",,,,,"https://aeroklubskopje.mk/en/airfield/","https://en.wikipedia.org/wiki/Stenkovec_Brazda_Airfield",
 313843,"LWA","small_airport","Lebak Rural Airport",6.6739,124.0581,16,"AS","PH","PH-SUK","Lebak","no",,"LWA",,,,,"Doña Annie Sabala Vallite Alabastro Memorial Private, Lorenzo Palileo"
 21733,"LWD","small_airport","Lamoni Municipal Airport",40.633301,-93.902199,1131,"NA","US","US-IA","Lamoni","no",,,"KLWD","LWD",,,
 4572,"LWOH","medium_airport","Ohrid St. Paul the Apostle Airport",41.18,20.7423,2313,"EU","MK","MK-003","Ohrid","yes","LWOH","OHD","LWOH",,"http://ohd.airports.com.mk/","https://en.wikipedia.org/wiki/Ohrid_Airport",
@@ -79450,6 +79450,7 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,"https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Long_Xuy%C3%AAn","XLO, Vam Cong"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
+601181,"VN-0077","small_airport","dola789acam",78,80,,"AS","VN","VN-U-A","Quận Cầu Giấy","no",,,,,"https://dola789a.cam/",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
@@ -81648,6 +81649,7 @@
 29915,"YGRL","small_airport","Great Lakes Vi Airport",-37.842201,148,184,"OC","AU","AU-VIC",,"no",,,"YGRL",,,"https://en.wikipedia.org/wiki/Great_Lakes_Airport",
 27607,"YGRU","small_airport","Glen Ruth Airport",-18.08329963684082,145.39999389648438,,"OC","AU","AU-QLD",,"no",,,"YGRU",,,,
 38372,"YGSC","small_airport","Gascoyne Junction Airport",-25.0546,115.2026,499,"OC","AU","AU-WA","Gascoyne Junction","no","YGSC","GSC","YGSC",,,,
+601179,"YGSD","small_airport","Greenside Airstrip",-31.52384,115.940439,184,"OC","AU","AU-WA","Muchea","no",,,"YGSD",,"https://www.grfc.asn.au/",,
 517104,"YGSN","small_airport","Mount Gibson Airstrip",-29.60682,117.401812,1205,"OC","AU","AU-WA",,"no",,,"YGSN",,,,
 354813,"YGTC","small_airport","Gemtree Caravan Park Airstrip",-22.970918,134.247387,2136,"OC","AU","AU-NT","Anmatjere","no",,,"YGTC",,"https://gemtree.com.au/",,
 26998,"YGTE","medium_airport","Groote Eylandt Airport",-13.972405,136.458553,53,"OC","AU","AU-NT","Groote Eylandt","yes","YGTE","GTE","YGTE",,,"https://en.wikipedia.org/wiki/Groote_Eylandt_Airport",
