@@ -6605,6 +6605,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5052,NZRO,medium_airport,Rotorua Regional Airport,-38.1092,176.317001,935,OC,NZ,NZ-BOP,Rotorua,yes,NZRO,ROT,NZRO,,https://www.rotorua-airport.co.nz/,https://en.wikipedia.org/wiki/Rotorua_Regional_Airport,
 30320,NZRT,small_airport,Rangiora Airfield,-43.290001,172.542007,180,OC,NZ,NZ-CAN,Rangiora,no,NZRT,,NZRT,,http://www.rangiora.com/pages/rangiora-airport-and-airfield.php,https://en.wikipedia.org/wiki/Rangiora_Airport,
 600057,NZSF,small_airport,Springfield Airport,-43.383575,171.911266,1216,OC,NZ,NZ-CAN,Springfield,no,NZSF,,NZSF,,,,Tawera
+5054,NZSP,medium_airport,Amundsen–Scott South Pole Station Airport,-90,-1,9300,AN,AQ,AQ-U-A,Amundsen-Scott South Pole Station,no,NZSP,,NZSP,,,https://en.wikipedia.org/wiki/Amundsen-Scott_South_Pole_Station,
 5055,NZTG,medium_airport,Tauranga Airport,-37.67190170288086,176.1959991455078,13,OC,NZ,NZ-BOP,Tauranga,yes,NZTG,TRG,NZTG,,,https://en.wikipedia.org/wiki/Tauranga_Airport,
 30483,NZTH,small_airport,Thames Aerodrome,-37.1567,175.550003,10,OC,NZ,NZ-WKO,,no,NZTH,TMZ,NZTH,,,https://en.wikipedia.org/wiki/Thames_Aerodrome,
 30464,NZTK,small_airport,Takaka Airport,-40.813301,172.774994,102,OC,NZ,NZ-TAS,,no,NZTK,KTF,NZTK,,,https://en.wikipedia.org/wiki/T%C4%81kaka_Aerodrome,
