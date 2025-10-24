@@ -10000,7 +10000,7 @@
 340284,"AO-0054","closed","Tômbua Airport",-15.800486,11.885896,144,"AF","AO","AO-NAM","Tômbua","no",,,,,,,"Tombua, Tombwa"
 340285,"AO-0055","small_airport","Bentiaba Airfield",-14.25396,12.39103,,"AF","AO","AO-NAM","Bentiaba","no",,,,,,,
 340286,"AO-0056","small_airport","Lunuango Airstrip",-6.4594,12.5697,,"AF","AO","AO-ZAI","Lunuango","no",,,,,,,
-340287,"AO-0057","small_airport","Kwanda Airport",-6.1244,12.328,,"AF","AO","AO-ZAI","Soyo","no",,,,,,,
+340287,"AO-0057","small_airport","Kwanda Airport",-6.1244,12.328,12,"AF","AO","AO-ZAI","Soyo","no",,,,,,,"Angola LNG Plant Heliport"
 341286,"AO-0058","heliport","Sinfo Heliport",-8.91811,13.25935,,"AF","AO","AO-LUA","Luanda","no",,,,,,,
 344675,"AO-0059","small_airport","Emilio de Carvalho Airport",-5.93365,12.96583,36,"AF","AO","AO-ZAI","Emilio de Carvalho","no",,,,,,,
 351687,"AO-0060","small_airport","Nhamuana Airport",-12.99457,22.7275,3530,"AF","AO","AO-MOX","Nhamuana","no",,,,,,,
@@ -10016,6 +10016,7 @@
 595575,"AO-0070","small_airport","Dombe Grande Airfield",-13.00966,13.10344,294,"AF","AO","AO-BGU","Dombe Grande","no",,,,,,,
 595610,"AO-0071","small_airport","Canhoca Airstrip",-13.41936,12.56508,469,"AF","AO","AO-BGU","Canhoca","no",,,,,,,
 598034,"AO-0074","small_airport","Huambo Airport",-12.786306,15.774528,5443,"AF","AO","AO-HUA","Huambo","no","FNNL",,"FNNL",,,"https://en.wikipedia.org/wiki/Huambo_Airport",
+601203,"AO-0075","heliport","Alto Dondo Heliport",-9.679752,14.470425,653,"AF","AO","AO-LUA","Dondo","no",,,,,,,"Eke Brewery, Cuanza Norte"
 30840,"AO-CNZ","small_airport","Cangamba Airport",-13.7106,19.861099,3894,"AF","AO","AO-MOX","Cangamba","no",,"CNZ",,,,"https://en.wikipedia.org/wiki/Cangamba_Airport",
 43323,"AO-DRC","small_airport","Dirico Airport",-17.981924,20.768061,3504,"AF","AO","AO-CCU","Dirico","no",,"DRC",,,,"https://en.wikipedia.org/wiki/Dirico_Airport",
 43326,"AO-NDF","small_airport","N'dalatando Airport",-9.280378,14.982432,2684,"AF","AO","AO-CNO","N'dalatando","no",,"NDF",,,,"https://en.wikipedia.org/wiki/N%27dalatando_Airport",
@@ -11545,7 +11546,7 @@
 507873,"AU-0561","small_airport","Duchess airstrip",-21.335355,139.88162,,"OC","AU","AU-QLD","Duchess","no",,,,,,,
 507882,"AU-0562","small_airport","Brides Creek station airstrip",-25.028178,145.440745,,"OC","AU","AU-QLD","Brides Creek","no",,,,,,,
 507885,"AU-0563","small_airport","Yagoonya airstrip",-16.373305,141.493478,,"OC","AU","AU-QLD","Yagoonya","no",,,,,,,
-507888,"AU-0564","small_airport","Archer River  airstrip",-13.436333,142.928867,,"OC","AU","AU-QLD","Archer River","no",,,,,,,
+507888,"AU-0564","small_airport","Archer River Airstrip",-13.436333,142.928867,338,"OC","AU","AU-QLD","Archer River","no",,,"YARC",,,,"Cook"
 507890,"AU-0565","small_airport","Moora Airport",-30.684896,115.982059,659,"OC","AU","AU-WA","Moora","no","YMRO",,"YMRO",,,,"Topfun Aviation"
 507892,"AU-0566","small_airport","Marble Bar  airstrip",-20.846279,120.06649,,"OC","AU","AU-WA","Marble Bar","no",,,,,,,
 507894,"AU-0567","small_airport","Fairholme airstrip",-33.290925,147.378384,,"OC","AU","AU-NSW","Fairholme NSW 2871","no",,,,,,,
@@ -18957,6 +18958,7 @@
 594783,"CL-0034","heliport","Paso El León Police Station Heliport",-41.50454,-71.86033,1358,"SA","CL","CL-LL","Paso El León","no",,,,,,,
 594799,"CL-0035","closed","El Arrayán Airfield",-41.40244,-72.94333,341,"SA","CL","CL-LL","Puerto Varas","no",,,,,,,"SCRY"
 594800,"CL-0036","closed","Basso Field",-40.40695,-73.16096,236,"SA","CL","CL-LL","Trumao","no",,,,,,,
+601204,"CL-0037","heliport","Cabo de Hornos Naval Heliport",-55.962927,-67.224942,102,"SA","CL","CL-MA","Hornos Island","no",,,,,,,"CHI-006"
 1641,"CL-SC49","small_airport","Oficina Victoria Airport",-20.734699249267578,-69.62570190429688,3280,"SA","CL","CL-TA","Oficina Victoria","no",,,"SC49",,,,
 16719,"CL00","heliport","USC University Hospital Heliport",34.061623,-118.201585,476,"NA","US","US-CA","Los Angeles","no",,,"CL00","CL00",,,
 16720,"CL01","small_airport","Eagle Field",36.899899,-120.667999,153,"NA","US","US-CA","Dos Palos","no",,,"CL01","CL01",,"https://en.wikipedia.org/wiki/Eagle_Field_(airport)",
@@ -21348,6 +21350,7 @@
 599286,"CZ-0283","small_airport","Lochousice",49.674905,13.099417,1289,"EU","CZ","CZ-PL","Lochousice","no",,,,"LKLOCH",,,
 599287,"CZ-0284","small_airport","Jeneč Airstrip",50.0825,14.222778,1243,"EU","CZ","CZ-ST","Prague","no",,,,"LKJENE",,,
 599398,"CZ-0285","small_airport","Rabi Airfield",49.275146,13.627812,1480,"EU","CZ","CZ-PL","Rabi","no",,,,"LKRABI",,,
+601186,"CZ-0286","small_airport","Jilmovi Ultralight Strip",49.3983,16.32169,,"EU","CZ","CZ-JM",,"no",,,,,,,
 2005,"CZAC","small_airport","York Landing Airport",56.089401,-96.089203,621,"NA","CA","CA-MB","York Landing","no","CZAC","ZAC","CZAC",,,"https://en.wikipedia.org/wiki/York_Landing_Airport",
 2006,"CZAM","medium_airport","Shuswap Regional Airport",50.682802,-119.228996,1751,"NA","CA","CA-BC","Salmon Arm","no","CZAM","YSN","CZAM",,"http://www.salmonarm.ca/index.aspx?nid=228","https://en.wikipedia.org/wiki/Salmon_Arm_Airport","AM4, Shuswap Regional Airport, Salmon Arm Airport"
 2007,"CZBA","small_airport","Burlington Executive Airpark",43.441453,-79.850103,602,"NA","CA","CA-ON","Burlington","no","CZBA",,"CZBA",,"http://www.burlingtonairpark.com/","https://en.wikipedia.org/wiki/Burlington_Executive_Aerodrome","ZBA"
@@ -49326,6 +49329,8 @@
 344673,"NG-0024","small_airport","Bacita Airstrip",9.0421,4.9188,489,"AF","NG","NG-KW","Bacita","no",,,,,,"https://en.wikipedia.org/wiki/Bacita_Airstrip","QCT"
 352638,"NG-0025","heliport","Forçados Terminal Heliport",5.35986,5.35239,11,"AF","NG","NG-DE","Forçados","no",,,,,,,
 599475,"NG-0026","small_airport","Kainji Airfield",9.8927,4.6133,690,"AF","NG","NG-NI","Kainji","no",,,,,,,
+601201,"NG-0027","heliport","Banana Island Helipad",6.455749,3.460081,10,"AF","NG","NG-LA","Lagos","no",,,,,,,
+601202,"NG-0028","heliport","Pan African Towers Helipad",6.428839,3.413901,85,"AF","NG","NG-LA","Victoria Island, Lagos","no",,,,,,,"Danmole"
 30689,"NG-BCU","small_airport","Bauchi Airport",10.294402,9.816672,1998,"AF","NG","NG-BA","Bauchi","no","DNBA",,"DNBA",,"http://www.faannigeria.org/nigeria-airport.php?airport=26","https://en.wikipedia.org/wiki/Bauchi_Airport","BCU"
 30611,"NGAB","small_airport","Abaiang Airport",1.79861,173.041,26,"OC","KI","KI-G","Abaiang","no","NGAB","ABF","NGAB",,,"https://en.wikipedia.org/wiki/Abaiang_Airport",
 30696,"NGBR","small_airport","Beru Airport",-1.35472,176.007004,6,"OC","KI","KI-G","Beru","no","NGBR","BEZ","NGBR",,,"https://en.wikipedia.org/wiki/Beru_Airport",
@@ -50496,7 +50501,7 @@
 600057,"NZSF","small_airport","Springfield Airport",-43.383575,171.911266,1216,"OC","NZ","NZ-CAN","Springfield","no","NZSF",,"NZSF",,,,"Tawera"
 30433,"NZSL","small_airport","Springhill Airport",-36.32360076904297,174.55599975585938,102,"OC","NZ","NZ-AUK",,"no",,,"NZSL",,,,
 44815,"NZSO","seaplane_base","Marlborough Sounds Water Aerodrome",-41.0088996887207,174.08900451660156,,"OC","NZ","NZ-MBH","Malborough Sounds","no",,,"NZSO",,,,
-5054,"NZSP","medium_airport","Amundsen–Scott south Pole Station Airport",-90,0,9300,"AN","AQ","AQ-U-A","Amundsen-Scott South Pole Station","no",,,"NZSP",,,"https://en.wikipedia.org/wiki/Amundsen-Scott_South_Pole_Station",
+5054,"NZSP","medium_airport","Amundsen–Scott South Pole Station Airport",-90,-1,9300,"AN","AQ","AQ-U-A","Amundsen-Scott South Pole Station","no","NZSP",,"NZSP",,,"https://en.wikipedia.org/wiki/Amundsen-Scott_South_Pole_Station",
 30476,"NZTA","small_airport","Te Aroha Airfield",-37.474700927734375,175.6179962158203,30,"OC","NZ","NZ-WKO",,"no",,,"NZTA",,,,
 30477,"NZTE","small_airport","Te Kowhai Airfield",-37.744202,175.160995,49,"OC","NZ","NZ-WKO","Te Kowhai","no",,,"NZTE",,,"https://en.wikipedia.org/wiki/Te_Kowhai_Aerodrome",
 5055,"NZTG","medium_airport","Tauranga Airport",-37.67190170288086,176.1959991455078,13,"OC","NZ","NZ-BOP","Tauranga","yes","NZTG","TRG","NZTG",,,"https://en.wikipedia.org/wiki/Tauranga_Airport",
@@ -69578,6 +69583,7 @@
 601003,"US-12771","small_airport","Edwards AFB South Base",34.895364,-117.867336,,"NA","US","US-CA",,"no",,,,,,,
 601084,"US-12772","closed","Cottonwood Ranch Airport",45.786804,-101.047424,1984,"NA","US","US-SD","McLaughlin","no",,,,,,,"SD31"
 601093,"US-12773","closed","Rabbit Creek Airport",61.07977,-149.827445,35,"NA","US","US-AK","Anchorage","no",,,,,,,"AK92"
+601196,"US-12774","closed","Palisades NOLF",33.641111,-117.880833,93,"NA","US","US-CA","Newport Beach","no",,,,,,"https://en.wikipedia.org/wiki/Naval_Air_Station_Los_Alamitos_Naval_Outlying_Landing_Fields",
 334319,"US-1278","heliport","Foote Farm Association RLA Heliport",43.989494,-73.239858,167,"NA","US","US-VT","Cornwall","no",,,"VT54","VT54",,,
 334321,"US-1279","heliport","West Street Property Heliport",43.987683,-73.25274,181,"NA","US","US-VT","Cornwall","no",,,"VT24","VT24",,,"Quesnel Farm"
 334323,"US-1280","small_airport","Mahoney Farm Airport",38.849622,-98.668278,1836,"NA","US","US-KS","Dorrance","no",,,"2KS4","2KS4",,,
@@ -79450,7 +79456,6 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,"https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Long_Xuy%C3%AAn","XLO, Vam Cong"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
-601181,"VN-0077","small_airport","dola789acam",78,80,,"AS","VN","VN-U-A","Quận Cầu Giấy","no",,,,,"https://dola789a.cam/",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
@@ -81020,6 +81025,7 @@
 27331,"YANL","small_airport","Anthony Lagoon Airport",-18.018079031,135.535068512,,"OC","AU","AU-NT",,"no",,"AYL","YANL",,,,
 38231,"YANN","small_airport","Anningie Airport",-21.83169937133789,133.125,,"OC","AU","AU-NT",,"no",,,"YANN",,,,
 27332,"YANW","small_airport","Annitowa Airport",-21.200017,136.451139,901,"OC","AU","AU-NT",,"no",,,"YANW",,,,
+601197,"YAOC","small_airport","Dunmore/Opal Creek Airport",-27.667778,150.932879,1125,"OC","AU","AU-QLD","Dunmore","no",,,"YAOC",,,"https://www.wikidata.org/wiki/Q97701084",
 506641,"YAOD","heliport","Australian Age of Dinosaurs Helicopter Landing Site",-22.48,143.1825,899,"OC","AU","AU-QLD","Australian Age of Dinosaurs Museum","no",,,"YAOD",,,,
 27333,"YAOR","small_airport","Ardmore Airport",-21.649999618530273,139.18299865722656,,"OC","AU","AU-QLD",,"no",,,"YAOR",,,,
 27334,"YAPA","small_airport","Anna Plains Airport",-19.26808,121.51128,66,"OC","AU","AU-WA","Eighty Mile Beach","no",,,"YAPA",,,,
@@ -81029,6 +81035,7 @@
 550614,"YAQA","small_airport","Aquila Airfield",-25.528889,152.570007,170,"OC","AU","AU-QLD",,"no",,,"YAQA",,"https://aquilaestate.com.au/",,
 26891,"YARA","medium_airport","Ararat Airport",-37.309978,142.988688,1008,"OC","AU","AU-VIC","Ararat","no","YARA","ARY","YARA",,,"https://en.wikipedia.org/wiki/Ararat_Airport",
 27336,"YARD","small_airport","Argadargada Airport",-21.676700592041016,136.67799377441406,,"OC","AU","AU-NT",,"no",,,"YARD",,,,
+601198,"YARE","small_airport","Redford Airstrip",-25.838861,147.41221,1726,"OC","AU","AU-QLD","Redford Station","no",,,"YARE",,,,
 26892,"YARG","small_airport","Argyle Airport",-16.6369,128.451004,522,"OC","AU","AU-WA",,"no","YARG","GYL","YARG",,,"https://en.wikipedia.org/wiki/Argyle_Airport",
 27337,"YARI","small_airport","Arizona 1 Airport",-21.66670036315918,141.56700134277344,,"OC","AU","AU-QLD",,"no",,,"YARI",,,,
 27338,"YARK","small_airport","Arkaroola Airport",-30.4067,139.345993,783,"OC","AU","AU-SA",,"no","YARK",,"YARK",,,,
@@ -81638,7 +81645,9 @@
 27602,"YGNB","heliport","RAAF Base Glenbrook",-33.761633,150.636255,640,"OC","AU","AU-NSW","Glenbrook","no",,,"YGNB",,,"https://en.wikipedia.org/wiki/RAAF_Base_Glenbrook",
 517102,"YGNE","small_airport","Gnarwarre Airstrip",-38.165,144.1075,420,"OC","AU","AU-VIC",,"no",,,"YGNE",,,,
 38368,"YGNF","small_airport","Grenfell Airport",-34,148.132995605,1080,"OC","AU","AU-NSW","Grenfell","no",,"GFE","YGNF",,,,
+601199,"YGNI","heliport","Green Island Helipad",-16.760347,145.971931,23,"OC","AU","AU-QLD","Cairns","no",,,"YGNI",,,,
 517103,"YGNO","small_airport","Goonoo Feedlot Airstrip",-23.758098,148.53595,578,"OC","AU","AU-QLD",,"no",,,"YGNO",,,,
+601200,"YGNR","small_airport","Glenore Airport",-18.476554,141.113659,81,"OC","AU","AU-QLD","Glenore","no",,,"YGNR",,,,
 27603,"YGNV","small_airport","Greenvale Airport",-18.9966,145.0136,,"OC","AU","AU-QLD",,"no","YGNV","GVP","YGNV",,,"https://en.wikipedia.org/wiki/Greenvale_Airport",
 27604,"YGNW","small_airport","Gnowangerup Airport",-33.978316,118.012819,,"OC","AU","AU-WA",,"no",,,"YGNW",,,,
 38369,"YGOM","small_airport","Goomalling Airport",-31.359895,116.891291,,"OC","AU","AU-WA",,"no",,,"YGOM",,,,
