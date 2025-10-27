@@ -590,9 +590,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 125,BIRK,medium_airport,Reykjavík Domestic Airport,64.128732,-21.93759,48,EU,IS,IS-1,Reykjavík,yes,BIRK,RKV,BIRK,,,https://en.wikipedia.org/wiki/Reykjav%C3%ADk_Airport,REK
 31973,BIRL,small_airport,Reykjahlíð Airport,65.6558,-16.9181,1030,EU,IS,IS-6,Myvatn,no,BIRL,MVA,BIRL,,,https://en.wikipedia.org/wiki/M%C3%BDvatn_Airport,
 126,BISI,medium_airport,Siglufjörður Airport,66.137847,-18.908157,10,EU,IS,IS-6,Siglufjörður,no,BISI,SIJ,BISI,,,https://en.wikipedia.org/wiki/Siglufj%C3%B6r%C3%B0ur_Airport,
+30750,BISR,small_airport,Stórikroppur Airport,64.632625,-21.490859,165,EU,IS,IS-3,Stórikroppur,no,BISR,,BISR,,,,
+30751,BISS,small_airport,Sandskeið Airport,64.060799,-21.574699,600,EU,IS,IS-1,Sandskeið,no,BISS,,BISS,,,,
 32415,BIST,small_airport,Stykkishólmur Airport,65.058851,-22.764616,42,EU,IS,IS-3,Stykkishólmur,no,BIST,SYK,BIST,,,https://en.wikipedia.org/wiki/Stykkish%C3%B3lmur_Airport,
-32436,BITE,small_airport,Þingeyri Airport,65.8703,-23.559999,65,EU,IS,IS-4,Þingeyri,no,BITE,TEY,BITE,,,https://en.wikipedia.org/wiki/%C3%9Eingeyri_Airport,
+30752,BISV,small_airport,Skálavatn Airport,64.115301,-18.785153,2000,EU,IS,IS-8,Skálavatn,no,BISV,,BISV,,,,
+32436,BITE,small_airport,Þingeyri Airport,65.8703,-23.559999,65,EU,IS,IS-4,Þingeyri,no,BITE,TEY,BITE,,,https://en.wikipedia.org/wiki/%C3%9Eingeyri_Airport,Thingeyri
+30754,BITM,small_airport,Þórsmörk Airport,63.689999,-19.563101,600,EU,IS,IS-8,Þórsmörk,no,BITM,,BITM,,,,"Thórsmörk, Thorsmork"
 127,BITN,small_airport,Þórshöfn Airport,66.218498,-15.3356,65,EU,IS,IS-6,Þórshöfn,yes,BITN,THO,BITN,,,https://en.wikipedia.org/wiki/Thorshofn_Airport,Thorshofn
+30758,BIVI,small_airport,Vík Airport,63.4217,-18.8883,100,EU,IS,IS-8,Vík,no,BIVI,,BIVI,,,,
 128,BIVM,medium_airport,Vestmannaeyjar Airport,63.42430114746094,-20.278900146484375,326,EU,IS,IS-8,Vestmannaeyjar,no,BIVM,VEY,BIVM,,,https://en.wikipedia.org/wiki/Vestmannaeyjar_Airport,
 32593,BIVO,small_airport,Vopnafjörður Airport,65.720596,-14.8506,16,EU,IS,IS-7,Vopnafjörður,yes,BIVO,VPN,BIVO,,,https://en.wikipedia.org/wiki/Vopnafj%C3%B6r%C3%B0ur_Airport,
 300790,BJE,small_airport,Baleela Airport,11.199444444400001,28.5230555556,1690,AF,SD,SD-13,Baleela Base Camp,no,,BJE,,,,,
@@ -797,7 +802,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 1466,CPV8,small_airport,Keewaywin Airport,52.9911,-92.836403,988,NA,CA,CA-ON,Keewaywin,yes,,KEW,CPV8,CPV8,,https://en.wikipedia.org/wiki/Keewaywin_Airport,
 519426,CR-0006,small_airport,Cóbano Airport,9.693365,-85.091216,502,NA,CR,CR-P,Cóbano,no,,ACO,MRAF,,https://www.cobanoairport.com/,,
 1492,CRL4,small_airport,Kirby Lake Airport,55.355598,-110.637001,2260,NA,CA,CA-AB,Kirby Lake,no,,KFM,CRL4,CRL4,,https://en.wikipedia.org/wiki/Kirby_Lake_Airport,
-44427,CSB2,small_airport,Sable Island Landing Strip,43.930951,-59.996147,4,NA,CA,CA-NS,Sable Island,no,,YSA,CSB2,CSB2,http://www.sableislandairport.com/Photo-Gallery-1.html,https://en.wikipedia.org/wiki/Sable_Island_Aerodrome,CYSA
+44427,CSB2,small_airport,Sable Island Airport.,43.928235,-59.948986,6,NA,CA,CA-NS,Sable Island,no,,YSA,CSB2,CSB2,http://www.sableislandairport.com/Photo-Gallery-1.html,https://en.wikipedia.org/wiki/Sable_Island_Aerodrome,
 1521,CSH4,small_airport,Lebel-sur-Quevillon Airport,49.0303001404,-77.0171966553,960,NA,CA,CA-QC,Lebel-sur-Quévillon,no,,YLS,CSH4,CSH4,,https://en.wikipedia.org/wiki/Lebel-sur-Qu%C3%A9villon_Airport,SH4
 1531,CSK6,small_airport,Snap Lake Airport,63.593601,-110.905998,1557,NA,CA,CA-NT,Snap Lake Mine,no,,YNX,,,,https://en.wikipedia.org/wiki/Snap_Lake_Airport,CSK6
 1556,CSR8,small_airport,La Sarre Airport,48.917198181152,-79.178596496582,1048,NA,CA,CA-QC,La Sarre,no,,SSQ,CSR8,CSR8,http://www.ville.lasarre.qc.ca/fr/ville/services-municipaux/aeroport-municipal/index.cfm,https://en.wikipedia.org/wiki/La_Sarre_Airport,SR8
@@ -806,7 +811,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 1604,CTK6,small_airport,Kégashka Airport,50.195801,-61.2658,32,NA,CA,CA-QC,Côte-Nord-du-Golfe-du-Saint-Laurent,yes,,ZKG,CTK6,CTK6,,https://en.wikipedia.org/wiki/K%C3%A9gashka_Airport,Kegaska
 28194,CTM3,seaplane_base,Chute-Des-Passes/Lac Margane Seaplane Base,49.9434,-71.138,1310,NA,CA,CA-QC,Chutes-des-Passes,no,,YWQ,CTM3,CTM3,,https://en.wikipedia.org/wiki/Chutes-des-Passes/Lac_Margane_Water_Aerodrome,
 37052,CTP,small_airport,Carutapera Airport,-1.225365,-46.019057,85,SA,BR,BR-MA,Carutapera,no,,CTP,,,,https://pt.wikipedia.org/wiki/Aeroporto_de_Carutapera,
-1608,CTP9,small_airport,Donaldson Airport,61.6622009277,-73.3214035034,1902,NA,CA,CA-QC,Kattiniq,no,,YAU,CTP9,CTP9,,https://en.wikipedia.org/wiki/Kattiniq/Donaldson_Airport,TP9
+1608,CTP9,small_airport,Donaldson Airport,61.662201,-73.321404,1902,NA,CA,CA-QC,Kattiniq,no,,YAU,CTP9,CTP9,,https://en.wikipedia.org/wiki/Kattiniq/Donaldson_Airport,
 1617,CTT5,small_airport,La Romaine Airport,50.259553,-60.674357,90,NA,CA,CA-QC,Le Golfe-du-Saint-Laurent,yes,,ZGS,CTT5,CTT5,,https://en.wikipedia.org/wiki/La_Romaine_Airport,"Gethsemani, La Romaine"
 1618,CTU2,small_airport,Fontanges Airport,54.553901672363,-71.173301696777,1550,NA,CA,CA-QC,Fontanges,no,,YFG,CTU2,CTU2,,https://en.wikipedia.org/wiki/Fontages_Airport,TU2
 1619,CTU5,small_airport,La Tabatière Airport,50.8307991027832,-58.97560119628906,102,NA,CA,CA-QC,La Tabatière,yes,,ZLT,CTU5,CTU5,,https://en.wikipedia.org/wiki/La_Tabati%C3%A8re_Airport,TU5
@@ -825,6 +830,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 1658,CYAQ,medium_airport,Kasabonika Airport,53.52470016479492,-88.6427993774414,672,NA,CA,CA-ON,Kasabonika,yes,CYAQ,XKS,CYAQ,,,https://en.wikipedia.org/wiki/Kasabonika_Airport,YAQ
 1659,CYAS,small_airport,Kangirsuk Airport,60.027199,-69.999199,403,NA,CA,CA-QC,Kangirsuk,yes,CYAS,YKG,CYAS,,,https://en.wikipedia.org/wiki/Kangirsuk_Airport,YAS
 1660,CYAT,small_airport,Attawapiskat Airport,52.927502,-82.4319,31,NA,CA,CA-ON,Attawapiskat,yes,CYAT,YAT,CYAT,,,https://en.wikipedia.org/wiki/Attawapiskat_Airport,
+1661,CYAU,small_airport,Liverpool South Shore Regional Airport,44.230301,-64.856102,321,NA,CA,CA-NS,Greenfield,no,CYAU,,CYAU,,https://southshoreflyingclub.weebly.com/,https://en.wikipedia.org/wiki/Liverpool/South_Shore_Regional_Airport,"YAU, Greenfield Dragway"
 1662,CYAV,medium_airport,Winnipeg / St. Andrews Airport,50.0564,-97.032501,760,NA,CA,CA-MB,Winnipeg/Saint Andrews,yes,CYAV,,CYAV,,,https://en.wikipedia.org/wiki/Winnipeg/St._Andrews_Airport,YAV
 1663,CYAW,heliport,CFB Shearwater Heliport,44.636782,-63.502107,144,NA,CA,CA-NS,Halifax,no,CYAW,,CYAW,YAW,,https://en.wikipedia.org/wiki/CFB_Shearwater,
 1664,CYAX,medium_airport,Lac du Bonnet Airport,50.294399,-96.010002,850,NA,CA,CA-MB,Lac du Bonnet,yes,CYAX,,CYAX,,,https://en.wikipedia.org/wiki/Lac_du_Bonnet_Airport,YAX
@@ -9707,7 +9713,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 596510,XCBA,medium_airport,Ok365comdev,10,12,12,AS,VN,VN-NC,Hồ Chí Minh,yes,CCAA,,XCBA,CA12,https://ok365com.dev/nap-tien-ok365/,,
 317829,XIG,small_airport,Xinguara Municipal Airport,-7.0906,-49.9765,810,SA,BR,BR-PA,Xinguara,no,,XIG,SWSX,PA0150,,https://en.wikipedia.org/wiki/Xinguara_Municipal_Airport,
 313435,XMA,small_airport,Maramag Airport,7.7538,125.0333,919,AS,PH,PH-BUK,Maramag,no,,XMA,,,http://www.pbase.com/philippineaviation/maramagoadi_airport_bukidnon,,Oadi
-332207,XRQ,small_airport,New Barag Right Banner Baogede Airport,48.575585,116.939382,1798,AS,CN,CN-15,New Barag Right Banner,yes,,XRQ,,,,https://en.wikipedia.org/wiki/Xinbarag_Youqi_Baogede_Airport,
+332207,XRQ,small_airport,New Barag Right Banner Baogede Airport,48.575585,116.939382,1798,AS,CN,CN-15,New Barag Right Banner,no,,XRQ,,,,https://en.wikipedia.org/wiki/Xinbarag_Youqi_Baogede_Airport,
 333071,XZM,heliport,Macau Heliport at Outer Harbour Ferry Terminal,22.196242,113.55936,,AS,MO,MO-SEE,Sé,no,,XZM,,,,https://en.wikipedia.org/wiki/Outer_Harbour_Ferry_Terminal,Terminal Marítimo de Passageiros do Porto Exterior
 26323,Y01,small_airport,Waukon Municipal Airport,43.280498504639,-91.469497680664,1281,NA,US,US-IA,Waukon,no,,UKN,Y01,Y01,,,
 26888,YABA,medium_airport,Albany Airport,-34.944519,117.808896,233,OC,AU,AU-WA,Albany,yes,YABA,ALH,YABA,,,https://en.wikipedia.org/wiki/Albany_Airport_(Australia),"ABA, YPAL, Harry Riggs Albany Regional"
