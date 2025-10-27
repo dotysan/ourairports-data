@@ -12842,17 +12842,17 @@
 30747,"BISK","small_airport","Skógasandur Airport",63.5172,-19.489201,130,"EU","IS","IS-8","Skógar","no",,,"BISK",,,,
 30748,"BISN","small_airport","Svínafell Airport",64.384723,-15.371935,60,"EU","IS","IS-7","Svínafell","no",,,"BISN",,,,
 30749,"BISP","small_airport","Sprengisandur Airport",64.6541976928711,-18.49690055847168,2050,"EU","IS","IS-8","Sprengisandur","no",,,"BISP",,,,
-30750,"BISR","small_airport","Stórikroppur Airport",64.6343994140625,-21.487499237060547,165,"EU","IS","IS-3","Stórikroppur","no",,,"BISR",,,,
-30751,"BISS","small_airport","Sandskeið Airport",64.06079864501953,-21.57469940185547,600,"EU","IS","IS-1","Sandskeið","no",,,"BISS",,,,
+30750,"BISR","small_airport","Stórikroppur Airport",64.632625,-21.490859,165,"EU","IS","IS-3","Stórikroppur","no","BISR",,"BISR",,,,
+30751,"BISS","small_airport","Sandskeið Airport",64.060799,-21.574699,600,"EU","IS","IS-1","Sandskeið","no","BISS",,"BISS",,,,
 32415,"BIST","small_airport","Stykkishólmur Airport",65.058851,-22.764616,42,"EU","IS","IS-3","Stykkishólmur","no","BIST","SYK","BIST",,,"https://en.wikipedia.org/wiki/Stykkish%C3%B3lmur_Airport",
-30752,"BISV","small_airport","Skálavatn Airport",64.11579895019531,-18.783300399780273,2000,"EU","IS","IS-8","Skálavatn","no",,,"BISV",,,,
-32436,"BITE","small_airport","Þingeyri Airport",65.8703,-23.559999,65,"EU","IS","IS-4","Þingeyri","no","BITE","TEY","BITE",,,"https://en.wikipedia.org/wiki/%C3%9Eingeyri_Airport",
-30754,"BITM","small_airport","Þórsmörk Airport",63.689998626708984,-19.563100814819336,600,"EU","IS","IS-8","Þórsmörk","no",,,"BITM",,,,
+30752,"BISV","small_airport","Skálavatn Airport",64.115301,-18.785153,2000,"EU","IS","IS-8","Skálavatn","no","BISV",,"BISV",,,,
+32436,"BITE","small_airport","Þingeyri Airport",65.8703,-23.559999,65,"EU","IS","IS-4","Þingeyri","no","BITE","TEY","BITE",,,"https://en.wikipedia.org/wiki/%C3%9Eingeyri_Airport","Thingeyri"
+30754,"BITM","small_airport","Þórsmörk Airport",63.689999,-19.563101,600,"EU","IS","IS-8","Þórsmörk","no","BITM",,"BITM",,,,"Thórsmörk, Thorsmork"
 127,"BITN","small_airport","Þórshöfn Airport",66.218498,-15.3356,65,"EU","IS","IS-6","Þórshöfn","yes","BITN","THO","BITN",,,"https://en.wikipedia.org/wiki/Thorshofn_Airport","Thorshofn"
 30755,"BITO","small_airport","Thorisos Airport",64.354373,-18.836514,1840,"EU","IS","IS-8","Thorisos","no",,,"BITO",,,,
 30757,"BIVA","small_airport","Vatnsnes Airport",64.03309631347656,-20.651100158691406,,"EU","IS","IS-8","Vatnsnes","no",,,"BIVA",,,,
 44001,"BIVH","small_airport","Varmahlid Airport",65.55694580078125,-19.428056716918945,27,"EU","IS","IS-5","Varmahlid","no",,,"BIVH",,,,
-30758,"BIVI","small_airport","Vík Airport",63.42169952392578,-18.8882999420166,100,"EU","IS","IS-8","Vík","no",,,"BIVI",,,,
+30758,"BIVI","small_airport","Vík Airport",63.4217,-18.8883,100,"EU","IS","IS-8","Vík","no","BIVI",,"BIVI",,,,
 128,"BIVM","medium_airport","Vestmannaeyjar Airport",63.42430114746094,-20.278900146484375,326,"EU","IS","IS-8","Vestmannaeyjar","no","BIVM","VEY","BIVM",,,"https://en.wikipedia.org/wiki/Vestmannaeyjar_Airport",
 32593,"BIVO","small_airport","Vopnafjörður Airport",65.720596,-14.8506,16,"EU","IS","IS-7","Vopnafjörður","yes","BIVO","VPN","BIVO",,,"https://en.wikipedia.org/wiki/Vopnafj%C3%B6r%C3%B0ur_Airport",
 323997,"BJ-0001","small_airport","Tankaro Airport",9.391186,2.507311,,"AF","BJ","BJ-BO","Parakou","no",,,,,,,
@@ -16514,7 +16514,7 @@
 39770,"CA-0124","closed","East Templeton Airport",45.499401,-75.547401,150,"NA","CA","CA-QC","Gatineau","no",,,,,,,
 39771,"CA-0125","closed","Bremner Airport",53.583302,-113.233002,2225,"NA","CA","CA-AB","Edmonton","no",,,,,,,"FR3, FR3"
 39772,"CA-0126","closed","Namao Airport",53.674359,-113.461629,,"NA","CA","CA-AB","Edmonton","no",,,,,,,"YED, CYED, CFB Edmonton, CFB Namao"
-39773,"CA-0127","closed","Edmunston (Fraser Papers Inc) Heliport",47.36666488647461,-68.33333587646484,,"NA","CA","CA-NB",,"no",,,,,,,
+39773,"CA-0127","closed","Fraser Papers Heliport",47.366731,-68.3304,497,"NA","CA","CA-NB","Edmunston","no",,,,,,,
 39774,"CA-0128","closed","Eltrut Airport",48.96666717529297,-92.36666870117188,,"NA","CA","CA-ON",,"no",,,,,,,
 39775,"CA-0129","closed","Esker Lake Airport",61.650001525878906,-74.66666412353516,,"NA","CA","CA-QC",,"no",,,,,,,
 39776,"CA-0130","closed","Espanola (East) Airport",46.266666412353516,-81.73332977294922,,"NA","CA","CA-ON",,"no",,,,,,,
@@ -16550,7 +16550,7 @@
 39806,"CA-0160","closed","Highwood Livestock Auction Airport",50.650001525878906,-113.8499984741211,,"NA","CA","CA-AB","High River","no",,,,,,,
 39807,"CA-0161","closed","King Ranch Airport",50.599998474121094,-114.08300018310547,,"NA","CA","CA-AB","High River","no",,,,,,,
 39808,"CA-0162","closed","Hodgeville Airport",50.083332,-106.966667,2304,"NA","CA","CA-SK",,"no",,,,,,,"JY7, JY7"
-39809,"CA-0163","closed","Hornes Gulch Airport",47.833159,-67.906783,1181,"NA","CA","CA-NB",,"no",,,,,,,"DG4, DG4"
+39809,"CA-0163","closed","Hornes Gulch Airport",47.833159,-67.906783,1181,"NA","CA","CA-NB",,"no",,,,,,,"DG4"
 39810,"CA-0164","closed","Horton River DEW Line Station",70.013725,-126.955109,,"NA","CA","CA-NT","Horton River","no",,,,,,,
 39811,"CA-0165","closed","Hotchkiss Airport",57.323475,-118.918839,,"NA","CA","CA-AB",,"no",,,,,,,"FJ4"
 39812,"CA-0166","closed","House Mountain Airport",55.032515,-115.515785,,"NA","CA","CA-AB","Big Lakes","no",,,,,,,
@@ -16773,13 +16773,13 @@
 40029,"CA-0383","closed","Thurston Lake Airport",59.944113,-118.079388,2095,"NA","CA","CA-AB",,"no",,,,,,,"FX5, FX5"
 40030,"CA-0384","closed","Tintina (Conwest) Airport",61.08333206176758,-131.21665954589844,,"NA","CA","CA-YT",,"no",,,,,,,
 40031,"CA-0385","closed","Baie-Trinité Airport",49.399859,-67.31246,,"NA","CA","CA-QC","Baie-Trinité","no",,,,,,,
-40032,"CA-0386","closed","Trout Brook Airport",46.466667,-65.466667,299,"NA","CA","CA-NB",,"no",,,,,,,"CN4, CN4"
+40032,"CA-0386","closed","Trout Brook Airport",46.463567,-65.462475,299,"NA","CA","CA-NB","Kent County","no",,,,,,,"CN4"
 40033,"CA-0387","closed","Trout Mountain Airport",56.797989,-114.414195,2592,"NA","CA","CA-AB",,"no",,,,,,,"EF5"
 40034,"CA-0388","closed","Tuktoyaktuk (Imperial) Airport",69.4248,-132.9467,51,"NA","CA","CA-NT","Tuktoyaktuk","no",,,,,,,"EX8, EX8"
 40035,"CA-0389","closed","Tununuk DEW Line Station",69.002603,-134.671957,,"NA","CA","CA-NT",,"no",,,,,,,
 40036,"CA-0390","closed","Twin Lakes Airport",51.564534,-123.824673,,"NA","CA","CA-BC","Cariboo","no",,,,,,,"AG4"
 40037,"CA-0391","small_airport","Ullswater Airport",45.2107,-79.5045,1012,"NA","CA","CA-ON","Ullswater","no",,,"CLW2","CLW2",,"https://en.wikipedia.org/wiki/Ullswater_Aerodrome","PN5"
-40038,"CA-0392","closed","Dunphy Airport",46.62863540649414,-65.87196350097656,,"NA","CA","CA-NB","Upper Blackville","no",,,,,,,
+40038,"CA-0392","closed","Dunphy Airport",46.628622,-65.872109,,"NA","CA","CA-NB","Upper Blackville","no",,,,,,,"CC3, Bergins Hill,"
 40039,"CA-0393","small_airport","Upper Kent Airport",46.587133,-67.719555,246,"NA","CA","CA-NB","Upper Kent","no",,,"CCH2","CCH2",,"https://en.wikipedia.org/wiki/Upper_Kent_Aerodrome","CH2"
 40040,"CA-0394","closed","Utikuma River Airport",56.056319,-115.323086,2110,"NA","CA","CA-AB",,"no",,,,,,,"EK5"
 40041,"CA-0395","closed","Valemount Aerodrome",52.865732,-119.295711,2575,"NA","CA","CA-BC","Valemount","no",,,,,,,"AH4"
@@ -16789,7 +16789,7 @@
 40045,"CA-0399","closed","Mcdonald's Farm Airport",50.25,-113.366669,3226,"NA","CA","CA-AB","Vulcan","no",,,,,,,"FC8, FC8"
 40046,"CA-0400","closed","Mile 100 Airport",51.38330078125,-65.63330078125,,"NA","CA","CA-QC","Waco","no",,,,,,,
 40047,"CA-0401","closed","Wadlin Tower Airport",57.766666412353516,-115.44999694824219,,"NA","CA","CA-AB",,"no",,,,,,,
-40048,"CA-0402","closed","Washademoak Airport",45.849998474121094,-65.8499984741211,,"NA","CA","CA-NB",,"no",,,,,,,
+40048,"CA-0402","closed","Washademoak Airport",45.849998,-65.849998,185,"NA","CA","CA-NB","Butternut Valley","no",,,,,,,"CL2"
 40049,"CA-0403","closed","Webbwood Airport",46.3197,-81.8744,960,"NA","CA","CA-ON","Webbwood","no",,,,,,,"PL6"
 40050,"CA-0404","closed","Werenko Airport",48.799886,-93.081944,1284,"NA","CA","CA-ON","Werenko","no",,,,,,,"KC4, KC4"
 40051,"CA-0405","closed","Nudluardjk Lake / West Baffin DEW Line Station",68.610044,-73.242081,,"NA","CA","CA-NU","Nudluardjk Lake","no",,,,,,,
@@ -16979,7 +16979,7 @@
 320095,"CA-0589","heliport","Calgary/Okotoks (GG Ranch) Heliport",50.7448,-113.991601,3624,"NA","CA","CA-AB","Calgary","no",,,,"COK2",,,
 320096,"CA-0590","heliport","Calgary/South Health Campus Hospital Helipad",50.8828,-113.952,3486,"NA","CA","CA-AB","Calgary","no",,,,"CSH3",,,
 320116,"CA-0591","heliport","Canmore Hospital Helipad",51.0924,-115.349501,4305,"NA","CA","CA-AB","Canmore","no",,,,"CCH3",,,
-320118,"CA-0592","closed","Shubenacadie Airport",45.0935,-63.3951,100,"NA","CA","CA-NS","Shubenacadie","no",,,,,,,"CL3, CL3"
+320118,"CA-0592","closed","Shubenacadie Airport",45.0935,-63.3951,100,"NA","CA","CA-NS","Shubenacadie","no",,,,,,,"CL3"
 320120,"CA-0593","closed","Shortts Lake Water Aerodrome",45.2389,-63.3286,122,"NA","CA","CA-NS","Shortts Lake","no",,,,,,,"CR5, CR5"
 320121,"CA-0594","small_airport","Rednek Air Airport",49.821603,-112.5308,2812,"NA","CA","CA-AB","Coaldale","no",,,,"CRD2",,"https://en.wikipedia.org/wiki/Coaldale_(Rednek_Air)_Aerodrome",
 320123,"CA-0595","small_airport","Didsbury/Minty Field",51.6535,-114.353,3480,"NA","CA","CA-AB","Didsbury","no",,,,"CDM2",,"https://en.wikipedia.org/wiki/Didsbury/Minty_Field_Aerodrome",
@@ -17075,7 +17075,7 @@
 324910,"CA-0685","closed","Kuujjuaq Water Aerodrome",58.085,-68.4,3,"NA","CA","CA-QC","Kuujjuaq","no",,,,,,,"SQ7, SQ7"
 324911,"CA-0686","closed","La Romaine Water Aerodrome",50.21,-60.675,0,"NA","CA","CA-QC","La Romaine","no",,,,,,,"SQ8, SQ8"
 350933,"CA-0687","small_airport","English Point Airport",51.49137,-56.89082,413,"NA","CA","CA-NL","English Point","no",,,,,,,
-325127,"CA-0688","closed","Amherst Airport",45.812972,-64.239019,69,"NA","CA","CA-NS","Amherst","no",,,,,,"https://en.wikipedia.org/wiki/Amherst_Airport","CQ4, CQ4"
+325127,"CA-0688","closed","Amherst Airport",45.812972,-64.239019,69,"NA","CA","CA-NS","Amherst","no",,,,,,"https://en.wikipedia.org/wiki/Amherst_Airport","CQ4"
 325128,"CA-0689","closed","Red Bay Water Aerodrome",51.725117,-56.440726,0,"NA","CA","CA-NL","Red Bay","no",,,,,,,"CP5, CP5"
 325129,"CA-0690","closed","Big Harbour Aerodrome",46.142276,-60.634297,82,"NA","CA","CA-NS","Big Harbour","no",,,,,,,"CY5, CY5"
 325130,"CA-0691","closed","Tatamagouche Airport",45.734393,-63.324875,8,"NA","CA","CA-NS","Tatamgouche","no",,,,,,"https://en.wikipedia.org/wiki/Tatamagouche_Airport","DA2, DA2"
@@ -17403,7 +17403,7 @@
 732,"CA-1013","closed","Terrace / BC Hydro Heliport",54.5192008823,-128.628015518,195,"NA","CA","CA-BC","Terrace","no",,,,,,,"BW5, CBW5, CBW5"
 744,"CA-1014","closed","Apple River Airport",45.461899,-64.821404,135,"NA","CA","CA-NS","Apple River","no",,,,,,"https://en.wikipedia.org/wiki/Apple_River_Airport","CCA7"
 745,"CA-1015","closed","Grand River Airport",46.481269,-63.95368,50,"NA","CA","CA-PE","Grand River","no",,,,,,"https://en.wikipedia.org/wiki/Grand_River_Airport","PEI, Moase Airfield, CCA9"
-778,"CA-1016","closed","Campbellton (Regional Hospital) Heliport",47.9941758761,-66.6654655337,76,"NA","CA","CA-NB","Campbellton","no",,,,,,,"CRH, CCRH, CCRH"
+778,"CA-1016","closed","Campbellton (Regional Hospital) Heliport",47.994176,-66.665466,76,"NA","CA","CA-NB","Campbellton","no",,,,,,,"CCRH"
 798,"CA-1017","closed","Valley Airport",45.396702,-63.215599,175,"NA","CA","CA-NS","Valley","no",,,,,,"https://en.wikipedia.org/wiki/Valley_Airport","CDA3"
 809,"CA-1018","closed","Deerhurst Resort Airport",45.354198,-79.151398,1029,"NA","CA","CA-ON","Huntsville","no",,,,,,"https://en.wikipedia.org/wiki/Huntsville/Deerhurst_Resort_Airport","DH1, CDH1"
 822,"CA-1019","closed","Dunnville Airport",42.8722,-79.595802,600,"NA","CA","CA-ON","Dunnville","no",,,,,,"https://en.wikipedia.org/wiki/Dunnville_Airport","DU9, BCATP, CDU9, RCAF Dunnville"
@@ -17626,6 +17626,7 @@
 599141,"CA-1236","small_airport","Morrinville Farm Airstrip",53.749288,-113.64923,2294,"NA","CA","CA-AB","Morrinville","no",,,,,,,
 600231,"CA-1237","small_airport","Val Morin Airstrip",45.991983,-74.19194,1453,"NA","CA","CA-QC","Val Morin","no",,,,,,,
 600873,"CA-1238","large_airport","(Duplicate)Toronto Lester B. Pearson International Airport",43.680585,-79.611841,,"NA","CA","CA-ON","Toronto","yes",,,,,,,
+601219,"CA-1239","seaplane_base","Shelburne Water Aerodrome",43.758,-65.323,,"NA","CA","CA-NS","Shelburne","no",,,,"CM2",,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -17795,6 +17796,7 @@
 640,"CAS2","small_airport","Moose Lake Lodge Airport",53.073803,-125.408358,3500,"NA","CA","CA-BC","Anahim Lake","no",,,"CAS2","CAS2",,"https://en.wikipedia.org/wiki/Moose_Lake_(Lodge)_Airport",
 28225,"CAS4","seaplane_base","Fort Langley Seaplane Base",49.166698,-122.532997,10,"NA","CA","CA-BC","Fort Langley","no",,,"CAS4","CAS4",,"https://en.wikipedia.org/wiki/Fort_Langley_Water_Aerodrome","AS4"
 320490,"CAS5","heliport","Aerosmith Heli Service Heliport",49.3074,-124.413302,282,"NA","CA","CA-BC","Qualicum Beach","no",,,"CAS5","CAS5","http://www.aerosmithheli.com/contact-us",,
+601228,"CAS6","seaplane_base","Casselman / Nation River Seaplane Base",45.286239,-75.129619,197,"NA","CA","CA-ON","Casselman","no",,,"CAS6","CAS6",,,
 642,"CAT1","small_airport","Atwood / Coghlin Airport",43.6833000183,-81.00440216060001,1215,"NA","CA","CA-ON","Atwood","no",,,"CAT1","CAT1",,"https://en.wikipedia.org/wiki/Atwood/Coghlin_Airport","AT1"
 28333,"CAT3","seaplane_base","Nanaimo/Long Lake Seaplane Base",49.209538,-124.008982,390,"NA","CA","CA-BC","Nanaimo","no",,,"CAT3","CAT3",,"https://en.wikipedia.org/wiki/Nanaimo/Long_Lake_Water_Airport","AT3"
 643,"CAT4","medium_airport","Qualicum Beach Airport",49.337456,-124.393086,191,"NA","CA","CA-BC","Qualicum Beach","yes",,"XQU","CAT4","CAT4","http://www.qualicumbeach.com/cms.asp?wpID=437","https://en.wikipedia.org/wiki/Qualicum_Beach_Airport","AT4"
@@ -17961,7 +17963,7 @@
 509404,"CCA5","small_airport","Stenen/Clayton Air 3 Airport",51.8245,-102.376333,1710,"NA","CA","CA-SK",,"no",,,"CCA5","CCA5",,,
 743,"CCA6","small_airport","Williams Harbour Airport",52.567377,-55.784883,70,"NA","CA","CA-NL","Williams Harbour","yes",,"YWM","CCA6","CCA6",,"https://en.wikipedia.org/wiki/Williams_Harbour_Airport",
 509407,"CCB2","small_airport","Seabee Mine Airport",55.688809,-103.610925,1602,"NA","CA","CA-SK","Laonil Lake","no",,,"CCB2","CCB2","https://www.ssrmining.com/operations/production/seabee/","https://en.wikipedia.org/wiki/Seabee_Mine_Aerodrome",
-746,"CCB3","heliport","Amherst Heliport",45.812118013399996,-64.220508635,99,"NA","CA","CA-NS","Amherst","no",,,"CCB3","CCB3",,,"CB3"
+746,"CCB3","heliport","Amherst Heliport",45.812052,-64.220248,99,"NA","CA","CA-NS","Amherst","no",,,"CCB3","CCB3",,"https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#Amherst",
 28243,"CCB5","seaplane_base","Goose (Otter Creek) Seaplane Base",53.349998,-60.416698,,"NA","CA","CA-NL",,"no",,,"CCB5","CCB5",,"https://en.wikipedia.org/wiki/Goose_(Otter_Creek)_Water_Aerodrome","CB5"
 509419,"CCB7","seaplane_base","Cumberland Bay Water Aerodrome",46.0063,-65.9062,350,"NA","CA","CA-NB","Bracebridge","no",,,"CCB7","CCB7",,"https://en.wikipedia.org/wiki/Cumberland_Bay_Water_Aerodrome",
 332269,"CCB8","heliport","Kilbride (Bot)",43.448236,-79.94885,895,"NA","CA","CA-ON",,"no",,,"CCB8","CCB8",,,
@@ -18045,8 +18047,8 @@
 793,"CCZ2","small_airport","Rigolet Airport",54.1796989440918,-58.45750045776367,180,"NA","CA","CA-NL","Rigolet","yes",,"YRG","CCZ2","CCZ2",,"https://en.wikipedia.org/wiki/Rigolet_Airport","CZ2"
 794,"CCZ3","small_airport","Clarenville Airport",48.2747,-53.923901,199,"NA","CA","CA-NL","Clarenville","no",,,"CCZ3","CCZ3",,"https://en.wikipedia.org/wiki/Clarenville_Airport",
 795,"CCZ4","small_airport","Margaree Airport",46.340413,-60.980508,181,"NA","CA","CA-NS","Margaree","no",,,"CCZ4","CCZ4",,"https://en.wikipedia.org/wiki/Margaree_Airport","CZ4"
-796,"CCZ5","small_airport","Thorburn Airport",45.56111,-62.595583,120,"NA","CA","CA-NS","Thorburn","no",,,"CCZ5","CCZ5",,"https://en.wikipedia.org/wiki/Thorburn_Airport","CZ5"
-797,"CCZ9","heliport","Shelburne (Roseway Hospital) Heliport",43.7502981388,-65.3097081184,75,"NA","CA","CA-NS","Shelburne","no",,,"CCZ9","CCZ9",,,"CZ9"
+796,"CCZ5","small_airport","Thorburn Airport",45.56111,-62.595583,120,"NA","CA","CA-NS","Thorburn","no",,,"CCZ5","CCZ5",,"https://en.wikipedia.org/wiki/Thorburn_Airport",
+797,"CCZ9","heliport","Roseway Hospital Heliport",43.75032,-65.309748,75,"NA","CA","CA-NS","Shelburne","no",,,"CCZ9","CCZ9",,,
 42423,"CD-0001","small_airport","Wageni Airport",0.510171,29.475803,3786,"AF","CD","CD-NK","Beni","no","FZNS",,"FZNS",,,"https://en.wikipedia.org/wiki/Wageni_Airport",
 300208,"CD-0002","small_airport","Kashobwe Airport",-9.666293,28.619004,3100,"AF","CD","CD-HK","Kashobwe","no",,,,,,,
 315128,"CD-0003","small_airport","Nagero Airport",3.746155,29.509964,2437,"AF","CD","CD-HU","Nagero","no",,,,,,,"Nagero, Garamba Park"
@@ -18213,7 +18215,7 @@
 320288,"CDF5","small_airport","Elora Airport",43.631904,-80.355666,1236,"NA","CA","CA-ON","Guelph","no",,,"CDF5","CDF5",,"https://en.wikipedia.org/wiki/Elora_Aerodrome",
 332261,"CDF6","small_airport","Damascus Field",43.896964,-80.519099,1580,"NA","CA","CA-ON","Wellington North","no",,,"CDF6","CDF6",,"https://en.wikipedia.org/wiki/Arthur_(Damascus_Field)_Aerodrome","Arthur"
 508586,"CDF7","heliport","Dragon's Fire Heliport",43.3805,-79.940833,876,"NA","CA","CA-ON","Millgrove","no",,,"CDF7","CDF7",,,
-808,"CDG2","heliport","Digby (General Hospital) Heliport",44.6161003112793,-65.76190185546875,105,"NA","CA","CA-NS","Digby","no",,,"CDG2","CDG2",,,"DG2"
+808,"CDG2","heliport","Digby General Hospital Heliport",44.615989,-65.762021,105,"NA","CA","CA-NS","Digby","no",,,"CDG2","CDG2",,,
 45220,"CDG3","small_airport","Dungannon Aerodrome",43.836245,-81.606746,870,"NA","CA","CA-ON","Ashfield-Colborne-Wawanosh","no",,,"CDG3","CDG3",,"https://en.wikipedia.org/wiki/Dungannon_Aerodrome",
 810,"CDH2","heliport","Drumheller (Health Centre) Heliport",51.469111,-112.728186,2246,"NA","CA","CA-AB","Drumheller","no",,,"CDH2","CDH2",,,
 811,"CDH3","small_airport","Finlay Air Park",43.959239,-65.998429,145,"NA","CA","CA-NS","South Ohio","no",,,"CDH3","CDH3",,"https://en.wikipedia.org/wiki/Finlay_Air_Park","DH3"
@@ -18236,24 +18238,24 @@
 562389,"CDR2","seaplane_base","Powers Water Aerodrome",44.683,-79.106,735,"NA","CA","CA-ON","Dalrymple Lake","no",,,"CDR2","CDR2",,,
 508583,"CDS5","seaplane_base","Dunsford Seaplane Base",44.502,-78.618,812,"NA","CA","CA-ON",,"no",,,"CDS5","CDS5",,,
 28260,"CDT2","seaplane_base","Hoopers Lake Seaplane Base",43.9538,-65.990065,100,"NA","CA","CA-NS","Deerfield","no",,,"CDT2","CDT2",,"https://en.wikipedia.org/wiki/Hoopers_Lake_Water_Aerodrome",
-817,"CDT3","heliport","Arichat (St. Anne Ladies Auxiliary Hospital) Heliport",45.5114446152,-61.0330438614,70,"NA","CA","CA-NS","Arichat","no",,,"CDT3","CDT3",,,"DT3"
+817,"CDT3","heliport","Arichat (St. Anne Ladies Auxiliary Hospital) Heliport",45.511372,-61.032945,70,"NA","CA","CA-NS","Arichat","no",,,"CDT3","CDT3",,,
 818,"CDT5","small_airport","Bouctouche Airport",46.509399,-64.693901,57,"NA","CA","CA-NB","Buctouche","no",,,"CDT5","CDT5",,"https://en.wikipedia.org/wiki/Bouctouche_Aerodrome","CU4"
-819,"CDT6","heliport","Bridgewater (South Shore Regional Hospital) Heliport",44.38214467379999,-64.5104205608,100,"NA","CA","CA-NS","Bridgewater","no",,,"CDT6","CDT6",,,"DT6"
+819,"CDT6","heliport","South Shore Regional Hospital Heliport",44.382111,-64.510484,100,"NA","CA","CA-NS","Bridgewater","no",,,"CDT6","CDT6",,"https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#Bridgewater_(South_Shore_Regional_Hospital)",
 320271,"CDT7","small_airport","Dutton Airport",42.6592,-81.512602,715,"NA","CA","CA-ON","Dutton","no",,,"CDT7","CDT7",,"https://en.wikipedia.org/wiki/Dutton_Aerodrome",
 508581,"CDT9","small_airport","Detour Lake Airport",50.043953,-79.746178,953,"NA","CA","CA-ON","Detour Lake Mine","no",,,"CDT9","CDT9",,,
 508580,"CDU2","heliport","Dundas Heliport",43.2455,-80.018333,680,"NA","CA","CA-ON","Dundas","no",,,"CDU2","CDU2",,"https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#384",
 820,"CDU3","heliport","Yarmouth (Regional Hospital) Heliport",43.848668441,-66.1210119724,43,"NA","CA","CA-NS","Yarmouth","no",,,"CDU3","CDU3",,,"DU3"
 28425,"CDU4","seaplane_base","Springdale/Davis Pond Seaplane Base",49.550052,-56.064591,80,"NA","CA","CA-NL","Springdale","no",,,"CDU4","CDU4",,"https://en.wikipedia.org/wiki/Springdale/Davis_Pond_Water_Aerodrome","DU4"
 508577,"CDU5","small_airport","Dunsford Airport",44.454667,-78.630522,900,"NA","CA","CA-ON","Dunsford","no",,,"CDU5","CDU5",,"https://en.wikipedia.org/wiki/Dunsford_Aerodrome",
-821,"CDU6","small_airport","Doaktown Airport",46.5525016784668,-66.09390258789062,326,"NA","CA","CA-NB","Doaktown","no",,,"CDU6","CDU6",,"https://en.wikipedia.org/wiki/Doaktown_Airport","DU6"
+821,"CDU6","small_airport","Doaktown Airport",46.552502,-66.093903,326,"NA","CA","CA-NB","Doaktown","no",,,"CDU6","CDU6",,"https://en.wikipedia.org/wiki/Doaktown_Airport",
 508575,"CDU8","heliport","Dunsford Heliport",44.502,-78.617833,854,"NA","CA","CA-ON","Dunsford","no",,,"CDU8","CDU8",,,
 823,"CDV2","small_airport","Downs Gulch Airport",47.753601,-67.426102,883,"NA","CA","CA-NB","Downs Gulch","no",,,"CDV2","CDV2",,"https://en.wikipedia.org/wiki/Downs_Gulch_Aerodrome","DV2"
 824,"CDV3","heliport","Charlottetown (Queen Elizabeth Hospital) Heliport",46.255493,-63.098887,20,"NA","CA","CA-PE","Charlottetown","no",,,"CDV3","CDV3",,,"DV3"
-825,"CDW2","small_airport","Baddeck (Crown Jewel) Airport",46.165000915527344,-60.78390121459961,290,"NA","CA","CA-NS","Baddeck","no",,,"CDW2","CDW2",,"https://en.wikipedia.org/wiki/Baddeck_(Crown_Jewel)_Airport","DW2"
+825,"CDW2","small_airport","Crown Jewel Airport",46.165001,-60.783901,290,"NA","CA","CA-NS","Baddeck","no",,,"CDW2","CDW2",,"https://en.wikipedia.org/wiki/Baddeck_(Crown_Jewel)_Airport",
 598930,"CDW3","heliport","Hamlet Heliport",50.826333,-114.023833,3593,"NA","CA","CA-AB","De Winton","no",,,"CDW3","CDW3",,,
 827,"CDY3","small_airport","Fogo Airport",49.657501,-54.237499,80,"NA","CA","CA-NL","Fogo","yes",,,"CDY3","CDY3",,"https://en.wikipedia.org/wiki/Fogo_Airport","DY3"
-828,"CDY5","heliport","St. Martha's Regional Hospital Heliport",45.626836,-61.981933,70,"NA","CA","CA-NS","Antigonish","no",,,"CDY5","CDY5",,,
-829,"CDY6","small_airport","Bridgewater / Dayspring Airpark",44.3819007874,-64.456703186,150,"NA","CA","CA-NS","Bridgewater","no",,,"CDY6","CDY6",,"https://en.wikipedia.org/wiki/Bridgewater/Dayspring_Airpark","DY6"
+828,"CDY5","heliport","St. Martha's Regional Hospital Heliport",45.626836,-61.981933,70,"NA","CA","CA-NS","Antigonish","no",,,"CDY5","CDY5",,"https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#Antigonish_(St._Martha's_Regional_Hospital)",
+829,"CDY6","small_airport","Dayspring Airpark",44.381901,-64.456703,150,"NA","CA","CA-NS","Bridgewater","no",,,"CDY6","CDY6",,"https://en.wikipedia.org/wiki/Bridgewater/Dayspring_Airpark",
 830,"CEA3","small_airport","Olds-Didsbury Airport",51.7118988037,-114.107002258,3360,"NA","CA","CA-AB","Olds-Didsbury","no",,,"CEA3","CEA3",,"https://en.wikipedia.org/wiki/Olds-Didsbury_Airport","EA3"
 831,"CEA5","small_airport","Hardisty Airport",52.64690017700195,-111.38400268554688,2326,"NA","CA","CA-AB","Hardisty","no",,,"CEA5","CEA5",,"https://en.wikipedia.org/wiki/Hardisty_Airport","EA5"
 832,"CEA6","small_airport","Cardston Airport",49.163631,-113.241888,3887,"NA","CA","CA-AB","Cardston","no",,,"CEA6","CEA6",,"https://pms.wikipedia.org/wiki/Cardston_Airport","EA6"
@@ -18602,19 +18604,19 @@
 320851,"CHH2","seaplane_base","Hamilton Harbour Seaplane Base",43.2988,-79.8498,244,"NA","CA","CA-ON","Burlington","no",,,"CHH2","CHH2",,"https://en.wikipedia.org/wiki/Burlington/Hamilton_Harbour_Water_Aerodrome","PS5"
 1038,"CHJ4","heliport","Boyle (Healthcare Centre) Heliport",54.588661,-112.801913,2150,"NA","CA","CA-AB","Boyle","no",,,"CHJ4","CHJ4",,,
 320651,"CHL2","small_airport","Hillaton/Kings Aerodrome",45.1442,-64.4229,89,"NA","CA","CA-NS","Hillaton","no",,,"CHL2","CHL2",,"https://en.wikipedia.org/wiki/Hillaton/Kings_Aerodrome",
-28193,"CHL3","seaplane_base","Church Lake Seaplane Base",44.559399,-64.612198,280,"NA","CA","CA-NS",,"no",,,"CHL3","CHL3",,"https://en.wikipedia.org/wiki/Church_Lake_Water_Aerodrome",
+28193,"CHL3","seaplane_base","Church Lake Seaplane Base",44.5588,-64.6117,280,"NA","CA","CA-NS","Newburne","no",,,"CHL3","CHL3",,"https://en.wikipedia.org/wiki/Church_Lake_Water_Aerodrome",
 598932,"CHL5","heliport","Monashee Helicopters Heliport",58.514165,-117.114725,1060,"NA","CA","CA-AB","High Level","no",,,"CHL5","CHL5",,,
 28265,"CHL6","seaplane_base","Huntsville (North) Seaplane Base",45.331402,-79.258102,931,"NA","CA","CA-ON",,"no",,,"CHL6","CHL6",,"https://en.wikipedia.org/wiki/Huntsville_(North)_Water_Aerodrome",
 298376,"CHM2","small_airport","Spiritwood / H & M Fast Farms",53.275,-107.570278,2250,"NA","CA","CA-SK",,"no",,,"CHM2","CHM2",,"https://en.wikipedia.org/wiki/Spiritwood/H_%26_M_Fast_Farms_Aerodrome","HM2"
 16713,"CHP","small_airport","Circle Hot Springs Airport",65.485496521,-144.610992432,956,"NA","US","US-AK","Circle Hot Springs","no",,"CHP","CHP","CHP",,"https://en.wikipedia.org/wiki/Circle_Hot_Springs_Airport",
 316627,"CHP2","seaplane_base","Heurisko Pond Water Aerodrome",43.7722,-80.3739,1420,"NA","CA","CA-ON","Belwood","no",,,"CHP2","CHP2",,"https://en.wikipedia.org/wiki/Belwood_(Heurisko_Pond)_Water_Aerodrome",
 320418,"CHP3","heliport","Mont-Tremblant/Heliport P3",46.1953,-74.571201,816,"NA","CA","CA-QC","Mont-Tremblant","no",,,"CHP3","CHP3",,,
-1041,"CHQE","heliport","Halifax (Queen Elizabeth II Health Science Centre) Heliport",44.645941012499996,-63.586530983399996,260,"NA","CA","CA-NS","Halifax","no",,,"CHQE","CHQE",,,"HQE"
+1041,"CHQE","heliport","Queen Elizabeth II Health Science Centre Helipad",44.645955,-63.586624,260,"NA","CA","CA-NS","Halifax","no",,,"CHQE","CHQE",,"https://en.wikipedia.org/wiki/Queen_Elizabeth_II_Health_Sciences_Centre",
 320175,"CHR2","heliport","High River Hospital Helipad",50.5761,-113.8793,3411,"NA","CA","CA-AB","High River","no",,,"CHR2","CHR2",,,
 320652,"CHS3","small_airport","Beck Farm Airport",49.3366,-113.5733,3695,"NA","CA","CA-AB","Hillspring","no",,,"CHS3","CHS3",,"https://en.wikipedia.org/wiki/Hillspring_(Beck_Farm)_Aerodrome",
 321880,"CHS4","seaplane_base","Scugog /Charlies Landing Seaplane Base",44.161301,-78.8245,816,"NA","CA","CA-ON","Scugog","no",,,"CHS4","CHS4",,"https://en.wikipedia.org/wiki/Scugog/Charlies_Landing_Water_Aerodrome",
 320377,"CHS5","heliport","Heliport Senneville",45.4428,-73.9605,94,"NA","CA","CA-QC","Montréal","no",,,"CHS5","CHS5",,,
-1042,"CHS7","heliport","Halifax (South End) Heliport",44.6254289733,-63.5633915663,13,"NA","CA","CA-NS","Halifax","no",,,"CHS7","CHS7",,,"HS7"
+1042,"CHS7","heliport","Halifax (South End) Heliport",44.625429,-63.563392,13,"NA","CA","CA-NS","Halifax","no",,,"CHS7","CHS7",,,
 44691,"CHT3","heliport","Mont Tremblant/St-Jovite Heli-Tremblant",46.114200592041016,-74.54139709472656,803,"NA","CA","CA-QC",,"no",,,"CHT3","CHT3",,,
 320434,"CHT4","heliport","Nelson (High Terrain Helicopters) Heliport",49.486702,-117.327201,1950,"NA","CA","CA-BC","Nelson","no",,,"CHT4","CHT4","http://highterrainhelicopters.com/",,
 320457,"CHW2","heliport","Orangeville/Headwaters Healthcare Centre Heliport",43.919901,-80.0754,1520,"NA","CA","CA-ON","Orangeville","no",,,"CHW2","CHW2",,,
@@ -18628,7 +18630,7 @@
 576227,"CIO2","heliport","Îles aux Oies Heliport",47.1375,-70.478333,3,"NA","CA","CA-QC","Îles aux Oies","no",,,"CIO2","CIO2",,,
 312506,"CIV","seaplane_base","Chomley Seaplane Base",55.217,-132.21,0,"NA","US","US-AK","Chomley","no",,"CIV",,,,,
 1043,"CIV2","heliport","Invermere (Hospital) Heliport",50.507211,-116.032813,2900,"NA","CA","CA-BC","Invermere","no",,,"CIV2","CIV2",,,"IV2"
-1044,"CIW2","heliport","Halifax (IWK Health Centre) Heliport",44.6369942499,-63.584420085,223,"NA","CA","CA-NS","Halifax","no",,,"CIW2","CIW2",,,"IW2"
+1044,"CIW2","heliport","Halifax (IWK Health Centre) Heliport",44.636994,-63.58442,223,"NA","CA","CA-NS","Halifax","no",,,"CIW2","CIW2",,"https://en.wikipedia.org/wiki/IWK_Health_Centre",
 320693,"CJA2","small_airport","Selkirk Airport",42.8068,-79.9768,592,"NA","CA","CA-ON","Selkirk","no",,,"CJA2","CJA2",,"https://en.wikipedia.org/wiki/Selkirk_Aerodrome",
 1045,"CJA3","small_airport","Morden Regional Airport",49.208626,-98.063536,950,"NA","CA","CA-MB","Morden","no",,,"CJA3","CJA3",,"https://en.wikipedia.org/wiki/Morden_Airport","JA3"
 1046,"CJA5","small_airport","Nestor Falls Airport",49.14030075073242,-93.91690063476562,1195,"NA","CA","CA-ON","Nestor Falls","no",,,"CJA5","CJA5",,"https://en.wikipedia.org/wiki/Nestor_Falls_Airport","JA5"
@@ -18857,7 +18859,7 @@
 1209,"CKM6","small_airport","Easterville Airport",53.11669921875,-99.80000305175781,850,"NA","CA","CA-MB","Easterville","no",,,"CKM6","CKM6",,"https://en.wikipedia.org/wiki/Easterville_Airport","KM6"
 1210,"CKM7","heliport","Thompson Heliport",55.707422500899995,-97.89123594760001,702,"NA","CA","CA-MB","Thompson","no",,,"CKM7","CKM7",,,"KM7"
 1211,"CKM8","small_airport","Opapimiskan Lake Airport",52.6067008972,-90.3768997192,1023,"NA","CA","CA-ON","Opapimiskan Lake","no",,"YBS","CKM8","CKM8",,"https://en.wikipedia.org/wiki/Opapimiskan_Lake_Airport","KM8, Musselwhite Airport"
-1212,"CKM9","heliport","Kentville (Camp Aldershot) Heliport",45.094006202399996,-64.5095676184,100,"NA","CA","CA-NS","Kentville","no",,,"CKM9","CKM9",,,"KM9"
+1212,"CKM9","heliport","Camp Aldershot Heliport",45.093842,-64.509382,100,"NA","CA","CA-NS","Kentville","no",,,"CKM9","CKM9",,"https://en.wikipedia.org/wiki/5th_Canadian_Division_Support_Base_Detachment_Aldershot",
 1213,"CKN5","small_airport","Fillmore Airport",49.868900299072266,-103.44499969482422,2000,"NA","CA","CA-SK","Fillmore","no",,,"CKN5","CKN5",,"https://en.wikipedia.org/wiki/Fillmore_Airport","KN5"
 1214,"CKN8","small_airport","Nekweaga Bay Airport",57.74250030517578,-103.94499969482422,1320,"NA","CA","CA-SK","Nekweaga Bay","no",,,"CKN8","CKN8",,"https://en.wikipedia.org/wiki/Nekweaga_Bay_Airport","KN8"
 1215,"CKN9","heliport","Shilo (Flewin Field) Heliport",49.780799865722656,-99.63890075683594,1223,"NA","CA","CA-MB","Shilo","no",,,"CKN9","CKN9",,,"KN9"
@@ -18905,7 +18907,7 @@
 28428,"CKV5","seaplane_base","Stewart Lake Seaplane Base",49.8167,-93.716698,1200,"NA","CA","CA-ON",,"no",,,"CKV5","CKV5",,"https://en.wikipedia.org/wiki/Stewart_Lake_Water_Aerodrome","KV5"
 1245,"CKV6","small_airport","Churchbridge Airport",51.016700744628906,-101.81700134277344,1745,"NA","CA","CA-SK","Churchbridge","no",,,"CKV6","CKV6",,"https://en.wikipedia.org/wiki/Churchbridge_Airport","KV6"
 1246,"CKV7","small_airport","Wawota Airport",49.8944823433,-102.03045845,2168,"NA","CA","CA-SK","Wawota","no",,,"CKV7","CKV7",,"https://en.wikipedia.org/wiki/Wawota_Airport","KV7"
-1247,"CKV8","heliport","Kentville (Valley Regional Hospital) Heliport",45.08171042359999,-64.5002254844,80,"NA","CA","CA-NS","Kentville","no",,,"CKV8","CKV8",,,"KV8"
+1247,"CKV8","heliport","Valley Regional Hospital Heliport",45.081747,-64.500034,80,"NA","CA","CA-NS","Kentville","no",,,"CKV8","CKV8",,,
 1248,"CKV9","heliport","Country Gardens B&B Heliport",58.350602,-115.948998,915,"NA","CA","CA-AB","Fort Vermilion","no",,,"CKV9","CKV9",,,
 28337,"CKW3","seaplane_base","Nestor Falls/Sabaskong Bay Seaplane Base",49.133301,-93.933296,1060,"NA","CA","CA-ON",,"no",,,"CKW3","CKW3",,"https://en.wikipedia.org/wiki/Nestor_Falls/Sabaskong_Bay_Water_Aerodrome",
 28429,"CKW5","seaplane_base","Stony Rapids Seaplane Base",59.259998,-105.831001,686,"NA","CA","CA-SK",,"no",,,"CKW5","CKW5",,"https://en.wikipedia.org/wiki/Stony_Rapids_Water_Aerodrome",
@@ -19056,7 +19058,7 @@
 320347,"CLC4","small_airport","Loon Creek Airfield",50.8434,-104.323,1816,"NA","CA","CA-SK",,"no",,,"CLC4","CLC4",,"https://en.wikipedia.org/wiki/Loon_Creek_Airfield",
 46526,"CLD2","heliport","Edmonton / Leduc Heliport",53.253172,-113.542599,2411,"NA","CA","CA-AB","Leduc","no",,,"CLD2","CLD2",,,
 320722,"CLD3","seaplane_base","Burns Lake (LD Air) Water Aerodrome",54.21,-125.756901,2300,"NA","CA","CA-BC","Burns Lake","no",,,"CLD3","CLD3",,"https://en.wikipedia.org/wiki/Burns_Lake_(LD_Air)_Water_Aerodrome","AJ6"
-1267,"CLE4","small_airport","Lower East Pubnico (La Field) Airport",43.62220001220703,-65.76190185546875,107,"NA","CA","CA-NS","Lower East Pubnico","no",,,"CLE4","CLE4",,"https://en.wikipedia.org/wiki/Lower_East_Pubnico_(La_Field)_Airport","LE4"
+1267,"CLE4","small_airport","Lower East Pubnico (La Field) Airport",43.622522,-65.760203,107,"NA","CA","CA-NS","Lower East Pubnico","no",,,"CLE4","CLE4",,"https://en.wikipedia.org/wiki/Lower_East_Pubnico_(La_Field)_Airport",
 16819,"CLF","small_airport","Tischner Air Airport",64.2545,-149.19207,650,"NA","US","US-AK","Anderson","no",,,,"2AN",,"https://en.wikipedia.org/wiki/Clear_Sky_Lodge_Airport","CLF, Clear Sky Lodge"
 1268,"CLG3","small_airport","Liege / CNRL Airport",57.0018997192,-113.194000244,1728,"NA","CA","CA-AB","Liege","no",,,"CLG3","CLG3",,"https://en.wikipedia.org/wiki/Liege/CNRL_Aerodrome","LG3"
 302185,"CLG7","small_airport","Fort McMurray / Legend Airfield",57.196944,-112.895556,2061,"NA","CA","CA-AB","Fort McMurray","no",,,"CLG7","CLG7",,"https://en.wikipedia.org/wiki/Fort_McMurray_(Legend)_Aerodrome",
@@ -19076,7 +19078,7 @@
 299264,"CLN4","small_airport","Beaverlodge / Clanachan Field",55.234493,-119.841591,2694,"NA","CA","CA-AB",,"no",,,"CLN4","CLN4",,"https://en.wikipedia.org/wiki/Beaverlodge/Clanachan_Aerodrome",
 1273,"CLP2","heliport","Montreal / Laval (Artopex Plus) Heliport",45.5785956158,-73.7500204146,133,"NA","CA","CA-QC","Montréal","no",,,"CLP2","CLP2",,,"LP2"
 46494,"CLP3","seaplane_base","Lac Polaris (pourvoirie Mirage)",53.800556,-72.866667,1300,"NA","CA","CA-QC",,"no",,,"CLP3",,,"https://en.wikipedia.org/wiki/Lac_Polaris_(Pourvoirie_Mirage_Inc)_Water_Aerodrome","Pourvoirie Mirage, Mirage outfitter"
-1274,"CLQ2","heliport","Liverpool (Queens General Hospital) Heliport",44.038714767200005,-64.7053420544,67,"NA","CA","CA-NS","Liverpool","no",,,"CLQ2","CLQ2",,,"LQ2"
+1274,"CLQ2","heliport","Queens General Hospital Heliport",44.038483,-64.705263,67,"NA","CA","CA-NS","Liverpool","no",,,"CLQ2","CLQ2",,,
 320817,"CLR2","seaplane_base","Lake Rosseau/John's Bay Seaplane Base",45.170104,-79.5975,742,"NA","CA","CA-ON","Lake Rosseau","no",,,"CLR2","CLR2",,"https://en.wikipedia.org/wiki/Lake_Rosseau/John%27s_Bay_Water_Aerodrome",
 302187,"CLS3","small_airport","Fort McMurray / South Liege Airfield",56.832353,-113.098841,1707,"NA","CA","CA-AB",,"no",,,"CLS3",,,"https://en.wikipedia.org/wiki/Fort_McMurray_(South_Liege)_Aerodrome",
 353369,"CLS4","seaplane_base","Porters Lake South Seaplane Base",44.66538,-63.31477,,"NA","CA","CA-NS","East Lawrencetown","no",,,"CLS4","CLS4",,"https://en.wikipedia.org/wiki/Porters_Lake_South_Water_Aerodrome",
@@ -19139,7 +19141,7 @@
 45049,"CMN6","small_airport","Edmonton/Morinville (Mike's Field) Aerodrome",53.836944,-113.563333,2302,"NA","CA","CA-AB","Morinville","no",,,"CMN6",,,,
 562122,"CMR4","heliport","Mountain Road Heliport",44.495,-80.2925,735,"NA","CA","CA-ON","Collingwood","no",,,"CMR4","CMR4",,,
 1283,"CMR6","heliport","Camrose / St Mary's Hospital Heliport",53.0151382454,-112.830169201,2413,"NA","CA","CA-AB","Camrose","no",,,"CMR6","CMR6",,,"MR6"
-1284,"CMS2","heliport","Middleton (Soldiers Memorial Hospital) Heliport",44.9461283973,-65.05903959269999,53,"NA","CA","CA-NS","Middleton","no",,,"CMS2","CMS2",,,"MS2"
+1284,"CMS2","heliport","Middleton (Soldiers Memorial Hospital) Heliport",44.94619,-65.058841,53,"NA","CA","CA-NS","Middleton","no",,,"CMS2","CMS2",,"https://en.wikipedia.org/wiki/Soldiers_Memorial_Hospital",
 320781,"CMS3","seaplane_base","Marina le Nautique Water Aerodrome",46.69,-73.898702,1177,"NA","CA","CA-QC","St-Michel-des-Saints","no",,,"CMS3","CMS3",,"https://en.wikipedia.org/wiki/Saint-Michel-des-Saints_(Marina_Le_Nautique)_Water_Aerodrome",
 316486,"CMT","small_airport","New Cametá Airport",-2.2468,-49.56,60,"SA","BR","BR-PA","Cametá","no",,"CMT",,,,,
 321889,"CMT2","seaplane_base","Mont-Tremblant (Lac Maskinongé) Seaplane Base",46.087825,-74.608452,790,"NA","CA","CA-QC","Mont-Tremblant","no",,,"CMT2","CMT2",,"https://en.wikipedia.org/wiki/Mont-Tremblant_(Lac_Maskinong%C3%A9)_Water_Aerodrome",
@@ -19746,7 +19748,7 @@
 1348,"CNU4","small_airport","Belleville Aerodrome",44.1922,-77.309402,320,"NA","CA","CA-ON","Belleville","no",,,"CNU4","CNU4",,"https://en.wikipedia.org/wiki/Belleville_Aerodrome","NU4"
 28263,"CNU6","seaplane_base","Huntsville Seaplane Base",45.3172,-79.257797,931,"NA","CA","CA-ON",,"no",,,"CNU6","CNU6",,"https://en.wikipedia.org/wiki/Huntsville_Water_Aerodrome",
 1349,"CNU8","small_airport","Toronto Markham Airport",43.93526,-79.263491,807,"NA","CA","CA-ON","Markham","no",,,"CNU8","CNU8",,"https://en.wikipedia.org/wiki/Toronto/Markham_Airport","NU8"
-1350,"CNV2","heliport","Inverness (Consolidated Memorial Hospital) Heliport",46.199371623,-61.291823387099996,100,"NA","CA","CA-NS","Inverness","no",,,"CNV2","CNV2",,,"NV2"
+1350,"CNV2","heliport","Inverness Consolidated Memorial Hospital Heliport",46.199358,-61.291597,100,"NA","CA","CA-NS","Inverness","no",,,"CNV2","CNV2",,,
 1351,"CNV3","heliport","New Liskeard (Temiskaming Hospital) Heliport",47.494479816399995,-79.69294667240001,895,"NA","CA","CA-ON","New Liskeard","no",,,"CNV3","CNV3",,,"NV3"
 1352,"CNV4","small_airport","Hawkesbury Airport",45.616699,-74.650002,167,"NA","CA","CA-ON","Hawkesbury","no",,,"CNV4","CNV4","https://montrealsoaring.ca/wp/","https://en.wikipedia.org/wiki/Hawkesbury_Airport","NV4"
 28216,"CNV5","seaplane_base","Elk Lake Seaplane Base",47.727908,-80.321549,925,"NA","CA","CA-ON",,"no",,,"CNV5","CNV5",,"https://en.wikipedia.org/wiki/Elk_Lake_Water_Aerodrome","NV5"
@@ -20103,7 +20105,7 @@
 1483,"CRB5","small_airport","Rivière Bell Aerodrome",49.078899383499994,-62.2369003296,89,"NA","CA","CA-QC","Rivière Bell","no",,,"CRB5","CRB5",,"https://en.wikipedia.org/wiki/Rivi%C3%A8re_Bell_Aerodrome","RB5"
 508490,"CRB6","seaplane_base","Richards Beach Water Aerodrome",44.7384,-79.746,548,"NA","CA","CA-ON","Sturgeon Bay","no",,,"CRB6","CRB6",,"https://en.wikipedia.org/wiki/Sturgeon_Bay/Richards_Beach_Water_Aerodrome",
 28397,"CRB7","seaplane_base","Cardinal Aviation Seaplane Base",45.547501,-75.6278,,"NA","CA","CA-QC","Rivière Blanche","no",,,"CRB7","CRB7",,"https://en.wikipedia.org/wiki/Rivi%C3%A8re_Blanche/Cardinal_Aviation_Water_Aerodrome",
-1484,"CRC2","heliport","Fredericton (RCMP) Heliport",45.93174,-66.666681,369,"NA","CA","CA-NB","Fredericton","no",,,"CRC2","CRC2",,,"RC2"
+1484,"CRC2","heliport","RCMP Heliport",45.93174,-66.666681,369,"NA","CA","CA-NB","Fredericton","no",,,"CRC2","CRC2",,"https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#Fredericton_(RCMP)",
 320664,"CRC3","small_airport","Ross Creek Airport",50.965502,-119.2254,1257,"NA","CA","CA-BC","Magna Bay","no",,,"CRC3","CRC3",,"https://en.wikipedia.org/wiki/Ross_Creek_Aerodrome",
 1485,"CRD3","heliport","Red Deer Regional Hospital Centre Heliport",52.26190185546875,-113.81600189208984,2877,"NA","CA","CA-AB","Red Deer","no",,,"CRD3","CRD3",,,"RD3"
 301228,"CRD5","small_airport","Red Deer / Truant Airfield",52.287043,-113.913181,3100,"NA","CA","CA-AB","Red Deer","no",,,"CRD5",,,"https://en.wikipedia.org/wiki/Red_Deer/Truant_Aerodrome",
@@ -20161,7 +20163,7 @@
 28212,"CSA7","seaplane_base","Drummondville Seaplane Base",45.854401,-72.389395,320,"NA","CA","CA-QC","Drummondville","no",,,"CSA7","CSA7",,"https://en.wikipedia.org/wiki/Drummondville_Water_Aerodrome","SA7"
 320783,"CSA8","seaplane_base","Saguenay (Harvey) Water Aerodrome",48.44,-71.13,0,"NA","CA","CA-QC","Saguenay","no",,,"CSA8","CSA8",,,
 28281,"CSA9","seaplane_base","Lac-Des-Îles Seaplane Base",46.4119,-75.519995,660,"NA","CA","CA-QC",,"no",,,"CSA9","CSA9",,"https://en.wikipedia.org/wiki/Lac-des-%C3%8Eles_Water_Aerodrome","SA9"
-44427,"CSB2","small_airport","Sable Island Landing Strip",43.930951,-59.996147,4,"NA","CA","CA-NS","Sable Island","no",,"YSA","CSB2","CSB2","http://www.sableislandairport.com/Photo-Gallery-1.html","https://en.wikipedia.org/wiki/Sable_Island_Aerodrome","CYSA"
+44427,"CSB2","small_airport","Sable Island Airport.",43.928235,-59.948986,6,"NA","CA","CA-NS","Sable Island","no",,"YSA","CSB2","CSB2","http://www.sableislandairport.com/Photo-Gallery-1.html","https://en.wikipedia.org/wiki/Sable_Island_Aerodrome",
 1499,"CSB3","small_airport","St-Mathieu-De-Beloeil Airport",45.59000015258789,-73.23860168457031,47,"NA","CA","CA-QC","St-Mathieu-De-Beloeil","no",,,"CSB3","CSB3",,"https://en.wikipedia.org/wiki/St-Mathieu-De-Beloeil_Airport","SB3"
 1500,"CSB4","heliport","Chibougamau Heliport",49.900002,-74.383302,1150,"NA","CA","CA-QC","Chibougamau","no",,,"CSB4","CSB4",,,"SB4,"
 1501,"CSB5","small_airport","Shediac Bridge Airport",46.25469970703125,-64.57669830322266,25,"NA","CA","CA-NB","Shediac Bridge","no",,,"CSB5","CSB5",,"https://en.wikipedia.org/wiki/Shediac_Bridge_Airport","SB5"
@@ -20426,7 +20428,7 @@
 28170,"CTP3","seaplane_base","Barrage Gouin Seaplane Base",48.354198,-74.102798,1325,"NA","CA","CA-QC",,"no",,,"CTP3","CTP3",,"https://en.wikipedia.org/wiki/Barrage_Gouin_Water_Aerodrome",
 28287,"CTP4","seaplane_base","Lac Pau (Caniapiscau) Seaplane Base",54.845001,-69.881897,1657,"NA","CA","CA-QC",,"no",,,"CTP4","CTP4",,"https://en.wikipedia.org/wiki/Lac_Pau_(Caniapiscau)_Water_Aerodrome",
 1607,"CTP5","heliport","St. Paul (Health Care Centre) Heliport",53.98809814453125,-111.29100036621094,2113,"NA","CA","CA-AB","St. Paul","no",,,"CTP5","CTP5",,,"TP5"
-1608,"CTP9","small_airport","Donaldson Airport",61.6622009277,-73.3214035034,1902,"NA","CA","CA-QC","Kattiniq","no",,"YAU","CTP9","CTP9",,"https://en.wikipedia.org/wiki/Kattiniq/Donaldson_Airport","TP9"
+1608,"CTP9","small_airport","Donaldson Airport",61.662201,-73.321404,1902,"NA","CA","CA-QC","Kattiniq","no",,"YAU","CTP9","CTP9",,"https://en.wikipedia.org/wiki/Kattiniq/Donaldson_Airport",
 1609,"CTQ2","small_airport","Weller Airport",45.034400939941406,-72.03500366210938,1250,"NA","CA","CA-QC","Stanstead","no",,,"CTQ2","CTQ2",,"https://en.wikipedia.org/wiki/Stanstead/Weller_Airport","TQ2"
 1611,"CTQ6","small_airport","St-Anselme Airport",46.621899,-70.955002,560,"NA","CA","CA-QC","St-Anselme","no",,,"CTQ6","CTQ6",,"https://en.wikipedia.org/wiki/St-Anselme_Airport",
 1612,"CTR4","heliport","Artopex Plus Heliport",45.39080047607422,-72.76609802246094,295,"NA","CA","CA-QC","Granby","no",,,"CTR4","CTR4",,,"TR4"
@@ -20703,7 +20705,7 @@
 1658,"CYAQ","medium_airport","Kasabonika Airport",53.52470016479492,-88.6427993774414,672,"NA","CA","CA-ON","Kasabonika","yes","CYAQ","XKS","CYAQ",,,"https://en.wikipedia.org/wiki/Kasabonika_Airport","YAQ"
 1659,"CYAS","small_airport","Kangirsuk Airport",60.027199,-69.999199,403,"NA","CA","CA-QC","Kangirsuk","yes","CYAS","YKG","CYAS",,,"https://en.wikipedia.org/wiki/Kangirsuk_Airport","YAS"
 1660,"CYAT","small_airport","Attawapiskat Airport",52.927502,-82.4319,31,"NA","CA","CA-ON","Attawapiskat","yes","CYAT","YAT","CYAT",,,"https://en.wikipedia.org/wiki/Attawapiskat_Airport",
-1661,"CYAU","small_airport","Liverpool South Shore Regional Airport",44.230301,-64.856102,321,"NA","CA","CA-NS","Greenfield","no",,,"CYAU",,,"https://en.wikipedia.org/wiki/Liverpool/South_Shore_Regional_Airport","YAU, Greenfield Dragway"
+1661,"CYAU","small_airport","Liverpool South Shore Regional Airport",44.230301,-64.856102,321,"NA","CA","CA-NS","Greenfield","no","CYAU",,"CYAU",,"https://southshoreflyingclub.weebly.com/","https://en.wikipedia.org/wiki/Liverpool/South_Shore_Regional_Airport","YAU, Greenfield Dragway"
 1662,"CYAV","medium_airport","Winnipeg / St. Andrews Airport",50.0564,-97.032501,760,"NA","CA","CA-MB","Winnipeg/Saint Andrews","yes","CYAV",,"CYAV",,,"https://en.wikipedia.org/wiki/Winnipeg/St._Andrews_Airport","YAV"
 1663,"CYAW","heliport","CFB Shearwater Heliport",44.636782,-63.502107,144,"NA","CA","CA-NS","Halifax","no","CYAW",,"CYAW","YAW",,"https://en.wikipedia.org/wiki/CFB_Shearwater",
 1664,"CYAX","medium_airport","Lac du Bonnet Airport",50.294399,-96.010002,850,"NA","CA","CA-MB","Lac du Bonnet","yes","CYAX",,"CYAX",,,"https://en.wikipedia.org/wiki/Lac_du_Bonnet_Airport","YAX"
@@ -20899,7 +20901,7 @@
 1839,"CYOS","medium_airport","Owen Sound / Billy Bishop Regional Airport",44.5903015137,-80.8375015259,1007,"NA","CA","CA-ON","Owen Sound","no","CYOS","YOS","CYOS",,,"https://en.wikipedia.org/wiki/Owen_Sound/Billy_Bishop_Regional_Airport","YOS"
 1840,"CYOW","large_airport","Ottawa Macdonald-Cartier International Airport",45.322498,-75.669197,374,"NA","CA","CA-ON","Ottawa","yes","CYOW","YOW","CYOW","YOW","https://yow.ca/","https://en.wikipedia.org/wiki/Ottawa_Macdonald%E2%80%93Cartier_International_Airport","Uplands, UUP, CUUP"
 1841,"CYOY","heliport","C J.H.L.(Joe) Lecomte) Heliport",46.902885,-71.503658,550,"NA","CA","CA-QC","Valcartier","no",,,"CYOY",,,"https://en.wikipedia.org/wiki/CFB_Valcartier",
-1630,"CYP2","heliport","Halifax (Windsor Park) Heliport",44.6574220689,-63.6117947102,125,"NA","CA","CA-NS","Halifax","no",,,"CYP2","CYP2",,,"YP2"
+1630,"CYP2","heliport","Halifax (Windsor Park) Heliport",44.657422,-63.611795,125,"NA","CA","CA-NS","Halifax","no",,,"CYP2","CYP2",,,
 1842,"CYPA","medium_airport","Prince Albert Glass Field",53.214199066199996,-105.672996521,1405,"NA","CA","CA-SK","Prince Albert","yes","CYPA","YPA","CYPA",,,"https://en.wikipedia.org/wiki/Prince_Albert_(Glass_Field)_Airport",
 1843,"CYPC","small_airport","Paulatuk (Nora Aliqatchialuk Ruben) Airport",69.360838,-124.07547,15,"NA","CA","CA-NT","Paulatuk","yes","CYPC","YPC","CYPC",,,"https://en.wikipedia.org/wiki/Paulatuk_Airport",
 1844,"CYPD","medium_airport","Port Hawkesbury Airport",45.6567001343,-61.3680992126,377,"NA","CA","CA-NS","Port Hawkesbury","no","CYPD","YPS","CYPD",,"http://www.porthawkesburyairport.com/","https://en.wikipedia.org/wiki/Port_Hawkesbury_Airport","YPD"
@@ -22443,6 +22445,7 @@
 599124,"DE-0921","small_airport","Altstetten Ultralight Field",48.30629,11.28652,,"EU","DE","DE-BY","Altstetten","yes",,,,,,,
 599479,"DE-0922","heliport","Frankfurt am Main Accident Hospital Roof Helipad",50.145472,8.708981,,"EU","DE","DE-HE","Frankfurt","no",,,,,,,
 600033,"DE-0923","small_airport","Colnrade Ultralight Field",52.83994,8.50037,,"EU","DE","DE-NI",,"no",,,,,"https://easy-flying.jimdosite.com/",,
+601208,"DE-0924","small_airport","Worth Ultralight strip",53.4769,10.40871,,"EU","DE","DE-SH",,"no",,,,,,,
 17115,"DE00","small_airport","Doyle's Airport",39.02069854736328,-75.57710266113281,51,"NA","US","US-DE","Felton","no",,,"DE00","DE00",,,
 17117,"DE02","heliport","Delaware State Police Heliport",39.20009994506836,-75.53299713134766,50,"NA","US","US-DE","Dover","no",,,"DE02","DE02",,,
 17118,"DE03","heliport","Dover Downs Helistop",39.18339920043945,-75.52459716796875,28,"NA","US","US-DE","Dover","no",,,"DE03","DE03",,,
@@ -27600,6 +27603,7 @@
 600606,"FR-1319","heliport","ESQUERCHIN DZ",50.373581,3.013494,,"EU","FR","FR-HDF","Esquerchin","no",,,,,,,
 600610,"FR-1320","heliport","HASNON DZ",50.425498,3.382201,,"EU","FR","FR-HDF","Hasnon","no",,,,,,,
 600734,"FR-1321","heliport","Château de Champlâtreux",49.08615,2.408645,,"EU","FR","FR-IDF","Épinay-Champlâtreux","no",,,,,,,
+601207,"FR-1322","small_airport","Sèvremoine Ultralight strip",47.01879,-1.03036,,"EU","FR","FR-PDL",,"no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assumption Island Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assumption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -53769,7 +53773,7 @@
 530233,"RE-0009","small_airport","Grand Coude Altisurface",-21.288889,55.623611,3250,"AF","RE","RE-SR","Grand Coude","no",,,,"LF9743",,,
 301586,"RH8H","heliport","N 210 Helipad",37.754574,126.595346,415,"AS","KR","KR-41",,"no",,,"RK8H","RK8H",,,
 314557,"RHT","small_airport","Alxa Right Banner Badanjilin Airport",39.225,101.546,4659,"AS","CN","CN-15","Badanjilin","yes","ZBAR","RHT","ZBAR",,,"https://en.wikipedia.org/wiki/Alxa_Right_Banner_Badanjilin_Airport",
-24341,"RI01","heliport","Kent County Memorial Hospital Heliport",41.70539855957031,-71.47699737548828,104,"NA","US","US-RI","Warwick","no",,,"RI01","RI01",,,
+24341,"RI01","heliport","Kent County Memorial Hospital Heliport",41.707258,-71.477545,104,"NA","US","US-RI","Warwick","no",,,"RI01","RI01",,,
 45776,"RI02","heliport","Grayrock Ridge Heliport",41.949311,-71.415397,314,"NA","US","US-RI","Cumberland","no",,,"RI02","RI02",,,
 24343,"RI06","seaplane_base","Tiverton Seaplane Base",41.64820098876953,-71.15390014648438,205,"NA","US","US-RI","Tiverton","no",,,"RI06","RI06",,,
 24344,"RI07","small_airport","Wing-Over Farm Airport",41.57899856567383,-71.1417007446289,113,"NA","US","US-RI","Tiverton","no",,,"RI07","RI07",,,
@@ -53782,7 +53786,7 @@
 24356,"RI23","heliport","Westerly Hospital Heliport",41.36259841918945,-71.82369995117188,120,"NA","US","US-RI","Westerly","no",,,"RI23","RI23",,,
 24357,"RI24","heliport","Duke Heliport",41.45589828491211,-71.30509948730469,34,"NA","US","US-RI","Newport","no",,,"RI24","RI24",,,
 24358,"RI25","heliport","Rhode Island Hospital Heliport",41.810191,-71.409504,22,"NA","US","US-RI","Providence","no",,,"RI25","RI25",,,
-24359,"RI26","heliport","Landmark Medical Center Heliport",42.00429916381836,-71.49420166015625,202,"NA","US","US-RI","Woonsocket","no",,,"RI26","RI26",,,
+24359,"RI26","heliport","Landmark Medical Center Heliport",42.003756,-71.495115,202,"NA","US","US-RI","Woonsocket","no",,,"RI26","RI26",,,
 24360,"RI28","seaplane_base","Plouffe Landing Seaplane Base",41.87530136,-71.59030151,328,"NA","US","US-RI","Glocester","no",,,"RI28","RI28",,,
 24361,"RI30","heliport","East Arnolda Farm Heliport",41.3787,-71.641218,30,"NA","US","US-RI","Charlestown","no",,,"RI30","RI30",,,
 300123,"RJ01","heliport","Akasaka Press Center (Hardy Barracks) Heliport",35.663333,139.725556,97,"AS","JP","JP-13","Minato, Tokyo","no",,,"RJ01",,,,"akasaka press center, hardy barracks, azabu"
@@ -55684,7 +55688,16 @@
 600750,"RU-10121","heliport","Dalniye Zelentsy Heliport",69.110692,36.071732,,"EU","RU","RU-MUR","Dalniye Zelentsy","no",,,,"HD35",,,"ХД35, Дальние Зеленцы"
 600751,"RU-10122","heliport","Lyampushka Heliport",64.592229,125.791838,197,"AS","RU","RU-SA","Lyampushka","no",,,,"HD9E",,,"ХД9Е, Лямпушка"
 600753,"RU-10123","heliport","Peremykino Heliport",53.173157,124.756639,1065,"EU","RU","RU-AMU","Peremykino","no",,,,"HC6K",,,"ХЦ6К, Перемыкино"
+601220,"RU-10124","small_airport","Molodo Airport",69.64048,122.210989,,"EU","RU","RU-SA",,"no",,,,,,,
+601229,"RU-10125","small_airport","Koynas Landing Strip",64.73241,47.661781,,"EU","RU","RU-ARK","Koynas","no",,,,,,,
+601230,"RU-10126","small_airport","Nes Airfield",66.595755,44.66408,,"EU","RU","RU-ARK","Nes","no",,,,,,,
+601231,"RU-10127","small_airport","Ruchyi Airfield",66.029774,41.211004,,"EU","RU","RU-ARK","Ruchyi","no",,,,,,,
+601233,"RU-10128","small_airport","Kherpuchi Airfield",52.978279,138.82228,,"EU","RU","RU-KHA","Kherpuchi","no",,,,,,,
+601234,"RU-10129","small_airport","Pobeda Airstrip",49.044727,134.31702,,"EU","RU","RU-KHA","Pobeda","no",,,,,,,
 526854,"RU-1013","heliport","KS-9 Maloperanskaya",64.258736,54.893339,,"EU","RU","RU-KO",,"no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
+601235,"RU-10130","small_airport","Koslan Airport",63.474207,48.845987,,"EU","RU","RU-KO","Koslan","no",,,,,,,
+601236,"RU-10131","small_airport","Troitsko-Pechorsk Airport",62.7319,56.19629,,"EU","RU","RU-KO","Troitsko-Pechorsk","no",,,,,,,
+601237,"RU-10132","small_airport","Yagodnoye",62.54574,149.52257,,"EU","RU","RU-MAG","Yagodnoye","no",,,,,,,
 526855,"RU-1014","heliport","KS-8 Chikshynskaya",64.906503,56.412424,,"EU","RU","RU-KO","Chikshino","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526856,"RU-1015","heliport","KS-6 Itinskaya",65.93205,60.365549,,"EU","RU","RU-KO","Inta","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526862,"RU-1016","heliport","KS-7 Syninskaya",65.426335,58.40096,,"AS","RU","RU-KO","Synya","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
@@ -63850,6 +63863,7 @@
 298312,"TH-0052","closed","Pattaya Airpark",12.8325,100.949444,100,"AS","TH","TH-20","Pattaya (Bang Lamung)","no",,,,,,"https://en.wikipedia.org/wiki/Pattaya_Airpark","VTBF, YTBF"
 596302,"TH-0053","closed","Old Loei Airport",17.487156,101.72076,,"AS","TH","TH-42","Loei","no",,,,,,,
 600758,"TH-0054","closed","Uttaradit Landing Ground",17.626516,100.092316,,"AS","TH","TH-53","Uttaradit","no",,,,,,,
+601238,"TH-0055","closed","Kuang Lakorn Army Airfield",8.416496,100.001163,,"AS","TH","TH-80",,"no",,,,,,,
 313984,"THW","seaplane_base","Trincomalee Harbor Waterdrome",8.56,81.22,0,"AS","LK","LK-5","Trincomalee","no",,"THW",,,,,
 6369,"TIST","medium_airport","Cyril E. King Airport",18.337091,-64.977251,23,"NA","VI","VI-ST","Charlotte Amalie","yes","TIST","STT","TIST","STT","http://www.viport.com/airports.html","https://en.wikipedia.org/wiki/Cyril_E._King_Airport","Harry S. Truman Airport"
 6370,"TISX","medium_airport","Henry E Rohlsen Airport",17.701413,-64.802608,74,"NA","VI","VI-SC","Christiansted","yes","TISX","STX","TISX","STX","https://www.viport.com/herastx","https://en.wikipedia.org/wiki/Henry_E._Rohlsen_Airport",
@@ -80861,7 +80875,7 @@
 504769,"XP-0008","heliport","Bei Dao (North Island) Heliport",16.96058,112.3147,,"AS","XP","XP-U-A","North Island","no",,,,,,,
 342165,"XP-0009","heliport","Zhaoshu Dao (Tree Island) Heliport",16.9782,112.2664,,"AS","XP","XP-U-A","Tree Island","no",,,,,,,
 42923,"XRMU","medium_airport","Khankala Air Base",43.2981,45.7841,548,"AS","RU","RU-CE","Grozny","no",,,"XRMU",,,,"Khankala, Hankala, Ханкала"
-332207,"XRQ","small_airport","New Barag Right Banner Baogede Airport",48.575585,116.939382,1798,"AS","CN","CN-15","New Barag Right Banner","yes",,"XRQ",,,,"https://en.wikipedia.org/wiki/Xinbarag_Youqi_Baogede_Airport",
+332207,"XRQ","small_airport","New Barag Right Banner Baogede Airport",48.575585,116.939382,1798,"AS","CN","CN-15","New Barag Right Banner","no",,"XRQ",,,,"https://en.wikipedia.org/wiki/Xinbarag_Youqi_Baogede_Airport",
 35017,"XRWL","medium_airport","Lebyazhye Air Base",50.201698,45.208302,381,"AS","RU","RU-VGG","Kamyshin","no",,,"XRWL",,,"https://en.wikipedia.org/wiki/Lebyazhye_(air_base)","Аэродром Лебяжье, ЬРВЛ"
 26225,"XS00","small_airport","Flying D Airport",30.63719940185547,-98.74829864501953,1460,"NA","US","US-TX","Llano","no",,,"XS00","XS00",,,
 26226,"XS01","small_airport","Tschirhart Ranch Airport",30.450199127197266,-98.88619995117188,2060,"NA","US","US-TX","Fredericksburg","no",,,"XS01","XS01",,,
