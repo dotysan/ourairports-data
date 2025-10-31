@@ -1080,7 +1080,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 1935,CYVG,small_airport,Vermilion Airport,53.357714,-110.827388,2025,NA,CA,CA-AB,Vermilion,no,CYVG,YVG,CYVG,YVG,,https://en.wikipedia.org/wiki/Vermilion_Airport,YVG
 1936,CYVK,medium_airport,Vernon Regional Airport,50.246163,-119.330963,1140,NA,CA,CA-BC,Vernon,no,CYVK,YVE,CYVK,,,https://en.wikipedia.org/wiki/Vernon_Regional_Airport,YVK
 314953,CYVL,small_airport,Tommy Kochon Airport,67.02,-126.126,870,NA,CA,CA-NT,Colville Lake,yes,CYVL,YCK,CYVL,,,https://en.wikipedia.org/wiki/Colville_Lake/Tommy_Kochon_Aerodrome,
-1937,CYVM,small_airport,Qikiqtarjuaq Airport,67.54656,-64.03141,21,NA,CA,CA-NU,Qikiqtarjuaq,yes,CYVM,YVM,CYVM,,,https://en.wikipedia.org/wiki/Qikiqtarjuaq_Airport,
+1937,CYVM,small_airport,Qikiqtarjuaq Airport,67.54656,-64.03141,21,NA,CA,CA-NU,Qikiqtarjuaq,yes,CYVM,YVM,CYVM,,,https://en.wikipedia.org/wiki/Qikiqtarjuaq_Airport,Broughton Island
 1938,CYVO,medium_airport,Val-d'Or Airport,48.0532989502,-77.7827987671,1107,NA,CA,CA-QC,Val-d'Or,yes,CYVO,YVO,CYVO,,http://www.arvo.qc.ca/,https://en.wikipedia.org/wiki/Val-d'Or_Airport,
 1939,CYVP,medium_airport,Kuujjuaq Airport,58.096099853515625,-68.4269027709961,129,NA,CA,CA-QC,Kuujjuaq,yes,CYVP,YVP,CYVP,,,https://en.wikipedia.org/wiki/Kuujjuaq_Airport,
 1940,CYVQ,medium_airport,Norman Wells Airport,65.28160095214844,-126.7979965209961,238,NA,CA,CA-NT,Norman Wells,yes,CYVQ,YVQ,CYVQ,,,https://en.wikipedia.org/wiki/Norman_Wells_Airport,
@@ -1861,6 +1861,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 2572,ENCN,medium_airport,"Kristiansand Airport, Kjevik",58.204201,8.08537,57,EU,NO,NO-42,Kjevik,yes,ENCN,KRS,ENCN,,http://www.avinor.no/en/airport/kristiansand,https://en.wikipedia.org/wiki/Kristiansand_Airport%2C_Kjevik,
 2574,ENDU,medium_airport,Bardufoss Airport,69.055801,18.5404,252,EU,NO,NO-55,Målselv,yes,ENDU,BDU,ENDU,,https://avinor.no/en/airport/bardufoss-airport/,https://en.wikipedia.org/wiki/Bardufoss_Airport,
 2575,ENEV,medium_airport,"Harstad/Narvik Airport, Evenes",68.491302490234,16.678100585938,84,EU,NO,NO-18,Evenes,yes,ENEV,EVE,ENEV,,https://avinor.no/en/airport/harstadnarvik-airport/,https://en.wikipedia.org/wiki/Harstad/Narvik_Airport%2C_Evenes,"Harstad/Narvik lufthavn, Evenes"
+526544,ENFB,heliport,Statfjord B,61.20639,1.82889,,EU,NO,NO-XX,,no,ENFB,,ENFB,,,,
 2577,ENFL,medium_airport,Florø Airport,61.583599090576,5.0247201919556,37,EU,NO,NO-46,Florø,yes,ENFL,FRO,ENFL,,https://avinor.no/en/airport/floro-airport/,https://en.wikipedia.org/wiki/Flor%C3%B8_Airport,Floro
 2578,ENGM,large_airport,"Oslo Airport, Gardermoen",60.193901,11.1004,681,EU,NO,NO-32,Oslo (Gardermoen),yes,ENGM,OSL,ENGM,,https://avinor.no/en/airport/oslo-airport,"https://en.wikipedia.org/wiki/Oslo_Airport,_Gardermoen",
 29260,ENHA,small_airport,"Hamar Lufthavn, Stavsberg",60.8181,11.068,729,EU,NO,NO-34,Hamar,no,ENHA,HMR,ENHA,,https://hamarlufthavn.no/,https://en.wikipedia.org/wiki/Hamar_Airport%2C_Stafsberg,
