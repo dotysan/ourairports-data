@@ -164,6 +164,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 43809,AT-0052,heliport,Horn Heliport,48.669249,15.660705,1012,EU,AT,AT-3,Horn,no,LOAH,,LOAH,,,,
 43810,AT-0053,heliport,Krems University Hospital Helipad,48.412753,15.615224,647,EU,AT,AT-3,Krems,no,LOAK,,LOAK,,,,Christophorus 2
 43864,AT-0087,heliport,Wien-Meidling Heliport,48.173743,16.322633,737,EU,AT,AT-9,Vienna,no,LOAM,,LOAM,,,,Vienna Police
+601314,AT98,medium_airport,Wolf's Fang Runway,-71.517,8.8,3707,AN,AQ,AQ-U-A,,no,,WFR,AT98,,https://white-desert.com/about-us/wolfsfang-runway-logistics,https://en.wikipedia.org/wiki/Wolf%27s_Fang_Runway,"AT98, Wolf's Fang Runway"
 313838,AU-0081,small_airport,Lady Elliot Island Airstrip,-24.1129,152.7156,20,OC,AU,AU-QLD,Lady Elliot Island,no,YLTT,LYT,YLTT,,,,
 354527,AU-0456,small_airport,Gruyere Airport,-28.034548,123.81506,1542,OC,AU,AU-WA,Cosmo Newbery,yes,,GYZ,YGRM,,,,
 356438,AU-0490,small_airport,Packsaddle Airport,-30.29424,142.13758,342,OC,AU,AU-NSW,Packsaddle,no,YPAS,,YPAS,,,,
@@ -748,7 +749,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 1218,CKQ3,small_airport,North Spirit Lake Airport,52.4900016784668,-92.97109985351562,1082,NA,CA,CA-ON,North Spirit Lake,yes,,YNO,CKQ3,CKQ3,,https://en.wikipedia.org/wiki/North_Spirit_Lake_Airport,KQ3
 312535,CKR,small_airport,Crane Island Airstrip,48.5978,-122.9979,108,NA,US,US-WA,Crane Island,no,,CKR,,,,,
 16717,CKU,small_airport,Cordova Municipal Airport,60.5438995361,-145.727005005,12,NA,US,US-AK,Cordova,no,,CKU,CKU,CKU,,https://en.wikipedia.org/wiki/Cordova_Municipal_Airport,
-1244,CKV4,small_airport,North of Sixty Airport,60.316398620605,-103.12899780273,1195,NA,CA,CA-NT,Obre Lake,no,,YDW,CKV4,CKV4,,https://en.wikipedia.org/wiki/Obre_Lake/North_of_Sixty_Airport,KV4
+1244,CKV4,small_airport,North of Sixty Airport,60.315719,-103.131324,1195,NA,CA,CA-NT,Obre Lake,no,,YDW,CKV4,CKV4,,https://en.wikipedia.org/wiki/Obre_Lake/North_of_Sixty_Airport,
 16718,CKX,small_airport,Chicken Airport,64.066495,-141.951342,1640,NA,US,US-AK,Chicken,yes,,CKX,CKX,CKX,,https://en.wikipedia.org/wiki/Chicken_Airport,
 316486,CMT,small_airport,New Cametá Airport,-2.2468,-49.56,60,SA,BR,BR-PA,Cametá,no,,CMT,,,,,
 311902,CMZ,small_airport,Caia Airport,-17.8331,35.3341,156,AF,MZ,MZ-S,Caia,no,,CMZ,,,,,
@@ -1079,7 +1080,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 1933,CYVC,medium_airport,La Ronge Airport,55.151401519800004,-105.262001038,1242,NA,CA,CA-SK,La Ronge,yes,CYVC,YVC,CYVC,,,https://en.wikipedia.org/wiki/La_Ronge_(Barber_Field)_Airport,
 1935,CYVG,small_airport,Vermilion Airport,53.357714,-110.827388,2025,NA,CA,CA-AB,Vermilion,no,CYVG,YVG,CYVG,YVG,,https://en.wikipedia.org/wiki/Vermilion_Airport,YVG
 1936,CYVK,medium_airport,Vernon Regional Airport,50.246163,-119.330963,1140,NA,CA,CA-BC,Vernon,no,CYVK,YVE,CYVK,,,https://en.wikipedia.org/wiki/Vernon_Regional_Airport,YVK
-314953,CYVL,small_airport,Tommy Kochon Airport,67.02,-126.126,870,NA,CA,CA-NT,Colville Lake,yes,CYVL,YCK,CYVL,,,https://en.wikipedia.org/wiki/Colville_Lake/Tommy_Kochon_Aerodrome,
+314953,CYVL,small_airport,Tommy Kochon Airport,67.02015,-126.128364,870,NA,CA,CA-NT,Colville Lake,yes,CYVL,YCK,CYVL,,,https://en.wikipedia.org/wiki/Colville_Lake/Tommy_Kochon_Aerodrome,
 1937,CYVM,small_airport,Qikiqtarjuaq Airport,67.54656,-64.03141,21,NA,CA,CA-NU,Qikiqtarjuaq,yes,CYVM,YVM,CYVM,,,https://en.wikipedia.org/wiki/Qikiqtarjuaq_Airport,Broughton Island
 1938,CYVO,medium_airport,Val-d'Or Airport,48.0532989502,-77.7827987671,1107,NA,CA,CA-QC,Val-d'Or,yes,CYVO,YVO,CYVO,,http://www.arvo.qc.ca/,https://en.wikipedia.org/wiki/Val-d'Or_Airport,
 1939,CYVP,medium_airport,Kuujjuaq Airport,58.096099853515625,-68.4269027709961,129,NA,CA,CA-QC,Kuujjuaq,yes,CYVP,YVP,CYVP,,,https://en.wikipedia.org/wiki/Kuujjuaq_Airport,
