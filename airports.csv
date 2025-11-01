@@ -10985,6 +10985,7 @@
 341265,"AT13","small_airport","Zucchelli Ice Runway",-74.68109,164.12756,,"AN","AQ","AQ-U-A","Zucchelli Station","no",,,"AT13",,,,
 330063,"AT25","small_airport","Showa Station Skiway",-69.006167,39.59,95,"AN","AQ","AQ-U-A","Showa Station","no",,,"AT25",,,"https://en.wikipedia.org/wiki/Showa_Station_(Antarctica)","Syowa Station"
 336959,"AT28","medium_airport","Vostok Skiway",-78.466139,106.84825,11447,"AN","AQ","AQ-U-A","Vostok Station","no",,,"AT28",,,"https://en.wikipedia.org/wiki/Vostok_Station",
+601314,"AT98","medium_airport","Wolf's Fang Runway",-71.517,8.8,3707,"AN","AQ","AQ-U-A",,"no",,"WFR","AT98",,"https://white-desert.com/about-us/wolfsfang-runway-logistics","https://en.wikipedia.org/wiki/Wolf%27s_Fang_Runway","AT98, Wolf's Fang Runway"
 312384,"ATUA","small_airport","Utai Airstrip",-3.386,141.5868,707,"OC","PG","PG-SAN","Utai","no",,,"ATUA","UTAI",,,
 28102,"AU-0001","closed","Hopetoun Airfield",-33.90850067138672,120.14700317382812,,"OC","AU","AU-WA","Hopetoun","no",,,,,,,
 38201,"AU-0002","small_airport","Dwellingup Airstrip",-32.6926994324,116.074996948,,"OC","AU","AU-WA","Dwellingup","no",,,,"A01",,,"http://sabc.org.au/knav/airport/A01.html"
@@ -16760,7 +16761,7 @@
 40016,"CA-0370","closed","Sturdee Airport",51.20000076293945,-102.36666870117188,,"NA","CA","CA-SK",,"no",,,,,,,
 40017,"CA-0371","closed","Sturgeon Falls Airport",46.349998,-79.966667,,"NA","CA","CA-ON",,"no",,,,,,,"NP4"
 40018,"CA-0372","closed","Sturgeon Landing Airport",54.29175,-101.821902,900,"NA","CA","CA-SK",,"no",,,,,,,"KS2, KS2"
-40019,"CA-0373","closed","Sturt Point DEW Line Station",68.795504,-103.343156,,"NA","CA","CA-NU","Sturt Point","no",,,,,,,
+40019,"CA-0373","closed","Sturt Point DEW Line Station",68.795504,-103.343156,23,"NA","CA","CA-NU","Sturt Point","no",,,,,,,
 40020,"CA-0374","closed","Sweetgrass Landing Airport",58.91666793823242,-111.96666717529297,,"NA","CA","CA-AB",,"no",,,,,,,
 40021,"CA-0375","closed","Tabu Airport",47.334221,-65.433718,413,"NA","CA","CA-NB","Jeanne-Mance","no",,,,,,,"CJ2"
 40022,"CA-0376","closed","Talbot Lake Airport",57.33333206176758,-115.5999984741211,,"NA","CA","CA-AB",,"no",,,,,,,
@@ -16792,7 +16793,7 @@
 40048,"CA-0402","closed","Washademoak Airport",45.849998,-65.849998,185,"NA","CA","CA-NB","Butternut Valley","no",,,,,,,"CL2"
 40049,"CA-0403","closed","Webbwood Airport",46.3197,-81.8744,960,"NA","CA","CA-ON","Webbwood","no",,,,,,,"PL6"
 40050,"CA-0404","closed","Werenko Airport",48.799886,-93.081944,1284,"NA","CA","CA-ON","Werenko","no",,,,,,,"KC4, KC4"
-40051,"CA-0405","closed","Nudluardjk Lake / West Baffin DEW Line Station",68.610044,-73.242081,,"NA","CA","CA-NU","Nudluardjk Lake","no",,,,,,,
+40051,"CA-0405","closed","West Baffin DEW Line Station",68.610044,-73.242081,210,"NA","CA","CA-NU","Nudluardjk Lake","no",,,,,,,
 40052,"CA-0406","closed","Whitecourt (Forestry) Heliport",54.13333511352539,-115.66666412353516,,"NA","CA","CA-AB",,"no",,,,,,,
 40053,"CA-0407","small_airport","Wiebenville Airport",52.21702,-90.464859,1228,"NA","CA","CA-ON","Kenora District","no",,,"CXX2","CXX2",,"https://en.wikipedia.org/wiki/Wiebenville_Aerodrome",
 40054,"CA-0408","closed","Wildhay Airport",53.86666488647461,-117.55000305175781,,"NA","CA","CA-AB",,"no",,,,,,,
@@ -18903,7 +18904,7 @@
 1241,"CKU7","small_airport","Watrous Airport",51.68713736,-105.362319946,1700,"NA","CA","CA-SK","Watrous","no",,,"CKU7","CKU7",,"https://en.wikipedia.org/wiki/Watrous_Airport","KU7"
 1242,"CKV2","small_airport","Kelvington Airport",52.133301,-103.535004,1860,"NA","CA","CA-SK","Kelvington","no",,,"CKV2","CKV2",,"https://en.wikipedia.org/wiki/Kelvington_Airport",
 1243,"CKV3","heliport","Dryden Best Western Heliport",49.78329849243164,-92.83329772949219,1200,"NA","CA","CA-ON","Dryden","no",,,"CKV3","CKV3",,,"KV3"
-1244,"CKV4","small_airport","North of Sixty Airport",60.316398620605,-103.12899780273,1195,"NA","CA","CA-NT","Obre Lake","no",,"YDW","CKV4","CKV4",,"https://en.wikipedia.org/wiki/Obre_Lake/North_of_Sixty_Airport","KV4"
+1244,"CKV4","small_airport","North of Sixty Airport",60.315719,-103.131324,1195,"NA","CA","CA-NT","Obre Lake","no",,"YDW","CKV4","CKV4",,"https://en.wikipedia.org/wiki/Obre_Lake/North_of_Sixty_Airport",
 28428,"CKV5","seaplane_base","Stewart Lake Seaplane Base",49.8167,-93.716698,1200,"NA","CA","CA-ON",,"no",,,"CKV5","CKV5",,"https://en.wikipedia.org/wiki/Stewart_Lake_Water_Aerodrome","KV5"
 1245,"CKV6","small_airport","Churchbridge Airport",51.016700744628906,-101.81700134277344,1745,"NA","CA","CA-SK","Churchbridge","no",,,"CKV6","CKV6",,"https://en.wikipedia.org/wiki/Churchbridge_Airport","KV6"
 1246,"CKV7","small_airport","Wawota Airport",49.8944823433,-102.03045845,2168,"NA","CA","CA-SK","Wawota","no",,,"CKV7","CKV7",,"https://en.wikipedia.org/wiki/Wawota_Airport","KV7"
@@ -20998,7 +20999,7 @@
 1934,"CYVD","medium_airport","Virden / RJ (Bob) Andrew Field Regional Aerodrome",49.8783,-100.917999,1454,"NA","CA","CA-MB","Virden","no",,,"CYVD","YVD",,"https://en.wikipedia.org/wiki/Virden_Airport",
 1935,"CYVG","small_airport","Vermilion Airport",53.357714,-110.827388,2025,"NA","CA","CA-AB","Vermilion","no","CYVG","YVG","CYVG","YVG",,"https://en.wikipedia.org/wiki/Vermilion_Airport","YVG"
 1936,"CYVK","medium_airport","Vernon Regional Airport",50.246163,-119.330963,1140,"NA","CA","CA-BC","Vernon","no","CYVK","YVE","CYVK",,,"https://en.wikipedia.org/wiki/Vernon_Regional_Airport","YVK"
-314953,"CYVL","small_airport","Tommy Kochon Airport",67.02,-126.126,870,"NA","CA","CA-NT","Colville Lake","yes","CYVL","YCK","CYVL",,,"https://en.wikipedia.org/wiki/Colville_Lake/Tommy_Kochon_Aerodrome",
+314953,"CYVL","small_airport","Tommy Kochon Airport",67.02015,-126.128364,870,"NA","CA","CA-NT","Colville Lake","yes","CYVL","YCK","CYVL",,,"https://en.wikipedia.org/wiki/Colville_Lake/Tommy_Kochon_Aerodrome",
 1937,"CYVM","small_airport","Qikiqtarjuaq Airport",67.54656,-64.03141,21,"NA","CA","CA-NU","Qikiqtarjuaq","yes","CYVM","YVM","CYVM",,,"https://en.wikipedia.org/wiki/Qikiqtarjuaq_Airport","Broughton Island"
 1938,"CYVO","medium_airport","Val-d'Or Airport",48.0532989502,-77.7827987671,1107,"NA","CA","CA-QC","Val-d'Or","yes","CYVO","YVO","CYVO",,"http://www.arvo.qc.ca/","https://en.wikipedia.org/wiki/Val-d'Or_Airport",
 1939,"CYVP","medium_airport","Kuujjuaq Airport",58.096099853515625,-68.4269027709961,129,"NA","CA","CA-QC","Kuujjuaq","yes","CYVP","YVP","CYVP",,,"https://en.wikipedia.org/wiki/Kuujjuaq_Airport",
