@@ -2848,7 +2848,7 @@
 9495,"2KS8","small_airport","Vonada Airport",39.11371,-98.40338,1629,"NA","US","US-KS","Sylvan Grove","no",,,"2KS8","2KS8",,,
 9496,"2KS9","small_airport","Starshire Farm Airport",38.900001525878906,-95.58360290527344,990,"NA","US","US-KS","Topeka","no",,,"2KS9","2KS9",,,
 349875,"2KT4","small_airport","Eubank Field",36.796953,-85.966902,850,"NA","US","US-KY","Fountain Run","no",,,"2KT4","2KT4",,,
-9497,"2KY0","heliport","Jane Todd Crawford Hospital Heliport",37.24330139160156,-85.49330139160156,625,"NA","US","US-KY","Greensburg","no",,,"2KY0","2KY0",,,
+9497,"2KY0","closed","Jane Todd Crawford Hospital Heliport",37.243245,-85.493048,625,"NA","US","US-KY","Greensburg","no",,,,,,,"2KY0"
 9498,"2KY1","small_airport","Kitty Hawk Farm Ultralightport",37.61920166015625,-84.38140106201172,980,"NA","US","US-KY","Paint Lick","no",,,"2KY1","2KY1",,,
 9499,"2KY2","heliport","Livingston Hospital Heliport",37.262994,-88.227639,420,"NA","US","US-KY","Salem","no",,,"2KY2","2KY2",,,
 9500,"2KY3","small_airport","Plane-O-Field Airport",36.83470153808594,-86.45829772949219,655,"NA","US","US-KY","Bowling Green","no",,,"2KY3","2KY3",,,
@@ -3475,6 +3475,7 @@
 10113,"34OR","heliport","Providence Medical Center Heliport",45.528198,-122.612,234,"NA","US","US-OR","Portland","no",,,"34OR","34OR",,"https://en.wikipedia.org/wiki/Providence_Portland_Medical_Center",
 10114,"34PA","small_airport","Waltz Airport",39.76070022583008,-77.19300079345703,542,"NA","US","US-PA","Gettysburg","no",,,"34PA","34PA",,,
 45774,"34PN","small_airport","Fox Field",40.485556,-77.220556,730,"NA","US","US-PA","Newport","no",,,"34PN","34PN",,,
+601339,"34PS","heliport","Kalahari Heliport",41.097967,-75.387404,1757,"NA","US","US-PA","Pocono Manor","no",,,"34PS","34PS",,,
 337190,"34SC","small_airport","Toms Creek Airport",33.771833,-79.96625,80,"NA","US","US-SC","Kingstree","no",,,"34SC","34SC",,,
 10115,"34TA","small_airport","JSI Airport",33.167099,-96.487198,590,"NA","US","US-TX","Princeton","no",,,"34TA","34TA",,,
 10116,"34TE","small_airport","Bee Creek Airport",32.23210144042969,-97.00859832763672,760,"NA","US","US-TX","Maypearl","no",,,"34TE","34TE",,,
@@ -4151,7 +4152,7 @@
 10808,"3TE9","small_airport","Pinoak Airport",30.10580062866211,-94.95880126953125,91,"NA","US","US-TX","Dayton","no",,,"3TE9","3TE9",,,
 10809,"3TN0","small_airport","Indian Springs Airport",36.535,-82.423889,1580,"NA","US","US-TN","Kingsport","no",,,"3TN0","3TN0",,,
 10810,"3TN1","heliport","Methodist Hospital-North Heliport",35.23400115966797,-89.89289855957031,346,"NA","US","US-TN","Memphis","no",,,"3TN1","3TN1",,,
-10811,"3TN2","seaplane_base","Merian Seaplane Base",35.82170104980469,-84.61100006103516,740,"NA","US","US-TN","Kingston","no",,,"3TN2","3TN2",,,
+10811,"3TN2","closed","Merian Seaplane Base",35.821701,-84.611,740,"NA","US","US-TN","Kingston","no",,,,,,,"3TN2"
 10812,"3TN3","small_airport","Wayne's World Airport",36.264622,-88.755541,440,"NA","US","US-TN","Dresden","no",,,"3TN3","3TN3",,,
 10813,"3TN4","small_airport","Kenner Farm Airport",35.881036,-83.726641,940,"NA","US","US-TN","Seymour","no",,,"3TN4","3TN4",,,
 10814,"3TN5","heliport","Holston Valley Medical Center Heliport",36.553643,-82.552815,1270,"NA","US","US-TN","Kingsport","no",,,"3TN5","3TN5",,,"Wellmont"
@@ -16451,7 +16452,7 @@
 39706,"CA-0060","closed","Bredenbury Airport",50.93333435058594,-102.05000305175781,,"NA","CA","CA-SK",,"no",,,,,,,
 39707,"CA-0061","closed","Bristol Field Airport",47.3101399785,-53.9902496338,28,"NA","CA","CA-NL","Argentia","no",,,,,,"https://en.wikipedia.org/wiki/McAndrew_AFB","Naval Station Argentia, McAndrew Air Force Base"
 42745,"CA-0062","small_airport","1797 Diamondview Road Private Strip",45.331119537353516,-76.07295989990234,,"NA","CA","CA-ON","Carp","no",,,,,,,
-39709,"CA-0063","closed","Buchans Airport",48.8478295395,-56.838884353599994,,"NA","CA","CA-NL","Buchans","no",,,,,,,
+39709,"CA-0063","closed","Buchans Airport",48.84783,-56.838884,889,"NA","CA","CA-NL","Buchans","no",,,,,,"https://en.wikipedia.org/wiki/Buchans","YZM"
 39710,"CA-0064","closed","Buckingham Airport",45.625687,-75.39299,,"NA","CA","CA-QC","L'Ange-Gardien","no",,,,,,,"SC2"
 39711,"CA-0065","closed","Budworm City Airport",47.529597,-66.629645,,"NA","CA","CA-NB","Balmoral Parish","no",,,,,,,"CT4, CT4"
 39712,"CA-0066","closed","Buffalo Creek Airport",56.6121839037,-113.069143295,,"NA","CA","CA-AB","Buffalo Creek","no",,,,,,,
@@ -46232,7 +46233,7 @@
 319550,"MX-0243","small_airport","Aeródromo Cerro de Ortega",18.781,-103.75662,59,"NA","MX","MX-COL","Tecoman","no",,,,"COG",,,
 319551,"MX-0244","small_airport","Aeródromo de Rancho Lanzarote",19.671231,-99.3225,7878,"NA","MX","MX-MEX","Cañada de Cisneros","no",,,,"RZT",,,
 319552,"MX-0245","small_airport","Aeroclub Valle de Bravo Airport",19.1452,-100.074837,7229,"NA","MX","MX-MEX","Valle de Bravo","no",,,,"ACJ",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Valle_de_Bravo","MX69"
-319575,"MX-0246","small_airport","Aeródromo La Begoña",21.121375,-100.412786,6740,"NA","MX","MX-GUA","Doctor Mora","no",,,,"LBG",,,
+319575,"MX-0246","small_airport","La Begoña Airport",21.126105,-100.40596,6740,"NA","MX","MX-GUA","Doctor Mora","no",,,,"LBG",,,
 319576,"MX-0247","small_airport","Aeródromo Sofía",20.539156,-101.451777,5650,"NA","MX","MX-GUA","Irapuato","no",,,,"SOF",,,
 319577,"MX-0248","small_airport","Aeródromo de Campo Cortés",20.775255,-101.347954,5748,"NA","MX","MX-GUA","Irapuato","no",,,,"CCR",,,
 319578,"MX-0249","small_airport","Estación Aérea Nº6 de la Fuerza Aérea Mexicana (Campo Militar 16-A Irapuato)",20.670116,-101.315838,5700,"NA","MX","MX-GUA","Irapuato","no",,,,,,"https://es.wikipedia.org/wiki/Estaci%C3%B3n_a%C3%A9rea_n.%C2%B0_6_Irapuato","MM70, MM2K, EAM-6"
@@ -56277,7 +56278,7 @@
 5926,"SBKG","medium_airport","Presidente João Suassuna Airport",-7.269662,-35.896057,1646,"SA","BR","BR-PB","Campina Grande","yes","SBKG","CPV","SBKG","PB0003","https://www.aenabrasil.com.br/pt/aeroportos/aeroporto-de-campina-grande-presidente-joao-suassuna/index.html","https://en.wikipedia.org/wiki/Campina_Grande_Airport",
 5927,"SBKP","medium_airport","Viracopos International Airport",-23.007404,-47.134502,2170,"SA","BR","BR-SP","Campinas","yes","SBKP","VCP","SBKP","SP0003","http://www.aeroportoviracopos.net/","https://en.wikipedia.org/wiki/Viracopos-Campinas_International_Airport",
 35417,"SBLB","heliport","Petrobras P-25 Platform Helideck",-22.1094,-39.916901,70,"SA","BR","BR-RJ","Macaé","no",,,"SBLB","9PZA",,,"HELIOPS, Oil & Gas, Offshore, Platform, Semisub, IMO 8755792. Albacora cluster"
-5928,"SBLE","small_airport","Coronel Horácio de Mattos Airport",-12.4823,-41.277,1676,"SA","BR","BR-BA","Lençóis","yes","SBLE","LEC","SBLE","SP0008",,"https://en.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Airport","Chapada Diamantina National Park, Lençóis Airport"
+5928,"SBLE","small_airport","Coronel Horácio de Mattos Airport",-12.4823,-41.277,1676,"SA","BR","BR-BA","Lençóis","yes","SBLE","LEC","SBLE","BA0006",,"https://en.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Airport","Chapada Diamantina National Park, Lençóis Airport"
 5929,"SBLJ","medium_airport","Lages Airport",-27.782101,-50.281502,3065,"SA","BR","BR-SC","Lages","yes","SBLJ","LAJ","SBLJ","SC0007",,"https://en.wikipedia.org/wiki/Lages_Airport","Antônio Correia Pinto de Macedo Airport, Guarujá Federal Airport"
 5930,"SBLN","medium_airport","Lins Airport",-21.663491,-49.729954,1575,"SA","BR","BR-SP","Lins","no",,"LIP","SWXQ","SP0015",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Lins","SBLN"
 5931,"SBLO","medium_airport","Governor José Richa Airport",-23.334375,-51.128365,1867,"SA","BR","BR-PR","Londrina","yes","SBLO","LDB","SBLO","PR0003",,"https://en.wikipedia.org/wiki/Londrina_Airport","Londrina Airport"
@@ -69620,6 +69621,8 @@
 601084,"US-12772","closed","Cottonwood Ranch Airport",45.786804,-101.047424,1984,"NA","US","US-SD","McLaughlin","no",,,,,,,"SD31"
 601093,"US-12773","closed","Rabbit Creek Airport",61.07977,-149.827445,35,"NA","US","US-AK","Anchorage","no",,,,,,,"AK92"
 601196,"US-12774","closed","Palisades NOLF",33.641111,-117.880833,93,"NA","US","US-CA","Newport Beach","no",,,,,,"https://en.wikipedia.org/wiki/Naval_Air_Station_Los_Alamitos_Naval_Outlying_Landing_Fields",
+601337,"US-12775","small_airport","Skyfall Airport",36.6775,-86.12875,853,"NA","US","US-KY","Scottsville","no",,,"2KY0","2KY0",,,
+601341,"US-12776","seaplane_base","Stiner Cove Seaplane Base",36.393485,-83.839662,1004,"NA","US","US-TN","Sharps Chapel","no",,,"3TN2","3TN2",,,
 334319,"US-1278","heliport","Foote Farm Association RLA Heliport",43.989494,-73.239858,167,"NA","US","US-VT","Cornwall","no",,,"VT54","VT54",,,
 334321,"US-1279","heliport","West Street Property Heliport",43.987683,-73.25274,181,"NA","US","US-VT","Cornwall","no",,,"VT24","VT24",,,"Quesnel Farm"
 334323,"US-1280","small_airport","Mahoney Farm Airport",38.849622,-98.668278,1836,"NA","US","US-KS","Dorrance","no",,,"2KS4","2KS4",,,
