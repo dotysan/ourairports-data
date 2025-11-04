@@ -1803,7 +1803,7 @@
 8410,"1LA6","heliport","Christus Highland Heliport",32.423673,-93.715941,160,"NA","US","US-LA","Shreveport","no",,,"LA85","LA85",,,"1LA6, Highland Hospital"
 8411,"1LA7","heliport","Savoy Medical Center Heliport",30.642499923706055,-92.41780090332031,100,"NA","US","US-LA","Mamou","no",,,"1LA7","1LA7",,,
 8412,"1LA8","heliport","S.Fresh Water Bayou Heliport",29.60110092163086,-92.26010131835938,4,"NA","US","US-LA","Intracoastal City","no",,,"1LA8","1LA8",,,
-8413,"1LA9","heliport","Chevron Intracoastal Heliport",29.786541,-92.161092,,"NA","US","US-LA","Intracoastal City","no",,,"1LA9","1LA9",,,
+8413,"1LA9","closed","Chevron Intracoastal Heliport",29.786541,-92.161092,,"NA","US","US-LA","Intracoastal City","no",,,,,,,"1LA9"
 8415,"1LL1","heliport","Lawrence Co Memorial Hospital Heliport",38.728099823,-87.69470214840001,470,"NA","US","US-IL","Lawrenceville","no",,,"1LL1","1LL1",,,
 8416,"1LL2","small_airport","Spring Brook Airport",41.300628,-88.633271,500,"NA","US","US-IL","Seneca","no",,,"1LL2","1LL2",,,
 8417,"1LL4","small_airport","Sies Landing Area Airport",39.183227,-89.69726,690,"NA","US","US-IL","Litchfield","no",,,"1LL4","1LL4",,,
@@ -2347,7 +2347,7 @@
 8989,"24CA","heliport","Mesa Heliport",34.2047,-118.170998,1520,"NA","US","US-CA","La Cañada Flintridge","no",,,"24CA","24CA",,,
 45327,"24CD","heliport","Michigan River Ranch Heliport",40.567914,-106.060647,8620,"NA","US","US-CO","Walden","no",,,"24CD","24CD",,,
 8990,"24CL","small_airport","Boswell Airport",36.088444,-119.541392,205,"NA","US","US-CA","Corcoran","no",,,"24CL","24CL",,,"Salyer Farms"
-8992,"24CO","heliport","Ibm Building 910 Heliport",40.06639862060547,-105.20600128173828,5150,"NA","US","US-CO","Boulder","no",,,"24CO","24CO",,,
+8992,"24CO","closed","Building 910 Heliport",40.066399,-105.206001,5150,"NA","US","US-CO","Boulder","no",,,,,,,"24CO, IBM"
 45341,"24CT","small_airport","Bee Field",41.582234,-71.968226,280,"NA","US","US-CT","Jewett City","no",,,"24CT","24CT",,,
 8995,"24FL","small_airport","Garcon Field",30.495574,-87.086821,16,"NA","US","US-FL","Milton","no",,,"24FL","24FL",,,"""Garçon"""
 8996,"24GA","heliport","Caleb Heliport",33.78120040893555,-84.01460266113281,960,"NA","US","US-GA","Snellville","no",,,"24GA","24GA",,,
@@ -32813,7 +32813,7 @@
 319978,"IT-0379","small_airport","Rosangeles Airfield",45.362976,9.017057,360,"EU","IT","IT-25","Rosate (MI)","no",,,,"MIROS",,,"Aviosuperficie Rosangeles, Cascina Rota"
 319980,"IT-0380","small_airport","Ulcor Airfield",39.9787,8.6792,157,"EU","IT","IT-88","Solarusa (OR)","no",,,,"ORSOL",,,"Campo di Volo A.S. Ulcor"
 319981,"IT-0381","small_airport","Campo di Volo Vallermosa",39.3561,8.7919,235,"EU","IT","IT-88","Vallermosa (CA)","no",,,,"CAVAL",,,
-319983,"IT-0382","small_airport","Gemini Flying Field",39.894733,18.189937,323,"EU","IT","IT-75","Ugento (LE)","no",,,,"LEUGN",,,"LE05, Campo di Volo Gemini, Campo Volo Faco Fly, Faco Fly"
+319983,"IT-0382","small_airport","Faco Fly",39.894733,18.189937,323,"EU","IT","IT-75","Ugento (LE)","no",,,,"LEUGN",,,"LE05, Campo di Volo Gemini, Campo Volo Faco Fly, Faco Fly"
 319993,"IT-0383","small_airport","Campo di Volo Giovanni Zaccini",41.560349,13.34412,492,"EU","IT","IT-62","Ceccano (FR)","no",,,,"FRCCC",,,"Giovanni Zaccini"
 319995,"IT-0384","small_airport","Il Grifo Airfield",41.671186,13.278646,,"EU","IT","IT-62","Ferentino (FR)","no",,,,"FRFEG",,,"Campo di Volo ""Il Grifo"""
 319996,"IT-0385","small_airport","Rains Airfield",41.146,14.338803,97,"EU","IT","IT-72","Caiazzo (CE)","no",,,,"CECZZ",,,"Campo di Volo Rains"
@@ -32964,7 +32964,7 @@
 331644,"IT-0530","small_airport","Casalfiumanese Airfield",44.28966,11.625632,,"EU","IT","IT-45","Casalfiumanese (BO)","no",,,,,,,"Campo di Volo Casalfiumanese"
 326882,"IT-0531","small_airport","Apricena Fly Airfield",41.79806,15.419932,443,"EU","IT","IT-75","Apricena (FG)","no",,,,"FGAPR",,,"FG08, Campo volo Apricena Fly"
 326883,"IT-0532","small_airport","Volare Un Po Ultralight Airfield",45.01642,10.100069,100,"EU","IT","IT-45","Polesine Zibello (PR)","no",,,,"PRPOL",,,"Campo di Volo Volare Un Po"
-327167,"IT-0533","small_airport","Ali dello Stilaro Flying Field",38.424475,16.551869,85,"EU","IT","IT-78","Monasterace (RC)","no",,,,,,,"Campo di Volo Ali dello Stilaro"
+327167,"IT-0533","closed","Ali dello Stilaro Flying Field",38.424475,16.551869,85,"EU","IT","IT-78","Monasterace (RC)","no",,,,,,,"Campo di Volo Ali dello Stilaro"
 328916,"IT-0534","small_airport","Rivaltella Private Airfield",44.642004,10.591759,,"EU","IT","IT-45","Reggio nell'Emilia (RE)","no",,,,,,,"Campo di volo privato Rivaltella"
 329141,"IT-0535","heliport","Eliporto di Lanusei",39.890822,9.50585,,"EU","IT","IT-88",,"no",,,,,,,
 329236,"IT-0536","heliport","Eliporto di Gela",37.066235,14.282138,,"EU","IT","IT-82",,"no",,,,,,,
@@ -69623,6 +69623,8 @@
 601196,"US-12774","closed","Palisades NOLF",33.641111,-117.880833,93,"NA","US","US-CA","Newport Beach","no",,,,,,"https://en.wikipedia.org/wiki/Naval_Air_Station_Los_Alamitos_Naval_Outlying_Landing_Fields",
 601337,"US-12775","small_airport","Skyfall Airport",36.6775,-86.12875,853,"NA","US","US-KY","Scottsville","no",,,"2KY0","2KY0",,,
 601341,"US-12776","seaplane_base","Stiner Cove Seaplane Base",36.393485,-83.839662,1004,"NA","US","US-TN","Sharps Chapel","no",,,"3TN2","3TN2",,,
+601344,"US-12777","small_airport","Jeff Isl Airport",29.967511,-91.984269,7,"NA","US","US-LA","Lafayette","no",,,"1LA9","1LA9",,,
+601347,"US-12778","small_airport","Caddoa Creek Airport",38.05787,-102.926846,3780,"NA","US","US-CO","Caddoa","no",,,"24CO","24CO",,,
 334319,"US-1278","heliport","Foote Farm Association RLA Heliport",43.989494,-73.239858,167,"NA","US","US-VT","Cornwall","no",,,"VT54","VT54",,,
 334321,"US-1279","heliport","West Street Property Heliport",43.987683,-73.25274,181,"NA","US","US-VT","Cornwall","no",,,"VT24","VT24",,,"Quesnel Farm"
 334323,"US-1280","small_airport","Mahoney Farm Airport",38.849622,-98.668278,1836,"NA","US","US-KS","Dorrance","no",,,"2KS4","2KS4",,,
@@ -81327,7 +81329,7 @@
 315831,"YCF","seaplane_base","Cortes Bay Water Aerodrome",50.063,-124.930002,,"NA","CA","CA-BC","Cortes Bay","no",,"YCF",,,,,"AM6"
 27452,"YCFD","small_airport","Camfield Airport",-17.021699905395508,131.32699584960938,,"OC","AU","AU-NT",,"no","YCFD","CFI","YCFD",,,,
 38282,"YCFH","small_airport","Clifton Hills Airport",-27.018299,138.891998,105,"OC","AU","AU-SA","Clifton Hills","no",,"CFH","YCFH",,,"https://en.wikipedia.org/wiki/Clifton_Hills_Landing_Strip",
-27454,"YCFL","small_airport","Cape Flattery Airport",-14.970832,145.311667,3609,"OC","AU","AU-QLD",,"no",,"CQP","YCFL",,,,
+27454,"YCFL","small_airport","Cape Flattery Airport",-14.970832,145.311667,43,"OC","AU","AU-QLD",,"no",,"CQP","YCFL",,,,
 38283,"YCFN","small_airport","Clifton Airport",-27.927507,151.848178,1450,"OC","AU","AU-QLD",,"no",,,"YCFN",,"http://loneeagleflyingschool.org.au/home.htm",,
 27132,"YCFS","medium_airport","Coffs Harbour Airport",-30.320601,153.115997,18,"OC","AU","AU-NSW","Coffs Harbour","yes","YCFS","CFS","YCFS",,,"https://en.wikipedia.org/wiki/Coffs_Harbour_Airport","RAAF Base Coffs Harbour"
 27455,"YCGH","small_airport","Clonagh Airport",-20.13330078125,140.68299865722656,,"OC","AU","AU-QLD",,"no",,,"YCGH",,,,
