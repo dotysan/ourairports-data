@@ -9850,7 +9850,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 315831,YCF,seaplane_base,Cortes Bay Water Aerodrome,50.063,-124.930002,,NA,CA,CA-BC,Cortes Bay,no,,YCF,,,,,AM6
 27452,YCFD,small_airport,Camfield Airport,-17.021699905395508,131.32699584960938,,OC,AU,AU-NT,,no,YCFD,CFI,YCFD,,,,
 38282,YCFH,small_airport,Clifton Hills Airport,-27.018299,138.891998,105,OC,AU,AU-SA,Clifton Hills,no,,CFH,YCFH,,,https://en.wikipedia.org/wiki/Clifton_Hills_Landing_Strip,
-27454,YCFL,small_airport,Cape Flattery Airport,-14.970832,145.311667,3609,OC,AU,AU-QLD,,no,,CQP,YCFL,,,,
+27454,YCFL,small_airport,Cape Flattery Airport,-14.970832,145.311667,43,OC,AU,AU-QLD,,no,,CQP,YCFL,,,,
 27132,YCFS,medium_airport,Coffs Harbour Airport,-30.320601,153.115997,18,OC,AU,AU-NSW,Coffs Harbour,yes,YCFS,CFS,YCFS,,,https://en.wikipedia.org/wiki/Coffs_Harbour_Airport,RAAF Base Coffs Harbour
 26952,YCGO,small_airport,Chillagoe Airport,-17.138386,144.528494,1110,OC,AU,AU-QLD,Chillagoe,no,YCGO,LLG,YCGO,,,https://en.wikipedia.org/wiki/Chillagoe_Airport,
 38284,YCHB,small_airport,Cherrabah Airport,-28.4301,152.08895,2228,OC,AU,AU-QLD,Cherrabah Homestead Resort,no,,CRH,YCHB,,,,
