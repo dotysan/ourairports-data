@@ -2574,7 +2574,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 31984,FOOY,small_airport,Mayumba Airport,-3.458372,10.676539,13,AF,GA,GA-5,Mayumba,no,FOOY,MYB,FOOY,,,https://en.wikipedia.org/wiki/Mayumba_Airport,Mayoumba
 312910,FOY,small_airport,Foya Airport,8.3513,-10.2269,1480,AF,LR,LR-LO,Foya,no,,FOY,,,,https://en.wikipedia.org/wiki/Foya_Airport,
 2968,FPPR,medium_airport,Principe Airport,1.66294,7.41174,591,AF,ST,ST-P,São Tomé & Príncipe,yes,FPPR,PCP,FPPR,,,https://en.wikipedia.org/wiki/Pr%C3%ADncipe_Airport,
-2969,FPST,large_airport,São Tomé International Airport,0.378175,6.71215,33,AF,ST,ST-01,São Tomé,yes,FPST,TMS,FPST,,,https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_International_Airport,
+2969,FPST,medium_airport,São Tomé International Airport,0.378175,6.71215,33,AF,ST,ST-01,São Tomé,yes,FPST,TMS,FPST,,,https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_International_Airport,
 29661,FQAG,small_airport,Angoche Airport,-16.18187,39.945217,121,AF,MZ,MZ-N,Angoche,no,FQAG,ANO,FQAG,,,https://en.wikipedia.org/wiki/Angoche_Airport,
 29706,FQBI,small_airport,Bilene Airport,-25.265985,33.238598,118,AF,MZ,MZ-G,Bilene,no,FQBI,,FQBI,,,https://en.wikipedia.org/wiki/Bilene_Airport,
 2970,FQBR,medium_airport,Beira Airport,-19.7964,34.9076,33,AF,MZ,MZ-S,Beira,yes,FQBR,BEW,FQBR,,,https://en.wikipedia.org/wiki/Beira_Airport,
@@ -4065,7 +4065,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 19864,KFFM,small_airport,Fergus Falls Municipal Airport - Einar Mickelson Field,46.28440094,-96.15670013,1183,NA,US,US-MN,Fergus Falls,no,KFFM,FFM,KFFM,FFM,http://www.ci.fergus-falls.mn.us/index.asp?Type=B_BASIC&SEC=%7B6362A7EF-126F-4694-9568-23D51B3A6337%7D,https://en.wikipedia.org/wiki/Fergus_Falls_Municipal_Airport,
 3528,KFFO,medium_airport,Wright-Patterson Air Force Base,39.826099,-84.048302,823,NA,US,US-OH,Dayton,no,KFFO,FFO,KFFO,FFO,http://www.wpafb.af.mil/,https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base,"Wilbur Wright Field, Fairfield Air Depot"
 19865,KFFT,small_airport,Capital City Airport,38.181698,-84.906764,806,NA,US,US-KY,Frankfort,no,KFFT,FFT,KFFT,FFT,http://cca.ky.gov/Pages/default.aspx,https://en.wikipedia.org/wiki/Capital_City_Airport_(Kentucky),
-19866,KFFZ,small_airport,Falcon Field,33.4608001709,-111.727996826,1394,NA,US,US-AZ,Mesa,no,KFFZ,MSC,KFFZ,FFZ,http://www.falconfieldairport.com/,https://en.wikipedia.org/wiki/Falcon_Field_(Arizona),
+19866,KFFZ,small_airport,Falcon Field,33.4608,-111.727997,1394,NA,US,US-AZ,Mesa,no,KFFZ,MSC,KFFZ,FFZ,http://www.falconfieldairport.com/,https://en.wikipedia.org/wiki/Falcon_Field_(Arizona),
 19868,KFHR,medium_airport,Friday Harbor Airport,48.523654,-123.024645,113,NA,US,US-WA,Friday Harbor,yes,KFHR,FRD,KFHR,FHR,http://www.portfridayharbor.org/?page_id=49,https://en.wikipedia.org/wiki/Friday_Harbor_Airport,
 3529,KFHU,medium_airport,Sierra Vista Municipal Airport / Libby Army Air Field,31.587383,-110.348225,4719,NA,US,US-AZ,Fort Huachuca / Sierra Vista,no,KFHU,FHU,KFHU,FHU,,https://en.wikipedia.org/wiki/Sierra_Vista_Municipal_Airport,"fort huachuca, sierra vista, libby"
 19872,KFKL,medium_airport,Venango Regional Airport,41.3778991699,-79.8603973389,1540,NA,US,US-PA,Franklin,no,KFKL,FKL,KFKL,FKL,,https://en.wikipedia.org/wiki/Venango_Regional_Airport,
@@ -4077,7 +4077,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 19877,KFLP,small_airport,Marion County Regional Airport,36.29090118,-92.59030151,719,NA,US,US-AR,Flippin,no,KFLP,FLP,KFLP,FLP,http://www.marioncountyairport.com/default.htm,https://en.wikipedia.org/wiki/Marion_County_Regional_Airport,
 3533,KFLV,small_airport,Sherman Army Air Field,39.3683013916,-94.9147033691,772,NA,US,US-KS,Fort Leavenworth,no,KFLV,FLV,KFLV,FLV,http://www.lvks.org/department/division.php?structureid=141,https://en.wikipedia.org/wiki/Sherman_Army_Airfield,
 19878,KFLX,small_airport,Fallon Municipal Airport,39.4990997314,-118.749000549,3963,NA,US,US-NV,Fallon,no,KFLX,FLX,KFLX,FLX,,https://en.wikipedia.org/wiki/Fallon_Municipal_Airport,
-3534,KFME,medium_airport,Tipton Airport,39.08539962769999,-76.7593994141,150,NA,US,US-MD,Fort Meade(Odenton),no,KFME,FME,KFME,FME,http://tiptonairport.org/,https://en.wikipedia.org/wiki/Tipton_Airport,Fort George G. Meade Army Airfield
+3534,KFME,medium_airport,Fort Meade Executive Airport,39.0854,-76.759399,150,NA,US,US-MD,Fort Meade(Odenton),no,KFME,FME,KFME,FME,http://tiptonairport.org/,https://en.wikipedia.org/wiki/Tipton_Airport,"Fort George G. Meade Army Airfield, Tipton Airport"
 19879,KFMH,small_airport,Cape Cod Coast Guard Air Station,41.657899,-70.52163,131,NA,US,US-MA,Falmouth,no,KFMH,FMH,KFMH,FMH,http://www.uscg.mil/d1/airstacapecod/,https://en.wikipedia.org/wiki/Coast_Guard_Air_Station_Cape_Cod,"Otis Airforce Base, Otis Air National Guard Base"
 19881,KFMN,medium_airport,Four Corners Regional Airport,36.741199,-108.230003,5506,NA,US,US-NM,Farmington,no,KFMN,FMN,KFMN,FMN,,https://en.wikipedia.org/wiki/Four_Corners_Regional_Airport,
 19882,KFMY,medium_airport,Page Field,26.58659935,-81.86329650879999,17,NA,US,US-FL,Fort Myers,no,KFMY,FMY,KFMY,FMY,http://www.flylcpa.com/aboutfmy,https://en.wikipedia.org/wiki/Page_Field,
