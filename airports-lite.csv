@@ -7991,6 +7991,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 41037,SK-002,small_airport,El Encanto Airport,-1.7533333333299999,-73.20472222219999,420,SA,CO,CO-AMA,El Encanto,no,,ECO,,ECO,,,
 41016,SK-003,small_airport,Miriti Parana Airport,-0.886017,-70.983446,409,SA,CO,CO-AMA,Mirití-Paraná,no,,MIX,,MIX,,,
 41073,SK-005,small_airport,Arboletes Airport,8.855118,-76.422676,13,SA,CO,CO-ANT,Arboletes,no,,ARO,,ARO,,https://fr.wikipedia.org/wiki/A%C3%A9roport_d%27Arboletes,
+323872,SK-0072,small_airport,Komoča ULM,47.97054,18.040467,,EU,SK,SK-NJ,Komoča,no,LZKA,,,LZKOMO,,,
 41076,SK-012,small_airport,Mulatos Airport,8.64019,-76.71884,20,SA,CO,CO-ANT,Mulatos,no,,ULS,,ULS,,,
 41074,SK-020,small_airport,San Juan De Uraba Airport,8.766667,-76.533333,10,SA,CO,CO-ANT,San Juan De Uraba,no,,SJR,,SJR,,,
 41072,SK-021,small_airport,San Pedro Airport,8.289325,-76.375006,420,SA,CO,CO-ANT,San Pedro de Urabá,no,,NPU,,PDA,,,
@@ -8673,6 +8674,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 321214,UA-0107,small_airport,Kam'yanets'-Podil's'kyi Airfield,48.695631,26.609471,700,EU,UA,UA-68,Kamyan'ka,no,,KCP,UKLK,,,,"Mekanik Avia, Механик Авиа, УКЛК"
 332720,UA-0127,small_airport,Kosino Spa Resort Airfield,48.25318,22.498503,107,EU,UA,UA-21,Koson',no,UKMN,,UKMN,,,,Kosino
 3549,UA30,medium_airport,Batken Airport,40.042899,70.83784,3602,AS,KG,KG-B,Batken,yes,UCFB,,UCFB,,http://www.airport.kg/index.php?option=com_content&view=article&id=4&Itemid=6,https://en.wikipedia.org/wiki/Batken_Airport,"UAFB, Баткен"
+26413,UA66,small_airport,Chirchik Airport,41.512264,69.574699,2296,AS,UZ,UZ-TO,Chirchik,no,UZTC,,UZTC,,,,"UTTC, UA66"
 6421,UAAA,large_airport,Almaty International Airport,43.354267,77.042828,2234,AS,KZ,KZ-ALA,Almaty,yes,UAAA,ALA,UAAA,,,https://en.wikipedia.org/wiki/Almaty_International_Airport,Alma Ata
 6422,UAAH,medium_airport,Balkhash Airport,46.894246,75.004533,1446,AS,KZ,KZ-KAR,Balkhash,yes,UAAH,BXH,UAAH,,,https://en.wikipedia.org/wiki/Balkhash_Airport,Balqash
 318380,UAAL,small_airport,Usharal Airport,46.190767,80.830922,1288,AS,KZ,KZ-JET,Usharal,yes,UAAL,USJ,UAAL,,,https://en.wikipedia.org/wiki/Usharal_Airport,Enbekshi Airport
@@ -8903,7 +8905,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 42924,URMG,medium_airport,Grozny Airport,43.388106,45.699772,548,EU,RU,RU-CE,Grozny,yes,URMG,GRV,URMG,,,https://en.wikipedia.org/wiki/Grozny_Airport,"Grozny North, Grozny Severny, Grozny, Аэропорт Грозный Северный, Аэропорт Грозный"
 6513,URML,medium_airport,Makhachkala Uytash International Airport,42.816799,47.652302,12,EU,RU,RU-DA,Makhachkala,yes,URML,MCX,URML,,,https://en.wikipedia.org/wiki/Uytash_airport,
 6514,URMM,medium_airport,Mineralnyye Vody Airport,44.225101470947266,43.08190155029297,1054,EU,RU,RU-STA,Mineralnyye Vody,yes,URMM,MRV,URMM,,,https://en.wikipedia.org/wiki/Mineralnye_Vody_Airport,
-6515,URMN,medium_airport,Nalchik Airport,43.512901306152344,43.636600494384766,1461,EU,RU,RU-KB,Nalchik,yes,URMN,NAL,URMN,,,https://en.wikipedia.org/wiki/Nalchik_Airport,
+6515,URMN,medium_airport,Nalchik Airport,43.512901,43.6366,1461,EU,RU,RU-KB,Nalchik,yes,URMN,NAL,URMN,,,https://en.wikipedia.org/wiki/Nalchik_Airport,"УРМН, Нальчик"
 6516,URMO,medium_airport,Vladikavkaz Beslan International Airport,43.205101,44.606602,1673,EU,RU,RU-SE,Beslan,yes,URMO,OGZ,URMO,,,https://en.wikipedia.org/wiki/Beslan_Airport,"Beslan Airport, Аэропорт Беслан, Аэропорт Владикавказ"
 43689,URMS,medium_airport,Magas Airport,43.323268,45.012568,1165,AS,RU,RU-IN,Sunzha,yes,URMS,IGT,URMS,,,https://en.wikipedia.org/wiki/Magas_Airport,"Sleptsovskaya Airport, Ingushetiya Airport, Ingushetia Airport, Аэропорт Магас, Аэропорт Слепцовская, Аэропорт Ингушетия, Nazran"
 6517,URMT,medium_airport,Stavropol Shpakovskoye Airport,45.10919952392578,42.11280059814453,1486,EU,RU,RU-STA,Stavropol,yes,URMT,STW,URMT,,,https://en.wikipedia.org/wiki/Stavropol_Shpakovskoye_Airport,
@@ -9766,7 +9768,6 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 328940,WZQ,small_airport,Urad Middle Banner Airport,41.460289,108.539085,3996,AS,CN,CN-15,Urad Middle Banner,no,,WZQ,,,,https://ceb.wikipedia.org/wiki/Urad_Middle_Banner_Airport,
 26128,X44,seaplane_base,Miami Seaplane Base,25.783075,-80.177545,0,NA,US,US-FL,Miami,no,,MPB,KX44,X44,,https://en.wikipedia.org/wiki/Miami_Seaplane_Base,
 317272,XBB,seaplane_base,Blubber Bay Seaplane Base,49.793958,-124.621064,0,NA,CA,CA-BC,Blubber Bay,no,,XBB,,,,,
-596510,XCBA,medium_airport,Ok365comdev,10,12,12,AS,VN,VN-NC,Hồ Chí Minh,yes,CCAA,,XCBA,CA12,https://ok365com.dev/nap-tien-ok365/,,
 317829,XIG,small_airport,Xinguara Municipal Airport,-7.0906,-49.9765,810,SA,BR,BR-PA,Xinguara,no,,XIG,SWSX,PA0150,,https://en.wikipedia.org/wiki/Xinguara_Municipal_Airport,
 313435,XMA,small_airport,Maramag Airport,7.7538,125.0333,919,AS,PH,PH-BUK,Maramag,no,,XMA,,,http://www.pbase.com/philippineaviation/maramagoadi_airport_bukidnon,,Oadi
 332207,XRQ,small_airport,New Barag Right Banner Baogede Airport,48.575585,116.939382,1798,AS,CN,CN-15,New Barag Right Banner,no,,XRQ,,,,https://en.wikipedia.org/wiki/Xinbarag_Youqi_Baogede_Airport,
