@@ -9335,7 +9335,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 316419,VRNT,small_airport,Thimarafushi Airport,2.211,73.1533,6,AS,MV,MV-08,Thimarafushi,yes,VRNT,TMF,VRNT,,,https://en.wikipedia.org/wiki/Thimarafushi_Airport,
 336109,VRQM,small_airport,Maavaarulaa Airport,0.338085,73.512869,,AS,MV,MV-28,Maavaarulu,yes,,RUL,VRQM,RUL,,https://en.wikipedia.org/wiki/Maavarulu_Airport,
 26638,VTBD,large_airport,Don Mueang International Airport,13.9126,100.607002,9,AS,TH,TH-10,Bangkok,yes,VTBD,DMK,VTBD,,http://www.airportthai.co.th/airportnew/bangkok/index.asp?lang=en,https://en.wikipedia.org/wiki/Don_Mueang_International_Airport,"Old Bangkok International Airport, Don Muang Royal Thai Air Force Base"
-598125,VTBE,heliport,Pak Phreaw Airport,14.513001,100.917426,46,AS,TH,TH-19,Mueang Saraburi,no,VTBE,,VTBE,,,,Saraburi Field
+598125,VTBE,heliport,Pak Phreaw Heliport,14.50821,100.919005,46,AS,TH,TH-19,Mueang Saraburi,no,VTBE,,VTBE,,,,Saraburi Field
 26639,VTBH,small_airport,Sa Pran Nak Airport,14.9494,100.642998,95,AS,TH,TH-16,,no,VTBH,,VTBH,,,,
 26641,VTBK,medium_airport,Kamphaeng Saen Airport,14.1020002365,99.9171981812,30,AS,TH,TH-72,Nakhon Pathom,no,VTBK,KDT,VTBK,,,,
 26642,VTBL,medium_airport,Khok Kathiam Airport,14.87462,100.663397,123,AS,TH,TH-16,Lop Buri,no,VTBL,KKM,VTBL,,,https://en.wikipedia.org/wiki/Khok_Kathiam_Air_Force_Base,Kathiam AFB
