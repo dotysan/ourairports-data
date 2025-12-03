@@ -8360,9 +8360,9 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 449,SSER,small_airport,Erechim Airport,-27.663614,-52.271489,2498,SA,BR,BR-RS,Erechim,no,SSER,ERM,SSER,RS0018,,https://en.wikipedia.org/wiki/Erechim_Airport,
 451,SSFB,small_airport,Paulo Abdala Airport,-26.05938,-53.063827,2113,SA,BR,BR-PR,Francisco Beltrão,yes,SSFB,FBE,SSFB,PR0021,,https://en.wikipedia.org/wiki/Francisco_Beltr%C3%A3o_Airport,
 460,SSGY,small_airport,Guaíra Airport,-24.0811,-54.1917,889,SA,BR,BR-PR,Guaíra,yes,SSGY,GGJ,SSGY,PR0023,,https://en.wikipedia.org/wiki/Gua%C3%ADra_Airport,"Walter Martins de Oliveira Municipal, QGA"
-463,SSHZ,small_airport,Walter Bündchen Airport,-27.6383,-54.3391,1063,SA,BR,BR-RS,Horizontina,no,SSHZ,HRZ,SSHZ,SSHZ,,https://pt.wikipedia.org/wiki/Aeroporto_de_Horizontina,
+463,SSHZ,small_airport,Walter Bündchen Airport,-27.6383,-54.3391,1063,SA,BR,BR-RS,Horizontina,no,SSHZ,HRZ,SSHZ,RS0037,,https://pt.wikipedia.org/wiki/Aeroporto_de_Horizontina,
 466,SSIJ,small_airport,João Batista Bos Filho Airport,-28.368711,-53.846568,1197,SA,BR,BR-RS,Ijuí,no,SSIJ,IJU,SSIJ,RS0032,,https://en.wikipedia.org/wiki/Iju%C3%AD_Airport,
-29983,SSIQ,small_airport,Itaqui Airport,-29.173099517822266,-56.53670120239258,230,SA,BR,BR-RS,Itaqui,no,SSIQ,ITQ,SSIQ,,,,
+29983,SSIQ,small_airport,Itaqui Airport,-29.171981,-56.538343,230,SA,BR,BR-RS,Itaqui,no,SSIQ,ITQ,SSIQ,RS0045,,,
 467,SSJA,small_airport,Santa Terezinha Airport,-27.171514,-51.553327,2546,SA,BR,BR-SC,Joaçaba,no,SSJA,JCB,SSJA,SC0014,,https://en.wikipedia.org/wiki/Joa%C3%A7aba_Airport,
 471,SSKM,small_airport,Campo Mourão Airport,-24.009199,-52.3568,1883,SA,BR,BR-PR,Campo Mourão,no,SSKM,CBW,SSKM,PR0017,,https://en.wikipedia.org/wiki/Campo_Mour%C3%A3o_Airport,Geraldo Guias de Aquino
 473,SSKS,small_airport,Cachoeira do Sul Airport,-30.00189971923828,-52.940799713134766,253,SA,BR,BR-RS,Cachoeira Do Sul,no,,QDB,SSKS,SSKS,,,
