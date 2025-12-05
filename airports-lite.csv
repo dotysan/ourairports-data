@@ -608,6 +608,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 28482,BMQ,small_airport,Bamburi Airport,-3.983363,39.730982,52,AF,KE,KE-300,Bamburi,no,,BMQ,HKBM,,,https://en.wikipedia.org/wiki/Bamburi_Airport,
 16502,BNF,seaplane_base,Baranof Warm Springs Float and Seaplane Base,57.088799,-134.833146,0,NA,US,US-AK,Baranof,no,,BNF,,BNF,,,"Warm Spring Bay Seaplane Base  Baranof Warm Springs, Baranoff"
 312758,BNV,small_airport,Boana Airport,-6.426631,146.826697,2950,OC,PG,PG-MPL,Boana,no,,BNV,,,,,
+525733,BO-0018,small_airport,Carol Marghata Airport,-17.436598,-62.340674,885,SA,BO,BO-S,,no,SLCH,,SLCH,,,,
 41590,BO-BVL,small_airport,Baures Airport,-13.654426,-63.704718,470,SA,BO,BO-B,Baures,no,,BVL,SLBA,,,https://en.wikipedia.org/wiki/Baures_Airport,
 312780,BOV,small_airport,Boang Airport,-3.3834,153.2812,85,OC,PG,PG-NIK,Boang Island,no,,BOV,,BOG,,,
 16505,BQV,seaplane_base,Bartlett Cove Seaplane Base,58.4552,-135.884995,,NA,US,US-AK,Gustavus,no,,BQV,BQV,BQV,,https://fr.wikipedia.org/wiki/Base_d%27hydravions_de_Bartlett_Cove,
@@ -8150,12 +8151,14 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30667,SKYA,small_airport,Yaguara Airport,1.54417,-73.9333,812,SA,CO,CO-CAQ,San Vicente Del Caguán,no,SKYA,AYG,SKYA,AYG,,,
 6178,SKYP,medium_airport,El Alcaravan - Yopal Airport,5.31911,-72.384,1028,SA,CO,CO-CAS,Yopal,yes,SKYP,EYP,SKYP,EYP,,https://en.wikipedia.org/wiki/El_Alcarav%C3%A1n_Airport,
 32321,SLAG,small_airport,Monteagudo Airport,-19.827,-63.960999,3674,SA,BO,BO-H,El Bañado,no,SLAG,MHW,SLAG,,,https://en.wikipedia.org/wiki/Monteagudo_Airport,
-333229,SLAL,medium_airport,Alcantarí Airport,-19.246835,-65.149611,10184,SA,BO,BO-H,Yamparaez,yes,,SRE,SLAL,,,https://en.wikipedia.org/wiki/Alcantar%C3%AD_Airport,
+333229,SLAL,medium_airport,Alcantarí Airport,-19.246835,-65.149611,10184,SA,BO,BO-H,Sucre,yes,SLAL,SRE,SLAL,,,https://en.wikipedia.org/wiki/Alcantar%C3%AD_Airport,Yamparaez
 29662,SLAP,small_airport,Apolo Airport,-14.7356,-68.411903,4639,SA,BO,BO-L,Apolo,no,SLAP,APB,SLAP,,,https://en.wikipedia.org/wiki/Apolo_Airport,
 29671,SLAS,small_airport,Ascención de Guarayos Airport,-15.933365,-63.155575,807,SA,BO,BO-S,Ascensión de Guarayos,no,SLAS,ASC,SLAS,,,https://en.wikipedia.org/wiki/Ascensi%C3%B3n_de_Guarayos_Airport,
 6179,SLBJ,medium_airport,Bermejo Airport,-22.7733001709,-64.31289672850001,1249,SA,BO,BO-T,Bermejo,no,SLBJ,BJO,SLBJ,,,https://en.wikipedia.org/wiki/Bermejo_Airport,
 29751,SLCA,small_airport,Camiri Airport,-20.00656,-63.527827,2614,SA,BO,BO-S,Camiri,no,SLCA,CAM,SLCA,,,https://en.wikipedia.org/wiki/Camiri_Airport,
 6180,SLCB,medium_airport,Jorge Wilsterman International Airport,-17.421100616455078,-66.1771011352539,8360,SA,BO,BO-C,Cochabamba,yes,SLCB,CBB,SLCB,,,https://en.wikipedia.org/wiki/Jorge_Wilstermann_International_Airport,
+29802,SLCC,small_airport,Copacabana Airport,-16.191099,-69.095596,12591,SA,BO,BO-L,Copacabana,no,SLCC,,SLCC,,,https://en.wikipedia.org/wiki/Copacabana_Airport,
+39421,SLCE,small_airport,Cabezas Airport,-18.797433,-63.301611,1328,SA,BO,BO-S,Cordillera,no,SLCE,,SLCE,,,https://en.wikipedia.org/wiki/Cabezas_Airport,
 6182,SLCO,medium_airport,Capitán Aníbal Arab Airport,-11.040399551400002,-68.7829971313,889,SA,BO,BO-N,Cobija,yes,SLCO,CIJ,SLCO,,,https://en.wikipedia.org/wiki/Cap._Anibal_Arab_Airport,
 29797,SLCP,small_airport,Concepción Airport,-16.142688,-62.026595,1620,SA,BO,BO-S,Concepción,no,SLCP,CEP,SLCP,,,https://en.wikipedia.org/wiki/Concepci%C3%B3n_Airport,
 6183,SLET,medium_airport,El Trompillo Airport,-17.8115997314,-63.1715011597,1371,SA,BO,BO-S,Santa Cruz,yes,SLET,SRZ,SLET,,,https://en.wikipedia.org/wiki/El_Trompillo_Airport,
@@ -8181,10 +8184,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 30364,SLSB,small_airport,Capitán Av. German Quiroga G. Airport,-14.8592,-66.737503,633,SA,BO,BO-B,San Borja,no,SLSB,SRJ,SLSB,,,https://en.wikipedia.org/wiki/Capitán_Germán_Quiroga_Guardia_Airport,
 30372,SLSI,small_airport,Capitán Av. Juan Cochamanidis S. Airport,-16.38719,-60.962318,1354,SA,BO,BO-S,San Ignacio de Velasco,no,SLSI,SNG,SLSI,,,https://en.wikipedia.org/wiki/Capitán_Av._Juan_Cochamanidis_Airport,
 30371,SLSM,small_airport,San Ignacio de Moxos Airport,-14.9658,-65.6338,545,SA,BO,BO-B,San Ignacio de Moxos,no,SLSM,SNM,SLSM,,,https://en.wikipedia.org/wiki/San_Ignacio_de_Moxos_Airport,
-39464,SLSR,small_airport,Santa Rosa De Yacuma Airport,-14.0662,-66.786797,738,SA,BO,BO-B,Santa Rosa,no,SLSR,SRB,SLSR,,,https://en.wikipedia.org/wiki/Santa_Rosa_Airport_(Bolivia),
-6189,SLSU,medium_airport,Juana Azurduy De Padilla Airport,-19.007099,-65.288696,9540,SA,BO,BO-H,Sucre,no,SLSU,,SLSU,,,https://en.wikipedia.org/wiki/Juana_Azurduy_de_Padilla_International_Airport,military
+39464,SLSR,small_airport,Santa Rosa de Yacuma Airport,-14.073072,-66.787391,738,SA,BO,BO-B,Santa Rosa,no,SLSR,SRB,SLSR,,,https://en.wikipedia.org/wiki/Santa_Rosa_Airport_(Bolivia),
+6189,SLSU,medium_airport,Juana Azurduy de Padilla Airport,-19.007099,-65.288696,9540,SA,BO,BO-H,Sucre,no,SLSU,,SLSU,,,https://en.wikipedia.org/wiki/Juana_Azurduy_de_Padilla_International_Airport,"SRE, military"
 30387,SLTI,small_airport,San Matías Airport,-16.339199,-58.401901,403,SA,BO,BO-S,San Matías,no,SLTI,MQK,SLTI,,,https://en.wikipedia.org/wiki/San_Mat%C3%ADas_Airport,
 6190,SLTJ,medium_airport,Capitan Oriel Lea Plaza Airport,-21.5557,-64.701302,6079,SA,BO,BO-T,Tarija,yes,SLTJ,TJA,SLTJ,,,https://en.wikipedia.org/wiki/Cap._Oriel_Lea_Plaza_Airport,
+39470,SLTL,small_airport,San Cristóbal Toldos Airport,-21.175602,-67.166689,11800,SA,BO,BO-P,Nor Lipez,no,SLTL,,SLTL,,,https://en.wikipedia.org/wiki/Ventilla_Airport,
 6191,SLTR,medium_airport,Teniente Av. Jorge Henrich Arauz Airport,-14.8187,-64.917999,509,SA,BO,BO-B,Trinidad,yes,SLTR,TDD,SLTR,,,https://en.wikipedia.org/wiki/Tte._Av._Jorge_Henrich_Arauz_Airport,
 39473,SLUY,small_airport,Uyuni Joya Andina Airport,-20.441304,-66.857553,11136,SA,BO,BO-P,Quijarro,yes,SLUY,UYU,SLUY,,,https://en.wikipedia.org/wiki/Uyuni_Airport,
 30518,SLVG,small_airport,Capitán Av. Vidal Villagomez Toledo Airport,-18.4825,-64.099403,6551,SA,BO,BO-S,Vallegrande,no,SLVG,VAH,SLVG,,,https://en.wikipedia.org/wiki/Capit%C3%A1n_Av._Vidal_Villagomez_Toledo_Airport,
