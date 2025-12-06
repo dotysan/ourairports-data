@@ -8869,7 +8869,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 6495,UMBB,medium_airport,Brest Airport,52.108299,23.8981,468,EU,BY,BY-BR,Brest,yes,UMBB,BQT,UMBB,,,https://en.wikipedia.org/wiki/Brest_Airport,Аэропорт Брест
 6496,UMGG,medium_airport,Gomel Airport,52.527000427246094,31.016700744628906,472,EU,BY,BY-HO,Gomel,yes,UMGG,GME,UMGG,,http://www.gomelavia.com/,https://en.wikipedia.org/wiki/Gomel_Airport,
 6497,UMII,medium_airport,Vitebsk Vostochny Airport,55.126499176025,30.349599838257,682,EU,BY,BY-VI,Vitebsk,no,UMII,VTB,UMII,,,https://en.wikipedia.org/wiki/Vitebsk_Vostochny_Airport,"УМІІ, УМИИ, Vitebsk Southeast, Vitebsk East Airport, Аэрапорт Віцебск, Аэропорт Витебск"
-6498,UMKK,medium_airport,Khrabrovo Airport,54.88999938964844,20.592599868774414,42,EU,RU,RU-KGD,Kaliningrad,yes,UMKK,KGD,UMKK,,,https://en.wikipedia.org/wiki/Khrabrovo_Airport,
+6498,UMKK,medium_airport,Khrabrovo Airport,54.891616,20.598607,42,AS,RU,RU-KGD,Kaliningrad,yes,UMKK,KGD,UMKK,,https://kgdavia.ru/,https://en.wikipedia.org/wiki/Khrabrovo_Airport,"УМКК, Храброво"
 30140,UMLI,small_airport,Minsk Machulishchy Air Base,53.77344,27.577411,699,EU,BY,BY-MI,Minsk,no,UMLI,,UMLI,,,https://en.wikipedia.org/wiki/Machulishchy_(air_base),"Minsk Machulishchi Airport, Аэрапорт Мачулішчы, Аэропорт Мачулищи"
 6499,UMMG,medium_airport,Hrodna Airport,53.602001,24.053801,443,EU,BY,BY-HR,Hrodna,no,UMMG,GNA,UMMG,,,https://en.wikipedia.org/wiki/Hrodna_Airport,"Grodno Airport, Гро́дна"
 6501,UMMS,large_airport,Minsk National Airport,53.888071,28.039964,670,EU,BY,BY-MI,Minsk,yes,UMMS,MSQ,UMMS,,http://airport.by/en,https://en.wikipedia.org/wiki/Minsk_National_Airport,"Нацыянальны аэрапорт, Minsk 2 Airport"
