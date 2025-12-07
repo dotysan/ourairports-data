@@ -8792,7 +8792,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 42940,UHPA,small_airport,Ust-Pakhachi Airport,60.556587,169.107707,10,AS,RU,RU-KAM,Ust-Pakhachi,no,UHPA,,UHPA,UHPA,,https://en.wikipedia.org/wiki/Ust-Pakhachi_Airport,"УХПА, Аэропорт Усть-Пахачи, Пахачи, Pakhachi"
 308492,UHPD,small_airport,Ossora Airport,59.2236,163.0664,13,AS,RU,RU-KAM,Ossora,no,UHPD,,UHPD,,,https://en.wikipedia.org/wiki/Ossora_Airport,"УХПД, Оссора"
 32519,UHPK,small_airport,Ust'-Kamchatsk Airport,56.238854,162.689989,200,AS,RU,RU-KAM,Ust'-Kamchatsk (Krutoberegovo),yes,UHPK,,UHPK,,,https://en.wikipedia.org/wiki/Ust-Kamchatsk_Airport,"УКЧ, УХПК, Усть-Камчатск"
-6460,UHPP,medium_airport,Yelizovo Airport,53.16764,158.451863,131,AS,RU,RU-KAM,Petropavlovsk-Kamchatsky,yes,UHPP,PKC,UHPP,,,https://en.wikipedia.org/wiki/Petropavlovsk-Kamchatsky_Airport,
+42936,UHPM,small_airport,Milkovo Airport,54.68058,158.548508,410,AS,RU,RU-KAM,Milkovo,no,UHPM,,UHPM,,,https://en.wikipedia.org/wiki/Milkovo_Airport,"УХПМ, Аэропорт Мильково"
+6460,UHPP,medium_airport,Yelizovo Airport,53.168716,158.451068,131,AS,RU,RU-KAM,Petropavlovsk-Kamchatsky,yes,UHPP,PKC,UHPP,,,https://en.wikipedia.org/wiki/Petropavlovsk-Kamchatsky_Airport,"УХПП, Елизово"
 34959,UHSB,small_airport,Burevestnik Airport,44.919998,147.621994,79,AS,RU,RU-SAK,Kurilsk,no,UHSB,BVV,UHSB,,,https://en.wikipedia.org/wiki/Burevestnik_Airport,"Iturup Airport, Аэропорт Буревестник, Tennei Airfield"
 35126,UHSH,small_airport,Okha Airport,53.516446,142.881426,123,AS,RU,RU-SAK,Okha,no,UHSH,OHH,UHSH,OXA,,https://en.wikipedia.org/wiki/Okha_Airport,"Oxa Airport, Аэропóрт Охá, Ekhabi"
 319423,UHSI,small_airport,Iturup Airport,45.256389,147.95549,387,AS,RU,RU-SAK,Kurilsk,yes,UHSI,ITU,UHSI,,,https://en.wikipedia.org/wiki/Iturup_Airport,
