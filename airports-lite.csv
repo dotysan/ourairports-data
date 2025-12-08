@@ -166,9 +166,11 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 43864,AT-0087,heliport,Wien-Meidling Heliport,48.173743,16.322633,737,EU,AT,AT-9,Vienna,no,LOAM,,LOAM,,,,Vienna Police
 601314,AT98,medium_airport,Wolf's Fang Runway,-71.517,8.8,3707,AN,AQ,AQ-U-A,,no,,WFR,AT98,,https://white-desert.com/about-us/wolfsfang-runway-logistics,https://en.wikipedia.org/wiki/Wolf%27s_Fang_Runway,"AT98, Wolf's Fang Runway"
 313838,AU-0081,small_airport,Lady Elliot Island Airstrip,-24.1129,152.7156,20,OC,AU,AU-QLD,Lady Elliot Island,no,YLTT,LYT,YLTT,,,,
+351472,AU-0264,small_airport,Skardon River Airport,-11.866259,142.008762,29,OC,AU,AU-QLD,Mapoon,no,YSKR,,YSKR,,,,
 354527,AU-0456,small_airport,Gruyere Airport,-28.034548,123.81506,1542,OC,AU,AU-WA,Cosmo Newbery,yes,,GYZ,YGRM,,,,
 356438,AU-0490,small_airport,Packsaddle Airport,-30.29424,142.13758,342,OC,AU,AU-NSW,Packsaddle,no,YPAS,,YPAS,,,,
 507890,AU-0565,small_airport,Moora Airport,-30.684896,115.982059,659,OC,AU,AU-WA,Moora,no,YMRO,,YMRO,,,,Topfun Aviation
+519961,AU-0627,small_airport,Cranbourn Airfield,-41.161173,147.015096,300,OC,AU,AU-TAS,Mount Direction,no,YCRN,,YCRN,,https://cranbournairfield.wixsite.com/cranbournairfield/,,Cranbourn-Dalrymple-Mount Direction
 595027,AU-0748,small_airport,Oakden Hills Airport,-31.66598,137.0361,308,OC,AU,AU-SA,Oakden Hills,no,YOKH,,YOKH,,,,
 595746,AU-0771,small_airport,Wirraminna Airport,-31.19277,136.21988,446,OC,AU,AU-SA,Wirraminna,no,YWIR,,,,,,
 600001,AU-0783,small_airport,JDandBoo,-37.85774,146.91748,380,OC,AU,AU-VIC,Boisdale,no,YJBO,,,,,,"Private, PPR"
@@ -5529,6 +5531,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29417,LIDB,small_airport,Belluno Arturo dell'Oro Airport,46.166549,12.250389,1240,EU,IT,IT-34,Belluno (BL),no,LIDB,BLX,LIDB,BL05,http://www.aeroclubbelluno.org/,https://en.wikipedia.org/wiki/Belluno_Airport,
 31823,LIDC,small_airport,Cà Negra Private Airstrip,45.08608,12.161455,1,EU,IT,IT-34,Loreo (RO),no,LIDC,,LIDC,ROCAN,,https://it.wikipedia.org/wiki/Aeroporto_di_Ca%27_Negra,"Borletti, Aviosuperficie"
 4328,LIDR,small_airport,Ravenna Airport,44.364291,12.224996,1,EU,IT,IT-45,Ravenna (RA),no,LIDR,RAN,LIDR,RA06,http://www.aeroclubravenna.com,https://en.wikipedia.org/wiki/Ravenna%20Airport,"Foligno, Gastone Novelli, Ravenna Aero Club"
+4329,LIDT,medium_airport,Trento-Mattarello Airport,46.023333,11.125,610,EU,IT,IT-32,Trento (TN),no,LIDT,,LIDT,TN01,http://www.aeroportocaproni.it/,http://it.wikipedia.org/wiki/Aeroporto_di_Trento-Mattarello,Gianni Caproni Trento
 30298,LIDV,small_airport,Prati Vecchi d'Aguscello Airfield,44.790884,11.671901,20,EU,IT,IT-45,Ferrara (FE),no,LIDV,,LIDV,FE02,https://www.aeroportoaguscello.it/wp/,https://it.wikipedia.org/wiki/Aeroporto_di_Prati_Vecchi_d%27Aguscello,
 4330,LIEA,medium_airport,Alghero-Fertilia Airport,40.632099,8.29077,87,EU,IT,IT-88,Alghero,yes,LIEA,AHO,LIEA,SS02,http://www.aeroportodialghero.it/home_en.asp,https://en.wikipedia.org/wiki/Alghero-Fertilia_Airport,"Alghero Airport, Sardinia, Alghero - Riviera del Corallo Airport"
 4331,LIED,medium_airport,Decimomannu Air Base,39.354198,8.97248,100,EU,IT,IT-88,Decimomannu,no,LIED,DCI,LIED,CA12,,https://en.wikipedia.org/wiki/Decimomannu_Air_Base,G. Farina
@@ -5537,7 +5540,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 29424,LIER,small_airport,Oristano-Fenosu Airport,39.895308,8.642661,36,EU,IT,IT-88,Oristano,no,LIER,FNU,LIER,OR01,http://www.sogeaor.it,http://it.wikipedia.org/wiki/Aeroporto_di_Oristano-Fenosu,QOS
 4334,LIET,medium_airport,Tortolì Airport,39.9188,9.68298,23,EU,IT,IT-88,Arbatax,no,LIET,,LIET,NU01,,https://en.wikipedia.org/wiki/Tortol%C3%AC_Airport,"Tortolì-Arbatax airport, TTB"
 46548,LIKD,small_airport,Torraccia Airfield,43.948895,12.511411,787,EU,SM,SM-04,Torraccia,no,LIKD,,LIKD,RSM01,,https://it.wikipedia.org/wiki/Aviosuperficie_ed_elisuperficie_di_Torraccia,Torraccia
-29428,LILI,small_airport,Vercelli Airport,45.309935,8.417931,417,EU,IT,IT-21,Vercelli (VC),no,LILI,,LILI,VC04,http://www.aeroclubvercelli.it/,https://it.wikipedia.org/wiki/Aeroporto_di_Vercelli,"Aeroporto ""Carlo del Prete"", Aeroclub Vercelli ""Marilla Rigazio"""
+29428,LILI,small_airport,Vercelli Airport,45.311111,8.4175,417,EU,IT,IT-21,Vercelli (VC),no,LILI,,LILI,VC04,http://www.aeroclubvercelli.it/,https://it.wikipedia.org/wiki/Aeroporto_di_Vercelli,"Aeroporto ""Carlo del Prete"", Aeroclub Vercelli ""Marilla Rigazio"""
 4337,LILN,medium_airport,Varese-Venegono Airport,45.742199,8.888233,1100,EU,IT,IT-25,Venegono Superiore (VA),no,LILN,,LILN,VA02,http://www.aeroclubvarese.it/,https://en.wikipedia.org/wiki/Varese-Venegono_Airport,QVA
 4340,LIMC,large_airport,Milan Malpensa International Airport,45.6306,8.72811,768,EU,IT,IT-25,Ferno (VA),yes,LIMC,MXP,LIMC,MI12,http://www.sea-aeroportimilano.it/en/malpensa/index.phtml,https://en.wikipedia.org/wiki/Malpensa_Airport,"MIL, Silvio Berlusconi"
 4341,LIME,large_airport,Milan Bergamo Airport / Antonio Locatelli Air Base,45.670725,9.709223,782,EU,IT,IT-25,Orio al Serio (BG),yes,LIME,BGY,LIME,BG01,http://www.sacbo.it/,https://en.wikipedia.org/wiki/Orio_al_Serio_International_Airport,"Bergamo Orio al Serio Airport, Il Caravaggio International Airport"
@@ -5572,6 +5575,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4380,LIRQ,large_airport,"Florence Airport, Peretola",43.808558,11.202822,142,EU,IT,IT-52,Firenze (FI),yes,LIRQ,FLR,LIRQ,FI04,http://www.aeroporto.firenze.it/,https://en.wikipedia.org/wiki/Florence_Airport,"Firenze, Amerigo Vespucci Airport, Aeroporto di Firenze-Peretola"
 4381,LIRS,medium_airport,Grosseto Corrado Baccarini Air Base / Grosseto Airport,42.759701,11.0719,17,EU,IT,IT-52,Grosseto (GR),no,LIRS,GRS,LIRS,GR06,,https://en.wikipedia.org/wiki/Grosseto_Airport,C Baccarini
 4384,LIRZ,medium_airport,Perugia San Francesco d'Assisi – Umbria International Airport,43.095901,12.5132,697,EU,IT,IT-55,Perugia (PG),yes,LIRZ,PEG,LIRZ,PG10,http://www.airport.umbria.it/,https://en.wikipedia.org/wiki/Perugia_San_Francesco_d%27Assisi_%E2%80%93_Umbria_International_Airport,"Perugia San Francesco d'Assisi, Perugia Sant'Egidio Airport, Umbria International Airport"
+308672,LIVV,small_airport,Moncucco Airfield,45.344613,7.919072,781,EU,IT,IT-21,Cascina Moncucco (TO),no,LIVV,,LIVV,TO03,http://www.flyclubbaronerosso.it/,,Aviosuperficie Moncucco
 4386,LJLJ,large_airport,Ljubljana Jože Pučnik Airport,46.223701,14.4576,1273,EU,SI,SI-012,Zgornji Brnik,yes,LJLJ,LJU,LJLJ,,http://www.lju-airport.si/,https://en.wikipedia.org/wiki/Ljubljana_Jo%C5%BEe_Pu%C4%8Dnik_Airport,"Ljubljana, Kranj"
 4387,LJMB,medium_airport,Maribor Edvard Rusjan Airport,46.4799,15.6861,876,EU,SI,SI-160,Orehova Vas,no,LJMB,MBX,LJMB,,https://www.mbx-airport.si/en/airport,https://en.wikipedia.org/wiki/Maribor_Airport,
 4388,LJPZ,medium_airport,Portorož Airport,45.47201,13.615951,7,EU,SI,SI-090,Sečovlje,no,LJPZ,POW,LJPZ,,http://www.portoroz-airport.si/,https://en.wikipedia.org/wiki/Portoro%C5%BE_Airport,Sečovlje
@@ -8794,6 +8798,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32519,UHPK,small_airport,Ust'-Kamchatsk Airport,56.238854,162.689989,200,AS,RU,RU-KAM,Ust'-Kamchatsk (Krutoberegovo),yes,UHPK,,UHPK,,,https://en.wikipedia.org/wiki/Ust-Kamchatsk_Airport,"УКЧ, УХПК, Усть-Камчатск"
 42936,UHPM,small_airport,Milkovo Airport,54.68058,158.548508,410,AS,RU,RU-KAM,Milkovo,no,UHPM,,UHPM,,,https://en.wikipedia.org/wiki/Milkovo_Airport,"УХПМ, Аэропорт Мильково"
 6460,UHPP,medium_airport,Yelizovo Airport,53.168716,158.451068,131,AS,RU,RU-KAM,Petropavlovsk-Kamchatsky,yes,UHPP,PKC,UHPP,,,https://en.wikipedia.org/wiki/Petropavlovsk-Kamchatsky_Airport,"УХПП, Елизово"
+44664,UHPU,small_airport,Ust-Khayryuzovo Airport,57.099706,156.737223,,AS,RU,RU-KAM,Ust-Khayryuzovo,no,UHPU,,UHPU,,,,"УХПУ, Ust-Khairyuzovo Airport, Аэропорт Усть-Хайрюзово"
 34959,UHSB,small_airport,Burevestnik Airport,44.919998,147.621994,79,AS,RU,RU-SAK,Kurilsk,no,UHSB,BVV,UHSB,,,https://en.wikipedia.org/wiki/Burevestnik_Airport,"Iturup Airport, Аэропорт Буревестник, Tennei Airfield"
 35126,UHSH,small_airport,Okha Airport,53.516446,142.881426,123,AS,RU,RU-SAK,Okha,no,UHSH,OHH,UHSH,OXA,,https://en.wikipedia.org/wiki/Okha_Airport,"Oxa Airport, Аэропóрт Охá, Ekhabi"
 319423,UHSI,small_airport,Iturup Airport,45.256389,147.95549,387,AS,RU,RU-SAK,Kurilsk,yes,UHSI,ITU,UHSI,,,https://en.wikipedia.org/wiki/Iturup_Airport,
@@ -10125,7 +10130,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 27042,YLZI,small_airport,Lizard Island Airport,-14.673273,145.454571,70,OC,AU,AU-QLD,,no,YLZI,LZR,YLZI,,,https://en.wikipedia.org/wiki/Lizard_Island_Airport,
 32503,YMAA,small_airport,Mabuiag Island Airport,-9.950168,142.19523,,OC,AU,AU-QLD,Mabuiag Island,yes,YMAA,UBB,YMAA,,,https://en.wikipedia.org/wiki/Mabuiag_Island_Airport,
 31993,YMAE,small_airport,Murray Island Airport,-9.915105,144.054644,300,OC,AU,AU-QLD,Murray Island,yes,YMAE,MYI,YMAE,,,https://en.wikipedia.org/wiki/Murray_Island_Airport,"Mer Island, Maer Island"
-27043,YMAV,medium_airport,Avalon Airport,-38.039398,144.468994,35,OC,AU,AU-VIC,Lara,yes,YMAV,AVV,YMAV,,https://www.avalonairport.com.au/,https://en.wikipedia.org/wiki/Avalon_Airport,"Lara, Geelong"
+27043,YMAV,medium_airport,Melbourne Avalon International Airport,-38.040269,144.467196,35,OC,AU,AU-VIC,Lara,yes,YMAV,AVV,YMAV,,https://www.avalonairport.com.au/,https://en.wikipedia.org/wiki/Avalon_Airport,"Lara, Geelong"
 27044,YMAY,medium_airport,Albury Airport,-36.066758,146.959148,539,OC,AU,AU-NSW,East Albury,yes,YMAY,ABX,YMAY,,,https://en.wikipedia.org/wiki/Albury_Airport,
 27045,YMBA,medium_airport,Mareeba Airport,-17.070277,145.424228,1560,OC,AU,AU-QLD,Mareeba,no,YMBA,MRG,YMBA,,https://msc.qld.gov.au/region/mareeba-airport-aviation-industrial-park/,https://en.wikipedia.org/wiki/Mareeba_Airfield,
 27752,YMBL,small_airport,Marble Bar Airport,-21.163299560546875,119.83300018310547,194,OC,AU,AU-WA,,no,YMBL,MBB,YMBL,,,,
