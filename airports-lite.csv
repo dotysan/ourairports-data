@@ -2705,9 +2705,23 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 32442,FXTA,small_airport,Thaba-Tseka Airport,-29.5228,28.615801,7500,AF,LS,LS-K,Thaba-Tseka,no,FXTA,THB,FXTA,,,https://en.wikipedia.org/wiki/Thaba_Tseka_Airport,
 32453,FXTK,small_airport,Tlokoeng Airport,-29.233,28.882999,7000,AF,LS,LS-J,Tlokoeng,no,FXTK,TKO,FXTK,,,https://en.wikipedia.org/wiki/Tlokoeng_Airport,
 315385,FYAA,small_airport,Ai-Ais Airport,-27.995,17.5966,2000,AF,NA,NA-KA,Ai-Ais,no,FYAA,AIW,FYAA,,,,
+29539,FYAB,small_airport,Aroab B Airport,-26.7761,19.633101,3235,AF,NA,NA-KA,Aroab,no,FYAB,,FYAB,,,,
+602490,FYAD,small_airport,Aandster Airstrip,-25.355245,16.105086,3312,AF,NA,NA-HA,Aandster,no,FYAD,,FYAD,,,,
+602493,FYAH,small_airport,Okombahe Airfield,-21.296165,15.396506,3321,AF,NA,NA-ER,Okombahe,no,FYAH,,FYAH,,,,
+602495,FYAI,small_airport,Ameib Ranch Airstrip,-21.818012,15.620645,,AF,NA,NA-ER,,no,FYAI,,FYAI,,,,
+315405,FYAK,small_airport,Aussenkehr Airport,-28.4587,17.4645,970,AF,NA,NA-KA,Aussenkehr,no,FYAK,,FYAK,,,,
+29534,FYAM,small_airport,Aminuis Airstrip,-23.6558,19.3517,4012,AF,NA,NA-OH,Aminuis,no,FYAM,,FYAM,,,,
 3024,FYAR,medium_airport,Arandis Airport,-22.461875,14.979322,1905,AF,NA,NA-ER,Arandis,no,FYAR,ADI,FYAR,,,https://en.wikipedia.org/wiki/Arandis_Airport,
 29541,FYAS,small_airport,Aus Airport,-26.668127,16.29312,4856,AF,NA,NA-KA,Aus,no,FYAS,,FYAS,,,https://de.wikipedia.org/wiki/Flugplatz_Aus,
+602496,FYAT,small_airport,Autabib Airfield,-23.009534,17.686425,4836,AF,NA,NA-KH,Autabib,no,FYAT,,FYAT,,,,
+29667,FYAV,small_airport,Ariamsvlei Airport,-28.127166,19.837872,2549,AF,NA,NA-KA,Ariamsvlei,no,FYAV,,FYAV,,,,Ariamsvley
 29698,FYBC,small_airport,Bethanien Airport,-26.5448,17.1816,3260,AF,NA,NA-KA,Bethanien,no,FYBC,,FYBC,,,https://en.wikipedia.org/wiki/Bethanien_Airport,
+602499,FYBE,small_airport,Betesda Airstrip,-24.618554,15.997697,3056,AF,NA,NA-HA,,no,FYBE,,FYBE,,,,
+602501,FYBI,small_airport,Arabi Hunting Farm Airfield,-26.391909,19.68725,3108,AF,NA,NA-U-A,,no,FYBI,,FYBI,,,,
+29545,FYBJ,small_airport,Bitterwasser Lodge & Flying Club Airfield,-23.875,17.9911,4167,AF,NA,NA-HA,Bitterwasser,no,FYBJ,,FYBJ,,http://www.bitterwasser.com,http://de.wikipedia.org/wiki/Flugplatz_Bitterwasser,
+602502,FYBM,small_airport,B2Gold Otjikoto Mine Airport,-19.992261,17.127671,4998,AF,NA,NA-OD,Otjikoto,no,FYBM,,FYBM,,https://www.b2gold.com/operations-projects/producing/otjikoto-mine-namibia/default.aspx,,
+602504,FYBO,small_airport,Blumfelde Airfield,-23.549891,18.323268,4253,AF,NA,NA-HA,Blumfelde,no,FYBO,,FYBO,,,,
+602505,FYBR,small_airport,Berseba Airfield,-25.982345,17.839329,3038,AF,NA,NA-KA,Berseba,no,FYBR,,FYBR,,,,
 3025,FYEN,small_airport,Eenhana Airport,-17.483,16.322001,3660,AF,NA,NA-OW,Eenhana,no,FYEN,,FYEN,,,https://en.wikipedia.org/wiki/Eenhana_Airport,
 29555,FYGB,small_airport,Gobabis Airport,-22.5044,18.973101,4731,AF,NA,NA-OH,Gobabis,no,FYGB,GOG,FYGB,,,https://en.wikipedia.org/wiki/Gobabis_Airport,
 3026,FYGF,medium_airport,Grootfontein Airport,-19.6022,18.1227,4636,AF,NA,NA-OD,Grootfontein,no,FYGF,GFY,FYGF,,,https://en.wikipedia.org/wiki/Grootfontein_Air_Force_Base,
@@ -4500,7 +4514,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 20506,KMHR,medium_airport,Sacramento Mather Airport,38.554744,-121.297989,98,NA,US,US-CA,Sacramento,no,KMHR,MHR,KMHR,MHR,http://www.sacramento.aero/mhr/,https://en.wikipedia.org/wiki/Sacramento_Mather_Airport,
 3684,KMHT,medium_airport,Manchester-Boston Regional Airport,42.932598,-71.435699,266,NA,US,US-NH,Manchester,yes,KMHT,MHT,KMHT,MHT,,https://en.wikipedia.org/wiki/Manchester-Boston_Regional_Airport,
 20507,KMHV,small_airport,Mojave Airport,35.05939865,-118.1520004,2801,NA,US,US-CA,Mojave,no,KMHV,MHV,KMHV,MHV,,https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port,
-3685,KMIA,large_airport,Miami International Airport,25.7932,-80.290604,8,NA,US,US-FL,Miami,yes,KMIA,MIA,KMIA,MIA,http://www.miami-airport.com/,https://en.wikipedia.org/wiki/Miami_International_Airport,"MFW, South Florida"
+3685,KMIA,large_airport,Miami International Airport,25.7932,-80.290604,8,NA,US,US-FL,Miami,yes,KMIA,MIA,KMIA,MIA,http://www.miami-airport.com/,https://en.wikipedia.org/wiki/Miami_International_Airport,"MFW, South Florida, Wilcox Field"
 3686,KMIB,medium_airport,Minot Air Force Base,48.4156,-101.358002,1667,NA,US,US-ND,Minot,no,KMIB,MIB,KMIB,MIB,http://www.minot.af.mil/,https://en.wikipedia.org/wiki/Minot_Air_Force_Base,"5th Bomb Wing, 91st Space Wing"
 20508,KMIC,small_airport,Crystal Airport,45.062,-93.353897,869,NA,US,US-MN,Minneapolis,no,KMIC,MIC,KMIC,MIC,,https://en.wikipedia.org/wiki/Crystal_Airport_(Minnesota),
 3687,KMIE,medium_airport,Delaware County Johnson Field,40.242298,-85.395897,937,NA,US,US-IN,Muncie,no,KMIE,MIE,KMIE,MIE,,https://en.wikipedia.org/wiki/Delaware_County_Airport,
@@ -6407,7 +6421,12 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 325351,MZMF,small_airport,San Ignacio Town (Maya Flats) Airstrip,17.104872,-89.101129,351,NA,BZ,BZ-CY,Maya Flats,no,,CYD,MZMF,,,https://en.wikipedia.org/wiki/San_Ignacio_Town_Airstrip,Maya Flats Airstrip
 42217,MZPL,medium_airport,Placencia Airport,16.536957,-88.361511,3,NA,BZ,BZ-SC,Placencia,yes,MZPL,PLJ,MZPL,PLJ,,https://en.wikipedia.org/wiki/Placencia_Airport,
 4655,N20,small_airport,Ine Airport,7.005553,171.656959,4,OC,MH,MH-ARN,Arno Atoll,no,,IMI,N20,N20,,https://en.wikipedia.org/wiki/Ine_Airport,
+29536,NA-0003,small_airport,Anib Lodge Landing Site,-24.4347,18.104401,3950,AF,NA,NA-HA,,no,FYAG,,FYAG,,,,
+29537,NA-0004,small_airport,Aranos Airport,-24.128295,19.114591,3904,AF,NA,NA-HA,Aranos,no,FYAN,,FYAN,,,,
+29540,NA-0006,small_airport,Auob Lodge Airport,-24.822194,18.762192,3730,AF,NA,NA-HA,,no,FYAL,,FYAL,,,,
 29549,NA-0012,small_airport,Bagani Airport,-18.11848,21.623296,3314,AF,NA,NA-KE,Bagani,no,,BQI,FYBG,,,,
+42334,NA-0069,small_airport,Rietfontein Airport,-26.728918,20.033333,2750,AF,NA,NA-KA,Rietfontein,no,FYRF,,FYRF,,,,
+42343,NA-0078,small_airport,Brukkaros Landing Strip,-25.69945,18.053049,3190,AF,NA,NA-KA,Brukkaros,no,FYBK,,FYBK,,,,
 42385,NA-0120,small_airport,Rehoboth (Oanob Resort) Airport,-23.313496,17.042046,4537,AF,NA,NA-HA,Rehoboth,no,FYRH,,FYRH,,,,FYRH
 318395,NA-0159,small_airport,Khorixas Airport,-20.366192,15.059298,3353,AF,NA,NA-KU,Khorixas,no,FYKX,,FYKX,,,,
 4957,NCAI,small_airport,Aitutaki Airport,-18.8309,-159.764008,14,OC,CK,CK-U-A,Aitutaki,yes,NCAI,AIT,NCAI,,https://cookislandsairports.com/home/,https://en.wikipedia.org/wiki/Aitutaki_Airport,
@@ -10736,7 +10755,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 313337,ZYJX,medium_airport,Jixi Xingkaihu Airport,45.293,131.193,760,AS,CN,CN-23,Jixi,yes,ZYJX,JXA,ZYJX,,,https://en.wikipedia.org/wiki/Jixi_Xingkaihu_Airport,
 339959,ZYJZ,medium_airport,Jinzhou Bay Airport,40.936032,121.277114,,AS,CN,CN-21,Jinzhou (Linghai),yes,ZYJZ,JNZ,ZYJZ,,,https://en.wikipedia.org/wiki/Jinzhou_Bay_Airport,
 307012,ZYLD,medium_airport,Yichun Lindu Airport,47.752056,129.019125,791,AS,CN,CN-23,Yichun,yes,ZYLD,LDS,ZYLD,,,https://en.wikipedia.org/wiki/Yichun_Lindu_Airport,Yichun Shi Airport
-27240,ZYMD,medium_airport,Mudanjiang Hailang International Airport,44.5241012573,129.569000244,883,AS,CN,CN-23,Mudanjiang,yes,ZYMD,MDG,ZYMD,,,https://en.wikipedia.org/wiki/Mudanjiang_Airport,Mudanjiang
+27240,ZYMD,medium_airport,Mudanjiang Hailang International Airport,44.525172,129.568634,883,AS,CN,CN-23,Mudanjiang,yes,ZYMD,MDG,ZYMD,,,https://en.wikipedia.org/wiki/Mudanjiang_Hailang_International_Airport,Mudanjiang
 301193,ZYMH,medium_airport,Mohe Gulian Airport,52.916871,122.422759,1836,AS,CN,CN-23,Mohe,yes,ZYMH,OHE,ZYMH,,,https://en.wikipedia.org/wiki/Mohe_Gulian_Airport,
 27241,ZYQQ,medium_airport,Qiqihar Sanjiazi Airport,47.239601135253906,123.91799926757812,477,AS,CN,CN-23,Qiqihar,yes,ZYQQ,NDG,ZYQQ,,,https://en.wikipedia.org/wiki/Qiqihar_Airport,
 525154,ZYSD,small_airport,Suifenhe Dongning Airport,44.453889,130.843889,1407,AS,CN,CN-23,Suifenhe,no,ZYSD,HSF,ZYSD,,,https://en.wikipedia.org/wiki/Suifenhe_Dongning_Airport,
