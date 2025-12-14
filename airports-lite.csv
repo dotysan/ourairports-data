@@ -6407,7 +6407,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 4948,MYLD,medium_airport,Deadman's Cay Airport,23.1790008545,-75.09359741210001,9,NA,BS,BS-LI,Deadman's Cay,yes,MYLD,LGI,MYLD,,,https://en.wikipedia.org/wiki/Deadman's_Cay_Airport,
 4949,MYLS,medium_airport,Stella Maris Airport,23.582317,-75.268621,10,NA,BS,BS-LI,Stella Maris,yes,MYLS,SML,MYLS,,,https://en.wikipedia.org/wiki/Stella_Maris_Airport,
 4950,MYMM,medium_airport,Mayaguana Airport,22.379499,-73.013494,11,NA,BS,BS-MG,Abraham Bay Settlement,yes,MYMM,MYG,MYMM,,,https://en.wikipedia.org/wiki/Mayaguana_Airport,
-4951,MYNN,large_airport,Lynden Pindling International Airport,25.039,-77.466202,16,NA,BS,BS-NP,Nassau,yes,MYNN,NAS,MYNN,,http://www.nas.bs/,https://en.wikipedia.org/wiki/Lynden_Pindling_International_Airport,Nassau International Airport
+4951,MYNN,large_airport,Lynden Pindling International Airport,25.039,-77.466202,16,NA,BS,BS-NP,Nassau,yes,MYNN,NAS,MYNN,,http://www.nas.bs/,https://en.wikipedia.org/wiki/Lynden_Pindling_International_Airport,"Windsor Field, Nassau International Airport"
 4952,MYRD,medium_airport,Duncan Town Airport,22.181801,-75.7295,6,NA,BS,BS-RI,Duncan Town,no,MYRD,DCT,MYRD,,,https://en.wikipedia.org/wiki/Duncan_Town_Airport,
 4953,MYRP,small_airport,Rum Cay International Airport,23.68344,-74.836302,15,NA,BS,BS-RC,Port Nelson,no,MYRP,RCY,MYRP,,,https://en.wikipedia.org/wiki/Port_Nelson_Airport,"Port Nelson Airport, New Port Nelson Airport"
 314051,MYS,small_airport,Moyale Airport,3.5623,39.0433,3887,AF,ET,ET-OR,Moyale,no,,MYS,,,,,
