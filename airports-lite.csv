@@ -72,6 +72,7 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 301645,ABP,small_airport,Atkamba Airport,-6.06462,141.095173,150,OC,PG,PG-WPD,Atkamba Mission,no,,ABP,,AKA,,https://en.wikipedia.org/wiki/Atkamba_Airport,
 41025,ACM,small_airport,Arica Airport,-2.143713,-71.75935,316,SA,CO,CO-AMA,Arica,no,,ACM,,,,https://en.wikipedia.org/wiki/Arica_Airport_(Colombia),
 309426,ADV,small_airport,El Daein Airport,11.4023,26.1186,1560,AF,SD,SD-DE,El Daein,no,,ADV,,,,https://en.wikipedia.org/wiki/Ed_Daein_Airport,
+42257,AE-0001,small_airport,Batha Airport,24.214693,51.44989,257,AS,SA,SA-04,Batha,yes,OEBT,,OEBT,,,,"Ras Sumeira UAE,"
 300307,AEE,small_airport,Adareil Airport,10.053611,32.959444,1301,AF,SS,SS-NU,Adar,no,,AEE,HJAR,,,https://en.wikipedia.org/wiki/Adareil_Airport,
 330359,AEQ,small_airport,Ar Horqin Airport,43.908407,120.15099,1335,AS,CN,CN-15,Chifeng,no,,AEQ,,,,https://en.wikipedia.org/wiki/Ar_Horqin_Airport,
 35370,AF-0019,heliport,Toorghodi Heliport,35.222198,62.2906,2600,AS,AF,AF-HER,Kara Tapa,no,OATD,,,,,,
@@ -3496,6 +3497,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 319816,JIO,small_airport,Jos Orno Imsula Airport,-8.140402,127.908758,43,AS,ID,ID-MA,Tiakur,yes,,JIO,WAPM,,,https://en.wikipedia.org/wiki/Jos_Orno_Imsula_Airport,"Moa Island, Leti Islands"
 18253,JLA,small_airport,Quartz Creek Airport,60.484235,-149.722909,450,NA,US,US-AK,Cooper Landing,no,,JLA,,JLA,,,
 43324,JMB,small_airport,Jamba Airport,-14.698193,16.070148,4912,AF,AO,AO-HUI,Jamba,no,FNJM,JMB,FNJM,,,https://en.wikipedia.org/wiki/Jamba_Airport,
+30598,JO-0001,heliport,King Abdullah II Air Base,31.997999,36.219501,,AS,JO,JO-AZ,,no,OJKA,,OJKA,,,https://en.wikipedia.org/wiki/King_Abdullah_II_Air_Base,
+30599,JO-0002,medium_airport,King Feisal Air Base,30.3435,36.147701,2884,AS,JO,JO-MN,Al-Jafr,no,OJKF,,OJKF,,,https://en.wikipedia.org/wiki/King_Faisal_Air_Base_(Jordan),
 18255,JPN,heliport,Pentagon Army Heliport,38.874908,-77.056682,40,NA,US,US-VA,Washington DC,no,,JPN,KJPN,JPN,,https://en.wikipedia.org/wiki/Pentagon_Army_Heliport,Arlington
 18256,JRA,heliport,West 30th Street Heliport,40.755107,-74.006896,7,NA,US,US-NY,New York,yes,,JRA,KJRA,JRA,,https://en.wikipedia.org/wiki/West_30th_Street_Heliport,
 18257,JRB,heliport,Downtown Manhattan Heliport,40.700711,-74.008573,7,NA,US,US-NY,New York,no,,JRB,KJRB,JRB,http://www.downtownmanhattanheliport.com/,https://en.wikipedia.org/wiki/Downtown_Manhattan_Heliport,Downtown-Manhattan/Wall Street Heliport
@@ -6745,36 +6748,59 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5080,OBBS,medium_airport,Sheik Isa Air Base,25.9184,50.590599,136,AS,BH,BH-14,Sitrah,no,OBBS,,OBBS,,,https://en.wikipedia.org/wiki/Shaikh_Isa_Air_Base,"Shakey's Pizza, Shaikh-Isa Air Base"
 319189,OBKH,small_airport,Sakhir Air Base,26.034533,50.524544,49,AS,BH,BH-14,Zallaq,no,OBKH,,OBKH,,,https://en.wikipedia.org/wiki/Sakhir_Air_Base,
 316826,OCS,small_airport,Corisco International Airport,0.9125,9.3304,55,AF,GQ,GQ-LI,Corisco Island,no,,OCS,FGCO,,,https://en.wikipedia.org/wiki/Corisco_International_Airport,
+42263,OE47,small_airport,Al Kharj Airport,24.060722,47.410805,1500,AS,SA,SA-01,Al Kharj,no,OEKJ,,OEKJ,,,,OE47
+5757,OE50,small_airport,King Abdulaziz Naval Base,26.941601,49.704102,10,AS,SA,SA-04,Jubail,no,OEJL,,OEJL,,,https://en.wikipedia.org/wiki/King_Abdulaziz_Naval_Base,OE50
+5762,OE55,small_airport,Aradah Airport,21.226999,55.2673,699,AS,SA,SA-04,Ardah,no,OEAD,,OEAD,,,,"OE55, Ghafah Airport"
+5763,OE56,small_airport,Shubaytah Airport,22.709952,53.281131,305,AS,SA,SA-04,Shubaytah,no,OEST,,OEST,,,,"OE56, Khalfan, Shabitah"
+5081,OEAA,small_airport,Abu Ali Airport,27.319099,49.587101,69,AS,SA,SA-04,Al Jubail,no,OEAA,,OEAA,,,https://en.wikipedia.org/wiki/Abu_Ali_Airport,
 5082,OEAB,large_airport,Abha International Airport,18.2404,42.656601,6858,AS,SA,SA-14,Abha,yes,OEAB,AHB,OEAB,,https://abha-airport.com,https://en.wikipedia.org/wiki/Abha_International_Airport,Abha International Airport
 5083,OEAH,medium_airport,Al-Ahsa International Airport,25.285299,49.485199,588,AS,SA,SA-04,Hofuf,yes,OEAH,HOF,OEAH,,,https://en.wikipedia.org/wiki/Al-Ahsa_Domestic_Airport,
 300611,OEAO,medium_airport,Majeed Bin Abdulaziz Airport,26.483333,38.116944,2050,AS,SA,SA-03,Al Ula,yes,OEAO,ULH,OEAO,,,https://en.wikipedia.org/wiki/Prince_Abdul_Majeed_bin_Abdulaziz_Domestic_Airport,
 5084,OEBA,medium_airport,King Saud Bin Abdulaziz (Al Baha) Airport,20.298506,41.636153,5486,AS,SA,SA-11,Al-Baha,yes,OEBA,ABT,OEBA,,,https://en.wikipedia.org/wiki/Al-Baha_Domestic_Airport,Al-Aqiq
 5085,OEBH,medium_airport,Bisha Airport,19.9844,42.620899,3887,AS,SA,SA-14,Bisha,yes,OEBH,BHH,OEBH,,,https://en.wikipedia.org/wiki/Bisha_Domestic_Airport,
+326438,OEBN,small_airport,Thablotin Airport,19.831632,54.022115,403,AS,SA,SA-04,Thabhloten,no,OEBN,,OEBN,,,,
+5086,OEBQ,small_airport,Abqaiq Airport,25.911301,49.591202,229,AS,SA,SA-04,Buqayq,no,OEBQ,,OEBQ,,,https://en.wikipedia.org/wiki/Abqaiq_Airport,
 5087,OEDF,large_airport,King Fahd International Airport,26.471201,49.797901,72,AS,SA,SA-04,Ad Dammam,yes,OEDF,DMM,OEDF,,https://kfia.gov.sa/,https://en.wikipedia.org/wiki/King_Fahd_International_Airport,
-5088,OEDM,medium_airport,King Salman Abdulaziz Airport,24.4499,44.121201,3026,AS,SA,SA-01,Dawadmi,yes,,DWD,OEDM,,,https://en.wikipedia.org/wiki/Dawadmi_Domestic_Airport,Al Dawadmi Airport
+5088,OEDM,medium_airport,King Salman Abdulaziz Airport,24.4499,44.121201,3026,AS,SA,SA-01,Dawadmi,yes,OEDM,DWD,OEDM,,,https://en.wikipedia.org/wiki/Dawadmi_Domestic_Airport,Al Dawadmi Airport
 5089,OEDR,large_airport,King Abdulaziz Air Base,26.2654,50.152,84,AS,SA,SA-04,Dhahran,no,OEDR,DHA,OEDR,,,https://en.wikipedia.org/wiki/King_Abdulaziz_Air_Base,"Dhahran international Airport, Dhahran Air Base, Dhahran Airport, Dhahran Airfield"
 5090,OEGN,medium_airport,Jizan Regional Airport / King Abdullah bin Abdulaziz Airport,16.9011,42.5858,20,AS,SA,SA-09,Jizan,yes,OEGN,GIZ,OEGN,,,https://en.wikipedia.org/wiki/Jizan_Regional_Airport,Gizan
 5091,OEGS,medium_airport,Gassim Airport,26.302799,43.774399,2126,AS,SA,SA-05,Buraidah,yes,OEGS,ELQ,OEGS,,,https://en.wikipedia.org/wiki/Gassim_Regional_Airport,
 5092,OEGT,medium_airport,Gurayat Domestic Airport,31.412413,37.278898,1672,AS,SA,SA-12,Gurayat,yes,OEGT,URY,OEGT,,,https://en.wikipedia.org/wiki/Gurayat_Domestic_Airport,Guriat Airport
 5093,OEHL,medium_airport,Ha'il Airport,27.437901,41.686298,3331,AS,SA,SA-06,Ha'il,yes,OEHL,HAS,OEHL,,,https://en.wikipedia.org/wiki/Ha'il_Regional_Airport,Hail Airport
-5095,OEJB,medium_airport,Jubail Airport,27.039,49.405102,26,AS,SA,SA-04,Jubail,no,,QJB,OEJB,,,https://en.wikipedia.org/wiki/Jubail_Airport,OEJL
+32088,OEHR,small_airport,Haradh Airport,24.09653,49.22432,110,AS,SA,SA-04,Harad,no,OEHR,,OEHR,,,https://en.wikipedia.org/wiki/Haradh_Airport,
+5094,OEHW,small_airport,Hawtah Airport,22.9678,46.899502,2091,AS,SA,SA-01,Hawtah,no,OEHW,,OEHW,,,,
+5096,OEJF,medium_airport,King Faisal Naval Base,21.348101,39.173,7,AS,SA,SA-02,Jeddah,no,OEJF,,OEJF,,,,
 5097,OEJN,large_airport,King Abdulaziz International Airport,21.6796,39.156502,48,AS,SA,SA-02,Jeddah,yes,OEJN,JED,OEJN,,http://www.jed-airport.com/,https://en.wikipedia.org/wiki/King_Abdulaziz_International_Airport,"Mecca, Hajj"
 5098,OEKK,medium_airport,King Khaled Military City Airport,27.9009,45.528198,1352,AS,SA,SA-04,King Khaled Military City,yes,OEKK,KMC,OEKK,,,https://en.wikipedia.org/wiki/King_Khaled_Military_City_Airport,
 5099,OEKM,medium_airport,King Khalid Air Base,18.2973,42.803501,6778,AS,SA,SA-14,Khamis Mushait,no,OEKM,KMX,OEKM,,,https://en.wikipedia.org/wiki/King_Khalid_Air_Base,
 5101,OEMA,large_airport,Prince Mohammad Bin Abdulaziz Airport,24.5534,39.705101,2151,AS,SA,SA-03,Medina,yes,OEMA,MED,OEMA,,http://www.tibahairports.com/en-EN/Pages/Main.aspx,https://en.wikipedia.org/wiki/Prince_Mohammad_Bin_Abdulaziz_Airport,Medinah
 5102,OENG,medium_airport,Najran Domestic Airport,17.611401,44.419201,3982,AS,SA,SA-10,Najran,yes,OENG,EAM,OENG,,,https://en.wikipedia.org/wiki/Najran_Domestic_Airport,
 332512,OENN,medium_airport,Neom Bay Airport,27.927598,35.28874,29,AS,SA,SA-07,Sharma,yes,OENN,NUM,OENN,,,https://en.wikipedia.org/wiki/Neom_Airport,"Neom Bay, Sharma"
-5103,OEPA,medium_airport,Al Qaisumah/Hafr Al Batin Airport,28.335199,46.125099,1174,AS,SA,SA-04,Qaisumah,yes,OEPA,AQI,OEPA,,,https://en.wikipedia.org/wiki/Al_Qaisumah/Hafr_Al_Batin_Airport,Qaisumah Domestic Airport
+349431,OEOM,small_airport,Umm Al Melh Border Guards Airport,19.11176,50.127353,860,AS,SA,SA-10,Umm Al Melh,no,OEOM,,OEOM,,,https://en.wikipedia.org/wiki/Umm_Al_Melh_Border_Guards_Airport,
+5103,OEPA,medium_airport,Al Qaisumah/Hafr Al Batin Airport,28.335199,46.125099,1174,AS,SA,SA-04,Qaisumah,yes,OEPA,AQI,OEPA,,,https://en.wikipedia.org/wiki/Al_Qaisumah/Hafr_Al_Batin_Airport,"HBT, Qaisumah Domestic Airport"
+5104,OEPC,small_airport,Pump Station 3 Airport,25.1745,47.4884,1740,AS,SA,SA-04,Wasea,no,OEPC,,OEPC,,,https://en.wikipedia.org/wiki/Pump_Station_3_Airport,
+5105,OEPF,small_airport,Pump Station 6 Airport,24.7103,44.9645,2530,AS,SA,SA-01,,no,OEPF,,OEPF,,,,
+5106,OEPI,small_airport,Pump Station 9 Airport,24.2761,42.1437,3000,AS,SA,SA-01,,no,OEPI,,OEPI,,,,
+5107,OEPJ,small_airport,Pump Station 10 Airport,24.1073,41.035999,2840,AS,SA,SA-03,,no,OEPJ,,OEPJ,,,,
+5108,OEPK,small_airport,IPSA 3 Airport,27.954201,46.742599,1000,AS,SA,SA-04,Hafar al Batin,no,OEPK,,OEPK,,,https://en.wikipedia.org/wiki/IPSA-3_Airport,
 5109,OEPS,medium_airport,Prince Sultan Air Base,24.0627,47.580502,1651,AS,SA,SA-01,Al Kharj,no,OEPS,AKH,OEPS,,,https://en.wikipedia.org/wiki/Prince_Sultan_Air_Base,OEKH
+5110,OERB,small_airport,Rabigh Airport,22.7026,39.069801,22,AS,SA,SA-02,Rabigh,no,OERB,,OERB,,,,
 5111,OERF,medium_airport,Rafha Domestic Airport,29.626399993896484,43.4906005859375,1474,AS,SA,SA-08,Rafha,yes,OERF,RAH,OERF,,,https://en.wikipedia.org/wiki/Rafha_Domestic_Airport,
 5112,OERK,large_airport,King Khaled International Airport,24.9576,46.698799,2049,AS,SA,SA-01,Riyadh,yes,OERK,RUH,OERK,,https://www.kkia.sa/en/Pages/default.aspx,https://en.wikipedia.org/wiki/King_Khalid_International_Airport,Riyad
+5113,OERM,medium_airport,Ras Mishab Airport,28.079599,48.611,13,AS,SA,SA-04,Al Mishab,no,OERM,,OERM,,,https://en.wikipedia.org/wiki/Ras_Mishab_Airport,
 5114,OERR,medium_airport,Arar Domestic Airport,30.906600952148438,41.13819885253906,1813,AS,SA,SA-08,Arar,yes,OERR,RAE,OERR,,,https://en.wikipedia.org/wiki/Arar_Domestic_Airport,
+5115,OERT,medium_airport,Ras Tanura Airport,26.723101,50.0308,6,AS,SA,SA-04,Ras Tanura,no,OERT,,OERT,,,https://en.wikipedia.org/wiki/Ras_Tanura_Airport,
+5117,OESB,small_airport,Shaibah Airport,22.514781,53.964114,300,AS,SA,SA-04,Shaybah,no,OESB,,OESB,,,https://en.wikipedia.org/wiki/Shaybah_Airport,
 5118,OESH,medium_airport,Sharurah Domestic Airport,17.4669,47.121399,2363,AS,SA,SA-10,Sharurah,yes,OESH,SHW,OESH,,,https://en.wikipedia.org/wiki/Sharurah_Domestic_Airport,
 5119,OESK,medium_airport,Al-Jawf Domestic Airport,29.78510093688965,40.099998474121094,2261,AS,SA,SA-12,Al-Jawf,yes,OESK,AJF,OESK,,,https://en.wikipedia.org/wiki/Al-Jawf_Domestic_Airport,Al Jouf Airport
 5120,OESL,small_airport,As-Sulayyil Airport,20.464701,45.619598,2021,AS,SA,SA-01,As-Sulayyil,no,OESL,SLF,OESL,,,,
 5121,OETB,medium_airport,Tabuk Airport,28.3654,36.6189,2551,AS,SA,SA-07,Tabuk,yes,OETB,TUU,OETB,,,https://en.wikipedia.org/wiki/Tabuk_Regional_Airport,
 5122,OETF,medium_airport,Ta’if Regional Airport,21.483001,40.543442,4848,AS,SA,SA-02,Ta’if,yes,OETF,TIF,OETF,,,https://en.wikipedia.org/wiki/Ta%E2%80%99if_Regional_Airport,Taif Airport
+5123,OETH,small_airport,Thumamah Airport,25.212979,46.640847,1870,AS,SA,SA-01,,no,OETH,,OETH,,,https://en.wikipedia.org/wiki/Thumamah_Airport,OE44
+5124,OETN,medium_airport,Ras Tanajib Airport,27.8678,48.7691,30,AS,SA,SA-04,As Saffaniyah,no,OETN,,OETN,,,https://en.wikipedia.org/wiki/Ras_Tanajib_Airport,
 5125,OETR,medium_airport,Turaif Domestic Airport,31.692188,38.731544,2803,AS,SA,SA-08,Turaif,yes,OETR,TUI,OETR,,,https://en.wikipedia.org/wiki/Turaif_Domestic_Airport,
+5126,OEUD,small_airport,Udhailiyah Airport,25.1511,49.3288,759,AS,SA,SA-04,Udhailiyah,no,OEUD,,OEUD,,,https://en.wikipedia.org/wiki/Udhayliyah_Airport,
+32094,OEUM,small_airport,Ummlejj Airport,25.285833,37.199167,95,AS,SA,SA-07,Umm Lejj,no,OEUM,,OEUM,,,,Umm Lajj
 5127,OEWD,medium_airport,Wadi Al Dawasir Domestic Airport,20.504299,45.1996,2062,AS,SA,SA-01,Wadi Al Dawasir,yes,OEWD,WAE,OEWD,,,https://en.wikipedia.org/wiki/Wadi_al-Dawasir_Domestic_Airport,
 5128,OEWJ,medium_airport,Al Wajh Domestic Airport,26.198601,36.476398,66,AS,SA,SA-07,Al Wajh,yes,OEWJ,EJH,OEWJ,,,https://en.wikipedia.org/wiki/Al_Wajh_Domestic_Airport,"Wedjh, Wejh"
 5129,OEYN,medium_airport,Prince Abdul Mohsin bin Abdulaziz International Airport / Yanbu Airport,24.144199,38.0634,26,AS,SA,SA-03,Yanbu,yes,OEYN,YNB,OEYN,,https://gaca.gov.sa/web/en-gb/airport/prince-abdulmohsin-bin-abdulaziz-airport,https://en.wikipedia.org/wiki/Yanbu_Airport,Yenbo
@@ -6861,7 +6887,10 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 5212,OJAI,large_airport,Queen Alia International Airport,31.7226009369,35.9931983948,2395,AS,JO,JO-AM,Amman,yes,OJAI,AMM,OJAI,,,https://en.wikipedia.org/wiki/Queen_Alia_International_Airport,
 5213,OJAM,medium_airport,Amman Civil (Marka International) Airport,31.9727,35.9916,2555,AS,JO,JO-AM,Amman,yes,OJAM,ADJ,OJAM,,,https://en.wikipedia.org/wiki/Amman_Civil_Airport,King Abdullah Air Base
 5214,OJAQ,medium_airport,Aqaba King Hussein International Airport,29.611600875854492,35.01810073852539,175,AS,JO,JO-AQ,Aqaba,yes,OJAQ,AQJ,OJAQ,,,https://en.wikipedia.org/wiki/Aqaba_Airport,
+5215,OJHF,small_airport,Prince Hassan Air Base,32.160702,37.149399,2220,AS,JO,JO-MA,,no,OJPH,,OJPH,,http://www.rjaf.mil.jo/index.php/en/en/.html,https://en.wikipedia.org/wiki/Prince_Hassan_Air_Base,
+5216,OJHR,small_airport,H4 Air Base,32.5392,38.195,2250,AS,JO,JO-MA,,no,OJHR,,OJHR,,,https://en.wikipedia.org/wiki/H-4_Air_Base,
 5218,OJMF,small_airport,King Hussein Air College,32.3564,36.259201,2240,AS,JO,JO-MA,Mafraq,no,OJMF,OMF,OJMF,,,https://en.wikipedia.org/wiki/King_Hussein_Air_Base,
+3354,OJMS,medium_airport,Muwaffaq Salti Air Base,31.8256,36.782001,1706,AS,JO,JO-AZ,Al Azraq,no,OJMS,,OJMS,,,https://en.wikipedia.org/wiki/Muwaffaq_Salti_Air_Base,"OJ40, Shaheed Mwaffaq, Al Shaheed Muwaffaq Salti Air Base"
 32108,OKAJ,medium_airport,Ahmed Al Jaber Air Base,28.9347991943,47.791900634799994,409,AS,KW,KW-AH,Ahmed Al Jaber AB,no,OKAJ,XIJ,OKAJ,,,https://en.wikipedia.org/wiki/Ahmed_Al_Jaber_Air_Base,
 5220,OKKK,large_airport,Kuwait International Airport,29.226601,47.968899,206,AS,KW,KW-FA,Kuwait City,yes,OKKK,KWI,OKKK,,https://www.kuwaitairport.gov.kw/en/,https://en.wikipedia.org/wiki/Kuwait_International_Airport,"OKBK, Al Mubarak Air Base"
 5222,OLBA,large_airport,Beirut Rafic Hariri International Airport,33.820899963378906,35.488399505615234,87,AS,LB,LB-JL,Beirut,yes,OLBA,BEY,OLBA,,http://www.beirutairport.gov.lb/,https://en.wikipedia.org/wiki/Beirut_Rafic_Hariri_International_Airport,"Chaldea, Beirut Air Base, مطار بيروت رفيق الحريري الدولي"
@@ -7593,7 +7622,8 @@ id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,iso_country
 311046,RVC,small_airport,River Cess Airport and Heliport,5.472469,-9.58546,27,AF,LR,LR-RI,River Cess,no,,RVC,,,,,
 24373,S31,small_airport,Lopez Island Airport,48.4838981628418,-122.93800354003906,209,NA,US,US-WA,Lopez,yes,,LPS,S31,S31,,https://en.wikipedia.org/wiki/Lopez_Island_Airport,
 24380,S60,seaplane_base,Kenmore Air Harbor LLC Seaplane Base,47.754799,-122.259003,14,NA,US,US-WA,Kenmore,yes,,KEH,S60,S60,,https://en.wikipedia.org/wiki/Kenmore_Air_Harbor,
-597259,SA-0094,medium_airport,King Salman Air Base,24.465259,46.659279,,AS,SA,SA-01,Riyadh,no,OERY,,,,,https://en.wikipedia.org/wiki/King_Salman_Air_Base,
+326442,SA-0010,small_airport,Khurais Airport,25.26533,48.178333,,AS,SA,SA-04,Khurais,no,OEKN,,OEKN,,,https://en.wikipedia.org/wiki/Khurais_Airport,
+597259,SA-0094,medium_airport,King Salman Air Base,24.465259,46.659279,,AS,SA,SA-01,Riyadh,no,OESN,,OESN,,,https://en.wikipedia.org/wiki/King_Salman_Air_Base,OERY
 16,SA04,small_airport,Isla Martin Garcia Airport,-34.1821,-58.2469,6,SA,AR,AR-B,Isla Martin Garcia,no,SAAK,,SAAK,MGI,,https://en.wikipedia.org/wiki/Mart%C3%ADn_Garc%C3%ADa_Island_Airport,SAAK
 24,SA14,small_airport,Miramar Airport,-38.2271,-57.8697,42,SA,AR,AR-B,Miramar,no,,MJR,SAEM,IRA,,https://en.wikipedia.org/wiki/Miramar_Airport,SA14
 5764,SAAC,medium_airport,Comodoro Pierrestegui Airport,-31.2969,-57.9966,112,SA,AR,AR-E,Concordia,no,SAAC,COC,SAAC,DIA,,https://en.wikipedia.org/wiki/Comodoro_Pierrestegui_Airport,
