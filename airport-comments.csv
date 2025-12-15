@@ -1,4 +1,7 @@
 "id", "threadRef", "airportRef", "airportIdent", "date", "memberNickname", "subject", "body"
+602590,82703,602587,"US-12821","2025-12-13 15:16:29","ReefShore316","(no subject)","My local flying field known as Aero Modelers Of Perrine (Silver Field)"
+602586,82702,597259,"SA-0094","2025-12-13 14:48:15","Verifly","Recent navigation AIDs have opened","Latest navigation aids recently opened at King Salman Air Base:
+King Salman Air Base is equipped with a 24-hour operational DVOR/TACAN, with the assigned ID as KSN and frequency 112.700 MHz. Runways 02L and 02R are equipped with multiple Instrument Landing Systems, which include a Localizer (LOC) and Glideslope (GP). Two Distance Measuring Equipment units (DME) are also installed, with one co-located with the GP for Runway 02L assigned with ID ""KSND"" and frequency CH48X, and the other co-located with the GP for Runway 02R assigned with ID ""ISND"" and frequency CH56Y."
 602568,82701,311154,"ID-0139","2025-12-12 14:17:05","Nashans08","(no subject)","IATA code FSH"
 602567,82700,523204,"WIBL","2025-12-12 14:15:23","Nashans08","(no subject)","besed on ministry IATA code is RPL"
 602557,82699,42267,"WAOU","2025-12-12 00:15:46","Nashans08","IATA code","based on Kementrian Perhubungan website, IATA code of Sanggu airport is NGG"
