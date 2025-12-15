@@ -1,0 +1,49 @@
+target-version = "py314"
+
+# GitHub recommended
+line-length = 127
+
+# enables E2/E3/W3
+preview = true
+
+# [lint]
+
+# enable these lint checks
+select = [
+    "ALL",
+]
+
+# disable these lint checks
+ignore = [
+    "CPY", # https://github.com/savoirfairelinux/flake8-copyright
+    "D202", # blank-line-after-function
+    "D210", # No whitespaces allowed surrounding docstring text
+    "ERA", # https://github.com/pycqa/eradicate
+
+    # "D203", # exclusive with D211
+    # "D204", # blank-line-before-class
+    # "D205", # missing-blank-line-after-summary
+    # "D212", # exclusive with D213
+    # "D213", # exclusive with D212
+    # "D4", # ???
+    # "DOC201", # docstring-missing-return
+    # "FIX002", # line-contains-todo
+    # "Q000", # flake8-quotes because I prefer 'single' unless f"double"
+    # "T20", # flake8-print
+    # "TD002", # missing-todo-author
+    # "TD003", # missing-todo-link
+]
+
+# [per-file-ignores]
+# "**/tests/**/*.py" = [
+#     "S101", # use of assert
+# ]
+
+[isort]
+combine-as-imports = true
+force-sort-within-sections = true
+force-wrap-aliases = true
+
+[mccabe]
+# default = 10
+max-complexity = 8
